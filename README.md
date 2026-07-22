@@ -88,6 +88,51 @@ cp .env.example .env
    一覧・実行ログの確認や削除は https://claude.ai/code/routines から行う(APIからの削除は不可)。
    即時実行して動作確認したい場合は「Run now」を使う。
 
+<details>
+<summary>実際に使った作成コマンド(RemoteTrigger action: create)</summary>
+
+```json
+{
+  "action": "create",
+  "body": {
+    "name": "news-digest-bot: 記事選定 (3x/day)",
+    "cron_expression": "0 22,3,10 * * *",
+    "enabled": true,
+    "job_config": {
+      "ccr": {
+        "environment_id": "REDACTED_ENVIRONMENT_ID",
+        "session_context": {
+          "model": "claude-sonnet-5",
+          "sources": [
+            {"git_repository": {"url": "https://github.com/toshiki-fukui/news-digest-bot"}}
+          ],
+          "allowed_tools": ["Bash", "Read", "Write", "Edit", "Glob", "Grep", "WebSearch", "WebFetch"]
+        },
+        "events": [
+          {
+            "data": {
+              "uuid": "a9cc6216-f169-429f-a611-130b89ff613f",
+              "session_id": "",
+              "type": "user",
+              "parent_tool_use_id": null,
+              "message": {
+                "role": "user",
+                "content": "あなたはニュースダイジェスト配信システムの記事選定エージェントです。このリポジトリ(news-digest-bot)にチェックアウト済みの状態で起動しています。\n\n## タスク\n1. 現在時刻(JST)を確認し(例: `TZ='Asia/Tokyo' date`)、run_labelを決める(例: \"7/23 07:00\"のように月/日と時刻を含める)。\n2. `sent_history.json` を読み込み、現在時刻から72時間(3日)以上前のエントリは重複防止の対象から除外する(=古いエントリとして扱う)。\n3. WebSearch / WebFetch を使って、Web全体(国内外)からニュースを探索する。\n   - 政治・経済ニュース: 日本国内を中心に重要なものを5件\n   - テックニュース: AI・ソフトウェア・半導体を中心に15件。日本語ソースだけでなく海外の英語ソース(TechCrunch, The Verge, Reuters, Bloomberg, Ars Technicaなど)も積極的に含める\n   - `sent_history.json` の直近3日分に含まれるURLの記事は選ばない(重複配信防止)\n   - 速報性・重要性の高いものを優先する\n4. 選定した記事それぞれについて次の情報を用意する:\n   - title: 記事タイトル(日本語。海外ソースは日本語に翻訳・要約したタイトルにする)\n   - summary: 1〜2文程度の日本語要約\n   - source: メディア名\n   - link: 記事URL\n5. `pending_digest.json` を次の形式で上書きする:\n```json\n{\n  \"run_label\": \"<決めたrun_label>\",\n  \"politics_economy\": [ {\"title\":\"...\",\"summary\":\"...\",\"source\":\"...\",\"link\":\"...\"} /* 5件 */ ],\n  \"tech\": [ {\"title\":\"...\",\"summary\":\"...\",\"source\":\"...\",\"link\":\"...\"} /* 15件 */ ]\n}\n```\n6. `sent_history.json` を更新する: 手順2で除外した古いエントリを削除しつつ、新しく選定した記事のURLを現在のUNIXタイムスタンプ(秒)で追加して保存する。\n7. 変更した `pending_digest.json` と `sent_history.json` を `git add` し、コミットメッセージ `News digest: <run_label>` でコミットし、`main` ブランチに push する。\n\n## 注意事項\n- LINEへの配信はこのエージェントの責務ではない(pending_digest.json を push すると、別のGitHub Actionsワークフローが自動で配信する)。\n- LINE_CHANNEL_ACCESS_TOKEN など配信用の認証情報には一切触れない。\n- 目標件数(政治経済5件・テック15件)の確保に努めるが、質を犠牲にした水増しはしない。\n- 最後に `git log -1` や `git status` で push が成功したことを確認する。"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
+```
+
+`uuid` は `events[].data.uuid` 用に生成した固定値。再作成する場合は新しいv4 UUIDを発行すること。
+既存routineを更新する場合は `trigger_id: "REDACTED_TRIGGER_ID"` を指定して `action: "update"` を呼び出す。
+
+</details>
+
 ### 6. GitHub Actions の設定(配信の自動化)
 
 配信ワークフローは `.github/workflows/send-digest.yml` としてリポジトリに含まれており、
