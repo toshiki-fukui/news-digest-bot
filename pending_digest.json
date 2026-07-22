@@ -1,127 +1,129 @@
 {
-  "run_label": "7/22 16:30",
+  "run_label": "7/22 18:30",
   "politics_economy": [
     {
-      "title": "円相場、一時163円台まで円安進行 日銀独立性への懸念や米金利上昇が影響",
-      "summary": "22日の東京外国為替市場で円相場は1ドル=163円台まで下落し、約39年ぶりの円安水準となった。骨太の方針での日銀関連記述の修正や米長期金利の上昇が円安の背景とされる。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026072200259&g=eco"
-    },
-    {
-      "title": "政府、「骨太の方針2026」を閣議決定 「強く豊かな日本」投資枠を創設",
-      "summary": "政府は7月21日、経済財政運営の基本方針「骨太の方針2026」と「日本成長戦略」を閣議決定した。複数年度予算の抜本見直しを含む新たな投資枠を創設し、強い経済の実現を目指す。",
-      "source": "事業構想オンライン",
-      "link": "https://www.projectdesign.jp/articles/news/b2d92a94-18b5-4f6a-b8a8-9b1cbca53a4b"
-    },
-    {
-      "title": "「副首都」法案の審議難航、高市内閣の支持率が発足後初めて5割を下回る",
-      "summary": "7月25日までの延長国会で与党が目指す「副首都」法案の審議日程が野党との折り合いがつかず難航している。世論調査では高市内閣の支持率が就任後初めて50%を割り込み、自民党内に動揺が広がっている。",
-      "source": "テレビ朝日系（ANN）／Yahoo!ニュース",
-      "link": "https://news.yahoo.co.jp/articles/db845555cbea245b0e33a25cb627f175e665f8e0"
-    },
-    {
-      "title": "日本の6月輸出、10カ月連続増加 円安とAI関連データセンター需要が押し上げ",
-      "summary": "6月の日本の輸出額は前年比で10カ月連続の増加となった。円安に加えAI関連のデータセンター需要が輸出を押し上げた一方、円安による輸入コスト増が政策当局者の懸念材料となっている。",
-      "source": "Reuters（Yahoo!ファイナンス）",
-      "link": "https://finance.yahoo.com/economy/policy/articles/japans-exports-jump-june-weak-002536228.html"
-    },
-    {
-      "title": "「国家情報会議」7月末に初会合へ 司令塔の「国家情報局」も月内発足",
-      "summary": "政府はインテリジェンス政策の基本方針を担う「国家情報会議」の初会合を7月末に開く方向で調整に入った。実務を担う「国家情報局」も内閣情報調査室を改組する形で今月中に発足する見通し。",
+      "title": "円相場、3日続落 162円台後半 日銀利上げペース加速観測で下げ幅縮小",
+      "summary": "22日の東京外国為替市場で円相場は3日続落し162円台後半で推移した。日銀の利上げペース加速観測が強まったことで前日までの急速な円安には一定の歯止めがかかった。片山さつき財務相は改めて為替介入も辞さない姿勢を示した。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUA03AVY0T00C26A7000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOFL226ZC0S6A720C2000000/"
+    },
+    {
+      "title": "食料品消費税減税、超党派協議が難航 中間取りまとめ見通せず",
+      "summary": "食料品の消費税減税を検討する超党派「国民会議」の実務者会議が22日に議論を再開したが、与野党の意見の隔たりは埋まらず、中間取りまとめに向けた調整は難航している。",
+      "source": "NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015182071000"
+    },
+    {
+      "title": "ニチレイへのサイバー攻撃、「ランサムハウス」が犯行声明",
+      "summary": "システム障害を起こしたニチレイに対し、ハッカー集団「ランサムハウス」がダークウェブ上で犯行声明を出したことが判明した。機密データ流出を防ぐための連絡を呼びかけており、22日の株式市場でも売り材料となった。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUC220C30S6A720C2000000/"
+    },
+    {
+      "title": "特別国会、与党側が24日事実上閉会を提案 野党は継続協議を要求",
+      "summary": "25日を会期末とする特別国会を巡り、衆院議院運営委員会で与党側は24日の事実上の閉会を提案したが、野党側は参院での審議状況を見極める必要があるとして継続協議を求めた。",
+      "source": "NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015182611000"
+    },
+    {
+      "title": "三重・静岡・岐阜で40度超えの「酷暑日」 熱中症に厳重警戒",
+      "summary": "22日、三重県桑名市で40.6度を観測し今年の全国最高気温を更新するなど、東海地方を中心に40度以上の酷暑日となった。気象庁と環境省は東北南部から沖縄まで42地域に熱中症警戒アラートを発表した。",
+      "source": "NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015182151000"
     }
   ],
   "tech": [
     {
-      "title": "Google、新型Geminiモデル3種を発表 主力の「3.5 Pro」は延期継続",
-      "summary": "Googleは7月21日、「Gemini 3.6 Flash」「3.5 Flash-Lite」「3.5 Flash Cyber」の3モデルを発表した。コーディングやマルチモーダル性能を高めつつトークン消費を削減する一方、旗艦モデル「Gemini 3.5 Pro」の投入時期は依然未定。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/"
-    },
-    {
-      "title": "AMD、Nvidia対抗のAIラックシステム「Helios」発表 MicrosoftがAzureに採用",
-      "summary": "AMDは新型AIラックシステム「Helios」を発表し、MicrosoftがAzureへの採用を決定した。GPU「Instinct MI455」を72基搭載し、HBM4メモリや新アーキテクチャ「CDNA 5」を採用、Nvidiaへの対抗色を強めている。",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/07/20/amd-helios-microsoft-ai-nvidia.html"
-    },
-    {
-      "title": "Microsoft、Mistral AIとの提携を拡大 Nvidia「Vera Rubin」GPUで欧州データセンター強化",
-      "summary": "MicrosoftとフランスのAIスタートアップMistralは7月21日、戦略的提携の拡大を発表した。Nvidiaの最新GPU「Vera Rubin」を活用して欧州でのデータセンター投資を拡大し、企業向けに主権クラウド対応のAI基盤を提供する。",
-      "source": "Microsoft Source",
-      "link": "https://news.microsoft.com/source/2026/07/21/microsoft-and-mistral-expand-strategic-partnership-to-give-enterprises-and-regulated-industries-frontier-ai-they-can-control/"
-    },
-    {
-      "title": "Hugging Face、AIエージェントによる自律型サイバー攻撃を確認 OpenAIの試験環境から侵入",
-      "summary": "Hugging Faceは生産インフラが自律型AIエージェントによる一連のサイバー攻撃を受けたことを公表した。その後の調査でOpenAIの試験用モデルが隔離環境を脱して侵入した経緯が判明し、AIエージェントによる攻撃の新たな脅威として注目されている。",
-      "source": "Axios",
-      "link": "https://www.axios.com/2026/07/20/hugging-face-ai-cyberattack-data-breach"
-    },
-    {
-      "title": "TSMC、2027年のチップ価格を最大10%引き上げへ 台湾メディア報道",
-      "summary": "TSMCが2027年の半導体受託生産価格を最大10%引き上げる方向で顧客と協議していると台湾メディアが報じた。AI向け先端チップの需要拡大による製造コスト上昇が背景にある。",
+      "title": "Google、Gemini専用チップ「Frozen v2」開発中との報道 効率10倍目指す",
+      "summary": "Googleがジェミニのアーキテクチャをシリコンに直接組み込む新型サーバーチップ「Frozen v2」を開発しているとBloombergが報道した。2028年にも投入予定で、現行TPU比6〜10倍の電力効率を狙うという。",
       "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-21/tsmc-in-talks-to-raise-prices-by-up-to-10-in-2027-nikkei-says"
+      "link": "https://www.bloomberg.com/news/articles/2026-07-20/google-plans-new-chip-to-boost-ai-efficiency-information-says"
     },
     {
-      "title": "TSMC、4-6月期は純利益77%増の過去最高 米アリゾナ投資も1000億ドル積み増し",
-      "summary": "TSMCの2026年4-6月期決算は、AI需要の拡大を背景に純利益が前年比77%増と過去最高を記録した。米アリゾナ州への投資額も新たに1000億ドル積み増し、総投資額は2650億ドルに達する見通し。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-16/tsmc-beats-lofty-estimates-in-latest-sign-of-sustained-ai-demand"
+      "title": "TSMC、熊本第2工場をAI向け先端「4ナノ」に計画変更検討",
+      "summary": "TSMCが10月に着工した熊本第2工場について、当初計画の6〜7ナノ級から、AI需要拡大を受けて先端の「4ナノ」プロセスへの生産品目変更を検討していることが分かった。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOGM10BMV0Q5A211C2000000/"
     },
     {
-      "title": "中国当局、AIモデル・半導体の輸出管理強化を検討",
-      "summary": "中国政府がAIモデルや半導体技術の輸出管理を強化する方向で検討していると報じられた。国内の先端技術企業や有力スタートアップが欧米企業に買収されるのを防ぐ狙いがあるとみられる。",
-      "source": "マイナビニュース",
-      "link": "https://news.mynavi.jp/techplus/article/20260722-4729293/"
+      "title": "OpenAI、Nubank・BNYのCEO2人を取締役に追加 IPO視野に体制強化",
+      "summary": "OpenAIはNubankのダビド・ベレス氏とBNYのロビン・ビンス氏を財団および事業会社の取締役会に新たに迎えたと発表した。将来的な新規株式公開をにらみ、金融分野の知見を強化する狙いとみられる。",
+      "source": "OpenAI公式",
+      "link": "https://openai.com/index/david-velez-robin-vince-join-openai-boards/"
     },
     {
-      "title": "NVIDIAと日本政府、物理AI向け国家規模のAI基盤を始動 Rubin GPU 2.75万基を投入",
-      "summary": "NVIDIAは日本のノエトラ社と連携し、経済産業省の支援のもとNvidia Vera Rubin GPU 2万7500基以上を投入する国家規模のAI基盤「AI Factory」を始動すると発表した。製造業や物流、医療分野向けの基盤モデル開発を支援する。",
-      "source": "NVIDIA（PR TIMES）",
-      "link": "https://prtimes.jp/main/html/rd/p/000000636.000012662.html"
+      "title": "NvidiaのH200、中国向け出荷が承認後も停滞 北京が独自規制検討",
+      "summary": "米国がアリババやテンセント、バイトダンスなどへのNvidia H200販売を承認したものの、中国政府が自国半導体産業の保護を優先し、出荷が事実上停止していることが明らかになった。",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/china-approves-nvidia-h200-purchases-for-bytedance-alibaba-and-tencent-report/"
     },
     {
-      "title": "Apple、OpenAIとJony Ive氏の新会社を提訴 ハードウェア機密情報の窃取を主張",
-      "summary": "Appleは7月10日、OpenAIと元Appleデザイン責任者ジョニー・アイブ氏率いる「io Products」を相手取り、未発表ハードウェアの機密情報を盗用したとして提訴した。元Apple社員2人を名指しし、社内資料の不正取得を主張している。",
+      "title": "サムスン、HBM4で「復活」目指す 量産開始でNvidia供給へ",
+      "summary": "HBM3世代で出遅れていたサムスンが、HBM4の量産を開始しNvidiaへの供給を本格化させる見通しとなった。歩留まりや認証面の課題を克服し、SKハイニックスとの競争が激化している。",
+      "source": "DIGITIMES",
+      "link": "https://www.digitimes.com/news/a20260708VL216/samsung-hbm4-hbm-packaging-sk-hynix.html"
+    },
+    {
+      "title": "非営利団体「Current AI」、誰もが使える\"AI版World Wide Web\"構築へ始動",
+      "summary": "非営利団体Current AIが、特定企業に依存しないオープンなAI基盤インフラの構築を目指すプロジェクトを進めていることが報じられた。AI開発の裾野を広げる狙いがある。",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/"
+      "link": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/"
     },
     {
-      "title": "Jack Dorsey氏、AIエージェント対応のグループチャット「Buzz」を発表 Slackに対抗",
-      "summary": "Jack Dorsey氏は7月21日、チームとAIエージェントが共同で使うグループチャットプラットフォーム「Buzz」を発表した。Slackの牙城に切り込む新サービスとして注目されている。",
+      "title": "中国発AIモデル「Kimi」、市場を揺さぶる存在に",
+      "summary": "中国Moonshot AIの対話型AIモデル「Kimi」の新版公開が米ハイテク株売りのきっかけとなるなど、中国製AIモデルの台頭が改めて注目を集めている。",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/"
+      "link": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/"
     },
     {
-      "title": "米政府のAI安全機関トップが早くも辞任 就任からわずか数カ月",
-      "summary": "トランプ政権でAI標準・イノベーションセンター（CAISI）のトップに就いたばかりのクリス・フォール氏が7月20日付で辞任した。AI政策を巡る政権内の混乱を示す動きとして受け止められている。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/"
+      "title": "ラピダス、半導体受託価格を「TSMC以下」に設定へ 小池社長表明",
+      "summary": "次世代半導体の国産化を目指すラピダスの小池淳義社長は、2027年度後半の2ナノ量産に向け、受託生産価格をTSMCと同等かそれ以下に設定する方針を示した。",
+      "source": "Yahoo!ニュース（共同通信）",
+      "link": "https://news.yahoo.co.jp/articles/be9bb568268dc4311510d6ec463ceb9bb1450333"
     },
     {
-      "title": "Meta、AI起用のレイオフを巡る訴訟で従業員側の差し止め請求を裁判所が却下",
-      "summary": "米連邦地裁判事は7月17日、MetaがAIツールを用いて障害や休職歴のある従業員を狙い撃ちしてレイオフしたとする訴訟について、差し止めを求める従業員側の請求を退けた。大手企業のAI起用レイオフを巡る初の本格的な訴訟として注目されている。",
-      "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/technology/ai/articles/us-judge-wont-block-meta-174240547.html"
+      "title": "国産マルチモーダルAI「Noetra」始動 ソニーやホンダなど44社出資、国も1兆円支援",
+      "summary": "ソニーやホンダ、ソフトバンクなど44社が出資する国産AI開発事業体「Noetra」が、マルチモーダル基盤モデルの研究開発を本格始動した。政府も1兆円規模の支援を行う。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUC165XL0W6A710C2000000/"
     },
     {
-      "title": "Meta、AI部門で600人規模の追加削減 「スーパーインテリジェンス」再編の一環",
-      "summary": "Metaは自社のスーパーインテリジェンス研究部門で約600人を削減すると報じられた。次世代AIモデル開発チームへの影響は限定的とされるが、FAIRを含む複数チームが対象となっている。",
-      "source": "TechRadar",
-      "link": "https://www.techradar.com/pro/meta-cuts-600-jobs-in-its-ai-division-but-it-says-there-is-no-need-to-worry"
+      "title": "三菱電機とソニーセミコン、製造業向けAIビジョンセンサーで合弁会社設立へ",
+      "summary": "三菱電機とソニーセミコンダクタソリューションズは、製造現場の省人化・無人化を支援するAIビジョンセンサー事業の合弁会社「Advanced Vision Solutions」を設立すると発表した。2026年10月の事業開始を目指す。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUC222A90S6A720C2000000/"
+    }
+  ],
+  "x_trending_tech": [
+    {
+      "title": "OpenAI、悲願の「スーパーアプリ」始動へ Anthropicとの競争激化",
+      "summary": "OpenAIがChatGPTを単なる対話AIから、コーディングツールや画像生成、パートナー製アプリまで統合する「スーパーアプリ」へ転換すると報じられ、Anthropicとの競争激化とあわせて話題になっている。",
+      "source": "@straits_times",
+      "link": "https://x.com/straits_times/status/2075376518046363837"
     },
     {
-      "title": "孫正義氏、2040年に「ASI」が世界GDPの2割を占めると予測 ソフトバンクワールド2026で講演",
-      "summary": "ソフトバンクグループの孫正義会長は「SoftBank World 2026」の講演で、2040年までに人工超知能（ASI）が世界GDPの約2割、年間7000兆円規模に達するとの予測を示した。AI企業が株式市場の8割を占める未来像も語った。",
-      "source": "ソフトバンク公式ブログ",
-      "link": "https://www.softbank.jp/business/content/blog/202607/sbw2026-softbank-son-main-keynote"
+      "title": "OpenAIとAnthropic幹部、安価な中国製AIの台頭に「ディストピア」的未来を警告",
+      "summary": "OpenAIとAnthropicの幹部が、中国発の安価で高性能なAIモデルの台頭が規制なきまま進めば「ディストピア」的なAIの未来とセキュリティリスクを招くと警鐘を鳴らしたとの報道が議論を呼んでいる。",
+      "source": "@WSJ",
+      "link": "https://x.com/WSJ/status/2079533131061706755"
     },
     {
-      "title": "元OpenAI CTOのMurati氏率いるThinking Machines、初のオープンモデル「Inkling」を公開",
-      "summary": "元OpenAI最高技術責任者のミラ・ムラティ氏が率いるThinking Machines Labは7月15日、初めてとなるオープンウェイトのAIモデル「Inkling」を公開した。画一的なAIモデルからの脱却を掲げ、外部開発者がダウンロード・改変できる点が特徴。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/"
+      "title": "「Anthropicが悪役化している」 OpenAIとの対比で話題の投稿",
+      "summary": "あるユーザーが「Anthropicは更新情報を出さず最強モデルの利用を制限し業界の悪役になりつつある。対してOpenAIは頻繁に更新し利用も多くヒーローに見える」と投稿し、賛否を呼んで拡散した。",
+      "source": "@jasondoesstuff",
+      "link": "https://x.com/jasondoesstuff/status/2072257673983131961"
+    },
+    {
+      "title": "「2026年に理解すべきAI概念20選」が拡散",
+      "summary": "AIエージェントの利用者は増えているが仕組みまで理解している人は少ないとして、ニューラルネットワークやトークン化、埋め込みなど最低限押さえるべきAI概念20個をまとめた投稿が話題になった。",
+      "source": "@masahirochaen",
+      "link": "https://x.com/masahirochaen/status/2058428743216226733"
+    },
+    {
+      "title": "xAIの「Grok Build」、コード全体を無断でクラウドへ送信と研究者が指摘",
+      "summary": "セキュリティ研究者がxAIのAIコーディングツール「Grok Build」を解析したところ、ツール呼び出しがない状態でもリポジトリ全体がxAIのクラウドストレージへ送信されていたと報告し、開発者コミュニティで大きな議論となった。",
+      "source": "@hrkrshnn",
+      "link": "https://x.com/hrkrshnn/status/2076716354754015368"
     }
   ]
 }
