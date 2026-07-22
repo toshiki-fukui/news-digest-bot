@@ -9,6 +9,26 @@
 
 ## 仕組み(2段構成)
 
+```mermaid
+flowchart TD
+    subgraph Routine["Claude Code routine (claude.ai) — 1日3回 JST 7:00/12:00/19:00"]
+        A[cronトリガー] --> B["WebSearch / WebFetch<br/>国内外のニュースを探索"]
+        B --> C["Sonnetが選定<br/>政治経済5件 + テック15件"]
+        C --> D["sent_history.json と照合し<br/>直近3日の重複記事を除外"]
+        D --> E["pending_digest.json / sent_history.json を更新"]
+    end
+
+    E -->|git commit & push| F[("GitHub repo<br/>news-digest-bot (main)")]
+
+    subgraph Actions["GitHub Actions"]
+        F -->|"push trigger<br/>path: pending_digest.json"| G["send-digest.yml"]
+        G --> H["main.py が pending_digest.json を読み込み"]
+    end
+
+    H -->|"LINE_CHANNEL_ACCESS_TOKEN<br/>(GitHub Secrets)"| I["LINE Messaging API<br/>Broadcast"]
+    I --> J(["LINE 友だち全員"])
+```
+
 1. **記事選定 — Claude Code routine**
    PCの起動状態に関係なくクラウド上で1日3回起動し、Web検索(WebSearch/WebFetch)で
    国内外のニュースを探索。Sonnetが政治経済5件・テック15件を選び、要約とあわせて
