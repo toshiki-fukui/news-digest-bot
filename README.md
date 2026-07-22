@@ -1,11 +1,25 @@
 # ニュースダイジェスト配信bot
 
-1日4回、RSSフィードから最新ニュースを集めてLINEに配信します。
+1日3回、Web全体(海外含む)を検索してニュースを選び、LINEに配信します。
 
-- 政治・経済ニュース: 5件 (NHKニュース 政治/経済)
-- テック系ニュース: 15件 (AI・ソフトウェア・半導体を中心にキーワードで優先度付け)
+- 政治・経済ニュース: 5件
+- テック系ニュース: 15件 (AI・ソフトウェア・半導体を中心に、海外ソースも含めて選定)
 - 合計 約20件/回
 - 直近3日以内に配信済みの記事は重複配信しない (`sent_history.json` で管理)
+
+## 仕組み(2段構成)
+
+1. **記事選定 — Claude Code routine**
+   PCの起動状態に関係なくクラウド上で1日3回起動し、Web検索(WebSearch/WebFetch)で
+   国内外のニュースを探索。Sonnetが政治経済5件・テック15件を選び、要約とあわせて
+   `pending_digest.json` に書き出し、`sent_history.json`(重複防止用の配信済みURL履歴)
+   とともにこのリポジトリへコミット&プッシュする。
+
+2. **配信 — GitHub Actions**
+   `pending_digest.json` の変更をトリガーに `.github/workflows/send-digest.yml` が起動し、
+   `LINE_CHANNEL_ACCESS_TOKEN`(GitHub Secretsで管理)を使ってLINEへ配信する。
+
+この分離により、LINEのトークンはGitHub Secretsの外に一切出ない。
 
 ## セットアップ
 
@@ -28,39 +42,35 @@ LINE Notifyは2025年3月末に終了したため、LINE Messaging APIの「Broa
 
 ### 3. トークンの設定
 
+ローカルでの動作確認用:
+
 ```bash
 cp .env.example .env
 # .env を編集して LINE_CHANNEL_ACCESS_TOKEN に発行したトークンを貼り付け
 ```
 
+本番配信用(GitHub Actions): リポジトリの Settings → Secrets and variables → Actions で
+`LINE_CHANNEL_ACCESS_TOKEN` を登録(`gh secret set` でも可)。
+
 ### 4. 動作確認
 
 ```bash
-# LINEには送らず内容を確認するだけ
+# pending_digest.json の内容を確認するだけ(LINEには送らない)
 .venv/bin/python3 main.py --dry-run
 
 # 実際にLINEへ配信
 .venv/bin/python3 main.py
 ```
 
-## 配信対象フィードの調整
+## データファイル
 
-`config.py` の `FEEDS` にRSS URLを追加/削除できます。テック記事の優先キーワードは `TECH_KEYWORDS` で調整できます。
+- `pending_digest.json` — routineが書き出す配信対象記事(選定のたびに上書き)
+- `sent_history.json` — 配信済み記事URLと配信時刻(直近3日分)。重複配信を防ぐためroutineが管理する。
 
-## 1日4回の自動実行 (GitHub Actions)
+## 自動実行
 
-`.github/workflows/news-digest.yml` がGitHub Actions上でJST 7:00 / 12:00 / 18:00 / 22:00に実行されるよう設定されています。PCを起動していなくても配信されます。
+- **記事選定**: Claude Code routine(JST 7:00 / 12:00 / 19:00、Sonnet + Web検索)
+- **LINE配信**: GitHub Actions(`pending_digest.json` へのpushをトリガーに自動実行)
 
-- 実行時刻を変えたい場合は、ワークフロー内の `cron` (UTC) を編集してください。JST = UTC+9です。
-- 重複配信を避けるための `sent_history.json` は、実行のたびにActionsが自動でコミット&プッシュして更新します。
-- GitHub Actionsの無料枠(privateリポジトリで月2,000分)で十分収まる軽量な処理です。
-
-### 必要なSecrets設定
-
-リポジトリの Settings → Secrets and variables → Actions で以下を登録してください(CLIから設定済みの場合は不要):
-
-- `LINE_CHANNEL_ACCESS_TOKEN`: LINE Messaging APIのチャネルアクセストークン(長期)
-
-### 手動実行
-
-GitHubリポジトリの「Actions」タブ → 「News Digest」ワークフロー → 「Run workflow」で、スケジュールを待たずに即時実行できます。
+手動でテストしたい場合は、GitHubリポジトリの「Actions」タブ → 「Send News Digest」→
+「Run workflow」で即時実行できます(直近の `pending_digest.json` の内容を再送信します)。
