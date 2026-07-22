@@ -62,6 +62,46 @@ cp .env.example .env
 .venv/bin/python3 main.py
 ```
 
+### 5. Claude Code routine の設定(記事選定の自動化)
+
+記事選定はローカルのcronではなく、[claude.ai](https://claude.ai/code/routines) 上のクラウドAgent(routine)が
+1日3回(JST 7:00 / 12:00 / 19:00)起動して行う。
+
+1. **GitHub連携を済ませる**
+   claude.ai の GitHub連携は「OAuth認可(Authorized)」と「GitHub Appのインストール(Installed)」の
+   2段階になっている。`github.com/settings/applications` の Authorized OAuth Apps には出ているのに
+   `github.com/settings/installations` の Installed GitHub Apps に出てこない場合、インストールが
+   完了していない(認可ポップアップだけ閉じてしまった等)。その場合は claude.ai 側のGitHub連携設定
+   から再接続し、OAuth許可の後に出てくる **Install/Configure画面まで進めて**、対象リポジトリ
+   (`news-digest-bot`)を明示的に選択する必要がある。
+2. **routineを作成する**
+   Claude Codeの `/schedule` コマンド(または https://claude.ai/code/routines の「New routine」)から、
+   以下の内容で作成する。
+   - リポジトリ: `https://github.com/toshiki-fukui/news-digest-bot`
+   - モデル: `claude-sonnet-5`
+   - 許可ツール: `Bash, Read, Write, Edit, Glob, Grep, WebSearch, WebFetch`
+   - cron: `0 22,3,10 * * *`(UTC) = JST 7:00 / 12:00 / 19:00 毎日
+   - プロンプト: WebSearch/WebFetchでニュースを探索し、政治経済5件・テック15件を選定して
+     `pending_digest.json` を書き出し、`sent_history.json`(直近3日分の重複防止履歴)を更新して
+     `main` ブランチへコミット&プッシュする、という内容(詳細は作成済みroutineの設定を参照)。
+3. **routineの確認・編集・削除**
+   一覧・実行ログの確認や削除は https://claude.ai/code/routines から行う(APIからの削除は不可)。
+   即時実行して動作確認したい場合は「Run now」を使う。
+
+### 6. GitHub Actions の設定(配信の自動化)
+
+配信ワークフローは `.github/workflows/send-digest.yml` としてリポジトリに含まれており、
+`pending_digest.json` の変更をpushしたタイミングで自動的に起動する(追加設定は不要)。
+セットアップ時に必要なのは以下のSecret登録のみ。
+
+```bash
+gh secret set LINE_CHANNEL_ACCESS_TOKEN --body "<発行したチャネルアクセストークン>"
+```
+
+もしくはGitHubリポジトリの Settings → Secrets and variables → Actions から手動で登録してもよい。
+登録後は、GitHubの「Actions」タブ → 「Send News Digest」→「Run workflow」から手動実行して
+動作確認できる(直近の `pending_digest.json` の内容が再送信される)。
+
 ## データファイル
 
 - `pending_digest.json` — routineが書き出す配信対象記事(選定のたびに上書き)
