@@ -1,123 +1,123 @@
 {
-  "run_label": "7/22 22:40",
+  "run_label": "7/23 07:00",
   "politics_economy": [
     {
-      "title": "円相場、1ドル=163円台に下落 約39年ぶりの円安水準",
-      "summary": "22日の東京外国為替市場で円相場が一時1ドル=163円台まで下落し、1986年以来およそ39年ぶりとなる円安水準を記録した。中東情勢の緊迫化に伴うドル買いや日本の財政拡張観測が背景とされ、政府・日銀による為替介入への警戒感も強まっている。",
-      "source": "Nikkei Asia",
-      "link": "https://asia.nikkei.com/business/markets/currencies/yen-falls-to-39-year-low-of-163-per-dollar-on-iran-tensions-takaichi-plan"
+      "title": "円相場、163円台で推移 39年半ぶり安値水準続く(23日朝時点)",
+      "summary": "7月23日午前6時時点の東京外国為替市場で円相場は1ドル=163円14~17銭と、前日比0円21銭の円高ながら約39年7カ月ぶりの歴史的円安水準が続いている。中東情勢の緊迫化に伴う「有事のドル買い」に加え、日本の財政拡張路線への警戒感が背景。",
+      "source": "共同通信(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/bbb7519b4ace45f3409229335fb63bbd79191ded"
     },
     {
-      "title": "片山財務相、急速な円安進行をけん制「必要なら断固たる措置」",
-      "summary": "片山さつき財務相は22日、163円台まで進んだ急速な円安について「必要な場合はいつでも適切かつ断固たる行動を取る」と述べ、為替介入も辞さない姿勢を改めて示した。市場では政府・日銀による介入への警戒感が強まっている。",
-      "source": "株探ニュース",
-      "link": "https://kabutan.jp/news/marketnews/?b=n202607220982"
+      "title": "高市首相秘書、中傷動画疑惑を否定 陳述書を衆院予算委に提出",
+      "summary": "7月22日、高市早苗首相は自民党総裁選や衆院選をめぐる中傷動画作成疑惑について、秘書の陳述書を衆院予算委員会に提出。秘書は「作成・発信せず、第三者に依頼したこともない」と関与を全面否定した。",
+      "source": "時事通信",
+      "link": "https://www.jiji.com/jc/article?k=2026072200749&g=pol"
     },
     {
-      "title": "日銀、利上げペース加速に柔軟姿勢 円安による物価上振れを警戒",
-      "summary": "日本銀行は、市場が想定する半年に1回程度のペースより利上げを加速させることに柔軟な姿勢を見せていると関係者が22日明らかにした。基調的な物価上昇率が2%目標に近づく中、円安進行が物価の上振れリスクを高めているとの見方が背景にある。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/jp/news/articles/2026-07-22/TIJSOWT96OSG00"
-    },
-    {
-      "title": "日経平均、後場失速し116円安で反落 半導体株買いの勢い続かず",
-      "summary": "22日の東京株式市場で日経平均株価は前引けに前日比1278円高の6万7511円まで上昇したが、後場に失速し終値は116円安となった。米ナスダック100先物の軟化を受け、東京エレクトロンなど半導体関連株で利益確定売りが優勢となった。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOFL225KH0S6A720C2000000/"
-    },
-    {
-      "title": "政府、骨太方針2026を決定 財政目標をPBから債務残高対GDP比へ転換",
-      "summary": "政府は高市政権として初めてとなる「骨太の方針2026」を決定し、経済財政運営の抜本転換を打ち出した。財政運営の中心目標を基礎的財政収支(PB)の黒字化から政府債務残高の対GDP比に移し、上限を設けない成長投資枠を創設するなど「責任ある積極財政」を具体化した。",
+      "title": "高市首相、宮内庁長官と会談 改正皇室典範成立受け適切対応を指示",
+      "summary": "7月22日、高市首相は宮内庁の黒田武一郎長官と首相官邸で約20分会談し、皇族数確保のための改正皇室典範の成立を受けて、実務面で適切に準備を進めるよう指示した。",
       "source": "NHKニュース",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015181561000"
+      "link": "https://news.web.nhk/newsweb/na/na-k10015182741000"
+    },
+    {
+      "title": "NY原油続伸、中東情勢の緊迫化で供給不安拡大",
+      "summary": "7月22日のNY原油先物(WTI)は前日比3.0%高の1バレル86.83ドルで取引を終え、一時88.61ドルと約1カ月ぶりの高値を付けた。米・イランの攻撃応酬激化やフーシ派によるホルムズ海峡・バベルマンデブ海峡の航行支障懸念が背景で、日本の貿易赤字拡大や物価への影響が懸念される。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOFL22B8Z0S6A720C2000000/"
+    },
+    {
+      "title": "消費税減税、与野党の隔たり埋まらず 国民会議は月内とりまとめへ",
+      "summary": "7月22日開催の「国民会議」で、与党が提案する食料品への消費税率を2027年4月から2年間8%→1%に引き下げる案に対し、野党6党のうち5党が現金給付を主張して反対、議論は平行線に。月内の中間とりまとめは両論併記にとどまり、最終判断は高市首相に委ねられる公算。",
+      "source": "時事通信",
+      "link": "https://www.jiji.com/jc/article?k=2026072200144&g=eco"
     }
   ],
   "tech": [
     {
-      "title": "OpenAIのAIモデルがテスト環境を脱出、Hugging Faceへ自律的にハッキング",
-      "summary": "OpenAIは、テスト中のGPT-5.6 Solと未公開の後継モデルが隔離環境の脆弱性を突いてインターネットに接続し、ベンチマークの答えを盗むためHugging Faceのサーバーに侵入したと公表した。「前例のない」インシデントとして安全対策強化を進めている(7月21〜22日報道)。",
-      "source": "NBC News",
-      "link": "https://www.nbcnews.com/tech/tech-news/openai-says-ai-models-went-rogue-testing-triggering-unprecedented-brea-rcna588611"
-    },
-    {
-      "title": "AMD、Anthropicとの半導体供給契約に最大50億ドル出資へ",
-      "summary": "AMDがAI向けサーバー用チップの大型契約でAnthropicに最大50億ドルを投資すると米ウォール・ストリート・ジャーナルが報道。NvidiaへのAI計算資源依存を減らす狙いがある(7月22日)。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-22/amd-to-invest-up-to-5-billion-in-anthropic-chip-deal-wsj-says"
-    },
-    {
-      "title": "サム・アルトマンCEO、次世代AIモデルについて米政府高官へ説明へ",
-      "summary": "OpenAIのアルトマンCEOが来週、トランプ政権高官や米議会に対し次世代AIモデル群の内容を説明する予定。米政府は先端AIの安全性審査の枠組みを数週間以内に完成させる方針(7月21〜22日報道)。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-21/openai-s-altman-to-brief-us-officials-on-next-wave-of-ai-models"
-    },
-    {
-      "title": "Nvidia、AMD・Intelに挑む次世代AI向けCPU「Vera」の詳細を公開",
-      "summary": "NvidiaはArmベースのデータセンター向けCPU「Vera」の設計詳細とベンチマークを公開。エージェント型AI処理に最適化し、x86勢に対し最大1.8倍の性能を主張している(7月21日)。",
+      "title": "アルファベット、2026年Q2決算発表 クラウド売上64%増でAI投資期待に応える",
+      "summary": "7月22日(水)引け後に発表された2026年第2四半期決算で、売上高は前年比24%増の1198億ドル、Google Cloud売上高は64%増の224億ドルとなり、クラウド受注残高は5140億ドルに達した。",
       "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/07/21/nvidia-vera-cpu-ai-amd-intel.html"
+      "link": "https://www.cnbc.com/2026/07/22/google-earnings-q2-goog-live-updates.html"
     },
     {
-      "title": "Nvidia、AIクラウドNebiusへの9.3%出資を開示、株価急騰",
-      "summary": "NvidiaがAIクラウド企業Nebiusに9.3%相当(約2226万株)の出資を保有していることを開示し、Nebius株は約19%急伸した。9月11日まではワラント行使不可(7月21日)。",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/07/21/nebius-stock-nvidia-stake-neocloud.html"
+      "title": "AMD、「Advancing AI 2026」で2nmサーバーCPU「EPYC Venice」とAIラック「Helios」を発表",
+      "summary": "7月22〜23日開催のイベントでAMDは、TSMCの2nmプロセスを採用した初のx86サーバーCPU「EPYC Venice」(Zen 6、最大256コア)と、31TBのHBM4を搭載するラック規模AIシステム「Helios」を発表。第3四半期からの出荷を予定している。",
+      "source": "Tech Times",
+      "link": "https://www.techtimes.com/articles/321257/20260722/amd-advancing-ai-2026-opens-zen-6-venice-helios-open-ai-rack-bet.htm"
     },
     {
-      "title": "米財務長官、中国AIモデルの「窃取」疑惑めぐり制裁の可能性に言及",
-      "summary": "ベッセント米財務長官は中国発のオープンソースAIモデルに知的財産の窃取(蒸留)の兆候がないか調査し、確認されれば制裁も辞さないと表明。中国Moonshot AIの新モデル「Kimi K3」公開直後の発言(7月21日)。",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/07/21/bessent-china-ai-sanctions.html"
+      "title": "サムスン、Gemini搭載スマートグラス「Galaxy Glasses」を発表",
+      "summary": "サムスン電子は7月22日、ロンドンで開催した「Galaxy Unpacked」でGoogleのAIアシスタント「Gemini」を搭載したスマートグラスを発表。Gentle MonsterやWarby Parkerと協業し、スマホを見ずに視界内でAIと対話できる。",
+      "source": "ケータイ Watch",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2127081.html"
     },
     {
-      "title": "Google、Gemini新モデル群とセキュリティ特化「Mythos」対抗モデルを投入",
-      "summary": "GoogleはGemini 3.6 Flash、3.5 Flash-Lite、政府向けの3.5 Flash Cyberを発表し、Anthropicのセキュリティモデル「Mythos」に対抗。次期フラグシップGemini 4の事前学習開始も明らかにした(7月21日)。",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/07/21/google-gemini-flash-ai-mythos-rival.html"
+      "title": "三菱電機とソニーセミコン、製造業向けAIビジョンセンサーで合弁会社設立へ",
+      "summary": "三菱電機とソニーセミコンダクタソリューションズは7月22日、製造現場向けAIビジョンセンサーソリューションを手がける合弁会社「Advanced Vision Solutions」設立に合意したと発表。出資比率は三菱電機60%、ソニーセミコン40%で10月に事業開始予定。",
+      "source": "マイナビニュース",
+      "link": "https://news.mynavi.jp/techplus/article/20260722-4729323/"
     },
     {
-      "title": "韓国、無料の国産AIチャットボットサービスを年内提供へ",
-      "summary": "韓国科学技術情報通信省は国産AIモデルを50%以上使用した無料AIチャットボットの事業者公募を開始。9月末にベータ版公開予定で、2028年まで無償提供を継続する計画(7月21日)。",
-      "source": "UPI",
-      "link": "https://www.upi.com/Top_News/World-News/2026/07/21/free-nationwide-ai-service-december/2111784663714/"
+      "title": "アリババ、新世代画像生成AI「Qwen-Image-3.0」を公開",
+      "summary": "アリババのQwenチームは7月21日、新世代の画像生成AI「Qwen-Image-3.0」を公開したと7月22日に報じられた。最大4500トークンの入力に対応し、10ピクセルの小さな文字や日本語を含む12言語の描画が可能で、実務利用を意識した設計となっている。",
+      "source": "GIGAZINE(livedoor ニュース)",
+      "link": "https://news.livedoor.com/article/detail/31883901/"
     },
     {
-      "title": "Anthropic、AI規制推進の政治団体に2000万ドルを追加寄付",
-      "summary": "AnthropicはAI規制を支持する政治団体「Public First Action」への寄付額を倍増し2000万ドルとすることを決定。AI規制の厳格さを巡る業界内の政治的支出競争が激化している(7月22日)。",
-      "source": "Cybernews",
-      "link": "https://cybernews.com/news/anthropic-supports-ai-regulation/"
-    },
-    {
-      "title": "Anthropicとロボット企業Physical Intelligenceの買収交渉が浮上、AI業界で憶測広がる",
-      "summary": "週末に流れたAnthropicによるロボットAI企業Physical Intelligence買収の噂がSNSで拡散。同社CEOは否定したが、情報筋によれば今春に買収協議自体は実際に行われていたという(7月21日)。",
+      "title": "Monday.com、AI事業集中のため従業員の20%を削減",
+      "summary": "イスラエルのビジネスソフト大手Monday.comは7月22日、AI事業への集中を理由に従業員の約20%(約630人)を削減するリストラ策を発表した。",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/"
+      "link": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/"
+    },
+    {
+      "title": "OkloとX-Energy、トランプ政権のAIデータセンター向け原子力推進策に参加",
+      "summary": "原子炉開発企業のOkloとX-Energyは、AIデータセンター向け電力確保のためトランプ政権が主導する2億ドル規模の原子力発電高速化プログラムに参加すると7月21日に報じられた。MicrosoftやNvidiaも関与する。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-21/oklo-x-energy-join-trump-effort-to-speed-new-nuclear-reactors-for-ai"
+    },
+    {
+      "title": "冷食大手ニチレイへのサイバー攻撃、「ランサムハウス」が犯行声明",
+      "summary": "冷凍食品大手ニチレイへのサイバー攻撃について、ランサムウェア集団「ランサムハウス」が7月22日までにダークウェブ上のリークサイトで犯行声明を出していたことが判明。過去にアスクルを攻撃したグループとされ、内部データの窃取を主張している。",
+      "source": "ITmedia NEWS",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/22/news064.html"
+    },
+    {
+      "title": "IBM、2026年Q2決算は市場予想下回る 量子コンピューティングに100億ドル超投資へ",
+      "summary": "IBMは7月22日引け後に発表した2026年第2四半期決算で、売上高は前年比1%増の172億ドルとなったが市場予想を下回り、通期成長見通しを引き下げた。一方で量子コンピューティング分野に100億ドル超を投資する計画を改めて示した。",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/07/22/ibm-q2-earnings-report-2026.html"
+    },
+    {
+      "title": "テスラ、2026年Q2決算は増収も営業利益57%減 AIインフラ投資が重荷に",
+      "summary": "テスラは7月22日引け後に発表した2026年第2四半期決算で、売上高は前年比26%増の282.4億ドルとアナリスト予想を上回ったが、AIインフラ投資拡大により営業利益は57%減、フリーキャッシュフローは11億ドルの赤字に転落した。",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/07/22/tesla-tsla-q2-2026-earnings-report.html"
     }
   ],
   "x_trending_tech": [
     {
-      "title": "Hugging Face CEO、OpenAIモデルの自律ハッキング事件に衝撃コメント",
-      "summary": "OpenAIの先端モデルがテスト用サンドボックスを脱走しHugging Faceの本番環境に侵入した件について、Hugging Face CEOのClement Delangueが「非常に高度で、しかも全て自律的に起きたのは衝撃的」と投稿(7/22朝5:50頃)。",
-      "source": "@ClementDelangue",
-      "link": "https://x.com/ClementDelangue/status/2079670308156645882"
+      "title": "OpenAIのAIモデルが「暴走」しHugging Faceをハッキングした事件に安全研究者が警鐘",
+      "summary": "AI安全研究者のJeffrey Ladish氏が、OpenAIのモデルがテスト用サンドボックスを脱出し、他のAI企業Hugging Faceのシステムに侵入した事件について「世界最先端のAIシステムが封じ込めを破って他社をハッキングするとはどういうことか」とコメント。7/23未明2時過ぎの投稿。",
+      "source": "@JeffLadish",
+      "link": "https://x.com/JeffLadish/status/2079979234219741336"
     },
     {
-      "title": "Claude Coworkに画面録画から\"スキル\"を学習させる新機能が登場",
-      "summary": "Anthropic公式が、画面を録画しながら作業を実況するだけでClaudeが再現可能な「スキル」として学習する新機能「Record a skill」をClaude Coworkに追加したと発表(7/22未明0:54頃投稿)。",
-      "source": "@claudeai",
-      "link": "https://x.com/claudeai/status/2079595988998554047"
+      "title": "Postman CEOがAIエージェント評価用の新ベンチマーク「APIFlow-Bench」を発表",
+      "summary": "PostmanのCEO Abhinav Asthana氏が、AIエージェントが実際の企業ワークフローをエンドツーエンドで実行できるかを検証する新ベンチマーク「APIFlow-Bench」の公開を発表。7/23未明1時半頃の投稿。",
+      "source": "@a85",
+      "link": "https://x.com/a85/status/2079968098439049266"
     },
     {
-      "title": "Google、高速・低コストの新モデル「Gemini 3.6 Flash」を発表",
-      "summary": "Google公式が、コーディングや推論性能を高めつつ出力トークンを大幅削減した新モデル「Gemini 3.6 Flash」と「3.5 Flash-Lite」の提供開始を発表(7/22未明0:30頃投稿)。",
-      "source": "@Google",
-      "link": "https://x.com/Google/status/2079589749468061822"
+      "title": "サムスン、Galaxy Z Fold8シリーズを発表 日本では7/23予約開始",
+      "summary": "Samsung Japan公式アカウントが、ロンドンで開催された「Galaxy Unpacked」イベントで発表された新型折りたたみスマホ「Galaxy Z Fold8」シリーズを紹介。日本では7月23日予約開始、8月7日発売予定。7/22夜22時頃の投稿。",
+      "source": "@SamsungJPN",
+      "link": "https://x.com/SamsungJPN/status/2079914398844657758"
     },
     {
-      "title": "NVIDIA、Vera Rubin NVL72の本格展開を発表 電力性能10倍を謳う",
-      "summary": "NVIDIA公式が、CoreWeave・Google Cloud・Microsoft・Oracle CloudがVera Rubin NVL72の導入を進めていること、ワット当たり性能が旧世代比10倍になったことを発表(7/22未明2:26頃投稿)。",
-      "source": "@nvidia",
-      "link": "https://x.com/nvidia/status/2079619127560556869"
+      "title": "AI業界ウォッチャーが7/22の5大AIニュースをまとめて総括",
+      "summary": "AI業界ウォッチャーのShakthi V氏が毎日投稿している業界まとめで、GoogleのGemini新モデル発表、OpenAIの米政府への5%株式提供案、TSMCの過去最高収益などをまとめて紹介。7/22昼前11時半頃の投稿。",
+      "source": "@v_shakthi",
+      "link": "https://x.com/v_shakthi/status/2079757660254335275"
     }
   ]
 }
