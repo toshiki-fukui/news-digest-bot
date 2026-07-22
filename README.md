@@ -62,15 +62,15 @@ LINE Notifyは2025年3月末に終了したため、LINE Messaging APIの「Broa
 
 ### 3. トークンの設定
 
-ローカルでの動作確認用:
+本番配信用(GitHub Actions): リポジトリの Settings → Secrets and variables → Actions で
+`LINE_CHANNEL_ACCESS_TOKEN` を登録(`gh secret set` でも可)。
+
+もしローカル環境でお試し運用を行ってみたい場合、以下のように行うことで動作確認が可能
 
 ```bash
 cp .env.example .env
 # .env を編集して LINE_CHANNEL_ACCESS_TOKEN に発行したトークンを貼り付け
 ```
-
-本番配信用(GitHub Actions): リポジトリの Settings → Secrets and variables → Actions で
-`LINE_CHANNEL_ACCESS_TOKEN` を登録(`gh secret set` でも可)。
 
 ### 4. 動作確認
 
@@ -84,7 +84,7 @@ cp .env.example .env
 
 ### 5. Claude Code routine の設定(記事選定の自動化)
 
-記事選定はローカルのcronではなく、[claude.ai](https://claude.ai/code/routines) 上のクラウドAgent(routine)が
+記事選定は [claude.ai](https://claude.ai/code/routines) 上のクラウドAgent(routine)が
 1日3回(JST 7:00 / 12:00 / 19:00)起動して行う。
 
 1. **GitHub連携を済ませる**
