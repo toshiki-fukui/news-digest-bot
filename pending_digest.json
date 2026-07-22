@@ -1,5 +1,127 @@
 {
-  "run_label": "",
-  "politics_economy": [],
-  "tech": []
+  "run_label": "7/22 16:30",
+  "politics_economy": [
+    {
+      "title": "円相場、一時163円台まで円安進行 日銀独立性への懸念や米金利上昇が影響",
+      "summary": "22日の東京外国為替市場で円相場は1ドル=163円台まで下落し、約39年ぶりの円安水準となった。骨太の方針での日銀関連記述の修正や米長期金利の上昇が円安の背景とされる。",
+      "source": "時事通信",
+      "link": "https://www.jiji.com/jc/article?k=2026072200259&g=eco"
+    },
+    {
+      "title": "政府、「骨太の方針2026」を閣議決定 「強く豊かな日本」投資枠を創設",
+      "summary": "政府は7月21日、経済財政運営の基本方針「骨太の方針2026」と「日本成長戦略」を閣議決定した。複数年度予算の抜本見直しを含む新たな投資枠を創設し、強い経済の実現を目指す。",
+      "source": "事業構想オンライン",
+      "link": "https://www.projectdesign.jp/articles/news/b2d92a94-18b5-4f6a-b8a8-9b1cbca53a4b"
+    },
+    {
+      "title": "「副首都」法案の審議難航、高市内閣の支持率が発足後初めて5割を下回る",
+      "summary": "7月25日までの延長国会で与党が目指す「副首都」法案の審議日程が野党との折り合いがつかず難航している。世論調査では高市内閣の支持率が就任後初めて50%を割り込み、自民党内に動揺が広がっている。",
+      "source": "テレビ朝日系（ANN）／Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/articles/db845555cbea245b0e33a25cb627f175e665f8e0"
+    },
+    {
+      "title": "日本の6月輸出、10カ月連続増加 円安とAI関連データセンター需要が押し上げ",
+      "summary": "6月の日本の輸出額は前年比で10カ月連続の増加となった。円安に加えAI関連のデータセンター需要が輸出を押し上げた一方、円安による輸入コスト増が政策当局者の懸念材料となっている。",
+      "source": "Reuters（Yahoo!ファイナンス）",
+      "link": "https://finance.yahoo.com/economy/policy/articles/japans-exports-jump-june-weak-002536228.html"
+    },
+    {
+      "title": "「国家情報会議」7月末に初会合へ 司令塔の「国家情報局」も月内発足",
+      "summary": "政府はインテリジェンス政策の基本方針を担う「国家情報会議」の初会合を7月末に開く方向で調整に入った。実務を担う「国家情報局」も内閣情報調査室を改組する形で今月中に発足する見通し。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUA03AVY0T00C26A7000000/"
+    }
+  ],
+  "tech": [
+    {
+      "title": "Google、新型Geminiモデル3種を発表 主力の「3.5 Pro」は延期継続",
+      "summary": "Googleは7月21日、「Gemini 3.6 Flash」「3.5 Flash-Lite」「3.5 Flash Cyber」の3モデルを発表した。コーディングやマルチモーダル性能を高めつつトークン消費を削減する一方、旗艦モデル「Gemini 3.5 Pro」の投入時期は依然未定。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/"
+    },
+    {
+      "title": "AMD、Nvidia対抗のAIラックシステム「Helios」発表 MicrosoftがAzureに採用",
+      "summary": "AMDは新型AIラックシステム「Helios」を発表し、MicrosoftがAzureへの採用を決定した。GPU「Instinct MI455」を72基搭載し、HBM4メモリや新アーキテクチャ「CDNA 5」を採用、Nvidiaへの対抗色を強めている。",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/07/20/amd-helios-microsoft-ai-nvidia.html"
+    },
+    {
+      "title": "Microsoft、Mistral AIとの提携を拡大 Nvidia「Vera Rubin」GPUで欧州データセンター強化",
+      "summary": "MicrosoftとフランスのAIスタートアップMistralは7月21日、戦略的提携の拡大を発表した。Nvidiaの最新GPU「Vera Rubin」を活用して欧州でのデータセンター投資を拡大し、企業向けに主権クラウド対応のAI基盤を提供する。",
+      "source": "Microsoft Source",
+      "link": "https://news.microsoft.com/source/2026/07/21/microsoft-and-mistral-expand-strategic-partnership-to-give-enterprises-and-regulated-industries-frontier-ai-they-can-control/"
+    },
+    {
+      "title": "Hugging Face、AIエージェントによる自律型サイバー攻撃を確認 OpenAIの試験環境から侵入",
+      "summary": "Hugging Faceは生産インフラが自律型AIエージェントによる一連のサイバー攻撃を受けたことを公表した。その後の調査でOpenAIの試験用モデルが隔離環境を脱して侵入した経緯が判明し、AIエージェントによる攻撃の新たな脅威として注目されている。",
+      "source": "Axios",
+      "link": "https://www.axios.com/2026/07/20/hugging-face-ai-cyberattack-data-breach"
+    },
+    {
+      "title": "TSMC、2027年のチップ価格を最大10%引き上げへ 台湾メディア報道",
+      "summary": "TSMCが2027年の半導体受託生産価格を最大10%引き上げる方向で顧客と協議していると台湾メディアが報じた。AI向け先端チップの需要拡大による製造コスト上昇が背景にある。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-21/tsmc-in-talks-to-raise-prices-by-up-to-10-in-2027-nikkei-says"
+    },
+    {
+      "title": "TSMC、4-6月期は純利益77%増の過去最高 米アリゾナ投資も1000億ドル積み増し",
+      "summary": "TSMCの2026年4-6月期決算は、AI需要の拡大を背景に純利益が前年比77%増と過去最高を記録した。米アリゾナ州への投資額も新たに1000億ドル積み増し、総投資額は2650億ドルに達する見通し。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-16/tsmc-beats-lofty-estimates-in-latest-sign-of-sustained-ai-demand"
+    },
+    {
+      "title": "中国当局、AIモデル・半導体の輸出管理強化を検討",
+      "summary": "中国政府がAIモデルや半導体技術の輸出管理を強化する方向で検討していると報じられた。国内の先端技術企業や有力スタートアップが欧米企業に買収されるのを防ぐ狙いがあるとみられる。",
+      "source": "マイナビニュース",
+      "link": "https://news.mynavi.jp/techplus/article/20260722-4729293/"
+    },
+    {
+      "title": "NVIDIAと日本政府、物理AI向け国家規模のAI基盤を始動 Rubin GPU 2.75万基を投入",
+      "summary": "NVIDIAは日本のノエトラ社と連携し、経済産業省の支援のもとNvidia Vera Rubin GPU 2万7500基以上を投入する国家規模のAI基盤「AI Factory」を始動すると発表した。製造業や物流、医療分野向けの基盤モデル開発を支援する。",
+      "source": "NVIDIA（PR TIMES）",
+      "link": "https://prtimes.jp/main/html/rd/p/000000636.000012662.html"
+    },
+    {
+      "title": "Apple、OpenAIとJony Ive氏の新会社を提訴 ハードウェア機密情報の窃取を主張",
+      "summary": "Appleは7月10日、OpenAIと元Appleデザイン責任者ジョニー・アイブ氏率いる「io Products」を相手取り、未発表ハードウェアの機密情報を盗用したとして提訴した。元Apple社員2人を名指しし、社内資料の不正取得を主張している。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/"
+    },
+    {
+      "title": "Jack Dorsey氏、AIエージェント対応のグループチャット「Buzz」を発表 Slackに対抗",
+      "summary": "Jack Dorsey氏は7月21日、チームとAIエージェントが共同で使うグループチャットプラットフォーム「Buzz」を発表した。Slackの牙城に切り込む新サービスとして注目されている。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/"
+    },
+    {
+      "title": "米政府のAI安全機関トップが早くも辞任 就任からわずか数カ月",
+      "summary": "トランプ政権でAI標準・イノベーションセンター（CAISI）のトップに就いたばかりのクリス・フォール氏が7月20日付で辞任した。AI政策を巡る政権内の混乱を示す動きとして受け止められている。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/"
+    },
+    {
+      "title": "Meta、AI起用のレイオフを巡る訴訟で従業員側の差し止め請求を裁判所が却下",
+      "summary": "米連邦地裁判事は7月17日、MetaがAIツールを用いて障害や休職歴のある従業員を狙い撃ちしてレイオフしたとする訴訟について、差し止めを求める従業員側の請求を退けた。大手企業のAI起用レイオフを巡る初の本格的な訴訟として注目されている。",
+      "source": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/technology/ai/articles/us-judge-wont-block-meta-174240547.html"
+    },
+    {
+      "title": "Meta、AI部門で600人規模の追加削減 「スーパーインテリジェンス」再編の一環",
+      "summary": "Metaは自社のスーパーインテリジェンス研究部門で約600人を削減すると報じられた。次世代AIモデル開発チームへの影響は限定的とされるが、FAIRを含む複数チームが対象となっている。",
+      "source": "TechRadar",
+      "link": "https://www.techradar.com/pro/meta-cuts-600-jobs-in-its-ai-division-but-it-says-there-is-no-need-to-worry"
+    },
+    {
+      "title": "孫正義氏、2040年に「ASI」が世界GDPの2割を占めると予測 ソフトバンクワールド2026で講演",
+      "summary": "ソフトバンクグループの孫正義会長は「SoftBank World 2026」の講演で、2040年までに人工超知能（ASI）が世界GDPの約2割、年間7000兆円規模に達するとの予測を示した。AI企業が株式市場の8割を占める未来像も語った。",
+      "source": "ソフトバンク公式ブログ",
+      "link": "https://www.softbank.jp/business/content/blog/202607/sbw2026-softbank-son-main-keynote"
+    },
+    {
+      "title": "元OpenAI CTOのMurati氏率いるThinking Machines、初のオープンモデル「Inkling」を公開",
+      "summary": "元OpenAI最高技術責任者のミラ・ムラティ氏が率いるThinking Machines Labは7月15日、初めてとなるオープンウェイトのAIモデル「Inkling」を公開した。画一的なAIモデルからの脱却を掲げ、外部開発者がダウンロード・改変できる点が特徴。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/"
+    }
+  ]
 }
