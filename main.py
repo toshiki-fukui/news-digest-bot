@@ -31,9 +31,10 @@ def main() -> int:
     news = load_pending()
     pe = news.get("politics_economy", [])
     tech = news.get("tech", [])
+    x_trending = news.get("x_trending_tech", [])
     run_label = news.get("run_label", "")
 
-    if not pe and not tech:
+    if not pe and not tech and not x_trending:
         print("pending_digest.json が空、または存在しません。配信をスキップします。")
         return 0
 
@@ -46,7 +47,7 @@ def main() -> int:
         return 0
 
     broadcast(messages)
-    print(f"配信完了: 政治経済 {len(pe)}件 / テック {len(tech)}件")
+    print(f"配信完了: 政治経済 {len(pe)}件 / テック {len(tech)}件 / Xトレンド {len(x_trending)}件")
     return 0
 
 
