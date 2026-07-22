@@ -120,7 +120,7 @@ cp .env.example .env
     "enabled": true,
     "job_config": {
       "ccr": {
-        "environment_id": "REDACTED_ENVIRONMENT_ID",
+        "environment_id": "<REDACTED>",
         "session_context": {
           "model": "claude-sonnet-5",
           "sources": [
@@ -148,8 +148,11 @@ cp .env.example .env
 }
 ```
 
-`uuid` は `events[].data.uuid` 用に生成した固定値。再作成する場合は新しいv4 UUIDを発行すること。
-既存routineを更新する場合は `trigger_id: "REDACTED_TRIGGER_ID"` を指定して `action: "update"` を呼び出す。
+`environment_id` は `<REDACTED>` を、[claude.ai](https://claude.ai/code/routines) の Environments設定で確認できる
+自分のアカウントのenvironment ID(`env_...`)に置き換えること。`uuid` は `events[].data.uuid` 用に生成した固定値。
+再作成する場合は新しいv4 UUIDを発行すること。
+既存routineを更新する場合は `trigger_id: "<REDACTED>"` を、自分のroutine一覧(`RemoteTrigger action: list`または
+https://claude.ai/code/routines )で確認できるIDに置き換えて `action: "update"` を呼び出す。
 
 </details>
 
