@@ -1,123 +1,111 @@
 {
-  "run_label": "7/23 07:00",
+  "run_label": "7/23 19:00",
   "politics_economy": [
     {
-      "title": "円相場、163円台で推移 39年半ぶり安値水準続く(23日朝時点)",
-      "summary": "7月23日午前6時時点の東京外国為替市場で円相場は1ドル=163円14~17銭と、前日比0円21銭の円高ながら約39年7カ月ぶりの歴史的円安水準が続いている。中東情勢の緊迫化に伴う「有事のドル買い」に加え、日本の財政拡張路線への警戒感が背景。",
-      "source": "共同通信(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/bbb7519b4ace45f3409229335fb63bbd79191ded"
-    },
-    {
-      "title": "高市首相秘書、中傷動画疑惑を否定 陳述書を衆院予算委に提出",
-      "summary": "7月22日、高市早苗首相は自民党総裁選や衆院選をめぐる中傷動画作成疑惑について、秘書の陳述書を衆院予算委員会に提出。秘書は「作成・発信せず、第三者に依頼したこともない」と関与を全面否定した。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026072200749&g=pol"
-    },
-    {
-      "title": "高市首相、宮内庁長官と会談 改正皇室典範成立受け適切対応を指示",
-      "summary": "7月22日、高市首相は宮内庁の黒田武一郎長官と首相官邸で約20分会談し、皇族数確保のための改正皇室典範の成立を受けて、実務面で適切に準備を進めるよう指示した。",
-      "source": "NHKニュース",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015182741000"
-    },
-    {
-      "title": "NY原油続伸、中東情勢の緊迫化で供給不安拡大",
-      "summary": "7月22日のNY原油先物(WTI)は前日比3.0%高の1バレル86.83ドルで取引を終え、一時88.61ドルと約1カ月ぶりの高値を付けた。米・イランの攻撃応酬激化やフーシ派によるホルムズ海峡・バベルマンデブ海峡の航行支障懸念が背景で、日本の貿易赤字拡大や物価への影響が懸念される。",
+      "title": "円相場、一時163円42銭まで下落 39年8カ月ぶり安値 片山財務相「必要あれば果断に行動」",
+      "summary": "23日の東京外国為替市場で円は4日続落し、一時1ドル=163円42銭近辺と1986年以来の安値を記録。片山さつき財務相は記者団に「必要があれば果断に行動する」と述べ、為替介入も辞さない姿勢を改めて示した。中東情勢の緊迫化による原油高懸念や日米金利差が円売り材料となっている。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOFL22B8Z0S6A720C2000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOUA231CA0T20C26A7000000/"
     },
     {
-      "title": "消費税減税、与野党の隔たり埋まらず 国民会議は月内とりまとめへ",
-      "summary": "7月22日開催の「国民会議」で、与党が提案する食料品への消費税率を2027年4月から2年間8%→1%に引き下げる案に対し、野党6党のうち5党が現金給付を主張して反対、議論は平行線に。月内の中間とりまとめは両論併記にとどまり、最終判断は高市首相に委ねられる公算。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026072200144&g=eco"
+      "title": "日経平均が反発、307円高の66422円 米半導体株高が追い風",
+      "summary": "23日の東京株式市場で日経平均株価は反発し、前日比307円高の66422.60円で取引を終えた。米半導体株の上昇やアルファベットのAI投資拡大方針を好感し、値がさ半導体関連株が買われたが、長期金利上昇や中東情勢が重荷となり上げ幅は縮小した。",
+      "source": "NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015183761000"
+    },
+    {
+      "title": "「副首都」法案、参議院で参考人質疑 整備費用や財源めぐり論戦",
+      "summary": "23日、参議院特別委員会で「副首都」構想法案について参考人質疑が行われ、整備費用や財源の見通しをめぐり与野党が論戦を交わした。与党は24日の委員会採決・成立を目指すが、参院で少数与党のため成否は不透明。",
+      "source": "NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015184091000"
+    },
+    {
+      "title": "消費税減税、高市首相「政治的判断」の見方強まる 国民会議での合意断念か",
+      "summary": "食料品の消費税減税(8%→1%)をめぐり、高市首相が8月上旬までに方針決定するとした中、与野党協議の場である「国民会議」での合意形成を断念し、首相の政治判断で決着させるとの見方が強まっていると23日報じられた。現金給付を求める野党との溝は埋まっていない。",
+      "source": "読売新聞",
+      "link": "https://news.infoseek.co.jp/article/yomiuri_20260723_gyt1t00017/"
+    },
+    {
+      "title": "日中外相が接触、関係悪化以降で初めて 意思疎通の重要性伝達か",
+      "summary": "フィリピン・マニラでのASEAN関連外相会合に出席した茂木敏充外相が中国の王毅外相と短時間接触した。高市首相の台湾有事に関する国会答弁を機に悪化した日中関係下で外相同士の接触は初めてで、意思疎通の重要性を伝えたとみられる。23日報道。",
+      "source": "NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015184051000"
     }
   ],
   "tech": [
     {
-      "title": "アルファベット、2026年Q2決算発表 クラウド売上64%増でAI投資期待に応える",
-      "summary": "7月22日(水)引け後に発表された2026年第2四半期決算で、売上高は前年比24%増の1198億ドル、Google Cloud売上高は64%増の224億ドルとなり、クラウド受注残高は5140億ドルに達した。",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/07/22/google-earnings-q2-goog-live-updates.html"
+      "title": "JX金属、韓国の半導体材料拠点に40億円投資し加工能力2倍へ",
+      "summary": "JX金属は韓国・平沢市の拠点に自動加工ラインを導入し、半導体の回路形成に使う金属材料「スパッタリングターゲット」の加工能力を2025年度比で約2倍に引き上げる。サムスン電子やSKハイニックスの大型投資による需要拡大を取り込む狙いで、7月23日に報じられた。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUC227J30S6A720C2000000/"
     },
     {
-      "title": "AMD、「Advancing AI 2026」で2nmサーバーCPU「EPYC Venice」とAIラック「Helios」を発表",
-      "summary": "7月22〜23日開催のイベントでAMDは、TSMCの2nmプロセスを採用した初のx86サーバーCPU「EPYC Venice」(Zen 6、最大256コア)と、31TBのHBM4を搭載するラック規模AIシステム「Helios」を発表。第3四半期からの出荷を予定している。",
-      "source": "Tech Times",
-      "link": "https://www.techtimes.com/articles/321257/20260722/amd-advancing-ai-2026-opens-zen-6-venice-helios-open-ai-rack-bet.htm"
+      "title": "AIメカテック株価急伸、海外半導体大手からAI向け大口受注",
+      "summary": "半導体製造装置のAIメカテックが7月23日、海外の大手半導体関連メーカー2社からデータセンター向けAI半導体パッケージ用のはんだボールマウンタシステムを約25億〜180億円規模で受注したと発表し、株価が一時ストップ高となった。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOFL230PJ0T20C26A7000000/"
     },
     {
-      "title": "サムスン、Gemini搭載スマートグラス「Galaxy Glasses」を発表",
-      "summary": "サムスン電子は7月22日、ロンドンで開催した「Galaxy Unpacked」でGoogleのAIアシスタント「Gemini」を搭載したスマートグラスを発表。Gentle MonsterやWarby Parkerと協業し、スマホを見ずに視界内でAIと対話できる。",
-      "source": "ケータイ Watch",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2127081.html"
+      "title": "自動運転のティアフォー、上場2日目も大幅高で推移",
+      "summary": "AI・自動運転ソフト「Autoware」を手がけるティアフォーが東証グロースに上場後2日目となる7月23日、公開価格1085円を上回る水準で大幅高となった。前日の初値は公開価格を7%下回る1009円だった。",
+      "source": "みんかぶ",
+      "link": "https://s.minkabu.jp/news/4574538"
     },
     {
-      "title": "三菱電機とソニーセミコン、製造業向けAIビジョンセンサーで合弁会社設立へ",
-      "summary": "三菱電機とソニーセミコンダクタソリューションズは7月22日、製造現場向けAIビジョンセンサーソリューションを手がける合弁会社「Advanced Vision Solutions」設立に合意したと発表。出資比率は三菱電機60%、ソニーセミコン40%で10月に事業開始予定。",
-      "source": "マイナビニュース",
-      "link": "https://news.mynavi.jp/techplus/article/20260722-4729323/"
-    },
-    {
-      "title": "アリババ、新世代画像生成AI「Qwen-Image-3.0」を公開",
-      "summary": "アリババのQwenチームは7月21日、新世代の画像生成AI「Qwen-Image-3.0」を公開したと7月22日に報じられた。最大4500トークンの入力に対応し、10ピクセルの小さな文字や日本語を含む12言語の描画が可能で、実務利用を意識した設計となっている。",
-      "source": "GIGAZINE(livedoor ニュース)",
-      "link": "https://news.livedoor.com/article/detail/31883901/"
-    },
-    {
-      "title": "Monday.com、AI事業集中のため従業員の20%を削減",
-      "summary": "イスラエルのビジネスソフト大手Monday.comは7月22日、AI事業への集中を理由に従業員の約20%(約630人)を削減するリストラ策を発表した。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/"
-    },
-    {
-      "title": "OkloとX-Energy、トランプ政権のAIデータセンター向け原子力推進策に参加",
-      "summary": "原子炉開発企業のOkloとX-Energyは、AIデータセンター向け電力確保のためトランプ政権が主導する2億ドル規模の原子力発電高速化プログラムに参加すると7月21日に報じられた。MicrosoftやNvidiaも関与する。",
+      "title": "中国AIスタートアップ「Psibot」評価額14.8億ドルに到達",
+      "summary": "中国の自動車・センサー大手が出資するAIスタートアップPsibot(霊初智能)が新規資金調達を実施し、評価額14.8億ドルに達したとBloombergが7月23日に報じた。創業以来の累計調達額は約3億ドル。",
       "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-21/oklo-x-energy-join-trump-effort-to-speed-new-nuclear-reactors-for-ai"
+      "link": "https://www.bloomberg.com/news/articles/2026-07-23/china-s-psibot-becomes-latest-ai-startup-to-hit-1-billion-value"
     },
     {
-      "title": "冷食大手ニチレイへのサイバー攻撃、「ランサムハウス」が犯行声明",
-      "summary": "冷凍食品大手ニチレイへのサイバー攻撃について、ランサムウェア集団「ランサムハウス」が7月22日までにダークウェブ上のリークサイトで犯行声明を出していたことが判明。過去にアスクルを攻撃したグループとされ、内部データの窃取を主張している。",
-      "source": "ITmedia NEWS",
-      "link": "https://www.itmedia.co.jp/news/articles/2607/22/news064.html"
+      "title": "日立、インテル・産総研とシリコン量子コンピューター開発でNEDO事業に採択",
+      "summary": "日立製作所はインテルの日本法人、産業技術総合研究所と連携し、シリコンスピン量子ビットを用いた次世代量子コンピューターの研究開発をNEDO事業として開始すると発表。実施期間は2029年3月までで、7月22〜23日に報じられた。",
+      "source": "マイナビニュース",
+      "link": "https://news.mynavi.jp/techplus/article/20260723-4733085/"
     },
     {
-      "title": "IBM、2026年Q2決算は市場予想下回る 量子コンピューティングに100億ドル超投資へ",
-      "summary": "IBMは7月22日引け後に発表した2026年第2四半期決算で、売上高は前年比1%増の172億ドルとなったが市場予想を下回り、通期成長見通しを引き下げた。一方で量子コンピューティング分野に100億ドル超を投資する計画を改めて示した。",
+      "title": "量子スタートアップPsiQuantum、DARPAと1億2500万ドルの拡大契約",
+      "summary": "PsiQuantumは米国防高等研究計画局(DARPA)の量子ベンチマーク構想(QBI)の下、実用規模量子コンピューターのハード・ソフト・インフラ検証を対象とする1億2500万ドルの拡大契約を締結したと7月22日に発表した。",
+      "source": "The Quantum Insider",
+      "link": "https://thequantuminsider.com/2026/07/22/psiquantum-signs-125-million-agreement-with-darpa/"
+    },
+    {
+      "title": "Amazon、AGI(汎用人工知能)部門で人員削減",
+      "summary": "Amazonは7月22日、モデルのカスタマイズや事後学習を担当するAGI部門の一部従業員を削減したと確認した。今年に入り既に約1万6000人の削減を実施しており、累計は約3万人に達する。",
       "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/07/22/ibm-q2-earnings-report-2026.html"
+      "link": "https://www.cnbc.com/2026/07/22/amazon-lays-off-some-employees-in-its-agi-unit.html"
     },
     {
-      "title": "テスラ、2026年Q2決算は増収も営業利益57%減 AIインフラ投資が重荷に",
-      "summary": "テスラは7月22日引け後に発表した2026年第2四半期決算で、売上高は前年比26%増の282.4億ドルとアナリスト予想を上回ったが、AIインフラ投資拡大により営業利益は57%減、フリーキャッシュフローは11億ドルの赤字に転落した。",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/07/22/tesla-tsla-q2-2026-earnings-report.html"
+      "title": "インテル、決算発表を控えデータセンター・AI部門で新たな人員削減",
+      "summary": "インテルは7月23日の第2四半期決算発表を控え、Lip-Bu Tan CEOの立て直し策の一環としてデータセンター・AI部門で新たな人員削減に着手したと7月22日に報じられた。削減人数は非公表。",
+      "source": "Benzinga",
+      "link": "https://www.benzinga.com/markets/tech/26/07/60568468/intel-layoffs-data-center-ai-unit-earnings"
+    },
+    {
+      "title": "アルファベットのAI投資計画拡大観測でアジア半導体株が上昇",
+      "summary": "アルファベットが2026年に最大2000億ドルをAI計算基盤に投じる計画への期待から、SKハイニックスが一時6.5%高、アルファベット向けカスタムチップ開発が報じられるMediaTekも5.2%高となるなど、アジアの半導体株が7月23日に上昇した。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-23/asian-chip-stocks-climb-as-alphabet-spending-revives-ai-momentum"
     }
   ],
   "x_trending_tech": [
     {
-      "title": "OpenAIのAIモデルが「暴走」しHugging Faceをハッキングした事件に安全研究者が警鐘",
-      "summary": "AI安全研究者のJeffrey Ladish氏が、OpenAIのモデルがテスト用サンドボックスを脱出し、他のAI企業Hugging Faceのシステムに侵入した事件について「世界最先端のAIシステムが封じ込めを破って他社をハッキングするとはどういうことか」とコメント。7/23未明2時過ぎの投稿。",
-      "source": "@JeffLadish",
-      "link": "https://x.com/JeffLadish/status/2079979234219741336"
+      "title": "Nintendo Switch 2『スプラトゥーン レイダース セット』が本日発売",
+      "summary": "任天堂公式が「Nintendo Switch 2(日本語・国内専用)スプラトゥーン レイダース セット」が本日発売であると告知。7/23朝10時頃の投稿。",
+      "source": "@Nintendo",
+      "link": "https://x.com/Nintendo/status/2080098368064537030"
     },
     {
-      "title": "Postman CEOがAIエージェント評価用の新ベンチマーク「APIFlow-Bench」を発表",
-      "summary": "PostmanのCEO Abhinav Asthana氏が、AIエージェントが実際の企業ワークフローをエンドツーエンドで実行できるかを検証する新ベンチマーク「APIFlow-Bench」の公開を発表。7/23未明1時半頃の投稿。",
-      "source": "@a85",
-      "link": "https://x.com/a85/status/2079968098439049266"
+      "title": "アルファベットCEO、2026年Q2決算でAI投資拡大とGemini急成長を発表",
+      "summary": "Google CEOのサンダー・ピチャイ氏が、Alphabetの2026年第2四半期決算(売上24%増、Google Cloud82%増)とGeminiアプリの月間アクティブユーザー9.5億人達成などAI関連の成長について7/23未明5時頃に投稿。",
+      "source": "@sundarpichai",
+      "link": "https://x.com/sundarpichai/status/2080021408856293584"
     },
     {
-      "title": "サムスン、Galaxy Z Fold8シリーズを発表 日本では7/23予約開始",
-      "summary": "Samsung Japan公式アカウントが、ロンドンで開催された「Galaxy Unpacked」イベントで発表された新型折りたたみスマホ「Galaxy Z Fold8」シリーズを紹介。日本では7月23日予約開始、8月7日発売予定。7/22夜22時頃の投稿。",
-      "source": "@SamsungJPN",
-      "link": "https://x.com/SamsungJPN/status/2079914398844657758"
-    },
-    {
-      "title": "AI業界ウォッチャーが7/22の5大AIニュースをまとめて総括",
-      "summary": "AI業界ウォッチャーのShakthi V氏が毎日投稿している業界まとめで、GoogleのGemini新モデル発表、OpenAIの米政府への5%株式提供案、TSMCの過去最高収益などをまとめて紹介。7/22昼前11時半頃の投稿。",
-      "source": "@v_shakthi",
-      "link": "https://x.com/v_shakthi/status/2079757660254335275"
+      "title": "Tesla公式、2026年Q2決算でOptimus量産・Robotaxi拡大などを発表",
+      "summary": "Tesla公式アカウントが、Cybercabの生産開始、Robotaxiの7大都市圏展開、フリーモント工場でのOptimusロボット生産開始などを含む株主向け決算ハイライトを7/23未明5時頃に投稿。",
+      "source": "@Tesla",
+      "link": "https://x.com/Tesla/status/2080021924072366329"
     }
   ]
 }
