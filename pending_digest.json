@@ -1,111 +1,105 @@
 {
-  "run_label": "7/23 19:00",
+  "run_label": "7/24 07:00",
   "politics_economy": [
     {
-      "title": "円相場、一時163円42銭まで下落 39年8カ月ぶり安値 片山財務相「必要あれば果断に行動」",
-      "summary": "23日の東京外国為替市場で円は4日続落し、一時1ドル=163円42銭近辺と1986年以来の安値を記録。片山さつき財務相は記者団に「必要があれば果断に行動する」と述べ、為替介入も辞さない姿勢を改めて示した。中東情勢の緊迫化による原油高懸念や日米金利差が円売り材料となっている。",
+      "title": "「副首都」法案、参院で採決折り合わず 会期末25日に向け土壇場の攻防続く",
+      "summary": "与党は参院特別委員会での24日採決を目指したが野党との調整がつかず、25日の会期末を前に修正協議が続いている。参院は少数与党のため成否は不透明で、衆院での再可決も視野に入る。",
+      "source": "NHKニュース/ライブドアニュース",
+      "link": "https://news.livedoor.com/topics/detail/31897668/"
+    },
+    {
+      "title": "円の実効為替レートが最安値を更新、対ドルだけでなく全面安が鮮明に",
+      "summary": "円は対ドルだけでなく主要通貨に対して幅広く下落しており、日銀の実効為替レート指数は過去最低水準を更新した。財政拡張路線への警戒感が円売りを招いている。23日報道。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-23/yen-s-slump-in-trade-weighted-gauge-shows-its-broad-based-drop"
+    },
+    {
+      "title": "2026年度の最低賃金、労働者側が75円増額を要求 中央審議会は23日決着へ",
+      "summary": "中央最低賃金審議会の小委員会で、労働者側委員が全国加重平均で75円の引き上げを要求。使用者側も相当程度の引き上げを容認する姿勢で、23日の決着が焦点となっている。",
+      "source": "中日新聞",
+      "link": "https://www.chunichi.co.jp/article/1285674"
+    },
+    {
+      "title": "いよぎんHDと愛媛銀行、経営統合に向け最終調整 総資産12兆円規模の地銀グループに",
+      "summary": "愛媛県地盤のいよぎんホールディングスと愛媛銀行が2027年4月をめどに持ち株会社方式で経営統合する方向で最終調整していることが23日分かった。両行の名称は維持する見通し。",
+      "source": "NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015184581000"
+    },
+    {
+      "title": "セブン-イレブン、従業員らによる人気キャラ商品の不正転売を確認 加盟店に注意喚起",
+      "summary": "セブン-イレブン・ジャパンは、一部の加盟店でオーナーや従業員が発売前の人気キャラクター商品を取り置き、転売サイトに出品していたことを確認したとして、全国の加盟店に注意喚起を行った。23日までに判明。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUA231CA0T20C26A7000000/"
-    },
-    {
-      "title": "日経平均が反発、307円高の66422円 米半導体株高が追い風",
-      "summary": "23日の東京株式市場で日経平均株価は反発し、前日比307円高の66422.60円で取引を終えた。米半導体株の上昇やアルファベットのAI投資拡大方針を好感し、値がさ半導体関連株が買われたが、長期金利上昇や中東情勢が重荷となり上げ幅は縮小した。",
-      "source": "NHKニュース",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015183761000"
-    },
-    {
-      "title": "「副首都」法案、参議院で参考人質疑 整備費用や財源めぐり論戦",
-      "summary": "23日、参議院特別委員会で「副首都」構想法案について参考人質疑が行われ、整備費用や財源の見通しをめぐり与野党が論戦を交わした。与党は24日の委員会採決・成立を目指すが、参院で少数与党のため成否は不透明。",
-      "source": "NHKニュース",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015184091000"
-    },
-    {
-      "title": "消費税減税、高市首相「政治的判断」の見方強まる 国民会議での合意断念か",
-      "summary": "食料品の消費税減税(8%→1%)をめぐり、高市首相が8月上旬までに方針決定するとした中、与野党協議の場である「国民会議」での合意形成を断念し、首相の政治判断で決着させるとの見方が強まっていると23日報じられた。現金給付を求める野党との溝は埋まっていない。",
-      "source": "読売新聞",
-      "link": "https://news.infoseek.co.jp/article/yomiuri_20260723_gyt1t00017/"
-    },
-    {
-      "title": "日中外相が接触、関係悪化以降で初めて 意思疎通の重要性伝達か",
-      "summary": "フィリピン・マニラでのASEAN関連外相会合に出席した茂木敏充外相が中国の王毅外相と短時間接触した。高市首相の台湾有事に関する国会答弁を機に悪化した日中関係下で外相同士の接触は初めてで、意思疎通の重要性を伝えたとみられる。23日報道。",
-      "source": "NHKニュース",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015184051000"
+      "link": "https://www.nikkei.com/article/DGXZQOUC2311F0T20C26A7000000/"
     }
   ],
   "tech": [
     {
-      "title": "JX金属、韓国の半導体材料拠点に40億円投資し加工能力2倍へ",
-      "summary": "JX金属は韓国・平沢市の拠点に自動加工ラインを導入し、半導体の回路形成に使う金属材料「スパッタリングターゲット」の加工能力を2025年度比で約2倍に引き上げる。サムスン電子やSKハイニックスの大型投資による需要拡大を取り込む狙いで、7月23日に報じられた。",
+      "title": "ディスコ、4~6月期営業利益が42%増の490億円 AI向け半導体装置が牽引",
+      "summary": "半導体製造装置大手ディスコが23日発表した2026年4~6月期連結決算は、営業利益が前年同期比42.2%増の490億円と同期間として過去最高を更新。AI向け半導体の製造装置・消耗品の販売が計画を上回って伸びた。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUC227J30S6A720C2000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOUB139X50T10C26A7000000/"
     },
     {
-      "title": "AIメカテック株価急伸、海外半導体大手からAI向け大口受注",
-      "summary": "半導体製造装置のAIメカテックが7月23日、海外の大手半導体関連メーカー2社からデータセンター向けAI半導体パッケージ用のはんだボールマウンタシステムを約25億〜180億円規模で受注したと発表し、株価が一時ストップ高となった。",
+      "title": "インテル、7~9月期売上高見通しが市場予想を上回り株価一時13%急伸",
+      "summary": "米インテルが23日発表した2026年4~6月期決算はデータセンター・AI事業が好調で市場予想を上回り、7~9月期の売上高見通しも上振れ。時間外取引で株価が一時13%急騰した。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOFL230PJ0T20C26A7000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOGN2324P0T20C26A7000000/"
     },
     {
-      "title": "自動運転のティアフォー、上場2日目も大幅高で推移",
-      "summary": "AI・自動運転ソフト「Autoware」を手がけるティアフォーが東証グロースに上場後2日目となる7月23日、公開価格1085円を上回る水準で大幅高となった。前日の初値は公開価格を7%下回る1009円だった。",
-      "source": "みんかぶ",
-      "link": "https://s.minkabu.jp/news/4574538"
+      "title": "アルファベット、4~6月期純利益が前年同期の4倍の18兆円 クラウド好調とAI関連の投資益が押し上げ",
+      "summary": "グーグルの持ち株会社アルファベットが22日発表した4~6月期決算は、純利益が前年同期比約4倍の1121億ドル(約18兆3千億円)。保有株の含み益に加え、クラウド事業がAI需要を取り込み82%増収と大きく伸びた。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOGN180O60Y6A710C2000000/"
     },
     {
-      "title": "中国AIスタートアップ「Psibot」評価額14.8億ドルに到達",
-      "summary": "中国の自動車・センサー大手が出資するAIスタートアップPsibot(霊初智能)が新規資金調達を実施し、評価額14.8億ドルに達したとBloombergが7月23日に報じた。創業以来の累計調達額は約3億ドル。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-23/china-s-psibot-becomes-latest-ai-startup-to-hit-1-billion-value"
+      "title": "OpenAI、企業向けAIエージェント基盤「Presence」を発表",
+      "summary": "OpenAIは22日、企業が音声・チャットAIエージェントを安全に導入・運用できる新プラットフォーム「Presence」を発表。ガードレールやエスカレーションルールを組み込み、限定顧客への提供を開始した。",
+      "source": "OpenAI/VentureBeat",
+      "link": "https://openai.com/index/introducing-openai-presence/"
     },
     {
-      "title": "日立、インテル・産総研とシリコン量子コンピューター開発でNEDO事業に採択",
-      "summary": "日立製作所はインテルの日本法人、産業技術総合研究所と連携し、シリコンスピン量子ビットを用いた次世代量子コンピューターの研究開発をNEDO事業として開始すると発表。実施期間は2029年3月までで、7月22〜23日に報じられた。",
-      "source": "マイナビニュース",
-      "link": "https://news.mynavi.jp/techplus/article/20260723-4733085/"
+      "title": "OpenAI、米ジョージア州に3.2GW・3兆円超のデータセンター「Project Camellia」を計画",
+      "summary": "OpenAIは22日、米ジョージア州エフィンガム郡に3.2ギガワット規模、投資額300億ドル超のデータセンター施設「Project Camellia」を建設すると発表。2028年から段階的に稼働する予定。",
+      "source": "TechRadar/Axios",
+      "link": "https://www.techradar.com/pro/openai-is-spending-usd30-billion-on-a-new-mega-3-2-gw-data-center-in-georgia-and-its-trying-really-hard-to-quell-local-opposition"
     },
     {
-      "title": "量子スタートアップPsiQuantum、DARPAと1億2500万ドルの拡大契約",
-      "summary": "PsiQuantumは米国防高等研究計画局(DARPA)の量子ベンチマーク構想(QBI)の下、実用規模量子コンピューターのハード・ソフト・インフラ検証を対象とする1億2500万ドルの拡大契約を締結したと7月22日に発表した。",
+      "title": "Anthropic、Claudeの音声モードを刷新 OpusとSonnetモデルに初対応",
+      "summary": "Anthropicは23日、Claudeの音声モードを刷新したと発表。従来はHaikuモデルのみだったが、初めてOpus・Sonnetモデルでも音声対話が可能になり、より自然な抑揚と応答速度の向上を実現した。",
+      "source": "9to5Mac",
+      "link": "https://9to5mac.com/2026/07/23/anthropic-upgrades-claude-voice-mode-with-more-powerful-models/"
+    },
+    {
+      "title": "Sakana AI、セキュリティ特化AI「Fugu-Cyber」を発表 評価スコア86.9%を主張も検証手法は非公開",
+      "summary": "Sakana AIはサイバーセキュリティ特化のオーケストレーションモデル「Fugu-Cyber」を発表。脆弱性検証ベンチマークで86.9%のスコアを主張しているが、第三者による再現検証はまだなく手法も非公開だと報じられた。",
+      "source": "財経新聞",
+      "link": "https://www.zaikei.co.jp/article/20260723/862513.html"
+    },
+    {
+      "title": "Nvidia、月面ローバーにJetsonチップを搭載へ 初のGPU月面進出か",
+      "summary": "宇宙インフラ企業Lunar Outpostは、次期月面ローバーのライダー制御にNvidiaのJetsonチップを採用すると発表。実現すれば月面に設置される初のGPUとなる見通し。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/"
+    },
+    {
+      "title": "Apple、AI需要取り込みへMacシリーズ全面刷新へ",
+      "summary": "Appleは、AI対応需要の高まりを受けMacBook Air、iMac、MacBook Pro、Mac miniなど主要Mac全機種を今秋から順次刷新する計画。M6チップ搭載の廉価版MacBook Proを皮切りに展開する見通し。",
+      "source": "MacDailyNews",
+      "link": "https://macdailynews.com/2026/07/23/apple-gears-up-for-total-mac-lineup-overhaul-to-capitalize-on-ai-demand/"
+    },
+    {
+      "title": "IBM、量子コンピューティング研究強化へHRL Laboratoriesを買収",
+      "summary": "IBMはシリコンスピン量子ビット技術に強みを持つHRL Laboratoriesを買収する契約を締結したと発表。量子コンピューティングやセンシング、ネットワーキング分野の研究体制を強化する狙い。",
       "source": "The Quantum Insider",
-      "link": "https://thequantuminsider.com/2026/07/22/psiquantum-signs-125-million-agreement-with-darpa/"
-    },
-    {
-      "title": "Amazon、AGI(汎用人工知能)部門で人員削減",
-      "summary": "Amazonは7月22日、モデルのカスタマイズや事後学習を担当するAGI部門の一部従業員を削減したと確認した。今年に入り既に約1万6000人の削減を実施しており、累計は約3万人に達する。",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/07/22/amazon-lays-off-some-employees-in-its-agi-unit.html"
-    },
-    {
-      "title": "インテル、決算発表を控えデータセンター・AI部門で新たな人員削減",
-      "summary": "インテルは7月23日の第2四半期決算発表を控え、Lip-Bu Tan CEOの立て直し策の一環としてデータセンター・AI部門で新たな人員削減に着手したと7月22日に報じられた。削減人数は非公表。",
-      "source": "Benzinga",
-      "link": "https://www.benzinga.com/markets/tech/26/07/60568468/intel-layoffs-data-center-ai-unit-earnings"
-    },
-    {
-      "title": "アルファベットのAI投資計画拡大観測でアジア半導体株が上昇",
-      "summary": "アルファベットが2026年に最大2000億ドルをAI計算基盤に投じる計画への期待から、SKハイニックスが一時6.5%高、アルファベット向けカスタムチップ開発が報じられるMediaTekも5.2%高となるなど、アジアの半導体株が7月23日に上昇した。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-23/asian-chip-stocks-climb-as-alphabet-spending-revives-ai-momentum"
+      "link": "https://thequantuminsider.com/2026/07/23/ibm-to-acquire-hrl-laboratories-to-power-the-future-of-quantum/"
     }
   ],
   "x_trending_tech": [
     {
-      "title": "Nintendo Switch 2『スプラトゥーン レイダース セット』が本日発売",
-      "summary": "任天堂公式が「Nintendo Switch 2(日本語・国内専用)スプラトゥーン レイダース セット」が本日発売であると告知。7/23朝10時頃の投稿。",
-      "source": "@Nintendo",
-      "link": "https://x.com/Nintendo/status/2080098368064537030"
-    },
-    {
-      "title": "アルファベットCEO、2026年Q2決算でAI投資拡大とGemini急成長を発表",
-      "summary": "Google CEOのサンダー・ピチャイ氏が、Alphabetの2026年第2四半期決算(売上24%増、Google Cloud82%増)とGeminiアプリの月間アクティブユーザー9.5億人達成などAI関連の成長について7/23未明5時頃に投稿。",
-      "source": "@sundarpichai",
-      "link": "https://x.com/sundarpichai/status/2080021408856293584"
-    },
-    {
-      "title": "Tesla公式、2026年Q2決算でOptimus量産・Robotaxi拡大などを発表",
-      "summary": "Tesla公式アカウントが、Cybercabの生産開始、Robotaxiの7大都市圏展開、フリーモント工場でのOptimusロボット生産開始などを含む株主向け決算ハイライトを7/23未明5時頃に投稿。",
-      "source": "@Tesla",
-      "link": "https://x.com/Tesla/status/2080021924072366329"
+      "title": "インテル決算好調受け、2026・27年の設備投資を増額との観測が浮上",
+      "summary": "市場情報アカウントFinancialJuiceが、インテルが2026年・2027年の設備投資(capex)を増額するとの観測を投稿。23日発表の好決算・強気の通期見通しを受けた反応とみられる投稿。",
+      "source": "@financialjuice",
+      "link": "https://x.com/financialjuice/status/2080383147364032794"
     }
   ]
 }
