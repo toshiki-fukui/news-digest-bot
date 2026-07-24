@@ -1,105 +1,123 @@
 {
-  "run_label": "7/24 07:00",
+  "run_label": "7/24 19:00",
   "politics_economy": [
     {
-      "title": "「副首都」法案、参院で採決折り合わず 会期末25日に向け土壇場の攻防続く",
-      "summary": "与党は参院特別委員会での24日採決を目指したが野党との調整がつかず、25日の会期末を前に修正協議が続いている。参院は少数与党のため成否は不透明で、衆院での再可決も視野に入る。",
-      "source": "NHKニュース/ライブドアニュース",
-      "link": "https://news.livedoor.com/topics/detail/31897668/"
-    },
-    {
-      "title": "円の実効為替レートが最安値を更新、対ドルだけでなく全面安が鮮明に",
-      "summary": "円は対ドルだけでなく主要通貨に対して幅広く下落しており、日銀の実効為替レート指数は過去最低水準を更新した。財政拡張路線への警戒感が円売りを招いている。23日報道。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-23/yen-s-slump-in-trade-weighted-gauge-shows-its-broad-based-drop"
-    },
-    {
-      "title": "2026年度の最低賃金、労働者側が75円増額を要求 中央審議会は23日決着へ",
-      "summary": "中央最低賃金審議会の小委員会で、労働者側委員が全国加重平均で75円の引き上げを要求。使用者側も相当程度の引き上げを容認する姿勢で、23日の決着が焦点となっている。",
-      "source": "中日新聞",
-      "link": "https://www.chunichi.co.jp/article/1285674"
-    },
-    {
-      "title": "いよぎんHDと愛媛銀行、経営統合に向け最終調整 総資産12兆円規模の地銀グループに",
-      "summary": "愛媛県地盤のいよぎんホールディングスと愛媛銀行が2027年4月をめどに持ち株会社方式で経営統合する方向で最終調整していることが23日分かった。両行の名称は維持する見通し。",
-      "source": "NHKニュース",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015184581000"
-    },
-    {
-      "title": "セブン-イレブン、従業員らによる人気キャラ商品の不正転売を確認 加盟店に注意喚起",
-      "summary": "セブン-イレブン・ジャパンは、一部の加盟店でオーナーや従業員が発売前の人気キャラクター商品を取り置き、転売サイトに出品していたことを確認したとして、全国の加盟店に注意喚起を行った。23日までに判明。",
+      "title": "6月の消費者物価、生鮮食品除き1.6%上昇 2%割れは5カ月連続",
+      "summary": "総務省が24日発表した6月の全国消費者物価指数（生鮮食品除く総合）は前年同月比1.6%上昇。伸び率は5カ月連続で2%を下回った。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUC2311F0T20C26A7000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOUA234930T20C26A7000000/"
+    },
+    {
+      "title": "日経平均株価が急落、終値1811円安 AI半導体株に売り",
+      "summary": "24日の東京株式市場で日経平均株価が急落し、終値は前日比1811円安。米ハイテク株安と中東情勢の緊迫化を受け、アドバンテストなど値がさ半導体株が売られた。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUB240HFTU6A720C2000000/"
+    },
+    {
+      "title": "片山財務相、急速な円安に「断固たる措置を果断に」",
+      "summary": "片山さつき財務相は24日の閣議後会見で、1ドル=163円台後半で推移する為替相場について、過度な変動には断固たる措置を果断に講じる考えを示した。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUA241SI0U6A720C2000000/"
+    },
+    {
+      "title": "経済財政白書、中東情勢の影響を分析 個人消費の動向注視",
+      "summary": "政府が24日公表した経済財政白書は、中東情勢緊迫化による原油高が家計の実質所得を下押しするとして、個人消費の動向を注視する必要があると指摘した。",
+      "source": "NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015185251000"
+    },
+    {
+      "title": "日ロ外相、ウクライナ侵攻後初の接触 茂木氏「対ロ政策に変わりなし」",
+      "summary": "茂木外務大臣は訪問先で21日にロシアのラブロフ外相と短時間面会。日ロ外相の接触はロシアによるウクライナ侵攻以降初めてで、24日の会見で茂木氏は対ロ制裁方針に変わりはないと強調した。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUA243CR0U6A720C2000000/"
     }
   ],
   "tech": [
     {
-      "title": "ディスコ、4~6月期営業利益が42%増の490億円 AI向け半導体装置が牽引",
-      "summary": "半導体製造装置大手ディスコが23日発表した2026年4~6月期連結決算は、営業利益が前年同期比42.2%増の490億円と同期間として過去最高を更新。AI向け半導体の製造装置・消耗品の販売が計画を上回って伸びた。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUB139X50T10C26A7000000/"
+      "title": "ホワイトハウス、中国Moonshot AIが禁輸のNvidia GB300でAnthropicモデルを不正蒸留と非難",
+      "summary": "米ホワイトハウスのクラチオスOSTP局長は23日、中国のMoonshot AIがタイ経由で禁輸対象のNvidia GB300チップを入手し、Anthropicの「Fable」モデルを大規模に不正蒸留して「Kimi K3」を開発したと非難した。",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/07/23/moonshot-kimi-nvidia-ai-chips-export-ban.html"
     },
     {
-      "title": "インテル、7~9月期売上高見通しが市場予想を上回り株価一時13%急伸",
-      "summary": "米インテルが23日発表した2026年4~6月期決算はデータセンター・AI事業が好調で市場予想を上回り、7~9月期の売上高見通しも上振れ。時間外取引で株価が一時13%急騰した。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOGN2324P0T20C26A7000000/"
-    },
-    {
-      "title": "アルファベット、4~6月期純利益が前年同期の4倍の18兆円 クラウド好調とAI関連の投資益が押し上げ",
-      "summary": "グーグルの持ち株会社アルファベットが22日発表した4~6月期決算は、純利益が前年同期比約4倍の1121億ドル(約18兆3千億円)。保有株の含み益に加え、クラウド事業がAI需要を取り込み82%増収と大きく伸びた。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOGN180O60Y6A710C2000000/"
-    },
-    {
-      "title": "OpenAI、企業向けAIエージェント基盤「Presence」を発表",
-      "summary": "OpenAIは22日、企業が音声・チャットAIエージェントを安全に導入・運用できる新プラットフォーム「Presence」を発表。ガードレールやエスカレーションルールを組み込み、限定顧客への提供を開始した。",
-      "source": "OpenAI/VentureBeat",
-      "link": "https://openai.com/index/introducing-openai-presence/"
-    },
-    {
-      "title": "OpenAI、米ジョージア州に3.2GW・3兆円超のデータセンター「Project Camellia」を計画",
-      "summary": "OpenAIは22日、米ジョージア州エフィンガム郡に3.2ギガワット規模、投資額300億ドル超のデータセンター施設「Project Camellia」を建設すると発表。2028年から段階的に稼働する予定。",
-      "source": "TechRadar/Axios",
-      "link": "https://www.techradar.com/pro/openai-is-spending-usd30-billion-on-a-new-mega-3-2-gw-data-center-in-georgia-and-its-trying-really-hard-to-quell-local-opposition"
-    },
-    {
-      "title": "Anthropic、Claudeの音声モードを刷新 OpusとSonnetモデルに初対応",
-      "summary": "Anthropicは23日、Claudeの音声モードを刷新したと発表。従来はHaikuモデルのみだったが、初めてOpus・Sonnetモデルでも音声対話が可能になり、より自然な抑揚と応答速度の向上を実現した。",
-      "source": "9to5Mac",
-      "link": "https://9to5mac.com/2026/07/23/anthropic-upgrades-claude-voice-mode-with-more-powerful-models/"
-    },
-    {
-      "title": "Sakana AI、セキュリティ特化AI「Fugu-Cyber」を発表 評価スコア86.9%を主張も検証手法は非公開",
-      "summary": "Sakana AIはサイバーセキュリティ特化のオーケストレーションモデル「Fugu-Cyber」を発表。脆弱性検証ベンチマークで86.9%のスコアを主張しているが、第三者による再現検証はまだなく手法も非公開だと報じられた。",
-      "source": "財経新聞",
-      "link": "https://www.zaikei.co.jp/article/20260723/862513.html"
-    },
-    {
-      "title": "Nvidia、月面ローバーにJetsonチップを搭載へ 初のGPU月面進出か",
-      "summary": "宇宙インフラ企業Lunar Outpostは、次期月面ローバーのライダー制御にNvidiaのJetsonチップを採用すると発表。実現すれば月面に設置される初のGPUとなる見通し。",
+      "title": "AIチップ新興Etched、3億ドル調達で評価額103億ドルに倍増",
+      "summary": "推論特化型AIチップを開発する米Etchedは23日、Sequoia主導のシリーズCで3億ドルを調達し評価額103億ドルに達したと発表。7カ月で評価額が倍増した。",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/"
+      "link": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/"
     },
     {
-      "title": "Apple、AI需要取り込みへMacシリーズ全面刷新へ",
-      "summary": "Appleは、AI対応需要の高まりを受けMacBook Air、iMac、MacBook Pro、Mac miniなど主要Mac全機種を今秋から順次刷新する計画。M6チップ搭載の廉価版MacBook Proを皮切りに展開する見通し。",
-      "source": "MacDailyNews",
-      "link": "https://macdailynews.com/2026/07/23/apple-gears-up-for-total-mac-lineup-overhaul-to-capitalize-on-ai-demand/"
+      "title": "AMD、第6世代EPYCと新型AIアクセラレータ「Instinct MI400」を発表",
+      "summary": "AMDは「Advancing AI 2026」イベントでサーバー／HPC向け第6世代EPYCと「Instinct MI400」シリーズを発表。搭載製品は順次投入される。",
+      "source": "ITmedia PC USER",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2607/24/news074.html"
     },
     {
-      "title": "IBM、量子コンピューティング研究強化へHRL Laboratoriesを買収",
-      "summary": "IBMはシリコンスピン量子ビット技術に強みを持つHRL Laboratoriesを買収する契約を締結したと発表。量子コンピューティングやセンシング、ネットワーキング分野の研究体制を強化する狙い。",
+      "title": "Google、パスワード不要の「自撮り動画」ログイン機能を導入",
+      "summary": "Googleはパスワードを忘れた場合や端末を紛失した際でも、自撮り動画でアカウントにログインできる新機能を発表した。",
+      "source": "ITmedia NEWS",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/24/news056.html"
+    },
+    {
+      "title": "元Uber創業者カラニック氏のロボティクス企業Atoms、a16z主導で17億ドル調達",
+      "summary": "トラビス・カラニック氏率いる産業用ロボティクス企業Atomsは22日、a16z主導のラウンドで17億ドルを調達したと発表。Uberも出資し、食品・鉱業・輸送分野の自動化を目指す。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/"
+    },
+    {
+      "title": "ロボティクス新興Genesis AI、5億ドル調達を交渉中",
+      "summary": "汎用ロボット基盤モデルを開発するGenesis AIが評価額30億ドルで約5億ドルの新規調達に向け投資家と交渉していると23日報じられた。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-23/robotics-startup-genesis-in-talks-to-raise-about-500-million"
+    },
+    {
+      "title": "米ハイテク大手7社、AI投資懸念で1日に約8000億ドルの時価総額消失",
+      "summary": "23日の米株式市場でアルファベットやテスラの決算を受け巨額AI投資への懸念が強まり、「マグニフィセント7」銘柄が1日で約797億ドル規模の時価総額を失った。中東情勢の緊迫化も重荷となった。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-23/magnificent-7-loses-767-billion-as-ai-skeptics-dump-tech-stocks"
+    },
+    {
+      "title": "イスラエルAI担当高官、半導体工場誘致とデータセンター拡張を模索",
+      "summary": "イスラエルのAI政策責任者は23日、TSMCやサムスン、インテルなどに半導体製造拠点の誘致を働きかけ、AI分野での競争力維持へデータセンター拡張を目指す方針を明らかにした。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-23/israel-s-ai-czar-seeks-chip-fab-new-data-centers-to-keep-edge"
+    },
+    {
+      "title": "フィールズ賞受賞の数学者ツィママン氏、AI安全研究のためOpenAIへ",
+      "summary": "2026年フィールズ賞を受賞した数学者ジェイコブ・ツィママン氏は23日の授賞式で、AIの安全性研究のためOpenAIに参加すると発表した。",
+      "source": "France 24",
+      "link": "https://www.france24.com/en/americas/20260723-fields-medal-honours-four-mathematicians-as-ai-reshapes-the-profession"
+    },
+    {
+      "title": "中国新興企業、データセンター向け量子コンピュータをWAICで発表",
+      "summary": "上海の量子コンピューティング新興企業が22日、標準的なデータセンターラックに搭載可能なサーバー型量子コンピュータをWAIC 2026で披露した。",
       "source": "The Quantum Insider",
-      "link": "https://thequantuminsider.com/2026/07/23/ibm-to-acquire-hrl-laboratories-to-power-the-future-of-quantum/"
+      "link": "https://thequantuminsider.com/2026/07/22/shanghai-startup-unveils-data-center-ready-quantum-computer-at-waic-2026/"
     }
   ],
   "x_trending_tech": [
     {
-      "title": "インテル決算好調受け、2026・27年の設備投資を増額との観測が浮上",
-      "summary": "市場情報アカウントFinancialJuiceが、インテルが2026年・2027年の設備投資(capex)を増額するとの観測を投稿。23日発表の好決算・強気の通期見通しを受けた反応とみられる投稿。",
-      "source": "@financialjuice",
-      "link": "https://x.com/financialjuice/status/2080383147364032794"
+      "title": "OpenAI幹部、フィールズ賞受賞のツィママン氏の参加を歓迎",
+      "summary": "OpenAIのマーク・チェン氏は24日早朝(JST、投稿は約13時間前)、フィールズ賞受賞者ツィママン氏がAI安全研究チームに参加することを歓迎する投稿をした。",
+      "source": "@markchen90",
+      "link": "https://x.com/markchen90/status/2080396049936502960"
+    },
+    {
+      "title": "「マグニフィセント7」1日で約8000億ドル消失とYahoo Financeが速報",
+      "summary": "Yahoo Financeは24日早朝(JST、投稿は約13時間前)、AI投資懸念を背景に主要ハイテク7社の時価総額が1日で約797億ドル減少したと投稿した。",
+      "source": "@YahooFinance",
+      "link": "https://x.com/YahooFinance/status/2080395562671608152"
+    },
+    {
+      "title": "AIチップ新興Etchedの300億円規模調達に反応の投稿が拡散",
+      "summary": "Etchedが評価額103億ドルで3億ドルを調達したことを受け、「当然の結果だ」との反応投稿が話題に（7/24未明、投稿は約16時間前）。",
+      "source": "@amritwt",
+      "link": "https://x.com/amritwt/status/2080352189416108052"
+    },
+    {
+      "title": "Google公式、自撮り動画でのアカウントログイン機能を発表",
+      "summary": "Google公式アカウントが23日夜(JST、投稿は約21時間前)、パスワードを忘れた場合でも自撮り動画でログインできる新機能を発表した。",
+      "source": "@Google",
+      "link": "https://x.com/Google/status/2080284006512201760"
     }
   ]
 }
