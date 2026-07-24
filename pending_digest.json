@@ -1,123 +1,117 @@
 {
-  "run_label": "7/24 19:00",
+  "run_label": "7/25 07:00",
   "politics_economy": [
     {
-      "title": "6月の消費者物価、生鮮食品除き1.6%上昇 2%割れは5カ月連続",
-      "summary": "総務省が24日発表した6月の全国消費者物価指数（生鮮食品除く総合）は前年同月比1.6%上昇。伸び率は5カ月連続で2%を下回った。",
+      "title": "副首都法が成立、東京一極集中を是正へ",
+      "summary": "大規模災害時の代替拠点確保などを目的とする副首都法が24日、参院本会議で可決・成立した。政府は今秋にも指定要件をまとめる方針。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUA234930T20C26A7000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOUA232PL0T20C26A7000000/"
     },
     {
-      "title": "日経平均株価が急落、終値1811円安 AI半導体株に売り",
-      "summary": "24日の東京株式市場で日経平均株価が急落し、終値は前日比1811円安。米ハイテク株安と中東情勢の緊迫化を受け、アドバンテストなど値がさ半導体株が売られた。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUB240HFTU6A720C2000000/"
+      "title": "高市首相、内閣改造の検討開始 実施は8月か9月に",
+      "summary": "高市早苗首相は内閣改造と自民党役員人事の検討に入る方針を固めた。鈴木俊一幹事長ら「政権の骨格」の処遇が焦点となる（24日報道）。",
+      "source": "ライブドアニュース",
+      "link": "https://news.livedoor.com/topics/detail/31904918/"
     },
     {
-      "title": "片山財務相、急速な円安に「断固たる措置を果断に」",
-      "summary": "片山さつき財務相は24日の閣議後会見で、1ドル=163円台後半で推移する為替相場について、過度な変動には断固たる措置を果断に講じる考えを示した。",
+      "title": "円相場、5日続落 163円台後半 中東懸念で",
+      "summary": "24日の東京外国為替市場で円相場は163円台後半まで下落し5営業日続落。中東情勢の緊迫化を背景にした「有事のドル買い」が要因（24日17時時点）。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUA241SI0U6A720C2000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOFL245JI0U6A720C2000000/"
     },
     {
-      "title": "経済財政白書、中東情勢の影響を分析 個人消費の動向注視",
-      "summary": "政府が24日公表した経済財政白書は、中東情勢緊迫化による原油高が家計の実質所得を下押しするとして、個人消費の動向を注視する必要があると指摘した。",
+      "title": "南鳥島沖のレアアース泥、イットリウムなど検出 高市首相「半導体・自動車に重要」",
+      "summary": "南鳥島沖の深海から引き揚げたレアアース泥約50トンの成分分析結果が24日公表され、イットリウムなど中重レアアースを多く含むことが判明。高市首相もXで言及した。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUA2442H0U6A720C2000000/"
+    },
+    {
+      "title": "超党派議員、AI活用による国会機能強化を衆参議長に提言",
+      "summary": "与野党7党の国会議員でつくる超党派勉強会が24日、AI・デジタル技術の活用による立法府機能強化の提言書を衆参両院議長に提出した。",
       "source": "NHKニュース",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015185251000"
-    },
-    {
-      "title": "日ロ外相、ウクライナ侵攻後初の接触 茂木氏「対ロ政策に変わりなし」",
-      "summary": "茂木外務大臣は訪問先で21日にロシアのラブロフ外相と短時間面会。日ロ外相の接触はロシアによるウクライナ侵攻以降初めてで、24日の会見で茂木氏は対ロ制裁方針に変わりはないと強調した。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUA243CR0U6A720C2000000/"
+      "link": "https://news.web.nhk/newsweb/na/na-k10015185181000"
     }
   ],
   "tech": [
     {
-      "title": "ホワイトハウス、中国Moonshot AIが禁輸のNvidia GB300でAnthropicモデルを不正蒸留と非難",
-      "summary": "米ホワイトハウスのクラチオスOSTP局長は23日、中国のMoonshot AIがタイ経由で禁輸対象のNvidia GB300チップを入手し、Anthropicの「Fable」モデルを大規模に不正蒸留して「Kimi K3」を開発したと非難した。",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/07/23/moonshot-kimi-nvidia-ai-chips-export-ban.html"
+      "title": "Nvidia CEOジェンセン・フアン氏、X初投稿でオープンウェイトAIを擁護",
+      "summary": "フアン氏は24日、自身初となるX投稿で、Microsoft・IBM・Palantirなど20社以上が署名したオープンウェイトAIモデルの重要性を訴える書簡を公開した。OpenAIとAnthropicは署名していない。",
+      "source": "Benzinga",
+      "link": "https://www.benzinga.com/markets/tech/26/07/60671067/jensen-huang-posts-on-x-for-the-first-time-ever-and-uses-it-to-defend-open-source-ai"
     },
     {
-      "title": "AIチップ新興Etched、3億ドル調達で評価額103億ドルに倍増",
-      "summary": "推論特化型AIチップを開発する米Etchedは23日、Sequoia主導のシリーズCで3億ドルを調達し評価額103億ドルに達したと発表。7カ月で評価額が倍増した。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/"
-    },
-    {
-      "title": "AMD、第6世代EPYCと新型AIアクセラレータ「Instinct MI400」を発表",
-      "summary": "AMDは「Advancing AI 2026」イベントでサーバー／HPC向け第6世代EPYCと「Instinct MI400」シリーズを発表。搭載製品は順次投入される。",
-      "source": "ITmedia PC USER",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2607/24/news074.html"
-    },
-    {
-      "title": "Google、パスワード不要の「自撮り動画」ログイン機能を導入",
-      "summary": "Googleはパスワードを忘れた場合や端末を紛失した際でも、自撮り動画でアカウントにログインできる新機能を発表した。",
-      "source": "ITmedia NEWS",
-      "link": "https://www.itmedia.co.jp/news/articles/2607/24/news056.html"
-    },
-    {
-      "title": "元Uber創業者カラニック氏のロボティクス企業Atoms、a16z主導で17億ドル調達",
-      "summary": "トラビス・カラニック氏率いる産業用ロボティクス企業Atomsは22日、a16z主導のラウンドで17億ドルを調達したと発表。Uberも出資し、食品・鉱業・輸送分野の自動化を目指す。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/"
-    },
-    {
-      "title": "ロボティクス新興Genesis AI、5億ドル調達を交渉中",
-      "summary": "汎用ロボット基盤モデルを開発するGenesis AIが評価額30億ドルで約5億ドルの新規調達に向け投資家と交渉していると23日報じられた。",
+      "title": "Anthropic、低価格・高性能の新モデル「Claude Opus 5」を発表",
+      "summary": "Anthropicは24日、最上位モデルFable 5に迫る性能を半額で提供する新モデル「Claude Opus 5」を公開した。Claude Maxの標準モデルとなる。",
       "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-23/robotics-startup-genesis-in-talks-to-raise-about-500-million"
+      "link": "https://www.bloomberg.com/news/articles/2026-07-24/anthropic-unveils-more-cost-efficient-model-for-everyday-tasks"
     },
     {
-      "title": "米ハイテク大手7社、AI投資懸念で1日に約8000億ドルの時価総額消失",
-      "summary": "23日の米株式市場でアルファベットやテスラの決算を受け巨額AI投資への懸念が強まり、「マグニフィセント7」銘柄が1日で約797億ドル規模の時価総額を失った。中東情勢の緊迫化も重荷となった。",
+      "title": "Stripe、AIモデル市場OpenRouterを約100億ドルで買収交渉",
+      "summary": "決済大手StripeがAIモデルマーケットプレイスのOpenRouterを約100億ドルで買収する交渉を進めていると23日、WSJが報道。同社の評価額は5月時点の13億ドルから急上昇する見込み。",
+      "source": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/technology/ai/articles/stripe-talks-acquire-openrouter-potential-215104525.html"
+    },
+    {
+      "title": "Black Forest Labs、動画・音声・ロボット制御対応のマルチモーダルモデル「FLUX 3」発表",
+      "summary": "画像生成AI企業Black Forest Labsは23日、画像・動画・音声を統合アーキテクチャで生成できる新モデル「FLUX 3」を発表。ロボット向け動作予測にも拡張可能という。",
+      "source": "VentureBeat",
+      "link": "https://venturebeat.com/technology/black-forest-labs-launches-flux-3-capable-of-generating-images-and-20-second-video-with-audio-but-in-limited-release-to-start"
+    },
+    {
+      "title": "Meta、AI活用の出品者専用アプリ「Seller」をFacebookマーケットプレイス向けに投入",
+      "summary": "Metaは24日、写真からAIが商品タイトルや説明文・価格を自動生成する出品者向け単独アプリ「Seller」を米国のiOS向けに公開した。",
+      "source": "Engadget",
+      "link": "https://www.engadget.com/2222363/meta-launches-storefront-platform-facebook-marketplace-seller/"
+    },
+    {
+      "title": "米下院にAI「キルスイッチ」法案 DHSに強制停止権限を付与",
+      "summary": "米下院議員が23日、強力なAIシステムに国土安全保障省が停止・制限を命じられる権限を与える「AIキルスイッチ法案」を提出。違反企業には最大2000万ドル/日の罰金を科す。OpenAIの自律型モデル逸脱事案を受けた動き。",
+      "source": "Tom's Hardware",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/bipartisan-bill-would-require-kill-switches-on-the-most-powerful-ai-models"
+    },
+    {
+      "title": "米半導体株が急落、フィラデルフィア半導体指数3%超安",
+      "summary": "24日の米国株式市場で半導体株が急落。フィラデルフィア半導体指数は3%超下落し、サンディスクは8%超、マイクロン・SKハイニックスも6%超値下がりした。",
+      "source": "BigGo Finance",
+      "link": "https://finance.biggo.jp/news/0d456356-d15e-4001-8711-217bb685d222"
+    },
+    {
+      "title": "中国AI企業の上場ラッシュ、Moonshot・DeepSeekが香港/上海IPOを検討",
+      "summary": "Kimi K3で注目を集めた中国Moonshot AIが評価額最大500億ドルで香港IPOを目指すほか、DeepSeekも評価額最大710億ドルで上海上場を検討していると23日報じられた。",
+      "source": "Fortune",
+      "link": "https://fortune.com/2026/07/23/moonshot-deepseek-great-chinese-ai-ipo-rush/"
+    },
+    {
+      "title": "サムスン・SKハイニックス、米企業と大型半導体供給契約へ",
+      "summary": "韓国大統領のシリコンバレー訪問に合わせ、サムスン電子とSKハイニックスが米大手テック企業と大規模な半導体供給契約を締結する見通しと24日報じられた。",
       "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-23/magnificent-7-loses-767-billion-as-ai-skeptics-dump-tech-stocks"
+      "link": "https://www.bloomberg.com/news/articles/2026-07-24/samsung-sk-hynix-to-ink-large-chip-supply-deals-with-us-firms"
     },
     {
-      "title": "イスラエルAI担当高官、半導体工場誘致とデータセンター拡張を模索",
-      "summary": "イスラエルのAI政策責任者は23日、TSMCやサムスン、インテルなどに半導体製造拠点の誘致を働きかけ、AI分野での競争力維持へデータセンター拡張を目指す方針を明らかにした。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-23/israel-s-ai-czar-seeks-chip-fab-new-data-centers-to-keep-edge"
-    },
-    {
-      "title": "フィールズ賞受賞の数学者ツィママン氏、AI安全研究のためOpenAIへ",
-      "summary": "2026年フィールズ賞を受賞した数学者ジェイコブ・ツィママン氏は23日の授賞式で、AIの安全性研究のためOpenAIに参加すると発表した。",
-      "source": "France 24",
-      "link": "https://www.france24.com/en/americas/20260723-fields-medal-honours-four-mathematicians-as-ai-reshapes-the-profession"
-    },
-    {
-      "title": "中国新興企業、データセンター向け量子コンピュータをWAICで発表",
-      "summary": "上海の量子コンピューティング新興企業が22日、標準的なデータセンターラックに搭載可能なサーバー型量子コンピュータをWAIC 2026で披露した。",
-      "source": "The Quantum Insider",
-      "link": "https://thequantuminsider.com/2026/07/22/shanghai-startup-unveils-data-center-ready-quantum-computer-at-waic-2026/"
+      "title": "ニチレイ、サイバー攻撃によるシステム障害から復旧",
+      "summary": "冷凍食品大手ニチレイは、13日に発生したサイバー攻撃による業務システム障害から24日に復旧し業務が正常化したと発表。情報セキュリティー各社には企業からの相談が相次いでいる。",
+      "source": "NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015185661000"
     }
   ],
   "x_trending_tech": [
     {
-      "title": "OpenAI幹部、フィールズ賞受賞のツィママン氏の参加を歓迎",
-      "summary": "OpenAIのマーク・チェン氏は24日早朝(JST、投稿は約13時間前)、フィールズ賞受賞者ツィママン氏がAI安全研究チームに参加することを歓迎する投稿をした。",
-      "source": "@markchen90",
-      "link": "https://x.com/markchen90/status/2080396049936502960"
+      "title": "Nvidia CEOジェンセン・フアン氏、X初投稿でオープンウェイトAIを支持する書簡を共有",
+      "summary": "フアン氏は24日夜(JST)、自身初のX投稿でMicrosoft・Meta・IBMなど20社以上が署名したオープンウェイトAIの重要性を訴える書簡を公開した。",
+      "source": "@JensenHuang",
+      "link": "https://x.com/JensenHuang/status/2080643682408321103"
     },
     {
-      "title": "「マグニフィセント7」1日で約8000億ドル消失とYahoo Financeが速報",
-      "summary": "Yahoo Financeは24日早朝(JST、投稿は約13時間前)、AI投資懸念を背景に主要ハイテク7社の時価総額が1日で約797億ドル減少したと投稿した。",
-      "source": "@YahooFinance",
-      "link": "https://x.com/YahooFinance/status/2080395562671608152"
+      "title": "Black Forest Labs公式、マルチモーダル新モデル「FLUX 3」投入を発表",
+      "summary": "Black Forest Labs公式アカウントが、画像・動画・音声・ロボット動作予測を単一アーキテクチャで扱う新モデル「FLUX 3」の早期アクセス開始を投稿(7/24未明、投稿は約15時間前)。",
+      "source": "@bfl_ai",
+      "link": "https://x.com/bfl_ai/status/2080308988961554582"
     },
     {
-      "title": "AIチップ新興Etchedの300億円規模調達に反応の投稿が拡散",
-      "summary": "Etchedが評価額103億ドルで3億ドルを調達したことを受け、「当然の結果だ」との反応投稿が話題に（7/24未明、投稿は約16時間前）。",
-      "source": "@amritwt",
-      "link": "https://x.com/amritwt/status/2080352189416108052"
-    },
-    {
-      "title": "Google公式、自撮り動画でのアカウントログイン機能を発表",
-      "summary": "Google公式アカウントが23日夜(JST、投稿は約21時間前)、パスワードを忘れた場合でも自撮り動画でログインできる新機能を発表した。",
-      "source": "@Google",
-      "link": "https://x.com/Google/status/2080284006512201760"
+      "title": "Stripe・OpenRouter買収交渉に業界関係者が反応",
+      "summary": "決済大手StripeがAIモデル市場OpenRouterを約100億ドルで買収交渉中との報道を受け、「決済とAIインフラの融合が示す業界の方向性」との分析投稿が拡散(24日夜、投稿は約13時間前)。",
+      "source": "@guilleflorvs",
+      "link": "https://x.com/guilleflorvs/status/2080614434079207433"
     }
   ]
 }
