@@ -1,117 +1,87 @@
 {
-  "run_label": "7/25 19:00",
+  "run_label": "7/26 07:00",
   "politics_economy": [
     {
-      "title": "特別国会が事実上閉幕、政府提出64法案が全て成立",
-      "summary": "第221特別国会が24日に事実上閉幕。改正皇室典範や国家情報会議設置法、防災庁設置法など高市首相肝煎りの政府提出法案64本が全て成立した。",
+      "title": "日経平均が最高値更新、終値3191円高 マイクロン決算好感で半導体株買われる",
+      "summary": "25日の東京株式市場で日経平均株価は前日比3191円高の7万2366円34銭で終え、過去最高値を更新した。米マイクロンの好決算を受けAI・半導体関連への期待が改めて高まった。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUA251BQ0V20C26A7000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOUB24A4TTU6A620C2000000/"
     },
     {
-      "title": "中ロ外相会談、日本の「再軍備」阻止で一致",
-      "summary": "中国の王毅外相とロシアのラブロフ外相が24日キルギスで会談し、日本の再軍備を「決して許してはならない」との認識で一致。中国は日本の防衛力強化を「新型軍国主義」と批判した。",
-      "source": "共同通信（Yahoo!ニュース）",
-      "link": "https://news.yahoo.co.jp/articles/884be16793d1a55f548b4f983e6410214ee5a794"
+      "title": "中国系メディア、王毅外相「茂木氏と会話せず」と投稿 日中外相接触に食い違い",
+      "summary": "中国国営メディア系アカウントが25日、マニラで王毅外相が日本の茂木外相と「会話しなかった」と投稿し、茂木氏が明らかにした22日の接触を巡り食い違いが表面化した。高市首相の台湾関連発言を巡る日中対立後、初の外相接触とされていた。",
+      "source": "日本経済新聞/共同通信",
+      "link": "https://www.nikkei.com/article/DGXZQOCB252990V20C26A7000000/"
     },
     {
-      "title": "日経平均、25日は反発し3カ月ぶり高値圏 AI・半導体株に買い戻し",
-      "summary": "25日の東京株式市場で日経平均株価は前日比1819円12銭高の6万5158円19銭で取引を終え、TOPIXも約3カ月ぶりに終値ベースで最高値を更新した。",
-      "source": "ウエルスアドバイザー（Yahoo!ファイナンス）",
-      "link": "https://finance.yahoo.co.jp/news/detail/1284ae0c35b13f9cb9aeead5b3a61c59711bc12d"
+      "title": "愛知県・名古屋市、「副首都」指定を目指すと正式表明",
+      "summary": "24日夜に成立した副首都法を受け、愛知県の大村知事と名古屋市の広沢市長が25日会見し、副首都指定を目指す方針を正式表明した。大阪府の吉村知事も同日コメントしている。",
+      "source": "NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015185791000"
     },
     {
-      "title": "NY円相場、163円80～90銭で推移 中東緊迫と米金利低下が綱引き",
-      "summary": "24日のNY外国為替市場で円相場は1ドル=163円80～90銭。中東情勢緊迫化に伴う原油高が一服し、米長期金利の低下も相場を下支えした。",
+      "title": "セブン&アイ、ポーランド最大手コンビニへの出資を見送りと発表",
+      "summary": "セブン&アイ・ホールディングスは25日、ポーランド最大手コンビニ「ジャブカ」グループへの出資計画について、条件面で折り合わず見送ると発表した。欧州軸の海外成長戦略にとって痛手となる。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOFL24BCX0U6A720C2000000/"
-    },
-    {
-      "title": "銀行業界、最高益の裏で「預金流出」に直面 くすぶる5つの火種",
-      "summary": "59行が最高益を連発する一方、銀行業界は預金流出という課題に直面していると24日報じられた。金利上昇局面での資金シフトなど懸念材料が指摘されている。",
-      "source": "東洋経済オンライン（Yahoo!ニュース）",
-      "link": "https://news.yahoo.co.jp/articles/9adba787dc170af53c5e215cbde692097c761af4"
+      "link": "https://www.nikkei.com/article/DGXZQOUC250EO0V20C26A7000000/"
     }
   ],
   "tech": [
     {
-      "title": "トランプ氏、EUのGoogle制裁金巡り新たな関税措置を警告",
-      "summary": "EUがデジタル市場法（DMA）違反でGoogleに8億9000万ユーロの制裁金を科したことを受け、トランプ大統領が通商法301条に基づく調査開始とEUへの新関税方針を表明（24～25日）。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-24/trump-vows-fresh-tariffs-on-european-union-over-google-fine"
-    },
-    {
-      "title": "NVIDIA、韓国KAISTと3億ドル規模のAI研究所を共同設立",
-      "summary": "NVIDIAが韓国科学技術院（KAIST）とソウルにエージェント型AIの共同研究所を設立すると発表。5年間で総額3億ドル規模を投じ、NVIDIAにとってアジア初の大学共同研究所となる。",
-      "source": "NVIDIA Newsroom",
-      "link": "https://nvidianews.nvidia.com/news/nvidia-and-kaist-launch-joint-ai-research-lab-to-accelerate-ai-innovation-in-korea"
-    },
-    {
-      "title": "Meta・Microsoft、決算発表週を控えAI投資への懸念再燃",
-      "summary": "今週予定されるMetaとMicrosoftの決算発表を前に、巨額のAI投資が十分な利益を生むかという投資家の懸念が再燃していると24日Bloombergが報じた。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-24/meta-microsoft-face-renewed-unease-over-ai-spending-us-earnings-week-ahead"
-    },
-    {
-      "title": "世界の半導体株、7月に急落 AI相場の過熱感修正広がる",
-      "summary": "MSCI世界半導体指数が7月に入り約6%下落するなど、過熱していたAI・半導体関連株から投機マネーが逆流。決算シーズンで投資家の目が一段と厳しくなっていると24日報じられた。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-24/tech-names-find-investors-much-harder-to-please-taking-stock"
-    },
-    {
-      "title": "サムスン・SKハイニックス・キオクシア、AI関連決算が試金石に",
-      "summary": "メモリー半導体大手3社の決算発表が近づく中、AI需要の持続性を占う重要な試金石になると24日Bloombergが報じた。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-24/sk-hynix-samsung-and-kioxia-face-pivotal-earnings-test-on-ai-swings"
-    },
-    {
-      "title": "AIスピアフィッシング対策のAegisAI、36億円のシリーズA調達",
-      "summary": "元Googleセキュリティ幹部が創業したAegisAIが、Battery Ventures主導で3600万ドルのシリーズAを調達したと23日発表。AIエージェントによるフィッシング対策を強化する。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/"
-    },
-    {
-      "title": "AI時代のデザインツール「Paper」、シリーズAで34億円調達",
-      "summary": "デザイナーがAIエージェントと直接連携できる設計プラットフォーム「Paper」が、AccelとICONIQ主導のシリーズAで3400万ドルを調達したと23日発表。Ramp、Vercelなどが顧客に名を連ねる。",
-      "source": "BusinessWire",
-      "link": "https://www.businesswire.com/news/home/20260723608438/en/Paper-Raises-$34-Million-Series-A-with-Accel-and-ICONIQ-to-Build-the-Design-Platform-for-the-Agentic-Era"
-    },
-    {
-      "title": "OpenAI「ChatGPT Health」、米国の全成人ユーザーに提供開始",
-      "summary": "OpenAIは医療記録やApple Healthと連携できる新機能「ChatGPT Health」を、23日から米国の18歳以上の全ユーザー向けにWeb・iOSで展開開始した。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/"
-    },
-    {
-      "title": "中国Moonshot「Kimi K3」、NVIDIA製GB300不正入手疑惑を米政権高官が指摘",
-      "summary": "米大統領府科学技術政策局長が22日、Moonshot AIがタイ経由で禁輸対象のNVIDIA製GB300チップを入手し、Anthropicのモデルを蒸留してKimi K3を開発した疑いがあると名指しで批判した。",
+      "title": "サムスン電子、ブロードコムと2000億ドル規模の半導体供給契約",
+      "summary": "サムスン電子が25日、ブロードコム向けに2nm以下の先端半導体とHBMメモリーを供給する5年間・2000億ドル超の契約を締結したと報じられた。サンフランシスコでのAIサミットに合わせ覚書に署名。",
       "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/07/23/moonshot-kimi-nvidia-ai-chips-export-ban.html"
+      "link": "https://www.cnbc.com/2026/07/25/samsung-electronics-wins-200-billion-broadcom-ai-chip-partnership.html"
+    },
+    {
+      "title": "NVIDIAと韓国SKグループ、5000億ドル規模のAIインフラ提携",
+      "summary": "NVIDIAと韓国SKグループが25日、韓国国内に2GW規模のAI工場を建設するVera Rubinプラットフォーム導入と、SKハイニックスからのHBM4長期供給を含む5000億ドル超の提携を発表した。",
+      "source": "CNBC/NVIDIA Newsroom",
+      "link": "https://www.cnbc.com/2026/07/25/nvidia-locks-down-memory-from-sk-hynix-as-part-of-500-billion-ai-deal.html"
+    },
+    {
+      "title": "アンソロピック、自社半導体製造へSKハイニックスに供給要請と判明",
+      "summary": "SKグループの崔泰源会長が25日、サンフランシスコでのAIサミット壇上でダリオ・アモデイCEOと共に、アンソロピックが独自チップ製造のためSKハイニックスに供給を要請していたと明かした。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-25/sk-chair-says-anthropic-asked-for-supplies-to-make-its-own-chips"
+    },
+    {
+      "title": "米韓、AI・半導体分野で110兆円規模の協業に合意",
+      "summary": "米国と韓国が25日、AI・半導体分野で950億ドル規模の協業に合意したと発表。李在明大統領はサンフランシスコで「AIに関するサンフランシスコ宣言」を発表した。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOGM250LJ0V20C26A7000000/"
+    },
+    {
+      "title": "マスク氏のボーリング・カンパニー、評価額2兆円超で資金調達交渉中",
+      "summary": "イーロン・マスク氏のトンネル掘削企業ボーリング・カンパニーが、評価額約200億ドル(2022年の57億ドルから大幅増)で約40億ドルの資金調達を交渉中と25日報じられた。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/"
+    },
+    {
+      "title": "AIデータセンターの急拡大、送電網不安定化のリスクを露呈",
+      "summary": "ワシントンD.C.近郊で送電線1本の故障により3GW分のAIデータセンターが同時に系統から切り離された事例を基に、AI電力需要拡大が送電網の安定性に及ぼすリスクを分析する記事が25日公開された。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/"
+    },
+    {
+      "title": "米司書ら「AI回避」講座を開催、ビッグテックへの反発広がる",
+      "summary": "米国内の図書館司書らが、Apple IntelligenceやGeminiなどのAI機能を無効化する方法を教える「AI回避」ワークショップを各地で開催しており、25日時点で話題になっていると報じられた。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/"
     }
   ],
   "x_trending_tech": [
     {
-      "title": "EUのGoogle制裁金を巡り、トランプ政権が「事実上の技術移転強要」と猛反発",
-      "summary": "国際通信社dpaが、トランプ大統領がEUのGoogle制裁金への報復として大幅関税を警告したと投稿（約13時間前）。",
-      "source": "@dpa_intl",
-      "link": "https://x.com/dpa_intl/status/2080759440534282723"
+      "title": "SpaceX、「スターシップ」13回目の試験飛行で着水に成功",
+      "summary": "SpaceX公式が、スターシップ第13回試験飛行が海面着水に成功したと発表。「これまでで最も柔らかい着水」と評された(7/25朝の投稿)。",
+      "source": "@SpaceX",
+      "link": "https://x.com/SpaceX/status/2080804682918764619"
     },
     {
-      "title": "サム・アルトマン氏、オープンウェイトAI支持書簡に賛意も自社は署名せず",
-      "summary": "OpenAIのアルトマンCEOが、Nvidiaなど25社が署名したオープンウェイトAI支持の書簡について「米国にはオープンでも独占型でも勝ってほしい」と投稿（約18時間前）。OpenAI自身は書簡に署名していない。",
-      "source": "@sama",
-      "link": "https://x.com/sama/status/2080683363174945065"
-    },
-    {
-      "title": "イーロン・マスク氏、「Grok 4.6は2週間後、4.7は4週間後」と投稿",
-      "summary": "マスク氏が自身のXアカウントで次期Grokモデルの投入時期を予告する投稿を行い、90万件超の閲覧を集めた（24日夜、投稿は半日ほど前）。",
+      "title": "マスク氏、「耐熱シールドのデータは十分すぎるほど取れた」と投稿",
+      "summary": "イーロン・マスク氏がスターシップ第13回飛行の返信ポストで、耐熱シールドについて想定以上のデータを取得できたと明かした(7/25朝の投稿)。",
       "source": "@elonmusk",
-      "link": "https://x.com/elonmusk/status/2080724087593226311"
-    },
-    {
-      "title": "米通商代表部、EUのGoogle制裁金を「事実上の技術移転強要」と批判",
-      "summary": "Euronews記者が、トランプ政権がEUの欧州委員会に対しGoogleへの制裁金は「不当な財務的懲罰」だと非難する声明を出したと報告する投稿を共有。",
-      "source": "@JorgeLiboreiro",
-      "link": "https://x.com/JorgeLiboreiro/status/2080352218885087359"
+      "link": "https://x.com/elonmusk/status/2080812297694409014"
     }
   ]
 }
