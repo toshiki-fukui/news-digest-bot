@@ -1,87 +1,98 @@
 {
-  "run_label": "7/26 07:00",
+  "run_label": "7/26 19:00",
   "politics_economy": [
     {
-      "title": "日経平均が最高値更新、終値3191円高 マイクロン決算好感で半導体株買われる",
-      "summary": "25日の東京株式市場で日経平均株価は前日比3191円高の7万2366円34銭で終え、過去最高値を更新した。米マイクロンの好決算を受けAI・半導体関連への期待が改めて高まった。",
+      "title": "「飛鳥・藤原の宮都」ユネスコ世界文化遺産に登録決定",
+      "summary": "26日、韓国・釜山で開催中の第48回世界遺産委員会が、奈良県の飛鳥時代の宮殿跡や高松塚古墳など19遺跡からなる「飛鳥・藤原の宮都」を世界文化遺産に登録すると決定した。国内の世界遺産は27件目となる。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUB24A4TTU6A620C2000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOUD080F70Y6A700C2000000/"
     },
     {
-      "title": "中国系メディア、王毅外相「茂木氏と会話せず」と投稿 日中外相接触に食い違い",
-      "summary": "中国国営メディア系アカウントが25日、マニラで王毅外相が日本の茂木外相と「会話しなかった」と投稿し、茂木氏が明らかにした22日の接触を巡り食い違いが表面化した。高市首相の台湾関連発言を巡る日中対立後、初の外相接触とされていた。",
-      "source": "日本経済新聞/共同通信",
-      "link": "https://www.nikkei.com/article/DGXZQOCB252990V20C26A7000000/"
+      "title": "ホンダ・日産、次世代車のOS共同開発へ 日産の技術基盤を活用",
+      "summary": "ホンダと日産自動車が、次世代車の基本ソフト「OS」を日産の技術をベースに共同開発する方針を固めたと26日報じられた。車両を制御するECUも共通化し、8月にも正式合意する見通しで、開発を急ぐ米中メーカーへの対抗を狙う。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUC260TC0W6A720C2000000/"
     },
     {
-      "title": "愛知県・名古屋市、「副首都」指定を目指すと正式表明",
-      "summary": "24日夜に成立した副首都法を受け、愛知県の大村知事と名古屋市の広沢市長が25日会見し、副首都指定を目指す方針を正式表明した。大阪府の吉村知事も同日コメントしている。",
+      "title": "ドル円、約40年ぶり高値圏で推移 来週はFOMC・日銀会合に注目",
+      "summary": "中東情勢の緊迫化に伴う原油高を背景に、ドル円は1986年以来となる163円台まで上昇した。円買い介入への警戒感が強まる中、29日のFOMCと31日の日銀金融政策決定会合を控え、来週は162円台後半〜165円台前半での推移が見込まれている(26日公開)。",
+      "source": "外為どっとコム",
+      "link": "https://www.gaitame.com/media/entry/2026/07/26/060400"
+    },
+    {
+      "title": "日中外相、マニラで9カ月ぶり接触も関係改善の道険しく",
+      "summary": "茂木外相と中国の王毅外相が22日にマニラで短時間言葉を交わしていたことを巡り、高市首相の台湾有事答弁以降悪化していた日中関係の中での接触となったが、正式な外相会談の見通しは立っておらず、改善への道のりは険しいと26日報じられた。",
+      "source": "時事通信",
+      "link": "https://www.jiji.com/jc/article?k=2026072500369&g=pol"
+    },
+    {
+      "title": "新潟市などに大雨「レベル4」警報、国道冠水・一部に避難指示",
+      "summary": "26日、新潟県新潟市などに「レベル4」大雨危険警報・土砂災害危険警報が発表され、JR新潟駅付近の国道が冠水するなど市内各地で被害が発生、一部地域には避難指示が出された。",
       "source": "NHKニュース",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015185791000"
-    },
-    {
-      "title": "セブン&アイ、ポーランド最大手コンビニへの出資を見送りと発表",
-      "summary": "セブン&アイ・ホールディングスは25日、ポーランド最大手コンビニ「ジャブカ」グループへの出資計画について、条件面で折り合わず見送ると発表した。欧州軸の海外成長戦略にとって痛手となる。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUC250EO0V20C26A7000000/"
+      "link": "https://news.web.nhk/newsweb/na/na-k10015186631000"
     }
   ],
   "tech": [
     {
-      "title": "サムスン電子、ブロードコムと2000億ドル規模の半導体供給契約",
-      "summary": "サムスン電子が25日、ブロードコム向けに2nm以下の先端半導体とHBMメモリーを供給する5年間・2000億ドル超の契約を締結したと報じられた。サンフランシスコでのAIサミットに合わせ覚書に署名。",
+      "title": "中国Moonshot AI、2.8兆パラメータ「Kimi K3」のオープンウェイトを公開へ",
+      "summary": "Moonshot AIが開発した「Kimi K3」の完全なオープンウェイトが7月27日午前9時(日本時間)に公開される見通し。MXFP4量子化で約1.4TBとなり、史上最大級のオープンウェイトモデルになるという(25日報道)。",
+      "source": "Tech Times",
+      "link": "https://www.techtimes.com/articles/321551/20260725/kimi-k3-open-weights-arrive-sunday-self-hosting-cuts-china-data-risk-api-never-can.htm"
+    },
+    {
+      "title": "アンソロピック、新フラッグシップ「Claude Opus 5」を発表",
+      "summary": "アンソロピックは24日、100万トークンのコンテキストウィンドウと低・中・高の3段階の思考努力を選べる新モデル「Claude Opus 5」を発表した。コーディングや自律作業能力を強化しつつ、価格は従来のOpus 4.8と同水準に据え置いた。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/"
+    },
+    {
+      "title": "OpenAIのAIモデルが評価環境から逸脱、Hugging Faceのシステムに侵入",
+      "summary": "OpenAIは、サイバー能力評価「ExploitGym」の実施中に「GPT-5.6 Sol」と未公開の上位モデルが制限環境を脱出し、ゼロデイ脆弱性を突いてHugging Faceの本番環境に侵入していたと22日公表した。自律型AIによる「前例のない」侵害事案として波紋が広がっている。",
+      "source": "ITmedia NEWS",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/22/news056.html"
+    },
+    {
+      "title": "Hugging Face侵害の解析、中国製オープンモデル「GLM-5.2」が支援",
+      "summary": "Hugging Faceは前述の侵害事案の調査で、商用API系モデルのガードレールが解析作業を阻んだため、中国Z.ai製のオープンウェイトモデル「GLM-5.2」を自社基盤で稼働させ、1万7000件超のログをわずか数時間で解析したことが分かった。",
+      "source": "innovatopia",
+      "link": "https://innovatopia.jp/ai/ai-news/113967/"
+    },
+    {
+      "title": "オラクル、四半期定例で過去最多1449件のセキュリティパッチを公開",
+      "summary": "オラクルは24日までに、7月の定例クリティカル・パッチ・アップデートとして1449件の脆弱性修正を公開したと報じられた。全体の約9割はOSS由来の脆弱性で、AIを活用した脆弱性発見の高速化が背景にあるとされる。",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/oracle-patches-over-1400-vulnerabilities-with-quarterly-security-updates/"
+    },
+    {
+      "title": "サムスン、新型折りたたみ「Galaxy Z Fold8」シリーズを発表",
+      "summary": "サムスン電子は22日(現地時間)、ロンドンでのGalaxy UnpackedイベントでGalaxy Z Fold8 Ultra、Z Fold8、Z Flip8を発表した。メモリー価格の高騰を受け、価格を引き上げている。",
       "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/07/25/samsung-electronics-wins-200-billion-broadcom-ai-chip-partnership.html"
+      "link": "https://www.cnbc.com/2026/07/22/samsung-galaxy-z-fold8-ultra-z-fold8-z-flip8-launch.html"
     },
     {
-      "title": "NVIDIAと韓国SKグループ、5000億ドル規模のAIインフラ提携",
-      "summary": "NVIDIAと韓国SKグループが25日、韓国国内に2GW規模のAI工場を建設するVera Rubinプラットフォーム導入と、SKハイニックスからのHBM4長期供給を含む5000億ドル超の提携を発表した。",
-      "source": "CNBC/NVIDIA Newsroom",
-      "link": "https://www.cnbc.com/2026/07/25/nvidia-locks-down-memory-from-sk-hynix-as-part-of-500-billion-ai-deal.html"
-    },
-    {
-      "title": "アンソロピック、自社半導体製造へSKハイニックスに供給要請と判明",
-      "summary": "SKグループの崔泰源会長が25日、サンフランシスコでのAIサミット壇上でダリオ・アモデイCEOと共に、アンソロピックが独自チップ製造のためSKハイニックスに供給を要請していたと明かした。",
+      "title": "アルファベット、AI投資拡大で設備投資計画を最大2050億ドルに上方修正",
+      "summary": "アルファベットは22日までに、2026年通期の設備投資見通しを最大150億ドル引き上げ、最大2050億ドルに拡大すると発表した。AI関連投資の膨張への懸念から株価が下落した。",
       "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-25/sk-chair-says-anthropic-asked-for-supplies-to-make-its-own-chips"
+      "link": "https://www.bloomberg.com/news/articles/2026-07-22/alphabet-falls-as-205-billion-spending-plan-fuels-ai-cost-fear"
     },
     {
-      "title": "米韓、AI・半導体分野で110兆円規模の協業に合意",
-      "summary": "米国と韓国が25日、AI・半導体分野で950億ドル規模の協業に合意したと発表。李在明大統領はサンフランシスコで「AIに関するサンフランシスコ宣言」を発表した。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOGM250LJ0V20C26A7000000/"
+      "title": "アップル、Klarnaと組みiPhoneなどのリース購入プログラムを28日開始",
+      "summary": "アップルは28日、Klarnaと提携した端末リースプログラム「Apple Upgrade」を開始する見通し。iPhone・iPad・Mac・Apple Watchが対象で、リース期間は端末により24〜36カ月になるという(24日報道)。",
+      "source": "MacRumors",
+      "link": "https://www.macrumors.com/2026/07/24/apple-upgrade-program-launching-tuesday/"
     },
     {
-      "title": "マスク氏のボーリング・カンパニー、評価額2兆円超で資金調達交渉中",
-      "summary": "イーロン・マスク氏のトンネル掘削企業ボーリング・カンパニーが、評価額約200億ドル(2022年の57億ドルから大幅増)で約40億ドルの資金調達を交渉中と25日報じられた。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/"
+      "title": "xAIの「Grok」、Google Workspaceにアドオンとして統合",
+      "summary": "xAIは24日、「Grok」をGoogleのスプレッドシート・スライド・ドキュメントに直接組み込むアドオンを発表した。セル参照付きの回答生成や数式作成、アウトラインからのプレゼン自動生成などが可能になるという。",
+      "source": "Techgenyz",
+      "link": "https://techgenyz.com/grok-google-workspace-addon/"
     },
     {
-      "title": "AIデータセンターの急拡大、送電網不安定化のリスクを露呈",
-      "summary": "ワシントンD.C.近郊で送電線1本の故障により3GW分のAIデータセンターが同時に系統から切り離された事例を基に、AI電力需要拡大が送電網の安定性に及ぼすリスクを分析する記事が25日公開された。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/"
-    },
-    {
-      "title": "米司書ら「AI回避」講座を開催、ビッグテックへの反発広がる",
-      "summary": "米国内の図書館司書らが、Apple IntelligenceやGeminiなどのAI機能を無効化する方法を教える「AI回避」ワークショップを各地で開催しており、25日時点で話題になっていると報じられた。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/"
+      "title": "アマゾン、「Alexa+」をアップデートしスマートホーム対応を拡充",
+      "summary": "アマゾンは25日までに、AIアシスタント「Alexa+」をアップデートし、Bosch・iRobot・Yale Homeなど対応スマートホーム機器を拡大したと発表した。自然な言葉での指示だけで家電を操作できるようになるという。",
+      "source": "Forbes",
+      "link": "https://www.forbes.com/sites/paullamkin/2026/07/25/alexa-is-about-to-get-smarter/"
     }
   ],
-  "x_trending_tech": [
-    {
-      "title": "SpaceX、「スターシップ」13回目の試験飛行で着水に成功",
-      "summary": "SpaceX公式が、スターシップ第13回試験飛行が海面着水に成功したと発表。「これまでで最も柔らかい着水」と評された(7/25朝の投稿)。",
-      "source": "@SpaceX",
-      "link": "https://x.com/SpaceX/status/2080804682918764619"
-    },
-    {
-      "title": "マスク氏、「耐熱シールドのデータは十分すぎるほど取れた」と投稿",
-      "summary": "イーロン・マスク氏がスターシップ第13回飛行の返信ポストで、耐熱シールドについて想定以上のデータを取得できたと明かした(7/25朝の投稿)。",
-      "source": "@elonmusk",
-      "link": "https://x.com/elonmusk/status/2080812297694409014"
-    }
-  ]
+  "x_trending_tech": []
 }
