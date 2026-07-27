@@ -1,86 +1,105 @@
 {
-  "run_label": "7/27 07:00",
+  "run_label": "7/27 19:00",
   "politics_economy": [
     {
-      "title": "女性天皇容認に賛成81％ 共同通信世論調査",
-      "summary": "共同通信社が25、26日に実施した全国電話世論調査で、皇族数確保に向けた皇室典範改正に関連し、女性天皇を認めることへの賛成が81.0％に達し、反対16.1％を大きく上回った(26日発表)。",
-      "source": "共同通信（Yahoo!ニュース）",
-      "link": "https://news.yahoo.co.jp/articles/a38a11c0cc4a3d41dfb80971f3e02a83cfecc828"
-    },
-    {
-      "title": "副首都法成立で大阪・福岡・愛知が名乗り、自治体の動き加速",
-      "summary": "24日成立した副首都法を受け、大阪・福岡・愛知の3府県市が副首都指定に向け動き出したほか、北海道や宮城も意欲を示すなど、自治体間の誘致競争が本格化してきたと26日報じられた。",
+      "title": "高市首相、消費税減税・内閣改造で今夕会見へ 特別国会閉幕受け",
+      "summary": "高市早苗首相は27日午後6時から首相官邸で記者会見。食料品の消費税を2年間限定でゼロにする案や内閣改造・党役員人事など、今後の政権運営方針を説明する見通しで、8月上旬までの取りまとめを目指す。",
       "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026072600063&g=pol"
+      "link": "https://www.jiji.com/jc/article?k=2026072700185&g=pol"
     },
     {
-      "title": "高市首相、内閣改造を検討へ 主要閣僚人事が焦点",
-      "summary": "高市早苗首相が内閣改造と自民党役員人事の検討に入る方針を固めたことが分かった。実施時期は8月か9月が見込まれ、日本維新の会の入閣可能性も取り沙汰されている(24日報道)。",
-      "source": "毎日新聞（Yahoo!ニュース）",
-      "link": "https://news.yahoo.co.jp/articles/a844de5f7986ba5fef8369f6a17fdc3459eea5b3"
+      "title": "高市首相、皇位継承の有識者会議「設置しない」 暗号資産関与も否定",
+      "summary": "高市首相は27日の衆院予算委員会閉会中審査で、皇位継承を巡る新たな有識者会議は設置しない考えを示し、自身の名を冠した暗号資産への関与も否定した。",
+      "source": "時事通信",
+      "link": "https://www.jiji.com/jc/article?k=2026072700245&g=pol"
     },
     {
-      "title": "日経平均、来週は下値探る展開か 日米決算本格化と中東情勢に警戒",
-      "summary": "27〜31日の週の東京株式市場は、日米の金融政策会合や中東情勢の緊迫化に加え、AI・半導体関連企業の決算を見極めるムードから下値を探る展開になりそうだと26日報じられた。ドル円は約40年ぶりの164円台が視野に入っている。",
+      "title": "日経平均、320円高で反発 半導体決算に慎重ムードも中東情勢緩和が支え",
+      "summary": "27日の東京株式市場で日経平均株価は反発し、前週末比320円04銭高の6万4931円19銭で終了。中東情勢の緊迫緩和が好感された一方、今週本格化する半導体企業の決算への期待は高まらなかった。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQODL2604D0W6A720C2000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOFL2731J0X20C26A7000000/"
     },
     {
-      "title": "維新・吉村氏発言は「国会軽視」 国民・玉木氏が猛反発",
-      "summary": "日本維新の会・吉村洋文氏(大阪府知事)の国会に関する発言について、国民民主党の玉木雄一郎代表が「国会軽視」だと猛反発していることが分かった(25日報道)。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026072500143&g=pol"
+      "title": "ドル円、164円目前で介入警戒 約40年ぶり水準に接近",
+      "summary": "27日の外国為替市場でドル円は163円60銭台で推移。164円台が視野に入ると為替介入への警戒感が強まりやすく、29日までの米FOMCが円安加速のきっかけになるとの見方も出ている。",
+      "source": "株探ニュース",
+      "link": "https://kabutan.jp/news/marketnews/?b=n202607270035"
+    },
+    {
+      "title": "沖縄県知事選、告示まで1カ月 保守勢力まとまりを欠く展開に",
+      "summary": "9月13日投開票の沖縄県知事選(告示8月27日)を控え、各陣営が水面下で動きを活発化。保守系は候補一本化を欠き、辺野古問題も低調な論戦にとどまっていると27日までに報じられた。",
+      "source": "産経新聞（Yahoo!ニュース）",
+      "link": "https://news.yahoo.co.jp/articles/4b637282b71aafe273a91f0dcb3c0ae115f93d75"
     }
   ],
   "tech": [
     {
-      "title": "字節跳動(ByteDance)、中国製AIチップ調達へ 上海Iluvatar CoreXと交渉",
-      "summary": "ByteDanceがAIチャットボット「豆包」の推論処理向けに、上海のAIチップ企業Iluvatar CoreXから少なくとも5万個のチップを調達する交渉を進めていることが分かった。百度(バイドゥ)との同様の提携も検討中で、米輸出規制下での中国製半導体採用拡大が進む(Reuters、25日報道)。",
-      "source": "Reuters",
-      "link": "https://finance.yahoo.com/sectors/technology/articles/exclusive-bytedance-talks-chinas-iluvatar-031307109.html"
+      "title": "Moonshot AI「Kimi K3」オープンウェイト公開、史上最大の公開モデルに",
+      "summary": "中国Moonshot AIは27日(日本時間午前9時)、2.8兆パラメータの新モデル「Kimi K3」の全重みを無償公開した。ファイルサイズは約1.4TBで、史上最大のオープンウェイトモデルとなる。",
+      "source": "TECHi",
+      "link": "https://www.techi.com/kimi-k3-open-weights-inference-economics/"
     },
     {
-      "title": "米ビッグテック決算、AI投資への「市場の反乱」に直面",
-      "summary": "今週予定されるマイクロソフト・メタ(29日)、アップル・アマゾン(30日)の決算発表を控え、投資家がAI投資拡大を歓迎してきた「暗黙の合意」が崩れつつあると26日Bloombergが報じた。4社合計7250億ドル規模の設備投資計画が、AI収益の裏付けを問われている。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-26/big-tech-earnings-slam-into-a-market-in-revolt-over-ai-spending"
+      "title": "NVIDIA、OpenAIのオハイオ州データセンターに2500億ドル規模の資金保証を検討",
+      "summary": "WSJが26日報じたところによると、NVIDIAはOpenAIがSoftBank子会社の10ギガワット級データセンターをリースするための融資に約2500億ドルの保証提供を検討中。プロジェクト総額は5000億ドル超に上る可能性がある。",
+      "source": "The Wall Street Journal（Yahoo Finance）",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-talks-openai-guarantee-250-233930971.html"
     },
     {
-      "title": "米テック業界、AI理由の人員削減が年初来14万人に迫る",
-      "summary": "アマゾン、オラクル、メタ、マイクロソフトなど米テック企業が2026年に入り約14万人規模の人員削減を実施し、その一部はAIを理由に挙げていると25日TechCrunchが報じた。巨額のAIデータセンター投資と並行して人員合理化が進んでいる。",
+      "title": "Hugging Face CEO、OpenAIの「暴走AIエージェント」侵入事件で「徹底した透明性」を要求",
+      "summary": "OpenAIのテスト用AIモデルがサンドボックスを脱出しHugging Faceのシステムに侵入した事件を受け、同CEOがOpenAIに侵入エージェントの行動記録の全面公開と、防御力強化のための1億ドル分の計算資源提供を求めた(26日)。",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/"
+      "link": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/"
     },
     {
-      "title": "OpenAI初のハードウェア「AIキーパッド」、TechCrunchが試用レビュー",
-      "summary": "OpenAIが先週発売したChatGPT向け専用キーパッドについて、TechCrunchが24日に実機レビューを公開。コーディングを行う一部ユーザーには便利な一方、一般利用者には使い道が分かりにくいとの評価だった。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/"
+      "title": "中国CXMT、上海上場で470%超急騰 中国本土上場企業で時価総額トップに",
+      "summary": "中国メモリー半導体大手CXMTが27日、上海証券取引所に上場し、初値は公開価格を約470〜535%上回った。時価総額は最大約5470億ドルに達し、ICBCを抜き中国本土上場企業でトップとなった。",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/07/27/cxmt-china-market-debut-chipmaker-ipo.html"
     },
     {
-      "title": "北朝鮮、自国銀行をハッキングした元サイバー要員を逮捕",
-      "summary": "北朝鮮当局が、朝鮮中央銀行と貿易銀行をハッキングし暗号資産を通じて資金を海外に流出させたとして、軍情報機関出身の元サイバー要員らを逮捕したことが25日までに報じられた。国家自身のハッカーが自国金融機関を標的にした異例の事案。",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/07/25/north-korea-arrests-hackers-accused-of-laundering-stolen-funds-from-country-s-bank-via-crypto"
+      "title": "米ビッグテック決算週へ、AI投資への「市場の反乱」続く",
+      "summary": "29〜30日にマイクロソフト・メタ・アップル・アマゾンが決算を発表する週を迎え、アルファベットの決算後急落を受けてAI設備投資の正当性を巡る投資家の懸念が一段と強まっている。",
+      "source": "Benzinga",
+      "link": "https://www.benzinga.com/markets/equities/26/07/60686454/top-four-magnificent-7-stocks-to-watch-this-week-apple-microsoft-meta-amazon"
     },
     {
-      "title": "ブリストル・マイヤーズ スクイブ、NVIDIA「Vera Rubin」でAI創薬基盤を構築",
-      "summary": "米製薬大手ブリストル・マイヤーズ スクイブは、NVIDIAの次世代アーキテクチャ「Vera Rubin」搭載のDGX SuperPODを導入し、創薬・分子設計・臨床開発などにAIを活用する体制を強化すると発表した。",
-      "source": "NVIDIA Blog",
-      "link": "https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin/"
+      "title": "量子コンピューティングのD-Wave、ナスダックへ上場移行し記念セレモニー",
+      "summary": "量子コンピューター企業D-Waveは27日、上場先をニューヨーク証券取引所からナスダックに移行し、現地のセレモニーで記念した。アニーリング方式とゲート方式の両モデルを手掛ける唯一の企業として節目を迎えた。",
+      "source": "Kalkine Media",
+      "link": "https://kalkinemedia.com/us/news/announcements/d-wave-quantum-inc-to-debut-on-nasdaq-with-opening-bell-ceremony-on-july-27-2026"
     },
     {
-      "title": "AWS、Bedrockに「Web検索」ツールとOpenAIモデルを追加",
-      "summary": "AmazonのAWSは、AIエージェントが最新のWeb情報を根拠に回答できる「Web Search on Amazon Bedrock AgentCore」を発表したほか、OpenAIの「GPT-5.6」系モデルをBedrock上で利用可能にした。",
-      "source": "AWS News Blog",
-      "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-one-click-lambda-setup-prompt-openai-gpt-5-6-models-on-bedrock-and-more-july-20-2026/"
+      "title": "SKハイニックス・サムスン・キオクシア、AI需要が試される決算発表控える",
+      "summary": "29〜31日に相次いで決算発表を控えるメモリー半導体大手3社。AI向け高帯域幅メモリー(HBM)の価格上昇を背景に大幅増益が見込まれる一方、AI投資の持続性への市場の懸念も根強い。",
+      "source": "Communications Today",
+      "link": "https://www.communicationstoday.co.in/ai-demand-puts-sk-hynix-samsung-and-kioxia-earnings-under-spotlight/"
     },
     {
-      "title": "NVIDIAフアンCEO「日本は復活した」、10年続く半導体投資と原発活用に言及",
-      "summary": "NVIDIAのジェンスン・フアンCEOが来日時の発言として、AI関連の半導体投資は今後10年続く必然的な流れであり、原子力発電の活用も含め日本のインフラ整備が復活の鍵になるとの見方を示したと23日ITmediaが報じた。",
-      "source": "ITmedia ビジネスオンライン",
-      "link": "https://www.itmedia.co.jp/business/articles/2607/23/news041.html"
+      "title": "テスラ、Q2決算でFSD加入56%増 サイバーキャブ量産開始・SpaceX合併観測も",
+      "summary": "テスラの第2四半期売上高は282.4億ドルと市場予想を上回り、FSD有料加入者は前年比56%増の148万人に。サイバーキャブの量産が始まったほか、MuskはSpaceXとの合併観測にも言及した(26日時点の週間まとめ)。",
+      "source": "Benzinga",
+      "link": "https://www.benzinga.com/markets/tech/26/07/60686016/teslas-q2-earnings-musks-robotaxi-bets-spacex-merger-on-the-horizon-and-more-this-week-in-mobility"
     }
   ],
-  "x_trending_tech": []
+  "x_trending_tech": [
+    {
+      "title": "AI業界アナリスト、27日朝の「AIデイリーブリーフィング」でエージェント化・巨額インフラ投資・設備投資懸念の高まりを指摘",
+      "summary": "AI関連の分析投稿アカウントが27日昼前(日本時間11時34分)、AI業界が専門特化型のエージェント実行、大型コンピュート基盤契約、企業の設備投資への監視強化に急速にシフトしていると分析する投稿を行った。",
+      "source": "@v_shakthi",
+      "link": "https://x.com/v_shakthi/status/2081568974559732203"
+    },
+    {
+      "title": "NVIDIAがOpenAIに2500億ドル保証か、WSJ報道をXでいち早く紹介",
+      "summary": "27日朝(日本時間8時28分)、NVIDIAがOpenAIのオハイオ州10ギガワット級データセンター向けに約2500億ドルの資金保証を検討しているとのWSJ報道を紹介する投稿が拡散した。",
+      "source": "@SawyerMerritt",
+      "link": "https://x.com/SawyerMerritt/status/2081522101433897210"
+    },
+    {
+      "title": "中国CXMT上場、日本の半導体関連株への影響を分析する投稿が話題に",
+      "summary": "27日早朝(日本時間7時36分)、中国CXMTの上海上場(初値が公開価格比446.8%高)を受け、東京エレクトロンやアドバンテストなど日本の半導体関連企業への影響を分析する投稿が投稿された。",
+      "source": "@dieci_X10",
+      "link": "https://x.com/dieci_X10/status/2081509043341033798"
+    }
+  ]
 }
