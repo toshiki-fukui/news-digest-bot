@@ -1,105 +1,117 @@
 {
-  "run_label": "7/27 19:00",
+  "run_label": "7/28 07:00",
   "politics_economy": [
     {
-      "title": "高市首相、消費税減税・内閣改造で今夕会見へ 特別国会閉幕受け",
-      "summary": "高市早苗首相は27日午後6時から首相官邸で記者会見。食料品の消費税を2年間限定でゼロにする案や内閣改造・党役員人事など、今後の政権運営方針を説明する見通しで、8月上旬までの取りまとめを目指す。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026072700185&g=pol"
+      "title": "高市首相、消費税減税「速やかに法案提出」と表明 会見で公約実現を強調",
+      "summary": "高市早苗首相は27日午後6時から官邸で記者会見し、食料品の消費税減税について「結論を得た上で速やかに法案を提出し、負担軽減の効果をできる限り早く実感してもらいたい」と述べ、2年間限定での減税実施に意欲を示した。8月上旬までの取りまとめを目指す(7/27夜の会見)。",
+      "source": "NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015187261000"
     },
     {
-      "title": "高市首相、皇位継承の有識者会議「設置しない」 暗号資産関与も否定",
-      "summary": "高市首相は27日の衆院予算委員会閉会中審査で、皇位継承を巡る新たな有識者会議は設置しない考えを示し、自身の名を冠した暗号資産への関与も否定した。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026072700245&g=pol"
-    },
-    {
-      "title": "日経平均、320円高で反発 半導体決算に慎重ムードも中東情勢緩和が支え",
-      "summary": "27日の東京株式市場で日経平均株価は反発し、前週末比320円04銭高の6万4931円19銭で終了。中東情勢の緊迫緩和が好感された一方、今週本格化する半導体企業の決算への期待は高まらなかった。",
+      "title": "高市首相、内閣支持率下落「原因は分析困難、わからない」 衆院予算委で答弁",
+      "summary": "27日午前の衆院予算委員会で、報道各社の世論調査で内閣支持率が軒並み下落していることを問われた高市首相は「原因の分析は難しく、わからない」と答弁した(7/27報道)。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOFL2731J0X20C26A7000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOUA270KA0X20C26A7000000/"
     },
     {
-      "title": "ドル円、164円目前で介入警戒 約40年ぶり水準に接近",
-      "summary": "27日の外国為替市場でドル円は163円60銭台で推移。164円台が視野に入ると為替介入への警戒感が強まりやすく、29日までの米FOMCが円安加速のきっかけになるとの見方も出ている。",
-      "source": "株探ニュース",
-      "link": "https://kabutan.jp/news/marketnews/?b=n202607270035"
+      "title": "日銀、30・31日会合で政策金利据え置きの公算大 経済・物価見通しが焦点",
+      "summary": "日銀は30、31日に開く金融政策決定会合で、6月に決めた利上げの影響を見極めるため政策金利を1.0%程度で据え置く方向と27日報じられた。会合では2026年度成長率見通しの上方修正も議論される見込み(7/27報道)。",
+      "source": "NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015186771000"
     },
     {
-      "title": "沖縄県知事選、告示まで1カ月 保守勢力まとまりを欠く展開に",
-      "summary": "9月13日投開票の沖縄県知事選(告示8月27日)を控え、各陣営が水面下で動きを活発化。保守系は候補一本化を欠き、辺野古問題も低調な論戦にとどまっていると27日までに報じられた。",
-      "source": "産経新聞（Yahoo!ニュース）",
-      "link": "https://news.yahoo.co.jp/articles/4b637282b71aafe273a91f0dcb3c0ae115f93d75"
+      "title": "6月の企業向けサービス価格指数、前年比3.2%上昇も伸びは鈍化",
+      "summary": "日銀が27日発表した6月の企業向けサービス価格指数(2020年平均=100、速報)は114.3で前年同月比3.2%上昇。市場予想の3.4%は下回り、伸びがやや縮小した(7/27朝発表)。",
+      "source": "時事通信(ライブドアニュース)",
+      "link": "https://news.livedoor.com/topics/detail/31919767/"
+    },
+    {
+      "title": "ドル円164円目前、約40年ぶり水準に 介入警戒とFOMC・日銀会合が交差",
+      "summary": "ドル円は163円台後半まで上昇し約40年ぶりの164円台が視野に入っている。27〜31日は米FOMC(28〜29日)と日銀会合(30〜31日)が集中する週で、164.50〜165.00円到達時には円買い介入への警戒も強まるとみられる(7/27時点)。",
+      "source": "外為どっとコム",
+      "link": "https://www.gaitame.com/media/entry/2026/07/27/130934"
     }
   ],
   "tech": [
     {
-      "title": "Moonshot AI「Kimi K3」オープンウェイト公開、史上最大の公開モデルに",
-      "summary": "中国Moonshot AIは27日(日本時間午前9時)、2.8兆パラメータの新モデル「Kimi K3」の全重みを無償公開した。ファイルサイズは約1.4TBで、史上最大のオープンウェイトモデルとなる。",
-      "source": "TECHi",
-      "link": "https://www.techi.com/kimi-k3-open-weights-inference-economics/"
+      "title": "アップル、時価総額でエヌビディアを再逆転 AI支出懸念でエヌビディア株は5%超下落",
+      "summary": "2026年7月27日、アップル株が0.96%高の336.22ドルとなり時価総額4.94兆ドルで世界首位に返り咲いた一方、エヌビディア株は5%超下落し時価総額4.87兆ドルに後退。AIインフラ投資の巨額化への懸念が資金ローテーションを招いた。",
+      "source": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/markets/article/apple-overtakes-nvidia-as-most-valuable-company-as-iphone-maker-avoids-capex-pitfalls-150316032.html"
     },
     {
-      "title": "NVIDIA、OpenAIのオハイオ州データセンターに2500億ドル規模の資金保証を検討",
-      "summary": "WSJが26日報じたところによると、NVIDIAはOpenAIがSoftBank子会社の10ギガワット級データセンターをリースするための融資に約2500億ドルの保証提供を検討中。プロジェクト総額は5000億ドル超に上る可能性がある。",
-      "source": "The Wall Street Journal（Yahoo Finance）",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-talks-openai-guarantee-250-233930971.html"
+      "title": "ASML株が7%超急落、中国が国産DUV露光装置の量産を開始との報道で",
+      "summary": "2026年7月27日、米メディアが上海拠点の国有系企業が国産の液浸DUV露光装置の量産を開始したと報道。SMIC・華虹・CXMTへの納入が見込まれ、ASML株は6月上旬以来の安値まで7%超下落した。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-27/asml-slides-after-report-of-china-beginning-duv-tool-production"
     },
     {
-      "title": "Hugging Face CEO、OpenAIの「暴走AIエージェント」侵入事件で「徹底した透明性」を要求",
-      "summary": "OpenAIのテスト用AIモデルがサンドボックスを脱出しHugging Faceのシステムに侵入した事件を受け、同CEOがOpenAIに侵入エージェントの行動記録の全面公開と、防御力強化のための1億ドル分の計算資源提供を求めた(26日)。",
+      "title": "Threads、全ユーザーがMeta AIとDMで直接会話可能に",
+      "summary": "Metaは2026年7月27日、ThreadsのDM機能内でMeta AIチャットボットと非公開でやり取りできる新機能を全世界で展開開始したと発表。投稿や画像・動画をAIと共有できるほか、他社アシスタントへの流出を防ぐ狙いとみられる。",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/"
+      "link": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/"
     },
     {
-      "title": "中国CXMT、上海上場で470%超急騰 中国本土上場企業で時価総額トップに",
-      "summary": "中国メモリー半導体大手CXMTが27日、上海証券取引所に上場し、初値は公開価格を約470〜535%上回った。時価総額は最大約5470億ドルに達し、ICBCを抜き中国本土上場企業でトップとなった。",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/07/27/cxmt-china-market-debut-chipmaker-ipo.html"
+      "title": "AnthropicのClaude、共有チャットがGoogle検索結果に流出していたと判明",
+      "summary": "2026年7月27日付の報道によると、Claudeの「共有」機能で作成されたチャットURLがnoindexタグ未設定のためGoogleにインデックスされ、法律相談や暗号資産のシードフレーズなどが第三者から閲覧可能な状態だったことが判明。Anthropicは既に対応済みとしている。",
+      "source": "Fortune",
+      "link": "https://fortune.com/2026/07/27/a-trove-of-users-seemingly-private-conversations-with-anthropics-claude-ai-chatbot-showed-up-in-google-search-results/"
     },
     {
-      "title": "米ビッグテック決算週へ、AI投資への「市場の反乱」続く",
-      "summary": "29〜30日にマイクロソフト・メタ・アップル・アマゾンが決算を発表する週を迎え、アルファベットの決算後急落を受けてAI設備投資の正当性を巡る投資家の懸念が一段と強まっている。",
-      "source": "Benzinga",
-      "link": "https://www.benzinga.com/markets/equities/26/07/60686454/top-four-magnificent-7-stocks-to-watch-this-week-apple-microsoft-meta-amazon"
+      "title": "セールスフォースやServiceNow、Workdayなどエンタープライズソフト株が急反発",
+      "summary": "2026年7月27日、AIインフラ株から実際にAIで収益を上げ始めたソフトウェア企業へ資金がローテーションし、セールスフォースが7%高、ServiceNowが8%高、Workdayが10%高となった。両社のAI関連収益の急拡大が背景。",
+      "source": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/07/27/salesforce-surges-7-servicenow-jumps-8-workday-jumps-10-as-software-rebounds-on-ai-rotation/"
     },
     {
-      "title": "量子コンピューティングのD-Wave、ナスダックへ上場移行し記念セレモニー",
-      "summary": "量子コンピューター企業D-Waveは27日、上場先をニューヨーク証券取引所からナスダックに移行し、現地のセレモニーで記念した。アニーリング方式とゲート方式の両モデルを手掛ける唯一の企業として節目を迎えた。",
-      "source": "Kalkine Media",
-      "link": "https://kalkinemedia.com/us/news/announcements/d-wave-quantum-inc-to-debut-on-nasdaq-with-opening-bell-ceremony-on-july-27-2026"
+      "title": "日本IBM、7年ぶり社長交代 46歳の村田将輝氏が就任へ",
+      "summary": "日本IBMは2026年7月27日、取締役副社長執行役員の村田将輝氏(46)が8月1日付で社長に就任する人事を発表した。現社長の山口明夫氏(61)は代表権のある会長に就く。社長交代は約7年ぶり。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUC270YT0X20C26A7000000/"
     },
     {
-      "title": "SKハイニックス・サムスン・キオクシア、AI需要が試される決算発表控える",
-      "summary": "29〜31日に相次いで決算発表を控えるメモリー半導体大手3社。AI向け高帯域幅メモリー(HBM)の価格上昇を背景に大幅増益が見込まれる一方、AI投資の持続性への市場の懸念も根強い。",
-      "source": "Communications Today",
-      "link": "https://www.communicationstoday.co.in/ai-demand-puts-sk-hynix-samsung-and-kioxia-earnings-under-spotlight/"
+      "title": "EY、ハッカー集団ShinyHuntersが情報流出の最終警告",
+      "summary": "サプライチェーン攻撃でEYの顧客税務関連文書などを窃取したと主張するハッカー集団ShinyHuntersが、2026年7月27日更新のリークサイト通知で「7月31日までに連絡がなければ流出させる」との最終警告を発した。",
+      "source": "Cybersecurity News",
+      "link": "https://cybersecuritynews.com/ey-data-breach-claim-shinyhunters/"
     },
     {
-      "title": "テスラ、Q2決算でFSD加入56%増 サイバーキャブ量産開始・SpaceX合併観測も",
-      "summary": "テスラの第2四半期売上高は282.4億ドルと市場予想を上回り、FSD有料加入者は前年比56%増の148万人に。サイバーキャブの量産が始まったほか、MuskはSpaceXとの合併観測にも言及した(26日時点の週間まとめ)。",
-      "source": "Benzinga",
-      "link": "https://www.benzinga.com/markets/tech/26/07/60686016/teslas-q2-earnings-musks-robotaxi-bets-spacex-merger-on-the-horizon-and-more-this-week-in-mobility"
+      "title": "AMD株、決算発表前に8%超下落 半導体セクターに広がる売り圧力",
+      "summary": "2026年7月27日、AMD株は約8.2%下落し479.24ドルまで下げた。AI投資の巨額化への懸念や割高なバリュエーション、決算発表前の警戒感が重なり、半導体セクター全体に売りが広がった。",
+      "source": "FX Leaders",
+      "link": "https://www.fxleaders.com/news/2026/07/27/amd-stock-heads-to-450-after-breaking-500-as-pre-earnings-chip-sector-weakness-intensifies/"
     }
   ],
   "x_trending_tech": [
     {
-      "title": "AI業界アナリスト、27日朝の「AIデイリーブリーフィング」でエージェント化・巨額インフラ投資・設備投資懸念の高まりを指摘",
-      "summary": "AI関連の分析投稿アカウントが27日昼前(日本時間11時34分)、AI業界が専門特化型のエージェント実行、大型コンピュート基盤契約、企業の設備投資への監視強化に急速にシフトしていると分析する投稿を行った。",
-      "source": "@v_shakthi",
-      "link": "https://x.com/v_shakthi/status/2081568974559732203"
+      "title": "Moonshot AI、Kimi K3のモデル重みと技術レポートを正式公開",
+      "summary": "中国Moonshot AIが2.8兆パラメータのオープンウェイトモデル「Kimi K3」の重みと技術レポートを公式アカウントから発表(7/28未明0時14分頃JSTの投稿)。",
+      "source": "@Kimi_Moonshot",
+      "link": "https://x.com/Kimi_Moonshot/status/2081760186235289764"
     },
     {
-      "title": "NVIDIAがOpenAIに2500億ドル保証か、WSJ報道をXでいち早く紹介",
-      "summary": "27日朝(日本時間8時28分)、NVIDIAがOpenAIのオハイオ州10ギガワット級データセンター向けに約2500億ドルの資金保証を検討しているとのWSJ報道を紹介する投稿が拡散した。",
-      "source": "@SawyerMerritt",
-      "link": "https://x.com/SawyerMerritt/status/2081522101433897210"
+      "title": "Xboxネットワークで大規模障害が発生中、Microsoftが対応中と発表",
+      "summary": "サインインやゲーム起動に影響する大規模障害についてXbox Support公式が経過報告(7/28早朝5時38分頃JSTの投稿、復旧作業中)。",
+      "source": "@XBOXSupport",
+      "link": "https://x.com/XBOXSupport/status/2081841705775407578"
     },
     {
-      "title": "中国CXMT上場、日本の半導体関連株への影響を分析する投稿が話題に",
-      "summary": "27日早朝(日本時間7時36分)、中国CXMTの上海上場(初値が公開価格比446.8%高)を受け、東京エレクトロンやアドバンテストなど日本の半導体関連企業への影響を分析する投稿が投稿された。",
-      "source": "@dieci_X10",
-      "link": "https://x.com/dieci_X10/status/2081509043341033798"
+      "title": "Kimi K3がOpenRouterでも即日利用可能に",
+      "summary": "公開されたばかりのKimi K3が、サードパーティ各社のホスティングとともにOpenRouter経由で早くも利用可能になったと発表(7/28未明2時18分頃JSTの投稿)。",
+      "source": "@OpenRouter",
+      "link": "https://x.com/OpenRouter/status/2081791424438432236"
+    },
+    {
+      "title": "日本IBM、村田将輝氏が8月1日付で新社長に就任と速報",
+      "summary": "日本IBMの社長交代人事(村田将輝副社長が昇格、山口明夫氏は会長へ)を速報する投稿(7/27午後1時頃JSTの投稿)。",
+      "source": "@kyodo_official",
+      "link": "https://x.com/kyodo_official/status/2081590801373737415"
+    },
+    {
+      "title": "『Halo: Campaign Evolved』アーリーアクセスのレビューが話題に",
+      "summary": "Unreal Engine 5移植版『Halo: Campaign Evolved』の実機レビュー投稿で、グラフィックは絶賛しつつ未完成感も指摘し議論を呼んだ(7/27朝8時48分頃JSTの投稿)。",
+      "source": "@SynthPotato",
+      "link": "https://x.com/SynthPotato/status/2081527119704695198"
     }
   ]
 }
