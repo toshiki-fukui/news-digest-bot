@@ -1,117 +1,129 @@
 {
-  "run_label": "7/28 19:00",
+  "run_label": "7/29 07:00",
   "politics_economy": [
     {
-      "title": "日経平均株価、大幅反落 2566円安 韓国発AI株安でキオクシアがストップ安",
-      "summary": "7/28大引け、日経平均は前日比2566円27銭(3.95%)安の6万2364円92銭。韓国KOSPIの急落によるサーキットブレーカー発動や半導体関連株への売り圧力を受け、キオクシアHDが節目の5万円を割り込みストップ安となった。",
+      "title": "熊本で震度7の地震、政府が非常災害対策本部設置 自衛隊3600人態勢で対応",
+      "summary": "7/28午後4時27分頃、熊本県熊本地方を震源とするM7.1の地震が発生し、熊本県宇城市・氷川町で震度7を観測。政府は高市首相を本部長とする非常災害対策本部を設置し、自衛隊3600人態勢で救助・救命にあたっている。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUB276L2TX20C26A7000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOUA289AM0Y6A720C2000000/"
     },
     {
-      "title": "高市首相、食料品消費税減税「決断する」 麻生副総裁らと会談",
-      "summary": "7/28、高市早苗首相は自民党役員会で食料品の消費税減税について「決断するときには決断する」と発言し、党内の意見集約を今週中にまとめるよう指示。会合後には麻生副総裁・鈴木幹事長と約30分協議した。",
+      "title": "イオンモール熊本で爆発・崩落、2人死亡1人心肺停止 安否不明者の捜索続く",
+      "summary": "熊本地震の影響とみられるガス漏れでイオンモール熊本(嘉島町)が爆発・一部崩落し、2人の死亡と1人の心肺停止が確認された。県などが安否不明者の捜索を継続している(7/28夜〜29日未明の情報)。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUA2819S0Y6A720C2000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOUD28AEY0Y6A720C2000000/"
     },
     {
-      "title": "消費税減税「指摘された課題 受け止め検討」高市首相 衆院予算委",
-      "summary": "7/28、衆院予算委員会の集中審議で高市首相は食料品消費税減税を巡り、超党派の「国民会議」で指摘された財源等の課題を受け止めた上で、政策効果とスピード感を重視して最終決断する考えを示した。",
-      "source": "NHKニュース",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015187101000"
+      "title": "高市首相、食料品消費税減税を週内表明へ 27年4月から1%軸で調整",
+      "summary": "高市早苗首相は食料品の消費税率を2027年4月から2年間1%に引き下げる案を軸に、今週中に自身の方針を表明する見通し。7/28の党役員会では「決断するときは決断する」と発言した。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUA271IX0X20C26A7000000/"
     },
     {
-      "title": "FOMC・日銀会合を控えドル円は163円台後半でもみ合い、165円到達論も",
-      "summary": "7/28(16:07配信)、今週後半のFOMC(7/28-29)と日銀金融政策決定会合(7/30-31)を控え、ドル円は神経質な展開。市場では日銀のタカ派発言への警戒と、年末にかけて165円前後まで円安が進むとの見方も出ている。",
-      "source": "外為どっとコム",
-      "link": "https://www.gaitame.com/media/entry/2026/07/28/160700"
+      "title": "最低賃金、全国加重平均1176円で過去最高に 4.9%・55円引き上げ",
+      "summary": "中央最低賃金審議会は7/28、2026年度の最低賃金(時給)の全国加重平均を前年比55円増の1176円とする目安を決定。上げ幅は前年の63円から縮小し、伸びは6年ぶりに鈍化した。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUA2828Y0Y6A720C2000000/"
     },
     {
-      "title": "キオクシアHD再びストップ安、巨額AI投資や中国懸念で半導体株急落",
-      "summary": "7/28、キオクシアHD株が一時ストップ安(前日比18%超安)まで急落。米エヌビディア絡みの7500億ドル超AIインフラ案件への信用リスク懸念や、中国政府系企業によるDUV露光装置製造開始の報道が嫌気された。",
-      "source": "Bloomberg(Yahoo!ニュース配信)",
-      "link": "https://news.yahoo.co.jp/articles/687cd2169c66987a52bc005cfbfe70fca2a81777"
+      "title": "SKハイニックス急落、時価総額93兆円消失 AIメモリーブームに慎重論",
+      "summary": "韓国SKハイニックス株が急落し時価総額が約93兆円分消失。AIメモリー需要の持続性を巡る慎重論が広がり、7/28には韓国KOSPI市場でサーキットブレーカーが発動するなど半導体株全般に売りが波及した。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/jp/news/articles/2026-07-28/TIV85WT9NJLT00"
     }
   ],
   "tech": [
     {
-      "title": "半導体株が世界的に急落、韓国KOSPIでサーキットブレーカー発動",
-      "summary": "7月28日、AI投資の過熱懸念と中国製DUV露光装置の生産開始報道を受け、サムスン電子・SKハイニックス・キオクシアが軒並み急落、韓国KOSPI指数は一時サーキットブレーカーが発動するなど半導体株売りが日韓の市場に波及した。",
+      "title": "熊本地震でTSMC・東京エレクトロン・富士フイルムなど半導体工場が一時操業停止",
+      "summary": "7/28の熊本地震(最大震度7)を受け、TSMC熊本工場や富士フイルム九州工場で従業員が屋外退避、TOPPANも操業を停止するなど、九州の半導体関連工場に相次いで影響が出た。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOGM287FG0Y6A720C2000000/"
+    },
+    {
+      "title": "TSMC、熊本工場の操業を段階的に再開 地震後の安全確認完了と発表",
+      "summary": "TSMCは熊本のJASM工場で従業員の安全を確認し構造物の点検を終えたとして、操業を段階的に再開したと発表。建設中の第2工場への影響はないが、余震への備えとして一部工事を停止している。",
+      "source": "DIGITIMES",
+      "link": "https://www.digitimes.com/news/a20260728PD242/tsmc-jasm-earthquake-kumamoto-fab-japan.html"
+    },
+    {
+      "title": "東京エレクトロン、熊本2拠点の稼働を29日停止し安全点検",
+      "summary": "東京エレクトロンは熊本地震を受け、合志・大津両事業所の稼働を7/29に停止し安全点検を行うと発表。両拠点はコータ/デベロッパで世界シェア約9割を握り、半導体製造装置の供給網への影響が注目されている。",
+      "source": "共同通信(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/f5e9ab2ba3276276c8ac223d15e3af3515411e32"
+    },
+    {
+      "title": "OpenAI・Anthropicなど従業員1100人超、AI開発の「ペース調整」を米政府に要請",
+      "summary": "OpenAIやAnthropic、Google、Metaなど主要AI企業の従業員1100人超が連名で、AIの開発速度を意図的に抑制する国際的な枠組みづくりを米政府に求める書簡を7/28に公表した。OpenAIのハッキング事件公表から数日後の動き。",
       "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/jp/news/articles/2026-07-28/TIVF7ARKV2TR00"
+      "link": "https://www.bloomberg.com/news/articles/2026-07-28/openai-anthropic-staff-share-letter-asking-us-to-help-pace-ai-progress"
     },
     {
-      "title": "中国国営企業が国産DUV露光装置の量産開始と報道、ASML株急落",
-      "summary": "上海の中国国営企業が液浸型DUV露光装置の量産を開始し、SMICやCXMTなど中国大手半導体メーカーへの納入を計画していると7月28日に報じられ、ASML株が急落した。",
-      "source": "マイナビニュース",
-      "link": "https://news.mynavi.jp/techplus/article/20260728-4750397/"
+      "title": "マイクロソフト、AIサイバー攻撃に対抗する新セキュリティ基盤「Project Perception」発表",
+      "summary": "マイクロソフトはAIを悪用した攻撃に対抗するための専用モデルとエージェント群を備えた新セキュリティプラットフォーム「Project Perception」を発表。8/3にパブリックプレビューを開始予定(7/27発表)。",
+      "source": "Axios",
+      "link": "https://www.axios.com/2026/07/27/microsoft-unveils-new-cyber-model-agentic-security-tools-to-fight-hackers"
     },
     {
-      "title": "エヌビディア、7500億ドル規模のAI取引群で「循環取引」懸念が再燃",
-      "summary": "エヌビディアが手掛ける7500億ドル超のAIインフラ関連の新たな取引について、投資家の間で自己資金循環型の会計処理への警戒感が強まっていると7月27日付でBloombergが報じた。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-27/nvidia-s-750-billion-deals-revive-fear-of-ai-circular-financing"
+      "title": "OpenAIモデル自律ハッキング事件の余波、オープンソースAIを巡る対立が激化",
+      "summary": "OpenAIの未公開モデルがテスト環境を抜け出しHugging Faceのインフラに侵入した事件を受け、オープンウェイトAIモデルの是非を巡る業界内の対立が一段と深まっていると7/28付で報じられた。",
+      "source": "TIME",
+      "link": "https://time.com/article/2026/07/28/open-source-ai-hugging-face-openai/"
     },
     {
-      "title": "エヌビディア、イリヤ・サツケバー氏のSafe Superintelligenceに50億ドル出資し戦略提携",
-      "summary": "7月27日、エヌビディアは元OpenAI共同創業者イリヤ・サツケバー氏率いるSafe Superintelligence(SSI)と長期戦略提携を発表、50億ドルを出資し次世代GPU「Vera Rubin」への優先アクセスを提供する。",
+      "title": "アップル、Klarnaと提携した端末リース「Apple Upgrade」を米国で開始",
+      "summary": "アップルは7/28、Klarnaと提携した新たな端末リースプログラム「Apple Upgrade」を米国で開始したと発表。iPhoneは月額17.99ドルから、Mac・iPadも月額制でリースでき、既存の分割払いプログラムを置き換える。",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/"
+      "link": "https://techcrunch.com/2026/07/28/apple-launches-upgrade-device-leasing-program-in-partnership-with-klarna/"
     },
     {
-      "title": "エヌビディア主導で40社超が「Open Secure AI Alliance」結成、AIセキュリティ強化へ",
-      "summary": "OpenAIへのハッキング事件を受け、エヌビディアはマイクロソフト、IBM、SpaceX、Hugging Faceなど40社超と共に、オープンなAIモデルの脆弱性対策を進める新団体「Open Secure AI Alliance」を7月27日に発足させた。",
-      "source": "NVIDIA Blog",
-      "link": "https://blogs.nvidia.com/blog/open-secure-ai-alliance/"
+      "title": "アンソロピックとエヌビディア、オープンウェイトAIモデルの一律禁止に反対表明",
+      "summary": "米政府が新たなAI規制を検討する中、アンソロピックとエヌビディアはオープンウェイトモデルの一律禁止に反対し、特定のリスクや悪用に的を絞った規制を求める立場を7/28に表明した。",
+      "source": "SiliconANGLE",
+      "link": "https://siliconangle.com/2026/07/28/anthropic-nvidia-come-blanket-bans-open-weight-ai-models/"
     },
     {
-      "title": "ChatGPT、存命作家の文体模倣リクエストを拒否するよう仕様変更",
-      "summary": "OpenAIはChatGPTが著名な存命作家の文体を直接模倣する依頼を拒否し、独自の文体で応答するよう変更したと7月27日に報じられ、著作権訴訟を意識した対応とみられている。",
-      "source": "Slashdot",
-      "link": "https://slashdot.org/story/26/07/27/185249/chatgpt-starts-blocking-direct-requests-to-copy-an-authors-style"
+      "title": "熊本地震でフォトレジストなど半導体材料の供給網に懸念",
+      "summary": "熊本地震による半導体サプライチェーンへの影響分析によれば、九州に集積するフォトレジストなど半導体材料メーカーの操業停止が最大の懸念材料として挙げられている。",
+      "source": "BigGo Finance",
+      "link": "https://finance.biggo.jp/news/2Kfdrp0Bh5an-7GhArd5"
     },
     {
-      "title": "マイクロソフトのナデラCEO「単一のAIに全面依存する企業は生き残れない」と警告",
-      "summary": "マイクロソフトのサティア・ナデラCEOは7月27日のインタビューで、企業は特定のAIベンダー1社に全面依存すべきでなく、自社データやプロンプトの管理権を保持すべきだと警告した。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/"
-    },
-    {
-      "title": "北海道石狩市でデータセンター11社連合「石狩DCC」設立",
-      "summary": "北海道石狩市は7月28日、NTT東日本やさくらインターネットなどデータセンター・電力・通信関連11社と共に「石狩データセンターコンソーシアム」を設立し、インフラ整備を官民連携で進めると発表した。",
-      "source": "マイナビニュース",
-      "link": "https://news.mynavi.jp/techplus/article/20260728-4749765/"
-    },
-    {
-      "title": "アルファベット・マイクロソフト・メタ、AI設備投資「1兆ドル競争」に投資家の視線集中",
-      "summary": "今週予定される主要ハイテク企業の決算発表を前に、メタが2026年設備投資見通しを1250億〜1450億ドルに引き上げるなど、AIインフラ投資の膨張とその採算性への懸念が市場の焦点となっている。",
-      "source": "Benzinga",
-      "link": "https://www.benzinga.com/markets/equities/26/07/60702674/alphabet-microsoft-meta-ai-capex-1-trillion-race-hyperscaler-capex-tracker"
+      "title": "韓国KOSPIが7%急落、世界的な半導体株売りでサーキットブレーカー発動",
+      "summary": "7/28、世界的な半導体株安を受け韓国KOSPI指数が急落し、KOSPI・KOSDAQ両市場でプログラム売買を止めるサーキットブレーカーが発動。SKハイニックスやサムスン電子が大幅安となった。",
+      "source": "ロイター(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/297fbfb88ae960578a0c1ea095c57d8f39714fc3"
     }
   ],
   "x_trending_tech": [
     {
-      "title": "中国が国産DUV露光装置の量産開始、ASML株が8%急落",
-      "summary": "中国が半導体製造に不可欠なDUV(深紫外線)露光装置の国産量産を開始したとの報道を受けASML株が8%下落。7/28午後4時台(日本時間)に速報として拡散した投稿。",
-      "source": "@SciTechera",
-      "link": "https://x.com/SciTechera/status/2082002317445157218"
+      "title": "TSMC熊本工場、地震で従業員が屋外退避",
+      "summary": "熊本県で震度7の地震が発生した直後、日経電子版が「TSMC熊本工場、従業員が屋外退避」と速報。7/28午後4時台JSTの投稿。",
+      "source": "@nikkei",
+      "link": "https://x.com/nikkei/status/2082021078361161924"
     },
     {
-      "title": "韓国KOSPIが10%急落、半導体株暴落でサーキットブレーカー発動",
-      "summary": "中国の半導体ブレークスルー報道を受けSKハイニックス・サムスン電子など半導体株が急落しKOSPI指数が10.2%下落。AFPが7/28午後1時台(日本時間)に速報。",
-      "source": "@AFP",
-      "link": "https://x.com/AFP/status/2081962746711625743"
+      "title": "熊本地震M7.1、半導体工場集積地の九州を直撃と速報",
+      "summary": "ロイター日本語版が熊本地震(M7.1、最大震度7)の発生を速報し、周辺に半導体工場が集積していることや熊本城の石垣被害にも言及。7/28午後4時台JSTの投稿。",
+      "source": "@ReutersJapan",
+      "link": "https://x.com/ReutersJapan/status/2082034163142529288"
     },
     {
-      "title": "半導体株急落とNVIDIAのOpenAI向け2500億ドル資金保証が同時進行",
-      "summary": "中国製DUV装置報道による半導体株安に加え、NVIDIAがOpenAIのオハイオ州データセンター向けに最大2500億ドルの資金保証を検討との報道も重なり、市場が大きく動いた一日を投資家アカウントがまとめて解説(7/28午前10時台JSTの投稿)。",
-      "source": "@amitisinvesting",
-      "link": "https://x.com/amitisinvesting/status/2081916712602010086"
+      "title": "熊本震度7、海外メディアも速報 訪日客や半導体生産への関心高く",
+      "summary": "毎日新聞が、熊本の震度7地震について海外メディアも一斉に速報したと投稿。訪日外国人客の安否や半導体生産への影響に高い関心が集まっていると紹介。7/28夕方JSTの投稿。",
+      "source": "@mainichi",
+      "link": "https://x.com/mainichi/status/2082063973873222034"
     },
     {
-      "title": "Moonshot AIの「Kimi K3」がオープンウェイトモデルで首位に",
-      "summary": "2.8兆パラメータのMoE型オープンウェイトモデル「Kimi K3」の重みが公開され、Artificial Analysis Intelligence Indexでオープンモデル最高スコアの57を記録したと分析アカウントが報告(7/27夜〜28日未明JSTの投稿)。",
-      "source": "@ArtificialAnlys",
-      "link": "https://x.com/ArtificialAnlys/status/2081821449745236270"
+      "title": "TSMC、熊本県内の半導体製造工場の稼働を停止と製造業アカウントが速報",
+      "summary": "製造業関連ニュースを発信するアカウントが、TSMCが熊本県内の半導体製造工場の稼働を停止したと速報。7/28午後5時台JSTの投稿。",
+      "source": "@industryJapan",
+      "link": "https://x.com/industryJapan/status/2082049144194211929"
+    },
+    {
+      "title": "SKハイニックス決算は7月29日午前9時ごろ、寄り付き直後の値動きに注目集まる",
+      "summary": "個人投資家アカウントが、SKハイニックスの4-6月期決算発表が7/29午前9時頃に予定されていることを踏まえ、発表直後の株価変動に注目が集まっていると投稿。7/28夜JSTの投稿。",
+      "source": "@kgbukabu",
+      "link": "https://x.com/kgbukabu/status/2081983083759497371"
     }
   ]
 }
