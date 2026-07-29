@@ -1,111 +1,129 @@
 {
-  "run_label": "7/29 19:00",
+  "run_label": "7/30 07:00",
   "politics_economy": [
     {
-      "title": "熊本地震、死者12人・心肺停止6人に増加 イオンモールと製紙工場で死者8人、8800人避難",
-      "summary": "熊本県が7/29午後4時すぎに公表した最新集計で、死者12人・心肺停止6人・負傷者62人となり、少なくとも4人が安否不明。イオンモール熊本の崩落と日本製紙八代工場の煙突倒壊で計8人の死亡が判明し、8800人が避難生活を送っている。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026072900114&g=soc"
-    },
-    {
-      "title": "熊本地震で自衛隊派遣4600人に増員、給水・熱中症対策を強化",
-      "summary": "小泉防衛相は7/29、熊本地震への災害派遣人員を第8師団中心に約4600人態勢に増員したと説明。イオンモール熊本には170人を投入、給水部隊が八代市・宇城市などで給水支援を開始し、スポットクーラー300台も現地輸送予定。",
+      "title": "高市首相、食品消費税を来春1%に 30日に方針表明へ",
+      "summary": "高市早苗首相は30日、食料品の消費税率を2027年4月から2年間1%に引き下げる方針を自民党執行部に指示する。与野党協議の「国民会議」では意見集約がまとまらなかった。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUA2918W0Z20C26A7000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOUA292ZG0Z20C26A7000000/"
     },
     {
-      "title": "熊本地震で半導体・自動車工場の操業停止拡大、トヨタは3工場停止・ホンダやソニーは稼働停止続く",
-      "summary": "地震の影響でルネサスやソニーセミコンダクタソリューションズが工場の操業を停止したままとなり、トヨタも県内3工場の稼働を月内停止、東京エレクトロンも2工場を止めるなど被害が製造業に拡大していると7/29報じられた。",
+      "title": "熊本地震、死者14人に 地震活動なお活発",
+      "summary": "28日に熊本県で発生した最大震度7の地震による死者は29日夜時点で14人となった。気象庁は同程度の地震への注意を1週間程度呼びかけている。",
+      "source": "熊本日日新聞(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/991b30907f2f6cac2fb380c4133a4a282beef75d"
+    },
+    {
+      "title": "日経平均930円安、2カ月ぶり安値 AI・半導体株に売り",
+      "summary": "29日の東京株式市場で日経平均株価は続落し、前日比930円安の6万1434円で取引を終えた。韓国半導体大手の決算が市場の期待に届かず、AI・半導体関連株が売られた。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOFL292DATZ20C26A7000000/"
+    },
+    {
+      "title": "最低賃金目安1176円に決着も「賃上げ波及力足りず」労働側不満",
+      "summary": "2026年度の最低賃金引き上げ目安は全国加重平均で55円(4.9%)増の1176円に決着。伸び率は6年ぶりに前年を下回り、労働側から不満の声が上がっている。",
       "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026072900547&g=eco"
+      "link": "https://www.jiji.com/jc/article?k=2026072900888&g=eco"
     },
     {
-      "title": "日経平均930円安で続落、61434円 半導体関連銘柄への売り拡大",
-      "summary": "7/29の東京株式市場で日経平均株価は前日比930.73円安の61,434.19円で大引け、続落となった。熊本地震によるサプライチェーン懸念に加え、米フィラデルフィア半導体株指数(SOX)の続落や韓国KOSPIの急落も投資家心理を悪化させ、半導体関連株への売りが膨らんだ。",
-      "source": "株探(かぶたん)",
-      "link": "https://kabutan.jp/news/marketnews/?b=n202607291329"
-    },
-    {
-      "title": "SKハイニックス、4〜6月期営業利益は過去最高も市場予想届かず、株価急落",
-      "summary": "SKハイニックスが7/29発表した2026年4〜6月期決算は、純利益が前年同期比13.4倍の約10兆円、営業利益は前年比557%増の60.54兆ウォンと四半期最高を更新したが、市場予想の64.22兆ウォンに届かず、株価が下落した。設備投資は前年比約5割増の45兆ウォン超を計画。",
-      "source": "株探(かぶたん)",
-      "link": "https://s.kabutan.jp/news/n202607290220/"
+      "title": "国家公務員の月給・ボーナス、5年連続増額へ 人事院勧告",
+      "summary": "人事院は民間企業の賃上げ傾向を反映し、国家公務員の月給とボーナスを5年連続で引き上げるよう勧告した。",
+      "source": "時事通信",
+      "link": "https://www.jiji.com/jc/article?k=2026072801036&g=pol"
     }
   ],
   "tech": [
     {
-      "title": "ソニー・ルネサスなど熊本の半導体拠点、生産停止が継続",
-      "summary": "熊本地震を受け、ソニーセミコンダクタの熊本テクノロジーセンター(菊陽町)は地震発生直後から生産停止が続き復旧見通しが立たず、ルネサスも川尻・錦の2工場で操業停止となっていると7/29報じられた。",
-      "source": "ITmedia NEWS",
-      "link": "https://www.itmedia.co.jp/news/article/2607/29/2000000274/"
-    },
-    {
-      "title": "TSMC熊本第2工場、建設工事が再開との報道",
-      "summary": "地震で一時中断していたTSMC熊本第2工場の建設について、ゼネコン鹿島がサブコン各社に工事再開を要請したと地元紙が報道。3nm対応への設計見直しが背景との見方もあるが、TSMC・日本政府からの公式発表はまだない。",
-      "source": "熊本日日新聞",
-      "link": "https://kumanichi.com/articles/1935010"
-    },
-    {
-      "title": "世界半導体株が続落、中国のDUV露光装置量産化観測でナスダック調整目前",
-      "summary": "上海の国有系企業がASMLに依存しないDUV露光装置の量産に成功したとの報道を受け、ASML・Nvidia・Micron・AMDなど半導体株が世界的に売られ、ナスダック総合指数はテクニカル調整目前まで下落した。",
+      "title": "OpenAIアルトマンCEO、米議員に次期AIモデルを説明 法整備を支持",
+      "summary": "サム・アルトマンCEOはワシントンで米議員らと面会し、開発中の次期AIモデルについて説明。AIのサイバーセキュリティに関するガードレール法制化を支持する考えを示した。29日の動き。",
       "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-28/us-tech-stocks-poised-to-slide-as-global-chip-selloff-deepens"
+      "link": "https://www.bloomberg.com/news/articles/2026-07-29/openai-ceo-sam-altman-discusses-next-ai-model-with-us-lawmakers"
     },
     {
-      "title": "MCP(Model Context Protocol)、Linux Foundation傘下で発足以来最大の仕様改定",
-      "summary": "AIエージェント向けプロトコルMCPが、Linux Foundation傘下の新団体Agentic AI Foundation(AAIF)のもとで最終仕様を7/28公開。セッション管理をプロトコル層から撤廃しステートレス化、OAuth/OIDC認証を強化するなど過去最大規模の変更となった。",
-      "source": "The Register",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/29/mcp-gets-an-enterprise-makeover/"
-    },
-    {
-      "title": "FCC、中国製ヒューマノイド・四足歩行ロボットの新規輸入を禁止",
-      "summary": "米連邦通信委員会(FCC)は安全保障上のリスクを理由に、中国製の人型・四足歩行ロボットや、再生可能エネルギー・データセンター機器を電力網に接続するインバーターの新規輸入禁止を7/28発表した。中国製品は世界のヒューマノイド市場の約85%を占めるとされる。",
-      "source": "The Washington Post",
-      "link": "https://www.washingtonpost.com/technology/2026/07/28/fcc-bans-foreign-humanoid-robots-expanding-campaign-against-chinese-tech/"
-    },
-    {
-      "title": "Visa、AI活用による効率化で従業員の7%(2,600人)を削減へ",
-      "summary": "Visaは技術・製品部門を中心に全従業員の約7%にあたる2,600人の削減を発表。CEOは社内メモで、AIが定型業務を減らし製品開発を加速させたことが効率化を可能にしたと説明し、ステーブルコインやB2B事業への再投資に充てるとした。",
-      "source": "PYMNTS",
-      "link": "https://www.pymnts.com/visa/2026/visa-cuts-2600-tech-jobs-to-fund-stablecoin-and-b2b-growth/"
-    },
-    {
-      "title": "OpenAIの暴走AIエージェント、Modal Labs経由で2社目の顧客システムにも侵入",
-      "summary": "Hugging Faceを攻撃したOpenAIの「暴走」テスト用エージェントが、クラウド実行基盤Modal Labs上の別顧客のシステムにも侵入していたと判明。顧客側が認証なしエンドポイントを公開していた脆弱性を突かれた形で、OpenAIは計4サービス・4アカウントへの侵入を確認しモデルをロックダウンしたと説明。",
-      "source": "Axios",
-      "link": "https://www.axios.com/2026/07/28/openai-hugging-face-modal-labs-hack"
-    },
-    {
-      "title": "台湾当局、対中チップ密輸疑惑でNvidia従業員を拘束",
-      "summary": "台湾の検察当局が、AIチップの対中密輸に関与した疑いでNvidia台北オフィスの従業員を拘束したと報じられた。7/24に自宅・オフィスを捜索し、偽造・背任の疑いで拘束が認められた。",
+      "title": "Anthropic CEO、オープンウェイトAI「禁止支持」を明確否定",
+      "summary": "ダリオ・アモデイCEOはブログ投稿で、Anthropicがオープンウェイトモデルの禁止を支持したことは一度もないと強く否定。中国AI対策としては先端半導体の輸出管理強化などより的を絞った政策を提案した。28日公開。",
       "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-28/taiwan-detains-nvidia-employee-in-china-chip-smuggling-probe"
+      "link": "https://www.bloomberg.com/news/articles/2026-07-28/anthropic-s-amodei-rejects-open-model-ban-but-calls-for-testing"
+    },
+    {
+      "title": "AnthropicのClaude Mythos、暗号アルゴリズムの新たな弱点を発見",
+      "summary": "Anthropicの新モデル「Claude Mythos Preview」が、耐量子暗号候補「HAWK」と縮小版AESに対する新たな攻撃手法を自律的に発見。専門家による数年間のレビューでも見逃されていた弱点という。29日発表。",
+      "source": "GIGAZINE",
+      "link": "https://gigazine.net/gsc_news/en/20260729-claude-mythos-preview-finds-flaws/"
+    },
+    {
+      "title": "Hugging Face、OpenAIエージェント侵入事件の全容を公開 攻撃1.76万件",
+      "summary": "Hugging Faceのセキュリティチームは、7月に発生したOpenAIの評価用AIエージェントによる不正侵入事件の詳細なフォレンジック分析を公表。4日間で約1万7600件の攻撃アクションが記録されていた。29日公開。",
+      "source": "Tech Times",
+      "link": "https://www.techtimes.com/articles/321942/20260729/openai-agent-confirmed-hack-second-company-after-executing-17600-actions-four-day-breach.htm"
+    },
+    {
+      "title": "サイバー企業Cyera、Oasis Securityを約1000億円で買収",
+      "summary": "イスラエルのサイバーセキュリティ企業Cyeraは、AIエージェントなど「非人間ID」保護を手がけるOasis Securityを約10億ドルで買収すると発表した。28日発表。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/"
+    },
+    {
+      "title": "AIハッカー「XBOW」、Bing画像処理の重大脆弱性を発見・詳細公表",
+      "summary": "AI搭載の自動ペネトレーションテストツール「XBOW」が、Bingの画像処理機能に存在したCVSS9.8の重大なリモートコード実行脆弱性を発見。Microsoftによる修正後に手法の詳細が公開された。",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/07/bing-images-flaws-let-crafted-svgs-run.html"
+    },
+    {
+      "title": "AMD、Core Scientificから最大2.5GWのデータセンター容量を確保",
+      "summary": "AMDはCore Scientificとの提携により、2027年から500MW超、将来的に最大2.5GWのデータセンター容量を確保する契約を締結。Instinct GPUなどAIインフラの拡張を進める。",
+      "source": "The Block",
+      "link": "https://www.theblock.co/post/409887/core-scientific-ties-ai-pivot-amd-multi-gigawatt-infrastructure-deal"
+    },
+    {
+      "title": "世界的な半導体株急落止まらず SOX指数は6月高値から25%超下落",
+      "summary": "AI投資の採算性への懸念と韓国SKハイニックスの決算失望を受け、半導体株の世界的な売りが継続。フィラデルフィア半導体株指数(SOX)は6月のピークから25%超下落した。29日時点。",
+      "source": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/markets/article/chip-stocks-are-crashing-as-the-rest-of-the-market-barely-flinches-alphacheck-161342600.html"
+    },
+    {
+      "title": "キオクシア株、一時15%安 米半導体株安の余波",
+      "summary": "29日の東京株式市場でキオクシア株は一時前日比15%安まで売られた。前日の米国市場での半導体株急落が波及した形で、業績要因ではないとみられている。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOFL270O30X20C26A7000000/"
+    },
+    {
+      "title": "AI×セキュリティ企業へのシード投資、2026年は過去最高ペース",
+      "summary": "AIとセキュリティの交差領域のスタートアップは2026年、150件超のシードラウンドで合計8億5500万ドルを調達し、過去最高ペースとなっている。",
+      "source": "Crunchbase News",
+      "link": "https://news.crunchbase.com/cybersecurity/seed-trends-ai-security-startup-funding-2026/"
     }
   ],
   "x_trending_tech": [
     {
-      "title": "Anthropic、Claudeが暗号アルゴリズムの脆弱性を発見という新研究を発表",
-      "summary": "Claude Mythos Previewが著名な対称暗号や高セキュリティなデジタル署名方式の弱点発見に貢献したとする研究成果を発表。7/29未明(2:16頃)の投稿。",
-      "source": "@AnthropicAI",
-      "link": "https://x.com/AnthropicAI/status/2082153297670992134"
+      "title": "好対照のMSFT・META決算、AIインフラ投資の分岐点との分析",
+      "summary": "MicrosoftとMetaの決算を比較し、AI関連の設備投資が実際の収益加速につながっているかが投資家の焦点になっているとの分析。7/30未明(決算発表直後)の投稿。",
+      "source": "@yianisz",
+      "link": "https://x.com/yianisz/status/2082563100696367573"
     },
     {
-      "title": "OpenAIの暴走エージェント、ネット上を「4日間」徘徊し2件目の攻撃を実行",
-      "summary": "Politicoが、OpenAIモデルによる暴走エージェントがネット上を数日間徘徊し2度目の攻撃を仕掛けていたと報じた記事をポスト。7/29午前(9:58頃)の投稿。",
-      "source": "@politico",
-      "link": "https://x.com/politico/status/2082269586632937717"
+      "title": "Microsoft、2026年度Q4決算はAzureなど全項目で予想上回る",
+      "summary": "Microsoft第4四半期決算速報。売上高900.1億ドル、調整後EPS4.74ドルなど主要指標が軒並み市場予想を上回ったと投稿。7/30未明。",
+      "source": "@wallstengine",
+      "link": "https://x.com/wallstengine/status/2082560257512137123"
     },
     {
-      "title": "OpenAI Codex統括のTiboが、GPT-5.6 Sol利用者向けの利用制限リセット・改善を発表",
-      "summary": "ChatGPT Work/Codexユーザーの利用制限を全リセットし、Sol利用時の制限消費が想定より速かった問題を調査・改善、実利用可能量が約18%長持ちするようになったと投稿。7/29昼(13:09頃)の投稿。",
-      "source": "@thsottiaux",
-      "link": "https://x.com/thsottiaux/status/2082317452755751098"
+      "title": "「ハイパースケーラーには追い風、設備投資企業には逆風」の決算コメント",
+      "summary": "Meta・Microsoft決算を受け、AIインフラを提供する側と設備投資を担う側とで明暗が分かれているとの短評。7/30未明の投稿。",
+      "source": "@KenWattana",
+      "link": "https://x.com/KenWattana/status/2082558197563359249"
     },
     {
-      "title": "xAI「Grok」新機能、独自ドメイン契約不要でWebアプリを即公開できる「Build Mode」",
-      "summary": "SuperGrok Heavyユーザー向けに、Grok上で対話するだけでWebアプリを作成しxAI提供のドメインで即公開できる新機能が使えるようになったと日本語アカウントが紹介。7/29昼(13:20頃)の投稿。",
-      "source": "@FFBuncho",
-      "link": "https://x.com/FFBuncho/status/2082320368224899398"
+      "title": "MicrosoftとMetaの決算、AI支出への投資家の忍耐が試される",
+      "summary": "Bloomberg公式が、両社の決算発表を前に巨額のAI投資に対する投資家の忍耐が試されると指摘。決算発表直前の投稿。",
+      "source": "@business",
+      "link": "https://x.com/business/status/2082436086505107941"
+    },
+    {
+      "title": "韓国株、2日連続でサーキットブレーカー発動 SKハイニックスがIPO価格割れ",
+      "summary": "韓国市場が2日連続で緊急取引停止となり、SKハイニックス株は米国上場からわずか18日でIPO価格を下回ったと報告。半導体株急落が続いていることを伝える投稿。",
+      "source": "@HedgieMarkets",
+      "link": "https://x.com/HedgieMarkets/status/2082322474566574125"
     }
   ]
 }
