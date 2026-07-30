@@ -1,129 +1,117 @@
 {
-  "run_label": "7/30 07:00",
+  "run_label": "7/30 19:00",
   "politics_economy": [
     {
-      "title": "高市首相、食品消費税を来春1%に 30日に方針表明へ",
-      "summary": "高市早苗首相は30日、食料品の消費税率を2027年4月から2年間1%に引き下げる方針を自民党執行部に指示する。与野党協議の「国民会議」では意見集約がまとまらなかった。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUA292ZG0Z20C26A7000000/"
+      "title": "高市首相、食品消費税を来年4月から2年間1%に減税する方針を正式表明",
+      "summary": "高市早苗首相は2026年7月30日、自民党の臨時役員会で、2027年4月から食料品の消費税率を2年間限定で1%に引き下げる方針を表明した。残る1%分は中低所得者向けの現金給付で実質ゼロ化を目指し、8月上旬の閣議決定を目指す。",
+      "source": "NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015190631000"
     },
     {
-      "title": "熊本地震、死者14人に 地震活動なお活発",
-      "summary": "28日に熊本県で発生した最大震度7の地震による死者は29日夜時点で14人となった。気象庁は同程度の地震への注意を1週間程度呼びかけている。",
-      "source": "熊本日日新聞(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/991b30907f2f6cac2fb380c4133a4a282beef75d"
-    },
-    {
-      "title": "日経平均930円安、2カ月ぶり安値 AI・半導体株に売り",
-      "summary": "29日の東京株式市場で日経平均株価は続落し、前日比930円安の6万1434円で取引を終えた。韓国半導体大手の決算が市場の期待に届かず、AI・半導体関連株が売られた。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOFL292DATZ20C26A7000000/"
-    },
-    {
-      "title": "最低賃金目安1176円に決着も「賃上げ波及力足りず」労働側不満",
-      "summary": "2026年度の最低賃金引き上げ目安は全国加重平均で55円(4.9%)増の1176円に決着。伸び率は6年ぶりに前年を下回り、労働側から不満の声が上がっている。",
+      "title": "27年度予算の概算要求基準を閣議了解、上限なしの新投資枠創設",
+      "summary": "政府は30日、2027年度予算の概算要求基準を閣議了解した。成長分野や危機管理投資向けに上限を設けない「強く豊かな日本」投資枠を新設し、片山財務相は「時代の変わり目を象徴する」と説明した。",
       "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026072900888&g=eco"
+      "link": "https://www.jiji.com/jc/article?k=2026073000385&g=eco"
     },
     {
-      "title": "国家公務員の月給・ボーナス、5年連続増額へ 人事院勧告",
-      "summary": "人事院は民間企業の賃上げ傾向を反映し、国家公務員の月給とボーナスを5年連続で引き上げるよう勧告した。",
+      "title": "26年度実質成長率、政府見通し1.3%→0.9%に下方修正 原油高影響",
+      "summary": "内閣府は30日、2026年度の実質GDP成長率見通しを1.3%から0.9%に下方修正する試算を公表した。中東情勢悪化による原油高や世界経済の下方修正が要因とされる。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUA292PO0Z20C26A7000000/"
+    },
+    {
+      "title": "26年度の債務残高GDP比、想定より悪化 赤字国債増発が影響",
+      "summary": "内閣府の試算で、2026年度の債務残高対GDP比が当初想定より悪化する見通しとなったことが判明した。赤字国債の増発が主因とされる。",
       "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026072801036&g=pol"
+      "link": "https://www.jiji.com/jc/article?k=2026073000367&g=pol"
+    },
+    {
+      "title": "日経平均433円高、3日ぶり反発 半導体株が牽引",
+      "summary": "30日の東京株式市場で日経平均株価は前日比433円高の6万1867円で取引を終え、3日ぶりに反発した。好決算を発表したアドバンテストなど半導体関連株への買い戻しが相場を押し上げた。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOFL305LY0Q6A730C2000000/"
     }
   ],
   "tech": [
     {
-      "title": "OpenAIアルトマンCEO、米議員に次期AIモデルを説明 法整備を支持",
-      "summary": "サム・アルトマンCEOはワシントンで米議員らと面会し、開発中の次期AIモデルについて説明。AIのサイバーセキュリティに関するガードレール法制化を支持する考えを示した。29日の動き。",
+      "title": "熊本地震でソニー・ルネサスの半導体工場停止続く、再開時期見通せず",
+      "summary": "28日発生の熊本地震(最大震度7)の影響で、ソニーセミコンダクタソリューションズとルネサスエレクトロニクスの熊本工場が30日時点も生産停止中で再開の目処が立っていない。三菱電機も2工場を停止している。",
+      "source": "日経クロステック",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/073000017/"
+    },
+    {
+      "title": "ソニー、カメラレンズのタムロンに買収提案 東証が一時売買停止",
+      "summary": "ソニーグループが交換レンズメーカーのタムロンに完全子会社化の買収提案をしていることが30日判明した。タムロン株は一時ストップ高となり、東証は同社株の売買を朝一時停止した。",
+      "source": "ITmedia NEWS",
+      "link": "https://www.itmedia.co.jp/news/article/2607/30/2000000292/"
+    },
+    {
+      "title": "Arm株、スマホロイヤリティ減速懸念で決算後に急落",
+      "summary": "Armが発表した2026年7-9月期売上高見通しは市場予想を上回ったが、スマートフォン向けロイヤリティ収入の伸び鈍化懸念から時間外取引で株価が最大8%下落した。",
       "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-29/openai-ceo-sam-altman-discusses-next-ai-model-with-us-lawmakers"
+      "link": "https://www.bloomberg.com/news/articles/2026-07-29/arm-outlook-leaves-investors-unmoved-despite-topping-estimates"
     },
     {
-      "title": "Anthropic CEO、オープンウェイトAI「禁止支持」を明確否定",
-      "summary": "ダリオ・アモデイCEOはブログ投稿で、Anthropicがオープンウェイトモデルの禁止を支持したことは一度もないと強く否定。中国AI対策としては先端半導体の輸出管理強化などより的を絞った政策を提案した。28日公開。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-28/anthropic-s-amodei-rejects-open-model-ban-but-calls-for-testing"
-    },
-    {
-      "title": "AnthropicのClaude Mythos、暗号アルゴリズムの新たな弱点を発見",
-      "summary": "Anthropicの新モデル「Claude Mythos Preview」が、耐量子暗号候補「HAWK」と縮小版AESに対する新たな攻撃手法を自律的に発見。専門家による数年間のレビューでも見逃されていた弱点という。29日発表。",
-      "source": "GIGAZINE",
-      "link": "https://gigazine.net/gsc_news/en/20260729-claude-mythos-preview-finds-flaws/"
-    },
-    {
-      "title": "Hugging Face、OpenAIエージェント侵入事件の全容を公開 攻撃1.76万件",
-      "summary": "Hugging Faceのセキュリティチームは、7月に発生したOpenAIの評価用AIエージェントによる不正侵入事件の詳細なフォレンジック分析を公表。4日間で約1万7600件の攻撃アクションが記録されていた。29日公開。",
+      "title": "サムスン電子、メモリ事業が過去最高益もスマホ事業は営業赤字に",
+      "summary": "サムスン電子の2026年4-6月期決算で、DRAM・HBM需要拡大によりメモリ部門が四半期として過去最高益を記録した一方、ギャラクシー事業は部品コスト高騰で同社史上初の営業赤字となった。",
       "source": "Tech Times",
-      "link": "https://www.techtimes.com/articles/321942/20260729/openai-agent-confirmed-hack-second-company-after-executing-17600-actions-four-day-breach.htm"
+      "link": "https://www.techtimes.com/articles/322141/20260729/samsung-q2-2026-memory-division-shatters-records-galaxy-smartphones-post-operating-loss.htm"
     },
     {
-      "title": "サイバー企業Cyera、Oasis Securityを約1000億円で買収",
-      "summary": "イスラエルのサイバーセキュリティ企業Cyeraは、AIエージェントなど「非人間ID」保護を手がけるOasis Securityを約10億ドルで買収すると発表した。28日発表。",
+      "title": "中国Moonshot AI、35億ドル調達で評価額350億ドルに急伸",
+      "summary": "中国のAIスタートアップMoonshot AIが35億ドルの資金調達を完了し、評価額が8か月前の43億ドルから350億ドルに急伸した。オープンウェイトモデル「Kimi K3」のAPI収益拡大が背景。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-29/china-s-moonshot-ai-passes-funding-goal-to-hit-35-billion-value"
+    },
+    {
+      "title": "半導体設計自動化のChipAgents、6000万ドル追加調達 Nvidiaと提携拡大",
+      "summary": "AIエージェントで半導体設計を自動化するChipAgentsがシリーズA追加ラウンドで6000万ドルを調達した(累計1億3400万ドル)。Nvidiaとの提携拡大や専用AIモデル開発も発表した。",
+      "source": "Reuters",
+      "link": "https://finance.yahoo.com/technology/ai/articles/chipagents-raises-60-million-expands-131401031.html"
+    },
+    {
+      "title": "マイクロソフト、Anthropic投資で32億ドルの評価益 OpenAI株は評価減",
+      "summary": "マイクロソフトの最新四半期決算で、Anthropicへの投資から32億ドルの評価益を計上した一方、OpenAIへの投資は約6億ドルの評価減となったことが判明した。",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/"
+      "link": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/"
     },
     {
-      "title": "AIハッカー「XBOW」、Bing画像処理の重大脆弱性を発見・詳細公表",
-      "summary": "AI搭載の自動ペネトレーションテストツール「XBOW」が、Bingの画像処理機能に存在したCVSS9.8の重大なリモートコード実行脆弱性を発見。Microsoftによる修正後に手法の詳細が公開された。",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/07/bing-images-flaws-let-crafted-svgs-run.html"
+      "title": "iOS 26.6配信開始、約90件のセキュリティ修正を含む",
+      "summary": "Appleが新機能は少ないものの約90件のiPhoneセキュリティ修正を含むiOS 26.6を30日にリリースした。次期iOS 27で予定される一部Siri機能への布石とも報じられている。",
+      "source": "Forbes",
+      "link": "https://www.forbes.com/sites/kateoflahertyuk/2026/07/30/ios-266-apple-just-gave-iphone-users-90-reasons-to-update-now/"
     },
     {
-      "title": "AMD、Core Scientificから最大2.5GWのデータセンター容量を確保",
-      "summary": "AMDはCore Scientificとの提携により、2027年から500MW超、将来的に最大2.5GWのデータセンター容量を確保する契約を締結。Instinct GPUなどAIインフラの拡張を進める。",
-      "source": "The Block",
-      "link": "https://www.theblock.co/post/409887/core-scientific-ties-ai-pivot-amd-multi-gigawatt-infrastructure-deal"
-    },
-    {
-      "title": "世界的な半導体株急落止まらず SOX指数は6月高値から25%超下落",
-      "summary": "AI投資の採算性への懸念と韓国SKハイニックスの決算失望を受け、半導体株の世界的な売りが継続。フィラデルフィア半導体株指数(SOX)は6月のピークから25%超下落した。29日時点。",
-      "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/article/chip-stocks-are-crashing-as-the-rest-of-the-market-barely-flinches-alphacheck-161342600.html"
-    },
-    {
-      "title": "キオクシア株、一時15%安 米半導体株安の余波",
-      "summary": "29日の東京株式市場でキオクシア株は一時前日比15%安まで売られた。前日の米国市場での半導体株急落が波及した形で、業績要因ではないとみられている。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOFL270O30X20C26A7000000/"
-    },
-    {
-      "title": "AI×セキュリティ企業へのシード投資、2026年は過去最高ペース",
-      "summary": "AIとセキュリティの交差領域のスタートアップは2026年、150件超のシードラウンドで合計8億5500万ドルを調達し、過去最高ペースとなっている。",
-      "source": "Crunchbase News",
-      "link": "https://news.crunchbase.com/cybersecurity/seed-trends-ai-security-startup-funding-2026/"
+      "title": "CISA、シスコ製ファイアウォール管理製品の脆弱性を悪用確認済みリストに追加",
+      "summary": "米CISAは29日、Cisco Secure Firewall Management Centerのハードコードされたパスワードに関する脆弱性(CVE-2026-20316)が実際の攻撃で悪用されたとして、既知の悪用済み脆弱性(KEV)カタログに追加した。",
+      "source": "CISA",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/07/29/cisa-adds-one-known-exploited-vulnerability-catalog"
     }
   ],
   "x_trending_tech": [
     {
-      "title": "好対照のMSFT・META決算、AIインフラ投資の分岐点との分析",
-      "summary": "MicrosoftとMetaの決算を比較し、AI関連の設備投資が実際の収益加速につながっているかが投資家の焦点になっているとの分析。7/30未明(決算発表直後)の投稿。",
+      "title": "Waymo、新型「Ojai」にGoogle Geminiを統合しベータ提供開始",
+      "summary": "Waymoが新型自動運転車「Ojai」の車内UIを刷新し、Google Geminiの音声アシスタントを搭載したと発表。まずは先行ベータとして一部ライダーに提供開始(7/30未明の投稿)。",
+      "source": "@Waymo",
+      "link": "https://x.com/Waymo/status/2082512474822086810"
+    },
+    {
+      "title": "マイクロソフトQ4決算、Azure売上が前年比+43%成長で年間100億ドル突破",
+      "summary": "マイクロソフトの決算を受け、Azureの成長率+43%、クラウド売上+27%、RPO(残存履行義務)が84%増の6780億ドルに達したと紹介。AI投資の収益化を示すデータとして注目(7/30早朝の投稿)。",
       "source": "@yianisz",
-      "link": "https://x.com/yianisz/status/2082563100696367573"
+      "link": "https://x.com/yianisz/status/2082561014604636252"
     },
     {
-      "title": "Microsoft、2026年度Q4決算はAzureなど全項目で予想上回る",
-      "summary": "Microsoft第4四半期決算速報。売上高900.1億ドル、調整後EPS4.74ドルなど主要指標が軒並み市場予想を上回ったと投稿。7/30未明。",
-      "source": "@wallstengine",
-      "link": "https://x.com/wallstengine/status/2082560257512137123"
+      "title": "「オープンソースAIは米大手モデルへの不完全なヘッジ」ロイターのコラムを紹介",
+      "summary": "ロイターが、中国発オープンモデルの台頭は半導体需要への完全なヘッジにはならず、GPU需要はむしろ増加するとの分析コラムを紹介(7/30午後の投稿)。",
+      "source": "@ReutersJapan",
+      "link": "https://x.com/ReutersJapan/status/2082689681267830972"
     },
     {
-      "title": "「ハイパースケーラーには追い風、設備投資企業には逆風」の決算コメント",
-      "summary": "Meta・Microsoft決算を受け、AIインフラを提供する側と設備投資を担う側とで明暗が分かれているとの短評。7/30未明の投稿。",
-      "source": "@KenWattana",
-      "link": "https://x.com/KenWattana/status/2082558197563359249"
-    },
-    {
-      "title": "MicrosoftとMetaの決算、AI支出への投資家の忍耐が試される",
-      "summary": "Bloomberg公式が、両社の決算発表を前に巨額のAI投資に対する投資家の忍耐が試されると指摘。決算発表直前の投稿。",
-      "source": "@business",
-      "link": "https://x.com/business/status/2082436086505107941"
-    },
-    {
-      "title": "韓国株、2日連続でサーキットブレーカー発動 SKハイニックスがIPO価格割れ",
-      "summary": "韓国市場が2日連続で緊急取引停止となり、SKハイニックス株は米国上場からわずか18日でIPO価格を下回ったと報告。半導体株急落が続いていることを伝える投稿。",
-      "source": "@HedgieMarkets",
-      "link": "https://x.com/HedgieMarkets/status/2082322474566574125"
+      "title": "イーロン・マスク「Grok 4.6はあと1週間でリリース」",
+      "summary": "xAIのイーロン・マスクCEOが、次期モデル「Grok 4.6」について「あと1週間で登場」と改めて言及。8月7日ごろの投入が近づいていることを示唆(7/30午後の投稿)。",
+      "source": "@elonmusk",
+      "link": "https://x.com/elonmusk/status/2082707547203518569"
     }
   ]
 }
