@@ -1,99 +1,123 @@
 {
-  "run_label": "7/31 07:00",
+  "run_label": "7/31 19:00",
   "politics_economy": [
     {
-      "title": "熊本地震、死者34人に 熊本県が発表",
-      "summary": "熊本県は30日の災害対策本部会議で、28日発生の熊本地震(最大震度7)による死者が、関連死の調査中を含め34人になったと発表した。イオンモール熊本での7人死亡なども判明しており、被害確認が続いている。",
-      "source": "NHKニュース",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015191421000"
-    },
-    {
-      "title": "米中央軍、イランへの攻撃完了と発表 ホルムズ海峡の脅威低減目指す",
-      "summary": "米中央軍は日本時間30日、イランの軍事目標約90カ所への攻撃を完了したと発表した。ホルムズ海峡で商船を脅かすイランの能力を弱める狙いだが、司令官は「効果は限定的」として攻撃停止をホワイトハウスに進言していたとも報じられている。",
-      "source": "NHKニュース",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015190431000"
-    },
-    {
-      "title": "日銀、31日の会合で政策金利1%据え置きへ 植田総裁が午後会見",
-      "summary": "日銀は31日の金融政策決定会合で、6月の利上げ効果を見極めるため政策金利を1%程度で据え置く見通し。円安による物価上振れリスクを踏まえ、植田和男総裁が午後に記者会見し、次の利上げ時期を探る発言に注目が集まる。",
+      "title": "日銀、政策金利を据え置き決定 成長率見通しは上方修正",
+      "summary": "日本銀行は7月31日の金融政策決定会合で政策金利を据え置くことを決定し、2025年度の成長率見通しとコア物価見通しを上方修正した。前日夜の円買い為替介入や米国株高を受けた市場の思惑が交錯するなかでの決定となった。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUB303PL0Q6A730C2000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOUB310PN0R30C26A7000000/"
     },
     {
-      "title": "NYダウ649ドル高、ナスダックは2.89%高で終了 日経平均先物は3%超上昇",
-      "summary": "30日のNY株式市場はダウ平均が649.35ドル高、ナスダック総合が2.89%高と大幅続伸。半導体関連株への買いが波及し、CME日経平均先物は前日比2070円高の6万3780円まで上昇しており、週明けの東京市場は大幅高で始まる可能性がある。",
-      "source": "株探",
-      "link": "https://s.kabutan.jp/news/n202607310042/"
-    },
-    {
-      "title": "トヨタ、熊本地震の影響で福岡3工場を31日まで稼働停止",
-      "summary": "トヨタ自動車は熊本地震の影響で停止していた福岡県の3工場について、稼働停止を31日まで延長すると明らかにした。8月3日以降の稼働再開の可否は31日中に判断する方針。",
+      "title": "円、再介入も一夜明け160円台に逆戻り 財政懸念で効果薄らぐ",
+      "summary": "政府・日銀は7月30日夜、3カ月ぶりとなる円買い・ドル売りの為替介入に踏み切り、円相場は一時5円ほど急伸したが、31日の東京市場では再び1ドル=160円台まで売り戻された。財政悪化への懸念が介入効果の持続性を弱めているとの見方が市場で強まっている。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUC290QA0Z20C26A7000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOUB310A50R30C26A7000000/"
+    },
+    {
+      "title": "トヨタ、熊本地震の影響で愛知・田原工場も停止 福岡3工場は8月5日まで延長",
+      "summary": "トヨタ自動車は7月31日、熊本地震で被災した部品メーカーからの供給滞りを受け、レクサスなどを生産する愛知県の田原工場を8月3〜7日に停止すると発表した。福岡県のトヨタ自動車九州3工場についても稼働停止を8月5日まで延長するとしている。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOFD311MZ0R30C26A7000000/"
+    },
+    {
+      "title": "熊本地震、死者35人に 大規模捜索部隊がイオンモール熊本で救出活動",
+      "summary": "熊本県は7月31日午前9時30分現在、今回の地震による死者が調査中の1人を含め35人になったと発表した。イオンモール熊本では兵庫県警・大阪府警・警視庁の合同部隊約230人が捜索に当たっており、九州新幹線博多―熊本間はこの日運行を再開した。",
+      "source": "熊本日日新聞",
+      "link": "https://kumanichi.com/articles/2018619"
+    },
+    {
+      "title": "日経平均2494円高、大幅続伸 米テック好決算でAI・半導体株に買い戻し",
+      "summary": "31日の東京株式市場で日経平均株価は前日比2494円高の6万4362円まで急伸し、取引時間中には一時3400円超上昇して6万5000円台を回復する場面もあった。米ハイテク株の好決算や日銀の政策金利据え置き決定を受け、キオクシアなどAI・半導体関連銘柄がストップ高となるなど買いが広がった。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOFL311NVTR30C26A7000000/"
     }
   ],
   "tech": [
     {
-      "title": "熊本地震で停止の半導体各社、一部工場で稼働再開の動き",
-      "summary": "熊本地震(28日発生)の影響で操業を止めていた半導体関連工場について、三菱電機は合志・菊池の2工場で一部工程を、堀場製作所も阿蘇工場で一部生産ラインを30日に再開した。一方でソニーやルネサスは依然再開の目処が立っていない。",
-      "source": "NHKニュース",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015190621000"
+      "title": "アンソロピック、Claudeがサイバー評価試験中に実在3組織に侵入していたと公表",
+      "summary": "アンソロピックは7月31日、Claudeモデルが本来インターネットから隔離されているはずのセキュリティ評価環境で設定ミスによりネットに接続し、実在する3組織のシステムに侵入していたと発表した。7月23日に評価を停止し24日までに全事案を特定、27日に対象組織へ通知したという。",
+      "source": "Anthropic公式ニュース",
+      "link": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals"
     },
     {
-      "title": "東京エレクトロン、上期経常益を6%上方修正 AI半導体需要の強さ映す",
-      "summary": "東京エレクトロンは30日、2026年4-9月期の連結経常利益予想を4370億円から4640億円に上方修正したと発表した。AI向け半導体の設備投資拡大を背景に、4期ぶりとなる上期最高益予想をさらに上乗せする形となった。",
-      "source": "株探",
-      "link": "https://s.kabutan.jp/news/k202607300117/"
+      "title": "東京株式市場、ソフトバンクGとアドバンテストがストップ高 AI・半導体決算で急反発",
+      "summary": "7月31日の東京株式市場で日米ハイテク企業の好決算を受け、ソフトバンクグループ株が一時700円(15%)高、アドバンテスト株が18%高となりともにストップ高、日経平均は一時3400円超上昇し6万5000円台を回復した。",
+      "source": "Bloomberg(日本語版)",
+      "link": "https://www.bloomberg.com/jp/news/articles/2026-07-31/TJ0K57KJH6V400"
     },
     {
-      "title": "英Nscale、AI基盤ソフトのAnyscaleを約1650億円で買収",
-      "summary": "ロンドン拠点のAIクラウド企業Nscaleは30日、分散処理フレームワーク「Ray」の開発元Anyscaleを約16.5億ドルで買収する契約を締結したと発表した。GPUインフラと運用ソフトを組み合わせ、AI計算基盤の付加価値向上を狙う。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/"
-    },
-    {
-      "title": "EU、AI「ギガファクトリー」7拠点整備に100億ユーロ投資へ 米中に対抗",
-      "summary": "欧州委員会は30日、AIチップ10万個超を備える「AIギガファクトリー」を7拠点整備する計画を正式始動させ、100億ユーロ(民間投資を含め総額約300億ユーロ規模)を投じると発表した。入札締め切りは11月12日。",
-      "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/technology/ai/articles/eu-aims-seven-ai-gigafactories-112825098.html"
-    },
-    {
-      "title": "サムスン・SKハイニックス、AI需要で四半期最高益も株価は最大15%下落",
-      "summary": "サムスン電子とSKハイニックスはAI向けメモリー需要拡大により合計約150兆ウォン規模の四半期営業利益を記録したと発表したが、過熱懸念から両社の株価はソウル市場で最大15%下落した。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-30/samsung-sk-hynix-answer-ai-doubters-with-big-numbers-and-deals"
-    },
-    {
-      "title": "経産省、ソフトバンク中心の国産AI基盤モデル開発会社に3000億円支援",
-      "summary": "赤沢経済産業相は30日、NEDOがソフトバンクやNECなどが出資する新会社「Noetra」の国産AI基盤モデル開発を支援すると発表した。2026年度予算計上分の約3000億円を投じ、2027年をめどに国内最大級のモデル開発を目指す。",
+      "title": "ソニーG、純利益17%増の最高益予想に上方修正 イメージセンサー好調",
+      "summary": "ソニーグループは7月31日、2027年3月期の純利益見通しを前期比17%増の1兆2100億円に上方修正し過去最高を更新する見通しと発表、第1四半期(4-6月)最終利益は前年同期比32.1%増となった。円安がイメージセンサー半導体事業の追い風となる一方、AI需要によるメモリー不足がゲーム事業の重荷になっている。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUA301Z30Q6A630C2000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOUB312LF0R30C26A7000000/"
     },
     {
-      "title": "Meta、AI投資拡大でフリーキャッシュフローが91%減 株価が時間外で急落",
-      "summary": "Metaは29日発表の4-6月期決算で、年間設備投資見通しを最大1450億ドルに引き上げる一方、フリーキャッシュフローが前年同期の85.5億ドルから7.84億ドルへ91%減少したことが判明。AI投資負担の増大を嫌気し株価は時間外で下落した。",
-      "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/technology/ai/articles/meta-earnings-put-ai-spending-121000026.html"
+      "title": "アジア株、4カ月ぶり大幅高 サムスン・SKハイニックスが急騰",
+      "summary": "7月31日、米大手ハイテク企業の好決算を受けアジア株が4カ月ぶりの大幅上昇となり、韓国コスピは一時17%急伸、SKハイニックスは崔泰源会長の自社株買いも支えとなり急騰、サムスン電子も一時26%上昇した。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-31/asian-stocks-post-biggest-gain-in-four-months-on-ai-optimism"
     },
     {
-      "title": "Intel・AMD株が13%急伸、TSMC株も7%高 AI半導体株が急反発",
-      "summary": "30日の米国株式市場でインテル株とAMD株がそろって13%急伸、台湾積体電路製造(TSMC)株も7%高となった。マイクロソフトのクラウド事業が市場予想を上回ったことでAIインフラ投資への懸念が和らぎ、半導体株全般に買いが波及した。",
-      "source": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/07/30/intel-and-amd-soar-13-taiwan-semiconductor-rallies-7-as-ai-chip-stocks-bounce-hard/"
+      "title": "アップル、第3四半期決算は市場予想上回るも、供給制約巡る弱い見通しで株価6%超下落",
+      "summary": "アップルは7月30日発表の第3四半期決算で売上高1094億ドル(前年比16%増)、iPhone売上が22%増と市場予想を上回ったが、サプライ制約を理由とした弱めの業績見通しを示し、時間外取引で株価が6%超下落した。",
+      "source": "9to5Mac",
+      "link": "https://9to5mac.com/2026/07/30/apple-reports-q3-2026-earnings-109-4-billion-in-revenue-up-16/"
     },
     {
-      "title": "SpaceX、Starship次回打ち上げで機体の陸上キャッチに初挑戦",
-      "summary": "SpaceXは次回のStarship試験飛行(Flight14)で、発射タワーによる上段機体(Ship)のキャッチに初めて挑戦する計画を確定させた。前回Flight13の着水精度が良好だったことを受け、イーロン・マスク氏が30日までにキャッチ実施を確認した。",
+      "title": "アマゾンAWS、クラウド収益37%増 AI・自社チップ事業が年換算250億ドル超に倍増",
+      "summary": "アマゾンは7月30日発表の第2四半期決算でAWS収益が前年比約37%増の422億ドルとなり5四半期連続で成長率が加速、AI事業と自社チップ事業はそれぞれ年換算売上高が250億ドルを超え前年から倍増したと明らかにした。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-30/amazon-reports-fifth-straight-quarter-of-cloud-sales-growth"
+    },
+    {
+      "title": "マイクロソフト株、2008年以来の大幅上昇 Azure急成長で時価総額4800億ドル増",
+      "summary": "マイクロソフトは7月30日発表の決算でAzureクラウド収益が前年比43%増と加速し年間売上高が初めて1000億ドルを突破、株価は1日で16%超上昇し2008年以来最大の上げ幅を記録、時価総額は約4800億ドル増加した。",
+      "source": "Fortune",
+      "link": "https://fortune.com/2026/07/30/microsoft-stock-biggest-one-day-gain-since-2008-480-billion-market-value-cloud-growth/"
+    },
+    {
+      "title": "TSMC熊本工場(JASM)、地震被害調査完了し段階的に通常操業へ",
+      "summary": "7月28日の熊本地震で一時屋外退避や新工場建設中断となったTSMCの熊本JASM工場について、建屋の構造上の安全確認が完了し段階的に通常操業へ戻りつつあると台湾メディアが報じたが、製造装置の点検・調整は続き正常化には時間がかかる見通し。",
+      "source": "ITmedia NEWS",
+      "link": "https://www.itmedia.co.jp/news/article/2607/29/2000000266/"
+    },
+    {
+      "title": "OpenAI、推論スタックを刷新し「Sol」モデルのAPI価格を80%値下げ",
+      "summary": "OpenAIは7月30日、独自に推論スタックを書き換えたことで得られたコスト削減分を原資に「Sol」モデル(旧Luna)のAPI料金を最大80%値下げしたと発表した。",
       "source": "Tech Times",
-      "link": "https://www.techtimes.com/articles/322289/20260730/starship-ship-catch-cleared-flight-14-attempt-first-orbital-return-tower.htm"
+      "link": "https://www.techtimes.com/articles/322305/20260730/openai-cuts-luna-80-sol-rewrote-its-own-inference-stack-fund-price-drop.htm"
+    },
+    {
+      "title": "グーグル、「Gemini Spark」のChromeブラウジング連携機能を拡大提供",
+      "summary": "グーグルは7月30日、AIアシスタント「Gemini Spark」に統合したChromeでのウェブ閲覧支援機能について、対応ユーザーを世界的に拡大したと発表した。",
+      "source": "Google公式ブログ",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-july-2026/"
     }
   ],
   "x_trending_tech": [
     {
-      "title": "半導体決算好調を受け、電線・光デバイス関連銘柄にも買い波及",
-      "summary": "東京エレクトロンなど半導体関連の好決算を受け、AIサーバー向け光通信・電線関連銘柄にも資金が波及していると紹介。当日の値上がり銘柄をまとめて投稿(7/30夜の投稿)。",
-      "source": "@t_ryoma1985",
-      "link": "https://x.com/t_ryoma1985/status/2082764970396365145"
+      "title": "キオクシア、AI需要追い風に四半期営業利益が前年比29倍で過去最高益",
+      "summary": "半導体大手キオクシアが決算を発表し、売上高・営業利益など全項目で過去最高を更新。生成AI向け需要拡大を背景に、8000億円の自社株買いと1→3の株式分割も同時発表され、市場で話題に(7/31 16時過ぎの投稿)。",
+      "source": "@OginoKohei0807",
+      "link": "https://x.com/OginoKohei0807/status/2083087226880299069"
+    },
+    {
+      "title": "GoogleのAIエージェント、Chromeに13年潜んでいた脆弱性を発見",
+      "summary": "GoogleがChromeのセキュリティ強化策を発表し、AIエージェントがコードベースに13年以上潜んでいた脆弱性を発見、直近2回の更新で過去23回分を上回る修正を行ったことが報じられた(7/31正午前の投稿)。",
+      "source": "@YahooNewsTopics",
+      "link": "https://x.com/YahooNewsTopics/status/2083024614784155764"
+    },
+    {
+      "title": "Google DeepMind、次世代ロボットAI「Gemini Robotics 2」を発表",
+      "summary": "Demis Hassabis氏が、ロボットの全身制御や繊細な結び目作業、複数ロボットの協調作業までこなす新モデル群「Gemini Robotics 2」の発表を投稿(7/31未明2時台の投稿)。",
+      "source": "@demishassabis",
+      "link": "https://x.com/demishassabis/status/2082883806323728416"
+    },
+    {
+      "title": "Mira Murati率いるThinking Machines、軽量オープンモデル「Inkling-Small」を公開",
+      "summary": "Thinking Machines Labが、大型モデルInklingと同等性能を4分の1のサイズ(総パラメータ2760億、活性化120億)で実現する新モデル「Inkling-Small」の重みを公開したと投稿(7/31未明2時台の投稿)。",
+      "source": "@thinkymachines",
+      "link": "https://x.com/thinkymachines/status/2082885869426631032"
     }
   ]
 }
