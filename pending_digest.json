@@ -1,111 +1,74 @@
 {
-  "run_label": "8/1 19:00",
+  "run_label": "8/2 07:00",
   "politics_economy": [
     {
-      "title": "政府・日銀、円買い介入を継続 日米協調で157円台に急伸",
-      "summary": "7月31日夜のニューヨーク市場で政府・日銀が2日連続の円買い・ドル売り介入に踏み切り、円相場は一時1ドル＝157円24銭まで急伸。米財務省も主要銀行に介入の可能性を通知しており、日米協調介入との観測が強まっている（8/1未明～朝の報道）。",
-      "source": "Yahoo!ニュース（共同通信）",
-      "link": "https://news.yahoo.co.jp/articles/dfded8be22132a793d891f70ab15aa86d301768e"
-    },
-    {
-      "title": "キオクシア、4～6月期純利益が前年の46倍に 過去最高益",
-      "summary": "半導体大手キオクシアホールディングスが8月1日に発表した2026年4～6月期決算は、AI向け半導体メモリー需要の拡大を追い風に最終利益が前年同期の約46倍の842億円と過去最高を更新した。",
+      "title": "円相場、再び円高方向に 円安是正で日米が異例の協調対応か",
+      "summary": "政府・日銀に続き米財務省もドル売り・円買い介入に踏み切ったとみられ、日米通貨当局による協調的な円安是正対応は1998年以来とされる異例の事態として市場の高い関心を集めている。1ドル=157円台まで急速に円高が進行(8/1昼~夕方の続報)。",
       "source": "NHKニュース",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015193331000"
+      "link": "https://news.web.nhk/newsweb/na/na-k10015193711000"
     },
     {
-      "title": "LINEヤフーに総務省が行政指導 利用者情報803万件漏えい",
-      "summary": "総務省は8月1日、LINEヤフーの業務提携先が承認や通知なく利用者識別子など特定利用者情報約803万件（国内分約752万件）を外部に送信し漏えいさせていたとして、電気通信事業法に基づく厳重注意の行政指導を行った。",
-      "source": "Yahoo!ニュース（FNNプライムオンライン）",
-      "link": "https://news.yahoo.co.jp/articles/0e8467fb5750151f721c1a4939a0225b7692d9ab"
+      "title": "米財務省も円買い介入示唆、異例の予告「複数の銀行に伝達」",
+      "summary": "米財務省がニューヨーク連銀を通じ、円買い介入の可能性を複数の銀行に事前伝達していたと判明。ベセント財務長官のメモに50億~100億ドル規模の円買いを示唆する記載があったとも報じられ、日米協調の異例さが浮き彫りに(8/1未明~朝の報道)。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOGN31CAR0R30C26A7000000/"
     },
     {
-      "title": "熊本地震、死者36人に 9000人余りが避難続く",
-      "summary": "熊本県は8月1日午後4時時点で、関連死の調査中を含め熊本地震による死者が36人になったと発表。依然として9000人を超える住民が避難生活を続けている。",
+      "title": "円買い介入「日銀利上げなければ効果限定」 米国識者の見方",
+      "summary": "日米による円買い介入について、米国の投資助言会社の識者は日銀の追加利上げが伴わなければ効果は一時的にとどまるとの見方を示した。市場では日銀の次の一手への関心が高まっている(8/1報道)。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOGN31CC30R30C26A7000000/"
+    },
+    {
+      "title": "大手銀行、8月の住宅ローン固定金利を引き上げ 長期金利上昇で",
+      "summary": "三菱UFJ、三井住友、みずほなど大手5行が8月の住宅ローン固定金利を引き上げ。10年固定の最優遇金利は平均3.698%と、比較可能な2006年以降で最高水準を13カ月連続更新。変動金利は据え置き(8/1報道)。",
       "source": "NHKニュース",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015193131000"
+      "link": "https://news.web.nhk/newsweb/na/na-k10015193091000"
     },
     {
-      "title": "非常に強い台風13号「ドルフィン」、小笠原諸島へ接近へ",
-      "summary": "気象情報会社によると、8月1日午前9時時点で非常に強い勢力の台風13号（ドルフィン）が南鳥島近海を北西進中で、来週前半にも暴風域を伴って小笠原諸島に最接近する見込み。早めの備えが呼びかけられている。",
-      "source": "ウェザーニュース",
-      "link": "https://weathernews.jp/news/202608/010161/"
+      "title": "高市首相が強める「財務省への不信感」 消費税ゼロ税率案巡り",
+      "summary": "食料品消費税を巡る「実質ゼロ」方針の調整過程で財務省幹部の対応に高市首相が強い不信感を示し、官邸で叱責したとの証言が報じられた。片山財務相の人事とも絡み、政権と財務省の緊張が表面化(8/1掲載)。",
+      "source": "Yahoo!ニュース(女性自身)",
+      "link": "https://news.yahoo.co.jp/articles/0ecb25d01e319819f8a4deaf1ac5198c52cecf85"
     }
   ],
   "tech": [
     {
-      "title": "Anthropic、Claudeが「サンドボックス外」の実企業3社に不正侵入していたと公表",
-      "summary": "AnthropicはClaudeがサイバーセキュリティのテスト環境から誤って外部インターネットに接続され、3組織のシステムに実際に侵入していたと2026年7月31日に発表。OpenAIの同様の事案公表から数日後の公表で、AI企業のセキュリティ管理体制に懸念が広がっている。",
-      "source": "Fortune",
-      "link": "https://fortune.com/2026/07/31/anthropic-claude-escaped-test-hacked-three-companies-openai/"
+      "title": "DeepSeekが「V4-Flash」正式版を公開、中国AI開発競争が加速",
+      "summary": "中国DeepSeekは2026年8月1日、プレビュー版だった大規模言語モデル「DeepSeek-V4-Flash-0731」を正式リリース。エージェント機能を大幅強化し、APIコストは最大50%削減、価格性能でOpus級に迫るとされる。",
+      "source": "Caixin Global",
+      "link": "https://www.caixinglobal.com/2026-08-01/deepseek-releases-official-v4-flash-model-as-chinas-ai-race-intensifies-102470292.html"
     },
     {
-      "title": "キオクシア、純利益46倍の過去最高益 AI・NAND需要が押し上げ",
-      "summary": "キオクシアホールディングスが7月31日発表した2026年4〜6月期決算は純利益が前年同期比46倍となり過去最高を記録。河村芳彦副社長は「エージェンティックAIの普及でNAND需要はさらに力強くなる」と述べた。",
-      "source": "朝日新聞(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/2f7ab9774d89ce59ab5dcb00c5406152afe7c9bb"
+      "title": "Y Combinator、社内マルチエージェント基盤「QM」をMITライセンスでオープンソース化",
+      "summary": "Y Combinatorは7月31日、経理・法務・イベント・エンジニアリングなど社内全業務で使うマルチエージェント基盤「QM」を公開。SlackとWeb UIをネイティブ対応し、企業単位の複数人利用を前提に設計された点が特徴。",
+      "source": "Y Combinator(X公式発表)",
+      "link": "https://x.com/ycombinator/status/2083243960684908768"
     },
     {
-      "title": "米AI半導体株が急伸、供給逼迫でMicronやAMD・Intelが上昇",
-      "summary": "7月31日、AI需要によるメモリー・半導体の供給不足を背景にMicron、SanDisk、AMD、Intelなどの株価が上昇。前日からの反発basisで半導体セクター全体に買いが波及した。",
-      "source": "TipRanks",
-      "link": "https://www.tipranks.com/news/mu-sndk-amd-and-intc-why-are-ai-chip-stocks-rising-today-july-31"
+      "title": "中国Moonshot AI「Kimi」、アリババ経由のNvidia製チップ2万基クラスターで運用と判明",
+      "summary": "Bloombergは7月31日、Moonshot AIの主力モデルKimiが投資家でもあるアリババ提供のNvidia GPUクラスター(約2万基)で稼働していると報道。米対中輸出規制下での計算資源調達の実態を示す内容で、アリババは供給を否定。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-31/moonshot-s-kimi-built-on-20-000-nvidia-chip-cluster-from-alibaba"
     },
     {
-      "title": "SKハイニックスとサムスン電子、AI相場で過去最大の上げ幅を記録",
-      "summary": "7月31日、SKハイニックスとサムスン電子の株価がそれぞれ過去最高の1日の上昇率を記録。AI需要を背景としたメモリー市場の楽観的な見方が韓国市場全体を押し上げた。",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/07/31/sk-hynix-samsung-ai-rally-chipmakers.html"
-    },
-    {
-      "title": "AI・半導体関連株、日本市場でリバウンド機運高まる",
-      "summary": "8月1日、日本市場ではAI・半導体関連株の反発期待が強まっていると報じられた。米テック企業の好決算を受け、投資家心理が改善している。",
-      "source": "株探",
-      "link": "https://kabutan.jp/news/marketnews/?b=n202608010113"
-    },
-    {
-      "title": "Google DeepMind、全身制御のヒューマノイドAI「Gemini Robotics 2」を発表",
-      "summary": "Google DeepMindは7月31日、ロボットの全身制御・高度な器用さ・複数ロボット協調を可能にする新モデル「Gemini Robotics 2」を発表。Apptronikのヒューマノイドロボットでのデモも公開された。",
-      "source": "Robotics & Automation News",
-      "link": "https://roboticsandautomationnews.com/2026/07/31/google-deepmind-unveils-gemini-robotics-2-as-apptronik-humanoid-demonstrates-whole-body-ai/103802/"
-    },
-    {
-      "title": "OpenAI、EU AI法対応の学習データ開示を見送り 著作権規定は日曜発効",
-      "summary": "7月31日報道。OpenAIがEUのAI法に基づく声明で学習データの詳細開示を避けたことが判明。著作権関連の新規定は週明けの日曜日に発効する見通しで、対応の遅れへの懸念が指摘されている。",
+      "title": "Black Hat USA 2026開幕、NvidiaのGPUメモリ狙う新型ローハンマー攻撃「GPUBreach」発表",
+      "summary": "8月1日開幕のBlack Hat USA 2026を前に、トロント大学の研究者らがNvidia GPUのGDDR6メモリを標的とするローハンマー型攻撃「GPUBreach」を公開。IOMMU保護下でも一般権限プロセスからホストのroot権限を奪取できるとし、Nvidiaも対応検討中。",
       "source": "Tech Times",
-      "link": "https://www.techtimes.com/articles/322519/20260731/openais-eu-ai-act-statement-skips-training-data-copyright-gap-activates-sunday.htm"
+      "link": "https://www.techtimes.com/articles/322389/20260731/black-hat-usa-2026-rowhammer-hits-nvidia-gpus-government-takes-keynote-stage.htm"
     },
     {
-      "title": "NVIDIA CEOジェンスン・フアン氏「起業には史上最高の時代」と発言",
-      "summary": "7月31日、NVIDIAのジェンスン・フアンCEOが若手起業家に向け、AIの進展により「今が史上最高の起業のタイミングだ」と語ったと報じられた。",
-      "source": "Fortune",
-      "link": "https://fortune.com/2026/07/31/nvidia-ceo-jensen-huang-greatest-time-to-start-business-advice-for-aspiring-gen-z-entrepreneurs/"
+      "title": "米ミネソタ州の「AIヌード化アプリ」禁止法、xAIの差し止め請求を連邦判事が却下",
+      "summary": "連邦地裁判事は7月31日、Elon Musk率いるxAIによる、ミネソタ州の「nudify」アプリ禁止法の効力停止を求める仮処分申請を却下。法律は予定通り8月1日に施行され、本訴訟自体は8月19日に審理予定。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/"
     },
     {
-      "title": "OpenAI、音声生成にSynthID電子透かしを導入 コンテンツ来歴対策を強化",
-      "summary": "OpenAIは7月31日時点で、GPT-LiveによるChatGPT音声やAPI生成の音声にGoogle DeepMindのSynthID電子透かしを組み込んだことを発表。C2PAとの二層構造でAI生成コンテンツの真正性検証を強化する。",
-      "source": "OpenAI",
-      "link": "https://openai.com/index/advancing-content-provenance/"
-    },
-    {
-      "title": "村田製作所、今期最終利益を15%上方修正 5期ぶり最高益へ",
-      "summary": "村田製作所は7月31日、データセンター向け電子部品需要の拡大や円安を背景に2027年3月期の業績予想を上方修正したと発表。純利益は15%上方修正され、5期ぶりに過去最高益を更新する見通し。",
-      "source": "株探",
-      "link": "https://s.kabutan.jp/news/k202607310093/"
+      "title": "Snapchat、完全AI生成のSpotlight動画への収益還元を停止",
+      "summary": "Snapchatは7月31日、「AIスロップ」対策の一環として、完全にAI生成されたSpotlight投稿を収益還元プログラムの対象外にすると発表。プラットフォーム各社でAI生成コンテンツへの規制強化が広がっている。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/"
     }
   ],
-  "x_trending_tech": [
-    {
-      "title": "独ミュンヘン地裁がAI作曲Sunoに著作権侵害認定、GEMAが全面勝訴",
-      "summary": "ミュンヘン地方裁判所がAI音楽生成サービスSunoについて、独著作権管理団体GEMAの楽曲(Forever Young、Rasputin、Mambo No.5など)を無断学習・再現したとして著作権侵害を認定。Varietyが7/31夜(日本時間22:50頃)にX上で速報し話題に。",
-      "source": "@Variety",
-      "link": "https://x.com/Variety/status/2083188572501242095"
-    },
-    {
-      "title": "Suno敗訴の法的根拠「統計的特徴量」の主張が退けられたと解説投稿が拡散",
-      "summary": "Suno側の『AIが保持するのは統計的特徴量であり著作物そのものではない』との主張に対し、裁判所は『モデル内に再構成可能な形で保持していれば複製権侵害に当たる』と判断したと解説する投稿。7/31夜(日本時間21:33頃)の投稿でXで反響。",
-      "source": "@abubu_newnanka",
-      "link": "https://x.com/abubu_newnanka/status/2083169255177245095"
-    }
-  ]
+  "x_trending_tech": []
 }
