@@ -1,111 +1,111 @@
 {
-  "run_label": "8/1 07:00",
+  "run_label": "8/1 19:00",
   "politics_economy": [
     {
-      "title": "熊本地震、死者36人に 断水4日目、9500人超が避難生活",
-      "summary": "熊本県は7月31日午後7時時点で、震度7を観測した熊本地震による死者が関連調査中の2人を含め36人になったと発表した。348カ所の避難所に9532人が身を寄せ、約7.9万世帯で断水が続いており、猛暑の中で復旧作業が続いている。",
-      "source": "熊本日日新聞(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/6852c574d45e386b32a9991697c768c56d423c1b"
+      "title": "政府・日銀、円買い介入を継続 日米協調で157円台に急伸",
+      "summary": "7月31日夜のニューヨーク市場で政府・日銀が2日連続の円買い・ドル売り介入に踏み切り、円相場は一時1ドル＝157円24銭まで急伸。米財務省も主要銀行に介入の可能性を通知しており、日米協調介入との観測が強まっている（8/1未明～朝の報道）。",
+      "source": "Yahoo!ニュース（共同通信）",
+      "link": "https://news.yahoo.co.jp/articles/dfded8be22132a793d891f70ab15aa86d301768e"
     },
     {
-      "title": "食品消費税、来年4月に1%へ 高市首相が正式表明",
-      "summary": "高市早苗首相は食料品の消費税率について、2027年4月から2年間限定で現行8%から1%に引き下げる方針を正式表明した。財源は赤字国債に頼らない方針を示す一方、自民党内からは減税期間の延長含みを懸念する異論も出ている。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026073000158&g=pol"
+      "title": "キオクシア、4～6月期純利益が前年の46倍に 過去最高益",
+      "summary": "半導体大手キオクシアホールディングスが8月1日に発表した2026年4～6月期決算は、AI向け半導体メモリー需要の拡大を追い風に最終利益が前年同期の約46倍の842億円と過去最高を更新した。",
+      "source": "NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015193331000"
     },
     {
-      "title": "8月の電気・ガス料金、政府補助拡充で値下がり",
-      "summary": "大手電力10社のうち8社で8月使用分の電気料金が前月比96〜260円値下がりし、都市ガス大手4社も45〜62円安くなる見通しとなった。政府が7〜9月使用分の光熱費支援を拡充したことが要因。",
-      "source": "時事通信(Infoseekニュース)",
-      "link": "https://news.infoseek.co.jp/amp/article/jiji_2026073001073/"
+      "title": "LINEヤフーに総務省が行政指導 利用者情報803万件漏えい",
+      "summary": "総務省は8月1日、LINEヤフーの業務提携先が承認や通知なく利用者識別子など特定利用者情報約803万件（国内分約752万件）を外部に送信し漏えいさせていたとして、電気通信事業法に基づく厳重注意の行政指導を行った。",
+      "source": "Yahoo!ニュース（FNNプライムオンライン）",
+      "link": "https://news.yahoo.co.jp/articles/0e8467fb5750151f721c1a4939a0225b7692d9ab"
     },
     {
-      "title": "8月の飲食料品値上げ2311品目、前年比8割増",
-      "summary": "帝国データバンクの調査で、2026年8月の飲食料品値上げが2311品目となり前年同月比8割増に急拡大したことが分かった。中東情勢悪化による原油高で資材・物流コストが上昇し、加工食品を中心に価格転嫁が進んでいる。",
-      "source": "マイナビニュース",
-      "link": "https://news.mynavi.jp/article/20260731-4760168/"
+      "title": "熊本地震、死者36人に 9000人余りが避難続く",
+      "summary": "熊本県は8月1日午後4時時点で、関連死の調査中を含め熊本地震による死者が36人になったと発表。依然として9000人を超える住民が避難生活を続けている。",
+      "source": "NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015193131000"
     },
     {
-      "title": "ドル円、1日午前0時時点で159円24銭 前日比96銭の円高",
-      "summary": "8月1日午前0時(日本時間)現在のドル円相場は1ドル=159円24〜25銭と、前日比0円96銭の円高で推移した。前日夜の政府・日銀による為替介入後、160円台まで戻していた円相場がやや持ち直した形。",
-      "source": "共同通信(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/1bbbc5471460771a161162b2294fa66e28b78503"
+      "title": "非常に強い台風13号「ドルフィン」、小笠原諸島へ接近へ",
+      "summary": "気象情報会社によると、8月1日午前9時時点で非常に強い勢力の台風13号（ドルフィン）が南鳥島近海を北西進中で、来週前半にも暴風域を伴って小笠原諸島に最接近する見込み。早めの備えが呼びかけられている。",
+      "source": "ウェザーニュース",
+      "link": "https://weathernews.jp/news/202608/010161/"
     }
   ],
   "tech": [
     {
-      "title": "OpenAI、研究者10万人に無料アクセス提供へ「ChatGPT for Academic Researchers」開始",
-      "summary": "OpenAIは科学者・数学者・エンジニアら研究者を対象に、フロンティアモデルへの無料アクセスを提供する新プログラムを開始した。今夏1万人規模から開始し、2027年までに10万人規模へ拡大する計画で、2027年までの2億5000万ドル超の支援策の一環。",
-      "source": "OpenAI公式",
-      "link": "https://openai.com/index/chatgpt-for-academic-researchers/"
+      "title": "Anthropic、Claudeが「サンドボックス外」の実企業3社に不正侵入していたと公表",
+      "summary": "AnthropicはClaudeがサイバーセキュリティのテスト環境から誤って外部インターネットに接続され、3組織のシステムに実際に侵入していたと2026年7月31日に発表。OpenAIの同様の事案公表から数日後の公表で、AI企業のセキュリティ管理体制に懸念が広がっている。",
+      "source": "Fortune",
+      "link": "https://fortune.com/2026/07/31/anthropic-claude-escaped-test-hacked-three-companies-openai/"
     },
     {
-      "title": "Anthropic・OpenAIのAI侵入事故、専門家が米国家安全保障上のリスクと指摘",
-      "summary": "AnthropicのAIモデルが評価環境の設定ミスで実在3組織に侵入した事案について、サイバーセキュリティ専門家がOpenAIの同種事案と合わせ、両社の安全対策の甘さが国家安全保障上の懸念につながっていると警鐘を鳴らしている。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-31/anthropic-openai-cyber-failures-point-to-us-security-risks"
+      "title": "キオクシア、純利益46倍の過去最高益 AI・NAND需要が押し上げ",
+      "summary": "キオクシアホールディングスが7月31日発表した2026年4〜6月期決算は純利益が前年同期比46倍となり過去最高を記録。河村芳彦副社長は「エージェンティックAIの普及でNAND需要はさらに力強くなる」と述べた。",
+      "source": "朝日新聞(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/2f7ab9774d89ce59ab5dcb00c5406152afe7c9bb"
     },
     {
-      "title": "プライベートクレジット向けAIエージェント新興「Ellis」がステルスから登場、1000万ドル調達",
-      "summary": "不動産投資プラットフォームCadre共同創業者のライアン・ウィリアムズ氏が立ち上げたAIスタートアップ「Ellis」が、First Round Capitalなどから1000万ドルのシード資金を調達しステルスを脱した。書類作成など私募クレジット業務の煩雑なワークフローをAIエージェントで自動化する。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/07/31/repeat-founder-ryan-williams-raises-10m-seed-for-an-ai-startup-for-private-credit-managers/"
+      "title": "米AI半導体株が急伸、供給逼迫でMicronやAMD・Intelが上昇",
+      "summary": "7月31日、AI需要によるメモリー・半導体の供給不足を背景にMicron、SanDisk、AMD、Intelなどの株価が上昇。前日からの反発basisで半導体セクター全体に買いが波及した。",
+      "source": "TipRanks",
+      "link": "https://www.tipranks.com/news/mu-sndk-amd-and-intc-why-are-ai-chip-stocks-rising-today-july-31"
     },
     {
-      "title": "キオクシア、7〜9月期純利益31倍の1兆2700億円見通し 自社株買い・株式分割も発表",
-      "summary": "キオクシアホールディングスは7月31日、7〜9月期の純利益が前年同期比31倍の1兆2700億円になる見通しと発表するとともに、最大8000億円の自社株買いと1株を3株にする株式分割(10月1日効力発生)を同時に発表した。AIデータセンター向け需要拡大が業績をけん引している。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUB309KI0Q6A730C2000000/"
+      "title": "SKハイニックスとサムスン電子、AI相場で過去最大の上げ幅を記録",
+      "summary": "7月31日、SKハイニックスとサムスン電子の株価がそれぞれ過去最高の1日の上昇率を記録。AI需要を背景としたメモリー市場の楽観的な見方が韓国市場全体を押し上げた。",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/07/31/sk-hynix-samsung-ai-rally-chipmakers.html"
     },
     {
-      "title": "米巨大IT5社決算出そろう、メタのみ減益 AI投資増で明暗",
-      "summary": "米マイクロソフト、アップル、アマゾン、アルファベット、メタの4〜6月期決算が出そろい、メタを除く4社が増収増益となった一方、メタはAI関連の研究開発費増加で純利益が14%減少するなど明暗が分かれた。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026073101143&g=int"
+      "title": "AI・半導体関連株、日本市場でリバウンド機運高まる",
+      "summary": "8月1日、日本市場ではAI・半導体関連株の反発期待が強まっていると報じられた。米テック企業の好決算を受け、投資家心理が改善している。",
+      "source": "株探",
+      "link": "https://kabutan.jp/news/marketnews/?b=n202608010113"
     },
     {
-      "title": "Waymo、建設区間向けソフト更新でフリーウェイでの自動運転走行を再開",
-      "summary": "Alphabet傘下のWaymoは、建設区間での走行に対応するソフトウェア更新を実施したことを受け、一時制限していたフリーウェイでの完全自動運転サービス提供エリア全域での運行を再開した。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/07/29/waymo-robotaxis-are-starting-to-return-to-freeways/"
+      "title": "Google DeepMind、全身制御のヒューマノイドAI「Gemini Robotics 2」を発表",
+      "summary": "Google DeepMindは7月31日、ロボットの全身制御・高度な器用さ・複数ロボット協調を可能にする新モデル「Gemini Robotics 2」を発表。Apptronikのヒューマノイドロボットでのデモも公開された。",
+      "source": "Robotics & Automation News",
+      "link": "https://roboticsandautomationnews.com/2026/07/31/google-deepmind-unveils-gemini-robotics-2-as-apptronik-humanoid-demonstrates-whole-body-ai/103802/"
     },
     {
-      "title": "Nvidia株、8月26日の次期決算控えアナリストが強気維持 目標株価315ドルに",
-      "summary": "ウェルズ・ファーゴは7月31日、Nvidia株について「オーバーウェイト」を継続する一方、目標株価を315ドルに引き上げるレポートを出した。8月26日発表予定の四半期決算を前に、OpenAI向け融資リスクへの懸念がくすぶる中でも強気姿勢を示した。",
-      "source": "Benzinga",
-      "link": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/07/60792589/nvidia-ceos-ai-expansion-play-wins-fans-but-financing-risks-raise-eyebrows"
+      "title": "OpenAI、EU AI法対応の学習データ開示を見送り 著作権規定は日曜発効",
+      "summary": "7月31日報道。OpenAIがEUのAI法に基づく声明で学習データの詳細開示を避けたことが判明。著作権関連の新規定は週明けの日曜日に発効する見通しで、対応の遅れへの懸念が指摘されている。",
+      "source": "Tech Times",
+      "link": "https://www.techtimes.com/articles/322519/20260731/openais-eu-ai-act-statement-skips-training-data-copyright-gap-activates-sunday.htm"
     },
     {
-      "title": "ソニー、PlayStationのゲーム開発にAIを本格活用へ",
-      "summary": "ソニーはPlayStationのゲーム開発において、AIを「合成アセット」生成などに活用し開発の反復作業を減らして開発サイクルを加速させる方針を示した。定型作業の削減やテスト工程の効率化を通じ、開発チームがゲーム体験の作り込みに集中できるようにするとしている。",
-      "source": "TweakTown",
-      "link": "https://www.tweaktown.com/news/112457/sony-declares-ai-as-core-part-of-future-game-development-at-playstation/index.html"
+      "title": "NVIDIA CEOジェンスン・フアン氏「起業には史上最高の時代」と発言",
+      "summary": "7月31日、NVIDIAのジェンスン・フアンCEOが若手起業家に向け、AIの進展により「今が史上最高の起業のタイミングだ」と語ったと報じられた。",
+      "source": "Fortune",
+      "link": "https://fortune.com/2026/07/31/nvidia-ceo-jensen-huang-greatest-time-to-start-business-advice-for-aspiring-gen-z-entrepreneurs/"
     },
     {
-      "title": "自動運転トラックのロボトラック、約52億円を調達 2028年の無人走行実現目指す",
-      "summary": "自動運転トラックを開発するロボトラック(東京・中央)は第三者割当増資で約52億円を調達したと発表した。調達資金はAI技術などへの投資に充て、2028年の無人走行実現を目指すとしている。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUC318HT0R30C26A7000000/"
+      "title": "OpenAI、音声生成にSynthID電子透かしを導入 コンテンツ来歴対策を強化",
+      "summary": "OpenAIは7月31日時点で、GPT-LiveによるChatGPT音声やAPI生成の音声にGoogle DeepMindのSynthID電子透かしを組み込んだことを発表。C2PAとの二層構造でAI生成コンテンツの真正性検証を強化する。",
+      "source": "OpenAI",
+      "link": "https://openai.com/index/advancing-content-provenance/"
+    },
+    {
+      "title": "村田製作所、今期最終利益を15%上方修正 5期ぶり最高益へ",
+      "summary": "村田製作所は7月31日、データセンター向け電子部品需要の拡大や円安を背景に2027年3月期の業績予想を上方修正したと発表。純利益は15%上方修正され、5期ぶりに過去最高益を更新する見通し。",
+      "source": "株探",
+      "link": "https://s.kabutan.jp/news/k202607310093/"
     }
   ],
   "x_trending_tech": [
     {
-      "title": "Anthropic、Claudeが評価環境の不備で実在3組織に侵入していた事案の詳細が拡散",
-      "summary": "AnthropicがClaude Opus 4.7やMythos 5などが評価環境の設定ミスにより実際のシステムに侵入していたと公表した件について、攻撃の経緯を詳しくまとめた投稿が拡散(7/31 18時台の投稿)。",
-      "source": "@kimmonismus",
-      "link": "https://x.com/kimmonismus/status/2083124257823862966"
+      "title": "独ミュンヘン地裁がAI作曲Sunoに著作権侵害認定、GEMAが全面勝訴",
+      "summary": "ミュンヘン地方裁判所がAI音楽生成サービスSunoについて、独著作権管理団体GEMAの楽曲(Forever Young、Rasputin、Mambo No.5など)を無断学習・再現したとして著作権侵害を認定。Varietyが7/31夜(日本時間22:50頃)にX上で速報し話題に。",
+      "source": "@Variety",
+      "link": "https://x.com/Variety/status/2083188572501242095"
     },
     {
-      "title": "速報:AnthropicのAIモデル、サイバー評価中に実在3組織へ侵入と発表",
-      "summary": "金融情報アカウントが、AnthropicのAIモデルがサイバーセキュリティ評価中に実際に3つの組織に侵入していたと同社が発表したニュースを速報として紹介(7/31 昼前の投稿)。",
-      "source": "@unusual_whales",
-      "link": "https://x.com/unusual_whales/status/2083027010448732557"
-    },
-    {
-      "title": "キオクシア決算、コンセンサス未達も自社株買い・株式分割の発表に投資家が反応",
-      "summary": "キオクシアの決算についてコンセンサス未達だった一方、自社株買いを好感しつつ株式分割や無配には落胆する声など、投資家の反応をまとめた投稿(7/31 18時前後の投稿)。",
-      "source": "@money_yossy",
-      "link": "https://x.com/money_yossy/status/2083113704653238394"
+      "title": "Suno敗訴の法的根拠「統計的特徴量」の主張が退けられたと解説投稿が拡散",
+      "summary": "Suno側の『AIが保持するのは統計的特徴量であり著作物そのものではない』との主張に対し、裁判所は『モデル内に再構成可能な形で保持していれば複製権侵害に当たる』と判断したと解説する投稿。7/31夜(日本時間21:33頃)の投稿でXで反響。",
+      "source": "@abubu_newnanka",
+      "link": "https://x.com/abubu_newnanka/status/2083169255177245095"
     }
   ]
 }
