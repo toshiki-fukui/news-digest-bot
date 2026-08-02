@@ -1,92 +1,81 @@
 {
-  "run_label": "8/2 19:00",
+  "run_label": "8/3 07:00",
   "politics_economy": [
     {
-      "title": "高市首相、あす熊本地震の被災地訪問へ",
-      "summary": "政府は8月2日、高市早苗首相が翌3日に令和8年熊本地震の被災地を訪問すると発表した。死者38人となった地震からの復旧状況を視察する見通し(8/2午後発表)。",
+      "title": "円安是正へ日米が異例の協調介入、3日に共同声明へ",
+      "summary": "政府・日銀と米財務省は7月末から円買い協調介入を実施。3日には日米が円安是正に向けた共同声明を発表する見通しで、市場では1ドル=155円近辺での攻防が続くとみられる(8/2報道)。",
       "source": "NHKニュース",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015194311000"
+      "link": "https://news.web.nhk/newsweb/na/na-k10015194291000"
     },
     {
-      "title": "熊本で地震活動なお活発、震度7程度に注意呼びかけ",
-      "summary": "気象庁は熊本県内で地震活動が依然活発だとして震度7程度の揺れに引き続き注意するよう呼びかけている。避難所では危険な暑さによる熱中症対策も課題に(8/1〜8/2報道)。",
-      "source": "NHKニュース",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015193991000"
-    },
-    {
-      "title": "日米介入劇場、円相場は155円巡る攻防へ 「月曜早朝」に市場が警戒",
-      "summary": "7月31日の日米協調円買い介入を受け、週明け8月3日に3営業日連続の介入が実施されるか市場の関心が集中。1ドル=155円を巡る攻防を予想する声が多く、欧米市場参加者も東京時間早朝から警戒(8/2掲載)。",
+      "title": "高市首相、3日に熊本地震の被災地を初訪問へ",
+      "summary": "高市早苗首相は令和8年熊本地震の発生後初めて、8月3日に熊本県の被災地を訪問する調整に入った。首長との意見交換に加え、避難所訪問も検討している(8/1〜8/2報道)。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOGN013860R00C26A8000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOUA0215J0S6A800C2000000/"
     },
     {
-      "title": "円急伸、日米で協調介入か 円安是正へ週明け方針表明との観測",
-      "summary": "日本政府・日銀と米財務省が週明けにも円安是正に向けた方針を共同で表明する可能性があると当局関係者への取材で判明。投機的な円安を許容しない姿勢を示す狙いとされる(共同通信、8/1〜8/2報道)。",
-      "source": "共同通信(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/0784518352979927d4fb89ea696c66d4839d048c"
+      "title": "片山財務相、日米の円安是正の取り組みを3日に説明へ",
+      "summary": "片山さつき財務相は、日米が協調して進めてきた円安是正の一連の対応について8月3日に説明する見通し。15年ぶりとなる日米協調介入の経緯を語るとみられる(8/2報道)。",
+      "source": "時事通信(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/fa6990dd1025beaba80ce2d3dbf006560fdbc4e8"
     },
     {
-      "title": "ソフトバンクGやトヨタが決算発表へ、今週の経済予定",
-      "summary": "今週8月2日以降、ソフトバンクグループやトヨタ自動車など主要企業の決算発表が相次ぐ見通し。為替介入後の市場動向とあわせて業績への影響が注目される(8/2掲載)。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOCD302CI0Q6A730C2000000/"
+      "title": "AI・半導体株のリバウンド持続性、今週の相場の焦点に",
+      "summary": "週末にかけて急反発したAI・半導体関連株について、持続性が今週の株式相場のカギを握ると指摘。米SOX指数や韓国半導体株の動向が全体の方向性を左右するとみられる(8/2掲載)。",
+      "source": "株探",
+      "link": "https://s.kabutan.jp/news/n202608020047/"
+    },
+    {
+      "title": "東京エレクトロン、熊本地震で停止の子会社工場が8月3日から生産再開",
+      "summary": "半導体製造装置大手の東京エレクトロンは、熊本地震の影響で操業を停止していた子会社・東京エレクトロン九州(熊本県合志市・大津町)の拠点で、8月3日から生産を再開すると発表。建物・設備への大きな被害はなく業績影響は軽微という。",
+      "source": "テレビ朝日系(ANN)(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/5990fd087a5c4f8e40f6c1b9851c92dcff891833"
     }
   ],
   "tech": [
     {
-      "title": "OpenAIの内部モデル「Astra」、10年以上未解決だった数学・理論計算機科学の難問10件を解決",
-      "summary": "OpenAIは8月1日、次世代モデル群「Astra」の内部バージョンが高次元幾何学や群論、量子計算量など10件の未解決問題を解決・反証したと発表。非ソフィック群の存在証明などが含まれ、Lean形式証明として検証された。",
-      "source": "OpenAI公式ブログ",
-      "link": "https://openai.com/index/ten-advances-in-mathematics/"
-    },
-    {
-      "title": "中国発ハッカー、DeepSeekを悪用し自律型サイバー攻撃 ClaudeとOpenAIは依頼を拒否",
-      "summary": "珠海拠点の攻撃者がDeepSeekをオープンソースのHermes Agentに組み込みTelegram経由で操作、460以上のインターネット公開システムを攻撃したと判明。同様の依頼はAnthropic ClaudeとOpenAIの安全機構がブロックしたと報じられた(8/1報道)。",
-      "source": "Tech Times",
-      "link": "https://www.techtimes.com/articles/322582/20260801/deepseek-ran-autonomous-cyberattacks-that-claude-openai-safety-controls-blocked.htm"
-    },
-    {
-      "title": "サム・アルトマン氏、「ChatGPTで子育て」なお推奨し反発招く",
-      "summary": "OpenAIのアルトマンCEOがChatGPTを使った子育てを推奨する投稿を続け、家族ポッドキャストをAI生成した件も含め批判を呼んでいる。「ガビティ・フォールズ」制作者ら著名人からも反発の声(8/1報道)。",
+      "title": "サム・アルトマン氏、AI開発の「減速」論争に踏み込む",
+      "summary": "OpenAIのアルトマンCEOは、AIの能力向上に社会が対応する時間を確保するため「開発のペースを落とす必要があるかもしれない」と発言。Hugging Faceへの侵入事案を受けたもので、業界内で減速を巡る議論が活発化している(8/2掲載)。",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/"
+      "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/"
     },
     {
-      "title": "人気YouTuberハンク・グリーン氏、「自分のAI利用は健全ではない」と告白",
-      "summary": "科学系YouTuberとして知られるハンク・グリーン氏が、自身のAI利用習慣について「健全とは言えない」と率直に語り、AI依存を巡る議論に一石を投じた(8/1報道)。",
+      "title": "自動運転タクシーを巡り米連邦と州・地方で綱引き",
+      "summary": "米連邦当局(NHTSA)が規制緩和で自動運転車の普及を後押しする一方、州・地方当局はブレーキを踏む姿勢を強めている。ハンドルなしロボタクシーのZooxが最終的な連邦認可を得たことなどを踏まえた分析(8/2掲載)。",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/"
+      "link": "https://techcrunch.com/2026/08/02/techcrunch-mobility-two-roads-diverged-for-robotaxis/"
     },
     {
-      "title": "Apple、AI生成のバグ報告殺到を受け提出上限と30日のクールオフ期間を導入",
-      "summary": "AIによる大量の不正確なバグ報告に対応するため、Appleがバグバウンティ制度に提出件数の上限と30日間の一時停止措置を新設したとFinancial Timesが報道。大手ベンダーによるAI生成報告への正式な制限は初とされる(8/2報道)。",
-      "source": "Decrypt(Financial Times報道)",
-      "link": "https://decrypt.co/368309/ai-slop-floods-bug-bounty-programs-fake-reports"
+      "title": "マレーシア政府、バラジ・スリニバサン氏の「Network School」閉鎖を命令",
+      "summary": "マレーシア政府は、起業家バラジ・スリニバサン氏が主宰する「テクノ楽観主義者のコミュニティ」Network Schoolの閉鎖を命じたとWSJが報道。同氏は「米国は不可逆的な衰退にある」との持論からこの拠点を立ち上げていた(8/2報道)。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/08/02/malaysia-is-reportedly-shutting-down-balaji-srinivasans-network-school/"
     },
     {
-      "title": "Google、AI Studio単独モバイルアプリの提供中止を発表 Geminiアプリへ統合",
-      "summary": "Googleは80万件超の事前登録があったAI Studioの独立モバイルアプリの提供を見送り、機能をGeminiアプリへ統合すると発表。アプリを会話の中から自然に生み出す方向へ戦略転換(7/31報道)。",
-      "source": "9to5Google",
-      "link": "https://9to5google.com/2026/07/31/gemini-ai-studio-app/"
+      "title": "AI時代でも輝く「隠れた名作」App Storeアプリ特集",
+      "summary": "2026年第1四半期の世界の新規アプリリリース数は前年比60%増、iOSは80%増。AIコーディングの普及で開発が容易になり、少人数でも質の高いアプリを生み出せるようになった事例を紹介(8/2掲載)。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/"
     },
     {
-      "title": "ミュンヘン地裁、AI音楽生成Sunoに著作権侵害の判決 欧州初の司法判断",
-      "summary": "独楽曲管理団体GEMAが提起した訴訟でミュンヘン地裁は、Sunoが「Rasputin」など著作権保護楽曲を無許諾で学習・出力したのは著作権侵害にあたると判断。差止命令と収益開示を命じ、損害賠償額は別途審理へ(7/31判決)。",
-      "source": "Variety",
-      "link": "https://variety.com/2026/digital/news/suno-loses-ai-lawsuit-gema-1236825010/"
+      "title": "ナスダック100、2025年3月来の悪い月に AIハードウェア株の「持ち高整理」",
+      "summary": "7月のナスダック100急落は、2026年前半の相場をけん引してきたAIハードウェア・メモリ半導体関連株の集中的な持ち高整理だったと分析。底堅かった銘柄と今後アウトパフォームが見込まれる銘柄を紹介(8/2掲載)。",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/08/02/nasdaq-100-just-had-worst-month-since-march-2025-these-stocks-held-up.html"
     },
     {
-      "title": "ソニー、熊本地震で被災したイメージセンサー工場を火曜日から段階的に再開へ",
-      "summary": "ソニーセミコンダクタソリューションズは、熊本地震で停止していたイメージセンサー工場の生産を8月4日(火)から段階的に再開すると発表。世界シェア約4割を占める同工場の復旧はスマートフォン向け供給網にも影響(7/31報道)。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-31/sony-to-start-phased-restart-of-quake-hit-sensor-plant-tuesday"
-    },
-    {
-      "title": "キオクシアHD、自社株買い枠8000億円と1対3株式分割を発表",
-      "summary": "キオクシアホールディングスは最大8000億円の自己株取得枠(8月3日〜10月30日)と10月1日実施の1対3株式分割を発表。生成AI向けメモリ需要で四半期業績は急拡大した一方、営業利益計画は市場予想を下回った(7/31報道)。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/jp/news/articles/2026-07-31/TIZ5ASKK3NY800"
+      "title": "EU AI法の透明性義務、8月2日に本格施行 ディープフェイク表示を義務化",
+      "summary": "EU AI法第50条に基づく透明性義務が8月2日に発効。チャットボットとの対話であることの開示、AI生成コンテンツへのラベル表示、ディープフェイクの明示などが求められ、違反には最大1500万ユーロまたは全世界売上高3%の制裁金が科される。",
+      "source": "IBTimes UK",
+      "link": "https://www.ibtimes.co.uk/eu-ai-transparency-rules-enforcement-1811944"
     }
   ],
-  "x_trending_tech": []
+  "x_trending_tech": [
+    {
+      "title": "CNBC「ナスダック100、25年3月来の最悪の月」投稿が話題に",
+      "summary": "CNBCが7月のナスダック100急落と、その中で底堅く推移し今後のアウトパフォームが見込まれる銘柄群を紹介する投稿。AIハードウェア株の調整局面を巡り関心を集めた(8/2午後、日本時間8/2夜の投稿)。",
+      "source": "@CNBC",
+      "link": "https://x.com/CNBC/status/2083886234250686943"
+    }
+  ]
 }
