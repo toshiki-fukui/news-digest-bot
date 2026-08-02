@@ -1,73 +1,91 @@
 {
-  "run_label": "8/2 07:00",
+  "run_label": "8/2 19:00",
   "politics_economy": [
     {
-      "title": "円相場、再び円高方向に 円安是正で日米が異例の協調対応か",
-      "summary": "政府・日銀に続き米財務省もドル売り・円買い介入に踏み切ったとみられ、日米通貨当局による協調的な円安是正対応は1998年以来とされる異例の事態として市場の高い関心を集めている。1ドル=157円台まで急速に円高が進行(8/1昼~夕方の続報)。",
+      "title": "高市首相、あす熊本地震の被災地訪問へ",
+      "summary": "政府は8月2日、高市早苗首相が翌3日に令和8年熊本地震の被災地を訪問すると発表した。死者38人となった地震からの復旧状況を視察する見通し(8/2午後発表)。",
       "source": "NHKニュース",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015193711000"
+      "link": "https://news.web.nhk/newsweb/na/na-k10015194311000"
     },
     {
-      "title": "米財務省も円買い介入示唆、異例の予告「複数の銀行に伝達」",
-      "summary": "米財務省がニューヨーク連銀を通じ、円買い介入の可能性を複数の銀行に事前伝達していたと判明。ベセント財務長官のメモに50億~100億ドル規模の円買いを示唆する記載があったとも報じられ、日米協調の異例さが浮き彫りに(8/1未明~朝の報道)。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOGN31CAR0R30C26A7000000/"
-    },
-    {
-      "title": "円買い介入「日銀利上げなければ効果限定」 米国識者の見方",
-      "summary": "日米による円買い介入について、米国の投資助言会社の識者は日銀の追加利上げが伴わなければ効果は一時的にとどまるとの見方を示した。市場では日銀の次の一手への関心が高まっている(8/1報道)。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOGN31CC30R30C26A7000000/"
-    },
-    {
-      "title": "大手銀行、8月の住宅ローン固定金利を引き上げ 長期金利上昇で",
-      "summary": "三菱UFJ、三井住友、みずほなど大手5行が8月の住宅ローン固定金利を引き上げ。10年固定の最優遇金利は平均3.698%と、比較可能な2006年以降で最高水準を13カ月連続更新。変動金利は据え置き(8/1報道)。",
+      "title": "熊本で地震活動なお活発、震度7程度に注意呼びかけ",
+      "summary": "気象庁は熊本県内で地震活動が依然活発だとして震度7程度の揺れに引き続き注意するよう呼びかけている。避難所では危険な暑さによる熱中症対策も課題に(8/1〜8/2報道)。",
       "source": "NHKニュース",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015193091000"
+      "link": "https://news.web.nhk/newsweb/na/na-k10015193991000"
     },
     {
-      "title": "高市首相が強める「財務省への不信感」 消費税ゼロ税率案巡り",
-      "summary": "食料品消費税を巡る「実質ゼロ」方針の調整過程で財務省幹部の対応に高市首相が強い不信感を示し、官邸で叱責したとの証言が報じられた。片山財務相の人事とも絡み、政権と財務省の緊張が表面化(8/1掲載)。",
-      "source": "Yahoo!ニュース(女性自身)",
-      "link": "https://news.yahoo.co.jp/articles/0ecb25d01e319819f8a4deaf1ac5198c52cecf85"
+      "title": "日米介入劇場、円相場は155円巡る攻防へ 「月曜早朝」に市場が警戒",
+      "summary": "7月31日の日米協調円買い介入を受け、週明け8月3日に3営業日連続の介入が実施されるか市場の関心が集中。1ドル=155円を巡る攻防を予想する声が多く、欧米市場参加者も東京時間早朝から警戒(8/2掲載)。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOGN013860R00C26A8000000/"
+    },
+    {
+      "title": "円急伸、日米で協調介入か 円安是正へ週明け方針表明との観測",
+      "summary": "日本政府・日銀と米財務省が週明けにも円安是正に向けた方針を共同で表明する可能性があると当局関係者への取材で判明。投機的な円安を許容しない姿勢を示す狙いとされる(共同通信、8/1〜8/2報道)。",
+      "source": "共同通信(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/0784518352979927d4fb89ea696c66d4839d048c"
+    },
+    {
+      "title": "ソフトバンクGやトヨタが決算発表へ、今週の経済予定",
+      "summary": "今週8月2日以降、ソフトバンクグループやトヨタ自動車など主要企業の決算発表が相次ぐ見通し。為替介入後の市場動向とあわせて業績への影響が注目される(8/2掲載)。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOCD302CI0Q6A730C2000000/"
     }
   ],
   "tech": [
     {
-      "title": "DeepSeekが「V4-Flash」正式版を公開、中国AI開発競争が加速",
-      "summary": "中国DeepSeekは2026年8月1日、プレビュー版だった大規模言語モデル「DeepSeek-V4-Flash-0731」を正式リリース。エージェント機能を大幅強化し、APIコストは最大50%削減、価格性能でOpus級に迫るとされる。",
-      "source": "Caixin Global",
-      "link": "https://www.caixinglobal.com/2026-08-01/deepseek-releases-official-v4-flash-model-as-chinas-ai-race-intensifies-102470292.html"
+      "title": "OpenAIの内部モデル「Astra」、10年以上未解決だった数学・理論計算機科学の難問10件を解決",
+      "summary": "OpenAIは8月1日、次世代モデル群「Astra」の内部バージョンが高次元幾何学や群論、量子計算量など10件の未解決問題を解決・反証したと発表。非ソフィック群の存在証明などが含まれ、Lean形式証明として検証された。",
+      "source": "OpenAI公式ブログ",
+      "link": "https://openai.com/index/ten-advances-in-mathematics/"
     },
     {
-      "title": "Y Combinator、社内マルチエージェント基盤「QM」をMITライセンスでオープンソース化",
-      "summary": "Y Combinatorは7月31日、経理・法務・イベント・エンジニアリングなど社内全業務で使うマルチエージェント基盤「QM」を公開。SlackとWeb UIをネイティブ対応し、企業単位の複数人利用を前提に設計された点が特徴。",
-      "source": "Y Combinator(X公式発表)",
-      "link": "https://x.com/ycombinator/status/2083243960684908768"
-    },
-    {
-      "title": "中国Moonshot AI「Kimi」、アリババ経由のNvidia製チップ2万基クラスターで運用と判明",
-      "summary": "Bloombergは7月31日、Moonshot AIの主力モデルKimiが投資家でもあるアリババ提供のNvidia GPUクラスター(約2万基)で稼働していると報道。米対中輸出規制下での計算資源調達の実態を示す内容で、アリババは供給を否定。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-31/moonshot-s-kimi-built-on-20-000-nvidia-chip-cluster-from-alibaba"
-    },
-    {
-      "title": "Black Hat USA 2026開幕、NvidiaのGPUメモリ狙う新型ローハンマー攻撃「GPUBreach」発表",
-      "summary": "8月1日開幕のBlack Hat USA 2026を前に、トロント大学の研究者らがNvidia GPUのGDDR6メモリを標的とするローハンマー型攻撃「GPUBreach」を公開。IOMMU保護下でも一般権限プロセスからホストのroot権限を奪取できるとし、Nvidiaも対応検討中。",
+      "title": "中国発ハッカー、DeepSeekを悪用し自律型サイバー攻撃 ClaudeとOpenAIは依頼を拒否",
+      "summary": "珠海拠点の攻撃者がDeepSeekをオープンソースのHermes Agentに組み込みTelegram経由で操作、460以上のインターネット公開システムを攻撃したと判明。同様の依頼はAnthropic ClaudeとOpenAIの安全機構がブロックしたと報じられた(8/1報道)。",
       "source": "Tech Times",
-      "link": "https://www.techtimes.com/articles/322389/20260731/black-hat-usa-2026-rowhammer-hits-nvidia-gpus-government-takes-keynote-stage.htm"
+      "link": "https://www.techtimes.com/articles/322582/20260801/deepseek-ran-autonomous-cyberattacks-that-claude-openai-safety-controls-blocked.htm"
     },
     {
-      "title": "米ミネソタ州の「AIヌード化アプリ」禁止法、xAIの差し止め請求を連邦判事が却下",
-      "summary": "連邦地裁判事は7月31日、Elon Musk率いるxAIによる、ミネソタ州の「nudify」アプリ禁止法の効力停止を求める仮処分申請を却下。法律は予定通り8月1日に施行され、本訴訟自体は8月19日に審理予定。",
+      "title": "サム・アルトマン氏、「ChatGPTで子育て」なお推奨し反発招く",
+      "summary": "OpenAIのアルトマンCEOがChatGPTを使った子育てを推奨する投稿を続け、家族ポッドキャストをAI生成した件も含め批判を呼んでいる。「ガビティ・フォールズ」制作者ら著名人からも反発の声(8/1報道)。",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/"
+      "link": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/"
     },
     {
-      "title": "Snapchat、完全AI生成のSpotlight動画への収益還元を停止",
-      "summary": "Snapchatは7月31日、「AIスロップ」対策の一環として、完全にAI生成されたSpotlight投稿を収益還元プログラムの対象外にすると発表。プラットフォーム各社でAI生成コンテンツへの規制強化が広がっている。",
+      "title": "人気YouTuberハンク・グリーン氏、「自分のAI利用は健全ではない」と告白",
+      "summary": "科学系YouTuberとして知られるハンク・グリーン氏が、自身のAI利用習慣について「健全とは言えない」と率直に語り、AI依存を巡る議論に一石を投じた(8/1報道)。",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/"
+      "link": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/"
+    },
+    {
+      "title": "Apple、AI生成のバグ報告殺到を受け提出上限と30日のクールオフ期間を導入",
+      "summary": "AIによる大量の不正確なバグ報告に対応するため、Appleがバグバウンティ制度に提出件数の上限と30日間の一時停止措置を新設したとFinancial Timesが報道。大手ベンダーによるAI生成報告への正式な制限は初とされる(8/2報道)。",
+      "source": "Decrypt(Financial Times報道)",
+      "link": "https://decrypt.co/368309/ai-slop-floods-bug-bounty-programs-fake-reports"
+    },
+    {
+      "title": "Google、AI Studio単独モバイルアプリの提供中止を発表 Geminiアプリへ統合",
+      "summary": "Googleは80万件超の事前登録があったAI Studioの独立モバイルアプリの提供を見送り、機能をGeminiアプリへ統合すると発表。アプリを会話の中から自然に生み出す方向へ戦略転換(7/31報道)。",
+      "source": "9to5Google",
+      "link": "https://9to5google.com/2026/07/31/gemini-ai-studio-app/"
+    },
+    {
+      "title": "ミュンヘン地裁、AI音楽生成Sunoに著作権侵害の判決 欧州初の司法判断",
+      "summary": "独楽曲管理団体GEMAが提起した訴訟でミュンヘン地裁は、Sunoが「Rasputin」など著作権保護楽曲を無許諾で学習・出力したのは著作権侵害にあたると判断。差止命令と収益開示を命じ、損害賠償額は別途審理へ(7/31判決)。",
+      "source": "Variety",
+      "link": "https://variety.com/2026/digital/news/suno-loses-ai-lawsuit-gema-1236825010/"
+    },
+    {
+      "title": "ソニー、熊本地震で被災したイメージセンサー工場を火曜日から段階的に再開へ",
+      "summary": "ソニーセミコンダクタソリューションズは、熊本地震で停止していたイメージセンサー工場の生産を8月4日(火)から段階的に再開すると発表。世界シェア約4割を占める同工場の復旧はスマートフォン向け供給網にも影響(7/31報道)。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-31/sony-to-start-phased-restart-of-quake-hit-sensor-plant-tuesday"
+    },
+    {
+      "title": "キオクシアHD、自社株買い枠8000億円と1対3株式分割を発表",
+      "summary": "キオクシアホールディングスは最大8000億円の自己株取得枠(8月3日〜10月30日)と10月1日実施の1対3株式分割を発表。生成AI向けメモリ需要で四半期業績は急拡大した一方、営業利益計画は市場予想を下回った(7/31報道)。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/jp/news/articles/2026-07-31/TIZ5ASKK3NY800"
     }
   ],
   "x_trending_tech": []
