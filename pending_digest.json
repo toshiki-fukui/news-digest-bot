@@ -1,87 +1,105 @@
 {
-  "run_label": "8/3 19:00",
+  "run_label": "8/4 07:00",
   "politics_economy": [
     {
-      "title": "円買い協調介入で急激な円高、日経平均は3日ぶり反落",
-      "summary": "日米両政府が7月31日に実施した円買い協調介入を受け、3日の東京市場でドル円は一時155円台まで急伸。日経平均株価は前週末比607円安と3日ぶりに反落し、自動車など輸出関連株に売りが広がった(8/3)。",
+      "title": "熊本地震「激甚災害」指定へ、4日に予備費200億円超の使用を閣議決定",
+      "summary": "高市首相は3日、令和8年熊本地震について地域を限定しない「本激」の激甚災害に指定する方針を表明。4日の閣議で今年度予算の予備費200億円超の支出を決定する考えを示した(8/3表明・8/4閣議決定)。",
+      "source": "時事通信",
+      "link": "https://www.jiji.com/jc/article?k=2026080300845&g=pol"
+    },
+    {
+      "title": "自民、食料品の消費税1%への引き下げを事実上了承 政府は5日にも閣議決定",
+      "summary": "自民党税制調査会などの合同会議は3日、食料品の消費税率を2027年4月から2年間、8%から1%に引き下げる案への対応を小野寺税調会長に一任。政府は党内の反対論を押し切る形で5日にも閣議決定する方針。",
+      "source": "時事通信",
+      "link": "https://www.jiji.com/jc/article?k=2026080300609&g=pol"
+    },
+    {
+      "title": "最低賃金の目安、全国平均1118円に 63円上げで過去最大、全都道府県が初の1000円超え",
+      "summary": "中央最低賃金審議会は4日、2026年度の最低賃金引き上げ目安を全国加重平均で63円増の1118円とするよう答申。上げ幅は現行制度で過去最大となり、答申通りなら全都道府県で初めて1000円を超える。",
+      "source": "nippon.com",
+      "link": "https://www.nippon.com/ja/japan-data/h02500/"
+    },
+    {
+      "title": "5大銀行グループ、4-6月期は4年連続の最高益 純利益合計42%増の1.96兆円",
+      "summary": "三菱UFJなど大手銀行5グループの2026年4-6月期決算が3日出そろい、連結純利益の合計は前年同期比42%増の1兆9564億円と、四半期として4年連続で過去最高を更新。日銀の利上げによる利ざや改善が寄与した。",
+      "source": "時事通信(Yahoo!ファイナンス)",
+      "link": "https://finance.yahoo.co.jp/news/detail/8f10fc3dbd66dfb8e9e205c73a77fe57ed0cb20b"
+    },
+    {
+      "title": "日経平均、3日は607円安の反落 円急騰でAI・半導体株の戻りが鈍る",
+      "summary": "日米協調介入の影響で円が対ドルで一時155円台まで急伸し、3日の東京株式市場で日経平均株価は前週末比607円安の6万3754円90銭と3日ぶりに反落。輸出関連株中心に売りが広がった。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOFL030AR0T00C26A8000000/"
-    },
-    {
-      "title": "片山財務相「米国と協調して円買い介入」、さらなる実施も辞さずと表明",
-      "summary": "片山さつき財務相は3日、日米が協調して為替介入を実施したことを明らかにし、円の過度な変動・無秩序な動きに対処するため今後も躊躇なく対応する考えを示した。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUA030BQ0T00C26A8000000/"
-    },
-    {
-      "title": "自民党税調、食品消費税率を1%に引き下げる減税案を事実上了承",
-      "summary": "自民党は3日、税制調査会と社会保障制度調査会の合同会議で、飲食料品の消費税率を2027年4月から2年間限定で8%から1%に引き下げる案への対応を小野寺税調会長に一任。党内には異論も残る。",
-      "source": "時事通信(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/0a3d9428e0cd5d540e8a504a0af316cbbb019349"
-    },
-    {
-      "title": "高市首相、熊本地震を「激甚災害」に指定する方針、3日に被災地を初訪問",
-      "summary": "高市早苗首相は令和8年熊本地震を「激甚災害」に指定する方針を表明し、200億円超の予備費使用も検討。3日には発生後初めて被災地を訪れ、首長との意見交換や避難所訪問を行う。",
-      "source": "NHKニュース",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015194841000"
-    },
-    {
-      "title": "キオクシア、8000億円上限の自社株買いを3日開始 4-6月期は純利益31倍",
-      "summary": "キオクシアホールディングスは、発行済み株式の5.5%にあたる最大8000億円の自社株買いを3日から開始。4-6月期はAIデータセンター向け需要拡大で純利益が前年同期比31倍の8421億円となった。",
-      "source": "株探(Yahoo!ファイナンス)",
-      "link": "https://finance.yahoo.co.jp/news/detail/baa5ebac12fd7ababcb14c25943298c3679a4e41"
+      "link": "https://www.nikkei.com/article/DGXZQOUB0324OTT00C26A8000000/"
     }
   ],
   "tech": [
     {
-      "title": "世界的なメモリ不足がMacBook Airを直撃、供給逼迫が深刻化",
-      "summary": "AIデータセンター向け需要でDRAM・NANDの供給がひっ迫する「メモリ不足」がAppleのMacBook Airにも波及。小売店では在庫制約が一段と強まっていると報じられた(8/2掲載)。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/"
+      "title": "アリババが2.4兆パラメータの新型AI「Qwen3.8-Max」発表、DeepSeekも超低価格モデル「V4-Flash」投入",
+      "summary": "アリババは3日、コンテキスト長最大100万トークンの新フラッグシップモデル「Qwen3.8-Max」を発表し株価は香港市場で急伸。同日DeepSeekも運用コストを大幅に抑えた新版「V4-Flash」を投入し、中国勢のAI開発競争が激化している。",
+      "source": "Tech Startups",
+      "link": "https://techstartups.com/2026/08/03/alibaba-unveils-2-4-trillion-parameter-qwen3-8-max-as-deepseeks-new-ai-model-undercuts-anthropic-by-100x/"
     },
     {
-      "title": "Microsoft、AIエージェント群でサイバー防御する「Project Perception」を8月3日に一般プレビュー開始",
-      "summary": "Microsoftは自社開発のセキュリティ特化モデル「MAI-Cyber-1-Flash」と、赤・青・緑の3チームのAIエージェントが脆弱性の発見から対応までを担う新システム「Project Perception」を3日から一般プレビュー公開した。",
-      "source": "TheNextWeb",
-      "link": "https://thenextweb.com/news/microsoft-project-perception-agentic-security-cyber-model"
+      "title": "パランティア、4-6月期決算で売上93%増の大幅増収 米商用部門は149%増、株価12%超急伸",
+      "summary": "パランティア・テクノロジーズは3日、2026年4-6月期決算を発表。売上高は市場予想を上回る19.4億ドル(前年比93%増)、米国商用部門は149%増と加速し、通期売上高見通しを81.5億〜81.6億ドルに上方修正。時間外取引で株価は12%超上昇した。",
+      "source": "Fortune",
+      "link": "https://fortune.com/2026/08/03/palantir-earnings-guidance-beat-revenue-profit-ai-demand/"
     },
     {
-      "title": "キオクシア株が急伸、4-6月期は市場予想下振れも自社株買いを好感",
-      "summary": "キオクシアホールディングスの株価が急伸。4-6月期決算は市場予想をやや下回ったものの、自社株買いと株式分割の発表が想定外の株主還元策として好感された(8/2報道)。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/jp/news/articles/2026-08-02/TJ5VXGT96OSI00"
+      "title": "OpenAI、数学10大難問の解答発表に紛れ次期看板モデル「Astra」の存在を明らかに",
+      "summary": "OpenAIは、長年未解決だった数学・理論計算機科学の10の難問を解いたと発表する記事の中で、次期主力モデルの名称が「Astra」であることを明らかにした。GPT-6となるか別枠の名称になるかは未定で、公開時期や価格などの詳細も不明。",
+      "source": "Gizmodo",
+      "link": "https://gizmodo.com/openai-smuggled-the-announcement-of-astra-its-next-ai-model-into-a-blog-post-about-math-2000793689"
     },
     {
-      "title": "Gartner「生成AIで脱メインフレームは時期尚早」、安易な移行プロジェクトの7割超が失敗と警鐘",
-      "summary": "米調査会社ガートナーは、生成AIツールの実力を過大評価したメインフレーム離脱プロジェクトの7割超が2026年以降失敗すると予測。生成AIは移行の代替ではなく既存環境の近代化支援に使うべきだと指摘した(8/3掲載)。",
-      "source": "@IT(ITmedia)",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/03/news033.html"
+      "title": "サムスン電子、2nmプロセスでTSMCに対抗し受注拡大へ AI向け先端半導体競争が激化",
+      "summary": "サムスン電子は2026年に2nmプロセスの受注件数を倍増させる見通しで、ブロードコムや主要クラウド・AI/HPC顧客との商談・設計作業が進行中。TSMCの生産能力逼迫や半導体メモリ価格高騰を背景に、先端受託生産の勢力図が変化しつつある。",
+      "source": "DigiTimes",
+      "link": "https://www.digitimes.com/news/a20260803VL206/intel-tsmc-2nm-ddr4-samsung.html"
     },
     {
-      "title": "ハードウェアウォレットColdcardに欠陥、第4波の攻撃で約90億円相当のビットコインが流出",
-      "summary": "ハードウェアウォレット「Coldcard」のファームウェアに、ウォレットのシード生成時のエントロピー不足という欠陥が発覚。3日には第4波とみられる攻撃で約389BTC相当が新たに流出した。",
-      "source": "CryptoTimes",
-      "link": "https://www.cryptotimes.io/2026/08/03/coldcard-hack-enters-wave-4-449-btc-swept-live-as-victims-race-to-save-funds/"
+      "title": "エヌビディア株、3%超上昇 AIインフラ需要への期待で反発、8月26日の決算控え",
+      "summary": "エヌビディア株は3日、AIインフラ投資への期待を背景に前日終値から3%超上昇。年初来の上昇率は市場平均に劣後していたが、8月26日に予定される四半期決算発表を前に投資家の見直し買いが入った。",
+      "source": "Invezz",
+      "link": "https://invezz.com/news/2026/08/03/nvidia-stock-climbs-3-as-ai-infrastructure-demand-boosts-investor-sentiment/"
     },
     {
-      "title": "「Ai4 2026」開幕へ、ヒントン氏とNg氏がAIの実存的リスクを巡り舞台上で激論",
-      "summary": "12,000人超が参加する世界最大級のAI会議「Ai4 2026」が米ラスベガスで開幕。AIの脅威論を唱えるジェフリー・ヒントン氏と、その見方に否定的なアンドリュー・ン氏らが同じ壇上で議論する(8/2掲載、開幕は8/4)。",
-      "source": "Tech Times",
-      "link": "https://www.techtimes.com/articles/322674/20260802/ai4-2026-opens-tuesday-hinton-ng-face-off-ais-existential-stakes.htm"
+      "title": "暗号資産ハードウォレット「Coldcard」の被害、約1.16億ドル(1816BTC)に拡大",
+      "summary": "2021年のファームウェアに起因する脆弱性を突いた攻撃が7月30日以降4波にわたり続き、盗まれたビットコインは3日時点で約1816BTC(約1.16億ドル相当)に達したとみられる。5200超のアドレスが被害を受けた。",
+      "source": "Fortune",
+      "link": "https://fortune.com/2026/08/03/bitcoin-owners-116-million-hack-coldcard-coinkite-exploit/"
     },
     {
-      "title": "アリババ、新AIモデル「Qwen3.8-Max」を発表 Anthropicに匹敵する性能主張",
-      "summary": "アリババは3日、2.4兆パラメータの新フラッグシップモデル「Qwen3.8-Max」を発表し、世界に広く提供を開始。ベンチマークでAnthropicの主力モデルに匹敵する性能を主張しており、株価は香港市場で6%超上昇した。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-03/alibaba-drops-another-china-ai-model-with-breakthrough-performance"
+      "title": "ソニー、熊本地震で停止していた半導体(画像センサー)工場が本日8月4日から段階的に操業再開",
+      "summary": "ソニーセミコンダクタソリューションズは、熊本地震で生産停止していた菊陽町の工場について、4日から段階的に画像センサーの生産を再開すると発表。震災前の稼働水準への復旧は8月中旬を見込む。",
+      "source": "産経新聞(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/71806706dbd2d0197b6a018938332841d3f275cb"
+    },
+    {
+      "title": "グーグル、衛星画像に偽の被害・軍事画像を生成できるAI機能を公開後48時間で撤回",
+      "summary": "グーグルは7月30日にグーグルアース上で衛星画像にAI生成画像を重ねられる新機能を公開したが、崩壊したエッフェル塔や偽の軍事施設など誤情報につながりかねない画像が作成できると批判が殺到し、48時間足らずで機能を停止した。",
+      "source": "UNILAD Tech",
+      "link": "https://www.uniladtech.com/science/news/google-earth-ai-tool-pulled-fake-disasters-743307-20260803"
+    },
+    {
+      "title": "DeepSeekの新モデル「V4-Flash」、運用コストは主要モデル中最安級 ベンチマークも前版から10ポイント上昇",
+      "summary": "調査会社Artificial Analysisによると、DeepSeekが投入した「V4-Flash 0731」は同社の知能指数で前版から10ポイント上昇する50点を記録。1テストあたりの運用コストは競合モデルの数十分の1に抑えられており、性能とコストの両面で存在感を示した。",
+      "source": "Quartz",
+      "link": "https://qz.com/deepseek-v4-flash-cheapest-ai-model-benchmark-080326"
     }
   ],
   "x_trending_tech": [
     {
-      "title": "アリババ公式Qwenアカウント、「Qwen3.8-Max」の一般提供開始を発表",
-      "summary": "アリババのAI開発チームQwenの公式Xアカウントが、2.4兆パラメータの新モデル「Qwen3.8-Max」の提供開始を発表。オープンウェイト版は来週公開予定とした(8/3投稿)。",
-      "source": "@Alibaba_Qwen",
-      "link": "https://x.com/Alibaba_Qwen/status/2084100707423289643"
+      "title": "著名投資アカウント、パランティア決算好感で株価8%超急伸と速報",
+      "summary": "金融情報アカウント「The Kobeissi Letter」が、4-6月期決算が市場予想を上回ったことを受けパランティア株が時間外で8%超上昇したと速報(8/4未明の投稿)。",
+      "source": "@KobeissiLetter",
+      "link": "https://x.com/KobeissiLetter/status/2084370989249388936"
+    },
+    {
+      "title": "開発者、OpenAI Codexでアリババ新型AI「Qwen3.8-Max」が早くも利用可能になったと報告",
+      "summary": "エンジニアが自身の投稿で、公開されたばかりのアリババ最上位モデル「Qwen3.8-Max」がCodexのモデル選択機能で既に使えるようになったと紹介(8/3夜の投稿)。",
+      "source": "@ziwenxu_",
+      "link": "https://x.com/ziwenxu_/status/2084223134685667637"
     }
   ]
 }
