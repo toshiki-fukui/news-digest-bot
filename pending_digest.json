@@ -1,81 +1,87 @@
 {
-  "run_label": "8/3 07:00",
+  "run_label": "8/3 19:00",
   "politics_economy": [
     {
-      "title": "円安是正へ日米が異例の協調介入、3日に共同声明へ",
-      "summary": "政府・日銀と米財務省は7月末から円買い協調介入を実施。3日には日米が円安是正に向けた共同声明を発表する見通しで、市場では1ドル=155円近辺での攻防が続くとみられる(8/2報道)。",
-      "source": "NHKニュース",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015194291000"
-    },
-    {
-      "title": "高市首相、3日に熊本地震の被災地を初訪問へ",
-      "summary": "高市早苗首相は令和8年熊本地震の発生後初めて、8月3日に熊本県の被災地を訪問する調整に入った。首長との意見交換に加え、避難所訪問も検討している(8/1〜8/2報道)。",
+      "title": "円買い協調介入で急激な円高、日経平均は3日ぶり反落",
+      "summary": "日米両政府が7月31日に実施した円買い協調介入を受け、3日の東京市場でドル円は一時155円台まで急伸。日経平均株価は前週末比607円安と3日ぶりに反落し、自動車など輸出関連株に売りが広がった(8/3)。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUA0215J0S6A800C2000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOFL030AR0T00C26A8000000/"
     },
     {
-      "title": "片山財務相、日米の円安是正の取り組みを3日に説明へ",
-      "summary": "片山さつき財務相は、日米が協調して進めてきた円安是正の一連の対応について8月3日に説明する見通し。15年ぶりとなる日米協調介入の経緯を語るとみられる(8/2報道)。",
+      "title": "片山財務相「米国と協調して円買い介入」、さらなる実施も辞さずと表明",
+      "summary": "片山さつき財務相は3日、日米が協調して為替介入を実施したことを明らかにし、円の過度な変動・無秩序な動きに対処するため今後も躊躇なく対応する考えを示した。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUA030BQ0T00C26A8000000/"
+    },
+    {
+      "title": "自民党税調、食品消費税率を1%に引き下げる減税案を事実上了承",
+      "summary": "自民党は3日、税制調査会と社会保障制度調査会の合同会議で、飲食料品の消費税率を2027年4月から2年間限定で8%から1%に引き下げる案への対応を小野寺税調会長に一任。党内には異論も残る。",
       "source": "時事通信(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/fa6990dd1025beaba80ce2d3dbf006560fdbc4e8"
+      "link": "https://news.yahoo.co.jp/articles/0a3d9428e0cd5d540e8a504a0af316cbbb019349"
     },
     {
-      "title": "AI・半導体株のリバウンド持続性、今週の相場の焦点に",
-      "summary": "週末にかけて急反発したAI・半導体関連株について、持続性が今週の株式相場のカギを握ると指摘。米SOX指数や韓国半導体株の動向が全体の方向性を左右するとみられる(8/2掲載)。",
-      "source": "株探",
-      "link": "https://s.kabutan.jp/news/n202608020047/"
+      "title": "高市首相、熊本地震を「激甚災害」に指定する方針、3日に被災地を初訪問",
+      "summary": "高市早苗首相は令和8年熊本地震を「激甚災害」に指定する方針を表明し、200億円超の予備費使用も検討。3日には発生後初めて被災地を訪れ、首長との意見交換や避難所訪問を行う。",
+      "source": "NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015194841000"
     },
     {
-      "title": "東京エレクトロン、熊本地震で停止の子会社工場が8月3日から生産再開",
-      "summary": "半導体製造装置大手の東京エレクトロンは、熊本地震の影響で操業を停止していた子会社・東京エレクトロン九州(熊本県合志市・大津町)の拠点で、8月3日から生産を再開すると発表。建物・設備への大きな被害はなく業績影響は軽微という。",
-      "source": "テレビ朝日系(ANN)(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/5990fd087a5c4f8e40f6c1b9851c92dcff891833"
+      "title": "キオクシア、8000億円上限の自社株買いを3日開始 4-6月期は純利益31倍",
+      "summary": "キオクシアホールディングスは、発行済み株式の5.5%にあたる最大8000億円の自社株買いを3日から開始。4-6月期はAIデータセンター向け需要拡大で純利益が前年同期比31倍の8421億円となった。",
+      "source": "株探(Yahoo!ファイナンス)",
+      "link": "https://finance.yahoo.co.jp/news/detail/baa5ebac12fd7ababcb14c25943298c3679a4e41"
     }
   ],
   "tech": [
     {
-      "title": "サム・アルトマン氏、AI開発の「減速」論争に踏み込む",
-      "summary": "OpenAIのアルトマンCEOは、AIの能力向上に社会が対応する時間を確保するため「開発のペースを落とす必要があるかもしれない」と発言。Hugging Faceへの侵入事案を受けたもので、業界内で減速を巡る議論が活発化している(8/2掲載)。",
+      "title": "世界的なメモリ不足がMacBook Airを直撃、供給逼迫が深刻化",
+      "summary": "AIデータセンター向け需要でDRAM・NANDの供給がひっ迫する「メモリ不足」がAppleのMacBook Airにも波及。小売店では在庫制約が一段と強まっていると報じられた(8/2掲載)。",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/"
+      "link": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/"
     },
     {
-      "title": "自動運転タクシーを巡り米連邦と州・地方で綱引き",
-      "summary": "米連邦当局(NHTSA)が規制緩和で自動運転車の普及を後押しする一方、州・地方当局はブレーキを踏む姿勢を強めている。ハンドルなしロボタクシーのZooxが最終的な連邦認可を得たことなどを踏まえた分析(8/2掲載)。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/02/techcrunch-mobility-two-roads-diverged-for-robotaxis/"
+      "title": "Microsoft、AIエージェント群でサイバー防御する「Project Perception」を8月3日に一般プレビュー開始",
+      "summary": "Microsoftは自社開発のセキュリティ特化モデル「MAI-Cyber-1-Flash」と、赤・青・緑の3チームのAIエージェントが脆弱性の発見から対応までを担う新システム「Project Perception」を3日から一般プレビュー公開した。",
+      "source": "TheNextWeb",
+      "link": "https://thenextweb.com/news/microsoft-project-perception-agentic-security-cyber-model"
     },
     {
-      "title": "マレーシア政府、バラジ・スリニバサン氏の「Network School」閉鎖を命令",
-      "summary": "マレーシア政府は、起業家バラジ・スリニバサン氏が主宰する「テクノ楽観主義者のコミュニティ」Network Schoolの閉鎖を命じたとWSJが報道。同氏は「米国は不可逆的な衰退にある」との持論からこの拠点を立ち上げていた(8/2報道)。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/02/malaysia-is-reportedly-shutting-down-balaji-srinivasans-network-school/"
+      "title": "キオクシア株が急伸、4-6月期は市場予想下振れも自社株買いを好感",
+      "summary": "キオクシアホールディングスの株価が急伸。4-6月期決算は市場予想をやや下回ったものの、自社株買いと株式分割の発表が想定外の株主還元策として好感された(8/2報道)。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/jp/news/articles/2026-08-02/TJ5VXGT96OSI00"
     },
     {
-      "title": "AI時代でも輝く「隠れた名作」App Storeアプリ特集",
-      "summary": "2026年第1四半期の世界の新規アプリリリース数は前年比60%増、iOSは80%増。AIコーディングの普及で開発が容易になり、少人数でも質の高いアプリを生み出せるようになった事例を紹介(8/2掲載)。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/"
+      "title": "Gartner「生成AIで脱メインフレームは時期尚早」、安易な移行プロジェクトの7割超が失敗と警鐘",
+      "summary": "米調査会社ガートナーは、生成AIツールの実力を過大評価したメインフレーム離脱プロジェクトの7割超が2026年以降失敗すると予測。生成AIは移行の代替ではなく既存環境の近代化支援に使うべきだと指摘した(8/3掲載)。",
+      "source": "@IT(ITmedia)",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/03/news033.html"
     },
     {
-      "title": "ナスダック100、2025年3月来の悪い月に AIハードウェア株の「持ち高整理」",
-      "summary": "7月のナスダック100急落は、2026年前半の相場をけん引してきたAIハードウェア・メモリ半導体関連株の集中的な持ち高整理だったと分析。底堅かった銘柄と今後アウトパフォームが見込まれる銘柄を紹介(8/2掲載)。",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/08/02/nasdaq-100-just-had-worst-month-since-march-2025-these-stocks-held-up.html"
+      "title": "ハードウェアウォレットColdcardに欠陥、第4波の攻撃で約90億円相当のビットコインが流出",
+      "summary": "ハードウェアウォレット「Coldcard」のファームウェアに、ウォレットのシード生成時のエントロピー不足という欠陥が発覚。3日には第4波とみられる攻撃で約389BTC相当が新たに流出した。",
+      "source": "CryptoTimes",
+      "link": "https://www.cryptotimes.io/2026/08/03/coldcard-hack-enters-wave-4-449-btc-swept-live-as-victims-race-to-save-funds/"
     },
     {
-      "title": "EU AI法の透明性義務、8月2日に本格施行 ディープフェイク表示を義務化",
-      "summary": "EU AI法第50条に基づく透明性義務が8月2日に発効。チャットボットとの対話であることの開示、AI生成コンテンツへのラベル表示、ディープフェイクの明示などが求められ、違反には最大1500万ユーロまたは全世界売上高3%の制裁金が科される。",
-      "source": "IBTimes UK",
-      "link": "https://www.ibtimes.co.uk/eu-ai-transparency-rules-enforcement-1811944"
+      "title": "「Ai4 2026」開幕へ、ヒントン氏とNg氏がAIの実存的リスクを巡り舞台上で激論",
+      "summary": "12,000人超が参加する世界最大級のAI会議「Ai4 2026」が米ラスベガスで開幕。AIの脅威論を唱えるジェフリー・ヒントン氏と、その見方に否定的なアンドリュー・ン氏らが同じ壇上で議論する(8/2掲載、開幕は8/4)。",
+      "source": "Tech Times",
+      "link": "https://www.techtimes.com/articles/322674/20260802/ai4-2026-opens-tuesday-hinton-ng-face-off-ais-existential-stakes.htm"
+    },
+    {
+      "title": "アリババ、新AIモデル「Qwen3.8-Max」を発表 Anthropicに匹敵する性能主張",
+      "summary": "アリババは3日、2.4兆パラメータの新フラッグシップモデル「Qwen3.8-Max」を発表し、世界に広く提供を開始。ベンチマークでAnthropicの主力モデルに匹敵する性能を主張しており、株価は香港市場で6%超上昇した。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-03/alibaba-drops-another-china-ai-model-with-breakthrough-performance"
     }
   ],
   "x_trending_tech": [
     {
-      "title": "CNBC「ナスダック100、25年3月来の最悪の月」投稿が話題に",
-      "summary": "CNBCが7月のナスダック100急落と、その中で底堅く推移し今後のアウトパフォームが見込まれる銘柄群を紹介する投稿。AIハードウェア株の調整局面を巡り関心を集めた(8/2午後、日本時間8/2夜の投稿)。",
-      "source": "@CNBC",
-      "link": "https://x.com/CNBC/status/2083886234250686943"
+      "title": "アリババ公式Qwenアカウント、「Qwen3.8-Max」の一般提供開始を発表",
+      "summary": "アリババのAI開発チームQwenの公式Xアカウントが、2.4兆パラメータの新モデル「Qwen3.8-Max」の提供開始を発表。オープンウェイト版は来週公開予定とした(8/3投稿)。",
+      "source": "@Alibaba_Qwen",
+      "link": "https://x.com/Alibaba_Qwen/status/2084100707423289643"
     }
   ]
 }
