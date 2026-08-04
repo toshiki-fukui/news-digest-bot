@@ -1,105 +1,105 @@
 {
-  "run_label": "8/4 07:00",
+  "run_label": "8/4 19:00",
   "politics_economy": [
     {
-      "title": "熊本地震「激甚災害」指定へ、4日に予備費200億円超の使用を閣議決定",
-      "summary": "高市首相は3日、令和8年熊本地震について地域を限定しない「本激」の激甚災害に指定する方針を表明。4日の閣議で今年度予算の予備費200億円超の支出を決定する考えを示した(8/3表明・8/4閣議決定)。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026080300845&g=pol"
-    },
-    {
-      "title": "自民、食料品の消費税1%への引き下げを事実上了承 政府は5日にも閣議決定",
-      "summary": "自民党税制調査会などの合同会議は3日、食料品の消費税率を2027年4月から2年間、8%から1%に引き下げる案への対応を小野寺税調会長に一任。政府は党内の反対論を押し切る形で5日にも閣議決定する方針。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026080300609&g=pol"
-    },
-    {
-      "title": "最低賃金の目安、全国平均1118円に 63円上げで過去最大、全都道府県が初の1000円超え",
-      "summary": "中央最低賃金審議会は4日、2026年度の最低賃金引き上げ目安を全国加重平均で63円増の1118円とするよう答申。上げ幅は現行制度で過去最大となり、答申通りなら全都道府県で初めて1000円を超える。",
-      "source": "nippon.com",
-      "link": "https://www.nippon.com/ja/japan-data/h02500/"
-    },
-    {
-      "title": "5大銀行グループ、4-6月期は4年連続の最高益 純利益合計42%増の1.96兆円",
-      "summary": "三菱UFJなど大手銀行5グループの2026年4-6月期決算が3日出そろい、連結純利益の合計は前年同期比42%増の1兆9564億円と、四半期として4年連続で過去最高を更新。日銀の利上げによる利ざや改善が寄与した。",
-      "source": "時事通信(Yahoo!ファイナンス)",
-      "link": "https://finance.yahoo.co.jp/news/detail/8f10fc3dbd66dfb8e9e205c73a77fe57ed0cb20b"
-    },
-    {
-      "title": "日経平均、3日は607円安の反落 円急騰でAI・半導体株の戻りが鈍る",
-      "summary": "日米協調介入の影響で円が対ドルで一時155円台まで急伸し、3日の東京株式市場で日経平均株価は前週末比607円安の6万3754円90銭と3日ぶりに反落。輸出関連株中心に売りが広がった。",
+      "title": "熊本地震対応で予備費242億円、政府が支出決定",
+      "summary": "政府は8月4日、令和8年熊本地震の被災地支援に向け、今年度予算の予備費242億円の使用を閣議決定した。プッシュ型支援や応急仮設住宅の提供、災害復旧などに充てられる(8/4閣議決定)。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUB0324OTT00C26A8000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOUA040C10U6A800C2000000/"
+    },
+    {
+      "title": "日経平均株価、反発 終値は202円高の6万3957円",
+      "summary": "8月4日の東京株式市場で日経平均株価は反発し、前日比202円63銭(0.32%)高の6万3957円53銭で終えた。米ハイテク株高を受けAI・半導体関連に買いが入った一方、日米協調介入による円高警戒が上値を抑えた。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOFL040GH0U6A800C2000000/"
+    },
+    {
+      "title": "歴史的介入後の円相場、155円攻防が次の焦点",
+      "summary": "日米による歴史的な協調円買い介入を受け、8月4日の市場では円相場が155円を明確に下抜けるかどうかに関心が集まっている。片山財務相は追加の協調介入も辞さない姿勢を示している。",
+      "source": "Bloomberg(日本版)",
+      "link": "https://www.bloomberg.com/jp/news/articles/2026-08-04/TJ808BKJH6V400"
+    },
+    {
+      "title": "高市首相「臨時国会に法案」 消費減税、大綱9月決定",
+      "summary": "高市早苗首相は8月4日の自民党役員会で、食料品の消費税減税に関する法案を秋の臨時国会に提出する考えを表明し、税制改正大綱は9月に決定する方針を示した。",
+      "source": "共同通信(Yahoo!ニュース配信)",
+      "link": "https://news.yahoo.co.jp/articles/36909d7f735043ac1c8966cda1b08ec2ad4f5c36"
+    },
+    {
+      "title": "中国は「深刻な懸念事項」 太平洋への進出拡大 防衛白書が閣議報告",
+      "summary": "政府は8月4日の閣議で令和8年版防衛白書を報告し、中国の軍事動向を「深刻な懸念事項」と位置付けた。空母の太平洋進出拡大や中露連携の強化に懸念を示し、無人機・AIを用いた「新しい戦い方」への備えの必要性も強調した。",
+      "source": "産経新聞(Yahoo!ニュース配信)",
+      "link": "https://news.yahoo.co.jp/articles/664ab86782cd412ca009942bb3c87e3932302445"
     }
   ],
   "tech": [
     {
-      "title": "アリババが2.4兆パラメータの新型AI「Qwen3.8-Max」発表、DeepSeekも超低価格モデル「V4-Flash」投入",
-      "summary": "アリババは3日、コンテキスト長最大100万トークンの新フラッグシップモデル「Qwen3.8-Max」を発表し株価は香港市場で急伸。同日DeepSeekも運用コストを大幅に抑えた新版「V4-Flash」を投入し、中国勢のAI開発競争が激化している。",
-      "source": "Tech Startups",
-      "link": "https://techstartups.com/2026/08/03/alibaba-unveils-2-4-trillion-parameter-qwen3-8-max-as-deepseeks-new-ai-model-undercuts-anthropic-by-100x/"
+      "title": "中国のAIモデル攻勢、米国勢に「デスゾーン」形成",
+      "summary": "アリババの「Qwen3.8-Max」など中国製AIモデルが相次いで世界トップ水準の性能を記録し、シリコンバレーとの差を急速に縮めている。Bloombergは8月4日、最先端技術や破格の価格を持たない企業には生き残りが困難な「デスゾーン」が生まれつつあると報じた。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-04/china-s-ai-blitz-creates-death-zone-for-rival-us-model-makers"
     },
     {
-      "title": "パランティア、4-6月期決算で売上93%増の大幅増収 米商用部門は149%増、株価12%超急伸",
-      "summary": "パランティア・テクノロジーズは3日、2026年4-6月期決算を発表。売上高は市場予想を上回る19.4億ドル(前年比93%増)、米国商用部門は149%増と加速し、通期売上高見通しを81.5億〜81.6億ドルに上方修正。時間外取引で株価は12%超上昇した。",
-      "source": "Fortune",
-      "link": "https://fortune.com/2026/08/03/palantir-earnings-guidance-beat-revenue-profit-ai-demand/"
+      "title": "中国CXMT、スマホ向けメモリでSKハイニックス・サムスンに急接近",
+      "summary": "中国国策半導体メーカーCXMTが、最先端のスマートフォン向けメモリチップで業界トップ水準に迫る製品を生産できる段階に達したとBloombergが8月4日報じた。AI需要拡大の中、中国メモリ産業の技術キャッチアップの速さが浮き彫りになった。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-04/cxmt-narrows-gap-with-sk-hynix-and-samsung-in-smartphone-memory"
     },
     {
-      "title": "OpenAI、数学10大難問の解答発表に紛れ次期看板モデル「Astra」の存在を明らかに",
-      "summary": "OpenAIは、長年未解決だった数学・理論計算機科学の10の難問を解いたと発表する記事の中で、次期主力モデルの名称が「Astra」であることを明らかにした。GPT-6となるか別枠の名称になるかは未定で、公開時期や価格などの詳細も不明。",
-      "source": "Gizmodo",
-      "link": "https://gizmodo.com/openai-smuggled-the-announcement-of-astra-its-next-ai-model-into-a-blog-post-about-math-2000793689"
+      "title": "マイクロソフト、PC操作を録画してCopilotに代行させる無料アプリを公開",
+      "summary": "Microsoftは8月4日午前、PC上の操作を録画し、その内容をもとに「Copilot」が作業を代理実行できるようにする無料アプリを公開したと発表した。主にmacOS向けで、Windows対応も予定されている。",
+      "source": "ITmedia AI+",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/04/2000000361/"
     },
     {
-      "title": "サムスン電子、2nmプロセスでTSMCに対抗し受注拡大へ AI向け先端半導体競争が激化",
-      "summary": "サムスン電子は2026年に2nmプロセスの受注件数を倍増させる見通しで、ブロードコムや主要クラウド・AI/HPC顧客との商談・設計作業が進行中。TSMCの生産能力逼迫や半導体メモリ価格高騰を背景に、先端受託生産の勢力図が変化しつつある。",
-      "source": "DigiTimes",
-      "link": "https://www.digitimes.com/news/a20260803VL206/intel-tsmc-2nm-ddr4-samsung.html"
+      "title": "EU、AI生成コンテンツへのラベル表示義務を本格運用 違反なら制裁金",
+      "summary": "EU AI法に基づく透明性義務が現地8月2日付で適用開始されたことを受け、Impress Watchが8月4日、AI生成・改変コンテンツへのラベル表示やディープフェイクの明示など詳細を解説。違反企業には最大1500万ユーロの制裁金が科される。",
+      "source": "Impress Watch",
+      "link": "https://www.watch.impress.co.jp/docs/news/2130248.html"
     },
     {
-      "title": "エヌビディア株、3%超上昇 AIインフラ需要への期待で反発、8月26日の決算控え",
-      "summary": "エヌビディア株は3日、AIインフラ投資への期待を背景に前日終値から3%超上昇。年初来の上昇率は市場平均に劣後していたが、8月26日に予定される四半期決算発表を前に投資家の見直し買いが入った。",
-      "source": "Invezz",
-      "link": "https://invezz.com/news/2026/08/03/nvidia-stock-climbs-3-as-ai-infrastructure-demand-boosts-investor-sentiment/"
+      "title": "ソフトバンクと安川電機、「フィジカルAI」の社会実装を推進",
+      "summary": "ソフトバンクは8月4日、安川電機と連携して進める「フィジカルAI」の取り組みを、SoftBank World 2026の開催レポートとして公開した。作業現場をロボットが学習・成長する環境として活用する狙いがあるという。",
+      "source": "SoftBank News",
+      "link": "https://www.softbank.jp/sbnews/entry/20260804_01"
     },
     {
-      "title": "暗号資産ハードウォレット「Coldcard」の被害、約1.16億ドル(1816BTC)に拡大",
-      "summary": "2021年のファームウェアに起因する脆弱性を突いた攻撃が7月30日以降4波にわたり続き、盗まれたビットコインは3日時点で約1816BTC(約1.16億ドル相当)に達したとみられる。5200超のアドレスが被害を受けた。",
-      "source": "Fortune",
-      "link": "https://fortune.com/2026/08/03/bitcoin-owners-116-million-hack-coldcard-coinkite-exploit/"
+      "title": "Sakana AI、日本語特化の新API「Sakana Namazu」を提供開始",
+      "summary": "Sakana AIは、中国発オープンモデル「Kimi K2.6」をベースに日本語・日本のビジネス文脈へ適応させた新API「Sakana Namazu」の提供を開始したと発表(8/3〜8/4に順次報道)。OpenAI互換APIで、従量課金制(入力100万トークンあたり0.95ドル)。",
+      "source": "PC Watch (Impress)",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2130476.html"
     },
     {
-      "title": "ソニー、熊本地震で停止していた半導体(画像センサー)工場が本日8月4日から段階的に操業再開",
-      "summary": "ソニーセミコンダクタソリューションズは、熊本地震で生産停止していた菊陽町の工場について、4日から段階的に画像センサーの生産を再開すると発表。震災前の稼働水準への復旧は8月中旬を見込む。",
-      "source": "産経新聞(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/71806706dbd2d0197b6a018938332841d3f275cb"
+      "title": "アップル、OpenAIに対し営業秘密訴訟で仮差し止めを申し立て",
+      "summary": "アップルは、自社の元従業員2人とOpenAIが同社の機密情報へアクセス・使用することを禁じる仮差し止め命令を米連邦裁判所に申し立てたと8月4日付でReuters発で報じられた。OpenAIのハードウェア事業転用を狙った営業秘密の不正使用が疑われており、OpenAI側は容疑を否定している。",
+      "source": "Reuters(Yahoo Finance配信)",
+      "link": "https://finance.yahoo.com/technology/ai/articles/apple-seeks-preliminary-injunction-against-055716616.html"
     },
     {
-      "title": "グーグル、衛星画像に偽の被害・軍事画像を生成できるAI機能を公開後48時間で撤回",
-      "summary": "グーグルは7月30日にグーグルアース上で衛星画像にAI生成画像を重ねられる新機能を公開したが、崩壊したエッフェル塔や偽の軍事施設など誤情報につながりかねない画像が作成できると批判が殺到し、48時間足らずで機能を停止した。",
-      "source": "UNILAD Tech",
-      "link": "https://www.uniladtech.com/science/news/google-earth-ai-tool-pulled-fake-disasters-743307-20260803"
-    },
-    {
-      "title": "DeepSeekの新モデル「V4-Flash」、運用コストは主要モデル中最安級 ベンチマークも前版から10ポイント上昇",
-      "summary": "調査会社Artificial Analysisによると、DeepSeekが投入した「V4-Flash 0731」は同社の知能指数で前版から10ポイント上昇する50点を記録。1テストあたりの運用コストは競合モデルの数十分の1に抑えられており、性能とコストの両面で存在感を示した。",
-      "source": "Quartz",
-      "link": "https://qz.com/deepseek-v4-flash-cheapest-ai-model-benchmark-080326"
+      "title": "「FMS 2026」米国で開幕、キオクシアが液冷PCIe 6.0 SSDなどAI向けメモリ技術を披露",
+      "summary": "半導体メモリ・ストレージの国際会議「FMS 2026」が8月4日、米カリフォルニア州サンタクララで開幕した。キオクシアは液冷対応PCIe 6.0 SSDなど、AIデータセンター向けの新しいメモリ階層技術を提案している。",
+      "source": "財経新聞(Zaikei)",
+      "link": "https://www.zaikei.co.jp/amp/article/20260804/864225.html"
     }
   ],
   "x_trending_tech": [
     {
-      "title": "著名投資アカウント、パランティア決算好感で株価8%超急伸と速報",
-      "summary": "金融情報アカウント「The Kobeissi Letter」が、4-6月期決算が市場予想を上回ったことを受けパランティア株が時間外で8%超上昇したと速報(8/4未明の投稿)。",
-      "source": "@KobeissiLetter",
-      "link": "https://x.com/KobeissiLetter/status/2084370989249388936"
+      "title": "『ライザのアトリエ』がAIチャットRPGに、事前登録スタート",
+      "summary": "コーエーテクモゲームス「ライザのアトリエ」を題材にしたAIチャット形式RPG『RyzaChat』の事前登録開始が発表された(8/4昼過ぎの投稿)。配信は8月18日予定。",
+      "source": "@spiral0320_ai",
+      "link": "https://x.com/spiral0320_ai/status/2084488873460306143"
     },
     {
-      "title": "開発者、OpenAI Codexでアリババ新型AI「Qwen3.8-Max」が早くも利用可能になったと報告",
-      "summary": "エンジニアが自身の投稿で、公開されたばかりのアリババ最上位モデル「Qwen3.8-Max」がCodexのモデル選択機能で既に使えるようになったと紹介(8/3夜の投稿)。",
-      "source": "@ziwenxu_",
-      "link": "https://x.com/ziwenxu_/status/2084223134685667637"
+      "title": "ゲームフリーク完全新作『ビースト・オブ・リンカネーション』本日発売",
+      "summary": "ファミ通が、ゲームフリーク開発の新作アクションRPG『ビースト・オブ・リンカネーション』がPS5/Xbox Series X|S/PC向けに本日発売されたことを報告(8/4朝の投稿)。",
+      "source": "@famitsu",
+      "link": "https://x.com/famitsu/status/2084444322104275329"
+    },
+    {
+      "title": "Amazon、AI・クラウド好調で時価総額3兆ドル突破",
+      "summary": "AmazonがAI需要とAWS成長を背景に史上初めて時価総額3兆ドルを突破したと報告(8/3夜の投稿)。",
+      "source": "@Stocktwits",
+      "link": "https://x.com/Stocktwits/status/2084276700284658136"
     }
   ]
 }
