@@ -1,105 +1,105 @@
 {
-  "run_label": "8/4 19:00",
+  "run_label": "8/5 07:00",
   "politics_economy": [
     {
-      "title": "熊本地震対応で予備費242億円、政府が支出決定",
-      "summary": "政府は8月4日、令和8年熊本地震の被災地支援に向け、今年度予算の予備費242億円の使用を閣議決定した。プッシュ型支援や応急仮設住宅の提供、災害復旧などに充てられる(8/4閣議決定)。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUA040C10U6A800C2000000/"
+      "title": "自民党、消費税減税を事実上了承 5日にも閣議決定へ",
+      "summary": "食料品などの消費税率を来年4月から2年間8%から1%に引き下げる高市首相方針を自民党が了承。国民民主党の玉木代表は8/4「ブレーキもハンドルもない」と批判し、臨時国会論戦に耐えられないと指摘した。",
+      "source": "時事通信/Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/articles/43b71c222f28459599486a5b430f86f8d4591f52"
     },
     {
-      "title": "日経平均株価、反発 終値は202円高の6万3957円",
-      "summary": "8月4日の東京株式市場で日経平均株価は反発し、前日比202円63銭(0.32%)高の6万3957円53銭で終えた。米ハイテク株高を受けAI・半導体関連に買いが入った一方、日米協調介入による円高警戒が上値を抑えた。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOFL040GH0U6A800C2000000/"
+      "title": "熊本地震の断水、高市首相が8月末までの完全解消を指示",
+      "summary": "高市早苗首相は8/4、非常災害対策本部会議で熊本地震の断水を8月末までに全地域で解消するよう指示し、予備費242億円の活用を表明。給水車派遣など被災地支援を加速する方針。",
+      "source": "朝日新聞/Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/articles/58309e3cae53d9155d9373e8595e263ee2b45887"
     },
     {
-      "title": "歴史的介入後の円相場、155円攻防が次の焦点",
-      "summary": "日米による歴史的な協調円買い介入を受け、8月4日の市場では円相場が155円を明確に下抜けるかどうかに関心が集まっている。片山財務相は追加の協調介入も辞さない姿勢を示している。",
+      "title": "日本、8月3日に大規模円買い介入した形跡見られず－日銀データ示唆",
+      "summary": "日銀が8月4日公表した当座預金増減要因のデータから、円が対ドルで急伸した3日の市場で大規模な介入を実施した形跡は見られなかったことが示唆されたとBloombergが報道。歴史的な協調介入後も市場は次の一手を注視している。",
       "source": "Bloomberg(日本版)",
-      "link": "https://www.bloomberg.com/jp/news/articles/2026-08-04/TJ808BKJH6V400"
+      "link": "https://www.bloomberg.com/jp/news/articles/2026-08-04/TJ65HDKK3NYF00"
     },
     {
-      "title": "高市首相「臨時国会に法案」 消費減税、大綱9月決定",
-      "summary": "高市早苗首相は8月4日の自民党役員会で、食料品の消費税減税に関する法案を秋の臨時国会に提出する考えを表明し、税制改正大綱は9月に決定する方針を示した。",
-      "source": "共同通信(Yahoo!ニュース配信)",
-      "link": "https://news.yahoo.co.jp/articles/36909d7f735043ac1c8966cda1b08ec2ad4f5c36"
+      "title": "円相場157円台後半、4日連続の為替介入に警戒感",
+      "summary": "8月4日の東京市場でドル円は前日比1円超の円安・ドル高となる157円80銭台で推移。ドルの買戻しが続く一方、市場では4営業日連続となる政府・日銀の為替介入への警戒が根強い。",
+      "source": "外為どっとコム",
+      "link": "https://www.gaitame.com/media/entry/2026/08/04/162710"
     },
     {
-      "title": "中国は「深刻な懸念事項」 太平洋への進出拡大 防衛白書が閣議報告",
-      "summary": "政府は8月4日の閣議で令和8年版防衛白書を報告し、中国の軍事動向を「深刻な懸念事項」と位置付けた。空母の太平洋進出拡大や中露連携の強化に懸念を示し、無人機・AIを用いた「新しい戦い方」への備えの必要性も強調した。",
-      "source": "産経新聞(Yahoo!ニュース配信)",
-      "link": "https://news.yahoo.co.jp/articles/664ab86782cd412ca009942bb3c87e3932302445"
+      "title": "ホンダ、4〜6月期営業利益が市場予想を上回る公算",
+      "summary": "8月5日発表予定のホンダ2026年4〜6月期連結決算について、8月4日付日経報道は北米でのハイブリッド車好調と円安を背景に、市場予想平均(営業利益2825億円)を上回る増益になる見通しと伝えた。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUB1361U0T10C26A7000000/"
     }
   ],
   "tech": [
     {
-      "title": "中国のAIモデル攻勢、米国勢に「デスゾーン」形成",
-      "summary": "アリババの「Qwen3.8-Max」など中国製AIモデルが相次いで世界トップ水準の性能を記録し、シリコンバレーとの差を急速に縮めている。Bloombergは8月4日、最先端技術や破格の価格を持たない企業には生き残りが困難な「デスゾーン」が生まれつつあると報じた。",
+      "title": "アンソロピック、AIクラウド新興Voltaと1兆円超の計算資源契約",
+      "summary": "8月4日(米国時間)、AnthropicはNvidia出資のAIインフラ新興Volta Infraと6年・100億ドル規模の計算能力契約を締結。ビットコイン採掘大手Bitdeerと組み、ノルウェーの水力発電データセンターでClaude向け計算資源を確保する。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/"
+    },
+    {
+      "title": "AMD、データセンター売上倍増も株価は下落 AIラック「Helios」出荷開始へ",
+      "summary": "8月4日(米国時間)発表のAMD第2四半期決算はEPS1.66ドル、売上115億ドルと予想超え。データセンター売上は前年比2倍以上の67.2億ドルとなりAIラックシステム「Helios」の出荷も今四半期開始すると発表したが、時間外株価は8%超下落した。",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/08/04/amd-earnings-report-q2-2026.html"
+    },
+    {
+      "title": "パランティア株、決算好調で一時30%近く急伸 CEOは「異次元の四半期」",
+      "summary": "8月4日(米国時間)発表のパランティア第2四半期決算は売上19.4億ドル(予想18億ドル)で通期予想も上方修正。AIの主権確保需要を背景に米商用部門売上が前年比149%増となり、株価は最良の1日に迫る急伸を見せた。",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/08/04/palantir-2q-earnings-ai-sovereign-tools.html"
+    },
+    {
+      "title": "OpenAI、米国人労働者差別問題で司法省と320万ドルで和解",
+      "summary": "8月4日(米国時間)、米司法省はOpenAIと子会社Statsigが移民法に違反し就労ビザ保持者を優遇、米国人労働者を差別したとする疑いについて320万ドルの和解に達したと発表した。",
       "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-04/china-s-ai-blitz-creates-death-zone-for-rival-us-model-makers"
+      "link": "https://www.bloomberg.com/news/articles/2026-08-04/doj-says-openai-settles-worker-discrimination-allegations"
     },
     {
-      "title": "中国CXMT、スマホ向けメモリでSKハイニックス・サムスンに急接近",
-      "summary": "中国国策半導体メーカーCXMTが、最先端のスマートフォン向けメモリチップで業界トップ水準に迫る製品を生産できる段階に達したとBloombergが8月4日報じた。AI需要拡大の中、中国メモリ産業の技術キャッチアップの速さが浮き彫りになった。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-04/cxmt-narrows-gap-with-sk-hynix-and-samsung-in-smartphone-memory"
+      "title": "OpenAI、アップルの営業秘密訴訟に猛反論「主張は事実誤認」",
+      "summary": "8月4日夜(米国時間)、OpenAIはブログでアップルが起こした企業秘密盗用訴訟を「事実誤認に基づく不必要な訴え」と反論し、社内メールなどを公開して自社の主張を裏付けた。",
+      "source": "Fortune",
+      "link": "https://fortune.com/2026/08/04/sam-altman-openai-lawsuit-apple-is-getting-this-wrong/"
     },
     {
-      "title": "マイクロソフト、PC操作を録画してCopilotに代行させる無料アプリを公開",
-      "summary": "Microsoftは8月4日午前、PC上の操作を録画し、その内容をもとに「Copilot」が作業を代理実行できるようにする無料アプリを公開したと発表した。主にmacOS向けで、Windows対応も予定されている。",
-      "source": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/04/2000000361/"
+      "title": "熊本地震から1週間、TSMC・ソニーなど半導体各社が8月中の完全復旧目指す",
+      "summary": "最大震度7を観測した令和8年熊本地震から1週間となる8月4日、TSMC子会社JASMの第1工場は生産再開、ソニーも8月4日から操業を段階的に再開するなど、半導体各社が8月中の完全復旧を目指す動きが伝えられた。",
+      "source": "時事通信",
+      "link": "https://www.jiji.com/jc/article?k=2026080400952&g=eco"
     },
     {
-      "title": "EU、AI生成コンテンツへのラベル表示義務を本格運用 違反なら制裁金",
-      "summary": "EU AI法に基づく透明性義務が現地8月2日付で適用開始されたことを受け、Impress Watchが8月4日、AI生成・改変コンテンツへのラベル表示やディープフェイクの明示など詳細を解説。違反企業には最大1500万ユーロの制裁金が科される。",
-      "source": "Impress Watch",
-      "link": "https://www.watch.impress.co.jp/docs/news/2130248.html"
+      "title": "マスク氏、テスラ決算説明会で「ロボットとAI」を強調 自動車会社脱却アピール",
+      "summary": "8月4日(米国時間)開催のテスラ決算説明会で、イーロン・マスクCEOは通話時間の半分近くをヒューマノイドロボット「Optimus」やAIの話題に費やし、単なる自動車メーカーではないことを強調した。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/"
     },
     {
-      "title": "ソフトバンクと安川電機、「フィジカルAI」の社会実装を推進",
-      "summary": "ソフトバンクは8月4日、安川電機と連携して進める「フィジカルAI」の取り組みを、SoftBank World 2026の開催レポートとして公開した。作業現場をロボットが学習・成長する環境として活用する狙いがあるという。",
-      "source": "SoftBank News",
-      "link": "https://www.softbank.jp/sbnews/entry/20260804_01"
-    },
-    {
-      "title": "Sakana AI、日本語特化の新API「Sakana Namazu」を提供開始",
-      "summary": "Sakana AIは、中国発オープンモデル「Kimi K2.6」をベースに日本語・日本のビジネス文脈へ適応させた新API「Sakana Namazu」の提供を開始したと発表(8/3〜8/4に順次報道)。OpenAI互換APIで、従量課金制(入力100万トークンあたり0.95ドル)。",
-      "source": "PC Watch (Impress)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/2130476.html"
-    },
-    {
-      "title": "アップル、OpenAIに対し営業秘密訴訟で仮差し止めを申し立て",
-      "summary": "アップルは、自社の元従業員2人とOpenAIが同社の機密情報へアクセス・使用することを禁じる仮差し止め命令を米連邦裁判所に申し立てたと8月4日付でReuters発で報じられた。OpenAIのハードウェア事業転用を狙った営業秘密の不正使用が疑われており、OpenAI側は容疑を否定している。",
-      "source": "Reuters(Yahoo Finance配信)",
-      "link": "https://finance.yahoo.com/technology/ai/articles/apple-seeks-preliminary-injunction-against-055716616.html"
-    },
-    {
-      "title": "「FMS 2026」米国で開幕、キオクシアが液冷PCIe 6.0 SSDなどAI向けメモリ技術を披露",
-      "summary": "半導体メモリ・ストレージの国際会議「FMS 2026」が8月4日、米カリフォルニア州サンタクララで開幕した。キオクシアは液冷対応PCIe 6.0 SSDなど、AIデータセンター向けの新しいメモリ階層技術を提案している。",
-      "source": "財経新聞(Zaikei)",
-      "link": "https://www.zaikei.co.jp/amp/article/20260804/864225.html"
+      "title": "Nvidia主導のAIセキュリティ連合、発足1週間で早くも「SAFE」提案を公開",
+      "summary": "8月4日、Nvidiaが主導し120社超が参加するAI安全連合Open Secure AI Allianceが、AIのセキュリティインシデントを匿名で報告・分析する枠組み「SAFE」の提案をLinux Foundationとともに公開したと報じられた。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/"
     }
   ],
   "x_trending_tech": [
     {
-      "title": "『ライザのアトリエ』がAIチャットRPGに、事前登録スタート",
-      "summary": "コーエーテクモゲームス「ライザのアトリエ」を題材にしたAIチャット形式RPG『RyzaChat』の事前登録開始が発表された(8/4昼過ぎの投稿)。配信は8月18日予定。",
-      "source": "@spiral0320_ai",
-      "link": "https://x.com/spiral0320_ai/status/2084488873460306143"
+      "title": "SpaceXがNvidiaと提携し軌道上データセンター衛星「Starmind AI1」を発表",
+      "summary": "SpaceX公式アカウントが8/5未明(日本時間4:31)、NvidiaのRubin GPUとVera CPUを搭載した衛星「Starmind AI1」により軌道上にデータセンター級コンピューティングを構築すると発表し、宇宙AIインフラ構想として大きな反響を呼んでいる。",
+      "source": "@SpaceX",
+      "link": "https://x.com/SpaceX/status/2084723854534951218"
     },
     {
-      "title": "ゲームフリーク完全新作『ビースト・オブ・リンカネーション』本日発売",
-      "summary": "ファミ通が、ゲームフリーク開発の新作アクションRPG『ビースト・オブ・リンカネーション』がPS5/Xbox Series X|S/PC向けに本日発売されたことを報告(8/4朝の投稿)。",
-      "source": "@famitsu",
-      "link": "https://x.com/famitsu/status/2084444322104275329"
+      "title": "Anthropicの100億ドル規模Volta契約に懐疑的な声が拡散",
+      "summary": "IT業界評論家のEd Zitron氏が8/5未明(日本時間0:17)、Anthropicが設立間もないインフラ企業Voltaと結んだ100億ドルの計算資源契約について「本当に建設されるのか疑わしい」「GPU購入資金集めのための契約では」と辛口投稿し、議論を呼んでいる。",
+      "source": "@edzitron",
+      "link": "https://x.com/edzitron/status/2084660068272980262"
     },
     {
-      "title": "Amazon、AI・クラウド好調で時価総額3兆ドル突破",
-      "summary": "AmazonがAI需要とAWS成長を背景に史上初めて時価総額3兆ドルを突破したと報告(8/3夜の投稿)。",
-      "source": "@Stocktwits",
-      "link": "https://x.com/Stocktwits/status/2084276700284658136"
+      "title": "AI需要でPalantir急騰、半導体株も連れ高",
+      "summary": "市場速報アカウントMarkets Todayが8/4夜(日本時間21:24)、Palantirが好決算でプレマーケット16%超急伸、ON SemiconductorやMicronもAIデータセンター需要期待で上昇したと報告し、AI関連株の勢いが改めて注目されている。",
+      "source": "@marketsday",
+      "link": "https://x.com/marketsday/status/2084616432298647772"
     }
   ]
 }
