@@ -1,105 +1,111 @@
 {
-  "run_label": "8/5 07:00",
+  "run_label": "8/5 19:00",
   "politics_economy": [
     {
-      "title": "自民党、消費税減税を事実上了承 5日にも閣議決定へ",
-      "summary": "食料品などの消費税率を来年4月から2年間8%から1%に引き下げる高市首相方針を自民党が了承。国民民主党の玉木代表は8/4「ブレーキもハンドルもない」と批判し、臨時国会論戦に耐えられないと指摘した。",
-      "source": "時事通信/Yahoo!ニュース",
-      "link": "https://news.yahoo.co.jp/articles/43b71c222f28459599486a5b430f86f8d4591f52"
+      "title": "政府、食料品の消費税を1%に減税する基本方針を閣議決定",
+      "summary": "高市政権は8月5日午後の臨時閣議で、来年4月から2年間、食料品の消費税率を現行8%から1%に引き下げる基本方針を決定した。低中所得者向けに年間約6000億円の給付金を組み合わせ、実質的な負担ゼロを目指す。",
+      "source": "NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015197191000"
     },
     {
-      "title": "熊本地震の断水、高市首相が8月末までの完全解消を指示",
-      "summary": "高市早苗首相は8/4、非常災害対策本部会議で熊本地震の断水を8月末までに全地域で解消するよう指示し、予備費242億円の活用を表明。給水車派遣など被災地支援を加速する方針。",
-      "source": "朝日新聞/Yahoo!ニュース",
-      "link": "https://news.yahoo.co.jp/articles/58309e3cae53d9155d9373e8595e263ee2b45887"
+      "title": "日銀、6月会合の議事要旨を公表 早期の追加利上げ求める意見も",
+      "summary": "日本銀行は8月5日、政策金利を0.75%から1.0%に引き上げた6月15〜16日開催分の金融政策決定会合の議事要旨を公表。中東情勢悪化に伴う原油高でインフレが加速するリスクを念頭に、早期の追加利上げを求める意見が複数の委員から出ていたことが分かった。",
+      "source": "NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015197061000"
     },
     {
-      "title": "日本、8月3日に大規模円買い介入した形跡見られず－日銀データ示唆",
-      "summary": "日銀が8月4日公表した当座預金増減要因のデータから、円が対ドルで急伸した3日の市場で大規模な介入を実施した形跡は見られなかったことが示唆されたとBloombergが報道。歴史的な協調介入後も市場は次の一手を注視している。",
-      "source": "Bloomberg(日本版)",
-      "link": "https://www.bloomberg.com/jp/news/articles/2026-08-04/TJ65HDKK3NYF00"
-    },
-    {
-      "title": "円相場157円台後半、4日連続の為替介入に警戒感",
-      "summary": "8月4日の東京市場でドル円は前日比1円超の円安・ドル高となる157円80銭台で推移。ドルの買戻しが続く一方、市場では4営業日連続となる政府・日銀の為替介入への警戒が根強い。",
-      "source": "外為どっとコム",
-      "link": "https://www.gaitame.com/media/entry/2026/08/04/162710"
-    },
-    {
-      "title": "ホンダ、4〜6月期営業利益が市場予想を上回る公算",
-      "summary": "8月5日発表予定のホンダ2026年4〜6月期連結決算について、8月4日付日経報道は北米でのハイブリッド車好調と円安を背景に、市場予想平均(営業利益2825億円)を上回る増益になる見通しと伝えた。",
+      "title": "日経平均株価、終値2342円高の6万6300円 半導体関連が牽引",
+      "summary": "8月5日の東京株式市場で日経平均株価は前日比2342円91銭高の6万6300円44銭で取引を終えた。前日の米半導体株高を受けアドバンテストや東京エレクトロンなどに買いが広がり、AIラリーが復活する形となった。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUB1361U0T10C26A7000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOUB050E9TV00C26A8000000/"
+    },
+    {
+      "title": "ホンダ、27年3月期純利益予想を4000億円に上方修正 4〜6月期は過去最高益",
+      "summary": "ホンダは8月5日、2027年3月期の連結純利益予想を従来の2600億円から4000億円に上方修正すると発表。想定為替レートを1ドル145円から155円に見直したことが寄与し、同日発表の4〜6月期決算では純利益が前年同期比2.3倍の4509億円と過去最高を更新した。",
+      "source": "Newsweek日本版",
+      "link": "https://www.newsweekjapan.jp/articles/-/330466"
+    },
+    {
+      "title": "熊本地震で停止のルネサス川尻工場、8月5日から生産再開",
+      "summary": "令和8年熊本地震の影響で操業を停止していたルネサスエレクトロニクスの川尻工場(熊本市)が8月5日から順次生産を再開した。震災前の生産能力への完全復帰は約3週間後を見込み、車載半導体のサプライチェーンへの影響が注視されている。",
+      "source": "熊本日日新聞(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/b8b3c8543acef44031931910975ddc6f87177e4a"
     }
   ],
   "tech": [
     {
-      "title": "アンソロピック、AIクラウド新興Voltaと1兆円超の計算資源契約",
-      "summary": "8月4日(米国時間)、AnthropicはNvidia出資のAIインフラ新興Volta Infraと6年・100億ドル規模の計算能力契約を締結。ビットコイン採掘大手Bitdeerと組み、ノルウェーの水力発電データセンターでClaude向け計算資源を確保する。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/"
+      "title": "Rustプロジェクト、コアリポジトリでのLLM生成コードPR提出を事実上禁止",
+      "summary": "8月5日、rust-lang/rustの開発チームが正式なLLM利用ポリシーを公開。LLMは質問応答やレビュー補助には使えるが、そのままPRとして提出するコードの「作成」への使用は禁止と明記し、違反PRはレビュアーが説明なく却下できるとした。低品質な「スロップPR」急増への対応。",
+      "source": "Rust Blog (Inside Rust)",
+      "link": "https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/"
     },
     {
-      "title": "AMD、データセンター売上倍増も株価は下落 AIラック「Helios」出荷開始へ",
-      "summary": "8月4日(米国時間)発表のAMD第2四半期決算はEPS1.66ドル、売上115億ドルと予想超え。データセンター売上は前年比2倍以上の67.2億ドルとなりAIラックシステム「Helios」の出荷も今四半期開始すると発表したが、時間外株価は8%超下落した。",
+      "title": "米控訴裁、PerplexityのAIショッピングエージェント「Comet」めぐるAmazonの差し止めを覆す",
+      "summary": "米第9巡回控訴裁判所は8月4日、AmazonがPerplexityのAIエージェント「Comet」によるAmazon.com上での購入代行を差し止めていた仮処分命令を破棄。CFAA上「アクセス」しているのはユーザー自身と判断し、AIエージェントの法的責任を巡る初の主要判例となった。",
+      "source": "Engadget",
+      "link": "https://www.engadget.com/2230471/perplexity-has-successfully-overturned-amazon-injunction-on-its-ai-shopping-bot/"
+    },
+    {
+      "title": "SpaceX、上場後初の四半期決算でAI・コンピュート事業が急拡大も高コストに市場警戒",
+      "summary": "8月4日発表のSpaceX第2四半期決算で、旧xAI部門のAI/コンピュート事業収益が前年比247%増の25.6億ドルに急増した一方、同事業は12.6億ドルの営業赤字を計上。巨額のAI投資への懸念から株価は下落した。",
       "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/08/04/amd-earnings-report-q2-2026.html"
+      "link": "https://www.cnbc.com/2026/08/04/spacex-ai-spending-unnerves-wall-street-despite-promising-quick-payoff.html"
     },
     {
-      "title": "パランティア株、決算好調で一時30%近く急伸 CEOは「異次元の四半期」",
-      "summary": "8月4日(米国時間)発表のパランティア第2四半期決算は売上19.4億ドル(予想18億ドル)で通期予想も上方修正。AIの主権確保需要を背景に米商用部門売上が前年比149%増となり、株価は最良の1日に迫る急伸を見せた。",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/08/04/palantir-2q-earnings-ai-sovereign-tools.html"
+      "title": "Anaconda、AIエージェント向けセキュリティ企業Enkrypt AIを買収",
+      "summary": "データサイエンス基盤大手Anacondaは8月4日、AIのレッドチーム演習やランタイムガードレール、EU AI法・NIST準拠自動化を手がけるEnkrypt AIの買収を発表。Enkrypt AIは直近2カ月で2万5000超のMCPサーバーから14万件超の脆弱性を検出していたという。",
+      "source": "Anaconda(企業ブログ)",
+      "link": "https://www.anaconda.com/blog/anaconda-acquires-enkrypt-ai"
     },
     {
-      "title": "OpenAI、米国人労働者差別問題で司法省と320万ドルで和解",
-      "summary": "8月4日(米国時間)、米司法省はOpenAIと子会社Statsigが移民法に違反し就労ビザ保持者を優遇、米国人労働者を差別したとする疑いについて320万ドルの和解に達したと発表した。",
+      "title": "中国製光トランシーバー輸入禁止検討報道で、中国光通信株が急落",
+      "summary": "米連邦通信委員会(FCC)がAIデータセンター向け中国製光トランシーバーの新規輸入を禁止する規則を準備中と報じられたことを受け、8月5日、Innolightなど中国の光通信関連株が急落。データ窃取やマルウェア混入のリスクが禁止検討の理由とされる。",
       "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-04/doj-says-openai-settles-worker-discrimination-allegations"
+      "link": "https://www.bloomberg.com/news/articles/2026-08-05/chinese-optical-stocks-slide-on-report-of-proposed-us-import-ban"
     },
     {
-      "title": "OpenAI、アップルの営業秘密訴訟に猛反論「主張は事実誤認」",
-      "summary": "8月4日夜(米国時間)、OpenAIはブログでアップルが起こした企業秘密盗用訴訟を「事実誤認に基づく不必要な訴え」と反論し、社内メールなどを公開して自社の主張を裏付けた。",
-      "source": "Fortune",
-      "link": "https://fortune.com/2026/08/04/sam-altman-openai-lawsuit-apple-is-getting-this-wrong/"
+      "title": "「ITトレンド」運営のイノベーション、GitHub認証情報漏えいで最大6万件の個人情報流出の恐れ",
+      "summary": "BtoBメディア「ITトレンド」などを運営するイノベーションは8月4日、GitHubの認証情報が漏えいし第三者の不正アクセスを受けたと発表。氏名・メールアドレスなど最大約6万件の個人情報が流出した可能性があり、一部には電話番号も含まれるという。",
+      "source": "ITmedia NEWS",
+      "link": "https://www.itmedia.co.jp/news/article/2608/05/2000000396/"
     },
     {
-      "title": "熊本地震から1週間、TSMC・ソニーなど半導体各社が8月中の完全復旧目指す",
-      "summary": "最大震度7を観測した令和8年熊本地震から1週間となる8月4日、TSMC子会社JASMの第1工場は生産再開、ソニーも8月4日から操業を段階的に再開するなど、半導体各社が8月中の完全復旧を目指す動きが伝えられた。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026080400952&g=eco"
+      "title": "ソフトバンクGなどアジアのハイテク株が急伸、ウォール街のAIラリーに追随",
+      "summary": "8月5日、前日の米国株がAI関連決算やAIインフラ投資への楽観から最高値を更新したことを受け、ソフトバンクグループが一時10%高となるなどアジアのハイテク・半導体株が軒並み上昇した。",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/08/05/softbank-samsung-sk-hynix-samsung-tech-rally.html"
     },
     {
-      "title": "マスク氏、テスラ決算説明会で「ロボットとAI」を強調 自動車会社脱却アピール",
-      "summary": "8月4日(米国時間)開催のテスラ決算説明会で、イーロン・マスクCEOは通話時間の半分近くをヒューマノイドロボット「Optimus」やAIの話題に費やし、単なる自動車メーカーではないことを強調した。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/"
+      "title": "古河電工、AI需要取り込みへ光ファイバー生産に約1000億円投資",
+      "summary": "古河電気工業は8月4日、生成AI需要の拡大に対応するため日米ブラジルなど4カ国で光ファイバー・ケーブルの生産能力を2025年度末比で約2倍に増強すると発表。総投資額は約1000億円で、2028年度下期から順次稼働する見通し。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUC046EO0U6A800C2000000/"
     },
     {
-      "title": "Nvidia主導のAIセキュリティ連合、発足1週間で早くも「SAFE」提案を公開",
-      "summary": "8月4日、Nvidiaが主導し120社超が参加するAI安全連合Open Secure AI Allianceが、AIのセキュリティインシデントを匿名で報告・分析する枠組み「SAFE」の提案をLinux Foundationとともに公開したと報じられた。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/"
+      "title": "xAI、音声AIモデル「Grok Voice Think Fast 2.0」を標準モデルに切り替え",
+      "summary": "xAIは8月5日、音声対話モデル「grok-voice-latest」の参照先を新モデル「Grok Voice Think Fast 2.0」に切り替えると発表。最初の応答音声が出るまでの時間を1.25秒から0.70秒に短縮し、雑音下での音声認識精度も大幅に改善したとしている。",
+      "source": "x.ai",
+      "link": "https://x.ai/news/grok-voice-think-fast-2"
     }
   ],
   "x_trending_tech": [
     {
-      "title": "SpaceXがNvidiaと提携し軌道上データセンター衛星「Starmind AI1」を発表",
-      "summary": "SpaceX公式アカウントが8/5未明(日本時間4:31)、NvidiaのRubin GPUとVera CPUを搭載した衛星「Starmind AI1」により軌道上にデータセンター級コンピューティングを構築すると発表し、宇宙AIインフラ構想として大きな反響を呼んでいる。",
-      "source": "@SpaceX",
-      "link": "https://x.com/SpaceX/status/2084723854534951218"
+      "title": "ワールドのAIデザイン服「OO」が完売",
+      "summary": "アパレル大手ワールドが独自開発の「Maison AI」で生成した服のコレクションが完売。社内の暗黙知(美意識)を言語化してAIに学習させた手法が話題に。8/5朝(11時頃)の投稿。",
+      "source": "@nobel_824",
+      "link": "https://x.com/nobel_824/status/2084826230730395809"
     },
     {
-      "title": "Anthropicの100億ドル規模Volta契約に懐疑的な声が拡散",
-      "summary": "IT業界評論家のEd Zitron氏が8/5未明(日本時間0:17)、Anthropicが設立間もないインフラ企業Voltaと結んだ100億ドルの計算資源契約について「本当に建設されるのか疑わしい」「GPU購入資金集めのための契約では」と辛口投稿し、議論を呼んでいる。",
-      "source": "@edzitron",
-      "link": "https://x.com/edzitron/status/2084660068272980262"
+      "title": "Mistral AIが安全性分類モデル「Shieldstral」を発表",
+      "summary": "Mistral AIが16GBのGPU1枚で動くマルチモーダル安全性判定モデル「Shieldstral」(3B、Apache 2.0)を発表。テキストと画像の両方をプレーンな言語ルールで審査できる。8/5未明(2時頃)の投稿。",
+      "source": "@MistralAI",
+      "link": "https://x.com/MistralAI/status/2084684735725379637"
     },
     {
-      "title": "AI需要でPalantir急騰、半導体株も連れ高",
-      "summary": "市場速報アカウントMarkets Todayが8/4夜(日本時間21:24)、Palantirが好決算でプレマーケット16%超急伸、ON SemiconductorやMicronもAIデータセンター需要期待で上昇したと報告し、AI関連株の勢いが改めて注目されている。",
-      "source": "@marketsday",
-      "link": "https://x.com/marketsday/status/2084616432298647772"
+      "title": "Black Forest Labsが「FLUX 3 Video」の一般提供を開始",
+      "summary": "最大20秒・ネイティブ音声・複数キーフレームからの生成に対応した動画生成AI「FLUX 3 Video」が一般提供開始。低コストで構図確認できるDraft Modeが注目点として紹介されている。8/5朝(7時頃)の投稿。",
+      "source": "@taziku_co",
+      "link": "https://x.com/taziku_co/status/2084764962074067222"
     }
   ]
 }
