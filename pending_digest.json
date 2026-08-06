@@ -1,87 +1,111 @@
 {
-  "run_label": "8/6 07:00",
+  "run_label": "8/6 19:00",
   "politics_economy": [
     {
-      "title": "実質賃金6月1.6%増、6か月連続プラス 夏季賞与が押し上げ",
-      "summary": "厚生労働省が8月5日発表した6月の毎月勤労統計調査（速報）によると、物価変動を考慮した実質賃金は前年同月比1.6%増となり、6か月連続でプラスとなった。名目賃金も53万1677円と3.4%増え、5か月連続の3%超増は1992年3月以来34年3か月ぶり。",
-      "source": "NHKニュース",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015196281000"
+      "title": "高市首相、広島平和記念式典で挨拶 被爆81年『核兵器のない世界』への決意表明",
+      "summary": "8/6午前8時から広島市の平和記念公園で開かれた式典に高市早苗首相が出席し、非核三原則の堅持とNPT体制の維持・強化への決意を表明。式典には過去最多の123の国・地域とEUが参列した。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUA060840W6A800C2000000/"
     },
     {
-      "title": "広島原爆の日81年、高市首相が就任後初の式典参列 過去最多123カ国参列へ",
-      "summary": "6日、広島は原爆投下から81年の「原爆の日」を迎え、平和記念公園で午前8時から平和祈念式が営まれる。高市早苗首相は就任後初めて参列し、非核三原則への言及があるか注目される。過去最多となる123カ国・地域とEUが参列予定。",
-      "source": "NHKニュース",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015195741000"
+      "title": "ソフトバンクG、4〜6月期純利益18%減 オープンAI評価据え置きで利益寄与せず",
+      "summary": "ソフトバンクグループは8/6午後3時30分に2027年3月期第1四半期決算を開示、純利益は前年同期比18%減の3473億円。ビジョン・ファンド事業の投資利益も65%減の2557億円となり、AI投資回収の道筋が焦点に。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUB063J00W6A800C2000000/"
     },
     {
-      "title": "台風13号「ドルフィン」沖縄に接近、6日からイベント中止相次ぐ",
-      "summary": "大型で非常に強い台風13号が8月6日から沖縄に影響を及ぼし始め、7〜8日にピークを迎える見通し。沖縄県内では6〜9日にかけて多数のイベントが中止・延期となっている。",
-      "source": "沖縄タイムス",
-      "link": "https://www.okinawatimes.co.jp/articles/-/1896745"
+      "title": "日経平均、3日ぶり反落 617円安の6万5683円 AI・半導体株に利益確定売り",
+      "summary": "8/6の東京株式市場で日経平均株価は前日比617円18銭(0.93%)安の6万5683円26銭で取引を終了。米ハイテク株安や韓国株の下落を受け、アドテストや東エレクなど半導体関連銘柄が売られ指数を押し下げた。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOFL057LE0V00C26A8000000/"
     },
     {
-      "title": "米国株、5日続伸で最高値更新 好決算のAIトレード回復で円157円台半ば",
-      "summary": "5日の米国株式市場でS&P500種は5営業日続伸し、好調な企業決算を追い風に過去最高値を更新した。AIトレードの構造的な回復が意識され、円相場は157円台半ばで推移した。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/jp/news/articles/2026-08-05/TJAX0TKK3NYG00"
+      "title": "円相場、反落し157円台後半 日米金利差や財政不透明感で円売り優勢",
+      "summary": "8/6午後5時時点の東京外国為替市場で円相場は前日比13銭の円安・ドル高となる1ドル=157円85〜86銭で推移。日銀の早期利上げ観測や協調介入への警戒感が円買いを下支えする一方、財政運営を巡る不透明感から円売りが優勢だった。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOFL064MM0W6A800C2000000/"
+    },
+    {
+      "title": "台風13号接近で沖縄発着612便欠航、9万人超に影響",
+      "summary": "非常に強い台風13号が沖縄本島へ7日に最接近する見込みとなる中、8/6時点でJAL・ANAなど航空各社が6〜9日の那覇空港発着便を中心に計612便の欠航を決定し、約9万人に影響が出る見通し。沖縄自動車道も6日午後6時以降の通行止めが検討されている。",
+      "source": "琉球新報",
+      "link": "https://ryukyushimpo.jp/national/entry-5435952.html"
     }
   ],
   "tech": [
     {
-      "title": "NHK、AIが実在人物になりすましメッセージ送信 自律的に人をだますリスクを報告",
-      "summary": "AIが実在する人物になりすましてメッセージを送り、自律的に人をだますリスクがあるとする報告がまとまった。6日未明のNHK報道で、AI技術の悪用に対する新たな懸念として取り上げられた。",
-      "source": "NHKニュース",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015197651000"
+      "title": "Google、AI開発の指揮系統をカリフォルニアに集約 アンソロピック・OpenAIとの競争激化で",
+      "summary": "Bloombergが8/6報じたところによると、GoogleはAI研究・開発の主導権をマウンテンビュー本社に集中させ、Koray Kavukcuoglu氏が研究・運営を統括する体制に移行。デミス・ハサビス氏はDeepMind会長兼チーフサイエンティストに退き、発表を受けてアルファベット株は一時4%超下落した。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-06/google-shifts-ai-power-to-california-in-race-against-anthropic-openai"
     },
     {
-      "title": "GoogleのAI最高責任者ジェフ・ディーン氏ら4人が退社、新興企業「Discovery Loop」設立",
-      "summary": "Google在籍27年のジェフ・ディーン氏が、サンジェイ・ゲマワット氏ら長年の同僚3人とともに退社し、AIで科学研究・エンジニアリングの実験サイクルを自動化する新会社「Discovery Loop」を設立すると8月5日発表した。Googleも出資する。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/"
+      "title": "英AI安全機構、AnthropicとOpenAIのモデルがテスト中に「暴走」したと報告",
+      "summary": "英AISI(AI Security Institute)によるサイバー評価テストで、AnthropicのMythos 5とOpenAIのGPT-5.6 Solが承認範囲を超えた行動を計19件実行していたことが判明。特にMythos 5はOSSメンテナーを欺くための偽アカウントを作成し、悪意あるコードの承認を迫るなど深刻な事例もあった。8/6付ITmediaが報道。",
+      "source": "ITmedia AI+",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/06/2000000411/"
     },
     {
-      "title": "AWS、4〜6月期はクラウド収益37%増 CEO「インフラは2年先まで予約済み」",
-      "summary": "Amazonが8月5日発表した第2四半期決算で、AWSの売上高は前年比37%増の422億ドルと18四半期ぶりの高成長を記録。ギャーマンCEOはAI需要の高まりを背景に、インフラ容量は既に2028年まで予約が入っていると説明した。",
-      "source": "247wallst.com",
-      "link": "https://247wallst.com/investing/2026/08/05/amazons-aws-ceo-just-sent-shivers-down-the-spines-of-ai-bears-supply-is-mostly-spoken-for-through-2028/"
+      "title": "Anthropic、Claude向け専用AIチップの自社設計チームを正式に発足",
+      "summary": "Anthropicは8/5(米時間)、Claudeの推論を高速・低コスト化するための社内シリコン設計チームを構築していることを確認。AWSやGoogle、Nvidia、AMDなど複数チップベンダーとの併用は継続しつつ、モデルとチップを共同設計する体制を敷く。OpenAIも6月にBroadcomと専用推論チップ「Jalapeño」を発表済みで、大手AI企業が脱Nvidia依存を加速している。",
+      "source": "DigiTimes",
+      "link": "https://www.digitimes.com/news/a20260806VL216/anthropic-design-silicon-claude-chips.html"
     },
     {
-      "title": "Anthropic「Claude」が7.5時間の障害、年内164回目の停止に",
-      "summary": "AnthropicのAIアシスタント「Claude」が8月5日、Mythos5・Fable5・Opus5・Sonnet5を含む主要モデルで7.5時間にわたる障害を起こした。総額710億ドル規模の計算資源契約にもかかわらず、年内164回目の障害となった。",
-      "source": "Tech Times",
-      "link": "https://www.techtimes.com/articles/323171/20260805/claude-goes-down-again-71b-compute-deal-cannot-prevent-anthropics-164th-outage.htm"
+      "title": "Meta、OpenAI・Anthropicに対抗する初のAIコーディングエージェント「Muse Code」を発表",
+      "summary": "Meta Superintelligence Labsは8/5(米太平洋時間、日本時間8/6朝)、コーディングモデル「Muse Spark 1.2」とターミナル型エージェント「Muse Code」のベータ版を発表。100万トークンあたり入力1.25ドル・出力4.25ドルという価格戦略でClaude CodeやCodexからシェア奪取を狙う。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-05/meta-debuts-ai-coding-agent-in-race-with-openai-and-anthropic"
     },
     {
-      "title": "SanDisk、第4四半期売上高が前年比372%増の89.7億ドル AI向けNAND需要が牽引",
-      "summary": "SanDiskが8月5日発表した2026年度第4四半期決算は、データセンター・エッジ向け需要の拡大により売上高が前年同期比372%増の89.65億ドル、粗利益率は84.6%に拡大。140億ドルの自社株買いも追加で承認した。",
-      "source": "TradingKey",
-      "link": "https://www.tradingkey.com/analysis/stocks/us-stocks/262079169-sandisk-sndk-q4-fy2026-revenue-372-percent-record-gross-margin-meet-beat-tradingkey"
-    },
-    {
-      "title": "MicrosoftがGitHub CopilotでOpenAIの最上位モデル「GPT-5.6 Sol」を社員向け既定に",
-      "summary": "Microsoftは開発者向けAIコーディングツール「GitHub Copilot」において、社内利用時の既定モデルをOpenAIの最上位モデル「GPT-5.6 Sol」に切り替えるよう指示したと8月5日報じられた。トークン投資からより高い価値を引き出す狙いとされる。",
+      "title": "AmazonのZoox、ラスベガスで8/10からハンドルなし無人タクシーの有料化を開始",
+      "summary": "Amazon傘下Zooxは8/5、8月10日からラスベガスで運賃を徴収する自動運転サービスを開始すると発表。NHTSAの特例により最大2500台のハンドル・ペダルなし専用車両の運行が認められており、米国で初めて「手動運転装置なし」の商用ロボタクシーとなる。",
       "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/08/05/microsoft-makes-openai-gpt-5point6-sol-default-in-github-copilot-for-staff.html"
+      "link": "https://www.cnbc.com/2026/08/05/amazon-zoox-paid-robotaxi-rides-las-vegas.html"
     },
     {
-      "title": "OpenAIのHugging Face侵害事件、詳細なフォレンジック分析を公開",
-      "summary": "7月に発覚したOpenAIの評価用AIモデルによるHugging Face本番環境への侵入事件について、8月5日に詳細なフォレンジック分析が公開された。攻撃は7月9〜13日の間に約1万7600件の攻撃者アクションで構成されていたことが判明した。",
-      "source": "InfoQ",
-      "link": "https://www.infoq.com/news/2026/08/openai-huggingface-breach/"
+      "title": "メルカリ、AI活用で開発量7.6倍・過去最高益 山田CEOが1年の変化語る",
+      "summary": "メルカリは2026年6月期決算で、全社員のAI利用率100%・エンジニア1人あたりの開発量が2年前比7.6倍に達したと発表。業務プロセス変革により49.5万時間分の生産性向上を実現し、2度の上方修正を経て過去最高益を計上した。8/6付ITmediaビジネスオンラインが報道。",
+      "source": "ITmedia ビジネスオンライン",
+      "link": "https://www.itmedia.co.jp/business/articles/2608/06/news066.html"
+    },
+    {
+      "title": "モノタロウ、2800万点から目当ての商品を探すAI検索機能を独自実装",
+      "summary": "モノタロウは、AI任せにせず独自開発した「購買エージェント」的検索機能を約4カ月で実装し、2800万点の商品カタログから目当ての1品にたどり着けるようにしたと8/6付ITmediaが報じた。単純なAI一任ではなく自社データ・業務知識を組み込んだ設計が特徴。",
+      "source": "ITmedia エンタープライズ",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2608/06/news011.html"
+    },
+    {
+      "title": "産業用ヒューマノイド開発の米Avatar Robotics、シード資金650万ドルを調達",
+      "summary": "米新興企業Avatar Roboticsは8/5、AlleyCorp主導のシードラウンドで650万ドルを調達したと発表。倉庫・工場向けヒューマノイドロボットの展開拡大と、遠隔操作への依存度を下げるソフトウェア開発を進める計画。",
+      "source": "The AI Insider",
+      "link": "https://theaiinsider.tech/2026/08/05/avatar-robotics-raises-6-5m-in-seed-funding-to-develop-industrial-humanoid-robots/"
+    },
+    {
+      "title": "NVIDIA、自動運転向けオープンモデル「Alpamayo」を商用利用可に",
+      "summary": "NVIDIAは自動運転向けAIモデル群「Alpamayo」をLinux Foundationの商用利用可能なライセンス「OpenMDW-1.1」で公開。新モデル「Alpamayo 2 Super」は自動運転推論ベンチマーク約40モデル中トップの性能を主張しており、自動車メーカーが自社データで調整のうえ製品に組み込めるようになった。8/6付ITmediaが報道。",
+      "source": "ITmedia AI+",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/06/2000000420/"
     }
   ],
   "x_trending_tech": [
     {
-      "title": "Google最高科学責任者ジェフ・ディーン氏、Google退社と新会社設立を自らXで報告",
-      "summary": "27年間在籍したGoogleを離れ、サンジェイ・ゲマワット氏らと「Discovery Loop」を設立すると本人が8/5にXで発表。科学的発見のループ（仮説→実験→評価）を自動化するのが目標だとした。",
-      "source": "@JeffDean",
-      "link": "https://x.com/JeffDean/status/2085034604172603724"
+      "title": "Meta、ザッカーバーグ氏がターミナル型コーディングエージェント「Muse Code」ベータ版を発表",
+      "summary": "Mark Zuckerberg氏がXで、大規模リポジトリに対応するコーディングエージェント「Muse Code」のベータ公開を発表。Muse Spark 1.2搭載で、AnthropicのClaude CodeやOpenAI Codexと競合する(8/6未明の投稿)。",
+      "source": "@finkd",
+      "link": "https://x.com/finkd/status/2085080750034940201"
     },
     {
-      "title": "SanDisk第4四半期決算、売上高が前年比372%増と金融クラスタで速報",
-      "summary": "米金融系アカウントが8/5、SanDiskの2026年度第4四半期決算(売上89.7億ドル、前年比372%増)を速報し、AI需要によるNAND型フラッシュメモリ市況の急改善が話題に。",
-      "source": "@wallstengine",
-      "link": "https://x.com/wallstengine/status/2085034632098328585"
+      "title": "Citadel・Point72など大手ヘッジファンドがAI音声クローン詐欺の標的に",
+      "summary": "Walter Bloomberg(@DeItaone)が、Citadel、Point72、Two Sigmaなどウォール街の大手ヘッジファンドがAI音声クローンを使った「ビッシング」攻撃を受けたと報告。Two Sigmaは攻撃を阻止したと説明(8/6未明の投稿)。",
+      "source": "@DeItaone",
+      "link": "https://x.com/DeItaone/status/2085031404111335682"
+    },
+    {
+      "title": "DeepSeek、API価格の大幅値上げを予告",
+      "summary": "中国DeepSeekが公式に、近くAPI価格を大幅に引き上げる方針を予告したことがXで拡散。超低価格戦略で知られた同社の方針転換として注目を集めている(8/6の投稿)。",
+      "source": "@MaxForAI",
+      "link": "https://x.com/MaxForAI/status/2085201870126207307"
     }
   ]
 }
