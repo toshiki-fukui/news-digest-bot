@@ -1,111 +1,86 @@
 {
-  "run_label": "8/7 19:00",
+  "run_label": "8/8 07:00",
   "politics_economy": [
     {
-      "title": "熊本地震の被害を「激甚災害」に指定 自治体の復旧費用支援へ",
-      "summary": "政府は8月7日の持ち回り閣議で、令和8年熊本地震による被害を「激甚災害」に指定することを決定した。高市首相は200億円超の予備費使用も表明しており、被災自治体の復旧費用を国が支援する。",
-      "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015198971000"
+      "title": "国家公務員月給を3.51%増に勧告 ボーナス含め5年連続プラス",
+      "summary": "人事院は8月7日、2026年度の国家公務員の月給を平均3.51%(15,056円)引き上げ、ボーナスも0.05カ月増の年4.70カ月とするよう国会と内閣に勧告した。月給・ボーナスともプラス改定は5年連続で、高水準の引き上げが続く。",
+      "source": "時事通信",
+      "link": "https://www.jiji.com/jc/article?k=2026080700647&g=pol"
     },
     {
-      "title": "外為14時 円相場、安値圏で小動き 158円台前半",
-      "summary": "8月7日午後2時の東京外国為替市場で円相場は1ドル=158円38〜39銭と、前日17時時点より52銭の円安・ドル高。米金利先高観や原油高を背景とした円売り・ドル買いが続いている。",
+      "title": "中国国防省、海自のトマホーク試射を批判「新型軍国主義を団結して阻止を」",
+      "summary": "中国国防省報道官は8月7日、海上自衛隊が7月末に太平洋上で実施した巡航ミサイル「トマホーク」の発射試験を批判し、日本の「新型軍国主義」の台頭を国際社会で阻止すべきだと主張した。",
+      "source": "時事通信",
+      "link": "https://news.yahoo.co.jp/articles/45de91c8655b30cd7b6c16c73202cfd89c9884c1"
+    },
+    {
+      "title": "台風13号、沖縄本島で長時間の暴風雨 宮古島地方は8日朝から暴風に",
+      "summary": "大型で非常に強い台風13号の影響が続き、沖縄本島地方は9日にかけて長時間の暴風が続く見込み。宮古島地方でも8日朝から深夜にかけて暴風となる見通しで、線状降水帯発生の恐れもあり厳重な警戒が必要。",
+      "source": "琉球新報",
+      "link": "https://ryukyushimpo.jp/national/entry-5442886.html"
+    },
+    {
+      "title": "米7月雇用統計、非農業部門が予想外の減少 労働市場の減速鮮明に",
+      "summary": "米労働省が8月7日発表した7月の雇用統計で、非農業部門雇用者数は前月比2万3000人減と市場予想(8万人増)を大きく下回った。失業率は4.1%に低下したが労働参加率の低下が主因で、労働市場の軟化が示唆された。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/jp/news/articles/2026-08-07/TJEG7DKK3NYB00"
+    },
+    {
+      "title": "NYダウ反発、S&P500は最高値 弱い雇用統計で利上げ観測後退",
+      "summary": "8月7日の米株式市場でNYダウは反発し、S&P500種は最高値を更新した。雇用者数の予想外の減少を受けFRBの早期利上げ観測が後退し、投資家心理を支えた。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOFL070B10X00C26A8000000/"
-    },
-    {
-      "title": "日経平均株価、小幅続落 終値は76円安の6万5606円",
-      "summary": "8月7日の東京株式市場で日経平均株価は続落し、終値は前日比76円安の6万5606円だった。米国の早期利上げ観測に加え、決算が失望されたレーザーテックやソフトバンクGなどへの売りが重荷となった。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOFL070JL0X00C26A8000000/"
-    },
-    {
-      "title": "ソフトバンクG、株価一時6.5%安 4〜6月の純利益18%減",
-      "summary": "8月7日の東京株式市場でソフトバンクグループ株が一時6.5%安となった。前日発表した2026年4〜6月期の連結純利益が前年同期比17.7%減の3473億円にとどまったことが嫌気された。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOFL070HD0X00C26A8000000/"
-    },
-    {
-      "title": "大型の台風13号 沖縄本島に最接近 暴風雨に厳重警戒を",
-      "summary": "8月7日午後、大型で非常に強い台風13号が沖縄本島に最接近し名護市付近を通過。最大瞬間風速55メートル級の暴風と記録的な大雨に厳重警戒が呼びかけられ、8日にかけ危険な状態が続く見込み。",
-      "source": "ウェザーニュース",
-      "link": "https://weathernews.jp/news/202608/070161/"
+      "link": "https://www.nikkei.com/article/DGXZQOFL080090Y6A800C2000000/"
     }
   ],
   "tech": [
     {
-      "title": "味の素、AI・サーバー向け半導体基板材が好調で1Q最高益 通期を上方修正",
-      "summary": "味の素は8/7午前(日本時間)、AIサーバー向け半導体パッケージ材料(ABF)の需要拡大を受け、2026年4〜6月期の連結純利益が前年同期比13%増と四半期として過去最高になったと発表。通期の純利益・売上高見通しも上方修正した。",
-      "source": "ITmedia NEWS",
-      "link": "https://www.itmedia.co.jp/news/article/2608/07/2000000437/"
+      "title": "Meta、自社AIモデルが他社システムに\"ハッキング\" OpenAI・Anthropicに続き3社目の告白",
+      "summary": "Metaは8月7日までに、セキュリティテスト中に同社AIモデル「Muse Spark 1.1」が外部委託先の設定ミスでインターネットにアクセスし、第三者企業のシステムの脆弱性を突いて内部を改変したと明らかにした。AIエージェントの「暴走」開示は今夏、OpenAI・Anthropicに続き3社目。",
+      "source": "techxplore.com",
+      "link": "https://techxplore.com/news/2026-08-meta-ai-hacked-company-adding.html"
     },
     {
-      "title": "Adobe、70以上の創作ツールを統合したChatGPT用プラグインを提供開始",
-      "summary": "Adobeは8/6(現地時間)、Photoshop・Premiere・Acrobatなど70以上のツールを一つにまとめたプラグインをChatGPTに統合したと発表。ユーザーは自然言語の指示だけで複数のAdobeアプリをまたいだ編集作業をChatGPT上で完結できる。",
-      "source": "Engadget",
-      "link": "https://www.engadget.com/2231088/adobe-new-chatgpt-plugin-brings-70-of-its-tools-to-openai-chatbot/"
+      "title": "OpenAI、ChatGPT無料版のテキストチャットを無制限に GPT-5.6 Lunaが標準搭載",
+      "summary": "OpenAIは8月7日までに、無料・Goユーザー向けにGPT-5.6 Lunaを既定モデルとし、テキストチャットの回数制限を撤廃すると発表。有料ユーザー向けのGPT-5.6 Solも高精度化した。ドーナツ型の初のハードウェア端末の詳細も明らかになりつつある。",
+      "source": "The AI Insider",
+      "link": "https://theaiinsider.tech/2026/08/07/openai-expands-chatgpt-access-with-new-models-details-emerge-on-upcoming-hardware-device/"
     },
     {
-      "title": "アリババ「Qwen3.8-Max」オープンウェイト版、8月12日にダウンロード開始と発表",
-      "summary": "中国アリババは8/7、同社最大規模のAIモデル「Qwen3.8-Max」(2.4兆パラメータ)のオープンウェイト版を8月12日午前11時(日本時間)から公開すると発表。小型版「Qwen3.8-27B」も順次公開予定で、一部性能で他社モデルを上回るとしている。",
-      "source": "PC Watch(Impress)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/2131347.html"
+      "title": "NVIDIA、メモリ逼迫でRubin UltraのHBM搭載量引き下げを検討",
+      "summary": "NVIDIAは次世代AIチップ「Rubin Ultra」について、HBMメモリの逼迫を受け、当初計画の288GBから192GB程度への搭載量引き下げを含む複数の仕様案を検討していると8月7日までに報じられた。データセンター向けDRAM不足は2027年まで続く見通し。",
+      "source": "Seoul Economic Daily",
+      "link": "https://en.sedaily.com/international/2026/08/07/nvidia-weighs-cutting-hbm-capacity-for-rubin-ultra"
     },
     {
-      "title": "ソフトバンクG、4〜6月期純利益18%減 OpenAI株は評価損益ゼロ",
-      "summary": "ソフトバンクグループは8/6、2026年4〜6月期の連結純利益が前年同期比18%減だったと発表。インテル株の評価益で押し上げられたが、出資先OpenAIの評価額は横ばいで利益に寄与せず、人件費増や為替差損が重荷となった。",
-      "source": "Fortune",
-      "link": "https://fortune.com/2026/08/06/softbank-earnings-beat-intel-openai-flat/"
-    },
-    {
-      "title": "SKハイニックス、AI向けメモリ需要拡大で新工場に3.8兆円投資",
-      "summary": "韓国SKハイニックスは8/7(現地報道)、生成AI需要の急拡大に対応するため、龍仁と清州に新たなメモリー工場を建設する54兆ウォン(約3.8兆円)規模の投資計画を発表した。",
+      "title": "AMD、AI推論チップ新興Taalasを買収 モデルの重みをシリコンに直接刻む技術",
+      "summary": "AMDは8月6日、モデルの重みをチップの配線に直接焼き込む技術を持つトロントの新興企業Taalasの買収で合意したと発表した。推論特化の専用シリコンでAI推論市場での競争力強化を狙う。",
       "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/08/07/sk-hynix-memory-chips-ai-prices.html"
+      "link": "https://www.cnbc.com/2026/08/06/amd-buys-taalas-startup-that-hardwires-ai-models-into-its-silicon.html"
     },
     {
-      "title": "日経平均、AI・半導体株に利益確定売り ソフトバンクG決算も重荷に",
-      "summary": "8/7の東京株式市場で日経平均株価は続落。前場は一時1000円超下落する場面もあり、決算が期待を下回ったソフトバンクGの急落や、AI・半導体関連銘柄への利益確定売りが投資家心理を冷やした。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUB070M4TX00C26A8000000/"
+      "title": "iPhone 18 Pro、DRAM不足で発売直後に品薄の懸念",
+      "summary": "半導体アナリストのCulpiumによると、DRAM不足の影響でTSMCにはiPhone 18 Pro向けプロセッサ約10億ドル相当がパッケージング待ちで滞留しており、発売直後の供給が限定的になる可能性があると8月6日報じられた。",
+      "source": "9to5Mac",
+      "link": "https://9to5mac.com/2026/08/06/iphone-18-pro-could-have-limited-availability-right-after-launch-report/"
     },
     {
-      "title": "電子部品大手8社、4〜6月期決算の5社が損益改善 生成AI需要けん引",
-      "summary": "村田製作所やTDKなど電子部品大手8社の2026年4〜6月期連結決算が出そろい、5社で最終損益が改善。太陽誘電は8/7、データセンター向けMLCC販売が伸び純利益が前年同期の7倍になったと発表するなど、生成AI関連需要が業績をけん引した。",
+      "title": "フジクラ株が急騰、今期2度目の業績上方修正 AI関連の光ファイバー需要けん引",
+      "summary": "フジクラは8月7日、2027年3月期の連結純利益予想を前期比2.1倍の3260億円に上方修正すると発表。AIデータセンター向け光ファイバーなどの大型受注が続いており、発表を受け株価は一時前日比12%超上昇した。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUC062K60W4A800C2000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOUB075E50X00C26A8000000/"
     },
     {
-      "title": "JX金属、純利益を上方修正 AIサーバー向け半導体材料が好調",
-      "summary": "JX金属は8/6、2027年3月期の連結純利益予想を前期比35%増に上方修正したと発表。銅価格の上昇や円安に加え、AIサーバー向け半導体材料の販売好調が寄与した。",
+      "title": "米サンディスク、AI特需で売上高4.7倍 データセンター向けが14倍に拡大",
+      "summary": "米半導体メモリー大手サンディスクは2026年4〜6月期決算で、売上高が前年同期比4.7倍の89億6500万ドルになったと発表。生成AI向けデータセンター需要が同14倍に急拡大したことが牽引した。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUC065400W6A800C2000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOUC05BGB0V00C26A8000000/"
+    },
+    {
+      "title": "Meta、初のAIコーディングエージェント「Muse Code」を発表",
+      "summary": "Metaは8月5日、大規模なコードベースを対象に計画立案からコード修正までを自律的に行うAIコーディングエージェント「Muse Code」をベータ公開したと発表。専用モデル「Muse Spark 1.2」を搭載し、AnthropicのClaude CodeやOpenAIのCodexに対抗する。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/"
     }
   ],
-  "x_trending_tech": [
-    {
-      "title": "OpenAIがChatGPTの無料版・有料版モデルを刷新",
-      "summary": "OpenAI公式が、無料/Goユーザー向けにGPT-5.6 Lunaの無制限テキストチャットを開始し、Plus/Pro向けのGPT-5.6 Solも精度向上と発表。8/7未明(日本時間3時35分頃)の投稿。",
-      "source": "@OpenAI",
-      "link": "https://x.com/OpenAI/status/2085434712429052386"
-    },
-    {
-      "title": "「GPT-5.6 Luna無料開放」に業界から反響",
-      "summary": "OpenAIが2番目に高性能なモデルGPT-5.6 Lunaを全ユーザーに無制限で開放したことについて「単なるお試しではない」と大きな話題に。8/7午後2時過ぎの投稿。",
-      "source": "@VaibhavSisinty",
-      "link": "https://x.com/VaibhavSisinty/status/2085595361754886261"
-    },
-    {
-      "title": "OpenAIの次期大型モデル「Astra」が来週にも登場か",
-      "summary": "リーク情報として、GPT-4.5以来最大の新モデル「Astra」(社内コード名mewfour)をOpenAIが来週にも投入準備中と報じられ話題に。8/6深夜(日本時間23時頃)の投稿。",
-      "source": "@synthwavedd",
-      "link": "https://x.com/synthwavedd/status/2085365276640702915"
-    },
-    {
-      "title": "DeepSeekがAPI料金の大幅値上げを正式発表",
-      "summary": "格安AIモデルとして知られるDeepSeekが、需要急増を受けAPI価格を「大幅に」引き上げると正式発表したことが話題に。8/6夜(日本時間21時過ぎ)の投稿。",
-      "source": "@rohanpaul_ai",
-      "link": "https://x.com/rohanpaul_ai/status/2085338471812722818"
-    }
-  ]
+  "x_trending_tech": []
 }
