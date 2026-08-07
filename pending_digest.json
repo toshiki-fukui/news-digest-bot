@@ -1,123 +1,111 @@
 {
-  "run_label": "8/7 07:00",
+  "run_label": "8/7 19:00",
   "politics_economy": [
     {
-      "title": "台風13号、沖縄・那覇/宮古/石垣空港が7日終日閉館 ANA224便・JAL76便欠航",
-      "summary": "大型で非常に強い台風13号が7日昼過ぎに沖縄本島地方へ最接近する見込みとなる中、那覇・宮古・石垣の3空港が7日終日閉館することが決定。全日空は6〜8日にあわせて224便、日本航空も6日に76便を欠航する。",
-      "source": "琉球新報",
-      "link": "https://ryukyushimpo.jp/news/entry-5438753.html"
-    },
-    {
-      "title": "熊本地震、死者38人に 避難所に6737人避難",
-      "summary": "7月28日に熊本県で発生した最大震度7の地震で、8/6午後6時時点の死者数が災害関連死の疑いを含め38人となったことが判明。避難所には引き続き6737人が身を寄せている。",
+      "title": "熊本地震の被害を「激甚災害」に指定 自治体の復旧費用支援へ",
+      "summary": "政府は8月7日の持ち回り閣議で、令和8年熊本地震による被害を「激甚災害」に指定することを決定した。高市首相は200億円超の予備費使用も表明しており、被災自治体の復旧費用を国が支援する。",
       "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015197971000"
+      "link": "https://news.web.nhk/newsweb/na/na-k10015198971000"
     },
     {
-      "title": "自動車大手7社の4〜6月期決算出そろう トヨタ・ホンダ・スズキが最高益",
-      "summary": "8/6、スバル・ホンダ・スズキの決算発表により自動車大手7社の2026年4〜6月期連結決算が出そろい、円安を追い風にトヨタ・ホンダ・スズキの3社が過去最高益を更新。日産とマツダは黒字転換した。",
-      "source": "レスポンス(時事通信)",
-      "link": "https://response.jp/article/2026/08/06/414978.html"
-    },
-    {
-      "title": "SBI新生銀行、地方銀行20行超と大型融資連合を構築 M&A・データセンター向けに1000億円規模",
-      "summary": "SBI新生銀行は8/5、M&Aやデータセンターなど資金需要の高まる分野で20行超の地方銀行と協調融資を行う新たな枠組みを構築すると発表。地銀の収益機会拡大と経営力強化を目指す。",
-      "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015197461000"
-    },
-    {
-      "title": "7日の東京市場、米ハイテク株安が重荷に 半導体関連に売り圧力か",
-      "summary": "6日の米国市場でハイテク株に戻り売りが出てナスダック総合指数が下落したことを受け、7日の東京市場は上値の重い展開が予想される。半導体関連株を中心に利益確定売りが出やすいとの見方が広がっている。",
+      "title": "外為14時 円相場、安値圏で小動き 158円台前半",
+      "summary": "8月7日午後2時の東京外国為替市場で円相場は1ドル=158円38〜39銭と、前日17時時点より52銭の円安・ドル高。米金利先高観や原油高を背景とした円売り・ドル買いが続いている。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOFL0601U0W6A800C2000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOFL070B10X00C26A8000000/"
+    },
+    {
+      "title": "日経平均株価、小幅続落 終値は76円安の6万5606円",
+      "summary": "8月7日の東京株式市場で日経平均株価は続落し、終値は前日比76円安の6万5606円だった。米国の早期利上げ観測に加え、決算が失望されたレーザーテックやソフトバンクGなどへの売りが重荷となった。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOFL070JL0X00C26A8000000/"
+    },
+    {
+      "title": "ソフトバンクG、株価一時6.5%安 4〜6月の純利益18%減",
+      "summary": "8月7日の東京株式市場でソフトバンクグループ株が一時6.5%安となった。前日発表した2026年4〜6月期の連結純利益が前年同期比17.7%減の3473億円にとどまったことが嫌気された。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOFL070HD0X00C26A8000000/"
+    },
+    {
+      "title": "大型の台風13号 沖縄本島に最接近 暴風雨に厳重警戒を",
+      "summary": "8月7日午後、大型で非常に強い台風13号が沖縄本島に最接近し名護市付近を通過。最大瞬間風速55メートル級の暴風と記録的な大雨に厳重警戒が呼びかけられ、8日にかけ危険な状態が続く見込み。",
+      "source": "ウェザーニュース",
+      "link": "https://weathernews.jp/news/202608/070161/"
     }
   ],
   "tech": [
     {
-      "title": "OpenAI、Appleの企業秘密訴訟の却下を裁判所に申し立て",
-      "summary": "OpenAIは8/6(現地時間)、Appleが提起した企業秘密盗用訴訟について「根拠がない」として却下を求める31ページの申立書を提出。iCloudの私的利用など、アップル自身のセキュリティ慣行が招いた混乱だと反論した。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-06/openai-asks-judge-to-toss-apple-suit-alleging-trade-secret-theft"
+      "title": "味の素、AI・サーバー向け半導体基板材が好調で1Q最高益 通期を上方修正",
+      "summary": "味の素は8/7午前(日本時間)、AIサーバー向け半導体パッケージ材料(ABF)の需要拡大を受け、2026年4〜6月期の連結純利益が前年同期比13%増と四半期として過去最高になったと発表。通期の純利益・売上高見通しも上方修正した。",
+      "source": "ITmedia NEWS",
+      "link": "https://www.itmedia.co.jp/news/article/2608/07/2000000437/"
     },
     {
-      "title": "中国Unitree Robotics、上海STAR市場IPOを90億ドル評価額で価格決定",
-      "summary": "ヒューマノイドロボット大手Unitree Roboticsは8/6、上海証券取引所STAR市場のIPO価格を1株150.8元に決定し、評価額は約90.4億ドルに。中国本土初のヒューマノイドロボット企業の上場として注目を集めている。",
+      "title": "Adobe、70以上の創作ツールを統合したChatGPT用プラグインを提供開始",
+      "summary": "Adobeは8/6(現地時間)、Photoshop・Premiere・Acrobatなど70以上のツールを一つにまとめたプラグインをChatGPTに統合したと発表。ユーザーは自然言語の指示だけで複数のAdobeアプリをまたいだ編集作業をChatGPT上で完結できる。",
+      "source": "Engadget",
+      "link": "https://www.engadget.com/2231088/adobe-new-chatgpt-plugin-brings-70-of-its-tools-to-openai-chatbot/"
+    },
+    {
+      "title": "アリババ「Qwen3.8-Max」オープンウェイト版、8月12日にダウンロード開始と発表",
+      "summary": "中国アリババは8/7、同社最大規模のAIモデル「Qwen3.8-Max」(2.4兆パラメータ)のオープンウェイト版を8月12日午前11時(日本時間)から公開すると発表。小型版「Qwen3.8-27B」も順次公開予定で、一部性能で他社モデルを上回るとしている。",
+      "source": "PC Watch(Impress)",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2131347.html"
+    },
+    {
+      "title": "ソフトバンクG、4〜6月期純利益18%減 OpenAI株は評価損益ゼロ",
+      "summary": "ソフトバンクグループは8/6、2026年4〜6月期の連結純利益が前年同期比18%減だったと発表。インテル株の評価益で押し上げられたが、出資先OpenAIの評価額は横ばいで利益に寄与せず、人件費増や為替差損が重荷となった。",
+      "source": "Fortune",
+      "link": "https://fortune.com/2026/08/06/softbank-earnings-beat-intel-openai-flat/"
+    },
+    {
+      "title": "SKハイニックス、AI向けメモリ需要拡大で新工場に3.8兆円投資",
+      "summary": "韓国SKハイニックスは8/7(現地報道)、生成AI需要の急拡大に対応するため、龍仁と清州に新たなメモリー工場を建設する54兆ウォン(約3.8兆円)規模の投資計画を発表した。",
       "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/08/06/chinese-humanoid-robot-maker-unitree-prices-ipo-at-9-billion-valuation.html"
+      "link": "https://www.cnbc.com/2026/08/07/sk-hynix-memory-chips-ai-prices.html"
     },
     {
-      "title": "秋田市に日本最大級のAIデータセンター、UAEが2兆円規模投資へ",
-      "summary": "日米企業と秋田県・市が秋田市に日本最大級のAI向けデータセンターを建設する計画が判明。アラブ首長国連邦(UAE)の政府系ファンドが数千億〜1兆円規模の投融資を検討しており、2030年代前半の稼働を目指す。8/6付日本経済新聞が報道。",
+      "title": "日経平均、AI・半導体株に利益確定売り ソフトバンクG決算も重荷に",
+      "summary": "8/7の東京株式市場で日経平均株価は続落。前場は一時1000円超下落する場面もあり、決算が期待を下回ったソフトバンクGの急落や、AI・半導体関連銘柄への利益確定売りが投資家心理を冷やした。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOCC138LW0T10C26A7000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOUB070M4TX00C26A8000000/"
     },
     {
-      "title": "Google、150億ドル規模のインドAIデータセンター計画に環境保護団体が反対",
-      "summary": "Googleがインド・アンドラプラデシュ州ビシャカパトナムで進める150億ドル規模のAIデータセンター計画が、水資源や野生生物保護区への影響を懸念する環境活動家の反対に直面している。8/6付報道。",
-      "source": "Yahoo Finance(Reuters系)",
-      "link": "https://finance.yahoo.com/technology/articles/google-15-billion-india-data-071809875.html"
-    },
-    {
-      "title": "DeepSeek、API価格を「大幅値上げ」へ 低価格戦略から転換",
-      "summary": "中国DeepSeekは8/6、AIサービスのAPI価格について近く「大幅な」値上げを実施する方針を利用者向けに通知。超低価格戦略で知られた同社の方針転換として市場に衝撃を与えている。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-06/deepseek-plans-significant-price-increase-for-its-ai-services"
-    },
-    {
-      "title": "HP・Asus・Acer、深刻化するメモリー不足で中国CXMT製DRAMを採用",
-      "summary": "AI需要による半導体メモリー不足を受け、HP・Asus・Acerが中国ChangXin Memory Technologies(CXMT)製DRAMをノートPCの一部モデル(米国外向け)に採用し始めたと8/5〜6付で報道された。",
-      "source": "Tom's Hardware",
-      "link": "https://www.tomshardware.com/tech-industry/three-major-pc-makers-now-using-chinese-memory-to-fight-unprecedented-memory-shortage-report-claims-hp-asus-and-acer-using-small-amounts-of-cxmt-chips-in-limited-number-of-notebooks-for-non-us-market"
-    },
-    {
-      "title": "Robinhood、Yコンビネーター系スタートアップへの投資を一般投資家に開放する新ファンド",
-      "summary": "Robinhoodは8/6、Yコンビネーター関連の未上場スタートアップ約80社に投資する新ファンド「Robinhood Ventures Fund II」を発表。8/13にNYSEで1株25ドルから取引開始予定で、最大2億ドルを調達する計画。",
-      "source": "TechFundingNews",
-      "link": "https://techfundingnews.com/robinhood-launches-200m-fund-focused-on-y-combinator-startups/"
-    },
-    {
-      "title": "アジアのテック株、リーマン危機以来の乱高下 AIバブル懸念で急変動",
-      "summary": "MSCIアジア太平洋テック指数の過去100日間の値動きが2009年以来最も激しい水準に達したとBloombergが8/6報道。AI関連株への熱狂が反転し、前日に4.2%上昇した後この日は3.2%下落するなど乱高下が続いている。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/newsletters/2026-08-06/asian-tech-stocks-are-most-volatile-since-global-financial-crisis"
-    },
-    {
-      "title": "半導体メモリー高騰でスマホ・PC出荷が年2億台減、消費に影落とす",
-      "summary": "AI投資に端を発するDRAM・NAND価格の高騰(約6〜8倍)が電子機器の値上げラッシュを招いており、スマートフォンは1年で平均約1万5000円上昇、世界出荷台数は過去最大の減少幅になっているとの分析を日本経済新聞が報じた。",
+      "title": "電子部品大手8社、4〜6月期決算の5社が損益改善 生成AI需要けん引",
+      "summary": "村田製作所やTDKなど電子部品大手8社の2026年4〜6月期連結決算が出そろい、5社で最終損益が改善。太陽誘電は8/7、データセンター向けMLCC販売が伸び純利益が前年同期の7倍になったと発表するなど、生成AI関連需要が業績をけん引した。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGKKZO97532790T10C26A7EA2000/"
+      "link": "https://www.nikkei.com/article/DGXZQOUC062K60W4A800C2000000/"
     },
     {
-      "title": "任天堂、4〜6月期経常利益が2.2倍に急拡大 Switch2好調持続",
-      "summary": "任天堂は8/6、2027年3月期第1四半期(4〜6月)の決算を発表し、経常利益が前年同期比2.2倍に急拡大したことが判明。Nintendo Switch2はハード382万台・ソフト946万本を販売するなど好調な販売を継続している。",
-      "source": "株探ニュース",
-      "link": "https://kabutan.jp/stock/news?code=7974&b=k202608060147"
+      "title": "JX金属、純利益を上方修正 AIサーバー向け半導体材料が好調",
+      "summary": "JX金属は8/6、2027年3月期の連結純利益予想を前期比35%増に上方修正したと発表。銅価格の上昇や円安に加え、AIサーバー向け半導体材料の販売好調が寄与した。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUC065400W6A800C2000000/"
     }
   ],
   "x_trending_tech": [
     {
-      "title": "Unitree Robotics、上海IPO価格を約22ドル/株に決定 評価額90億ドル規模に",
-      "summary": "米テックニュースまとめアカウントTechmemeが、杭州拠点のUnitree Roboticsが上海IPOを1株約22ドルで価格決定し、4040万株を売り出して9.04億ドルを調達予定と報告(8/6深夜の投稿)。2025年には5500台以上のロボットを出荷したという。",
-      "source": "@Techmeme",
-      "link": "https://x.com/Techmeme/status/2085330233369190721"
+      "title": "OpenAIがChatGPTの無料版・有料版モデルを刷新",
+      "summary": "OpenAI公式が、無料/Goユーザー向けにGPT-5.6 Lunaの無制限テキストチャットを開始し、Plus/Pro向けのGPT-5.6 Solも精度向上と発表。8/7未明(日本時間3時35分頃)の投稿。",
+      "source": "@OpenAI",
+      "link": "https://x.com/OpenAI/status/2085434712429052386"
     },
     {
-      "title": "秋田の日本最大級AIデータセンター、UAEが最大1兆円投資を検討",
-      "summary": "ブルームバーグ日本語版が、秋田市で計画される日本最大級のAIデータセンター建設について、UAEが関係者情報として最大1兆円規模の投資を検討していると速報(8/6深夜の投稿)。",
-      "source": "@BloombergJapan",
-      "link": "https://x.com/BloombergJapan/status/2085323935072051304"
+      "title": "「GPT-5.6 Luna無料開放」に業界から反響",
+      "summary": "OpenAIが2番目に高性能なモデルGPT-5.6 Lunaを全ユーザーに無制限で開放したことについて「単なるお試しではない」と大きな話題に。8/7午後2時過ぎの投稿。",
+      "source": "@VaibhavSisinty",
+      "link": "https://x.com/VaibhavSisinty/status/2085595361754886261"
     },
     {
-      "title": "任天堂決算、Switch2好調で営業利益150.5%増 通期予想は据え置き",
-      "summary": "決算速報アカウントが任天堂の4〜6月期決算を要約し、売上高5178億円(-9.5%)ながら営業利益1425億円(+150.5%)、純利益1474億円(+53.5%)と大幅増益になったと投稿(8/6夕方の投稿)。",
-      "source": "@quickdisclosure",
-      "link": "https://x.com/quickdisclosure/status/2085252632390815757"
+      "title": "OpenAIの次期大型モデル「Astra」が来週にも登場か",
+      "summary": "リーク情報として、GPT-4.5以来最大の新モデル「Astra」(社内コード名mewfour)をOpenAIが来週にも投入準備中と報じられ話題に。8/6深夜(日本時間23時頃)の投稿。",
+      "source": "@synthwavedd",
+      "link": "https://x.com/synthwavedd/status/2085365276640702915"
     },
     {
-      "title": "Switch2用ソフト、世界累計販売5817万本を突破",
-      "summary": "フランスのゲーム情報アカウントが、Nintendo Switch2用ソフトの世界累計販売本数が5817万本に達したと任天堂の決算資料をもとに紹介(8/6夜の投稿)。",
-      "source": "@JVCom",
-      "link": "https://x.com/JVCom/status/2085279821530059117"
+      "title": "DeepSeekがAPI料金の大幅値上げを正式発表",
+      "summary": "格安AIモデルとして知られるDeepSeekが、需要急増を受けAPI価格を「大幅に」引き上げると正式発表したことが話題に。8/6夜(日本時間21時過ぎ)の投稿。",
+      "source": "@rohanpaul_ai",
+      "link": "https://x.com/rohanpaul_ai/status/2085338471812722818"
     }
   ]
 }
