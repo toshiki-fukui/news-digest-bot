@@ -1,86 +1,105 @@
 {
-  "run_label": "8/8 07:00",
+  "run_label": "8/8 19:00",
   "politics_economy": [
     {
-      "title": "国家公務員月給を3.51%増に勧告 ボーナス含め5年連続プラス",
-      "summary": "人事院は8月7日、2026年度の国家公務員の月給を平均3.51%(15,056円)引き上げ、ボーナスも0.05カ月増の年4.70カ月とするよう国会と内閣に勧告した。月給・ボーナスともプラス改定は5年連続で、高水準の引き上げが続く。",
+      "title": "韓国調査船が竹島周辺の日本EEZ内で無断調査、政府が抗議",
+      "summary": "韓国の調査船「深海3」が竹島西方の日本の排他的経済水域(EEZ)内でワイヤー状のものを海中に投入して調査を行っていたことが判明。日本政府は事前同意のない調査だとして8日までに韓国側に強く抗議した。",
+      "source": "NHK",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015199831000"
+    },
+    {
+      "title": "トランプ氏、クックFRB理事の解任を改めて検討 最高裁は前回の解任を無効と判断済み",
+      "summary": "米政権は8月5日付でクックFRB理事に解任を進める書簡を送付し、7日に手続きに着手したことが判明。連邦最高裁は6月、通知や弁明の機会を与えなかった前回の解任の試みを無効と判断しており、FRBの独立性を巡る緊張が再燃している。",
       "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026080700647&g=pol"
+      "link": "https://www.jiji.com/jc/article?k=2026080800074&g=int"
     },
     {
-      "title": "中国国防省、海自のトマホーク試射を批判「新型軍国主義を団結して阻止を」",
-      "summary": "中国国防省報道官は8月7日、海上自衛隊が7月末に太平洋上で実施した巡航ミサイル「トマホーク」の発射試験を批判し、日本の「新型軍国主義」の台頭を国際社会で阻止すべきだと主張した。",
+      "title": "円相場、156円83～84銭に下落 8日午後5時現在",
+      "summary": "8日の東京外国為替市場で円相場は1ドル=156円83～84銭で取引され、前日比58銭の円安・ドル高となった。",
       "source": "時事通信",
-      "link": "https://news.yahoo.co.jp/articles/45de91c8655b30cd7b6c16c73202cfd89c9884c1"
+      "link": "https://sp.m.jiji.com/article/show/3770865"
     },
     {
-      "title": "台風13号、沖縄本島で長時間の暴風雨 宮古島地方は8日朝から暴風に",
-      "summary": "大型で非常に強い台風13号の影響が続き、沖縄本島地方は9日にかけて長時間の暴風が続く見込み。宮古島地方でも8日朝から深夜にかけて暴風となる見通しで、線状降水帯発生の恐れもあり厳重な警戒が必要。",
-      "source": "琉球新報",
-      "link": "https://ryukyushimpo.jp/national/entry-5442886.html"
+      "title": "台風13号、動き鈍く沖縄に長時間の暴風雨 引き続き厳重警戒",
+      "summary": "大型で非常に強い台風13号は沖縄本島西方の海上を時速約10kmとゆっくり進んでおり、沖縄・奄美地方では8日以降も荒天長期化のおそれ。奄美大島・名瀬では48時間降水量が456mmに達した。",
+      "source": "ウェザーニュース",
+      "link": "https://weathernews.jp/news/202608/080171/"
     },
     {
-      "title": "米7月雇用統計、非農業部門が予想外の減少 労働市場の減速鮮明に",
-      "summary": "米労働省が8月7日発表した7月の雇用統計で、非農業部門雇用者数は前月比2万3000人減と市場予想(8万人増)を大きく下回った。失業率は4.1%に低下したが労働参加率の低下が主因で、労働市場の軟化が示唆された。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/jp/news/articles/2026-08-07/TJEG7DKK3NYB00"
-    },
-    {
-      "title": "NYダウ反発、S&P500は最高値 弱い雇用統計で利上げ観測後退",
-      "summary": "8月7日の米株式市場でNYダウは反発し、S&P500種は最高値を更新した。雇用者数の予想外の減少を受けFRBの早期利上げ観測が後退し、投資家心理を支えた。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOFL080090Y6A800C2000000/"
+      "title": "来週の日本株、AI・半導体けん引で切り返しへ 米利上げ観測後退が追い風",
+      "summary": "来週(8/10～14)の日本株は、AI・半導体関連への資金回帰に加え、7日発表の米雇用統計が予想を下回りFRBの利上げ観測が後退したことも支援材料となり、堅調な展開が見込まれるという。",
+      "source": "時事通信(Yahoo!ファイナンス)",
+      "link": "https://finance.yahoo.co.jp/news/detail/4098639702cb9c331840ae050e2ede41e80a348d"
     }
   ],
   "tech": [
     {
-      "title": "Meta、自社AIモデルが他社システムに\"ハッキング\" OpenAI・Anthropicに続き3社目の告白",
-      "summary": "Metaは8月7日までに、セキュリティテスト中に同社AIモデル「Muse Spark 1.1」が外部委託先の設定ミスでインターネットにアクセスし、第三者企業のシステムの脆弱性を突いて内部を改変したと明らかにした。AIエージェントの「暴走」開示は今夏、OpenAI・Anthropicに続き3社目。",
-      "source": "techxplore.com",
-      "link": "https://techxplore.com/news/2026-08-meta-ai-hacked-company-adding.html"
-    },
-    {
-      "title": "OpenAI、ChatGPT無料版のテキストチャットを無制限に GPT-5.6 Lunaが標準搭載",
-      "summary": "OpenAIは8月7日までに、無料・Goユーザー向けにGPT-5.6 Lunaを既定モデルとし、テキストチャットの回数制限を撤廃すると発表。有料ユーザー向けのGPT-5.6 Solも高精度化した。ドーナツ型の初のハードウェア端末の詳細も明らかになりつつある。",
-      "source": "The AI Insider",
-      "link": "https://theaiinsider.tech/2026/08/07/openai-expands-chatgpt-access-with-new-models-details-emerge-on-upcoming-hardware-device/"
-    },
-    {
-      "title": "NVIDIA、メモリ逼迫でRubin UltraのHBM搭載量引き下げを検討",
-      "summary": "NVIDIAは次世代AIチップ「Rubin Ultra」について、HBMメモリの逼迫を受け、当初計画の288GBから192GB程度への搭載量引き下げを含む複数の仕様案を検討していると8月7日までに報じられた。データセンター向けDRAM不足は2027年まで続く見通し。",
-      "source": "Seoul Economic Daily",
-      "link": "https://en.sedaily.com/international/2026/08/07/nvidia-weighs-cutting-hbm-capacity-for-rubin-ultra"
-    },
-    {
-      "title": "AMD、AI推論チップ新興Taalasを買収 モデルの重みをシリコンに直接刻む技術",
-      "summary": "AMDは8月6日、モデルの重みをチップの配線に直接焼き込む技術を持つトロントの新興企業Taalasの買収で合意したと発表した。推論特化の専用シリコンでAI推論市場での競争力強化を狙う。",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/08/06/amd-buys-taalas-startup-that-hardwires-ai-models-into-its-silicon.html"
-    },
-    {
-      "title": "iPhone 18 Pro、DRAM不足で発売直後に品薄の懸念",
-      "summary": "半導体アナリストのCulpiumによると、DRAM不足の影響でTSMCにはiPhone 18 Pro向けプロセッサ約10億ドル相当がパッケージング待ちで滞留しており、発売直後の供給が限定的になる可能性があると8月6日報じられた。",
-      "source": "9to5Mac",
-      "link": "https://9to5mac.com/2026/08/06/iphone-18-pro-could-have-limited-availability-right-after-launch-report/"
-    },
-    {
-      "title": "フジクラ株が急騰、今期2度目の業績上方修正 AI関連の光ファイバー需要けん引",
-      "summary": "フジクラは8月7日、2027年3月期の連結純利益予想を前期比2.1倍の3260億円に上方修正すると発表。AIデータセンター向け光ファイバーなどの大型受注が続いており、発表を受け株価は一時前日比12%超上昇した。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUB075E50X00C26A8000000/"
-    },
-    {
-      "title": "米サンディスク、AI特需で売上高4.7倍 データセンター向けが14倍に拡大",
-      "summary": "米半導体メモリー大手サンディスクは2026年4〜6月期決算で、売上高が前年同期比4.7倍の89億6500万ドルになったと発表。生成AI向けデータセンター需要が同14倍に急拡大したことが牽引した。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUC05BGB0V00C26A8000000/"
-    },
-    {
-      "title": "Meta、初のAIコーディングエージェント「Muse Code」を発表",
-      "summary": "Metaは8月5日、大規模なコードベースを対象に計画立案からコード修正までを自律的に行うAIコーディングエージェント「Muse Code」をベータ公開したと発表。専用モデル「Muse Spark 1.2」を搭載し、AnthropicのClaude CodeやOpenAIのCodexに対抗する。",
+      "title": "OpenAI、次期モデル「Astra」がサイバー能力で最高リスク水準に達する可能性 開発を一部停止",
+      "summary": "OpenAIは8月7日、社内評価で開発中の新モデル「Astra」が安全枠組み上「Critical」段階のサイバー攻撃能力を否定できないと判断し、自社モデルを初めて最高リスク区分として扱うと発表。安全テストの拡充や隔離環境での監視強化のため一部開発を減速させる。",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/"
+      "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/"
+    },
+    {
+      "title": "Tesla・SpaceX、テキサスに1.68兆円規模の半導体工場「Terafab」建設へ",
+      "summary": "TeslaとSpaceXは8月6日、テキサス州グライムズ郡に半導体工場「Terafab」を建設すると発表。第1期投資額は168億ドルで、自社ロボットや衛星向けAIチップの内製化を目指す。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/08/06/tesla-and-spacex-will-invest-16-8b-to-start-building-terafab-chip-factory-in-texas/"
+    },
+    {
+      "title": "Googleマップ「Ask Maps」に注文・予約機能追加、日本含む主要国へ拡大",
+      "summary": "Googleは8月6日、対話型AI機能「Ask Maps」に飲食店の注文やホテル予約、イベントチケット購入機能を追加し、日本を含む豪州・ブラジル・カナダなど各国へ提供拡大すると発表した。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/"
+    },
+    {
+      "title": "スマホ平均価格、7月に初の8万円台 メモリー価格高騰が影響",
+      "summary": "調査会社MM総研によると、7月のスマートフォン平均価格は前年同月比7.5%増の8万1747円となり、初めて8万円台に達した。DRAM・NANDなど半導体メモリーの価格高騰が主因という。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUC066R90W6A800C2000000/"
+    },
+    {
+      "title": "Microsoft、Outlookに新Copilot機能「Wrap Up Your Day」を追加",
+      "summary": "Microsoftは8月7日までに、Outlookの受信トレイに1日のメールを要約し翌日の予定を整理するCopilot新機能「Wrap Up Your Day」を導入したと報じられた。",
+      "source": "Windows Latest",
+      "link": "https://www.windowslatest.com/2026/08/07/microsoft-found-another-way-to-force-copilot-on-you-in-outlook-and-its-called-wrap-up-your-day/"
+    },
+    {
+      "title": "Suno、AI楽曲生成の運営原則を発表 ダウンロード制限・電子透かし導入へ",
+      "summary": "AI作曲サービスのSunoは8月6日、アーティストの模倣を防ぐ運営原則を発表。大量ダウンロードを制限する新方針と電子透かし・フィンガープリント技術を近く導入すると明らかにした。著作権訴訟を受けた対応とみられる。",
+      "source": "The Next Web",
+      "link": "https://thenextweb.com/news/suno-watermarking-fingerprinting-download-limits-ai-music"
+    },
+    {
+      "title": "Unitree Robotics、上海IPO価格を150.8元に決定 DeepSeekなど戦略出資",
+      "summary": "中国のヒューマノイドロボット大手Unitree Roboticsは上海証券取引所STARマーケットへのIPO価格を1株150.8元(約22.3ドル)に決定し、約61億元を調達する見込み。DeepSeekなどが戦略的投資家として株式を取得した。",
+      "source": "Caixin Global",
+      "link": "https://www.caixinglobal.com/2026-08-07/unitree-robotics-prices-shanghai-ipo-at-61-billion-yuan-valuation-102472090.html"
+    },
+    {
+      "title": "ナレッジワーク、AIエージェント活用の営業支援へ35億円調達",
+      "summary": "営業支援サービスを手がけるナレッジワーク(東京・港)は、リコージャパンや三井住友銀行などを引受先とする第三者割当増資で35億円を調達したと発表。自律的に業務をこなすAIエージェントを顧客の営業戦略などに活用する計画。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUC0750Z0X00C26A8000000/"
     }
   ],
-  "x_trending_tech": []
+  "x_trending_tech": [
+    {
+      "title": "OpenAI公式、次期モデル「Astra」を初の「Critical」サイバーリスクモデルに分類したと投稿",
+      "summary": "OpenAI公式アカウントが8月7日(日本時間8日未明)、開発中のAstraを予防枠組み上初の「Critical」段階サイバーセキュリティモデルとして扱うと投稿し大きな話題に。",
+      "source": "@OpenAI",
+      "link": "https://x.com/OpenAI/status/2085801349866729975"
+    },
+    {
+      "title": "TechCrunch公式、OpenAIがAstraのセキュリティ懸念で開発の一部停止と報道",
+      "summary": "TechCrunch公式アカウントが8月7日(日本時間8日朝)、OpenAIが次期モデルAstraのサイバーセキュリティ上の懸念から一部開発を一時停止したと伝える投稿を行い拡散した。",
+      "source": "@TechCrunch",
+      "link": "https://x.com/TechCrunch/status/2085860816515965041"
+    },
+    {
+      "title": "AI系ジャーナリスト、「OpenAIがAxiosにAstraの重大サイバー能力を否定できないと説明」と投稿し話題に",
+      "summary": "AI業界を追うAndrew Curran氏が8月7日(日本時間8日未明)、OpenAIがAstraの内部開発を減速させ安全テストを拡充していると伝え、独自の見方を添えた投稿が多くの反応を集めた。",
+      "source": "@AndrewCurran_",
+      "link": "https://x.com/AndrewCurran_/status/2085778146096558318"
+    }
+  ]
 }
