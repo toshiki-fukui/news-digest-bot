@@ -1,99 +1,74 @@
 {
-  "run_label": "8/9 07:00",
+  "run_label": "8/9 19:00",
   "politics_economy": [
     {
-      "title": "長崎原爆の日、高市首相が出席し平和祈念式典 米大使は欠席",
-      "summary": "9日、長崎原爆犠牲者慰霊平和祈念式典が長崎市の平和公園で開催され、98カ国の代表とともに高市首相が就任後初めて参列する。米国のグラス駐日大使は式典を欠席し、代理でスナイプ首席公使が出席する見通し。",
-      "source": "NBC長崎放送(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/8ef06e07ff17c90e58828366ac76787d30be9e4e"
+      "title": "高市首相、長崎平和祈念式典で挨拶 内閣改造は「現時点で申し上げず」熊本地震対応を強調",
+      "summary": "高市早苗首相は9日、長崎原爆犠牲者慰霊平和祈念式典に出席し「核兵器のない世界の実現に向けた現実的かつ実践的な取組を推進する」と挨拶。式典後の会見では内閣改造・党役員人事の時期について「現時点で申し上げられない」とし、令和8年熊本地震対応に総力を挙げていると強調した。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUA090E20Z00C26A8000000/"
     },
     {
-      "title": "台風13号、沖縄で影響長期化 8日夜も強風・停電続く",
-      "summary": "非常に強い台風13号は東シナ海をゆっくり進み、沖縄地方では9日にかけて非常に強い風が続く見込み。8日夜時点で14市町村約1万戸で停電が続いた。",
-      "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015199841000"
+      "title": "熊本地震の被災地、9日も厳しい暑さ 政府が熱中症対策呼びかけ",
+      "summary": "最大震度7を観測した令和8年熊本地震の被災地では9日も気温が上昇し、政府や自治体が復旧作業や避難生活における熱中症への警戒を呼びかけている。政府は予備費242億円を活用した物資支援や応急復旧を進めている。",
+      "source": "NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260809de42886"
     },
     {
-      "title": "トランプ氏、クックFRB理事の解任を改めて通知 8月26日までの反論要求",
-      "summary": "ホワイトハウスは5日付書簡でクック理事に住宅ローン詐欺疑惑への反論を8月26日までに求めるとともに、解任を検討していることを通知した。6月に最高裁が手続き不備を理由に前回の即時解任を退けたことを受け、政権は手続きを踏み直す形で解任を進めている。",
-      "source": "産経新聞(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/f6657f4fecd50f4bfb06755ee34e1886c37208df"
+      "title": "首相人事で旧安倍派重用か 自民「萩生田幹事長」案が浮上、世論反発を警戒",
+      "summary": "近く見込まれる内閣改造・党役員人事をめぐり、自民党内で萩生田光一幹事長代行を幹事長に起用する案が浮上。旧安倍派の存在感が増す一方、重用すれば高市首相が世論の批判を浴びかねないとの見方も出ている。",
+      "source": "北海道新聞(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/d0eac7d0a3fc6dc051db13463b7c419a051d0720"
     },
     {
-      "title": "熊本地震、氷川町でボランティア活動始まる 住宅被害1.8万棟超・避難者6500人",
-      "summary": "令和8年熊本地震で8日午前7時半時点の住宅被害は推計含め1万8000棟超、12市町124カ所の避難所に約6500人が避難、死者は計39人となった。氷川町では8日から県内外のボランティア約50人が活動を開始した。",
-      "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015200101000"
+      "title": "中道改革連合・泉健太氏、立民・公明との3党合流協議で党名変更に反対",
+      "summary": "立憲民主党・公明党との3党合流を巡る協議が8月中の取りまとめを目指して進む中、中道改革連合の泉健太氏は「党名を変えるのはやめてほしい。そんな姑息なことで評価されない」と述べ、拙速な合流論議を批判した。",
+      "source": "ABEMA TIMES(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/83b33acaf84aaa9a4721f718cdd863ad3b74b322"
     },
     {
-      "title": "国民民主党代表選、玉木氏と橋本氏の一騎打ち確定 9月6日投開票",
-      "summary": "国民民主党は7日、代表選の立候補を受け付け、現職の玉木雄一郎氏(57)と若手の橋本幹彦衆院議員(30)が届け出て一騎打ちが確定した。22日公示、9月6日投開票で、他党との距離感などが焦点となる。",
-      "source": "共同通信(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/1496825652f1ca0de7a0cf5d173d225dbfa9083e"
+      "title": "日経平均、来週は堅調な展開か 米利上げ観測の後退が追い風",
+      "summary": "7日発表の米雇用統計が市場予想を下回り米利上げ観測が後退したことを受け、来週(8/10〜14)の日経平均株価は底堅い展開が見込まれるとの見方が示された。AI・半導体関連株への資金回帰も支援材料。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUB065FE0W6A800C2000000/"
     }
   ],
   "tech": [
     {
-      "title": "xAI、画像生成・編集AI「Grok Imagine Image 2.0」提供開始",
-      "summary": "xAIは7日、精密な編集機能を備えた新画像モデル「Grok Imagine Image 2.0」をgrok.comおよびアプリで一般提供開始。Arenaの画像生成・編集両ランキングで世界2位にランクインした。",
-      "source": "Unite.AI",
-      "link": "https://www.unite.ai/xai-ships-grok-imagine-image-2-0-with-precise-editing-and-a-top-arena-ranking/"
+      "title": "Anthropic「Claude Code」、AIが権限確認を代行する「Auto mode」が8月14日からデフォルトに",
+      "summary": "9日付ITmedia AI+によると、AnthropicはコーディングエージェントClaude CodeのAuto modeをPro/Max/Teamプランの新規セッションで標準搭載にすると発表。危険コマンドの検出率は人間の平均13.6%に対しAuto modeは89%で、720件のプロンプトインジェクション評価でも攻撃成功はゼロだったという。",
+      "source": "ITmedia AI+",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/09/2000000465/"
     },
     {
-      "title": "OpenAI開発中のドーナツ型AIスピーカー、価格帯が判明",
-      "summary": "OpenAIが開発中の画面なしAIスピーカーは、ドーナツ型で価格300〜400ドル(最大約6.3万円)、2027年発売予定と伝えられた。Jony Ive氏率いるLoveFrom社がデザインを担当し、独自の音声アーキテクチャ「GPT-Live」を搭載する。",
-      "source": "財経新聞",
-      "link": "https://www.zaikei.co.jp/article/20260808/865003.html"
+      "title": "OpenAI、AIブラウザ「ChatGPT Atlas」を本日8月9日付で提供終了",
+      "summary": "OpenAIは2025年10月公開の独自ブラウザ「ChatGPT Atlas」を2026年8月9日付で終了。エージェント機能はChatGPT本体とコーディング支援AI「Codex」に統合され、ブックマークや閲覧履歴は自動移行されないため事前のエクスポートが呼びかけられていた。",
+      "source": "Ledge.ai",
+      "link": "https://ledge.ai/articles/openai_chatgpt_atlas_shutdown_desktop_browser"
     },
     {
-      "title": "ChatGPT無料プラン、テキストチャット無制限に GPT-5.6 Lunaを標準採用",
-      "summary": "OpenAIは、FreeおよびGoプランのテキストチャット回数制限を撤廃し、新モデル「GPT-5.6 Luna」を標準搭載すると発表。Plus・Proユーザー向けの「GPT-5.6 Sol」も強化された。",
-      "source": "PC Watch",
-      "link": "https://pc.watch.impress.co.jp/docs/news/2131408.html"
+      "title": "NVIDIA、GPUがストレージを直接読み書きする「cuFile API」をオープンソース化",
+      "summary": "9日付ITmedia PC USERによると、NVIDIAはGPUDirect Storageの中核技術cuFile APIをオープンソース化し、Google・Intel・Metaらとともに開発を推進。あわせてキオクシアとSanDiskがQLC技術と332層積層を用いた第10世代3Dフラッシュメモリを発表したことも伝えられた。",
+      "source": "ITmedia PC USER",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2608/09/news007.html"
     },
     {
-      "title": "GitHub Copilot週次アップデート サイドチャット・Worktree機能を追加",
-      "summary": "GitHubは7日、Copilotの週次アップデートを公開。作業を中断せず質問できる「サイドチャット」、並行作業用の実験的な「/worktree」コマンド、セッション管理機能などを追加した。",
-      "source": "GitHub Changelog",
-      "link": "https://github.blog/changelog/2026-08-07-github-copilot-weekly-releases-august-3/"
-    },
-    {
-      "title": "米ビッグテック株、AI不安後退で反発",
-      "summary": "AI関連投資への過剰懸念から年内低迷していた米大手テック株が、不安後退とともに再び上昇をけん引する展開になっていると報じられた。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-07/big-tech-stocks-storm-back-as-ai-fears-fade-and-euphoria-resumes"
-    },
-    {
-      "title": "ソフトバンク、法人向けAI基盤「AGENTIC STAR」にLLM Gateway機能標準搭載",
-      "summary": "ソフトバンクは7日、法人向けAIエージェント基盤「AGENTIC STAR」SaaS版に、AIコーディングツールとLLMサービスの間でガバナンスを効かせる「LLM Gateway」機能を標準搭載すると発表した。",
-      "source": "AI Watch",
-      "link": "https://ai.watch.impress.co.jp/docs/news/2131486.html"
-    },
-    {
-      "title": "ソフトバンクG 4-6月期、投資利益をけん引したのはOpenAIでもArmでもなくIntel",
-      "summary": "ソフトバンクグループの2027年3月期第1四半期は投資利益1兆8594億円と大幅増益。その主因はOpenAIでも英Armでもなく、出資する米Intelだったことが分かった。",
-      "source": "ITmedia ビジネスオンライン(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/071f7d794efe88d71bb6ba0e085eb477f93b2064"
-    },
-    {
-      "title": "Cloudflare、AIエージェント専用ブラウザ「Kitesurf」を提供開始",
-      "summary": "Cloudflareは、Workers上で動作しRustで書かれた軽量ブラウザ「Kitesurf」をBrowser Runでベータ公開。Chromiumに比べCPU使用量を3〜4倍、メモリ使用量を最大7倍削減しつつ、AIエージェント向けの自動操作に特化した。",
+      "title": "X、クリエイター収益分配プログラムを終了し「オリジナルコンテンツ報酬」制度へ移行",
+      "summary": "Xは8日、既存の収益分配プログラム(Revenue Sharing)を終了し、独自性の高い投稿を評価する新制度「Original Content Rewards Program」へ置き換えると発表。既存参加者は9月7日まで従来制度で収益を得られ、9月8日から新制度への申請受付が始まる。",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/"
+      "link": "https://techcrunch.com/2026/08/08/x-replaces-misaligned-revenue-sharing-program-with-original-content-rewards/"
+    },
+    {
+      "title": "NVIDIA支援のAIファクトリー「Firebird」、アルメニアで稼働開始 総投資額50億ドル規模",
+      "summary": "8日、CIS地域最大級となるAIデータセンター「Firebird」がアルメニア・フラズダンで稼働を開始。NVIDIAのBlackwell/Rubin GPUを2027年末までに7万基超導入予定で、初期投資5億ドル、完成時には総額約50億ドル規模になる見通し。",
+      "source": "NVIDIA Blog",
+      "link": "https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx/"
+    },
+    {
+      "title": "韓国・台湾、AI半導体特需で上半期の輸出額が初めて日本を上回る",
+      "summary": "AI半導体ブームを背景に、2026年上半期の輸出額で韓国(4963億ドル)・台湾(4166億ドル)がそろって初めて日本(3844億ドル)を上回ったと報じられた。両国は半導体完成品の輸出が総輸出の約3割を占める一方、素材・装置に強みを持つ日本は恩恵を十分に取り込めていないという。",
+      "source": "Nikkei Asia",
+      "link": "https://asia.nikkei.com/business/tech/semiconductors/south-korea-taiwan-top-japan-in-exports-for-first-time-on-ai-boom"
     }
   ],
-  "x_trending_tech": [
-    {
-      "title": "Grok公式、「Image 2.0」が画像生成・編集ランキングで世界2位と投稿",
-      "summary": "xAIの公式アカウントが8日昼(日本時間)、新画像モデル「Grok Imagine Image 2.0」がArenaのテキスト画像生成・編集の両部門で世界2位にランクインしたと投稿し話題に。",
-      "source": "@grok",
-      "link": "https://x.com/grok/status/2085931545659949481"
-    },
-    {
-      "title": "Arena.ai、Grok Imagine Image 2.0がText-to-Image Arenaで2位にランクインと投稿",
-      "summary": "AIモデル評価サービスArena.aiが8日午後(日本時間)、xAIの「Grok Imagine Image 2.0(Low)」が同社のランキングで14位から2位へ急上昇したと投稿し注目を集めた。",
-      "source": "@arena",
-      "link": "https://x.com/arena/status/2085951322897998199"
-    }
-  ]
+  "x_trending_tech": []
 }
