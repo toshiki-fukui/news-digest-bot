@@ -1,74 +1,87 @@
 {
-  "run_label": "8/9 19:00",
+  "run_label": "8/10 07:00",
   "politics_economy": [
     {
-      "title": "高市首相、長崎平和祈念式典で挨拶 内閣改造は「現時点で申し上げず」熊本地震対応を強調",
-      "summary": "高市早苗首相は9日、長崎原爆犠牲者慰霊平和祈念式典に出席し「核兵器のない世界の実現に向けた現実的かつ実践的な取組を推進する」と挨拶。式典後の会見では内閣改造・党役員人事の時期について「現時点で申し上げられない」とし、令和8年熊本地震対応に総力を挙げていると強調した。",
+      "title": "JNN世論調査、高市内閣支持率59.2%に下落 食料品消費税1%には賛成52%",
+      "summary": "JNNが8月1〜2日に実施した世論調査で、高市内閣の支持率は前回比6.7ポイント下落の59.2%となり、政権発足後初めて6割を割り込んだ。不支持は37.6%(+6.8)。食料品の消費税を1%に引き下げる首相方針には52%が賛成と回答した。",
+      "source": "TBS NEWS DIG(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/e09c6ac7c6f9781ab046997ecd77b79c8c0ef3ff"
+    },
+    {
+      "title": "政府、熊本地震を「激甚災害」に正式指定 復興へ国の補助率引き上げ",
+      "summary": "政府は令和8年熊本地震を「激甚災害」に指定することを閣議決定。道路や上下水道、公立学校、農地などの復旧事業について国の補助率が通常より引き上げられ、被災自治体の財政負担が軽減される。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUA090E20Z00C26A8000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOUA070FD0X00C26A8000000/"
     },
     {
-      "title": "熊本地震の被災地、9日も厳しい暑さ 政府が熱中症対策呼びかけ",
-      "summary": "最大震度7を観測した令和8年熊本地震の被災地では9日も気温が上昇し、政府や自治体が復旧作業や避難生活における熱中症への警戒を呼びかけている。政府は予備費242億円を活用した物資支援や応急復旧を進めている。",
-      "source": "NHKニュース",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260809de42886"
-    },
-    {
-      "title": "首相人事で旧安倍派重用か 自民「萩生田幹事長」案が浮上、世論反発を警戒",
-      "summary": "近く見込まれる内閣改造・党役員人事をめぐり、自民党内で萩生田光一幹事長代行を幹事長に起用する案が浮上。旧安倍派の存在感が増す一方、重用すれば高市首相が世論の批判を浴びかねないとの見方も出ている。",
-      "source": "北海道新聞(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/d0eac7d0a3fc6dc051db13463b7c419a051d0720"
-    },
-    {
-      "title": "中道改革連合・泉健太氏、立民・公明との3党合流協議で党名変更に反対",
-      "summary": "立憲民主党・公明党との3党合流を巡る協議が8月中の取りまとめを目指して進む中、中道改革連合の泉健太氏は「党名を変えるのはやめてほしい。そんな姑息なことで評価されない」と述べ、拙速な合流論議を批判した。",
-      "source": "ABEMA TIMES(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/83b33acaf84aaa9a4721f718cdd863ad3b74b322"
-    },
-    {
-      "title": "日経平均、来週は堅調な展開か 米利上げ観測の後退が追い風",
-      "summary": "7日発表の米雇用統計が市場予想を下回り米利上げ観測が後退したことを受け、来週(8/10〜14)の日経平均株価は底堅い展開が見込まれるとの見方が示された。AI・半導体関連株への資金回帰も支援材料。",
+      "title": "米雇用統計ショックで円急騰、一時157円台に 米利上げ観測後退",
+      "summary": "7日発表の米7月雇用統計が市場予想を大きく下回り非農業部門雇用者数が減少したことを受け、ニューヨーク外国為替市場で円が急伸し一時1ドル=157円台まで上昇。9月のFOMC利上げ観測が後退し、ドル売りが加速した。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUB065FE0W6A800C2000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOGN07BIZ0X00C26A8000000/"
+    },
+    {
+      "title": "来週の日経平均、堅調も商い細る公算 「山の日」休場・お盆で参加者減少",
+      "summary": "8月10〜14日の週は米利上げ観測後退やAI・半導体株への資金回帰を追い風に日経平均は底堅い展開が見込まれる一方、11日の「山の日」休場やお盆休みの機関投資家が多く、市場参加者が細り短期的な売買が中心になるとみられる。12日発表の米CPIにも注目が集まる。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQODL0903Y0Z00C26A8000000/"
+    },
+    {
+      "title": "今週の決算発表ピーク、楽天グループ・住友鉱・東京海上など244社(8/10〜14)",
+      "summary": "決算発表が集中する時期を迎え、8月10〜14日の週は楽天グループ、住友金属鉱山、東京海上ホールディングス、サンリオなど244銘柄が決算を発表する予定。",
+      "source": "株探ニュース",
+      "link": "https://s.kabutan.jp/news/n202608090062/"
     }
   ],
   "tech": [
     {
-      "title": "Anthropic「Claude Code」、AIが権限確認を代行する「Auto mode」が8月14日からデフォルトに",
-      "summary": "9日付ITmedia AI+によると、AnthropicはコーディングエージェントClaude CodeのAuto modeをPro/Max/Teamプランの新規セッションで標準搭載にすると発表。危険コマンドの検出率は人間の平均13.6%に対しAuto modeは89%で、720件のプロンプトインジェクション評価でも攻撃成功はゼロだったという。",
-      "source": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/09/2000000465/"
+      "title": "Apple、Apple Watch事業の抜本的刷新を検討 円形ディスプレイなど新形状も視野",
+      "summary": "Bloombergのマーク・ガーマン氏によると、Appleはスクリーンレス端末や円形ディスプレイなど、Apple Watchラインの大幅な刷新を検討中。折りたたみiPhoneに匹敵する「時代を変える」変化になり得るとされるが、2026年モデルへの反映はなく処理性能向上にとどまる見通し。",
+      "source": "9to5Mac",
+      "link": "https://9to5mac.com/2026/08/09/apple-watch-revamp-redesign-round-screen/"
     },
     {
-      "title": "OpenAI、AIブラウザ「ChatGPT Atlas」を本日8月9日付で提供終了",
-      "summary": "OpenAIは2025年10月公開の独自ブラウザ「ChatGPT Atlas」を2026年8月9日付で終了。エージェント機能はChatGPT本体とコーディング支援AI「Codex」に統合され、ブックマークや閲覧履歴は自動移行されないため事前のエクスポートが呼びかけられていた。",
-      "source": "Ledge.ai",
-      "link": "https://ledge.ai/articles/openai_chatgpt_atlas_shutdown_desktop_browser"
-    },
-    {
-      "title": "NVIDIA、GPUがストレージを直接読み書きする「cuFile API」をオープンソース化",
-      "summary": "9日付ITmedia PC USERによると、NVIDIAはGPUDirect Storageの中核技術cuFile APIをオープンソース化し、Google・Intel・Metaらとともに開発を推進。あわせてキオクシアとSanDiskがQLC技術と332層積層を用いた第10世代3Dフラッシュメモリを発表したことも伝えられた。",
-      "source": "ITmedia PC USER",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2608/09/news007.html"
-    },
-    {
-      "title": "X、クリエイター収益分配プログラムを終了し「オリジナルコンテンツ報酬」制度へ移行",
-      "summary": "Xは8日、既存の収益分配プログラム(Revenue Sharing)を終了し、独自性の高い投稿を評価する新制度「Original Content Rewards Program」へ置き換えると発表。既存参加者は9月7日まで従来制度で収益を得られ、9月8日から新制度への申請受付が始まる。",
+      "title": "Amazon傘下Zoox、ラスベガスで無人ロボットタクシーの有料サービスを8月10日開始",
+      "summary": "米当局(NHTSA)の適用除外を受け、ハンドル・ペダルを持たない専用設計の自動運転車として米国で初めて有料乗車サービスを開始。運賃はUberXの通常料金より2〜4割高い「コンフォート」帯に設定される。",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/08/x-replaces-misaligned-revenue-sharing-program-with-original-content-rewards/"
+      "link": "https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire/"
     },
     {
-      "title": "NVIDIA支援のAIファクトリー「Firebird」、アルメニアで稼働開始 総投資額50億ドル規模",
-      "summary": "8日、CIS地域最大級となるAIデータセンター「Firebird」がアルメニア・フラズダンで稼働を開始。NVIDIAのBlackwell/Rubin GPUを2027年末までに7万基超導入予定で、初期投資5億ドル、完成時には総額約50億ドル規模になる見通し。",
-      "source": "NVIDIA Blog",
-      "link": "https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx/"
+      "title": "中国、AI関連株にかじ取り 半導体・AI覇権で対米競争が激化",
+      "summary": "中国が国産半導体大手CXMTなどAI関連株への投資を強め、米国とのチップ・技術覇権争いを加速させていると報じられた。米国依存低減を目指す動きが鮮明になっている。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/features/2026-08-09/china-bets-on-ai-stocks-as-it-races-against-us-for-chip-tech-dominance"
     },
     {
-      "title": "韓国・台湾、AI半導体特需で上半期の輸出額が初めて日本を上回る",
-      "summary": "AI半導体ブームを背景に、2026年上半期の輸出額で韓国(4963億ドル)・台湾(4166億ドル)がそろって初めて日本(3844億ドル)を上回ったと報じられた。両国は半導体完成品の輸出が総輸出の約3割を占める一方、素材・装置に強みを持つ日本は恩恵を十分に取り込めていないという。",
-      "source": "Nikkei Asia",
-      "link": "https://asia.nikkei.com/business/tech/semiconductors/south-korea-taiwan-top-japan-in-exports-for-first-time-on-ai-boom"
+      "title": "xAI「Grok Imagine」がミーム生成に対応、マスク氏が新機能を披露",
+      "summary": "Grok Imagine Image 2.0にミーム生成機能が追加され、領域単位の編集や複数画像の合成、テンプレート機能とあわせ、xAIの画像生成ツールがより手軽なコンテンツ作成ツールへと進化した。",
+      "source": "Basenor",
+      "link": "https://www.basenor.com/blogs/news/grok-imagine-image-2-0-5-details-that-matter"
+    },
+    {
+      "title": "OpenAI、プレゼン資料作成AIスタートアップ「NextSlide」を買収",
+      "summary": "OpenAIはプレゼンテーション資料作成に特化したAIスタートアップNextSlideを買収したと発表。同社チームはChatGPTチームに合流し、資料作成機能の強化を進める。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/"
+    },
+    {
+      "title": "OpenAI、Codex/ChatGPT Workの利用制限を再リセット GPT-5.6 Solのトークン効率18%改善",
+      "summary": "OpenAIのTibo Sottiaux氏は、一部ユーザーでGPT-5.6 Solが想定より速くトークンを消費していた問題を受け、効率改善(約18%長持ち)を実施した上でCodexとChatGPT Workの全有料ユーザーの利用制限をリセットしたと発表した。",
+      "source": "Digg",
+      "link": "https://digg.com/tech/mmapzdmy"
     }
   ],
-  "x_trending_tech": []
+  "x_trending_tech": [
+    {
+      "title": "イーロン・マスク氏、「Grok Imagine」のミーム生成対応を投稿で紹介",
+      "summary": "xAIのGrok Imagine Image 2.0にミーム生成機能が加わったことを受け、マスク氏が8/9(現地時間)、サンプル画像とともに新機能を紹介する投稿を行った。",
+      "source": "@elonmusk",
+      "link": "https://x.com/elonmusk/status/2083709924236751300"
+    },
+    {
+      "title": "OpenAIのTibo氏、GPT-5.6 Sol効率化に伴いCodex/ChatGPT Workの利用制限リセットを投稿",
+      "summary": "OpenAI開発者のTibo(Sottiaux)氏が8/9、GPT-5.6 Solのトークン消費が想定より早いとの声を受けた効率改善(約18%長持ち)を説明しつつ、Codex/ChatGPT Work全ユーザーの利用制限をリセットしたと投稿し、開発者コミュニティで話題になった。",
+      "source": "@thsottiaux",
+      "link": "https://x.com/thsottiaux/status/2082317452755751098"
+    }
+  ]
 }
