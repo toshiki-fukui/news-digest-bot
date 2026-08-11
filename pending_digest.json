@@ -1,129 +1,87 @@
 {
-  "run_label": "8/11 19:00",
+  "run_label": "8/12 07:00",
   "politics_economy": [
     {
-      "title": "台風15号、11日夜にも関東上陸へ　空の便中心に交通混乱",
-      "summary": "台風15号(チャンホン)が8月11日夜にかけて関東に上陸する見込みで、羽田・成田両空港では欠航が相次ぐなど交通機関に大きな影響が出ている。東北・関東甲信では24時間で180ミリの大雨が予想され警戒が呼びかけられている。",
-      "source": "tenki.jp(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/c2442d1e4f56de665b0f3b51b46bdf813be46304"
+      "title": "台風15号、茨城県に統計史上初の上陸　異例の進路で東日本を横断",
+      "summary": "台風15号(チャンホン)が8月11日午後8時ごろ、茨城県南部に上陸。1951年の統計開始以来、同県への台風上陸は史上初めて。関東各県で停電やけが人が発生し、12日にかけて東北から西日本で大雨・土砂災害への警戒が続いている。",
+      "source": "ウェザーニュース",
+      "link": "https://weathernews.jp/news/202608/110191/"
     },
     {
-      "title": "熊本地震、被災者生活再建支援法を県全域に適用へ　住宅再建に最大300万円",
-      "summary": "高市首相は8月10日、熊本地震の非常災害対策本部会議で被災者生活再建支援法を熊本県全域に適用する見込みだと発表。住宅が全半壊した世帯に建設・補修・賃借費として最大300万円が支給される。",
-      "source": "時事通信(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/e9199d3bc1eda8dd511adcfe015b9d636afb4071"
+      "title": "円相場、日米協調介入の効果薄れ　1ドル=159円台に逆戻り",
+      "summary": "8月11日のロンドン・NY市場で円相場は1ドル=159円台前半で推移。7月末の日米協調介入直後に進んだ円高の効果が薄れ、再び円安基調に戻りつつあるとの見方が強まっている。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOFL112070R10C26A8000000/"
     },
     {
-      "title": "H3ロケット9号機、打ち上げ成功　「みちびき7号機」を軌道に投入",
-      "summary": "JAXAは8月11日未明、種子島宇宙センターからH3ロケット9号機を打ち上げ、準天頂衛星「みちびき7号機」を予定軌道に投入した。6月の打ち上げに続き2回連続の成功で、基幹ロケットとしての本格復帰を印象づけた。",
-      "source": "朝日新聞(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/5ad4d747e0fd9646f496ce0335e60dff038488a6"
-    },
-    {
-      "title": "円相場、1ドル=159円台で底堅く推移　中東情勢緊迫でドル買い継続",
-      "summary": "8月11日の東京外国為替市場でドル円は159円前後で推移。午前は為替介入への警戒感から円買いが強まる場面もあったが、午後は中東情勢の緊迫化による原油高・米金利高を背景にドル買いが優勢となった。",
-      "source": "財経新聞",
-      "link": "https://www.zaikei.co.jp/article/20260811/865273.html"
-    },
-    {
-      "title": "日銀追加利上げ、9月会合が視野に前倒し　日米協調介入受け",
-      "summary": "日米による協調的な為替介入と日銀高官の発言を受け、金利スワップ市場で日銀の次回利上げ予想が9月会合で4割超、10月会合までには9割超に前倒しで織り込まれつつあるとBloombergが報じた。",
-      "source": "Bloomberg(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/ede17a6c5cfd53538795fc2d0e03d212d5fd4c7e"
+      "title": "熊本地震から2週間、仮設住宅の建設が本格化",
+      "summary": "7月28日発生の熊本地震から2週間となった8月11日、八代市日奈久町などで仮設住宅の建設工事が本格的に始まった。熊本県は3市2町で計209戸を計画するが、被害の全容判明に伴い追加建設の可能性もあるという。",
+      "source": "NHK",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260811de43234"
     }
   ],
   "tech": [
     {
-      "title": "Anthropic、Macquarie・GICと「Theseus」設立　AIデータセンターに巨額投資",
-      "summary": "Anthropicは8月10日、Macquarie Asset ManagementおよびGICと戦略的提携を発表し、AI向けデータセンターを大規模に開発・運営する新会社「Theseus Infrastructure」を設立。Anthropicが主要テナントとして米国内での新拠点開発を進める。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-10/anthropic-macquarie-and-gic-form-venture-for-ai-data-centers"
+      "title": "Anthropicの未公開研究モデル、リーマン予想関連の下限値を大幅更新",
+      "summary": "Anthropicは8月10〜11日、約60体のサブエージェント群を1日半動かした未公開の研究版Claudeが、リーマンゼータ関数の零点に関する160年来の下限値を41.6%から67.2%に押し上げたと発表。数学者による査読とLean形式の検証済み証明も添えられた。",
+      "source": "Anthropic公式研究ブログ",
+      "link": "https://www.anthropic.com/research/riemann-zeta"
     },
     {
-      "title": "サイバー防御特化のAIスタートアップCorma、Sequoia主導で6000万ドル調達",
-      "summary": "イスラエル・Unit8200出身者らが2025年に設立したCormaが、Sequoia Capital主導、Khosla Ventures・Coatue参加の6000万ドルのシード資金を調達したと8月10日に発表。防御特化のAIモデルでフォーチュン500企業の脅威対応時間を9割超短縮したという。",
-      "source": "Fortune",
-      "link": "https://fortune.com/2026/08/10/exclusive-corma-raises-60-million-from-sequoia-for-ai-trained-to-defend-against-cyberattacks/"
+      "title": "OpenAI COOブラッド・ライトキャップ氏が退任、新事業立ち上げへ",
+      "summary": "OpenAIの最高執行責任者ブラッド・ライトキャップ氏が8月11日、退任を発表。2018年入社で営業組織を50人から700人超に拡大した人物で、数週間は在籍を続けAIの次のフェーズに関わる新事業を近く始めるとしている。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/"
     },
     {
-      "title": "中国AgiBot、上半期のヒューマノイド出荷で世界首位に　Unitreeを逆転",
-      "summary": "上海拠点のAgiBotが2026年上半期に約8400台のヒューマノイドロボットを出荷し世界シェア44%を獲得、Unitree Robotics(約5900台・シェア31%)を抜いて世界首位となった。中国メーカー全体で世界出荷の97%超を占める。",
-      "source": "TechNode",
-      "link": "https://technode.com/2026/08/11/chinese-makers-accounted-for-more-than-97-of-global-humanoid-robot-shipments-in-h1-2026/"
+      "title": "元xAI共同創業者のRiver AI、11億ドルを調達し評価額約50億ドルに",
+      "summary": "xAI共同創業者イゴール・バブシュキン氏が設立した設立2カ月のスタートアップRiver AIが、General CatalystとAmp PBC主導で11億ドルを調達したと8月11日発表。NVIDIAやAMD Venturesも参加し、企業向けAIモデルの安価な訓練・展開インフラを提供する。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/"
     },
     {
-      "title": "ソニーとTSMC、熊本に次世代イメージセンサー合弁工場　総投資額約1兆円",
-      "summary": "ソニーセミコンダクタソリューションズとTSMCが、熊本県の既存拠点に次世代イメージセンサーの合弁工場を新設すると発表。総投資額は約1兆円(63億ドル)で、ソニーが約6割、TSMCが約4割を出資し2029年の量産開始を目指す。",
-      "source": "Reuters(Investing.com)",
-      "link": "https://www.investing.com/news/stock-market-news/sony-tsmc-to-spend-63-billion-to-jointly-make-image-sensors-nikkei-says-4847807"
+      "title": "CoreWeave、第2四半期決算で受注残高1040億ドルに拡大",
+      "summary": "AIクラウド大手CoreWeaveが8月11日(米東部時間、市場引け後)に発表した第2四半期決算は、売上高25億7500万ドル(前年比112%増)、受注残高1040億ドル。7月に確保した25億ドル超の新規契約は含まれておらず、株価は時間外で急伸した。",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/08/11/coreweave-crwv-q2-earnings-report-2026.html"
     },
     {
-      "title": "韓国政府、5兆ウォン規模の半導体ファンド新設へ　素材・部品・ファブレス支援",
-      "summary": "韓国政府は8月10日、半導体材料・部品・装置・ファブレス企業向けに5兆ウォン(約35億2000万ドル)規模の新ファンドを立ち上げると発表。輸出企業向けに別途5兆ウォンの貿易金融も提供し、李在明政権の半導体メガプロジェクトを加速させる。",
-      "source": "Reuters(Gulf Times)",
-      "link": "https://www.gulf-times.com/article/730817/business/republic-of-korea-to-launch-35bn-chip-fund-speed-development-of-semiconductor-hubs"
+      "title": "Supermicro、第4四半期決算で新規受注600億ドル超　来期見通しも上振れ",
+      "summary": "サーバーメーカーSuper Micro Computerが8月11日(米東部時間)に発表した2026会計年度第4四半期決算は、粗利益率17.5%、新規受注600億ドル超と好調。2027会計年度売上見通しも市場予想を上回り、株価は8%超上昇した。",
+      "source": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/technology/article/supermicro-tops-q4-sales-expectations-offers-strong-q1-guidance-stock-jumps-210004983.html"
     },
     {
-      "title": "Google、8月12日「Made by Google」開幕へ　Pixel 11シリーズ発表予定",
-      "summary": "Googleは8月12日、ニューヨークでハードウェア発表イベント「Made by Google」を開催し、Pixel 11・11 Pro・11 Pro Fold、Pixel Watch 5などを発表する見通し。司会はトレバー・ノア氏が務める。",
-      "source": "Android Central",
-      "link": "https://www.androidcentral.com/phones/google-pixel/how-to-watch-made-by-google-pixel-11-launch-event-live"
-    },
-    {
-      "title": "Apple、20周年iPhoneの「ガラス中心」デザインは計画通り　Gurman氏報道",
-      "summary": "BloombergのMark Gurman氏は8月10日、iPhone発売20周年にあたる2027年モデルについて、前面・背面をガラスで包む「ガラス中心」デザインが計画通り進行中だと報じた。開発中止説を否定する内容。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-11/apple-s-glass-centric-20th-anniversary-iphone-remains-on-track-for-2027"
-    },
-    {
-      "title": "Microsoft、OpenAI関連売上が2026年度に241億ドル　AI売上の7割占める",
-      "summary": "Microsoftの開示によると、2026年度のOpenAI関連売上は241億ドルに達し、同社AI事業売上の約7割を占めた。OpenAIはマルチクラウド戦略を進めるが、依然Microsoftにとって最重要パートナーの一つであることが浮き彫りになった。",
+      "title": "Microsoft、8月のWindows 11月例更新で421件の脆弱性を修正",
+      "summary": "Microsoftが8月11日(現地時間)に公開したWindows 11向け月例セキュリティ更新「KB5121003」等で、421件の脆弱性(うち62件がクリティカル)を修正。タッチパッドジェスチャーやCopilot+ PCでのAIモデルアンインストール機能など新機能も追加された。",
       "source": "Neowin",
-      "link": "https://www.neowin.net/news/microsoft-reveals-it-generated-241-billion-in-revenue-from-openai-in-fiscal-2026/"
-    },
-    {
-      "title": "AIエージェントが4G/5Gコアソフトに84件の脆弱性発見　23件は未修正",
-      "summary": "南洋理工大学の研究チームが独自開発のAIエージェント「iFinder」を使い、Open5GSやOpenAirInterfaceなど主要な4G/5Gコア実装から84件の未報告脆弱性を発見。セッションハイジャックにつながる深刻な欠陥も含まれ、23件は8月11日時点で未修正だという。",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/08/11/5g-core-network-vulnerabilities-research/"
-    },
-    {
-      "title": "Anthropic、Claudeの生成テキストに不可視の電子透かしを全面導入",
-      "summary": "Anthropicは8月11日、Claudeが生成するテキストに不可視の電子透かしを埋め込む機能を発表。コピー&ペースト後も残る仕組みで、EU AI法の透明性要件への対応が背景。画像などのファイルにはC2PA準拠のメタデータも付与される。",
-      "source": "BigGo Finance Japan",
-      "link": "https://finance.biggo.jp/news/46bade05-92e9-4b0f-8436-36ba7566a38f"
+      "link": "https://www.neowin.net/news/windows-11-kb5121003-kb5120240-and-kb5121000-patch-tuesday-updates-are-now-available/"
     }
   ],
   "x_trending_tech": [
     {
-      "title": "高市首相、H3ロケット9号機の打ち上げ成功を報告",
-      "summary": "高市早苗首相が種子島宇宙センターからのH3ロケット9号機打ち上げ成功と「みちびき7号機」の軌道投入を報告し、関係者への謝意を投稿。6月に続く連続成功。8/11未明(JST)の投稿。",
-      "source": "@takaichi_sanae",
-      "link": "https://x.com/takaichi_sanae/status/2086944631359693225"
+      "title": "Google GeminiアプリがMAU10億人突破",
+      "summary": "Sundar Pichai CEOが8/12未明(JST)、GeminiアプリのMAUが10億人を突破し、Google史上最速成長かつ14番目の10億ユーザー到達プロダクトになったと投稿。",
+      "source": "@sundarpichai",
+      "link": "https://x.com/sundarpichai/status/2087222656819241292"
     },
     {
-      "title": "Anthropic、Claudeに不可視の電子透かしを導入と話題に",
-      "summary": "AnthropicがClaudeの生成テキストに不可視の電子透かしを実装したと発表したことを受け、コピー&ペースト後も検出可能な仕組みを解説する投稿が拡散。8/11朝(JST)の投稿。",
-      "source": "@dr_cintas",
-      "link": "https://x.com/dr_cintas/status/2086943065135079796"
+      "title": "xAIが常時稼働型AIエージェント「Grok Bot」ベータ公開を発表",
+      "summary": "xAI公式アカウントが8/12未明(JST)、ツールに自動ログインして作業を代行する常時稼働AIエージェント「Grok Bot」のベータ公開を投稿。SuperGrok HeavyやCursor Ultra等のサブスクライバー向け。",
+      "source": "@bot",
+      "link": "https://x.com/bot/status/2087224798078517251"
     },
     {
-      "title": "NVIDIA CEO、5000億ドルのAIインフラ融資構想についてポスト",
-      "summary": "NVIDIAのジェンスン・フアンCEOが、Apollo・BlackRock・Blackstoneなどとの提携による5000億ドル規模のAIインフラ資金調達構想について、自社の計算資源を「投資可能なインフラ資産」と位置づける投稿。8/11朝(JST)の投稿。",
-      "source": "@JensenHuang",
-      "link": "https://x.com/JensenHuang/status/2086934705207959965"
+      "title": "NVIDIA、軽量オープンモデル「Nemotron 3.5 Lightning」を発表",
+      "summary": "NVIDIA公式AIアカウントが8/11夜(JST)、常時稼働エージェント向けの効率的なオープンウェイトモデル「Nemotron 3.5 Lightning」(30B MoE、アクティブ3Bパラメータ)を投稿で発表。",
+      "source": "@NVIDIAAI",
+      "link": "https://x.com/NVIDIAAI/status/2087162151995629926"
     },
     {
-      "title": "防御特化サイバーAI「Corma」の6000万ドル調達をFortuneが速報",
-      "summary": "Fortune誌が、防御特化型サイバーセキュリティAIを手掛けるCormaがSequoia Capital主導で6000万ドルのシード資金を調達したことをステルス脱却のスクープとして投稿。8/11未明(JST)の投稿。",
-      "source": "@FortuneMagazine",
-      "link": "https://x.com/FortuneMagazine/status/2086875299329839404"
-    },
-    {
-      "title": "Bloomberg記者Gurman氏、iPhone20周年モデルのガラスデザインを解説",
-      "summary": "Bloomberg記者Mark Gurman氏が、2027年発売予定のiPhone20周年モデルについて前面・背面をガラスで覆う新デザイン(社内コード「V73/V74」)を採用予定と投稿。8/11朝(JST)の投稿。",
-      "source": "@markgurman",
-      "link": "https://x.com/markgurman/status/2086990588688368079"
+      "title": "オープンウェイト動画生成モデル「LTX-2.5」公開で話題に",
+      "summary": "VentureBeatが8/11夜(JST)、Lightricks発のオープンウェイト動画生成モデル「LTX-2.5」公開を投稿で紹介。画像から10秒動画をNVIDIA製チップ上で6.8秒生成できる性能が注目を集めている。",
+      "source": "@VentureBeat",
+      "link": "https://x.com/VentureBeat/status/2087162439083196421"
     }
   ]
 }
