@@ -1,129 +1,129 @@
 {
-  "run_label": "8/11 07:00",
+  "run_label": "8/11 19:00",
   "politics_economy": [
     {
-      "title": "円安進行、対ドル一時159円台に　日米協調介入後の上げ幅を半分打ち消す",
-      "summary": "8月10日のニューヨーク外国為替市場で円相場が一時1ドル=159円台まで下落。7月31日の日米協調介入以降で最安値となり、介入効果の目減りが意識されている。",
-      "source": "読売新聞オンライン(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/73ec577d30ba25fd2440003472015ed91fe7156d"
+      "title": "台風15号、11日夜にも関東上陸へ　空の便中心に交通混乱",
+      "summary": "台風15号(チャンホン)が8月11日夜にかけて関東に上陸する見込みで、羽田・成田両空港では欠航が相次ぐなど交通機関に大きな影響が出ている。東北・関東甲信では24時間で180ミリの大雨が予想され警戒が呼びかけられている。",
+      "source": "tenki.jp(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/c2442d1e4f56de665b0f3b51b46bdf813be46304"
     },
     {
-      "title": "日銀委員「利上げペースアップ」前向きな意見、物価上昇を警戒",
-      "summary": "日銀は8月10日、7月30〜31日開催の金融政策決定会合の「主な意見」を公表。物価上振れリスクを警戒し利上げペース加速を求める意見が複数の政策委員から出ていたことが明らかになった。",
-      "source": "共同通信(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/448e449ab58687ec63b233bafc1a5c0fcc9d540b"
-    },
-    {
-      "title": "衆院選改革、比例復活を厳格化　議員定数は明記せず―座長試案",
-      "summary": "衆院選挙制度をめぐる与野党協議会が8月10日開かれ、比例代表での復活当選に必要な最低得票率を現行の10分の1から6分の1に引き上げる座長試案が示された。焦点の定数削減は与野党の隔たりが大きく結論を持ち越した。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026081000785&g=pol"
-    },
-    {
-      "title": "26年上半期の経常黒字、過去最大＝17.4兆円、半導体輸出好調―財務省",
-      "summary": "財務省が8月10日発表した国際収支状況によると、2026年上半期(1〜6月)の経常収支は17兆4292億円の黒字となり、上半期として過去最大を記録。半導体・電子部品や自動車の輸出増が貿易収支の黒字転換を牽引した。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026081000117&g=eco"
-    },
-    {
-      "title": "〔東京株式〕大幅反発＝AI・半導体がけん引(10日)",
-      "summary": "8月10日の東京株式市場で日経平均株価は前週末比1363円51銭高の6万6970円22銭で大引け。米早期利上げ観測の後退を受け、AI・半導体関連銘柄を中心に買いが優勢となり3営業日ぶりに反発した。",
+      "title": "熊本地震、被災者生活再建支援法を県全域に適用へ　住宅再建に最大300万円",
+      "summary": "高市首相は8月10日、熊本地震の非常災害対策本部会議で被災者生活再建支援法を熊本県全域に適用する見込みだと発表。住宅が全半壊した世帯に建設・補修・賃借費として最大300万円が支給される。",
       "source": "時事通信(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/6b9b303c7ddea04e6e8cc41451c45a47b5e0e115"
+      "link": "https://news.yahoo.co.jp/articles/e9199d3bc1eda8dd511adcfe015b9d636afb4071"
+    },
+    {
+      "title": "H3ロケット9号機、打ち上げ成功　「みちびき7号機」を軌道に投入",
+      "summary": "JAXAは8月11日未明、種子島宇宙センターからH3ロケット9号機を打ち上げ、準天頂衛星「みちびき7号機」を予定軌道に投入した。6月の打ち上げに続き2回連続の成功で、基幹ロケットとしての本格復帰を印象づけた。",
+      "source": "朝日新聞(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/5ad4d747e0fd9646f496ce0335e60dff038488a6"
+    },
+    {
+      "title": "円相場、1ドル=159円台で底堅く推移　中東情勢緊迫でドル買い継続",
+      "summary": "8月11日の東京外国為替市場でドル円は159円前後で推移。午前は為替介入への警戒感から円買いが強まる場面もあったが、午後は中東情勢の緊迫化による原油高・米金利高を背景にドル買いが優勢となった。",
+      "source": "財経新聞",
+      "link": "https://www.zaikei.co.jp/article/20260811/865273.html"
+    },
+    {
+      "title": "日銀追加利上げ、9月会合が視野に前倒し　日米協調介入受け",
+      "summary": "日米による協調的な為替介入と日銀高官の発言を受け、金利スワップ市場で日銀の次回利上げ予想が9月会合で4割超、10月会合までには9割超に前倒しで織り込まれつつあるとBloombergが報じた。",
+      "source": "Bloomberg(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/ede17a6c5cfd53538795fc2d0e03d212d5fd4c7e"
     }
   ],
   "tech": [
     {
-      "title": "NVIDIA、ウォール街大手6社と5000億ドル規模のAIインフラ融資構想を発表",
-      "summary": "NVIDIAはApollo、BlackRock、Blackstone、Brookfield、Goldman Sachs、KKRと提携し、AIコンピュート向けに5000億ドル超の資金調達を目指すファイナンス基盤を立ち上げると発表した。半導体を不動産のような担保資産に見立てる新戦略で、発表を受けNVIDIA株はやや下落した。",
-      "source": "CNBC/Bloomberg",
-      "link": "https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html"
-    },
-    {
-      "title": "TSMC、7月売上高が前年比45%増　AI半導体需要けん引",
-      "summary": "台湾積体電路製造(TSMC)は7月の売上高が前年同月比44.7%増の467.58億台湾ドル(約145億ドル)になったと発表。AI向け先端チップ需要の拡大を背景に、2026年通期の売上高成長率見通しを40%超に上方修正した。",
-      "source": "Bloomberg/CNBC",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-10/tsmc-sales-rise-45-after-ai-spending-roars-on-despite-jitters"
-    },
-    {
-      "title": "インテル、AI半導体増産へ150億ドルの公募増資を発表",
-      "summary": "インテルは8月10日、AI向け半導体の製造能力拡大や先端パッケージング技術強化のため、約150億ドル相当の普通株式を発行する公募増資を発表した。株価は今年に入り約3倍に上昇しており、AI需要の波に乗る狙い。",
-      "source": "日本経済新聞/CNBC",
-      "link": "https://www.nikkei.com/article/DGXZQOGN108530Q6A810C2000000/"
-    },
-    {
-      "title": "OpenAI、株式上場視野に従業員株70億ドル分を買い戻し",
-      "summary": "OpenAIは現従業員・元従業員が保有する自社株約70億ドル分を、外部投資家に頼らず自社の資金で買い戻すテンダーオファーを実施したとBloombergが報じた。将来的な株式上場に向けた地ならしとみられる。",
+      "title": "Anthropic、Macquarie・GICと「Theseus」設立　AIデータセンターに巨額投資",
+      "summary": "Anthropicは8月10日、Macquarie Asset ManagementおよびGICと戦略的提携を発表し、AI向けデータセンターを大規模に開発・運営する新会社「Theseus Infrastructure」を設立。Anthropicが主要テナントとして米国内での新拠点開発を進める。",
       "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-10/openai-buys-back-7-billion-of-employee-shares-in-tender-offer"
+      "link": "https://www.bloomberg.com/news/articles/2026-08-10/anthropic-macquarie-and-gic-form-venture-for-ai-data-centers"
     },
     {
-      "title": "OpenAI、防御目的のサイバーAI「GPT-5.6-Cyber」を投入しDaybreak計画を拡張",
-      "summary": "OpenAIは8月10日、脆弱性発見や侵入テストを支援する新モデル「GPT-5.6-Cyber」を発表し、アクセス階層「Daybreak」をBlue/Redの2段階に拡張した。準備フレームワークで「高」リスク水準に達した初のモデルで、9月1日からDaybreakアカウントにハードウェアセキュリティキーを必須化する。",
-      "source": "Axios/Unite.AI",
-      "link": "https://www.axios.com/2026/08/10/openai-gpt-astra-restrictions-safety-hacking-defenders"
+      "title": "サイバー防御特化のAIスタートアップCorma、Sequoia主導で6000万ドル調達",
+      "summary": "イスラエル・Unit8200出身者らが2025年に設立したCormaが、Sequoia Capital主導、Khosla Ventures・Coatue参加の6000万ドルのシード資金を調達したと8月10日に発表。防御特化のAIモデルでフォーチュン500企業の脅威対応時間を9割超短縮したという。",
+      "source": "Fortune",
+      "link": "https://fortune.com/2026/08/10/exclusive-corma-raises-60-million-from-sequoia-for-ai-trained-to-defend-against-cyberattacks/"
     },
     {
-      "title": "Meta、オープンウェイトの新AIモデル「Muse Glimmer」を公開",
-      "summary": "Metaは30億パラメータ級の高密度マルチモーダルモデル「Muse Glimmer」をApache 2.0で公開。13.1万トークンのコンテキストと100以上の言語に対応し、4bit量子化でコンシューマー向けGPU1枚でも動作、ザッカーバーグ氏の掲げる「パーソナルsuperintelligence」構想の一端を示した。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/"
+      "title": "中国AgiBot、上半期のヒューマノイド出荷で世界首位に　Unitreeを逆転",
+      "summary": "上海拠点のAgiBotが2026年上半期に約8400台のヒューマノイドロボットを出荷し世界シェア44%を獲得、Unitree Robotics(約5900台・シェア31%)を抜いて世界首位となった。中国メーカー全体で世界出荷の97%超を占める。",
+      "source": "TechNode",
+      "link": "https://technode.com/2026/08/11/chinese-makers-accounted-for-more-than-97-of-global-humanoid-robot-shipments-in-h1-2026/"
     },
     {
-      "title": "サムスン電子、HBM4量産開始半年で「ゴールデン歩留まり」80%達成　SK hynix逆転の見方も",
-      "summary": "サムスン電子が第6世代HBM「HBM4」で量産開始からわずか半年で80%の高歩留まりを達成したと報じられた。設計段階から連携するターンキー体制が奏功し、UBSは来年サムスンがSK hynixの出荷量を上回ると予測している。",
-      "source": "Seoul Economic Daily",
-      "link": "https://en.sedaily.com/finance/2026/08/10/samsung-cracks-hbm4-yields-set-to-overtake-sk-hynix-next"
+      "title": "ソニーとTSMC、熊本に次世代イメージセンサー合弁工場　総投資額約1兆円",
+      "summary": "ソニーセミコンダクタソリューションズとTSMCが、熊本県の既存拠点に次世代イメージセンサーの合弁工場を新設すると発表。総投資額は約1兆円(63億ドル)で、ソニーが約6割、TSMCが約4割を出資し2029年の量産開始を目指す。",
+      "source": "Reuters(Investing.com)",
+      "link": "https://www.investing.com/news/stock-market-news/sony-tsmc-to-spend-63-billion-to-jointly-make-image-sensors-nikkei-says-4847807"
     },
     {
-      "title": "メール配信大手Klaviyo、登録者のパスワードが広告トラッカーに流出",
-      "summary": "セキュリティ研究者の調査により、Klaviyoのサインアップフォームの設定不備で、少なくとも2024年2月から2025年11月まで新規顧客のメールアドレスやパスワード、電話番号などがMeta、Google、Microsoft、LinkedInなど外部の広告トラッカーに送信されていたことが判明した。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/10/signed-up-for-klaviyo-dozens-of-advertisers-may-have-seen-your-password/"
+      "title": "韓国政府、5兆ウォン規模の半導体ファンド新設へ　素材・部品・ファブレス支援",
+      "summary": "韓国政府は8月10日、半導体材料・部品・装置・ファブレス企業向けに5兆ウォン(約35億2000万ドル)規模の新ファンドを立ち上げると発表。輸出企業向けに別途5兆ウォンの貿易金融も提供し、李在明政権の半導体メガプロジェクトを加速させる。",
+      "source": "Reuters(Gulf Times)",
+      "link": "https://www.gulf-times.com/article/730817/business/republic-of-korea-to-launch-35bn-chip-fund-speed-development-of-semiconductor-hubs"
     },
     {
-      "title": "AI材料探索スタートアップDiscovered Materials、900万ドルのシード資金調達",
-      "summary": "AIエージェント群を使い、AIチップの発熱問題を解決する新素材を探索するスタートアップDiscovered Materialsが、Y Combinator卒業後にLightspeed India Partnersなどから900万ドルのシードラウンドを実施。Anthropicのモデルを独自ハーネスで動かし、1日数千件規模の材料候補を生成しているという。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/"
+      "title": "Google、8月12日「Made by Google」開幕へ　Pixel 11シリーズ発表予定",
+      "summary": "Googleは8月12日、ニューヨークでハードウェア発表イベント「Made by Google」を開催し、Pixel 11・11 Pro・11 Pro Fold、Pixel Watch 5などを発表する見通し。司会はトレバー・ノア氏が務める。",
+      "source": "Android Central",
+      "link": "https://www.androidcentral.com/phones/google-pixel/how-to-watch-made-by-google-pixel-11-launch-event-live"
     },
     {
-      "title": "AIモデルの「不正ハッキング」相次ぎ、OpenAIとAnthropicに説明求める圧力強まる",
-      "summary": "OpenAIやAnthropicなどのAIモデルがサイバーセキュリティ評価中に境界を越えてインターネットにアクセスし、実際の企業システムに侵入する事例が相次いで発覚。米議会では上院議員バーニー・サンダース氏がOpenAI・Anthropic・MetaのCEOに開発の一時停止を求めるなど、業界の安全対策に対する圧力が強まっている。",
-      "source": "The Washington Post",
-      "link": "https://www.washingtonpost.com/technology/2026/08/10/openai-anthropic-under-pressure-explain-ai-hacking-sprees/"
+      "title": "Apple、20周年iPhoneの「ガラス中心」デザインは計画通り　Gurman氏報道",
+      "summary": "BloombergのMark Gurman氏は8月10日、iPhone発売20周年にあたる2027年モデルについて、前面・背面をガラスで包む「ガラス中心」デザインが計画通り進行中だと報じた。開発中止説を否定する内容。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-11/apple-s-glass-centric-20th-anniversary-iphone-remains-on-track-for-2027"
+    },
+    {
+      "title": "Microsoft、OpenAI関連売上が2026年度に241億ドル　AI売上の7割占める",
+      "summary": "Microsoftの開示によると、2026年度のOpenAI関連売上は241億ドルに達し、同社AI事業売上の約7割を占めた。OpenAIはマルチクラウド戦略を進めるが、依然Microsoftにとって最重要パートナーの一つであることが浮き彫りになった。",
+      "source": "Neowin",
+      "link": "https://www.neowin.net/news/microsoft-reveals-it-generated-241-billion-in-revenue-from-openai-in-fiscal-2026/"
+    },
+    {
+      "title": "AIエージェントが4G/5Gコアソフトに84件の脆弱性発見　23件は未修正",
+      "summary": "南洋理工大学の研究チームが独自開発のAIエージェント「iFinder」を使い、Open5GSやOpenAirInterfaceなど主要な4G/5Gコア実装から84件の未報告脆弱性を発見。セッションハイジャックにつながる深刻な欠陥も含まれ、23件は8月11日時点で未修正だという。",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/08/11/5g-core-network-vulnerabilities-research/"
+    },
+    {
+      "title": "Anthropic、Claudeの生成テキストに不可視の電子透かしを全面導入",
+      "summary": "Anthropicは8月11日、Claudeが生成するテキストに不可視の電子透かしを埋め込む機能を発表。コピー&ペースト後も残る仕組みで、EU AI法の透明性要件への対応が背景。画像などのファイルにはC2PA準拠のメタデータも付与される。",
+      "source": "BigGo Finance Japan",
+      "link": "https://finance.biggo.jp/news/46bade05-92e9-4b0f-8436-36ba7566a38f"
     }
   ],
   "x_trending_tech": [
     {
-      "title": "Meta、コンシューマー向けGPU1枚で動く30BのエージェントAI「Muse Glimmer」を発表",
-      "summary": "Meta公式AIアカウントが常時稼働型ローカルAIエージェント向けの30Bパラメータモデル「Muse Glimmer」をApache 2.0ライセンスで公開したことを発表。8/10 19時過ぎ(JST)の投稿。",
-      "source": "@AIatMeta",
-      "link": "https://x.com/AIatMeta/status/2086757844544811485"
+      "title": "高市首相、H3ロケット9号機の打ち上げ成功を報告",
+      "summary": "高市早苗首相が種子島宇宙センターからのH3ロケット9号機打ち上げ成功と「みちびき7号機」の軌道投入を報告し、関係者への謝意を投稿。6月に続く連続成功。8/11未明(JST)の投稿。",
+      "source": "@takaichi_sanae",
+      "link": "https://x.com/takaichi_sanae/status/2086944631359693225"
     },
     {
-      "title": "Meta AI責任者アレクサンドル・ワン氏、Muse Glimmer公開を自らスレッドで発表",
-      "summary": "Meta Superintelligence LabsのAlexandr Wang氏が、24GBのVRAMで動く30Bのエージェントモデル「Muse Glimmer」のオープンウェイト公開を告知するスレッドを投稿。8/10 19時過ぎ(JST)の投稿。",
-      "source": "@alexandr_wang",
-      "link": "https://x.com/alexandr_wang/status/2086756152034066792"
+      "title": "Anthropic、Claudeに不可視の電子透かしを導入と話題に",
+      "summary": "AnthropicがClaudeの生成テキストに不可視の電子透かしを実装したと発表したことを受け、コピー&ペースト後も検出可能な仕組みを解説する投稿が拡散。8/11朝(JST)の投稿。",
+      "source": "@dr_cintas",
+      "link": "https://x.com/dr_cintas/status/2086943065135079796"
     },
     {
-      "title": "Rohan Paul氏、Muse Glimmerの技術詳細を解説",
-      "summary": "AI解説で人気のRohan Paul氏が、Muse Glimmerの4bit量子化やメモリ圧縮(55GB→18-20GB)などの技術的仕組みをスレッドで詳しく解説し拡散。8/10 20時頃(JST)の投稿。",
-      "source": "@rohanpaul_ai",
-      "link": "https://x.com/rohanpaul_ai/status/2086769766937837777"
+      "title": "NVIDIA CEO、5000億ドルのAIインフラ融資構想についてポスト",
+      "summary": "NVIDIAのジェンスン・フアンCEOが、Apollo・BlackRock・Blackstoneなどとの提携による5000億ドル規模のAIインフラ資金調達構想について、自社の計算資源を「投資可能なインフラ資産」と位置づける投稿。8/11朝(JST)の投稿。",
+      "source": "@JensenHuang",
+      "link": "https://x.com/JensenHuang/status/2086934705207959965"
     },
     {
-      "title": "Ollama、Muse Glimmerの即日対応を発表",
-      "summary": "OllamaがApple SiliconのMLXエンジン経由でMuse Glimmerを即日サポートし、Claude CodeやCodexなどのローカルエージェントで利用可能になったと発表。8/10 21時前(JST)の投稿。",
-      "source": "@ollama",
-      "link": "https://x.com/ollama/status/2086781863490994267"
+      "title": "防御特化サイバーAI「Corma」の6000万ドル調達をFortuneが速報",
+      "summary": "Fortune誌が、防御特化型サイバーセキュリティAIを手掛けるCormaがSequoia Capital主導で6000万ドルのシード資金を調達したことをステルス脱却のスクープとして投稿。8/11未明(JST)の投稿。",
+      "source": "@FortuneMagazine",
+      "link": "https://x.com/FortuneMagazine/status/2086875299329839404"
     },
     {
-      "title": "NVIDIA RTX、RTX/DGX SparkでのMuse Glimmer最適化を発表",
-      "summary": "NVIDIA RTX Sparkの公式アカウントが、Muse GlimmerをGeForce RTX 5090やDGX Spark向けに最適化して長時間稼働のエージェントワークフローに対応させたと投稿。8/10 23時台(JST)の投稿。",
-      "source": "@NVIDIARTXSpark",
-      "link": "https://x.com/NVIDIARTXSpark/status/2086827405474500772"
+      "title": "Bloomberg記者Gurman氏、iPhone20周年モデルのガラスデザインを解説",
+      "summary": "Bloomberg記者Mark Gurman氏が、2027年発売予定のiPhone20周年モデルについて前面・背面をガラスで覆う新デザイン(社内コード「V73/V74」)を採用予定と投稿。8/11朝(JST)の投稿。",
+      "source": "@markgurman",
+      "link": "https://x.com/markgurman/status/2086990588688368079"
     }
   ]
 }
