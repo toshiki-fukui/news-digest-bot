@@ -1,87 +1,117 @@
 {
-  "run_label": "8/12 07:00",
+  "run_label": "8/12 19:00",
   "politics_economy": [
     {
-      "title": "台風15号、茨城県に統計史上初の上陸　異例の進路で東日本を横断",
-      "summary": "台風15号(チャンホン)が8月11日午後8時ごろ、茨城県南部に上陸。1951年の統計開始以来、同県への台風上陸は史上初めて。関東各県で停電やけが人が発生し、12日にかけて東北から西日本で大雨・土砂災害への警戒が続いている。",
-      "source": "ウェザーニュース",
-      "link": "https://weathernews.jp/news/202608/110191/"
-    },
-    {
-      "title": "円相場、日米協調介入の効果薄れ　1ドル=159円台に逆戻り",
-      "summary": "8月11日のロンドン・NY市場で円相場は1ドル=159円台前半で推移。7月末の日米協調介入直後に進んだ円高の効果が薄れ、再び円安基調に戻りつつあるとの見方が強まっている。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOFL112070R10C26A8000000/"
-    },
-    {
-      "title": "熊本地震から2週間、仮設住宅の建設が本格化",
-      "summary": "7月28日発生の熊本地震から2週間となった8月11日、八代市日奈久町などで仮設住宅の建設工事が本格的に始まった。熊本県は3市2町で計209戸を計画するが、被害の全容判明に伴い追加建設の可能性もあるという。",
+      "title": "北朝鮮、日本海に向け弾道ミサイル発射 EEZ外に落下",
+      "summary": "8月12日午前5時59分ごろ、北朝鮮東岸付近から弾道ミサイル1発が東方向に発射され、日本海の排他的経済水域(EEZ)外に落下したとみられる。最高高度は約90km、飛距離は約690km。内閣官房・防衛省は航空機や船舶への被害報告はないとしている。",
       "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260811de43234"
+      "link": "https://news.web.nhk/newsweb/na/nd-20260812de43345"
+    },
+    {
+      "title": "日経平均553円高、TOPIXも最高値 米関税15%確定・円安を好感",
+      "summary": "8月12日の東京株式市場で日経平均株価は前日比553.84円高の6万7524.06円と続伸して取引を終えた。日米相互関税が上乗せなしの15%で確定し不透明感が払拭されたことや、1ドル=159円台の円安進行を市場が好感した。",
+      "source": "Yahoo!ファイナンス(ウエルスアドバイザー)",
+      "link": "https://finance.yahoo.co.jp/news/detail/847c6e1718971118fa1345307a447ee72cba1439"
+    },
+    {
+      "title": "熊本県天草・芦北地方でM4.9の地震、震度4 熊本地震の余震続く",
+      "summary": "8月12日午後1時5分ごろ、熊本県天草・芦北地方を震源とするM4.9の地震が発生し、熊本・長崎両県で最大震度4を観測した。津波の心配はないが、7月28日発生の令和8年熊本地震以降、活発な地震活動が続いている。",
+      "source": "NHK",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260812de43409"
+    },
+    {
+      "title": "台風15号、熱帯低気圧に 関東各地で倒木被害相次ぐ",
+      "summary": "11日夜に茨城県へ統計史上初めて上陸した台風15号は、12日午前9時に熱帯低気圧へ変わった。強風による転倒でけが人が出たほか、関東各地で倒木被害が相次ぎ、茨城県内では道路4区間が通行止めとなった。",
+      "source": "livedoor NEWS",
+      "link": "https://news.livedoor.com/topics/detail/32045922/"
+    },
+    {
+      "title": "元経団連会長・元トヨタ社長の奥田碩氏死去、93歳",
+      "summary": "トヨタ自動車の社長・会長を務め、プリウスのハイブリッド戦略を主導。2002年発足の現・経団連の初代会長も務めた奥田碩氏が8日に死去、93歳だったことが11日分かった。",
+      "source": "共同通信(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/bea377fb8d9e46d31d3a4c05b6033a1a5676c332"
     }
   ],
   "tech": [
     {
-      "title": "Anthropicの未公開研究モデル、リーマン予想関連の下限値を大幅更新",
-      "summary": "Anthropicは8月10〜11日、約60体のサブエージェント群を1日半動かした未公開の研究版Claudeが、リーマンゼータ関数の零点に関する160年来の下限値を41.6%から67.2%に押し上げたと発表。数学者による査読とLean形式の検証済み証明も添えられた。",
-      "source": "Anthropic公式研究ブログ",
-      "link": "https://www.anthropic.com/research/riemann-zeta"
+      "title": "Googleの「Gemini」アプリ、月間利用者10億人を突破 グーグル史上最速の成長",
+      "summary": "グーグルは8月11日(米国時間)、AIアシスタント「Gemini」アプリの月間アクティブユーザー数が10億人を突破したと発表。2024年2月のリリースから2年半という、グーグル史上最速のペースでの到達となった。",
+      "source": "ITmedia NEWS",
+      "link": "https://www.itmedia.co.jp/news/article/2608/12/2000000500/"
     },
     {
-      "title": "OpenAI COOブラッド・ライトキャップ氏が退任、新事業立ち上げへ",
-      "summary": "OpenAIの最高執行責任者ブラッド・ライトキャップ氏が8月11日、退任を発表。2018年入社で営業組織を50人から700人超に拡大した人物で、数週間は在籍を続けAIの次のフェーズに関わる新事業を近く始めるとしている。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/"
+      "title": "サムスン・SKハイニックス株、テマセク出資報道で急騰",
+      "summary": "シンガポール政府系ファンド・テマセクがサムスン電子とSKハイニックスへ直接出資を検討していると8月12日に報じられ、両社株価は一時8%超急伸。韓国KOSPI指数も5%超上昇した。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-12/sk-hynix-samsung-extend-gains-after-report-temasek-to-invest"
     },
     {
-      "title": "元xAI共同創業者のRiver AI、11億ドルを調達し評価額約50億ドルに",
-      "summary": "xAI共同創業者イゴール・バブシュキン氏が設立した設立2カ月のスタートアップRiver AIが、General CatalystとAmp PBC主導で11億ドルを調達したと8月11日発表。NVIDIAやAMD Venturesも参加し、企業向けAIモデルの安価な訓練・展開インフラを提供する。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/"
+      "title": "インテル、200億ドルの新株発行が8月12日決済完了へ AI半導体増産に充当",
+      "summary": "インテルは1株95ドルで2億1053万株を売り出す上限200億ドルの新株発行を実施。機関投資家から約1000億ドルの需要が集まり、8月12日に決済完了予定。調達資金はAI半導体の製造能力拡大に充てる。",
+      "source": "Intel Newsroom",
+      "link": "https://newsroom.intel.com/corporate/intel-announces-upsize-and-pricing-of-20-billion-common-stock-offering"
     },
     {
-      "title": "CoreWeave、第2四半期決算で受注残高1040億ドルに拡大",
-      "summary": "AIクラウド大手CoreWeaveが8月11日(米東部時間、市場引け後)に発表した第2四半期決算は、売上高25億7500万ドル(前年比112%増)、受注残高1040億ドル。7月に確保した25億ドル超の新規契約は含まれておらず、株価は時間外で急伸した。",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/08/11/coreweave-crwv-q2-earnings-report-2026.html"
+      "title": "NVIDIA、ウォール街大手と5000億ドル規模のAI融資連合を結成",
+      "summary": "NVIDIAは8月11日、ブラックストーンやゴールドマン・サックス、KKRなど大手投資会社と組み、AI基盤投資向けに5000億ドル超の資金を調達する融資プラットフォームを設立したと発表。ジェンスン・フアンCEOは自社チップを「投資可能な資産」と表現した。",
+      "source": "Bloomberg/CNBC",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-11/nvidia-s-show-of-financial-force-soothes-jittery-credit-markets"
     },
     {
-      "title": "Supermicro、第4四半期決算で新規受注600億ドル超　来期見通しも上振れ",
-      "summary": "サーバーメーカーSuper Micro Computerが8月11日(米東部時間)に発表した2026会計年度第4四半期決算は、粗利益率17.5%、新規受注600億ドル超と好調。2027会計年度売上見通しも市場予想を上回り、株価は8%超上昇した。",
-      "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/technology/article/supermicro-tops-q4-sales-expectations-offers-strong-q1-guidance-stock-jumps-210004983.html"
+      "title": "xAI、企業向けAIエージェント「Grok Bot」のパブリックベータを公開",
+      "summary": "イーロン・マスク氏率いるxAIは8月11日、社内プロトタイプから発展した企業向けAIエージェント「Grok Bot」のパブリックベータを公開。近日公開予定の「Grok 4.6」に合わせ、より広い展開も予定しているという。",
+      "source": "xAI/TradingKey",
+      "link": "https://www.tradingkey.com/analysis/stocks/us-stocks/262096826-spacex-xai-grok-bot-enterprise-ai-agent-tradingkey"
     },
     {
-      "title": "Microsoft、8月のWindows 11月例更新で421件の脆弱性を修正",
-      "summary": "Microsoftが8月11日(現地時間)に公開したWindows 11向け月例セキュリティ更新「KB5121003」等で、421件の脆弱性(うち62件がクリティカル)を修正。タッチパッドジェスチャーやCopilot+ PCでのAIモデルアンインストール機能など新機能も追加された。",
-      "source": "Neowin",
-      "link": "https://www.neowin.net/news/windows-11-kb5121003-kb5120240-and-kb5121000-patch-tuesday-updates-are-now-available/"
+      "title": "Windows Defenderに新たなゼロデイ「ShieldBreak」、SYSTEM権限奪取のPoC公開",
+      "summary": "8月12日、Microsoft Defenderのパッチを回避してSYSTEM権限を奪取できるとする新たなゼロデイ脆弱性PoC「ShieldBreak」が公開された。Windows 11 25H2およびWindows Server 2025で検証され、成功率100%と主張されている。",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html"
+    },
+    {
+      "title": "Anthropic、Claudeの生成テキストに「見えない透かし」を導入 日本含む全世界に適用",
+      "summary": "Anthropicは、8月2日以降にリリースするClaudeモデルの生成テキストへ不可視の電子透かしを埋め込み、ファイルには来歴メタデータを付与すると発表。API・Claude Code・Cowork等の全プラットフォームで、日本を含め世界で適用される。",
+      "source": "GIGAZINE",
+      "link": "https://gigazine.net/news/20260812-anthropic-claude-digital-watermark/"
+    },
+    {
+      "title": "TOPIXが約1カ月ぶり最高値更新、東京エレクトロンなど半導体株が牽引",
+      "summary": "8月12日の東京株式市場でTOPIXが4139.00と約1カ月ぶりに最高値を更新、6日続伸となった。前日の米国市場でのAI・半導体関連株高を受け、東京エレクトロンやアドバンテストなど半導体株が買われた。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOFL122VQTS6A810C2000000/"
     }
   ],
   "x_trending_tech": [
     {
-      "title": "Google GeminiアプリがMAU10億人突破",
-      "summary": "Sundar Pichai CEOが8/12未明(JST)、GeminiアプリのMAUが10億人を突破し、Google史上最速成長かつ14番目の10億ユーザー到達プロダクトになったと投稿。",
-      "source": "@sundarpichai",
-      "link": "https://x.com/sundarpichai/status/2087222656819241292"
+      "title": "GoogleがGemini公式アカウントで月間利用者10億人突破を祝うマイルストーン投稿",
+      "summary": "Googleの公式アカウントが「Gemini史上最速の成長」として月間アクティブユーザー10億人突破を発表。音声利用63%、1日の画像生成1.5億枚などの利用実態も紹介。8/11-12の投稿。",
+      "source": "@NewsFromGoogle",
+      "link": "https://x.com/NewsFromGoogle/status/2087233951031009665"
     },
     {
-      "title": "xAIが常時稼働型AIエージェント「Grok Bot」ベータ公開を発表",
-      "summary": "xAI公式アカウントが8/12未明(JST)、ツールに自動ログインして作業を代行する常時稼働AIエージェント「Grok Bot」のベータ公開を投稿。SuperGrok HeavyやCursor Ultra等のサブスクライバー向け。",
-      "source": "@bot",
-      "link": "https://x.com/bot/status/2087224798078517251"
+      "title": "イーロン・マスク氏、「Grok Bot」ベータの不具合修正後に対象拡大へ",
+      "summary": "マスク氏が、企業向けAIエージェント「Grok Bot」の初期ベータで見つかった基本的な不具合を修正した後、今週中に「Grok 4.6」と合わせてベータ対象を拡大すると投稿。8/11の投稿。",
+      "source": "@elonmusk",
+      "link": "https://x.com/elonmusk/status/2087233507370147920"
     },
     {
-      "title": "NVIDIA、軽量オープンモデル「Nemotron 3.5 Lightning」を発表",
-      "summary": "NVIDIA公式AIアカウントが8/11夜(JST)、常時稼働エージェント向けの効率的なオープンウェイトモデル「Nemotron 3.5 Lightning」(30B MoE、アクティブ3Bパラメータ)を投稿で発表。",
-      "source": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2087162151995629926"
+      "title": "ジェンスン・フアン氏、CNBC出演で5000億ドルAIインフラ構想を語ると話題に",
+      "summary": "NVIDIAのフアンCEOがBlackRockやBlackstone等大手金融機関トップと共にCNBCへ出演し、AI計算基盤を「収益を生む投資可能な資産クラス」と語った様子が拡散。8/11の投稿。",
+      "source": "@bearlyai",
+      "link": "https://x.com/bearlyai/status/2086958009557934576"
     },
     {
-      "title": "オープンウェイト動画生成モデル「LTX-2.5」公開で話題に",
-      "summary": "VentureBeatが8/11夜(JST)、Lightricks発のオープンウェイト動画生成モデル「LTX-2.5」公開を投稿で紹介。画像から10秒動画をNVIDIA製チップ上で6.8秒生成できる性能が注目を集めている。",
-      "source": "@VentureBeat",
-      "link": "https://x.com/VentureBeat/status/2087162439083196421"
+      "title": "「Made by Google」公式、Pixel 11発表イベント当日を告知し話題に",
+      "summary": "Google公式アカウントが8月12日開催の「Made by Google」イベントを告知。Pixel 11シリーズやPixel Watch 5の発表を控え、Trevor Noah司会・豪華ゲスト陣で注目を集めている。",
+      "source": "@madebygoogle",
+      "link": "https://x.com/madebygoogle/status/2086845666538520927"
+    },
+    {
+      "title": "Anthropicの「見えない透かし」導入にAI界隈が反応、拡散",
+      "summary": "Claudeの生成テキストに不可視の電子透かしが全世界で導入されると知り、「AIが書いた文章の証明不能な時代が終わった」といった反応が広がった投稿。8/11-12の投稿。",
+      "source": "@VaibhavSisinty",
+      "link": "https://x.com/VaibhavSisinty/status/2087094180514513090"
     }
   ]
 }
