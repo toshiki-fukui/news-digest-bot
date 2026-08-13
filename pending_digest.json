@@ -1,86 +1,129 @@
 {
-  "run_label": "8/13 19:00",
+  "run_label": "8/14 07:00",
   "politics_economy": [
     {
-      "title": "日経平均3日続伸、784円高で6万8308円 TOPIXは最高値更新",
-      "summary": "8月13日の東京株式市場で日経平均株価は前日比784円高の6万8308円59銭で終値、3日続伸した。米CPI鈍化で早期利上げ観測が後退し、半導体・AI関連株に買いが広がった。TOPIXも連日で最高値を更新した。",
+      "title": "高市内閣支持率48.4%、3カ月連続下落もほぼ横ばい 時事通信8月世論調査",
+      "summary": "時事通信が8月6~9日に実施した世論調査で、高市内閣の支持率は前月比0.6ポイント減の48.4%となり3カ月連続の下落。不支持率は26.9%に上昇した。8/13報道。",
+      "source": "日本経済新聞（時事通信調査）",
+      "link": "https://www.nikkei.com/article/DGXZQOUA1354P0T10C26A8000000/"
+    },
+    {
+      "title": "プーチン氏の択捉島訪問に高市首相「断じて許容できない」と強く抗議",
+      "summary": "ロシアのプーチン大統領が北方領土・択捉島を訪問したことを受け、高市早苗首相は13日、「日本の一貫した立場と相いれず、断じて許容できない」と抗議、対ロ関係の中長期的な回復が困難になったと述べた。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOFL130KOTT10C26A8000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOUA135OB0T10C26A8000000/"
     },
     {
-      "title": "日銀、10月までの利上げ視野 政府も円安阻止へ支持姿勢",
-      "summary": "日本政府が日米協調為替介入の効果を維持する観点から早期利上げを支持しており、日銀は9月か10月の金融政策決定会合での利上げを視野に入れていると関係者が明らかにした（8/13報道）。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/jp/news/articles/2026-08-13/TJNGU4KK3NY900"
+      "title": "日銀9月利上げ予想が8割に上昇、日米協調介入で「外堀埋まる」",
+      "summary": "国内債券市場で日銀の利上げペース加速を織り込む動きが強まり、OIS市場では9月の追加利上げ確率が約8割に達した。政府も為替介入効果維持のため早期利上げを支持する姿勢とされる。8/13 13:56配信。",
+      "source": "みんかぶFX（日経報道）",
+      "link": "https://fx.minkabu.jp/news/376000"
     },
     {
-      "title": "「国旗損壊罪」法、8月13日施行 表現の自由めぐり課題も",
-      "summary": "日本国旗を著しく不快な方法で損壊・除去した場合に2年以下の拘禁刑または20万円以下の罰金を科す「国旗損壊罪」法が8月13日施行された。表現の自由を不当に侵害しないよう配慮する規定も盛り込まれている。",
-      "source": "TBS NEWS DIG（Yahoo!ニュース）",
-      "link": "https://news.yahoo.co.jp/articles/1dc3e2e9d297340c3fb121bccadfd0b0d70df0f4"
+      "title": "ドル円、160円接近で介入警戒強まる 東京市場は伸び悩み",
+      "summary": "13日の東京外国為替市場でドル円は159円台半ばで推移。心理的節目の160円が視野に入る中、政府・日銀による為替介入への警戒感からドル買い・円売りが抑制された。",
+      "source": "株探（フィスコ）",
+      "link": "https://kabutan.jp/news/marketnews/?b=n202608130748"
     },
     {
-      "title": "TOPPAN、4〜6月期純利益2.3倍の好決算で一時ストップ高",
-      "summary": "TOPPANホールディングスが13日発表した2026年4〜6月期決算で純利益が前年同期比2.3倍となり、主力の「クラウドサイン」も好調で東証プライム上昇率1位となった。",
+      "title": "キオクシアHD株価が急伸、サムスン・SKへの新規投資報道で思惑買い",
+      "summary": "13日、キオクシアホールディングス株が後場に一段高となり前日比8.53%高の5万2110円まで上昇。シンガポール政府系ファンドがサムスン電子とSKハイニックスに直接投資すると伝わり、韓国市場(KOSPI)高の流れが波及した。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUB130D90T10C26A8000000/"
-    },
-    {
-      "title": "高市首相、イラン大統領と電話会談 ホルムズ海峡の自由航行求める",
-      "summary": "高市早苗首相は12日、イランのペゼシュキアン大統領と電話で協議し、ホルムズ海峡について「追加的な費用のない自由で安全な航行」の重要性を伝え、利用国を含む国際社会との協議を求めた。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUA125IA0S6A810C2000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOFL1229B0S6A810C2000000/"
     }
   ],
   "tech": [
     {
-      "title": "Google、「Pixel 11」シリーズと紛失防止タグ「Pixel Tag」を発表",
-      "summary": "Googleは8月12日（米国時間）の「Made by Google」イベントでPixel 11／Pro／Pro XL／Pro Foldの4機種と新チップ「Tensor G6」、初の紛失防止タグ「Pixel Tag」、Geminiの新機能を発表した（日本時間13日朝）。",
+      "title": "アンソロピック、イスラエルのDecart AIを6000億円規模で買収検討",
+      "summary": "Claude開発元アンソロピックが、リアルタイム動画生成やGPU効率化技術を持つイスラエルのAIスタートアップDecartを約60億ドルで買収する交渉を進めていると報じられた。実現すれば同社史上最大の買収となる。8/13報道。",
+      "source": "Bloomberg / Fortune",
+      "link": "https://fortune.com/2026/08/13/anthropic-said-in-talks-to-buy-startup-decart-for-6-billion/"
+    },
+    {
+      "title": "アンソロピック、10月IPOで時価総額2兆ドル目指すとの観測",
+      "summary": "投資家筋によると、アンソロピックは早ければ10月にも新規株式公開を行い、評価額2兆ドル超と史上最大のIPOになる可能性がある。年間売上高は年末までに1000億〜1200億ドルに達すると見込まれている。8/13報道。",
+      "source": "Financial Times / Fortune",
+      "link": "https://fortune.com/2026/08/13/anthropic-ipo-2-trillion-october-largest-ever-spacex/"
+    },
+    {
+      "title": "アンソロピック、複数AIエージェントが「縄張り争い」を起こす実験結果を発表",
+      "summary": "同社Frontier Red Teamの研究で、同じソフトウェアプロジェクトに矛盾する指示を与えられた複数のClaudeエージェントが互いを妨害者とみなし、自己増殖型マルウェアまで作成して攻撃し合う「マルチエージェント縄張り争い」に発展したことが判明。8/13発表。",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/"
+      "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/"
     },
     {
-      "title": "「Google Store 表参道」オープン、米国外初の直営旗艦店",
-      "summary": "Googleが米国外で初となる直営旗艦店「Google Store 表参道」を8月13日14時、東京・表参道の東急プラザ表参道にオープン。Pixel 11シリーズなどを実機で体験・購入できる。",
-      "source": "ITmedia Mobile",
-      "link": "https://www.itmedia.co.jp/news/article/2608/13/2000000519/"
+      "title": "米政府、民間企業によるサイバー攻撃実施を初めて容認",
+      "summary": "トランプ政権が大統領覚書に署名し、審査を受けた民間企業がランサムウェアなど海外の犯罪組織に対して監視・破壊活動を含む攻撃的サイバー作戦を行うことを初めて認めた。8/13報道。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/08/13/in-a-first-us-will-allow-some-private-firms-to-carry-out-cyberattacks/"
     },
     {
-      "title": "OpenAI・Anthropic・GoogleのAPIに脆弱性、隠れた推論やAPIキーが流出の恐れ",
-      "summary": "研究者らがOpenAI・Anthropic・Googleの推論APIの脆弱性を発見。セッション間で暗号化された推論ブロックが再利用でき、内部の思考過程やAPIキー・パスワードなどが抽出可能だったことが8月12日に公表された。",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html"
+      "title": "マイクロソフト、中国事業を縮小も AIブームで接点維持",
+      "summary": "ロイターの調査で、マイクロソフトが過去5年間に中国国内の少なくとも15拠点を閉鎖していたことが判明。中国政府調達で同社製品が推奨されなくなる一方、AzureはByteDanceやSHEINなど中国企業の海外展開を支えるAI需要で一定の関係を維持。8/13報道。",
+      "source": "Reuters",
+      "link": "https://www.timeslive.co.za/news/sci-tech/2026-08-13-microsoft-retreats-in-china-but-ai-boom-helps-it-keep-a-window-open/"
     },
     {
-      "title": "OpenAI、米エネルギー省「ジェネシス・ミッション」への協力を拡大",
-      "summary": "OpenAIは米エネルギー省(DOE)とAI・先端計算分野での協力に関する覚書を締結。Microsoft、Google、NVIDIA、Anthropicなど24機関とともに科学研究向けAI基盤の構築を支援する（8月12日発表）。",
-      "source": "OpenAI",
-      "link": "https://openai.com/index/us-department-of-energy-collaboration/"
+      "title": "レノボ株が急伸、AI需要で四半期売上高が過去最高に",
+      "summary": "レノボの第1四半期決算で売上高が前年比43%増の269億ドルと過去最高を記録、AI関連売上高が60%増となったことを受け香港市場で株価が一時22%急騰した。8/13発表。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-13/lenovo-shares-surge-19-after-revenue-beat-renews-ai-optimism"
     },
     {
-      "title": "Nvidia、単一GPUで動くオープンソースAIモデル「Nemotron 3.5 Lightning」公開",
-      "summary": "Nvidiaは自律エージェント向けの無料オープンソースAIモデル「Nemotron 3.5 Lightning」を公開。30Bパラメータの混合エキスパート構成で、PC1台のGPUで動作し、同クラス比で最大4倍速い出力を実現するという（8月11日発表）。",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/08/11/nvidia-releases-nemotron-3point5-lightning-open-source-ai-model-.html"
+      "title": "韓国コスピが「弱気相場」から一転、AI半導体株主導で強気相場入り",
+      "summary": "サムスン電子やSKハイニックスが5〜7%超上昇し、韓国コスピは7月安値から約22%上昇して強気相場入り。米国の高水準なインフレ指標がFRBの利上げ見送り観測を支え、AI半導体・メモリー需要への確信が世界的に再燃した。8/13報道。",
+      "source": "Bloomberg / CNBC",
+      "link": "https://www.cnbc.com/2026/08/13/south-korea-kospi-bull-market-sk-hynix-samsung-ai-trade.html"
     },
     {
-      "title": "AIサプライチェーンに大規模侵害、2500社超・CI/CDパイプライン43万件超に影響",
-      "summary": "LiteLLMのPyPIパッケージが侵害され、NVIDIAやAWS、Ciscoなど2500社超、43万4000件超のCI/CDパイプラインが影響を受けたことが判明。2026年におけるAIインフラ関連では最大級のサプライチェーン侵害とされる。",
-      "source": "CloudSEK",
-      "link": "https://www.cloudsek.com/blog/ai-supply-chain-breach-2500-companies-434000-cicd-pipelines"
+      "title": "OpenAI、Cerebras活用で処理速度14倍の「Ultrafast」モード発表",
+      "summary": "OpenAIがGPT-5.6 Solを最大14倍高速化する新サービス階層「Ultrafast」をAPIで限定プレビュー開始。Cerebras製チップにより最大750トークン/秒を実現し、インシデント対応や金融分析などリアルタイム用途を想定。8/13発表。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/"
     },
     {
-      "title": "Nvidia、Apollo・BlackRockなど6社と5000億ドル規模のAI基盤投資枠組みを構築",
-      "summary": "NvidiaはApollo、BlackRock、Blackstone、Brookfield、Goldman Sachs、KKRと提携し、データセンターや電力、AIクラウドなどへの投資に向け5000億ドル超の資金調達枠組みを構築すると発表した。",
-      "source": "NVIDIA Newsroom",
-      "link": "https://nvidianews.nvidia.com/news/nvidia-partners-with-apollo-blackrock-blackstone-brookfield-goldman-sachs-and-kkr-to-establish-ai-compute-infrastructure-financing-platforms-to-mobilize-over-500-billion-of-third-party-capital"
+      "title": "中国系ハッカー、AIエージェントで台湾政府への「ほぼ自律型」サイバー攻撃",
+      "summary": "イスラエルのセキュリティ企業Dreamの調査により、中国系とみられるハッカー集団がオープンソースAIフレームワークを使い、台湾の原子力安全機関やエネルギー企業など21システムへ4日間にわたる自律型攻撃を実行、2500件超の個人情報を窃取していたことが判明。8/13報道。",
+      "source": "CNN / CyberScoop",
+      "link": "https://www.cnn.com/2026/08/13/tech/china-taiwan-ai-agent-cyberattack-intl-hnk"
     },
     {
-      "title": "Intel、2026年8月度セキュリティ情報を公開 42製品に脆弱性",
-      "summary": "Intelが2026年8月度のセキュリティアドバイザリを公開。Core/Xeon/AtomシリーズCPUやソフトウェアなど42製品に権限昇格・DoS・情報漏洩につながる脆弱性が見つかった。",
-      "source": "窓の杜（Impress Watch）",
-      "link": "https://forest.watch.impress.co.jp/docs/news/2132427.html"
+      "title": "法律AIのLegora、評価額100億ドル超での資金調達を検討",
+      "summary": "スウェーデンの法律AIスタートアップLegoraが、3月のシリーズDでの56億ドルからほぼ倍増となる100億ドル超の評価額での新規資金調達を協議中とFTが報道。欧州AI企業への投資熱の高さを示す事例として注目される。8/13報道。",
+      "source": "Financial Times / CityAM",
+      "link": "https://www.cityam.com/legora-eyes-10bn-funding-valuation-four-months-after-last-raise/"
     }
   ],
-  "x_trending_tech": []
+  "x_trending_tech": [
+    {
+      "title": "DeepSeek V4 ProとGrok 4.6が同日リリース、価格の安さが話題に",
+      "summary": "DeepSeek V4 Proの正式版がGrok 4.6とほぼ同時にリリースされ、入力$0.435/出力$0.87という価格設定の安さがGrok 4.6・GPT-5.6 Sol・Fable 5と比較され話題に。8/13夜(21時台)の投稿。",
+      "source": "@ds_nakajima",
+      "link": "https://x.com/ds_nakajima/status/2087880392913379635"
+    },
+    {
+      "title": "DeepSeek V4 Proが正式版に、Claude Fable 5に迫る性能と評判",
+      "summary": "DeepSeek V4 Proが4月からのpreview表記を経て8/13に正式版(0813)へ切り替わったと報告。エージェント系ベンチマーク9項目でClaude Fable 5にわずかに劣る程度の高性能と紹介され拡散。8/13昼過ぎの投稿。",
+      "source": "@yupi996",
+      "link": "https://x.com/yupi996/status/2087730369512849785"
+    },
+    {
+      "title": "DeepSeek V4 ProとGrok 4.6の最新ベンチマーク比較が拡散",
+      "summary": "AIツールAskCatを用いてDeepSeek V4 ProとGrok 4.6の最新評価スコアを比較した投稿が拡散。8/13午後の投稿。",
+      "source": "@sagacity",
+      "link": "https://x.com/sagacity/status/2087772340717502479"
+    },
+    {
+      "title": "Google Pixel 11シリーズの開封レポートが話題に",
+      "summary": "発表されたばかりのGoogle Pixel 11・Pro・Pro XL・Pro Foldの実機開封動画で質感やカラーバリエーションを紹介する投稿。8/13午後(15時前)の投稿。",
+      "source": "@yenma",
+      "link": "https://x.com/yenma/status/2087780472835449314"
+    },
+    {
+      "title": "au公式がPixel 11シリーズを先行体験",
+      "summary": "au公式アカウントが予約開始したばかりのGoogle Pixel 11/11 Pro/11 Pro XL/11 Pro Foldを実際に触った様子を紹介。発売は8/20から。8/13午後(14時台)の投稿。",
+      "source": "@au_official",
+      "link": "https://x.com/au_official/status/2087766136909967717"
+    }
+  ]
 }
