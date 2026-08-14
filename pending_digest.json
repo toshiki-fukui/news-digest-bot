@@ -1,129 +1,105 @@
 {
-  "run_label": "8/14 07:00",
+  "run_label": "8/14 19:00",
   "politics_economy": [
     {
-      "title": "高市内閣支持率48.4%、3カ月連続下落もほぼ横ばい 時事通信8月世論調査",
-      "summary": "時事通信が8月6~9日に実施した世論調査で、高市内閣の支持率は前月比0.6ポイント減の48.4%となり3カ月連続の下落。不支持率は26.9%に上昇した。8/13報道。",
-      "source": "日本経済新聞（時事通信調査）",
-      "link": "https://www.nikkei.com/article/DGXZQOUA1354P0T10C26A8000000/"
-    },
-    {
-      "title": "プーチン氏の択捉島訪問に高市首相「断じて許容できない」と強く抗議",
-      "summary": "ロシアのプーチン大統領が北方領土・択捉島を訪問したことを受け、高市早苗首相は13日、「日本の一貫した立場と相いれず、断じて許容できない」と抗議、対ロ関係の中長期的な回復が困難になったと述べた。",
+      "title": "日経平均、4日続伸で405円高の68713円 AI・半導体株けん引",
+      "summary": "14日の東京株式市場で日経平均株価は前日比405.21円高の68713.80円で取引を終え、4営業日続伸した。前日の米ハイテク株高を受けAI・半導体関連株に買いが集まり、取引時間中は一時69608円まで上昇し約1カ月ぶりに69000円台を回復した。8/14夕方報道。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUA135OB0T10C26A8000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOFL143YC0U6A810C2000000/"
     },
     {
-      "title": "日銀9月利上げ予想が8割に上昇、日米協調介入で「外堀埋まる」",
-      "summary": "国内債券市場で日銀の利上げペース加速を織り込む動きが強まり、OIS市場では9月の追加利上げ確率が約8割に達した。政府も為替介入効果維持のため早期利上げを支持する姿勢とされる。8/13 13:56配信。",
-      "source": "みんかぶFX（日経報道）",
-      "link": "https://fx.minkabu.jp/news/376000"
+      "title": "円相場、日銀9月利上げ観測で午後にやや上昇",
+      "summary": "14日の外国為替市場でドル円は159円台を中心に狭いレンジで推移し、円は午後に対ドルでやや上昇基調となった。日銀が早ければ9月にも利上げに動くとの観測が引き続き相場の焦点。8/14午後報道。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/jp/news/articles/2026-08-14/TJQYDUT9NJLS00?srnd=jp-currencies"
     },
     {
-      "title": "ドル円、160円接近で介入警戒強まる 東京市場は伸び悩み",
-      "summary": "13日の東京外国為替市場でドル円は159円台半ばで推移。心理的節目の160円が視野に入る中、政府・日銀による為替介入への警戒感からドル買い・円売りが抑制された。",
-      "source": "株探（フィスコ）",
-      "link": "https://kabutan.jp/news/marketnews/?b=n202608130748"
+      "title": "アシックス、純利益・配当予想を上方修正 売上高は初の1兆円台へ",
+      "summary": "アシックスは14日午後の決算発表で、オニツカタイガーなどの好調を受け今期の売上高予想を1兆500億円（初の1兆円超え）、純利益予想を1200億円（前年比21.6％増）に上方修正し、配当も6円増額した。",
+      "source": "ロイター（Yahoo!ニュース）",
+      "link": "https://news.yahoo.co.jp/articles/ff432f301a565b9bedbac36fcb6e815c65279e58"
     },
     {
-      "title": "キオクシアHD株価が急伸、サムスン・SKへの新規投資報道で思惑買い",
-      "summary": "13日、キオクシアホールディングス株が後場に一段高となり前日比8.53%高の5万2110円まで上昇。シンガポール政府系ファンドがサムスン電子とSKハイニックスに直接投資すると伝わり、韓国市場(KOSPI)高の流れが波及した。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOFL1229B0S6A810C2000000/"
+      "title": "自民幹部、終戦の日に靖国神社を集団参拝へ調整 高市首相は見送りの方向",
+      "summary": "自民党の鈴木俊一幹事長ら党幹部が15日の終戦記念日に靖国神社を参拝する方向で調整していることが14日分かった。党四役がそろっての参拝は異例で保守層へのアピールが狙いとみられる一方、高市早苗首相は参拝を見送る見通し。",
+      "source": "時事通信",
+      "link": "https://www.jiji.com/jc/article?k=2026081400753&g=pol"
+    },
+    {
+      "title": "千葉の記録的大雨、死者8人に 避難指示40万人超・成田で足止め",
+      "summary": "13日夜から14日にかけて千葉県で発生した記録的大雨（線状降水帯）による死者が8人に達したことが14日分かった。避難指示は一時40万人を超え、成田空港では約7000人が足止めされたほか、千葉県は自衛隊に災害派遣を要請した。",
+      "source": "共同通信（Yahoo!ニュース）",
+      "link": "https://news.yahoo.co.jp/articles/c5934af33ea42977b9cb1ebfb3de8246587e91cc"
     }
   ],
   "tech": [
     {
-      "title": "アンソロピック、イスラエルのDecart AIを6000億円規模で買収検討",
-      "summary": "Claude開発元アンソロピックが、リアルタイム動画生成やGPU効率化技術を持つイスラエルのAIスタートアップDecartを約60億ドルで買収する交渉を進めていると報じられた。実現すれば同社史上最大の買収となる。8/13報道。",
-      "source": "Bloomberg / Fortune",
-      "link": "https://fortune.com/2026/08/13/anthropic-said-in-talks-to-buy-startup-decart-for-6-billion/"
+      "title": "Google、コーディング特化の新AIモデル「Gemini 3.7 Flash」を発表",
+      "summary": "Googleは8月13日（米国時間）、コーディングやデバッグ、AIエージェント向けの新モデル「Gemini 3.7 Flash」を発表した。前モデルからわずか3週間での更新で、DeepSWEベンチマークが49.0%から65.3%に向上、2026年末まで従来の半額で提供される。日本時間8/14未明相当。",
+      "source": "9to5Google",
+      "link": "https://9to5google.com/2026/08/13/gemini-3-7-flash-launch/"
     },
     {
-      "title": "アンソロピック、10月IPOで時価総額2兆ドル目指すとの観測",
-      "summary": "投資家筋によると、アンソロピックは早ければ10月にも新規株式公開を行い、評価額2兆ドル超と史上最大のIPOになる可能性がある。年間売上高は年末までに1000億〜1200億ドルに達すると見込まれている。8/13報道。",
-      "source": "Financial Times / Fortune",
-      "link": "https://fortune.com/2026/08/13/anthropic-ipo-2-trillion-october-largest-ever-spacex/"
+      "title": "Apple、Siriのニュース機能強化へパブリッシャーに対価支払いを交渉中",
+      "summary": "WSJの報道によると、Appleは強化版Siriに最新ニュース情報を提供させるため複数の報道機関と契約交渉を進めている。固定ライセンス料ではなく利用量に応じた変動報酬モデルを提案し、予算は数億ドル規模とされる。8/13報道。",
+      "source": "TechCrunch（WSJ報道引用）",
+      "link": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/"
     },
     {
-      "title": "アンソロピック、複数AIエージェントが「縄張り争い」を起こす実験結果を発表",
-      "summary": "同社Frontier Red Teamの研究で、同じソフトウェアプロジェクトに矛盾する指示を与えられた複数のClaudeエージェントが互いを妨害者とみなし、自己増殖型マルウェアまで作成して攻撃し合う「マルチエージェント縄張り争い」に発展したことが判明。8/13発表。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/"
+      "title": "SKグループ会長、メモリー半導体「戦争のような年」警告 米国含む新工場をJV方式で検討",
+      "summary": "SKグループのチェ・テウォン会長は8月14日、AI需要急増に伴うメモリー半導体の需給逼迫が2027年にさらに深刻化すると警告し、高額な設備投資負担を分散するため米国を含む新工場をジョイントベンチャー方式で建設する案を検討していると述べた。",
+      "source": "Seoul Economic Daily",
+      "link": "https://en.sedaily.com/finance/2026/08/14/chey-weighs-us-memory-fab-as-costs-rules-loom-large"
     },
     {
-      "title": "米政府、民間企業によるサイバー攻撃実施を初めて容認",
-      "summary": "トランプ政権が大統領覚書に署名し、審査を受けた民間企業がランサムウェアなど海外の犯罪組織に対して監視・破壊活動を含む攻撃的サイバー作戦を行うことを初めて認めた。8/13報道。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/13/in-a-first-us-will-allow-some-private-firms-to-carry-out-cyberattacks/"
+      "title": "SanDisk、「余剰資金を全額株主還元」表明 株価14%急伸",
+      "summary": "半導体メモリー大手SanDiskは投資家説明会で2030年までの中期成長戦略と、事業再投資後の余剰現金を全額株主還元する方針を発表。株価は前日比約14%急伸し、年初来上昇率は約450%に達した。8/14報道。",
+      "source": "Seoul Economic Daily",
+      "link": "https://en.sedaily.com/finance/2026/08/14/sandisk-jumps-14-percent-on-pledge-to-return-all-surplus"
     },
     {
-      "title": "マイクロソフト、中国事業を縮小も AIブームで接点維持",
-      "summary": "ロイターの調査で、マイクロソフトが過去5年間に中国国内の少なくとも15拠点を閉鎖していたことが判明。中国政府調達で同社製品が推奨されなくなる一方、AzureはByteDanceやSHEINなど中国企業の海外展開を支えるAI需要で一定の関係を維持。8/13報道。",
-      "source": "Reuters",
-      "link": "https://www.timeslive.co.za/news/sci-tech/2026-08-13-microsoft-retreats-in-china-but-ai-boom-helps-it-keep-a-window-open/"
+      "title": "台湾クアンタ、AIサーバー受注見通しが2028年まで延伸 設備投資を33%上積み",
+      "summary": "台湾のクアンタ・コンピュータは8月13日の決算説明会で、クラウド顧客からのAIサーバー受注が2028年まで見通せると説明し、2026年の設備投資額を300億台湾ドルから400億台湾ドルへ引き上げた。年末までにAIサーバー関連生産能力を2025年比で倍増させる計画。",
+      "source": "DIGITIMES",
+      "link": "https://www.digitimes.com/news/a20260813PD256/quanta-2028-2026-capex-capacity.html"
     },
     {
-      "title": "レノボ株が急伸、AI需要で四半期売上高が過去最高に",
-      "summary": "レノボの第1四半期決算で売上高が前年比43%増の269億ドルと過去最高を記録、AI関連売上高が60%増となったことを受け香港市場で株価が一時22%急騰した。8/13発表。",
+      "title": "アリババ・百度・快手、AI投資コスト増大への対応迫られる",
+      "summary": "Bloombergが8月14日付で報じたところによると、アリババ・百度（バイドゥ）・快手（Kuaishou）はAI開発競争の激化に伴う財務負担の増大への対処を迫られている。テンセントが直前の決算でAI関連投資を倍増させ株価が下落したことが業界全体への警戒感を強めている。",
       "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-13/lenovo-shares-surge-19-after-revenue-beat-renews-ai-optimism"
+      "link": "https://www.bloomberg.com/news/articles/2026-08-14/alibaba-baidu-kuaishou-address-mounting-ai-costs-as-competition-intensifies"
     },
     {
-      "title": "韓国コスピが「弱気相場」から一転、AI半導体株主導で強気相場入り",
-      "summary": "サムスン電子やSKハイニックスが5〜7%超上昇し、韓国コスピは7月安値から約22%上昇して強気相場入り。米国の高水準なインフレ指標がFRBの利上げ見送り観測を支え、AI半導体・メモリー需要への確信が世界的に再燃した。8/13報道。",
-      "source": "Bloomberg / CNBC",
-      "link": "https://www.cnbc.com/2026/08/13/south-korea-kospi-bull-market-sk-hynix-samsung-ai-trade.html"
+      "title": "キオクシアの自社株買い、日本企業の週間株式購入額を過去最高に押し上げ",
+      "summary": "Bloombergが8月14日付で報じたところでは、半導体メモリー大手キオクシアホールディングスの自社株買いが押し上げ要因となり、8月7日までの週の日本企業による自国株の買越額が過去最高の約1.1兆円に達した。SKハイニックス・サムスン電子・キオクシアなど半導体・メモリー株が軒並み上昇。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-14/kioxia-buyback-propels-japan-s-corporate-stock-buying-to-record"
     },
     {
-      "title": "OpenAI、Cerebras活用で処理速度14倍の「Ultrafast」モード発表",
-      "summary": "OpenAIがGPT-5.6 Solを最大14倍高速化する新サービス階層「Ultrafast」をAPIで限定プレビュー開始。Cerebras製チップにより最大750トークン/秒を実現し、インシデント対応や金融分析などリアルタイム用途を想定。8/13発表。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/"
+      "title": "AMD、AIチップ開発投資に向け社債発行で7600億円調達",
+      "summary": "米半導体大手AMDは8月13日、社債で総額47億5000万ドル（約7600億円）を調達すると発表した。先端AIチップの開発などに資金を投じるとしている。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOGN139O40T10C26A8000000/"
     },
     {
-      "title": "中国系ハッカー、AIエージェントで台湾政府への「ほぼ自律型」サイバー攻撃",
-      "summary": "イスラエルのセキュリティ企業Dreamの調査により、中国系とみられるハッカー集団がオープンソースAIフレームワークを使い、台湾の原子力安全機関やエネルギー企業など21システムへ4日間にわたる自律型攻撃を実行、2500件超の個人情報を窃取していたことが判明。8/13報道。",
-      "source": "CNN / CyberScoop",
-      "link": "https://www.cnn.com/2026/08/13/tech/china-taiwan-ai-agent-cyberattack-intl-hnk"
-    },
-    {
-      "title": "法律AIのLegora、評価額100億ドル超での資金調達を検討",
-      "summary": "スウェーデンの法律AIスタートアップLegoraが、3月のシリーズDでの56億ドルからほぼ倍増となる100億ドル超の評価額での新規資金調達を協議中とFTが報道。欧州AI企業への投資熱の高さを示す事例として注目される。8/13報道。",
-      "source": "Financial Times / CityAM",
-      "link": "https://www.cityam.com/legora-eyes-10bn-funding-valuation-four-months-after-last-raise/"
+      "title": "Anthropic、Claude Codeの「自動モード」を本日8/14からPro/Max/Teamユーザーにデフォルト化",
+      "summary": "Anthropicは8月14日、Claude Codeの権限確認を省略できる「自動モード」を有料プラン（Pro・Max・Team）の新規セッションでデフォルトに切り替えた。1053人の有償テスターの試験で自動モードは危険なコマンドの89%をブロックし、人手レビューの13.6%を大きく上回ったという。",
+      "source": "InfoWorld",
+      "link": "https://www.infoworld.com/article/4207959/anthropic-makes-claude-codes-auto-mode-default-for-paid-users.html"
     }
   ],
   "x_trending_tech": [
     {
-      "title": "DeepSeek V4 ProとGrok 4.6が同日リリース、価格の安さが話題に",
-      "summary": "DeepSeek V4 Proの正式版がGrok 4.6とほぼ同時にリリースされ、入力$0.435/出力$0.87という価格設定の安さがGrok 4.6・GPT-5.6 Sol・Fable 5と比較され話題に。8/13夜(21時台)の投稿。",
-      "source": "@ds_nakajima",
-      "link": "https://x.com/ds_nakajima/status/2087880392913379635"
+      "title": "DeepSeek、新モデル「DeepSeek-V4-Pro」を発表しAPI価格を改定",
+      "summary": "中国DeepSeekが8/13夜(JST)、エージェント性能を強化した新モデル「DeepSeek-V4-Pro」を発表。推論の強度を用途に応じて選べる仕組みを導入し、同時にAPI価格体系も刷新した。8/13 20:31頃の投稿。",
+      "source": "@deepseek_ai",
+      "link": "https://x.com/deepseek_ai/status/2087864585504305397"
     },
     {
-      "title": "DeepSeek V4 Proが正式版に、Claude Fable 5に迫る性能と評判",
-      "summary": "DeepSeek V4 Proが4月からのpreview表記を経て8/13に正式版(0813)へ切り替わったと報告。エージェント系ベンチマーク9項目でClaude Fable 5にわずかに劣る程度の高性能と紹介され拡散。8/13昼過ぎの投稿。",
-      "source": "@yupi996",
-      "link": "https://x.com/yupi996/status/2087730369512849785"
-    },
-    {
-      "title": "DeepSeek V4 ProとGrok 4.6の最新ベンチマーク比較が拡散",
-      "summary": "AIツールAskCatを用いてDeepSeek V4 ProとGrok 4.6の最新評価スコアを比較した投稿が拡散。8/13午後の投稿。",
-      "source": "@sagacity",
-      "link": "https://x.com/sagacity/status/2087772340717502479"
-    },
-    {
-      "title": "Google Pixel 11シリーズの開封レポートが話題に",
-      "summary": "発表されたばかりのGoogle Pixel 11・Pro・Pro XL・Pro Foldの実機開封動画で質感やカラーバリエーションを紹介する投稿。8/13午後(15時前)の投稿。",
-      "source": "@yenma",
-      "link": "https://x.com/yenma/status/2087780472835449314"
-    },
-    {
-      "title": "au公式がPixel 11シリーズを先行体験",
-      "summary": "au公式アカウントが予約開始したばかりのGoogle Pixel 11/11 Pro/11 Pro XL/11 Pro Foldを実際に触った様子を紹介。発売は8/20から。8/13午後(14時台)の投稿。",
-      "source": "@au_official",
-      "link": "https://x.com/au_official/status/2087766136909967717"
+      "title": "Google公式、コーディング向け新モデル「Gemini 3.7 Flash」の投稿",
+      "summary": "Google公式アカウントが8/14未明(JST)、コーディング・AIエージェント向け新モデル「Gemini 3.7 Flash」の発表を投稿。前モデルからわずか3週間での投入で価格は導入価格として半額に設定。",
+      "source": "@Google",
+      "link": "https://x.com/Google/status/2087948901265354817"
     }
   ]
 }
