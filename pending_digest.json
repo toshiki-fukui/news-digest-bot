@@ -1,111 +1,87 @@
 {
-  "run_label": "8/15 07:00",
+  "run_label": "8/15 19:00",
   "politics_economy": [
     {
-      "title": "熊本地震、災害関連死疑い含め死者39人に　避難所には3600人超が避難",
-      "summary": "7月28日発生の熊本地震について、熊本県は8月14日時点で災害関連死の疑いを含む死者が39人になったと発表。避難所には引き続き3600人超が身を寄せており、地震活動は依然活発な状態が続いている。",
+      "title": "高市首相、終戦の日に靖国参拝見送り　武道館で靖国方向へ「遥拝」",
+      "summary": "高市早苗首相は8月15日の終戦記念日、外交上の配慮から靖国神社への参拝を見送った一方、全国戦没者追悼式の開会前に日本武道館の駐車場で靖国神社の方向に向けて「二拝二拍手一拝」の遥拝を行った。自民党総裁としては私費で玉串料を納めている。",
       "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260814de44041"
+      "link": "https://news.web.nhk/newsweb/na/nd-20260815de44218"
     },
     {
-      "title": "「令和8年8月千葉豪雨」死者8人に　住宅被害178棟、成田空港に一時7000人滞留",
-      "summary": "8月13〜14日に千葉県を襲った記録的豪雨を気象庁は「令和8年8月千葉豪雨」と命名。8月14日時点で死者8人、住宅被害は少なくとも178棟に上り、成田空港では一時最大7000人が滞留するなど交通機関にも大きな影響が出た。",
+      "title": "熊本地震、死者39人に　避難所には3223人が避難（8月15日時点）",
+      "summary": "7月28日発生の熊本地震について、熊本県は8月15日午前8時時点で災害関連死の疑いを含む死者が39人になったと発表。避難所には3223人が身を寄せており、地震活動も断続的に続いている。",
       "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260814de43980"
+      "link": "https://news.web.nhk/newsweb/na/nd-20260815de44248"
     },
     {
-      "title": "日銀9月利上げ予想が8割に上昇　日米協調介入で「外堀埋まる」",
-      "summary": "8月14日、ロイター報道などを受け、日銀が早ければ9月17〜18日の会合で政策金利を1.25％に引き上げるとの観測が市場で8割超に達した。高市政権も円安阻止へ早期利上げを支持しているとされ、円安圧力の中で利上げペース加速への思惑が強まっている。",
+      "title": "千葉など関東、15日明け方にかけ非常に激しい雨のおそれ　引き続き警戒を",
+      "summary": "「令和8年8月千葉豪雨」で死者8人・住宅被害178棟超となった千葉県で、14日夜も新たな雨雲が発達し、15日明け方にかけて局地的に非常に激しい雨が降るおそれがあると気象庁が警戒を呼びかけた。成田空港や鉄道への影響も続いている。",
+      "source": "NHK",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260814de44019"
+    },
+    {
+      "title": "横浜市長パワハラ問題、自民が辞職申し入れへ　公明・立民にも連携呼びかけ",
+      "summary": "職員へのパワーハラスメントが第三者委員会に認定された横浜市の山中竹春市長が続投の意思を改めて表明したことを受け、市議会最大会派の自民党が辞職を申し入れる方針を固め、公明・立憲民主にも連携を呼びかけている。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOFL120ET0S6A810C2000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOCC138NU0T10C26A8000000/"
     },
     {
-      "title": "日経平均、4日続伸で405円高の68713円　アドバンテスト最高値が「AIラリー」再来を示唆",
-      "summary": "8月14日の東京株式市場で日経平均株価は前日比405円21銭高の6万8713円80銭で取引を終え、4営業日続伸。半導体テスト大手アドバンテストが最高値を更新するなどAI関連株への物色が相場をけん引した。",
+      "title": "EV・半導体向けレアアース輸入、2026年上期は規制前の2割どまり　代替調達進まず",
+      "summary": "中国の輸出規制を受け、電気自動車や半導体製造装置に使うレアアースの日本の輸入量は2026年1〜6月で2024年同期の約2割にとどまったと判明。ベトナムや米国からの代替調達も想定通りには進んでいない。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUB137MPTT10C26A8000000/"
-    },
-    {
-      "title": "スーパーのコメ平均価格、7週ぶりに値上がり　5kgで3220円に",
-      "summary": "農林水産省が8月14日発表した8月3〜9日のスーパー店頭でのコメ(5kg)平均価格は3220円で、前週比22円の値上がりとなり7週ぶりの上昇。民間在庫が過去最大規模にあり、値下がり基調自体は続くとの見方が多い。",
-      "source": "テレビ朝日系(ANN)/Yahoo!ニュース",
-      "link": "https://news.yahoo.co.jp/articles/fb3104a8eed38ed4dad89cd0226281926571f026"
+      "link": "https://www.nikkei.com/article/DGXZQOUC085580Y6A700C2000000/"
     }
   ],
   "tech": [
     {
-      "title": "仏新興Kog、GPUから推論性能をさらに絞り出す新アプローチ",
-      "summary": "フランスのスタートアップKogは、汎用GPU上でLLM推論をメモリ・ストリーミング問題として扱う独自ランタイムにより、既存データセンターGPUから大幅な推論高速化を引き出せると発表した。8月14日報道。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/"
+      "title": "アリババ、オープンウェイトの新モデル「Qwen3.8-27B」を公開　単一GPUで動作",
+      "summary": "アリババのQwenチームが8月15日未明、パラメータ27Bながら大規模モデル並みのコーディング・エージェント性能を持つマルチモーダルモデル「Qwen3.8-27B」をApache 2.0ライセンスでオープンウェイト公開。262Kトークンのネイティブコンテキストを持ち、最大級モデル「Qwen3.8-2.4T-A95B」の重みも同時公開された。",
+      "source": "CryptoBriefing",
+      "link": "https://cryptobriefing.com/alibaba-qwen3-27b-open-weights-release/"
     },
     {
-      "title": "AIデータセンターの天然ガス発電シフト、新予測で「後悔」の可能性も",
-      "summary": "Amazon、Google、Meta、Microsoftなど大手ハイパースケーラーが風力・太陽光から天然ガス発電へ舵を切っているが、新たな需要予測次第ではこの賭けが裏目に出る可能性があると8月14日報じられた。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/"
+      "title": "DeepSeek、V4シリーズの価格を大幅値上げ　8月16日から最大10倍超に",
+      "summary": "DeepSeekは8月14日、主力モデル「V4」シリーズのAPI価格をピーク時間帯を中心に大幅値上げすると発表。V4-Flashの出力価格は100万トークンあたり0.28ドルから1.32ドルへ、V4-Proは0.87ドルから3.96ドルへ上昇し、16日から適用される。",
+      "source": "InfoWorld",
+      "link": "https://www.infoworld.com/article/4209439/deepseek-raises-some-v4-prices-by-more-than-10x-as-ai-demand-strains-capacity.html"
     },
     {
-      "title": "Apple、App Store外購入に最大15％の手数料案を提示",
-      "summary": "Appleは8月14日(現地時間)、iOSアプリ内の外部リンク経由での購入に課す手数料案を米地裁に提出。App Store外の決済でも一定の手数料を求める内容で、開発者団体との対立が続く見通し。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/14/apple-proposes-to-take-a-15-cut-of-purchases-made-outside-the-app-store/"
+      "title": "Anthropic、第2四半期売上高が115億ドル超に急増　初の黒字化を達成",
+      "summary": "ブルームバーグの報道によると、Anthropicの2026年第2四半期の売上高は前年同期比14倍の115億ドル超に達し、四半期ベースで初の黒字（調整後営業利益ベース）を計上した。IPO準備が進む中での節目となる。",
+      "source": "Bloomberg（Investing.com経由）",
+      "link": "https://www.investing.com/news/stock-market-news/anthropic-quarterly-revenue-eclipses-115-billion-amid-ipo-prep--bloomberg-4861580"
     },
     {
-      "title": "Google、AI生成画像・動画・音楽の可視透かしを削除可能に",
-      "summary": "Googleは8月14日、Geminiで生成した画像・動画・音楽について、ユーザーが可視の透かしを非表示にできる設定を数日かけて展開すると発表。SynthIDによる不可視の電子透かしとC2PAメタデータは引き続き埋め込まれる。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/"
+      "title": "Google、暗号化データ上でAI推論を可能にするコンパイラ「HEIR」を発表",
+      "summary": "Googleは8月15日、学習済みAIモデルを暗号化された入力のまま推論できるようにするオープンソースのコンパイラ基盤「HEIR」（準同型暗号中間表現）を発表。詐欺検知や不正侵入検知などでの活用を想定し、Belfortなど複数社とハードウェアアクセラレーションも共同開発中。",
+      "source": "Google公式ブログ",
+      "link": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/"
     },
     {
-      "title": "UberとPony.ai、欧州に2000台超のロボタクシー展開へ提携拡大",
-      "summary": "UberとPony.aiは8月14日、既存のザグレブでの提携を拡大し、欧州4都市以上に2000台超のロボタクシーを展開すると発表。中東地域への展開計画も含まれる。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/14/uber-and-pony-ai-plan-to-bring-2000-robotaxis-to-europe/"
+      "title": "ブロードコム株急落　AI向け融資が3700億ドル規模に膨らむとの懸念で",
+      "summary": "8月14日、バンク・オブ・アメリカのアナリストがブロードコムのAIチップ向け融資枠が2029年半ばまでに最大3700億ドルのシニア債務に達する可能性を指摘したことを受け、同社株は5.9%下落した。事業の中核部分への懸念ではないとの見方もある。",
+      "source": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/08/14/broadcom-sinks-6-as-bofa-flags-370b-in-ai-debt-amd-climbs-4-on-bairds-1250-call/"
     },
     {
-      "title": "米連邦裁判所、政府のスパイウェア使用状況を今後公表へ",
-      "summary": "米連邦司法府は2029年から、令状に基づくハッキングツール・スパイウェア使用の件数を公開すると8月14日発表。政府によるNIT(ネットワーク調査技術)使用の透明性向上を目指す。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/14/us-courts-will-start-publishing-how-often-the-government-uses-spyware/"
+      "title": "マイクロン株、AI半導体需要の強気見通しで上昇　新AIファンドも設立",
+      "summary": "8月14日、マイクロン・テクノロジーの株価はAIチップ需要の強い見通しを背景に約3%上昇。メモリー供給の逼迫は2027年以降も続くとの見方に加え、AIスタートアップに投資する2億5000万ドル規模の新ファンド「Micron Ventures Paradigm Fund」設立も好感された。",
+      "source": "StocksToTrade",
+      "link": "https://stockstotrade.com/news/micron-technology-inc-mu-news-2026_08_14-2/"
     },
     {
-      "title": "NVIDIA、ウォール街大手6社と5000億ドル規模のAIインフラ融資計画",
-      "summary": "NVIDIAのジェンスン・フアンCEOは、BlackRock、Blackstone、Apollo、KKR、Brookfield、Goldman Sachsと組み、AIデータセンター建設向けに総額5000億ドル規模の資金調達を可能にする計画を進めていると8月14日報じられた。GPUを「投資可能な資産」と位置付ける戦略。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-14/nvidia-s-500-billion-plan-envelops-wall-street-in-its-ai-frenzy"
-    },
-    {
-      "title": "Apple、アリババの協力で中国向け独自AIモデルを開発",
-      "summary": "Appleが中国市場向けに、アリババの支援を受けて独自の大規模言語モデルを訓練したと8月14日報じられた。中国政府から独自AIモデルの提供を承認された初の外国企業となり、数か月以内にiPhoneなどへの展開が見込まれる。",
-      "source": "The Japan Times",
-      "link": "https://www.japantimes.co.jp/business/2026/08/14/apple-ai-model-china-alibaba/"
-    },
-    {
-      "title": "中国SMIC、AI需要の高まりでチップ価格を引き上げ",
-      "summary": "中国の半導体受託製造大手SMICが、AI需要を背景にした稼働率の高まりを受けてチップ価格を引き上げたと8月14日報じられた。第2四半期売上高は30.1億ドルと四半期として初めて30億ドルを突破。",
-      "source": "Reuters",
-      "link": "https://www.investing.com/news/stock-market-news/chinese-chipmaker-smic-increases-prices-on-strong-ai-demand-4859658"
-    },
-    {
-      "title": "インドL&T、Together AI向けにNVIDIA採用のAIデータセンターを受注",
-      "summary": "インドのLarsen & Toubroは、米クラウド企業Together AI向けに、NVIDIA B300を1万基搭載するインド最大級のAIデータセンターを最大15.7億ドルで受注したと8月14日発表。同社のAIインフラ事業参入案件となる。",
-      "source": "Reuters",
-      "link": "https://finance.yahoo.com/technology/ai/articles/indias-larsen-toubro-secures-order-061543153.html"
+      "title": "Hmcomm、音声認識企業からAIプラットフォーム企業へ転換　「VAAP」戦略を策定",
+      "summary": "音声認識技術を手がけるHmcommは8月、複数のAIエージェントを企業向けに安全に組み合わせて実装する「Voice AI Agent Platform（VAAP）」戦略を策定したと発表。有望なAIスタートアップとの資本業務提携などに年間1〜3億円を投じる方針。",
+      "source": "PR TIMES",
+      "link": "https://prtimes.jp/main/html/rd/p/000000209.000033941.html"
     }
   ],
   "x_trending_tech": [
     {
-      "title": "Google Gemini公式、AI生成物の可視透かしをオフにできる新設定を発表",
-      "summary": "Google Geminiの公式アカウントが、数日かけて画像・動画・音楽生成物の可視透かし表示をユーザーが選べるようにすると投稿。不可視のSynthID透かしとC2PAメタデータは常時埋め込まれると説明(8/14 23時52分頃の投稿)。",
-      "source": "@GeminiApp",
-      "link": "https://x.com/GeminiApp/status/2088277477672255830"
-    },
-    {
-      "title": "日本経済新聞、アドバンテスト最高値が示す「AIラリー」再来を投稿",
-      "summary": "日本経済新聞の公式アカウントが、8月14日午前の日経平均580円高とアドバンテストの株価最高値更新を伝え、AI関連株への物色再燃を報じる記事を紹介(8/14 11時58分頃の投稿)。",
-      "source": "@nikkei",
-      "link": "https://x.com/nikkei/status/2088097988014924181"
+      "title": "Qwen公式が「Qwen3.8-27B」のオープンウェイト公開を発表",
+      "summary": "アリババのQwen公式アカウントが8/15未明、約束通りQwen3.8-27Bのオープンウェイトを公開したと投稿。27BパラメータでQwen3.7-Plus超えの性能、262Kのネイティブコンテキストなどをスレッドで紹介し、AI開発者コミュニティで大きな反響を呼んでいる。",
+      "source": "@Alibaba_Qwen",
+      "link": "https://x.com/Alibaba_Qwen/status/2088280182356611304"
     }
   ]
 }
