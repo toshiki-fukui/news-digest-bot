@@ -1,87 +1,74 @@
 {
-  "run_label": "8/15 19:00",
+  "run_label": "8/16 07:00",
   "politics_economy": [
     {
-      "title": "高市首相、終戦の日に靖国参拝見送り　武道館で靖国方向へ「遥拝」",
-      "summary": "高市早苗首相は8月15日の終戦記念日、外交上の配慮から靖国神社への参拝を見送った一方、全国戦没者追悼式の開会前に日本武道館の駐車場で靖国神社の方向に向けて「二拝二拍手一拝」の遥拝を行った。自民党総裁としては私費で玉串料を納めている。",
-      "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260815de44218"
-    },
-    {
-      "title": "熊本地震、死者39人に　避難所には3223人が避難（8月15日時点）",
-      "summary": "7月28日発生の熊本地震について、熊本県は8月15日午前8時時点で災害関連死の疑いを含む死者が39人になったと発表。避難所には3223人が身を寄せており、地震活動も断続的に続いている。",
-      "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260815de44248"
-    },
-    {
-      "title": "千葉など関東、15日明け方にかけ非常に激しい雨のおそれ　引き続き警戒を",
-      "summary": "「令和8年8月千葉豪雨」で死者8人・住宅被害178棟超となった千葉県で、14日夜も新たな雨雲が発達し、15日明け方にかけて局地的に非常に激しい雨が降るおそれがあると気象庁が警戒を呼びかけた。成田空港や鉄道への影響も続いている。",
-      "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260814de44019"
-    },
-    {
-      "title": "横浜市長パワハラ問題、自民が辞職申し入れへ　公明・立民にも連携呼びかけ",
-      "summary": "職員へのパワーハラスメントが第三者委員会に認定された横浜市の山中竹春市長が続投の意思を改めて表明したことを受け、市議会最大会派の自民党が辞職を申し入れる方針を固め、公明・立憲民主にも連携を呼びかけている。",
+      "title": "企業の短期社債(CP)保有が急増、17年ぶり高水準に",
+      "summary": "企業がコマーシャルペーパー(CP)への投資を急速に増やし、保有残高は過去2年で倍増して17年ぶりの高水準となった。預金からCPへの資金シフトが進んでいる。8/15夕方の報道。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOCC138NU0T10C26A8000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOUB0335K0T00C26A8000000/"
     },
     {
-      "title": "EV・半導体向けレアアース輸入、2026年上期は規制前の2割どまり　代替調達進まず",
-      "summary": "中国の輸出規制を受け、電気自動車や半導体製造装置に使うレアアースの日本の輸入量は2026年1〜6月で2024年同期の約2割にとどまったと判明。ベトナムや米国からの代替調達も想定通りには進んでいない。",
+      "title": "高市首相「反省」再封印、初の式辞で戦争主体を曖昧に―終戦記念日",
+      "summary": "終戦の日の全国戦没者追悼式で、高市首相は初の式辞において「反省」や「不戦の誓い」に触れず、石破前首相が13年ぶりに復活させた表現を再び封印した。保守層への配慮とみられる。8/15終戦記念日の式典後に報道。",
+      "source": "時事通信",
+      "link": "https://www.jiji.com/jc/article?k=2026081500280&g=pol"
+    },
+    {
+      "title": "靖国参拝めぐり中国が強く抗議、韓国も遺憾表明",
+      "summary": "高市首相の玉串料奉納と小泉防衛相ら4閣僚の靖国神社参拝を受け、中国外務省は「戦後の国際秩序への挑戦」と強く非難、韓国も外務・国防両省が遺憾の意を表明し在韓大使館の防衛駐在官に抗議した。8/15夕刻の報道。",
+      "source": "共同通信(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/552907667b32f8d3c225c36910a25aa67b7f50eb"
+    },
+    {
+      "title": "日経平均、7万円回復をうかがう 円相場は160円が心理的節目",
+      "summary": "来週(8/17〜21)の日経平均は約1カ月半ぶりの7万円回復を試す展開が見込まれ、AI・半導体以外にも物色が広がるとの見方。円相場は1ドル=160円の節目と介入警戒感が焦点となる。週末発行の相場展望記事。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUC085580Y6A700C2000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOUB1352K0T10C26A8000000/"
+    },
+    {
+      "title": "高市首相、維新・吉村代表と党首会談「連立合意の政策徹底を」",
+      "summary": "高市早苗首相は8月16日、連立を組む日本維新の会の吉村洋文代表と党首会談を行い、定数削減法案や副首都構想の推進など連立合意に基づく政策の実現を今国会で徹底していく方針を確認した。8/16朝の報道。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUA188ZX0Y6A210C2000000/"
     }
   ],
   "tech": [
     {
-      "title": "アリババ、オープンウェイトの新モデル「Qwen3.8-27B」を公開　単一GPUで動作",
-      "summary": "アリババのQwenチームが8月15日未明、パラメータ27Bながら大規模モデル並みのコーディング・エージェント性能を持つマルチモーダルモデル「Qwen3.8-27B」をApache 2.0ライセンスでオープンウェイト公開。262Kトークンのネイティブコンテキストを持ち、最大級モデル「Qwen3.8-2.4T-A95B」の重みも同時公開された。",
-      "source": "CryptoBriefing",
-      "link": "https://cryptobriefing.com/alibaba-qwen3-27b-open-weights-release/"
+      "title": "スペースX、AIコーディングスタートアップCursorの買収を正式完了",
+      "summary": "スペースXがAIコード編集ツールを手掛けるCursorの買収(総額600億ドル、株式交換)を正式に完了したと発表。CursorはスペースXの子会社となり、「世界最大級のGPU群」を活用できるようになる。8/15の報道。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/"
     },
     {
-      "title": "DeepSeek、V4シリーズの価格を大幅値上げ　8月16日から最大10倍超に",
-      "summary": "DeepSeekは8月14日、主力モデル「V4」シリーズのAPI価格をピーク時間帯を中心に大幅値上げすると発表。V4-Flashの出力価格は100万トークンあたり0.28ドルから1.32ドルへ、V4-Proは0.87ドルから3.96ドルへ上昇し、16日から適用される。",
-      "source": "InfoWorld",
-      "link": "https://www.infoworld.com/article/4209439/deepseek-raises-some-v4-prices-by-more-than-10x-as-ai-demand-strains-capacity.html"
+      "title": "アンソロピック、Claudeの新しい電子透かし機能の仕組みを詳細説明",
+      "summary": "アンソロピックがEU AI法の透明性規則対応として導入したClaude生成テキストへの目に見えない電子透かしについて、実装方法の詳細をブログで公開した。8/15夜の報道。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/"
     },
     {
-      "title": "Anthropic、第2四半期売上高が115億ドル超に急増　初の黒字化を達成",
-      "summary": "ブルームバーグの報道によると、Anthropicの2026年第2四半期の売上高は前年同期比14倍の115億ドル超に達し、四半期ベースで初の黒字（調整後営業利益ベース）を計上した。IPO準備が進む中での節目となる。",
-      "source": "Bloomberg（Investing.com経由）",
-      "link": "https://www.investing.com/news/stock-market-news/anthropic-quarterly-revenue-eclipses-115-billion-amid-ipo-prep--bloomberg-4861580"
+      "title": "ラトニック米商務長官、Appleに中国製半導体メモリーの不使用を要請",
+      "summary": "AI向け需要でメモリー不足が深刻化する中、AppleがCXMTやYMTCなど中国企業からのメモリー調達を検討していることに対し、米商務長官が「トランプ政権は支持しない」と直接要請したと報じられた。8/15昼前の報道。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOCB150Q00V10C26A8000000/"
     },
     {
-      "title": "Google、暗号化データ上でAI推論を可能にするコンパイラ「HEIR」を発表",
-      "summary": "Googleは8月15日、学習済みAIモデルを暗号化された入力のまま推論できるようにするオープンソースのコンパイラ基盤「HEIR」（準同型暗号中間表現）を発表。詐欺検知や不正侵入検知などでの活用を想定し、Belfortなど複数社とハードウェアアクセラレーションも共同開発中。",
-      "source": "Google公式ブログ",
-      "link": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/"
+      "title": "アップル、ロック画面でのスパイウェア警告機能を110カ国に拡大",
+      "summary": "アップルが傭兵スパイウェア攻撃の標的となったユーザーに対し、端末のロック画面と設定画面に直接警告を表示する新機能を110カ国のユーザーに展開したと報じられた。8/15の報道。",
+      "source": "Tech Times",
+      "link": "https://www.techtimes.com/articles/324575/20260815/apple-delivers-first-lock-screen-spyware-warning-users-110-countries.htm"
     },
     {
-      "title": "ブロードコム株急落　AI向け融資が3700億ドル規模に膨らむとの懸念で",
-      "summary": "8月14日、バンク・オブ・アメリカのアナリストがブロードコムのAIチップ向け融資枠が2029年半ばまでに最大3700億ドルのシニア債務に達する可能性を指摘したことを受け、同社株は5.9%下落した。事業の中核部分への懸念ではないとの見方もある。",
-      "source": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/08/14/broadcom-sinks-6-as-bofa-flags-370b-in-ai-debt-amd-climbs-4-on-bairds-1250-call/"
+      "title": "OpenAI、法人向け売上が個人向けを初めて逆転 ARR400億ドルに",
+      "summary": "OpenAIのフリアーCFOが投資家に対し、法人向け事業の売上が個人向け(ChatGPT)を初めて上回ったと明らかにした。年換算売上高(ARR)は400億ドルに到達し、当初予想より2四半期早いペースとなった。8/15の報道。",
+      "source": "Tech Times",
+      "link": "https://www.techtimes.com/articles/324562/20260815/openai-enterprise-revenue-tops-consumer-first-time-40-billion-arr-two-quarters-early.htm"
     },
     {
-      "title": "マイクロン株、AI半導体需要の強気見通しで上昇　新AIファンドも設立",
-      "summary": "8月14日、マイクロン・テクノロジーの株価はAIチップ需要の強い見通しを背景に約3%上昇。メモリー供給の逼迫は2027年以降も続くとの見方に加え、AIスタートアップに投資する2億5000万ドル規模の新ファンド「Micron Ventures Paradigm Fund」設立も好感された。",
-      "source": "StocksToTrade",
-      "link": "https://stockstotrade.com/news/micron-technology-inc-mu-news-2026_08_14-2/"
-    },
-    {
-      "title": "Hmcomm、音声認識企業からAIプラットフォーム企業へ転換　「VAAP」戦略を策定",
-      "summary": "音声認識技術を手がけるHmcommは8月、複数のAIエージェントを企業向けに安全に組み合わせて実装する「Voice AI Agent Platform（VAAP）」戦略を策定したと発表。有望なAIスタートアップとの資本業務提携などに年間1〜3億円を投じる方針。",
-      "source": "PR TIMES",
-      "link": "https://prtimes.jp/main/html/rd/p/000000209.000033941.html"
+      "title": "NVIDIA、OpenAIオハイオ州データセンターへの保証額を2500億ドルから1200億ドル未満に縮小",
+      "summary": "WSJ報道によると、NVIDIAは投資家のリスク懸念を受け、OpenAIのオハイオ州データセンター計画(ソフトバンク子会社SBエナジー開発)への資金保証額を当初の2500億ドルから1200億ドル未満へ縮小。第1フェーズのみが対象で、週末にも正式合意の見通し。8/15早朝の報道。",
+      "source": "Reuters (via Investing.com)",
+      "link": "https://www.investing.com/news/stock-market-news/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-4861638"
     }
   ],
-  "x_trending_tech": [
-    {
-      "title": "Qwen公式が「Qwen3.8-27B」のオープンウェイト公開を発表",
-      "summary": "アリババのQwen公式アカウントが8/15未明、約束通りQwen3.8-27Bのオープンウェイトを公開したと投稿。27BパラメータでQwen3.7-Plus超えの性能、262Kのネイティブコンテキストなどをスレッドで紹介し、AI開発者コミュニティで大きな反響を呼んでいる。",
-      "source": "@Alibaba_Qwen",
-      "link": "https://x.com/Alibaba_Qwen/status/2088280182356611304"
-    }
-  ]
+  "x_trending_tech": []
 }
