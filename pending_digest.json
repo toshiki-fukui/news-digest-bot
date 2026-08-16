@@ -1,73 +1,55 @@
 {
-  "run_label": "8/16 07:00",
+  "run_label": "8/16 19:00",
   "politics_economy": [
     {
-      "title": "企業の短期社債(CP)保有が急増、17年ぶり高水準に",
-      "summary": "企業がコマーシャルペーパー(CP)への投資を急速に増やし、保有残高は過去2年で倍増して17年ぶりの高水準となった。預金からCPへの資金シフトが進んでいる。8/15夕方の報道。",
+      "title": "尖閣諸島沖の日本EEZで中国調査船が活動、海保が中止要求",
+      "summary": "8月15日午後4時50分ごろ、尖閣諸島周辺の日本の排他的経済水域(EEZ)内で中国の海洋調査船がワイヤ状の物体を海中に降ろしているのを海上保安庁が確認し、無許可の海洋調査だとして中止を要求した。調査船は同日午後10時15分ごろ区域外へ移動した。16日発表。",
+      "source": "共同通信/日本経済新聞",
+      "link": "https://news.yahoo.co.jp/articles/8be74e76f6004c2c5b23b82f8276362b8c939fce"
+    },
+    {
+      "title": "首相のX投稿、行政文書に該当せず 保存義務求める声も",
+      "summary": "高市早苗首相が情報発信に使うX(旧ツイッター)について、内閣府は公文書管理法上の「行政文書」に当たらず保存義務の対象外との見解を示していることが16日分かった。専門家からは政策決定過程の検証のため保存の仕組み整備を求める声が出ている。",
+      "source": "共同通信",
+      "link": "https://news.yahoo.co.jp/articles/5d36f1903a25c5e8c71aac657995d1c35244f9a1"
+    },
+    {
+      "title": "自民・岸田元首相と萩生田幹事長代行ら、山梨の別荘で会合",
+      "summary": "自民党の岸田文雄元首相、萩生田光一幹事長代行、加藤勝信前財務相、赤澤経済産業相らが15日夜、山梨県鳴沢村の別荘で約3時間半にわたり会合し、高市政権を取り巻く政治情勢などについて意見交換した。安倍元首相をしのぶ会ともなったという。",
+      "source": "NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260815de44321"
+    },
+    {
+      "title": "個人向け国債の発行、金利上昇で最高ペース 4〜8月は前年比6割増",
+      "summary": "2026年度の個人向け国債発行額が4〜8月の5カ月間で約4兆円に達し、前年同期比で6割増と過去最高ペースとなっていることが16日までの集計で判明した。金利上昇を背景に安全資産を求める個人の国債シフトが加速している。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUB0335K0T00C26A8000000/"
-    },
-    {
-      "title": "高市首相「反省」再封印、初の式辞で戦争主体を曖昧に―終戦記念日",
-      "summary": "終戦の日の全国戦没者追悼式で、高市首相は初の式辞において「反省」や「不戦の誓い」に触れず、石破前首相が13年ぶりに復活させた表現を再び封印した。保守層への配慮とみられる。8/15終戦記念日の式典後に報道。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026081500280&g=pol"
-    },
-    {
-      "title": "靖国参拝めぐり中国が強く抗議、韓国も遺憾表明",
-      "summary": "高市首相の玉串料奉納と小泉防衛相ら4閣僚の靖国神社参拝を受け、中国外務省は「戦後の国際秩序への挑戦」と強く非難、韓国も外務・国防両省が遺憾の意を表明し在韓大使館の防衛駐在官に抗議した。8/15夕刻の報道。",
-      "source": "共同通信(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/552907667b32f8d3c225c36910a25aa67b7f50eb"
-    },
-    {
-      "title": "日経平均、7万円回復をうかがう 円相場は160円が心理的節目",
-      "summary": "来週(8/17〜21)の日経平均は約1カ月半ぶりの7万円回復を試す展開が見込まれ、AI・半導体以外にも物色が広がるとの見方。円相場は1ドル=160円の節目と介入警戒感が焦点となる。週末発行の相場展望記事。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUB1352K0T10C26A8000000/"
-    },
-    {
-      "title": "高市首相、維新・吉村代表と党首会談「連立合意の政策徹底を」",
-      "summary": "高市早苗首相は8月16日、連立を組む日本維新の会の吉村洋文代表と党首会談を行い、定数削減法案や副首都構想の推進など連立合意に基づく政策の実現を今国会で徹底していく方針を確認した。8/16朝の報道。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUA188ZX0Y6A210C2000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOUA056190V00C26A8000000/"
     }
   ],
   "tech": [
     {
-      "title": "スペースX、AIコーディングスタートアップCursorの買収を正式完了",
-      "summary": "スペースXがAIコード編集ツールを手掛けるCursorの買収(総額600億ドル、株式交換)を正式に完了したと発表。CursorはスペースXの子会社となり、「世界最大級のGPU群」を活用できるようになる。8/15の報道。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/"
+      "title": "アリババの「Qwen」ダウンロード数が30億件突破、Google・Metaを抜き世界最多のオープンモデルに",
+      "summary": "アリババは8月15日、AIモデル群「Qwen」の累計ダウンロード数が過去半年で30億件を超えたと発表した。Hugging FaceのデータによるとGoogleの4億1800万件、Metaの2億2700万件を大きく上回り、オープンソースAIモデルで世界首位に立った。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-15/alibaba-ai-models-hit-3-billion-downloads-passing-meta-google"
     },
     {
-      "title": "アンソロピック、Claudeの新しい電子透かし機能の仕組みを詳細説明",
-      "summary": "アンソロピックがEU AI法の透明性規則対応として導入したClaude生成テキストへの目に見えない電子透かしについて、実装方法の詳細をブログで公開した。8/15夜の報道。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/"
+      "title": "AI需要によるメモリー不足が「チップフレーション」に、英国のインフレ加速でイングランド銀行が警戒",
+      "summary": "AI向けメモリーチップの需給逼迫がスマートフォンやPC、クラウド価格の上昇を通じて英国の消費者物価を押し上げており、イングランド銀行が警戒を強めていると8月15日付ブルームバーグが報じた。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-15/ai-chipflation-washes-ashore-in-the-uk-economy"
     },
     {
-      "title": "ラトニック米商務長官、Appleに中国製半導体メモリーの不使用を要請",
-      "summary": "AI向け需要でメモリー不足が深刻化する中、AppleがCXMTやYMTCなど中国企業からのメモリー調達を検討していることに対し、米商務長官が「トランプ政権は支持しない」と直接要請したと報じられた。8/15昼前の報道。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOCB150Q00V10C26A8000000/"
+      "title": "ソフトバンクグループ、台湾TSMC株の保有を72%削減と開示",
+      "summary": "ソフトバンクグループが第2四半期に台湾TSMCのADR保有を198万5000株から56万5000株へと7割超売却し、約2.7億ドルを現金化したことが8月15日、米SEC提出資料で明らかになった。AI関連投資の軸足をエコシステム全体へ移す動きの一環とみられる。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/jp/news/articles/2026-08-15/TJSEIYT96OSJ00"
     },
     {
-      "title": "アップル、ロック画面でのスパイウェア警告機能を110カ国に拡大",
-      "summary": "アップルが傭兵スパイウェア攻撃の標的となったユーザーに対し、端末のロック画面と設定画面に直接警告を表示する新機能を110カ国のユーザーに展開したと報じられた。8/15の報道。",
-      "source": "Tech Times",
-      "link": "https://www.techtimes.com/articles/324575/20260815/apple-delivers-first-lock-screen-spyware-warning-users-110-countries.htm"
-    },
-    {
-      "title": "OpenAI、法人向け売上が個人向けを初めて逆転 ARR400億ドルに",
-      "summary": "OpenAIのフリアーCFOが投資家に対し、法人向け事業の売上が個人向け(ChatGPT)を初めて上回ったと明らかにした。年換算売上高(ARR)は400億ドルに到達し、当初予想より2四半期早いペースとなった。8/15の報道。",
-      "source": "Tech Times",
-      "link": "https://www.techtimes.com/articles/324562/20260815/openai-enterprise-revenue-tops-consumer-first-time-40-billion-arr-two-quarters-early.htm"
-    },
-    {
-      "title": "NVIDIA、OpenAIオハイオ州データセンターへの保証額を2500億ドルから1200億ドル未満に縮小",
-      "summary": "WSJ報道によると、NVIDIAは投資家のリスク懸念を受け、OpenAIのオハイオ州データセンター計画(ソフトバンク子会社SBエナジー開発)への資金保証額を当初の2500億ドルから1200億ドル未満へ縮小。第1フェーズのみが対象で、週末にも正式合意の見通し。8/15早朝の報道。",
-      "source": "Reuters (via Investing.com)",
-      "link": "https://www.investing.com/news/stock-market-news/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-4861638"
+      "title": "ワイオミング州の女性、xAIの「Grok」を悪用した児童性的虐待画像生成で提訴",
+      "summary": "8月15日付のワシントン・ポストによると、ワイオミング州の女性が、義父がxAIのチャットボット「Grok」を使い自身の子供時代の写真から数千枚の性的虐待画像を生成したとして連邦訴訟を提起した。同社が法定の通報義務を十分に果たしていなかったとも主張している。",
+      "source": "The Washington Post",
+      "link": "https://www.washingtonpost.com/technology/2026/08/15/woman-alleges-grok-made-thousands-sexual-abuse-images-childhood-snap/"
     }
   ],
   "x_trending_tech": []
