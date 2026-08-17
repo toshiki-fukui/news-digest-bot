@@ -1,93 +1,123 @@
 {
-  "run_label": "8/17 19:30",
+  "run_label": "8/18 07:15",
   "politics_economy": [
     {
-      "title": "日本の4〜6月期GDP、年率1.1%増と市場予想を大きく下回る",
-      "summary": "内閣府が8月17日午前8時50分に発表した4〜6月期GDP1次速報は、実質年率1.1%増と民間予測の中心値(年率2.2%増)を大幅に下回った。個人消費が横ばいとなったことが主因で、9月の日銀利上げ判断にも影響する重要指標として市場が注目している。",
-      "source": "The Japan Times",
-      "link": "https://www.japantimes.co.jp/business/2026/08/17/economy/gdp-second-quarter/"
-    },
-    {
-      "title": "長期金利が一時2.930%、約30年ぶり高水準に上昇",
-      "summary": "8月17日、10年国債利回りが一時2.930%まで上昇し1996年以来約30年ぶりの高水準となった。日銀の早期・加速的な利上げ観測や財政拡大懸念が背景で、円相場も上昇した。",
-      "source": "Bloomberg Japan",
-      "link": "https://www.bloomberg.com/jp/news/articles/2026-08-17/TJVXNRKK3NYB00"
-    },
-    {
-      "title": "日経平均が5日続伸、1カ月半ぶりに6万9000円台を回復",
-      "summary": "8月17日の東京株式市場で日経平均株価は5営業日続伸し、前週末比506円45銭高の6万9220円25銭で取引を終えた。AI・半導体関連株への買いが相場を押し上げ、7月6日以来およそ1カ月半ぶりの高値水準となった。",
-      "source": "財経新聞",
-      "link": "https://www.zaikei.co.jp/article/20260817/866153.html"
-    },
-    {
-      "title": "中国調査船、沖縄・久米島沖の日本EEZ内で海洋調査を継続",
-      "summary": "第11管区海上保安本部によると、中国の海洋調査船「向陽紅21」が沖縄県久米島沖約106キロの日本の排他的経済水域(EEZ)内で海中にワイヤ状の物を延ばす調査活動を8月16日午後に確認され、無線で中止を求めたものの17日朝も活動を継続していることが分かった。",
+      "title": "中国海洋調査船、沖縄・久米島沖の日本EEZから離脱",
+      "summary": "第11管区海上保安本部などによると、日本の同意なく久米島沖の排他的経済水域(EEZ)内で海洋調査を行っていた中国の調査船が8月17日、EEZ外に離脱したことが確認された。無断調査への抗議が続く中での動き。",
       "source": "時事通信(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/7b1f783e28a8aabb0e7cddc128c73e9a17244a05"
+      "link": "https://news.yahoo.co.jp/articles/d119f07c9cbafabffd3fa6e60a1deaffd65f83a3"
     },
     {
-      "title": "高市首相、都内病院で「手などの検査」約6時間滞在",
-      "summary": "高市早苗首相は8月17日午前10時ごろ東京都内の病院を訪れ、関節リウマチの持病がある手などの検査を受け、約6時間滞在して午後4時20分ごろ退院した。今年2月の衆院選期間中に右手を痛めて以来、約半年ぶりの検査となる。",
-      "source": "時事通信(Infoseekニュース)",
-      "link": "https://news.infoseek.co.jp/article/jiji_2026081700763/"
+      "title": "高市首相、GDP速報値受け「緩やかな回復」とX投稿",
+      "summary": "高市早苗首相は8月17日、4〜6月期の実質GDP速報値が前期比年率1.1%増となったことを受け、自身のXで「景気は基調として緩やかな回復が続いている」と投稿。雇用・所得環境の改善が回復を支えるとの見方を示した。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUA176LW0X10C26A8000000/"
+    },
+    {
+      "title": "中道改革連合・立民・公明の合流協議、中間整理案「8月末めど結論」",
+      "summary": "中道改革連合、立憲民主党、公明党による合流協議で8月17日、中間整理案がまとまり、8月末をめどに結論を出す方針が示された。案には「高市政権と対峙」する姿勢が明記されている。",
+      "source": "NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015192161000"
+    },
+    {
+      "title": "千葉豪雨、死者10人に 捜索区域近くで新たに遺体2人発見",
+      "summary": "記録的豪雨に見舞われた千葉県で8月17日までに死者が10人となり、行方不明者2人の捜索が続く中、捜索エリア付近で新たに2人の遺体が発見された。千葉市内では放置車両約2500台への対応も課題となっている。",
+      "source": "共同通信(livedoorニュース)",
+      "link": "https://news.livedoor.com/topics/detail/32090037/"
+    },
+    {
+      "title": "東京都の最低賃金、10月から時給1280円に引き上げへ",
+      "summary": "東京地方最低賃金審議会は8月17日までに、2026年度の最低賃金を全国目安通り54円引き上げ時給1280円とする答申をまとめた。10月からの適用が見込まれ、全国では27都道府県で答申額が出そろっている。",
+      "source": "NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015197351000"
     }
   ],
   "tech": [
     {
-      "title": "CXMTの時価総額急伸、中国テック新時代の象徴に",
-      "summary": "中国メモリ大手CXMTが8月13日にテンセントを抜き中国本土・香港上場企業で時価総額トップに躍り出たことを受け、8月17日付Bloombergがその意味を分析。AI向けメモリ需要の急拡大が中国半導体産業の勢力図を塗り替えていると報じた。",
+      "title": "エヌビディア、OpenAIのオハイオ州データセンターに最大1050億ドル供与",
+      "summary": "エヌビディアは8月17日、SBエナジーが開発しOpenAIが借り上げるオハイオ州パイク郡の巨大データセンターに対し、最大1050億ドルの融資保証を行うと発表。同施設はエヌビディア製GPUを独占供給し、最大8ギガワット規模になる見込み。",
       "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-17/cxmt-s-rise-to-china-s-most-valuable-firm-heralds-new-tech-era"
+      "link": "https://www.bloomberg.com/news/articles/2026-08-17/nvidia-to-invest-up-to-105-billion-for-openai-data-center-in-ohio"
     },
     {
-      "title": "アリババ、ゲーム事業を1500億円超で売却しAIシフト加速",
-      "summary": "アリババがゲーム子会社リンシー・ゲームズをTrustar Capitalに15億ドル超で売却する方針と8月17日にBloombergが報道。非中核事業を手放しAI・クラウドに経営資源を集中する方針の一環。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-17/alibaba-to-sell-gaming-arm-for-1-5-billion-in-boost-to-ai-pivot"
+      "title": "GitHubで大規模障害、数万人に影響 Actions・Copilotなど停止",
+      "summary": "8月17日朝(米東部時間)、GitHubでAPI・Actions・Issues・Pull Requests・Copilotなど広範なサービスに影響する大規模障害が発生。Downdetectorには3000件超の報告が寄せられ、Web/APIのエラー率は約20%に達した。",
+      "source": "Forbes",
+      "link": "https://www.forbes.com/sites/conormurray/2026/08/17/what-we-know-about-github-outage-platform-reports-high-error-rates/"
     },
     {
-      "title": "アルファベット、豪ドル建て初の社債発行へ銀行団を起用",
-      "summary": "Googleの親会社アルファベットがAI投資拡大の資金調達のため、豪ドル建てとしては初となる社債発行に向けANZやドイツ銀行など主幹事を起用したと8月17日にBloombergが報道。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-17/alphabet-hires-banks-for-inaugural-aussie-dollar-bond-sale"
+      "title": "Stripe、AIゲートウェイのOpenRouter買収を正式合意 70億ドル超",
+      "summary": "Stripeは8月17日までに、400以上のAIモデルへのアクセスを提供するAIゲートウェイ「OpenRouter」を70億ドル超で買収することで正式合意したと報じられた。5月時点の評価額13億ドルから5倍超に急伸した。",
+      "source": "Axios",
+      "link": "https://www.axios.com/2026/08/17/stripe-openrouter-paypal"
     },
     {
-      "title": "キオクシア株、米サンディスク急伸を受け一時5.9%高",
-      "summary": "8月17日午前、共同でフラッシュメモリーを開発する米サンディスク株の連日の大幅高を受けキオクシアホールディングス株が一時5.9%上昇したと日本経済新聞が報じた。",
+      "title": "OpenAI、元COOなど幹部の離職相次ぐ IPO前に懸念広がる",
+      "summary": "OpenAIでブラッド・ライトキャップ元COOに続き最高収益責任者も退社するなど幹部の離職が相次いでいると8月17日付日本経済新聞が報道。IPO準備を控える中での人材流出に不安が広がっている。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOFL170SX0X10C26A8000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOGN112E50R10C26A8000000/"
     },
     {
-      "title": "インテルCEO、メモリー事業復帰に含み　マイクロン株にも影響",
-      "summary": "インテルCEOがメモリー事業を「収益性のないコモディティ事業」から見方を変えたと発言し、AI需要による品薄・値上がりが続く中でマイクロンなどメモリー株への思惑が広がっていると8月17日付Invezzが報じた。",
-      "source": "Invezz",
-      "link": "https://invezz.com/en-ae/news/2026/08/17/intel-eyes-a-memory-comeback-why-the-timing-matters-for-micron-stock/"
+      "title": "サムスン・SKハイニックス、上期の半導体設備投資が35%増",
+      "summary": "TrendForceが8月17日に報じたところによると、サムスン電子とSKハイニックスの2026年上期の半導体設備投資は合計約43兆ウォンとなり前年同期比35%増。AI向けメモリー需要の逼迫を背景に稼働率はほぼ100%に達している。",
+      "source": "TrendForce",
+      "link": "https://www.trendforce.com/news/2026/08/17/news-samsung-sk-hynix-1h26-chip-facility-investment-up-35-nvidia-not-among-samsungs-top-five-customers/"
     },
     {
-      "title": "愛子さま、半導体物理国際会議の開会式に出席",
-      "summary": "天皇皇后両陛下の長女・愛子さまが8月17日、東京都内で開催された第37回半導体物理国際会議の開会式に出席。34カ国・地域から800人超が参加し、日本開催は26年ぶり。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUD170EB0X10C26A8000000/"
+      "title": "グーグル、画像生成AI「Imagen 4」系列APIを8月17日で提供終了",
+      "summary": "グーグルは8月17日、Imagen 4の標準・Ultra・Fast各APIモデルの提供を終了した。開発者には後継の「Gemini 3.1 Flash Image」への移行を呼びかけている。",
+      "source": "Kingy AI",
+      "link": "https://kingy.ai/ai-launch-tracker/google-will-shut-down-three-imagen-4-api-models-august-17/"
     },
     {
-      "title": "両毛システムズ、社内システムに不正アクセス被害",
-      "summary": "群馬県のITソリューション会社・両毛システムズは、社内システムへの不正アクセスを確認したとITmedia NEWSが8月17日付で報じた。8月14日に不正アクセスを確認し15日に第一報が出ていたが、情報流出の有無や侵入経路、被害範囲は現在も調査中。",
-      "source": "ITmedia NEWS",
-      "link": "https://www.itmedia.co.jp/news/article/2608/17/2000000566/"
+      "title": "Windows OEMライセンス料が「サイレント値上げ」 PC高騰の一因に",
+      "summary": "マイクロソフトがWindows 11のOEMライセンス料を平均7〜10%引き上げていたことが判明したとITmedia PC USERが8月17日付で報道。DRAM・CPU高騰と重なり、PC価格はさらに5%程度上昇する見通しで、AI投資回収の思惑も指摘されている。",
+      "source": "ITmedia PC USER",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2608/17/news055.html"
     },
     {
-      "title": "30万円の「Radeon AI PRO R9700」を自腹購入、ローカルLLMで検証",
-      "summary": "PC Watchの連載「Ubuntu日和」第91回が8月17日朝に公開。筆者がVRAM32GB搭載のAI向けGPU「Radeon AI PRO R9700」を約30万円で自腹購入し、ローカル環境のLLMにアプリを作らせて得られた気づきを検証している。",
-      "source": "PC Watch(Impress)",
-      "link": "https://pc.watch.impress.co.jp/docs/column/ubuntu/2132799.html"
+      "title": "xAIのGrok、児童性的虐待画像生成めぐる訴訟に新たな原告",
+      "summary": "イーロン・マスク氏率いるxAIのチャットボット「Grok」が児童の写真を悪用した性的虐待画像を生成したとする訴訟に、新たな原告女性が加わったと8月17日付Engadgetが報道。同種の訴訟が拡大している。",
+      "source": "Engadget",
+      "link": "https://www.engadget.com/2237875/another-woman-joins-lawsuit-accusing-grok-of-generating-csam/"
+    },
+    {
+      "title": "Meta、子どもの安全巡る州検事総長との大型裁判が開始",
+      "summary": "カリフォルニア州司法長官ら29州の検事総長が原告となり、Metaが未成年者を依存させる設計を意図的に行ったと訴える裁判の冒頭陳述が8月17日、オークランドの裁判所で始まった。請求賠償額は最大1.4兆ドルに上るとされる。",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html"
+    },
+    {
+      "title": "中国Unitree、上海上場を控え新型ロボット「Superman」発表",
+      "summary": "中国の人型ロボット大手Unitreeは8月17日、開発期間約3カ月という新型高速ロボット「Superman」を発表。垂直跳び2メートル、最高速度は秒速12.66mに達するとしている。今週水曜には上海証券取引所科創板への上場を控える。",
+      "source": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/chinese-humanoid-robot-maker-unitree-123559978.html"
     }
   ],
   "x_trending_tech": [
     {
-      "title": "Claude AIで大規模な障害が発生、ユーザーから報告続出",
-      "summary": "Downdetector公式アカウントが8/17朝7時ごろ(日本時間)、Claude AIの不具合報告が急増していると投稿。Anthropicのステータスページでも同時間帯にインシデントが記録されている。",
+      "title": "ジェンセン・フアンCEO、OpenAIオハイオ案件で「循環取引ではない」と説明",
+      "summary": "エヌビディアのジェンセン・フアンCEOが8/17、OpenAIとのオハイオ州データセンター契約について「土地・電力・シェル」という新方式を説明し、循環金融との指摘に反論する投稿をXで行った。",
+      "source": "@JensenHuang",
+      "link": "https://x.com/JensenHuang/status/2089331487342829862"
+    },
+    {
+      "title": "OpenAI公式、パイク郡AIキャンパス参画を発表",
+      "summary": "OpenAIの公式ニュースルームアカウントが8/17、SBエナジー・エヌビディア・米エネルギー省と共同でオハイオ州パイク郡のデータセンター容量を活用する契約を結んだと投稿。地元学生へのChatGPTクレジット提供なども発表した。",
+      "source": "@OpenAINewsroom",
+      "link": "https://x.com/OpenAINewsroom/status/2089364481478721572"
+    },
+    {
+      "title": "Downdetector、GitHub障害の急増を報告",
+      "summary": "Downdetector公式アカウントが8/17夜(日本時間、米東部時間午前9時45分ごろ)、GitHubの障害報告が急増していると投稿。#GithubDownのハッシュタグとともに拡散した。",
       "source": "@downdetector",
-      "link": "https://x.com/downdetector/status/2089110016951283736"
+      "link": "https://x.com/downdetector/status/2089347917211439604"
+    },
+    {
+      "title": "GitHub障害でマスコットのユニコーンが怒る画像が話題に",
+      "summary": "8/17夜のGitHub障害を受け、日本のユーザーが「怒りたいのはこちらなのに、ユニコーンがめっちゃ怒ってる」とGitHubのエラーページ画像とともに投稿し、共感を集めた。",
+      "source": "@___nix___",
+      "link": "https://x.com/___nix___/status/2089354209888182683"
     }
   ]
 }
