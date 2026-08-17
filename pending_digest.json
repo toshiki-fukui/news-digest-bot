@@ -1,55 +1,67 @@
 {
-  "run_label": "8/16 19:00",
+  "run_label": "8/17 13:30",
   "politics_economy": [
     {
-      "title": "尖閣諸島沖の日本EEZで中国調査船が活動、海保が中止要求",
-      "summary": "8月15日午後4時50分ごろ、尖閣諸島周辺の日本の排他的経済水域(EEZ)内で中国の海洋調査船がワイヤ状の物体を海中に降ろしているのを海上保安庁が確認し、無許可の海洋調査だとして中止を要求した。調査船は同日午後10時15分ごろ区域外へ移動した。16日発表。",
-      "source": "共同通信/日本経済新聞",
-      "link": "https://news.yahoo.co.jp/articles/8be74e76f6004c2c5b23b82f8276362b8c939fce"
-    },
-    {
-      "title": "首相のX投稿、行政文書に該当せず 保存義務求める声も",
-      "summary": "高市早苗首相が情報発信に使うX(旧ツイッター)について、内閣府は公文書管理法上の「行政文書」に当たらず保存義務の対象外との見解を示していることが16日分かった。専門家からは政策決定過程の検証のため保存の仕組み整備を求める声が出ている。",
-      "source": "共同通信",
-      "link": "https://news.yahoo.co.jp/articles/5d36f1903a25c5e8c71aac657995d1c35244f9a1"
-    },
-    {
-      "title": "自民・岸田元首相と萩生田幹事長代行ら、山梨の別荘で会合",
-      "summary": "自民党の岸田文雄元首相、萩生田光一幹事長代行、加藤勝信前財務相、赤澤経済産業相らが15日夜、山梨県鳴沢村の別荘で約3時間半にわたり会合し、高市政権を取り巻く政治情勢などについて意見交換した。安倍元首相をしのぶ会ともなったという。",
-      "source": "NHKニュース",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260815de44321"
-    },
-    {
-      "title": "個人向け国債の発行、金利上昇で最高ペース 4〜8月は前年比6割増",
-      "summary": "2026年度の個人向け国債発行額が4〜8月の5カ月間で約4兆円に達し、前年同期比で6割増と過去最高ペースとなっていることが16日までの集計で判明した。金利上昇を背景に安全資産を求める個人の国債シフトが加速している。",
+      "title": "4〜6月期GDP、年率1.1%増 3期連続プラスも民間予測下回る",
+      "summary": "内閣府が8/17午前に発表。個人消費が8四半期ぶりに減少した一方、外需寄与度はプラスとなった。民間予測(年率2.2%程度)を下回る結果。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUA056190V00C26A8000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOUA122YX0S6A810C2000000/"
+    },
+    {
+      "title": "日経平均、前引けは5営業日続伸 7円高の6万8721円",
+      "summary": "8/17午前、GDP発表を受けつつも底堅い動きとなり5営業日続伸。寄り付きは168円高の6万8882円でスタートした。",
+      "source": "株探",
+      "link": "https://s.kabutan.jp/news/n202608170398/"
+    },
+    {
+      "title": "円相場、実需の買いで158円台後半に上昇",
+      "summary": "8/17正午にかけて、輸出企業などの実需の円買いが優勢となり、対ドルで158円台後半まで円高が進んだ。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOFL171V70X10C26A8000000/"
+    },
+    {
+      "title": "米長期金利、原油高で上昇 円は対ドルで159円台前半",
+      "summary": "8/16、中東情勢を背景とした原油高を受けて米長期金利が上昇し、債券相場は下落。円は159円台前半で推移した。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/jp/news/articles/2026-08-16/TJQCWOT9NJLV00?srnd=jp-homepage"
     }
   ],
   "tech": [
     {
-      "title": "アリババの「Qwen」ダウンロード数が30億件突破、Google・Metaを抜き世界最多のオープンモデルに",
-      "summary": "アリババは8月15日、AIモデル群「Qwen」の累計ダウンロード数が過去半年で30億件を超えたと発表した。Hugging FaceのデータによるとGoogleの4億1800万件、Metaの2億2700万件を大きく上回り、オープンソースAIモデルで世界首位に立った。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-15/alibaba-ai-models-hit-3-billion-downloads-passing-meta-google"
+      "title": "Stripe、AIゲートウェイ「OpenRouter」を70億ドル超で買収",
+      "summary": "決済大手Stripeが、複数のAIモデルを切り替えて利用できるAIゲートウェイ企業OpenRouterを70億ドル超で買収する契約を締結したと8/16報じられた。直近の資金調達時評価額(13億ドル)の5倍超の価格。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/"
     },
     {
-      "title": "AI需要によるメモリー不足が「チップフレーション」に、英国のインフレ加速でイングランド銀行が警戒",
-      "summary": "AI向けメモリーチップの需給逼迫がスマートフォンやPC、クラウド価格の上昇を通じて英国の消費者物価を押し上げており、イングランド銀行が警戒を強めていると8月15日付ブルームバーグが報じた。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-15/ai-chipflation-washes-ashore-in-the-uk-economy"
+      "title": "Nvidia、OpenAIのオハイオ州データセンターへの財務保証を2500億ドルから1200億ドル未満に縮小",
+      "summary": "投資家からのリスク懸念を受け、Nvidiaが財務保証の対象をデータセンター建設の第1フェーズ(約5GW分)に限定する方向で調整していると8/16、WSJ報道として伝えられた。",
+      "source": "Yahoo Finance(WSJ報道)",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-scales-back-250-billion-234356524.html"
     },
     {
-      "title": "ソフトバンクグループ、台湾TSMC株の保有を72%削減と開示",
-      "summary": "ソフトバンクグループが第2四半期に台湾TSMCのADR保有を198万5000株から56万5000株へと7割超売却し、約2.7億ドルを現金化したことが8月15日、米SEC提出資料で明らかになった。AI関連投資の軸足をエコシステム全体へ移す動きの一環とみられる。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/jp/news/articles/2026-08-15/TJSEIYT96OSJ00"
+      "title": "Meta、SNS依存訴訟の審理開始 賠償額は最大1.4兆ドルの可能性",
+      "summary": "米カリフォルニア州の連邦地裁で、Metaが未成年をSNSに依存させたとして29州が提訴した訴訟の審理が開始。Meta自身が最大1.4兆ドルの賠償リスクを示している。",
+      "source": "Benzinga",
+      "link": "https://www.benzinga.com/markets/tech/26/08/61237271/damages-could-reach-1-4-trillion-in-landmark-meta-social-media-addiction-trial"
     },
     {
-      "title": "ワイオミング州の女性、xAIの「Grok」を悪用した児童性的虐待画像生成で提訴",
-      "summary": "8月15日付のワシントン・ポストによると、ワイオミング州の女性が、義父がxAIのチャットボット「Grok」を使い自身の子供時代の写真から数千枚の性的虐待画像を生成したとして連邦訴訟を提起した。同社が法定の通報義務を十分に果たしていなかったとも主張している。",
-      "source": "The Washington Post",
-      "link": "https://www.washingtonpost.com/technology/2026/08/15/woman-alleges-grok-made-thousands-sexual-abuse-images-childhood-snap/"
+      "title": "TSMC、4〜6月期は売上高36%増で四半期過去最高 AI向け半導体が牽引",
+      "summary": "TSMCが8/16に4〜6月期決算を発表。売上高は前年同期比36%増の1兆2703億台湾ドル、純利益は77%増と四半期ベースで過去最高を更新した。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOGM132WO0T10C26A7000000/"
+    },
+    {
+      "title": "Tokyo Artisan Intelligence、エッジAI向け半導体「Sting Ray」の実機デモを披露",
+      "summary": "国内スタートアップTAIが、リコンフィギャラブル型AI半導体のテストチップ「Sting Ray」を用いた実機デモを8/17公開。2027年の量産チップ「Manta Ray」提供を計画している。",
+      "source": "マイナビTECH+",
+      "link": "https://news.mynavi.jp/techplus/article/20260817-4819428/"
+    },
+    {
+      "title": "2026年の世界半導体市場、前年比89.9%増の1兆5112億ドルへ 過去最大の成長率",
+      "summary": "AI向け需要の急拡大を背景に、2026年の世界半導体市場規模が1987年以降で最大の伸び率となる見通しであることが8/17報じられた。",
+      "source": "ライブドアニュース",
+      "link": "https://news.livedoor.com/topics/detail/32082815/"
     }
   ],
   "x_trending_tech": []
