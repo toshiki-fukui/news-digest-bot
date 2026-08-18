@@ -1,86 +1,117 @@
 {
-  "run_label": "8/18 19:10",
+  "run_label": "8/19 07:15",
   "politics_economy": [
     {
-      "title": "日経平均、6日ぶり大幅反落 1759円安 中東懸念と金利上昇で",
-      "summary": "8月18日の東京株式市場で日経平均株価は前日比1759円52銭（2.54%）安の6万7460円73銭と6営業日ぶりに大幅反落した。中東情勢の先行き不透明感や日米の長期金利上昇を背景に、値がさのAI・半導体関連株が売られた。",
+      "title": "日経225先物、19日未明にさらに下落 一時1170円安の6万6370円",
+      "summary": "19日未明の大阪取引所で日経225先物は前日比一時1170円安の6万6370円まで下落した。前日18日の現物市場が6営業日ぶりに大幅反落した流れが続き、中東情勢の先行き不透明感や金利上昇への警戒が引き続き重荷となっている。",
+      "source": "株探",
+      "link": "https://s.kabutan.jp/news/n202608190017/"
+    },
+    {
+      "title": "円相場、4営業日ぶり反落 159円台後半 中東不安根強く",
+      "summary": "8月18日の東京外国為替市場で円相場は4営業日ぶりに反落し、17時時点では前日比76銭の円安・ドル高となる1ドル=159円71〜73銭で推移した。米イラン交渉の期限切れを受けた原油高から、日本の貿易収支悪化懸念による円売りが優勢となった。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOFL180G70Y6A810C2000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOFL184G00Y6A810C2000000/"
     },
     {
-      "title": "長期金利、一時2.945%まで上昇 30年ぶりの高水準",
-      "summary": "8月18日の国内債券市場で新発10年物国債の利回りが一時2.945%まで上昇し、1996年9月以来約30年ぶりの高水準を記録した。原油高や円安による物価上振れ懸念、日銀の追加利上げ観測、財政運営への不安が背景にある。",
+      "title": "日経平均、アドバンテスト・東京エレクトロンの2銘柄で836円押し下げ",
+      "summary": "8月18日の東京株式市場で日経平均は6営業日ぶりに大幅反落した。値がさの半導体関連であるアドバンテストと東京エレクトロンの下落だけで指数を合計約836円押し下げ、下落の主因となった。",
+      "source": "財経新聞",
+      "link": "https://www.zaikei.co.jp/article/20260818/866374.html"
+    },
+    {
+      "title": "高市首相、熊本地震・千葉豪雨の非常災害対策本部会議に出席",
+      "summary": "高市早苗首相は8月18日、令和8年熊本地震の非常災害対策本部会議と令和8年8月千葉豪雨に関する関係閣僚会議に出席し、被災地の早期復旧やなりわい再建に向けた対応方針を確認した。",
+      "source": "首相官邸",
+      "link": "https://www.kantei.go.jp/jp/105/actions/202608/18hijoukaigi_chibagouu.html"
+    },
+    {
+      "title": "米国債30年物利回り、19年ぶり5.3%台に上昇 日本の金利高が波及",
+      "summary": "日本の長期金利が30年ぶりの高水準まで上昇する中、米国債市場でも償還期間30年の利回りが一時5.3%台まで上昇し19年ぶりの高水準を付けた。財政懸念とAI投資拡大への警戒が世界的な金利上昇として波及している。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUB1747W0X10C26A8000000/"
-    },
-    {
-      "title": "高市首相、熊本地震を「激甚災害」に指定へ 予備費200億円超を活用",
-      "summary": "高市早苗首相は令和8年熊本地震を「激甚災害」に指定する方針を固め、今年度予算の予備費200億円超の使用を閣議決定する考えを示した。宇城市や氷川町、鹿島町なども局地激甚災害に追加指定される見通し。",
-      "source": "NHKニュース",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015194841000"
-    },
-    {
-      "title": "沖縄の南で熱帯低気圧2個が発生 「ダブル台風のたまご」に注意",
-      "summary": "8月18日の気象庁天気図で、沖縄の南に新たな熱帯低気圧（台風のたまご）が2個発生していることが確認された。今後の北上に伴い日本への影響が懸念されるため、進路や雨・風のシミュレーションへの注意が呼びかけられている。",
-      "source": "RSK山陽放送(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/d5d0a4b571d3d3ca4912c7f34052cd22fe65a564"
-    },
-    {
-      "title": "千葉豪雨で運休のJR外房線、大網〜本納間が8月18日始発から運転再開",
-      "summary": "記録的豪雨で被災したJR外房線は8月18日の始発から大網〜本納間の運転を再開した。被害の大きい誉田〜大網間は8月24日の再開を目指し復旧作業が続いており、特急「わかしお」は全線再開まで運休が続く。",
-      "source": "レイルラボニュース",
-      "link": "https://raillab.jp/news/article/35262"
+      "link": "https://www.nikkei.com/article/DGXZQOGN179HZ0X10C26A8000000/"
     }
   ],
   "tech": [
     {
-      "title": "NY株式市場、原油高で続落 半導体株はアンソロピック好決算で堅調",
-      "summary": "8月17日のNY市場でダウ平均は原油高を嫌気して272ドル安と続落。一方、半導体・同製造装置セクターはAnthropicの第2四半期売上高が前年同期比14倍超に伸びたと伝わったことでAI需要拡大への期待から買いが入った。",
-      "source": "時事通信(Yahoo!ファイナンス)",
-      "link": "https://finance.yahoo.co.jp/news/detail/e1fe65a328b2501e89c5cf65e99abcd282f2da2e"
+      "title": "Anthropic、Claude/Claude Codeで大規模障害 3日で2度目",
+      "summary": "Anthropicは8月18日16時20分(UTC、日本時間19日未明)、Claude Opus 5・Sonnet 5・Haiku 4.5など複数モデルで性能低下を確認したと発表。Downdetectorには4000件超の報告が寄せられ、特にClaude Codeでの不具合報告が多かった。8月16日の障害からわずか2日後の再発となる。",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-major-outage-affecting-multiple-services/"
     },
     {
-      "title": "GitHub、約8時間に及んだ大規模障害から復旧 修正実施を発表",
-      "summary": "8月17日に発生したGitHubの大規模障害はActions・API・Pull Requests・Copilotなど広範なサービスに影響した。GitHubは原因箇所を特定して修正を実施し、発生から約8時間後にサービスを復旧させたと発表した。",
-      "source": "InfoWorld",
-      "link": "https://www.infoworld.com/article/4210864/github-restores-services-after-nearly-8-hour-outage-disrupts-actions-apis-prs-and-copilot.html"
+      "title": "OpenAI、13〜17歳向け「ChatGPT for Teens」提供開始",
+      "summary": "OpenAIは8月18日、13〜17歳向けの新しいChatGPT体験「ChatGPT for Teens」の提供を開始したと発表。自傷行為や恋愛・性的な会話を制限し、年齢推定システムで該当ユーザーを自動的にティーン向け体験に振り分ける仕組み。",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/08/18/openai-chatgpt-for-teens-safety.html"
     },
     {
-      "title": "Broadcomの巨額AI投資、2029年までに負債3700億ドル規模の可能性",
-      "summary": "Broadcomのチップ向け金融ビークルが2029年半ばまでに最大3700億ドルの上級負債を抱える可能性があるとBofAのアナリストが試算。ただしBroadcom自体が直接負う債務ではなく、深刻視するほどではないとの分析も出ている。",
-      "source": "The Motley Fool",
-      "link": "https://www.fool.com/investing/2026/08/17/broadcom-s-ai-financing-could-reach-usd370-billion-but-it-s-not-as-bad-as-it-sounds/"
+      "title": "Meta、児童安全問題めぐる連邦訴訟が開廷 最大1.4兆ドル規模の請求も",
+      "summary": "カリフォルニア州など複数州の司法長官がMetaを相手取り、FacebookやInstagramの設計が若年層のメンタルヘルスを害したとして起こした裁判の冒頭陳述が8月18日に始まった。損害賠償は理論上最大1.4兆ドルに上る可能性がある。",
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/08/18/nx-s1-5935458/meta-child-safety-social-media-addiction-trial-opening"
     },
     {
-      "title": "Waymo、カリフォルニア州で自動運転タクシー事業を拡大 サクラメント・サンディエゴにも進出",
-      "summary": "Waymoは加州公益事業委員会(CPUC)の承認を受け、サンフランシスコ・ベイエリアやロサンゼルスなど18郡でのサービス拡大に加え、サクラメントとサンディエゴでも新たに自動運転配車サービスを提供する計画を明らかにした。",
-      "source": "Electrek",
-      "link": "https://electrek.co/2026/08/14/waymo-cpuc-approval-california-expansion-18-counties/"
+      "title": "Amazon傘下Zoox、ロボタクシーをサンフランシスコ・ラスベガスへ本格展開",
+      "summary": "Amazon傘下の自動運転企業Zooxは8月18日、専用設計のロボタクシーをサンフランシスコとラスベガスで本格的に展開すると発表した。安全運転員なしで走行し、Teslaのロボタクシー事業と直接競合する形となる。",
+      "source": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/08/18/amazons-zoox-is-expanding-its-robotaxi-to-san-francisco-and-las-vegas-tesla-should-be-worried-2/"
     },
     {
-      "title": "AMD、過去最大級75億ドルの社債発行 AI・データセンター投資を強化",
-      "summary": "AMDは2029〜2036年満期の4本立てで総額47億5000万ドルの社債を発行し、同社史上最大の起債となった。データセンター事業の急拡大に伴うインフラ投資資金に充てる見込みで、決済は8月17日に行われた。",
-      "source": "The Motley Fool",
-      "link": "https://www.fool.com/investing/2026/08/15/amd-just-borrowed-475-billion-more-than-triple-its/"
+      "title": "Apple、カメラ搭載AirPods「B790」の実機映像がmacOSから流出",
+      "summary": "macOS Tahoe 26.7のリリース候補版に隠されていたデモ動画から、開発中とされるカメラ搭載AirPods「B790」の実機映像が発見された。書籍のタイトルをカメラで読み取りSiriのVisual Intelligenceが情報を提示する様子が映っている。",
+      "source": "9to5Mac",
+      "link": "https://9to5mac.com/2026/08/17/airpods-with-camera-get-their-clearest-leak-yet/"
     },
     {
-      "title": "マネーフォワード、ChatGPT・Claudeの利用料を一元管理する無料の法人向けサービス開始",
-      "summary": "マネーフォワードは8月17日、複数のAIサービスの利用量・コストをダッシュボードで一元管理できる新サービス「マネーフォワード クラウドAIトークン管理」の提供を始めた。ChatGPTやClaudeに対応し、共通IDを取得すれば無料で利用できる。",
-      "source": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/18/2000000571/"
+      "title": "AI音声入力のWispr、280億円調達 新音声モデル「Canto」も発表",
+      "summary": "AI音声入力スタートアップのWisprはMenlo Ventures主導のシリーズBで2億8000万ドルを調達し、評価額20億ドルとなった。同時発表の新音声モデル「Canto」は誤認識率を30%から10%未満に低減するという。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/"
     },
     {
-      "title": "Meta従業員26人、AIを使ったレイオフめぐり提訴 休職者を標的と主張",
-      "summary": "Metaの従業員26人が、休職中や育児・家族休暇中の社員を狙い撃ちする形でAIを活用した人員削減が行われたとして、オークランド連邦地裁に提訴した。キーストローク監視データやAIトークン使用状況などを解雇判断に利用したと主張している。",
-      "source": "CBS News",
-      "link": "https://www.cbsnews.com/news/26-meta-workers-sue-ai-aided-layoffs-medical-family-leave/"
+      "title": "GitHub Copilot Autofixが関与したコードの脆弱性、Snowflakeで悪用される",
+      "summary": "セキュリティ企業WizのAIエージェント「Red Agent」が、GitHub Copilot Autofixが手を加えたSnowflakeのリポジトリに残っていたシェルインジェクション脆弱性を突き、内部Jiraへの不正アクセスに成功したと報告。GitHub側は脆弱なコードは人間が書いたものだと反論している。",
+      "source": "Forbes",
+      "link": "https://www.forbes.com/sites/timkeary/2026/08/17/github-copilot-missed-a-vulnerability-that-wizs-ai-agent-found/"
     },
     {
-      "title": "AIチップ新興Cerebras株が急伸 モルガン・スタンレーが強気の目標株価",
-      "summary": "IPO後のAI半導体スタートアップCerebras Systemsの株価が急伸した。モルガン・スタンレーは2027年までにコア収益が3倍超になるとの見通しを示し目標株価を引き上げ、同社チップはOpenAIの新モデルの高速推論モードにも採用されている。",
-      "source": "StocksToTrade",
-      "link": "https://stockstotrade.com/news/cerebras-systems-inc-cbrs-news-2026_08_17-3/"
+      "title": "ソフトバンクG、個人向け社債1兆円発行へ 国内企業で過去最大 AI投資に充当",
+      "summary": "ソフトバンクグループが個人投資家向け社債を1兆円規模で発行する準備を進めていることが8月18日に分かった。国内企業の個人向け社債として過去最大となる見通しで、世界的なAI投資競争に伴う資金需要に対応する。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUB0752I0X00C26A8000000/"
+    },
+    {
+      "title": "NEC、業務自動化AIエージェント「NEC cotomi Agent」をMicrosoft Marketplaceで提供開始",
+      "summary": "NECは8月18日、独自技術「cotomi Act」を活用した業務自動化AIエージェント「NEC cotomi Agent」をMicrosoft Marketplace経由で国内販売開始したと発表。経費精算や勤怠管理など定型業務の自動化を狙う。",
+      "source": "AI Watch(Impress)",
+      "link": "https://ai.watch.impress.co.jp/docs/news/2133450.html"
     }
   ],
-  "x_trending_tech": []
+  "x_trending_tech": [
+    {
+      "title": "ソフトバンクG、個人向け社債1兆円で過去最大へ AI投資の資金調達と速報",
+      "summary": "日本経済新聞の公式Xが、ソフトバンクグループが個人向け社債を過去最大の1兆円規模で発行準備中と速報した投稿。8/18午後(日本時間22時台)の投稿。",
+      "source": "@nikkei",
+      "link": "https://x.com/nikkei/status/2089706596704162241"
+    },
+    {
+      "title": "Claude AIが再びダウン、Downdetectorに報告相次ぐ",
+      "summary": "Downdetector公式Xが「米東部時間12:39PMからClaude AIの不具合報告が寄せられている」と投稿。8/19未明(日本時間)、Anthropicの3日で2度目の障害を伝えるもの。",
+      "source": "@downdetector",
+      "link": "https://x.com/downdetector/status/2089754063407636596"
+    },
+    {
+      "title": "Metaの児童安全訴訟、開廷を伝える報道が話題に",
+      "summary": "CNBC-TV18の公式Xが「Metaにとって過去最大級の若年層安全性を問う裁判が始まった。29州がFacebook・Instagramを標的に」と投稿。8/18昼(日本時間19時台)の投稿。",
+      "source": "@CNBCTV18Live",
+      "link": "https://x.com/CNBCTV18Live/status/2089666879271108815"
+    },
+    {
+      "title": "カメラ搭載AirPods「B790」の実機映像、macOSから発見と話題に",
+      "summary": "9to5Mac公式Xが「本日のmacOS Tahoe 26.7リリース候補版で見つかった動画」としてカメラ搭載AirPodsのVisual Intelligence機能を使う様子を投稿し話題に。8/18朝(日本時間11時頃)の投稿。",
+      "source": "@9to5mac",
+      "link": "https://x.com/9to5mac/status/2089533414823109031"
+    }
+  ]
 }
