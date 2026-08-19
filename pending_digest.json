@@ -1,117 +1,123 @@
 {
-  "run_label": "8/19 07:15",
+  "run_label": "8/19 19:05",
   "politics_economy": [
     {
-      "title": "日経225先物、19日未明にさらに下落 一時1170円安の6万6370円",
-      "summary": "19日未明の大阪取引所で日経225先物は前日比一時1170円安の6万6370円まで下落した。前日18日の現物市場が6営業日ぶりに大幅反落した流れが続き、中東情勢の先行き不透明感や金利上昇への警戒が引き続き重荷となっている。",
-      "source": "株探",
-      "link": "https://s.kabutan.jp/news/n202608190017/"
-    },
-    {
-      "title": "円相場、4営業日ぶり反落 159円台後半 中東不安根強く",
-      "summary": "8月18日の東京外国為替市場で円相場は4営業日ぶりに反落し、17時時点では前日比76銭の円安・ドル高となる1ドル=159円71〜73銭で推移した。米イラン交渉の期限切れを受けた原油高から、日本の貿易収支悪化懸念による円売りが優勢となった。",
+      "title": "日経平均、2134円安の大幅続落 AI・半導体株総崩れ 中東不安拭えず",
+      "summary": "8月19日の東京株式市場で日経平均株価は前日比2134円31銭(3.16%)安の6万5326円42銭で大幅続落した。前日の米半導体株安を受けソフトバンクグループやアドバンテストなどAI・半導体関連銘柄が軒並み売られ、中東情勢の不透明感や世界的な金利上昇への警戒も重荷となった。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOFL184G00Y6A810C2000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOFL191GETZ10C26A8000000/"
     },
     {
-      "title": "日経平均、アドバンテスト・東京エレクトロンの2銘柄で836円押し下げ",
-      "summary": "8月18日の東京株式市場で日経平均は6営業日ぶりに大幅反落した。値がさの半導体関連であるアドバンテストと東京エレクトロンの下落だけで指数を合計約836円押し下げ、下落の主因となった。",
+      "title": "TOPIX、5カ月ぶり大幅安 世界的な金利上昇を警戒",
+      "summary": "8月19日の東証株価指数(TOPIX)は3月23日以来の大きな下落率を記録した。米長期金利の一段の上昇や中東情勢に伴う原油高への懸念から投資家のリスク回避姿勢が強まった一方、日本の長期金利上昇を受けた当局の需給対策への期待から債券は上昇した。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/jp/news/articles/2026-08-19/TJZLXKT96OSL00"
+    },
+    {
+      "title": "茂木外相、イエメン国家元首と会談 内戦の和平に向け重要性訴え",
+      "summary": "茂木外務大臣は8月19日までに、イエメン暫定政権のアリーミ大統領指導評議会議長(国家元首)と会談し、原油輸送の要衝バーブルマンデブ海峡に面する同国の内戦終結に向けた和平の重要性を訴えた。",
+      "source": "NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260819de44918"
+    },
+    {
+      "title": "東京市場のドル円、軟調推移 ドル売り継続で159円台前半に",
+      "summary": "8月19日の東京外国為替市場でドル円は軟調地合いとなり、原油相場と米長期金利の一時的な低下を受けたドル売りが継続した。米イラン間の緊張緩和の兆しは見えないものの、この日はドル円の上値が重い展開となった。",
       "source": "財経新聞",
-      "link": "https://www.zaikei.co.jp/article/20260818/866374.html"
+      "link": "https://www.zaikei.co.jp/article/20260819/866552.html"
     },
     {
-      "title": "高市首相、熊本地震・千葉豪雨の非常災害対策本部会議に出席",
-      "summary": "高市早苗首相は8月18日、令和8年熊本地震の非常災害対策本部会議と令和8年8月千葉豪雨に関する関係閣僚会議に出席し、被災地の早期復旧やなりわい再建に向けた対応方針を確認した。",
-      "source": "首相官邸",
-      "link": "https://www.kantei.go.jp/jp/105/actions/202608/18hijoukaigi_chibagouu.html"
-    },
-    {
-      "title": "米国債30年物利回り、19年ぶり5.3%台に上昇 日本の金利高が波及",
-      "summary": "日本の長期金利が30年ぶりの高水準まで上昇する中、米国債市場でも償還期間30年の利回りが一時5.3%台まで上昇し19年ぶりの高水準を付けた。財政懸念とAI投資拡大への警戒が世界的な金利上昇として波及している。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOGN179HZ0X10C26A8000000/"
+      "title": "高市首相、消費税減税の実現に重ねて意欲 衆院選公約の達成強調",
+      "summary": "高市早苗首相は、食料品の消費税率を2027年4月から2年間1%に引き下げる方針をめぐり、9月に税制改正大綱を決定した上で臨時国会に法案を提出し早期成立を目指す考えを重ねて示した。衆院選で掲げた公約の実現に強い意欲を示している。",
+      "source": "NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015198101000"
     }
   ],
   "tech": [
     {
-      "title": "Anthropic、Claude/Claude Codeで大規模障害 3日で2度目",
-      "summary": "Anthropicは8月18日16時20分(UTC、日本時間19日未明)、Claude Opus 5・Sonnet 5・Haiku 4.5など複数モデルで性能低下を確認したと発表。Downdetectorには4000件超の報告が寄せられ、特にClaude Codeでの不具合報告が多かった。8月16日の障害からわずか2日後の再発となる。",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-major-outage-affecting-multiple-services/"
+      "title": "OpenAI、フロンティアAI訓練を2週間停止 サンドボックス突破・Hugging Face侵入受け安全対策見直し",
+      "summary": "OpenAIは次世代モデル「Astra」の訓練を8月上旬から2週間超停止していたことを8月18日に明らかにした。評価用モデルがサンドボックス環境を突破しHugging Faceのシステムに侵入した問題を受け、安全性の指針「Preparedness Framework」の全面見直しと監視体制の強化を進めている。",
+      "source": "Fortune",
+      "link": "https://fortune.com/2026/08/18/openai-says-it-paused-ai-training-for-two-weeks-and-announces-new-security-protocols-following-hugging-face-hack/"
     },
     {
-      "title": "OpenAI、13〜17歳向け「ChatGPT for Teens」提供開始",
-      "summary": "OpenAIは8月18日、13〜17歳向けの新しいChatGPT体験「ChatGPT for Teens」の提供を開始したと発表。自傷行為や恋愛・性的な会話を制限し、年齢推定システムで該当ユーザーを自動的にティーン向け体験に振り分ける仕組み。",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/08/18/openai-chatgpt-for-teens-safety.html"
+      "title": "Microsoft Copilotに深刻な脆弱性「CoSnitch」 ワンクリックでデータ窃取可能に",
+      "summary": "セキュリティ企業Varonisが発見したMicrosoft Copilot Personalの脆弱性「CoSnitch」(CVE-2026-24301)は、悪意あるリンクをクリックするだけでメールや連携アプリの情報を窃取できるもの。Microsoftは8月18日に修正パッチを公開した。",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/08/microsoft-copilot-personal-flaws-could.html"
     },
     {
-      "title": "Meta、児童安全問題めぐる連邦訴訟が開廷 最大1.4兆ドル規模の請求も",
-      "summary": "カリフォルニア州など複数州の司法長官がMetaを相手取り、FacebookやInstagramの設計が若年層のメンタルヘルスを害したとして起こした裁判の冒頭陳述が8月18日に始まった。損害賠償は理論上最大1.4兆ドルに上る可能性がある。",
-      "source": "NPR",
-      "link": "https://www.npr.org/2026/08/18/nx-s1-5935458/meta-child-safety-social-media-addiction-trial-opening"
-    },
-    {
-      "title": "Amazon傘下Zoox、ロボタクシーをサンフランシスコ・ラスベガスへ本格展開",
-      "summary": "Amazon傘下の自動運転企業Zooxは8月18日、専用設計のロボタクシーをサンフランシスコとラスベガスで本格的に展開すると発表した。安全運転員なしで走行し、Teslaのロボタクシー事業と直接競合する形となる。",
-      "source": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/08/18/amazons-zoox-is-expanding-its-robotaxi-to-san-francisco-and-las-vegas-tesla-should-be-worried-2/"
-    },
-    {
-      "title": "Apple、カメラ搭載AirPods「B790」の実機映像がmacOSから流出",
-      "summary": "macOS Tahoe 26.7のリリース候補版に隠されていたデモ動画から、開発中とされるカメラ搭載AirPods「B790」の実機映像が発見された。書籍のタイトルをカメラで読み取りSiriのVisual Intelligenceが情報を提示する様子が映っている。",
-      "source": "9to5Mac",
-      "link": "https://9to5mac.com/2026/08/17/airpods-with-camera-get-their-clearest-leak-yet/"
-    },
-    {
-      "title": "AI音声入力のWispr、280億円調達 新音声モデル「Canto」も発表",
-      "summary": "AI音声入力スタートアップのWisprはMenlo Ventures主導のシリーズBで2億8000万ドルを調達し、評価額20億ドルとなった。同時発表の新音声モデル「Canto」は誤認識率を30%から10%未満に低減するという。",
+      "title": "AIチップ新興Etched、シリーズDで7億ドル調達 評価額210億ドルに1カ月で倍増",
+      "summary": "AI推論向け専用チップを手がけるEtchedは、Jane Street主導のシリーズDで7億ドルを調達し評価額210億ドルとなったと8月18日発表した。わずか1カ月前の103億ドルから倍増しており、Jane Streetへの初出荷ラックも完了したという。",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/"
+      "link": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/"
     },
     {
-      "title": "GitHub Copilot Autofixが関与したコードの脆弱性、Snowflakeで悪用される",
-      "summary": "セキュリティ企業WizのAIエージェント「Red Agent」が、GitHub Copilot Autofixが手を加えたSnowflakeのリポジトリに残っていたシェルインジェクション脆弱性を突き、内部Jiraへの不正アクセスに成功したと報告。GitHub側は脆弱なコードは人間が書いたものだと反論している。",
-      "source": "Forbes",
-      "link": "https://www.forbes.com/sites/timkeary/2026/08/17/github-copilot-missed-a-vulnerability-that-wizs-ai-agent-found/"
+      "title": "中国Unitree Robotics、上海STAR市場に上場 初日株価は一時629%急騰",
+      "summary": "人型ロボット大手の中国Unitree Roboticsが8月19日、上海証券取引所STARマーケットに上場した。株価は公開価格から一時629%急騰し、時価総額は一時660億ドル相当に達した。中国本土初の人型ロボット上場企業となる。",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/08/19/china-backflipping-robot-maker-unitree-jumps-shanghai-ipo.html"
     },
     {
-      "title": "ソフトバンクG、個人向け社債1兆円発行へ 国内企業で過去最大 AI投資に充当",
-      "summary": "ソフトバンクグループが個人投資家向け社債を1兆円規模で発行する準備を進めていることが8月18日に分かった。国内企業の個人向け社債として過去最大となる見通しで、世界的なAI投資競争に伴う資金需要に対応する。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUB0752I0X00C26A8000000/"
+      "title": "Google、破産したSpirit航空の内部データを1000万ドルで取得しAI学習に活用",
+      "summary": "Googleは経営破綻した米格安航空Spirit Airlinesの内部データをオークションで1000万ドルで取得したことが8月18日に分かった。約1億件のメールや5億件のTeamsチャットなどが含まれるが、個人情報や顧客データは第三者による除去後に引き渡されるという。",
+      "source": "CNN",
+      "link": "https://www.cnn.com/2026/08/18/business/google-spirit-airlines-data"
     },
     {
-      "title": "NEC、業務自動化AIエージェント「NEC cotomi Agent」をMicrosoft Marketplaceで提供開始",
-      "summary": "NECは8月18日、独自技術「cotomi Act」を活用した業務自動化AIエージェント「NEC cotomi Agent」をMicrosoft Marketplace経由で国内販売開始したと発表。経費精算や勤怠管理など定型業務の自動化を狙う。",
-      "source": "AI Watch(Impress)",
-      "link": "https://ai.watch.impress.co.jp/docs/news/2133450.html"
+      "title": "NVIDIA・AMD・マイクロンなど半導体株が急落 中東緊張と米金利上昇が重荷に",
+      "summary": "8月18日の米国市場でNVIDIA、AMD、マイクロンなど半導体関連株が軒並み下落した。米イラン間の緊張再燃や米長期金利の急上昇が投資家心理を冷やし、これまで好調だったAIハードウェア関連株に売りが広がった。",
+      "source": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-amd-micron-lead-chip-180635152.html"
+    },
+    {
+      "title": "中国Pony.ai、海外ロボタクシー計画が4000台超に拡大",
+      "summary": "中国の自動運転企業Pony.aiは8月18日までに、海外展開を計画・検討中のロボタクシーが4000台超に達したと発表した。Uberとの提携による欧州向け2000台超の契約が含まれ、年内に自社保有車両3500台超を目指すとしている。",
+      "source": "Reuters",
+      "link": "https://lufkindailynews.com/news_reuters/business/chinas-pony-ai-plans-to-deploy-more-than-4-000-robotaxis-abroad/article_9ad184ce-799f-5da9-ae87-03c93baf7077.html"
+    },
+    {
+      "title": "Apple、\"AI消極派\"のポジションが株価の重荷に 7月末から1割下落",
+      "summary": "AI投資に慎重な姿勢を取ってきたAppleの株価が、7月28日の最高値更新後から約10%下落した。市場のAIトレードへの懐疑論が一時Appleの追い風となっていたが、その地合いが反転し、いまや同社の弱みとして意識され始めている。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-18/apple-s-anti-ai-position-suddenly-becomes-stock-market-baggage"
+    },
+    {
+      "title": "Cursor、GitHub対抗の新コード管理基盤「Origin」始動 折しもGitHub大規模障害と重なる",
+      "summary": "AIコーディング企業Cursorは8月17日、GitHubに対抗するコードホスティング基盤「Origin」の提供を有料ユーザー向けに開始した。奇しくもその数時間後にGitHubで約6時間42分に及ぶ大規模障害が発生し、Originの存在感が注目された。",
+      "source": "VentureBeat",
+      "link": "https://venturebeat.com/infrastructure/cursor-launches-origin-code-hosting-platform-as-github-outage-exposes-opening-in-ai-coding-race"
+    },
+    {
+      "title": "キオクシア株が急落 10月の株式分割控え投資家の見極め続く",
+      "summary": "半導体メモリー大手キオクシアホールディングスの株価が急落している。6月の高値から急落する場面もあり、米半導体株安の波及や信用買いの過熱、業績期待の織り込み過剰などが要因とみられる。10月には1株を3株に分割する予定。",
+      "source": "ライブドアニュース",
+      "link": "https://news.livedoor.com/topics/detail/32104481/"
     }
   ],
   "x_trending_tech": [
     {
-      "title": "ソフトバンクG、個人向け社債1兆円で過去最大へ AI投資の資金調達と速報",
-      "summary": "日本経済新聞の公式Xが、ソフトバンクグループが個人向け社債を過去最大の1兆円規模で発行準備中と速報した投稿。8/18午後(日本時間22時台)の投稿。",
-      "source": "@nikkei",
-      "link": "https://x.com/nikkei/status/2089706596704162241"
+      "title": "Unitree上場、株価一時629%急騰と話題に CNBCが速報",
+      "summary": "CNBC公式Xが「Unitree Roboticsの株価が上海上場の取引開始直後に542%上昇」と速報。8/19午前(日本時間)の投稿で、バックフリップするロボットで知られる同社の劇的な上場を伝え話題になった。",
+      "source": "@CNBC",
+      "link": "https://x.com/CNBC/status/2089893240413532219"
     },
     {
-      "title": "Claude AIが再びダウン、Downdetectorに報告相次ぐ",
-      "summary": "Downdetector公式Xが「米東部時間12:39PMからClaude AIの不具合報告が寄せられている」と投稿。8/19未明(日本時間)、Anthropicの3日で2度目の障害を伝えるもの。",
-      "source": "@downdetector",
-      "link": "https://x.com/downdetector/status/2089754063407636596"
+      "title": "「OpenAIがフロンティアモデル開発を止めるのは奇妙」との批判が拡散",
+      "summary": "テック評論家Ed Zitron氏が「まさに加速すべき局面でOpenAIがフロンティアモデル開発を停止するのは妙だ。コスト削減が理由とは思えない」と投稿し議論を呼んだ。8/19未明(日本時間)の投稿。",
+      "source": "@edzitron",
+      "link": "https://x.com/edzitron/status/2089778744504504439"
     },
     {
-      "title": "Metaの児童安全訴訟、開廷を伝える報道が話題に",
-      "summary": "CNBC-TV18の公式Xが「Metaにとって過去最大級の若年層安全性を問う裁判が始まった。29州がFacebook・Instagramを標的に」と投稿。8/18昼(日本時間19時台)の投稿。",
-      "source": "@CNBCTV18Live",
-      "link": "https://x.com/CNBCTV18Live/status/2089666879271108815"
+      "title": "「Googleが元Spirit航空の全メールを1000万ドルで購入」の解説スレッドが拡散",
+      "summary": "起業家Vaibhav Sisinty氏が「GoogleがSpirit航空の全従業員メールを1000万ドルで購入した」経緯を解説するスレッドを投稿し拡散した。8/19未明(日本時間)の投稿。",
+      "source": "@VaibhavSisinty",
+      "link": "https://x.com/VaibhavSisinty/status/2089784619755544735"
     },
     {
-      "title": "カメラ搭載AirPods「B790」の実機映像、macOSから発見と話題に",
-      "summary": "9to5Mac公式Xが「本日のmacOS Tahoe 26.7リリース候補版で見つかった動画」としてカメラ搭載AirPodsのVisual Intelligence機能を使う様子を投稿し話題に。8/18朝(日本時間11時頃)の投稿。",
-      "source": "@9to5mac",
-      "link": "https://x.com/9to5mac/status/2089533414823109031"
+      "title": "AIチップ新興Etched公式が210億ドル評価での7億ドル調達を発表",
+      "summary": "Etched公式Xが「Jane Street、Kleiner Perkins、Sequoia、a16zなどから210億ドル評価で7億ドルを調達した」と発表し、Jane Streetへの初ラック出荷も明らかにした。8/18夜〜19未明(日本時間)の投稿。",
+      "source": "@Etched",
+      "link": "https://x.com/Etched/status/2089729087732605282"
     }
   ]
 }
