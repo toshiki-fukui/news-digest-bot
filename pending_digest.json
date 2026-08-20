@@ -1,105 +1,92 @@
 {
-  "run_label": "8/20 19:15",
+  "run_label": "8/21 07:00",
   "politics_economy": [
     {
-      "title": "三菱電機、米PCIエナジー・ソリューションズを2200億円で買収",
-      "summary": "三菱電機は8月20日、米エネルギー管理ソフト大手PCI Energy Solutionsを約14億ドル(約2200億円)で完全子会社化すると発表した。同社史上最大級の買収案件で、スマートエナジー領域の強化を狙う。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/nkd/disclosure/tdnr/20260820523603/"
-    },
-    {
-      "title": "経産省、来年度概算要求7.7兆円規模 AI・半導体に重点",
-      "summary": "経済産業省は来年度予算の概算要求を一般・特別会計合わせて約7.7兆円規模で調整していることが8月20日分かった。AI・半導体分野やフィジカルAI・ロボティクスに重点配分する方針。",
+      "title": "自民党、所属議員に「役職希望アンケート」配付 内閣改造への見方広がる",
+      "summary": "自民党は8月20日、幹事長名で衆院議員に「役職希望アンケートの実施について」との通知を配付した。高市早苗首相にとって初の内閣改造・党役員人事に向けた準備の一環との見方が広がっている。",
       "source": "NHKニュース",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260820de45186"
+      "link": "https://news.web.nhk/newsweb/na/nd-20260820de45381"
     },
     {
-      "title": "KDDIに個人情報保護委が行政指導 メール流出で1223万人分",
-      "summary": "個人情報保護委員会は8月19日、6月に公表されたメールシステムへの不正アクセスによる情報漏えい問題でKDDIに行政指導を行った。約1223万人分の情報が流出し、うち約762万人分はメール内容が外部から閲覧可能な状態だったとされる。",
+      "title": "米国務省、ICC支援打ち切りに期待 「制裁は日本対象ではない」",
+      "summary": "米国務省報道官は8月19日、国際刑事裁判所(ICC)の赤根智子所長への制裁を巡り、日本など同盟国がICCへの支援を打ち切ることに期待を示す一方、「日本政府に対する措置ではない」と説明した。",
+      "source": "時事通信",
+      "link": "https://www.jiji.com/jc/article?k=2026082000240&g=int"
+    },
+    {
+      "title": "企業献金規制、道筋見えず 「福岡」追い風に野党が攻勢の構え",
+      "summary": "福岡県議会の金銭授受疑惑を追い風に、野党は企業・団体献金規制の強化を求め自民党への攻勢を強めているが、与党側は後ろ向きで具体的な進展の道筋は見えていない(8/20配信)。",
+      "source": "時事通信(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/88c33d66938c43efb250eaa1f71c505ab811c76d"
+    },
+    {
+      "title": "20日の東証終値、890円高 米金利急低下で世界的に株買い優勢",
+      "summary": "8月20日の東京株式市場で日経平均株価は前日比890円37銭高の6万6216円79銭で取引を終えた。米長期金利の急低下を受けた世界的な相場安定を好感し、幅広い銘柄で買いが優勢となった。",
+      "source": "共同通信(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/a9f38a9e709ee28f6874fec6d08c9ce69e73c36b"
+    },
+    {
+      "title": "7月の貿易赤字6345億円、輸出入額とも過去最大に 財務省発表",
+      "summary": "財務省が8月20日発表した7月の貿易統計(速報)によると、貿易赤字は6345億円で3カ月連続の赤字。米国からの原油調達額急増などで輸出入額はともに比較可能な1979年以降で最大を更新した。",
       "source": "NHKニュース",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260819de45162"
-    },
-    {
-      "title": "円相場、158円台前半に急伸 米金利急低下で",
-      "summary": "8月20日の東京外国為替市場で円相場は1ドル=158円03銭近辺まで上昇し、前日から1円以上の円高となった。米財務省が長期国債の買い戻し規模拡大を発表し米長期金利が低下したことが背景。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/jp/news/articles/2026-08-20/TK09E8T96OSG00"
-    },
-    {
-      "title": "個人向け国債に税優遇、財務省・金融庁が要望へ 与党内には慎重論",
-      "summary": "財務省と金融庁は2027年度税制改正で個人向け国債の保有者に対する税優遇措置を求める方向で調整に入った。個人の国債保有を促し安定消化につなげる狙いだが、与党内には財源面などで慎重論もある。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUB191VT0Z10C26A8000000/"
+      "link": "https://news.web.nhk/newsweb/na/nd-20260820de45202"
     }
   ],
   "tech": [
     {
-      "title": "OpenAI、企業向け「Private Safety Processing」をプレビュー公開",
-      "summary": "OpenAIは8月19日、複数のやり取りにまたがる不正利用パターンを検知しつつ、担当者に会話内容を見せずゼロデータ保持を維持できる新機能「Private Safety Processing」のテストを開始したと発表した。MicrosoftやDatabricksなど早期顧客と試験中で、9月に正式展開予定。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/"
-    },
-    {
-      "title": "OpenAI CFO、株式公開は「2027年」と社員に説明",
-      "summary": "OpenAIのサラ・フライアーCFOは8月19日(米時間)の全社会議で、同社が2027年までに株式公開企業になるとの見通しを社員に伝えた。事業成長が加速すればより早い時期の上場もあり得るとした。",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/08/19/open-ai-ipo-timing-2027-friar.html"
-    },
-    {
-      "title": "Nvidia、AIデータ企業Mercorへの出資検討 評価額2兆円規模",
-      "summary": "米メディアThe Informationは8月19日、NvidiaがAI向けデータ提供スタートアップMercorへの出資を検討していると報じた。評価額は約200億ドルとなる見通しで、約9カ月前のシリーズCから倍増する規模。",
-      "source": "The Information",
-      "link": "https://www.theinformation.com/articles/nvidia-discusses-funding-ai-data-supplier-mercor-20-billion-valuation"
-    },
-    {
-      "title": "ポケモンセンター、物流大手CEVA経由の情報漏えいで英独顧客に影響",
-      "summary": "ポケモンセンターは、委託先の物流会社CEVAロジスティクスが受けたサイバー攻撃により、英国・ドイツの顧客の氏名・住所・注文内容などが流出した可能性があると8月に入り確認・公表した。CEVAの漏えいはValveなど他社にも波及している。",
-      "source": "Forbes",
-      "link": "https://www.forbes.com/sites/daveywinder/2026/08/18/pokemon-center-customer-data-exposed-as-3rd-party-breach-confirmed/"
-    },
-    {
-      "title": "ソフトバンク、6300億円規模の個人向け社債発行へ 国内企業で過去最大級",
-      "summary": "ソフトバンクグループは8月19日までに、個人投資家向けに最大63億ドル(約6300億円)規模の社債を発行する計画を明らかにした。日本企業による個人向け社債としては過去最大級となる見通しで、既存債務の借り換えやフィジカルAI関連投資に充てる。",
-      "source": "Nikkei Asia",
-      "link": "https://asia.nikkei.com/business/softbank/softbank-plans-6.3bn-retail-bond-issue-largest-by-japanese-company"
-    },
-    {
-      "title": "Anthropic、IPO前のクレジット枠が100億ドル超に拡大へ",
-      "summary": "Bloombergが8月18日報じたところによると、Anthropicが調整中のリボルビング信用枠が目標の約100億ドルを上回る見通し。同社は6月に米国での新規株式公開を非公開で申請しており、今秋にも上場する可能性がある。",
+      "title": "Google、Marvell株購入権122億ドル相当を獲得 AIチップ提携を拡大",
+      "summary": "GoogleはMarvellとのカスタムAIチップ提携拡大に伴い、同社株式を最大122億ドル分取得できるワラント(新株予約権)を獲得したと8月19日判明。TPU向けAI推論アクセラレータなどの購買拡大が条件で、Marvell株は急伸した。",
       "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-18/anthropic-pre-ipo-credit-facility-set-to-climb-past-10-billion"
+      "link": "https://www.bloomberg.com/news/articles/2026-08-19/marvell-gives-google-right-to-buy-up-to-12-2-billion-in-shares"
     },
     {
-      "title": "アジア株安、AI・半導体銘柄が急落 KOSPIはサーキットブレーカー発動",
-      "summary": "8月19日のアジア株式市場でAI・半導体関連銘柄が総崩れとなり、韓国KOSPIは一時6%超下落してサーキットブレーカーが発動。日経平均も大幅続落し、キオクシアなどメモリー半導体株が大きく売られた。国債利回り上昇によるAI投資縮小懸念が背景。",
-      "source": "TradingKey",
-      "link": "https://www.tradingkey.com/jp/analysis/stocks/more/262116342-japan-south-korea-stocks-kospi-nikkei-softbank-sk-hynix-samsung-kioxia-tradingkey"
+      "title": "AI生成の攻撃コードでSiemens製PLCが標的に、米当局が重要インフラに警告",
+      "summary": "NSA・CISA・FBI・エネルギー省などが8月19日、水道・エネルギー等の重要インフラで使われるSiemens製S7シリーズPLCがAI生成の攻撃スクリプトで狙われていると共同警告。「現に進行中の脅威」だとしている。",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/08/ai-generated-exploit-scripts-target.html"
     },
     {
-      "title": "Stripe、AIモデルルーティングのOpenRouter買収を正式確認 75億ドル超",
-      "summary": "決済大手Stripeは8月19日、AIモデル振り分けサービスを手がけるOpenRouterの買収を正式に確認したと発表した。買収額は75億ドル超と報じられており、創業から約3年という異例の速さでの大型買収となる。",
+      "title": "Amazon、ドローン配送「Prime Air」を全米500都市に拡大へ",
+      "summary": "Amazonは8月19日、ドローン配送エリアを年内に現行の約6倍となる全米約500都市・町に拡大する計画を発表。シカゴやアトランタなど新規都市への展開も予定し、最短30分での配送を目指す。",
       "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/08/19/stripe-openrouter-fintech-ai-model-marketplace-.html"
+      "link": "https://www.cnbc.com/2026/08/19/amazon-plans-drone-expansion-as-top-exec-projects-1-million-deliveries.html"
+    },
+    {
+      "title": "元Nvidia研究リーダーのSanja Fidler氏、「ワールドモデル」新興Veeda AIが9000万ドル超調達",
+      "summary": "Nvidiaで研究チームを率いたSanja Fidler氏が設立したトロント拠点のVeeda AIが、Khosla VenturesとRadical Venturesなどからシード資金9000万ドル超を8月19日までに調達。物理AI向け世界モデル開発を目指す。",
+      "source": "SiliconANGLE",
+      "link": "https://siliconangle.com/2026/08/19/sanja-fidlers-world-model-startup-veeda-ai-raises-90m-in-seed-funding/"
+    },
+    {
+      "title": "ソフトバンクとエリクソン、5G商用網でのAI無線制御を日本初実証",
+      "summary": "ソフトバンクはエリクソンと共同で、AIを無線アクセスネットワーク(RAN)に直接組み込む「AI in RAN」を5G商用ネットワーク上で日本初実証したと8月20日発表。下りスループットで最大約5割の改善を確認した。",
+      "source": "ソフトバンクニュース",
+      "link": "https://www.softbank.jp/sbnews/entry/2026/08/20/150000"
+    },
+    {
+      "title": "Anthropic、企業顧客向けにデータ保持ポリシーを見直しへ",
+      "summary": "Bloombergが8月20日報じたところによると、Anthropicはサイバー攻撃対策で導入した厳格なデータ保持方針を転換し、法人顧客が自社クラウド上でデータを管理できる新方式を年内に導入する計画。企業側の反発を受けた対応とみられる。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-20/anthropic-plans-to-change-data-retention-policy-for-advanced-ai"
+    },
+    {
+      "title": "銀行アプリ169種を狙う新型Androidマルウェア「Manic」、オフライン端末からもデータ窃取",
+      "summary": "ウクライナや欧州の銀行・政府機関アプリなど169種類を標的とする新種のAndroidマルウェア「Manic」が発見されたと8月20日報道。近隣の感染端末をWi-Fi DirectやBluetooth経由で中継し、オフライン端末からも情報を窃取できる。",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/08/manic-android-malware-exfiltrates-data.html"
+    },
+    {
+      "title": "OpenAIとMeta、データセンター建設への地域反発を抑えるため広報強化",
+      "summary": "OpenAIは地域住民の反発を和らげるため「コミュニティ・エンゲージメント」担当を新設するなど広報活動を強化。Metaも地域向け10億ドル規模の基金を発表するなど対応を進めていると8月20日報じられた。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-08-20/openai-meta-seek-help-to-combat-data-center-pr-problem"
+    },
+    {
+      "title": "TDK、エッジAIセンサー新製品「edgeRX Pro」を発表",
+      "summary": "TDKは8月19日、予知保全向けエッジインテリジェンス製品群「SensEI」の新製品として、振動・音響・磁気・温度などを統合検知するセンサーモジュール「edgeRX Pro」を発表した。",
+      "source": "PR Newswire",
+      "link": "https://www.prnewswire.com/news-releases/tdk-announces-expansion-of-tdk-sensei-edge-intelligence-portfolio-with-launch-of-edgerx-pro-sensor-module-302851355.html"
     }
   ],
-  "x_trending_tech": [
-    {
-      "title": "OpenAI公式、企業向けゼロデータ保持と新セーフティ機能を発表",
-      "summary": "OpenAI公式アカウントが、フロンティアモデルでのゼロデータ保持継続と、複数のやり取りにまたがるリスクを検知する新機能のプレビュー開始を告知(8/19夜、投稿から約14時間経過)。",
-      "source": "@OpenAI",
-      "link": "https://x.com/OpenAI/status/2090165328290701800"
-    },
-    {
-      "title": "OpenRouter共同創業者、Stripeによる買収を正式に認める投稿",
-      "summary": "OpenRouterの共同創業者Deedy Das氏が、Stripeによる買収を公式に認める投稿。創業からわずか3年での大型買収は史上最速級だとコメント(8/19夕方、投稿から約17時間経過)。",
-      "source": "@deedydas",
-      "link": "https://x.com/deedydas/status/2090129029777224033"
-    },
-    {
-      "title": "著名投資家、Stripeの投資家向け「流出文書」を紹介する投稿が拡散",
-      "summary": "テック業界ジャーナリストのEric Newcomer氏が、StripeがOpenRouter買収について投資家に送った説明文書(リーク)の内容を紹介する投稿(8/19夕方、投稿から約16時間経過)。",
-      "source": "@EricNewcomer",
-      "link": "https://x.com/EricNewcomer/status/2090133049291788434"
-    }
-  ]
+  "x_trending_tech": []
 }
