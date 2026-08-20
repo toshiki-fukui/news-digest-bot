@@ -1,99 +1,105 @@
 {
-  "run_label": "8/20 07:16",
+  "run_label": "8/20 19:15",
   "politics_economy": [
     {
-      "title": "長期金利、一時2.9%割れ 前日は30年ぶり高水準の2.945%",
-      "summary": "8月19日の債券市場では、前日18日に約30年ぶりの高水準となる2.945%まで上昇した新発10年国債利回り(長期金利)が買い戻され、一時2.9%を下回る水準まで低下した。財政懸念や日銀の早期利上げ観測を背景に金利上昇が続いていた反動とみられる。",
+      "title": "三菱電機、米PCIエナジー・ソリューションズを2200億円で買収",
+      "summary": "三菱電機は8月20日、米エネルギー管理ソフト大手PCI Energy Solutionsを約14億ドル(約2200億円)で完全子会社化すると発表した。同社史上最大級の買収案件で、スマートエナジー領域の強化を狙う。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/nkd/disclosure/tdnr/20260820523603/"
+    },
+    {
+      "title": "経産省、来年度概算要求7.7兆円規模 AI・半導体に重点",
+      "summary": "経済産業省は来年度予算の概算要求を一般・特別会計合わせて約7.7兆円規模で調整していることが8月20日分かった。AI・半導体分野やフィジカルAI・ロボティクスに重点配分する方針。",
       "source": "NHKニュース",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260819de44970"
+      "link": "https://news.web.nhk/newsweb/na/nd-20260820de45186"
     },
     {
-      "title": "円相場、1ドル159円17〜19銭に上昇 日米金利差縮小で円買い",
-      "summary": "8月19日午後5時時点の東京外国為替市場で円相場は1ドル=159円17〜19銭と前日比54銭の円高・ドル安となった。日米国債の利回り格差縮小や良好な国内経済指標を背景に円買い圧力が強まった。",
-      "source": "みんかぶ",
-      "link": "https://minkabu.jp/news/4601245"
+      "title": "KDDIに個人情報保護委が行政指導 メール流出で1223万人分",
+      "summary": "個人情報保護委員会は8月19日、6月に公表されたメールシステムへの不正アクセスによる情報漏えい問題でKDDIに行政指導を行った。約1223万人分の情報が流出し、うち約762万人分はメール内容が外部から閲覧可能な状態だったとされる。",
+      "source": "NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260819de45162"
     },
     {
-      "title": "高市首相、ICC赤根所長への米制裁「大変残念」 米と意思疎通継続",
-      "summary": "高市早苗首相は19日、トランプ米政権が国際刑事裁判所(ICC)の赤根智子所長らを制裁対象に指定したことについて「大変残念に思っている」と述べ、米国を含む関係国と意思疎通を継続しながら対応していく考えを示した。",
+      "title": "円相場、158円台前半に急伸 米金利急低下で",
+      "summary": "8月20日の東京外国為替市場で円相場は1ドル=158円03銭近辺まで上昇し、前日から1円以上の円高となった。米財務省が長期国債の買い戻し規模拡大を発表し米長期金利が低下したことが背景。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/jp/news/articles/2026-08-20/TK09E8T96OSG00"
+    },
+    {
+      "title": "個人向け国債に税優遇、財務省・金融庁が要望へ 与党内には慎重論",
+      "summary": "財務省と金融庁は2027年度税制改正で個人向け国債の保有者に対する税優遇措置を求める方向で調整に入った。個人の国債保有を促し安定消化につなげる狙いだが、与党内には財源面などで慎重論もある。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUA198S50Z10C26A8000000/"
-    },
-    {
-      "title": "6月の機械受注9.7%増 2カ月ぶり増加も先行き不透明",
-      "summary": "内閣府が8月19日発表した6月機械受注統計で、船舶・電力を除く民需の受注額(季節調整値)は前月比9.7%増の1兆558億円となり市場予想を上回った。4〜6月期では前期比0.2%増にとどまり、基調判断は「持ち直しの動きがみられる」に据え置かれた。",
-      "source": "大和総研",
-      "link": "https://www.dir.co.jp/report/research/economics/japan/20260819_025991.html"
-    },
-    {
-      "title": "ソフトバンクG株が急落、OpenAI成長鈍化懸念で一時10%超安",
-      "summary": "8月19日の東京株式市場でソフトバンクグループ株が前日比603円(10.34%)安の5227円まで急落した。大株主として646億ドルを投じるOpenAIの四半期業績で成長率が市場予想を下回ったことが嫌気された。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOFL1912W0Z10C26A8000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOUB191VT0Z10C26A8000000/"
     }
   ],
   "tech": [
     {
-      "title": "OpenAIの第2四半期売上高、伸び率がAnthropicに劣後 赤字も拡大",
-      "summary": "WSJが8月19日報じたところによると、OpenAIの4-6月期売上高は前期比18%増の67億ドルにとどまり、売上高を2倍以上の116億ドルに伸ばしたAnthropicに四半期売上高で初めて逆転された。営業損失(株式報酬含む)は93億ドルから123億ドルへ拡大した。",
-      "source": "Yahoo Finance (WSJ報道)",
-      "link": "https://finance.yahoo.com/technology/ai/articles/openai-q2-growth-trails-anthropic-102250259.html"
+      "title": "OpenAI、企業向け「Private Safety Processing」をプレビュー公開",
+      "summary": "OpenAIは8月19日、複数のやり取りにまたがる不正利用パターンを検知しつつ、担当者に会話内容を見せずゼロデータ保持を維持できる新機能「Private Safety Processing」のテストを開始したと発表した。MicrosoftやDatabricksなど早期顧客と試験中で、9月に正式展開予定。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/"
     },
     {
-      "title": "Anthropicの年換算売上高、7月時点で650億ドル突破 OpenAIを上回る",
-      "summary": "Anthropicは投資家向けに、7月末時点の年間経常収益(ARR)が650億ドルを突破し、OpenAIの公表水準を約250億ドル上回ったと説明。企業評価額は9650億ドルに達し、今秋にもIPOの観測が強まっている(8月19日報道)。",
-      "source": "GuruFocus",
-      "link": "https://www.gurufocus.com/news/9042564/anthropics-revenue-surge-aiming-for-a-965-billion-valuation"
+      "title": "OpenAI CFO、株式公開は「2027年」と社員に説明",
+      "summary": "OpenAIのサラ・フライアーCFOは8月19日(米時間)の全社会議で、同社が2027年までに株式公開企業になるとの見通しを社員に伝えた。事業成長が加速すればより早い時期の上場もあり得るとした。",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/08/19/open-ai-ipo-timing-2027-friar.html"
     },
     {
-      "title": "サムスン、AI需要でファウンドリ価格を最大15%引き上げ",
-      "summary": "サムスン電子が4nm(SF4)・5nm(SF5)プロセスの新規受注価格を最大15%引き上げたと8月19日報じられた。中国・米国向けは10〜15%、台湾向けは5〜10%の値上げで、AI向けチップ需要の逼迫を背景にTSMCの代替先として引き合いが強まっている。",
-      "source": "Tom's Hardware",
-      "link": "https://www.tomshardware.com/tech-industry/samsung-raises-advanced-foundry-prices-by-up-to-15-percent-as-ai-demand-fills-its-4nm-lines"
+      "title": "Nvidia、AIデータ企業Mercorへの出資検討 評価額2兆円規模",
+      "summary": "米メディアThe Informationは8月19日、NvidiaがAI向けデータ提供スタートアップMercorへの出資を検討していると報じた。評価額は約200億ドルとなる見通しで、約9カ月前のシリーズCから倍増する規模。",
+      "source": "The Information",
+      "link": "https://www.theinformation.com/articles/nvidia-discusses-funding-ai-data-supplier-mercor-20-billion-valuation"
     },
     {
-      "title": "NVIDIAのH200チップ、少量ながら中国への出荷開始",
-      "summary": "8月19日報道によると、NVIDIAのH200チップが少量ながら中国への出荷を開始し、ByteDanceやTencentがそれぞれ約1万個を受領した。米国は各社10万個までの購入を承認済みだが、中国政府側が国産チップ育成のため香港経由での留め置きを求めるなど複雑な構図となっている。",
-      "source": "Tom's Hardware",
-      "link": "https://www.tomshardware.com/pc-components/gpus/first-nvidia-h200-shipments-reach-bytedance-and-tencent-as-beijing-loosens-its-import-block"
+      "title": "ポケモンセンター、物流大手CEVA経由の情報漏えいで英独顧客に影響",
+      "summary": "ポケモンセンターは、委託先の物流会社CEVAロジスティクスが受けたサイバー攻撃により、英国・ドイツの顧客の氏名・住所・注文内容などが流出した可能性があると8月に入り確認・公表した。CEVAの漏えいはValveなど他社にも波及している。",
+      "source": "Forbes",
+      "link": "https://www.forbes.com/sites/daveywinder/2026/08/18/pokemon-center-customer-data-exposed-as-3rd-party-breach-confirmed/"
     },
     {
-      "title": "OpenAI、データ非保持を維持したまま不正利用を検知する新安全システムを試験導入",
-      "summary": "OpenAIは8月19日、「Private Safety Processing」と呼ぶ新技術を一部顧客向けに試験導入すると発表した。ゼロデータ保持の約束を守りながら、複数のやり取りにまたがる誤用パターンを検知できるとしており、9月の本格展開を予定している。",
+      "title": "ソフトバンク、6300億円規模の個人向け社債発行へ 国内企業で過去最大級",
+      "summary": "ソフトバンクグループは8月19日までに、個人投資家向けに最大63億ドル(約6300億円)規模の社債を発行する計画を明らかにした。日本企業による個人向け社債としては過去最大級となる見通しで、既存債務の借り換えやフィジカルAI関連投資に充てる。",
+      "source": "Nikkei Asia",
+      "link": "https://asia.nikkei.com/business/softbank/softbank-plans-6.3bn-retail-bond-issue-largest-by-japanese-company"
+    },
+    {
+      "title": "Anthropic、IPO前のクレジット枠が100億ドル超に拡大へ",
+      "summary": "Bloombergが8月18日報じたところによると、Anthropicが調整中のリボルビング信用枠が目標の約100億ドルを上回る見通し。同社は6月に米国での新規株式公開を非公開で申請しており、今秋にも上場する可能性がある。",
       "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-19/openai-to-enhance-safety-processes-for-paid-tool-customers"
+      "link": "https://www.bloomberg.com/news/articles/2026-08-18/anthropic-pre-ipo-credit-facility-set-to-climb-past-10-billion"
     },
     {
-      "title": "欧州のAIデータセンター、都市部から遠隔地へシフト JLL調査",
-      "summary": "8月19日のロイター報道によると、2026〜2028年に欧州で計画されるAIデータセンターは主要都市から平均175kmの距離に立地する見通しで、2022〜2025年の46kmから大幅に拡大。電力・土地コストの安さと接続の速さを優先し、都心立地の比率は13%から5%に低下する見込み。",
-      "source": "Reuters (Yahoo Finance)",
-      "link": "https://finance.yahoo.com/technology/ai/articles/europe-ai-data-centres-seek-100149927.html"
+      "title": "アジア株安、AI・半導体銘柄が急落 KOSPIはサーキットブレーカー発動",
+      "summary": "8月19日のアジア株式市場でAI・半導体関連銘柄が総崩れとなり、韓国KOSPIは一時6%超下落してサーキットブレーカーが発動。日経平均も大幅続落し、キオクシアなどメモリー半導体株が大きく売られた。国債利回り上昇によるAI投資縮小懸念が背景。",
+      "source": "TradingKey",
+      "link": "https://www.tradingkey.com/jp/analysis/stocks/more/262116342-japan-south-korea-stocks-kospi-nikkei-softbank-sk-hynix-samsung-kioxia-tradingkey"
     },
     {
-      "title": "中国LandSpace、再使用型ロケット「朱雀三号」のブースター着陸回収に成功",
-      "summary": "中国の民間宇宙企業ランドスペースが8月19日、再使用型ロケット「朱雀三号」を打ち上げ、第1段ブースターの陸上垂直着陸回収に成功した。軌道級ロケットのブースター回収に成功した民間企業としてはSpaceXとBlue Originに続き世界3社目となる。",
-      "source": "sorae",
-      "link": "https://sorae.info/ssn/20260819-zhuque-3-y2.html"
-    },
-    {
-      "title": "SKハイニックス、40兆ウォン規模の自社株買い・消却へ",
-      "summary": "韓国SKハイニックスは8月19日、40兆ウォン(約4兆5000億円)相当の自社株買いと消却を実施すると発表した。韓国上場企業として過去最大規模の自社株買いで、AI半導体需要による記録的な業績を受け、2025〜27年のフリーキャッシュフローの50%超を株主還元に充てる方針も示した。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOGM199030Z10C26A8000000/"
-    },
-    {
-      "title": "Meta、AIアシスタント「Meta AI」のMac向けデスクトップアプリを提供開始",
-      "summary": "Metaは8月19日、対話型AI「Meta AI」の専用Mac用デスクトップアプリを公開した。画面共有機能や任意のアプリへの音声入力に対応するほか、InstagramやFacebookの業務アカウント、Google Workspaceと連携できるビジネス向け機能も搭載する。",
-      "source": "9to5Mac",
-      "link": "https://9to5mac.com/2026/08/19/meta-ai-is-now-available-as-a-more-capable-desktop-app-for-mac/"
+      "title": "Stripe、AIモデルルーティングのOpenRouter買収を正式確認 75億ドル超",
+      "summary": "決済大手Stripeは8月19日、AIモデル振り分けサービスを手がけるOpenRouterの買収を正式に確認したと発表した。買収額は75億ドル超と報じられており、創業から約3年という異例の速さでの大型買収となる。",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/08/19/stripe-openrouter-fintech-ai-model-marketplace-.html"
     }
   ],
   "x_trending_tech": [
     {
-      "title": "OpenAI CFO、2027年に株式公開の可能性と発言",
-      "summary": "OpenAIのCFOサラ・フライア氏が社内全体会議で「OpenAIは2027年までに、あるいは業績次第ではそれより早く上場する」と発言したとCNBCが報道。8/20未明(日本時間4:27頃)の投稿。",
-      "source": "@financialjuice",
-      "link": "https://x.com/financialjuice/status/2090158687142686745"
+      "title": "OpenAI公式、企業向けゼロデータ保持と新セーフティ機能を発表",
+      "summary": "OpenAI公式アカウントが、フロンティアモデルでのゼロデータ保持継続と、複数のやり取りにまたがるリスクを検知する新機能のプレビュー開始を告知(8/19夜、投稿から約14時間経過)。",
+      "source": "@OpenAI",
+      "link": "https://x.com/OpenAI/status/2090165328290701800"
+    },
+    {
+      "title": "OpenRouter共同創業者、Stripeによる買収を正式に認める投稿",
+      "summary": "OpenRouterの共同創業者Deedy Das氏が、Stripeによる買収を公式に認める投稿。創業からわずか3年での大型買収は史上最速級だとコメント(8/19夕方、投稿から約17時間経過)。",
+      "source": "@deedydas",
+      "link": "https://x.com/deedydas/status/2090129029777224033"
+    },
+    {
+      "title": "著名投資家、Stripeの投資家向け「流出文書」を紹介する投稿が拡散",
+      "summary": "テック業界ジャーナリストのEric Newcomer氏が、StripeがOpenRouter買収について投資家に送った説明文書(リーク)の内容を紹介する投稿(8/19夕方、投稿から約16時間経過)。",
+      "source": "@EricNewcomer",
+      "link": "https://x.com/EricNewcomer/status/2090133049291788434"
     }
   ]
 }
