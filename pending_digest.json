@@ -1,92 +1,105 @@
 {
-  "run_label": "8/21 07:00",
+  "run_label": "8/21 19:05",
   "politics_economy": [
     {
-      "title": "自民党、所属議員に「役職希望アンケート」配付 内閣改造への見方広がる",
-      "summary": "自民党は8月20日、幹事長名で衆院議員に「役職希望アンケートの実施について」との通知を配付した。高市早苗首相にとって初の内閣改造・党役員人事に向けた準備の一環との見方が広がっている。",
-      "source": "NHKニュース",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260820de45381"
+      "title": "7月の全国消費者物価、1.8％上昇 エネルギー価格の伸び拡大で日銀利上げ観測強まる",
+      "summary": "総務省が8月21日発表した7月の全国消費者物価指数(生鮮食品除く総合)は前年同月比1.8％上昇し、6月の1.6％から伸びが拡大。エネルギー価格の上昇が主因で、59カ月連続のプラスとなった。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUA208GW0Q6A820C2000000/"
     },
     {
-      "title": "米国務省、ICC支援打ち切りに期待 「制裁は日本対象ではない」",
-      "summary": "米国務省報道官は8月19日、国際刑事裁判所(ICC)の赤根智子所長への制裁を巡り、日本など同盟国がICCへの支援を打ち切ることに期待を示す一方、「日本政府に対する措置ではない」と説明した。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026082000240&g=int"
+      "title": "日経平均、200円安の6万6016円で終了 米ウォルマート急落が消費株の重荷に",
+      "summary": "8月21日の東京株式市場で日経平均株価は前日比200.43円安の6万6016.36円で取引を終えた。米小売大手ウォルマートの株価急落を受け、国内でも消費関連株が売られた。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOFL210ICTR20C26A8000000/"
     },
     {
-      "title": "企業献金規制、道筋見えず 「福岡」追い風に野党が攻勢の構え",
-      "summary": "福岡県議会の金銭授受疑惑を追い風に、野党は企業・団体献金規制の強化を求め自民党への攻勢を強めているが、与党側は後ろ向きで具体的な進展の道筋は見えていない(8/20配信)。",
-      "source": "時事通信(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/88c33d66938c43efb250eaa1f71c505ab811c76d"
+      "title": "東京外為、ドル・円は158円台後半でもみ合い",
+      "summary": "8月21日の東京外国為替市場でドル・円は158円86銭〜159円13銭のレンジで推移し、午後5時時点では1ドル＝158円82銭前後と前日比38銭の円高だった。",
+      "source": "財経新聞",
+      "link": "https://www.zaikei.co.jp/article/20260821/866895.html"
     },
     {
-      "title": "20日の東証終値、890円高 米金利急低下で世界的に株買い優勢",
-      "summary": "8月20日の東京株式市場で日経平均株価は前日比890円37銭高の6万6216円79銭で取引を終えた。米長期金利の急低下を受けた世界的な相場安定を好感し、幅広い銘柄で買いが優勢となった。",
-      "source": "共同通信(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/a9f38a9e709ee28f6874fec6d08c9ce69e73c36b"
+      "title": "日銀9月利上げ、市場は8割近く織り込み 7月CPI受け観測強まる",
+      "summary": "8月21日発表の7月消費者物価指数(1.8％上昇)を受け、日銀が9月会合で追加利上げに踏み切るとの観測が市場で強まり、OIS市場での織り込み確率は約8割に達した。",
+      "source": "みんかぶFX",
+      "link": "https://fx.minkabu.jp/news/376729"
     },
     {
-      "title": "7月の貿易赤字6345億円、輸出入額とも過去最大に 財務省発表",
-      "summary": "財務省が8月20日発表した7月の貿易統計(速報)によると、貿易赤字は6345億円で3カ月連続の赤字。米国からの原油調達額急増などで輸出入額はともに比較可能な1979年以降で最大を更新した。",
-      "source": "NHKニュース",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260820de45202"
+      "title": "高市首相、英国バーナム首相と初の電話会談 次期戦闘機開発などで協力確認",
+      "summary": "高市早苗首相は8月20日、就任後初めて英国のバーナム首相と約30分間電話会談し、日英伊の次期戦闘機開発計画「GCAP」を含む安全保障・経済安全保障分野での協力推進で一致した。",
+      "source": "首相官邸",
+      "link": "https://www.kantei.go.jp/jp/105/actions/202608/20tel_kaidan.html"
     }
   ],
   "tech": [
     {
-      "title": "Google、Marvell株購入権122億ドル相当を獲得 AIチップ提携を拡大",
-      "summary": "GoogleはMarvellとのカスタムAIチップ提携拡大に伴い、同社株式を最大122億ドル分取得できるワラント(新株予約権)を獲得したと8月19日判明。TPU向けAI推論アクセラレータなどの購買拡大が条件で、Marvell株は急伸した。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-19/marvell-gives-google-right-to-buy-up-to-12-2-billion-in-shares"
-    },
-    {
-      "title": "AI生成の攻撃コードでSiemens製PLCが標的に、米当局が重要インフラに警告",
-      "summary": "NSA・CISA・FBI・エネルギー省などが8月19日、水道・エネルギー等の重要インフラで使われるSiemens製S7シリーズPLCがAI生成の攻撃スクリプトで狙われていると共同警告。「現に進行中の脅威」だとしている。",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/08/ai-generated-exploit-scripts-target.html"
-    },
-    {
-      "title": "Amazon、ドローン配送「Prime Air」を全米500都市に拡大へ",
-      "summary": "Amazonは8月19日、ドローン配送エリアを年内に現行の約6倍となる全米約500都市・町に拡大する計画を発表。シカゴやアトランタなど新規都市への展開も予定し、最短30分での配送を目指す。",
+      "title": "SKハイニックス、40兆ウォン(約2.9兆円)の自社株買いを発表 AIメモリー特需で株主還元強化",
+      "summary": "SKハイニックスは8月20日、AI向けメモリー需要の急拡大による潤沢なキャッシュフローを背景に、40兆ウォン規模の自社株買い・消却プログラムを発表。株主還元目標をフリーキャッシュフローの50%超に引き上げ、発表を受け株価は12%超急伸した。",
       "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/08/19/amazon-plans-drone-expansion-as-top-exec-projects-1-million-deliveries.html"
+      "link": "https://www.cnbc.com/2026/08/20/sk-hynixs-south-korean-shares-surge-stock-buyback-.html"
     },
     {
-      "title": "元Nvidia研究リーダーのSanja Fidler氏、「ワールドモデル」新興Veeda AIが9000万ドル超調達",
-      "summary": "Nvidiaで研究チームを率いたSanja Fidler氏が設立したトロント拠点のVeeda AIが、Khosla VenturesとRadical Venturesなどからシード資金9000万ドル超を8月19日までに調達。物理AI向け世界モデル開発を目指す。",
-      "source": "SiliconANGLE",
-      "link": "https://siliconangle.com/2026/08/19/sanja-fidlers-world-model-startup-veeda-ai-raises-90m-in-seed-funding/"
+      "title": "マイクロンCEO「メモリーなくしてAIなし」、ボイジーに1兆円超の新研究拠点",
+      "summary": "マイクロン・テクノロジーのメロトラCEOは8月20日、CNBCのインタビューでAIがメモリー産業の景気循環構造を根本的に変えたと述べ、データセンター顧客の需要が供給を5割上回っている現状を説明。本拠地アイダホ州ボイジーに100億ドルを投じ新研究所を設立する計画も明らかにした。",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/08/20/micron-ceo-ai-changed-memory-industry.html"
     },
     {
-      "title": "ソフトバンクとエリクソン、5G商用網でのAI無線制御を日本初実証",
-      "summary": "ソフトバンクはエリクソンと共同で、AIを無線アクセスネットワーク(RAN)に直接組み込む「AI in RAN」を5G商用ネットワーク上で日本初実証したと8月20日発表。下りスループットで最大約5割の改善を確認した。",
-      "source": "ソフトバンクニュース",
-      "link": "https://www.softbank.jp/sbnews/entry/2026/08/20/150000"
+      "title": "TSMC、1.6nmプロセスを開発中 2026年後半に量産へ",
+      "summary": "TSMCが次世代の1.6nm級チップ製造プロセスを開発していると8月20日付で報じられ、2026年後半に最初のロットの量産開始が見込まれている。3nm・2nmの生産能力は2027年まで完全に予約済みとされ、AI半導体需要の高さを裏付ける内容。",
+      "source": "SammyFans",
+      "link": "https://www.sammyfans.com/2026/08/20/tsmc-reportedly-develops-1-6nm-chip-process/"
     },
     {
-      "title": "Anthropic、企業顧客向けにデータ保持ポリシーを見直しへ",
-      "summary": "Bloombergが8月20日報じたところによると、Anthropicはサイバー攻撃対策で導入した厳格なデータ保持方針を転換し、法人顧客が自社クラウド上でデータを管理できる新方式を年内に導入する計画。企業側の反発を受けた対応とみられる。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-20/anthropic-plans-to-change-data-retention-policy-for-advanced-ai"
+      "title": "アンソロピック、Claudeが自律的にタンパク質を設計しウェットラボ実証に成功したと発表",
+      "summary": "アンソロピックは、AIモデルClaudeが自律的にタンパク質結合体を設計し、Adaptyv BioとTwist Bioscienceによる実験室検証で15標的中14標的に成功、業界平均の2倍以上となる22〜35%のヒット率を達成したと8月19〜20日に発表。がん免疫やアルツハイマー関連標的も含まれる。",
+      "source": "TechTimes",
+      "link": "https://www.techtimes.com/articles/325081/20260820/claude-runs-autonomous-protein-design-campaign-wet-lab-confirms-twice-industry-hit-rate.htm"
     },
     {
-      "title": "銀行アプリ169種を狙う新型Androidマルウェア「Manic」、オフライン端末からもデータ窃取",
-      "summary": "ウクライナや欧州の銀行・政府機関アプリなど169種類を標的とする新種のAndroidマルウェア「Manic」が発見されたと8月20日報道。近隣の感染端末をWi-Fi DirectやBluetooth経由で中継し、オフライン端末からも情報を窃取できる。",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/08/manic-android-malware-exfiltrates-data.html"
+      "title": "Google「Gemma」の累計ダウンロード数が10億件を突破",
+      "summary": "Googleは8月20日、オープンモデル「Gemma」ファミリーの累計ダウンロード数が10億件を超え、外部開発者による派生モデルも10万種類以上に達したと発表。インドの医療アプリや人工衛星の画像分類など幅広い実用事例が紹介された。",
+      "source": "Google公式ブログ",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemma-one-billion-downloads/"
     },
     {
-      "title": "OpenAIとMeta、データセンター建設への地域反発を抑えるため広報強化",
-      "summary": "OpenAIは地域住民の反発を和らげるため「コミュニティ・エンゲージメント」担当を新設するなど広報活動を強化。Metaも地域向け10億ドル規模の基金を発表するなど対応を進めていると8月20日報じられた。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/newsletters/2026-08-20/openai-meta-seek-help-to-combat-data-center-pr-problem"
+      "title": "Google「Pixel 11」シリーズと「Pixel Watch 5」が国内で8月20日発売",
+      "summary": "GoogleのPixel 11シリーズおよびPixel Watch 5が8月20日に日本国内で発売開始。新チップ「Tensor G6」によりカメラやアシスタント機能のAI処理速度が最大3.5倍に向上したとされ、ドコモ・au・ソフトバンク・楽天モバイル等で取り扱われる。",
+      "source": "ケータイWatch",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2132405.html"
     },
     {
-      "title": "TDK、エッジAIセンサー新製品「edgeRX Pro」を発表",
-      "summary": "TDKは8月19日、予知保全向けエッジインテリジェンス製品群「SensEI」の新製品として、振動・音響・磁気・温度などを統合検知するセンサーモジュール「edgeRX Pro」を発表した。",
-      "source": "PR Newswire",
-      "link": "https://www.prnewswire.com/news-releases/tdk-announces-expansion-of-tdk-sensei-edge-intelligence-portfolio-with-launch-of-edgerx-pro-sensor-module-302851355.html"
+      "title": "北京で世界人形ロボット大会が8月22日開幕、ロボット数は過去最多の2056台",
+      "summary": "第2回世界人形ロボット大会が8月22日に北京の国家速滑館で開幕予定。参加ロボット数は前回比311%増の2056台、チーム数は666(16カ国・地域)と過去最大規模になり、陸上競技から作業タスクまで多様な種目が実施される。",
+      "source": "Forbes",
+      "link": "https://www.forbes.com/sites/johnkoetsier/2026/08/19/the-world-humanoid-robot-games-events-are-a-market-map/"
+    },
+    {
+      "title": "KDDI・NTT・NECら7社、AI時代の低遅延・省電力ネットワーク設計指針を国際標準化",
+      "summary": "KDDI、NTT、NEC、楽天モバイル、富士通系1FINITY、沖電気、住友電工の7社が、AI社会を支える低遅延・低消費電力ネットワークの設計指針についてITU-Tでの国際標準化を8月21日に発表。オールフォトニクス・ネットワーク(APN)の実現に向けた基盤技術として位置付けられる。",
+      "source": "NEC(プレスリリース)",
+      "link": "https://jpn.nec.com/press/202608/20260821_02.html"
+    },
+    {
+      "title": "AWSのAmazon Bedrock、xAIの「Grok 4.6」に対応",
+      "summary": "Amazon Web Servicesは8月19日、Amazon BedrockでxAIの最新モデル「Grok 4.6」を提供開始したと発表。50万トークンのコンテキストウィンドウと複数の推論強度設定に対応し、クロスリージョン推論も可能になった。",
+      "source": "AWS",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-grok-4-6/"
     }
   ],
-  "x_trending_tech": []
+  "x_trending_tech": [
+    {
+      "title": "Anthropic、無料の学習サイト「Claude Academy」を公開",
+      "summary": "AnthropicがAIの使い方を学べる無料サイト「Claude Academy」を公式Xアカウントで発表。初心者から日常利用者まで対象のコースを無料提供(8/20公開の投稿)。",
+      "source": "@claudeai",
+      "link": "https://x.com/claudeai/status/2090518650251804742"
+    },
+    {
+      "title": "エイベックス松浦会長、note連載記事は「ほぼAI」任せと告白し話題に",
+      "summary": "エイベックス・松浦勝人会長が、8/13から投稿していたnoteの人生論連載(4本で「スキ」5万超のバズり)について、実際はAIがアカウント作成から執筆・自動投稿まで行い自分はパスワード入力程度だったと8/20にXで明かし大きな反響を呼んだ。",
+      "source": "@maxmatsuuratwit",
+      "link": "https://x.com/maxmatsuuratwit/status/2090215320921460852"
+    }
+  ]
 }
