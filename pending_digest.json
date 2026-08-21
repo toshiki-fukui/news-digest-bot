@@ -1,105 +1,117 @@
 {
-  "run_label": "8/21 19:05",
+  "run_label": "8/22 07:00",
   "politics_economy": [
     {
-      "title": "7月の全国消費者物価、1.8％上昇 エネルギー価格の伸び拡大で日銀利上げ観測強まる",
-      "summary": "総務省が8月21日発表した7月の全国消費者物価指数(生鮮食品除く総合)は前年同月比1.8％上昇し、6月の1.6％から伸びが拡大。エネルギー価格の上昇が主因で、59カ月連続のプラスとなった。",
+      "title": "千葉豪雨で22市町に交付税87億円繰り上げ交付、対応の遅さに野党から批判",
+      "summary": "高市首相は8月21日午後の関係閣僚会議で、千葉豪雨の被災自治体22市町を対象に総額約87億円の普通交付税を同日付で繰り上げ交付したと表明。発生から5日後の会議開催に野党議員から「あまりにも遅い」と批判が出ている。",
+      "source": "時事通信",
+      "link": "https://www.jiji.com/jc/article?k=2026082100866&g=eco"
+    },
+    {
+      "title": "内閣改造・自民党役員人事は9月中下旬が軸、木原官房長官は続投有力",
+      "summary": "高市首相による初の内閣改造・自民党人事は9月中下旬に行われる見通しになったと8月21日報じられた。沖縄県知事選(9/13)や税制改正大綱の閣議決定日程を踏まえ最終判断するとみられ、木原官房長官の続投が有力という。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUA208GW0Q6A820C2000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOUA1984N0Z10C26A8000000/"
     },
     {
-      "title": "日経平均、200円安の6万6016円で終了 米ウォルマート急落が消費株の重荷に",
-      "summary": "8月21日の東京株式市場で日経平均株価は前日比200.43円安の6万6016.36円で取引を終えた。米小売大手ウォルマートの株価急落を受け、国内でも消費関連株が売られた。",
+      "title": "NYダウ反発で始まる、一時300ドル高 AIや半導体関連株に買い",
+      "summary": "8月21日(現地時間)のニューヨーク株式市場でダウ工業株30種平均は反発して始まり、一時300ドル超上昇。前日の大幅安（703ドル安）から主力銘柄への買い直しが優勢となった。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOFL210ICTR20C26A8000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOFL21AH80R20C26A8000000/"
     },
     {
-      "title": "東京外為、ドル・円は158円台後半でもみ合い",
-      "summary": "8月21日の東京外国為替市場でドル・円は158円86銭〜159円13銭のレンジで推移し、午後5時時点では1ドル＝158円82銭前後と前日比38銭の円高だった。",
-      "source": "財経新聞",
-      "link": "https://www.zaikei.co.jp/article/20260821/866895.html"
+      "title": "米国務省、中国が米国人研究者2人を「不当拘束」と認定し釈放要求",
+      "summary": "米国務省は8月20〜21日、ミャンマー政策を研究していた米国人学者とボストン在住の地震学者の2人について、中国当局による「不当な拘束」だと認定し釈放を求めたと発表。中国外務省は反論している。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOCB21A620R20C26A8000000/"
     },
     {
-      "title": "日銀9月利上げ、市場は8割近く織り込み 7月CPI受け観測強まる",
-      "summary": "8月21日発表の7月消費者物価指数(1.8％上昇)を受け、日銀が9月会合で追加利上げに踏み切るとの観測が市場で強まり、OIS市場での織り込み確率は約8割に達した。",
-      "source": "みんかぶFX",
-      "link": "https://fx.minkabu.jp/news/376729"
-    },
-    {
-      "title": "高市首相、英国バーナム首相と初の電話会談 次期戦闘機開発などで協力確認",
-      "summary": "高市早苗首相は8月20日、就任後初めて英国のバーナム首相と約30分間電話会談し、日英伊の次期戦闘機開発計画「GCAP」を含む安全保障・経済安全保障分野での協力推進で一致した。",
-      "source": "首相官邸",
-      "link": "https://www.kantei.go.jp/jp/105/actions/202608/20tel_kaidan.html"
+      "title": "沖縄県知事選、自民系候補が苦戦 高市首相の沖縄入り見送りへ",
+      "summary": "9月13日投開票の沖縄県知事選で、自民などが推す新人候補の支持拡大が伸び悩んでいると8月21日報じられた。自民党沖縄県連は高市首相の応援入りが逆効果になりかねないと判断し、要請を見送る方針という。",
+      "source": "日刊ゲンダイDIGITAL",
+      "link": "https://www.nikkan-gendai.com/articles/view/news/391606"
     }
   ],
   "tech": [
     {
-      "title": "SKハイニックス、40兆ウォン(約2.9兆円)の自社株買いを発表 AIメモリー特需で株主還元強化",
-      "summary": "SKハイニックスは8月20日、AI向けメモリー需要の急拡大による潤沢なキャッシュフローを背景に、40兆ウォン規模の自社株買い・消却プログラムを発表。株主還元目標をフリーキャッシュフローの50%超に引き上げ、発表を受け株価は12%超急伸した。",
+      "title": "NVIDIA、「AIモデルより実行環境(ハーネス)が重要」との新研究を発表",
+      "summary": "NVIDIAは8月21日、長期タスクをAIエージェントにこなさせる際はモデル自体よりもエージェントを動かす実行環境(ハーネス)の設計の方が結果を大きく左右するとする新たな研究を公表した。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/"
+    },
+    {
+      "title": "ブロードコム、AI関連で700億〜800億ドル規模の負債調達を協議",
+      "summary": "ブロードコムがAI関連企業向けの資金供給を目的に700億〜800億ドル規模の負債調達に向けた協議を進めていると8月21日報じられた。調達資金の一部はAnthropicなどAI企業への融資に充てられる見通し。",
       "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/08/20/sk-hynixs-south-korean-shares-surge-stock-buyback-.html"
+      "link": "https://www.cnbc.com/2026/08/21/broadcom-debt-deal-expected-to-reach-upwards-of-70-billion-sources.html"
     },
     {
-      "title": "マイクロンCEO「メモリーなくしてAIなし」、ボイジーに1兆円超の新研究拠点",
-      "summary": "マイクロン・テクノロジーのメロトラCEOは8月20日、CNBCのインタビューでAIがメモリー産業の景気循環構造を根本的に変えたと述べ、データセンター顧客の需要が供給を5割上回っている現状を説明。本拠地アイダホ州ボイジーに100億ドルを投じ新研究所を設立する計画も明らかにした。",
+      "title": "ニューヨークが13年ぶりにテック人材市場でサンフランシスコを逆転",
+      "summary": "不動産大手CBREの調査で、ニューヨークのテック関連雇用者数が約39万4300人となり、ベイエリアの約37万5730人を上回ったことが8月21日判明。金融由来のAI人材採用がニューヨークを押し上げた一方、ベイエリアは非AI系人員削減が響いた。",
       "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/08/20/micron-ceo-ai-changed-memory-industry.html"
+      "link": "https://www.cnbc.com/2026/08/21/new-york-san-francisco-tech-talent-cbre.html"
     },
     {
-      "title": "TSMC、1.6nmプロセスを開発中 2026年後半に量産へ",
-      "summary": "TSMCが次世代の1.6nm級チップ製造プロセスを開発していると8月20日付で報じられ、2026年後半に最初のロットの量産開始が見込まれている。3nm・2nmの生産能力は2027年まで完全に予約済みとされ、AI半導体需要の高さを裏付ける内容。",
-      "source": "SammyFans",
-      "link": "https://www.sammyfans.com/2026/08/20/tsmc-reportedly-develops-1-6nm-chip-process/"
+      "title": "テスラ、太陽光屋根タイル「ソーラールーフ」の販売を終了",
+      "summary": "テスラが発売から約10年を経て、屋根一体型太陽光パネル「ソーラールーフ」タイルの提供を終了したと8月20日報じられた。採算が合わないと社内で判断し、今後は従来型の太陽光パネルに注力するという。",
+      "source": "Electrek",
+      "link": "https://electrek.co/2026/08/20/tesla-discontinues-solar-roof-panels-only/"
     },
     {
-      "title": "アンソロピック、Claudeが自律的にタンパク質を設計しウェットラボ実証に成功したと発表",
-      "summary": "アンソロピックは、AIモデルClaudeが自律的にタンパク質結合体を設計し、Adaptyv BioとTwist Bioscienceによる実験室検証で15標的中14標的に成功、業界平均の2倍以上となる22〜35%のヒット率を達成したと8月19〜20日に発表。がん免疫やアルツハイマー関連標的も含まれる。",
-      "source": "TechTimes",
-      "link": "https://www.techtimes.com/articles/325081/20260820/claude-runs-autonomous-protein-design-campaign-wet-lab-confirms-twice-industry-hit-rate.htm"
+      "title": "軌道上データセンターのStarcloud、2.3億ドル評価額で2.5億ドル調達",
+      "summary": "衛星上でAI推論を行う軌道データセンターを手がけるStarcloudが、NVIDIAやCiscoも参加する形で2.5億ドルを追加調達し評価額23億ドルに達したと8月21日発表。ロケット打ち上げ枠の逼迫を背景に事業拡大を急ぐ。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/"
     },
     {
-      "title": "Google「Gemma」の累計ダウンロード数が10億件を突破",
-      "summary": "Googleは8月20日、オープンモデル「Gemma」ファミリーの累計ダウンロード数が10億件を超え、外部開発者による派生モデルも10万種類以上に達したと発表。インドの医療アプリや人工衛星の画像分類など幅広い実用事例が紹介された。",
-      "source": "Google公式ブログ",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemma-one-billion-downloads/"
+      "title": "TikTok、児童プライバシー訴訟で米司法省と4億ドルで和解",
+      "summary": "TikTokと親会社ByteDanceは8月21日、13歳未満の子どもの個人情報を保護者同意なく収集していたとする児童オンラインプライバシー保護法(COPPA)違反の訴訟を巡り、米司法省と4億ドルで和解したと発表した。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/08/21/tiktok-reaches-400m-settlement-over-childrens-privacy-lawsuit/"
     },
     {
-      "title": "Google「Pixel 11」シリーズと「Pixel Watch 5」が国内で8月20日発売",
-      "summary": "GoogleのPixel 11シリーズおよびPixel Watch 5が8月20日に日本国内で発売開始。新チップ「Tensor G6」によりカメラやアシスタント機能のAI処理速度が最大3.5倍に向上したとされ、ドコモ・au・ソフトバンク・楽天モバイル等で取り扱われる。",
-      "source": "ケータイWatch",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2132405.html"
+      "title": "米政府研究機関、中国製LiDARのセキュリティ脆弱性を調査",
+      "summary": "米エネルギー省傘下の研究機関が、自動運転車などに広く使われる中国製LiDARセンサーが安全保障上のリスクとなり得るかを調査していると8月21日報じられた。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/08/21/us-government-lab-is-probing-chinese-lidar-for-security-vulnerabilities/"
     },
     {
-      "title": "北京で世界人形ロボット大会が8月22日開幕、ロボット数は過去最多の2056台",
-      "summary": "第2回世界人形ロボット大会が8月22日に北京の国家速滑館で開幕予定。参加ロボット数は前回比311%増の2056台、チーム数は666(16カ国・地域)と過去最大規模になり、陸上競技から作業タスクまで多様な種目が実施される。",
-      "source": "Forbes",
-      "link": "https://www.forbes.com/sites/johnkoetsier/2026/08/19/the-world-humanoid-robot-games-events-are-a-market-map/"
+      "title": "Waymo、子ども衝突事故を巡るNHTSA調査に資料提出",
+      "summary": "Waymoは8月21日までに、1月に自動運転車が子どもと接触した事故を調べる米高速道路交通安全局(NHTSA)の調査要求に対し資料を提出したことを明らかにした。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/08/21/waymo-hands-over-documents-in-nhtsas-child-collision-probe/"
     },
     {
-      "title": "KDDI・NTT・NECら7社、AI時代の低遅延・省電力ネットワーク設計指針を国際標準化",
-      "summary": "KDDI、NTT、NEC、楽天モバイル、富士通系1FINITY、沖電気、住友電工の7社が、AI社会を支える低遅延・低消費電力ネットワークの設計指針についてITU-Tでの国際標準化を8月21日に発表。オールフォトニクス・ネットワーク(APN)の実現に向けた基盤技術として位置付けられる。",
-      "source": "NEC(プレスリリース)",
-      "link": "https://jpn.nec.com/press/202608/20260821_02.html"
+      "title": "8月の日本製造業PMI加速、半導体・AI関連の海外需要が押し上げ",
+      "summary": "8月21日発表のS&Pグローバル製造業PMI速報値は55.1となり7月の54.5から上昇。半導体やAI関連産業を中心とした新規受注の急増と堅調な海外需要が製造業活動を押し上げた。",
+      "source": "Investing.com",
+      "link": "https://jp.investing.com/news/economic-indicators/article-1656559"
     },
     {
-      "title": "AWSのAmazon Bedrock、xAIの「Grok 4.6」に対応",
-      "summary": "Amazon Web Servicesは8月19日、Amazon BedrockでxAIの最新モデル「Grok 4.6」を提供開始したと発表。50万トークンのコンテキストウィンドウと複数の推論強度設定に対応し、クロスリージョン推論も可能になった。",
-      "source": "AWS",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-grok-4-6/"
+      "title": "GitLabの重大脆弱性、公表から数日で悪用が確認される",
+      "summary": "CVSS9.4の重大なコードインジェクション脆弱性CVE-2026-19478について、自己ホスト型GitLab環境への悪用が公表からわずか数日で確認されたと8月20日報じられた。認証不要でパブリックプロジェクトの改ざん・削除が可能という。",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html"
     }
   ],
   "x_trending_tech": [
     {
-      "title": "Anthropic、無料の学習サイト「Claude Academy」を公開",
-      "summary": "AnthropicがAIの使い方を学べる無料サイト「Claude Academy」を公式Xアカウントで発表。初心者から日常利用者まで対象のコースを無料提供(8/20公開の投稿)。",
-      "source": "@claudeai",
-      "link": "https://x.com/claudeai/status/2090518650251804742"
+      "title": "テスラ、ソーラールーフタイル事業を終了と速報",
+      "summary": "速報系アカウントFirst SquawkがElectrekの報道を引用し、テスラが採算面から「ソーラールーフ」タイル事業を終了したと投稿(8/21朝の投稿)。",
+      "source": "@FirstSquawk",
+      "link": "https://x.com/FirstSquawk/status/2090648421489418403"
     },
     {
-      "title": "エイベックス松浦会長、note連載記事は「ほぼAI」任せと告白し話題に",
-      "summary": "エイベックス・松浦勝人会長が、8/13から投稿していたnoteの人生論連載(4本で「スキ」5万超のバズり)について、実際はAIがアカウント作成から執筆・自動投稿まで行い自分はパスワード入力程度だったと8/20にXで明かし大きな反響を呼んだ。",
-      "source": "@maxmatsuuratwit",
-      "link": "https://x.com/maxmatsuuratwit/status/2090215320921460852"
+      "title": "テスラ「Cybercab」、今月にもオースティンで稼働開始か",
+      "summary": "投資系アカウントREX Sharesが、テスラが従業員向け試験走行を経て今月中にもロボタクシー「Cybercab」をオースティンで公道運用開始する準備を進めていると投稿(8/21午後の投稿)。",
+      "source": "@REXShares",
+      "link": "https://x.com/REXShares/status/2090809109566095607"
+    },
+    {
+      "title": "DeepSeek、新型マルチモーダルモデルでAnthropicに挑戦と話題に",
+      "summary": "金融速報アカウントが、中国DeepSeekが画像・スクリーンショット解析や自律タスク実行が可能な新モデル「DeepSeek-V4-Flash-Vision-Exp」を発表し、性能がAnthropicのOpusに迫ると投稿(8/21昼の投稿)。",
+      "source": "@DeItaone",
+      "link": "https://x.com/DeItaone/status/2090764283332182467"
     }
   ]
 }
