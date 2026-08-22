@@ -1,117 +1,105 @@
 {
-  "run_label": "8/22 07:00",
+  "run_label": "8/22 19:00",
   "politics_economy": [
     {
-      "title": "千葉豪雨で22市町に交付税87億円繰り上げ交付、対応の遅さに野党から批判",
-      "summary": "高市首相は8月21日午後の関係閣僚会議で、千葉豪雨の被災自治体22市町を対象に総額約87億円の普通交付税を同日付で繰り上げ交付したと表明。発生から5日後の会議開催に野党議員から「あまりにも遅い」と批判が出ている。",
+      "title": "米、対カナダ50%関税を発動 通商交渉決裂でカナダは「同額報復」を表明",
+      "summary": "トランプ政権は8月22日午前0時1分(米東部時間)、ワインやアイスホッケー用品など500品目超を対象にカナダへの50%追加関税を発動した。一時「合意」に達したと報じられていたが交渉は土壇場で決裂。カナダのカーニー首相は同日、通商交渉の一時中断とドルに対しドルで報復する方針を表明した。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOGN220RI0S6A820C2000000/"
+    },
+    {
+      "title": "7月の全国コアCPI、前年比+1.8% 総務省発表",
+      "summary": "総務省が8月21日発表した7月の全国消費者物価指数(生鮮食品を除く総合)は前年同月比1.8%上昇。上昇率は5ヶ月連続で2%を下回ったものの、食料品など身近な品目の値上げは続いている。",
+      "source": "総務省",
+      "link": "https://www.soumu.go.jp/menu_news/s-news/01toukei08_01000349.html"
+    },
+    {
+      "title": "経産省、2027年度予算概算要求7.7兆円 AI・半導体に重点",
+      "summary": "経済産業省は2027年度予算の概算要求で一般・特別会計合わせて約7.7兆円を要求する方向で調整していることが8月21日分かった。26年度当初予算の2.5倍規模で、高市政権が掲げる補正予算依存からの脱却路線を反映しAIや半導体、ロボット分野に重点投資する。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUA199M90Z10C26A8000000/"
+    },
+    {
+      "title": "防衛省、2027年度概算要求で過去最大8.9兆円 AI活用・クラウド移行を柱に",
+      "summary": "防衛省は2027年度予算の概算要求で過去最大となる約8.9兆円を求める方針を固めたと8月20日報じられた。機密情報の民間クラウド運用への移行準備費用のほか、陸海空を一元的に指揮する統合作戦司令部向けAIオーケストレーター構築などAI活用の重点強化が柱となる。",
       "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026082100866&g=eco"
+      "link": "https://www.jiji.com/jc/article?k=2026082000214&g=pol"
     },
     {
-      "title": "内閣改造・自民党役員人事は9月中下旬が軸、木原官房長官は続投有力",
-      "summary": "高市首相による初の内閣改造・自民党人事は9月中下旬に行われる見通しになったと8月21日報じられた。沖縄県知事選(9/13)や税制改正大綱の閣議決定日程を踏まえ最終判断するとみられ、木原官房長官の続投が有力という。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUA1984N0Z10C26A8000000/"
-    },
-    {
-      "title": "NYダウ反発で始まる、一時300ドル高 AIや半導体関連株に買い",
-      "summary": "8月21日(現地時間)のニューヨーク株式市場でダウ工業株30種平均は反発して始まり、一時300ドル超上昇。前日の大幅安（703ドル安）から主力銘柄への買い直しが優勢となった。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOFL21AH80R20C26A8000000/"
-    },
-    {
-      "title": "米国務省、中国が米国人研究者2人を「不当拘束」と認定し釈放要求",
-      "summary": "米国務省は8月20〜21日、ミャンマー政策を研究していた米国人学者とボストン在住の地震学者の2人について、中国当局による「不当な拘束」だと認定し釈放を求めたと発表。中国外務省は反論している。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOCB21A620R20C26A8000000/"
-    },
-    {
-      "title": "沖縄県知事選、自民系候補が苦戦 高市首相の沖縄入り見送りへ",
-      "summary": "9月13日投開票の沖縄県知事選で、自民などが推す新人候補の支持拡大が伸び悩んでいると8月21日報じられた。自民党沖縄県連は高市首相の応援入りが逆効果になりかねないと判断し、要請を見送る方針という。",
-      "source": "日刊ゲンダイDIGITAL",
-      "link": "https://www.nikkan-gendai.com/articles/view/news/391606"
+      "title": "沖縄県知事選、現職・玉城氏が先行も新人・古謝氏が追う展開 有権者4割超が未定",
+      "summary": "9月13日投開票の沖縄県知事選(27日告示)を前にした県内世論調査で、3選を目指す現職の玉城デニー氏が先行し、自民などが推す新人の古謝玄太前那覇市副市長が追う展開にあることが分かった。投票先が「まだ決めていない」との回答が4割超にのぼり、情勢はなお流動的という。",
+      "source": "Yahoo!ニュース（エキスパート）",
+      "link": "https://news.yahoo.co.jp/expert/articles/60d2dee17e66e3fce0fe8fd414d70ac0405ba177"
     }
   ],
   "tech": [
     {
-      "title": "NVIDIA、「AIモデルより実行環境(ハーネス)が重要」との新研究を発表",
-      "summary": "NVIDIAは8月21日、長期タスクをAIエージェントにこなさせる際はモデル自体よりもエージェントを動かす実行環境(ハーネス)の設計の方が結果を大きく左右するとする新たな研究を公表した。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/"
+      "title": "OpenAI、フラッグシップ「GPT-5.6 Sol」のAPI価格を3ヶ月間20%超値下げ",
+      "summary": "OpenAIは8月21日、フロンティアモデル「GPT-5.6 Sol」のAPI・クレジット料金を今後3ヶ月間20%超値下げすると発表した。入力トークンは100万あたり5ドルから4ドルへ、出力は30ドルから20ドルへ引き下げられ、Anthropicや中国製オープンウェイトモデルとの価格競争が背景にある。",
+      "source": "Investing.com(Reuters)",
+      "link": "https://www.investing.com/news/stock-market-news/openai-cuts-developer-pricing-for-frontier-gpt56-sol-model-by-more-than-20-4872186"
     },
     {
-      "title": "ブロードコム、AI関連で700億〜800億ドル規模の負債調達を協議",
-      "summary": "ブロードコムがAI関連企業向けの資金供給を目的に700億〜800億ドル規模の負債調達に向けた協議を進めていると8月21日報じられた。調達資金の一部はAnthropicなどAI企業への融資に充てられる見通し。",
+      "title": "NVIDIA、AIスタートアップPoolsideと60億ドルのライセンス契約 10億ドルも出資",
+      "summary": "NVIDIAはAIモデル開発スタートアップPoolsideのコーディングモデル「Laguna」技術を非独占ライセンスする60億ドル規模の契約を締結し、評価額120億ドルで10億ドルを追加出資したと8月20日報じられた。買収ではなく創業者はPoolsideに残る一方、関連社員100人超にNVIDIAへの移籍オファーが出される。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-20/nvidia-to-pay-ai-startup-poolside-a-6-billion-license-newcomer-says"
+    },
+    {
+      "title": "ネバダ州、テスラ・Waymo・Uberのロボタクシー営業を許可 テスラは最大5000台",
+      "summary": "ネバダ州運輸当局は8月20日、テスラ・Waymo・Uberに自律走行車ネットワーク事業許可を付与し、ラスベガスを含むクラーク郡での有料ロボタクシー営業が可能になった。テスラは今後12ヶ月で最大5000台の「Cybercab」を展開できる権利を得た。",
+      "source": "Tesla Oracle",
+      "link": "https://www.teslaoracle.com/2026/08/21/tesla-tsla-obtains-approval-for-robotaxi-service-in-nevada-including-las-vegas/"
+    },
+    {
+      "title": "アリババ、AIクラウド売上45%増も純利益は76%減 AI投資が先行",
+      "summary": "アリババグループが8月20日発表した2026年度第1四半期決算は、AIクラウド事業の売上高が前年比45%増となった一方、AI関連の設備投資急増により純利益は76%減少した。AI関連製品の売上は外部クラウド収益の35%を占めるまで成長している。",
+      "source": "The Motley Fool",
+      "link": "https://www.fool.com/investing/2026/08/20/alibaba-cloud-revenue-jumps-45-is-the-profit-plunge-and-china-e-commerce-slide-cause-for-concern/"
+    },
+    {
+      "title": "米半導体株、6月高値から2割安 個別材料でなく米国債利回り高騰が重し",
+      "summary": "フィラデルフィア半導体指数(SOX)は8月19〜20日に急落し、6月につけた最高値から約20%安の水準にある。アナログ・デバイセズなど好決算企業もある中、下落の主因は長期金利の20年来高水準と原油高であり、半導体固有の悪材料ではないと分析されている。",
+      "source": "The Motley Fool",
+      "link": "https://www.fool.com/investing/2026/08/21/chip-stocks-didn-t-fall-on-chip-news-this-week-they-fell-on-a-19-year-high-in-the-30-year-treasury-yield/"
+    },
+    {
+      "title": "OpenAI、米企業ユーザーでAnthropicに肉薄 Ramp調査で明らかに",
+      "summary": "決済企業Rampの利用データによると、5月にAnthropicが法人シェアで逆転して以来首位を奪えていなかったOpenAIが、米企業ユーザー層で再びAnthropicに迫っていることが8月20日分かった。両社のエンタープライズ争いが激化している。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/"
+    },
+    {
+      "title": "衛星スタートアップMuon Space、2.5億ドルのシリーズCを調達",
+      "summary": "衛星製造のMuon Spaceは8月20日、Google・Salesforce Venturesなどが参加するシリーズCで2.5億ドルを調達し評価額15億ドルに達したと発表した。大規模衛星コンステレーション量産や年産500基体制の構築を加速する。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-20/muon-space-raises-250-million-with-google-salesforce-backing"
+    },
+    {
+      "title": "サムスン電子、過去最大110兆ウォンの株主還元を発表も株価は反落",
+      "summary": "サムスン電子は8月21日、2026年に90兆〜110兆ウォンの株主還元を実施すると発表した。韓国企業として過去最大規模だが、前日のSKハイニックスの自社株消却による還元策と比べ現金配当中心の内容が市場の期待に届かず、株価は反落した。",
       "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/08/21/broadcom-debt-deal-expected-to-reach-upwards-of-70-billion-sources.html"
+      "link": "https://www.cnbc.com/2026/08/21/samsung-shareholder-return-package-sk-hynix-buyback-ai-chip-boom.html"
     },
     {
-      "title": "ニューヨークが13年ぶりにテック人材市場でサンフランシスコを逆転",
-      "summary": "不動産大手CBREの調査で、ニューヨークのテック関連雇用者数が約39万4300人となり、ベイエリアの約37万5730人を上回ったことが8月21日判明。金融由来のAI人材採用がニューヨークを押し上げた一方、ベイエリアは非AI系人員削減が響いた。",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/08/21/new-york-san-francisco-tech-talent-cbre.html"
+      "title": "サムスンとSKハイニックス、AI需要でHBM増産・工場拡張を競う",
+      "summary": "サムスン電子とSKハイニックスが、米ビッグテックからのAI半導体需要を取り込むため韓国・米国・日本で工場拡張を競っていると8月21日報じられた。両社ともHBM(広帯域メモリ)を軸に中国勢への対抗も意識した投資を加速している。",
+      "source": "Seoul Economic Daily",
+      "link": "https://en.sedaily.com/finance/2026/08/21/samsung-sk-hynix-race-to-expand-chip-plants-across-korea-us"
     },
     {
-      "title": "テスラ、太陽光屋根タイル「ソーラールーフ」の販売を終了",
-      "summary": "テスラが発売から約10年を経て、屋根一体型太陽光パネル「ソーラールーフ」タイルの提供を終了したと8月20日報じられた。採算が合わないと社内で判断し、今後は従来型の太陽光パネルに注力するという。",
-      "source": "Electrek",
-      "link": "https://electrek.co/2026/08/20/tesla-discontinues-solar-roof-panels-only/"
-    },
-    {
-      "title": "軌道上データセンターのStarcloud、2.3億ドル評価額で2.5億ドル調達",
-      "summary": "衛星上でAI推論を行う軌道データセンターを手がけるStarcloudが、NVIDIAやCiscoも参加する形で2.5億ドルを追加調達し評価額23億ドルに達したと8月21日発表。ロケット打ち上げ枠の逼迫を背景に事業拡大を急ぐ。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/"
-    },
-    {
-      "title": "TikTok、児童プライバシー訴訟で米司法省と4億ドルで和解",
-      "summary": "TikTokと親会社ByteDanceは8月21日、13歳未満の子どもの個人情報を保護者同意なく収集していたとする児童オンラインプライバシー保護法(COPPA)違反の訴訟を巡り、米司法省と4億ドルで和解したと発表した。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/21/tiktok-reaches-400m-settlement-over-childrens-privacy-lawsuit/"
-    },
-    {
-      "title": "米政府研究機関、中国製LiDARのセキュリティ脆弱性を調査",
-      "summary": "米エネルギー省傘下の研究機関が、自動運転車などに広く使われる中国製LiDARセンサーが安全保障上のリスクとなり得るかを調査していると8月21日報じられた。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/21/us-government-lab-is-probing-chinese-lidar-for-security-vulnerabilities/"
-    },
-    {
-      "title": "Waymo、子ども衝突事故を巡るNHTSA調査に資料提出",
-      "summary": "Waymoは8月21日までに、1月に自動運転車が子どもと接触した事故を調べる米高速道路交通安全局(NHTSA)の調査要求に対し資料を提出したことを明らかにした。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/21/waymo-hands-over-documents-in-nhtsas-child-collision-probe/"
-    },
-    {
-      "title": "8月の日本製造業PMI加速、半導体・AI関連の海外需要が押し上げ",
-      "summary": "8月21日発表のS&Pグローバル製造業PMI速報値は55.1となり7月の54.5から上昇。半導体やAI関連産業を中心とした新規受注の急増と堅調な海外需要が製造業活動を押し上げた。",
-      "source": "Investing.com",
-      "link": "https://jp.investing.com/news/economic-indicators/article-1656559"
-    },
-    {
-      "title": "GitLabの重大脆弱性、公表から数日で悪用が確認される",
-      "summary": "CVSS9.4の重大なコードインジェクション脆弱性CVE-2026-19478について、自己ホスト型GitLab環境への悪用が公表からわずか数日で確認されたと8月20日報じられた。認証不要でパブリックプロジェクトの改ざん・削除が可能という。",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html"
+      "title": "2.5次元アイドル事務所VOISING、BIツール不正アクセスで最大17万人分の情報漏洩",
+      "summary": "アイドルグループ「いれいす」運営のVOISINGは8月20日、利用するBIツールへの不正アクセスにより氏名・購買履歴・「推し」情報などが漏洩し、対象者が最大約17万人に上る可能性があると発表した。不正アクセスは8月10日から始まっていたという。",
+      "source": "ITmedia NEWS",
+      "link": "https://www.itmedia.co.jp/news/article/2608/21/2000000677/"
     }
   ],
   "x_trending_tech": [
     {
-      "title": "テスラ、ソーラールーフタイル事業を終了と速報",
-      "summary": "速報系アカウントFirst SquawkがElectrekの報道を引用し、テスラが採算面から「ソーラールーフ」タイル事業を終了したと投稿(8/21朝の投稿)。",
-      "source": "@FirstSquawk",
-      "link": "https://x.com/FirstSquawk/status/2090648421489418403"
-    },
-    {
-      "title": "テスラ「Cybercab」、今月にもオースティンで稼働開始か",
-      "summary": "投資系アカウントREX Sharesが、テスラが従業員向け試験走行を経て今月中にもロボタクシー「Cybercab」をオースティンで公道運用開始する準備を進めていると投稿(8/21午後の投稿)。",
-      "source": "@REXShares",
-      "link": "https://x.com/REXShares/status/2090809109566095607"
-    },
-    {
-      "title": "DeepSeek、新型マルチモーダルモデルでAnthropicに挑戦と話題に",
-      "summary": "金融速報アカウントが、中国DeepSeekが画像・スクリーンショット解析や自律タスク実行が可能な新モデル「DeepSeek-V4-Flash-Vision-Exp」を発表し、性能がAnthropicのOpusに迫ると投稿(8/21昼の投稿)。",
-      "source": "@DeItaone",
-      "link": "https://x.com/DeItaone/status/2090764283332182467"
+      "title": "OpenAI、「GPT-5.6 Sol」のAPI価格を3ヶ月間20%超値下げすると自ら投稿",
+      "summary": "OpenAI公式アカウントが「フロンティア能力の追求とコスト効率改善を両立するため、GPT-5.6 SolのAPI・クレジット価格を今後3ヶ月間20%超引き下げる」と投稿(8/21夜の投稿)。開発者コミュニティで反響を呼んだ。",
+      "source": "@OpenAI",
+      "link": "https://x.com/OpenAI/status/2090885187634905500"
     }
   ]
 }
