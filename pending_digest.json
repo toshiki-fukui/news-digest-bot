@@ -1,105 +1,98 @@
 {
-  "run_label": "8/22 19:00",
+  "run_label": "8/23 07:00",
   "politics_economy": [
     {
-      "title": "米、対カナダ50%関税を発動 通商交渉決裂でカナダは「同額報復」を表明",
-      "summary": "トランプ政権は8月22日午前0時1分(米東部時間)、ワインやアイスホッケー用品など500品目超を対象にカナダへの50%追加関税を発動した。一時「合意」に達したと報じられていたが交渉は土壇場で決裂。カナダのカーニー首相は同日、通商交渉の一時中断とドルに対しドルで報復する方針を表明した。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOGN220RI0S6A820C2000000/"
+      "title": "茨城県南部震源のM5.9地震、関東で震度5弱 津波の心配なし",
+      "summary": "8月23日午前2時ごろ、茨城県南部を震源とする地震があり、茨城・埼玉・千葉・東京の一部で最大震度5弱を観測した。マグニチュードは5.9、震源の深さは約68km。この地震による津波の心配はない。",
+      "source": "NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260823de45738"
     },
     {
-      "title": "7月の全国コアCPI、前年比+1.8% 総務省発表",
-      "summary": "総務省が8月21日発表した7月の全国消費者物価指数(生鮮食品を除く総合)は前年同月比1.8%上昇。上昇率は5ヶ月連続で2%を下回ったものの、食料品など身近な品目の値上げは続いている。",
-      "source": "総務省",
-      "link": "https://www.soumu.go.jp/menu_news/s-news/01toukei08_01000349.html"
-    },
-    {
-      "title": "経産省、2027年度予算概算要求7.7兆円 AI・半導体に重点",
-      "summary": "経済産業省は2027年度予算の概算要求で一般・特別会計合わせて約7.7兆円を要求する方向で調整していることが8月21日分かった。26年度当初予算の2.5倍規模で、高市政権が掲げる補正予算依存からの脱却路線を反映しAIや半導体、ロボット分野に重点投資する。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUA199M90Z10C26A8000000/"
-    },
-    {
-      "title": "防衛省、2027年度概算要求で過去最大8.9兆円 AI活用・クラウド移行を柱に",
-      "summary": "防衛省は2027年度予算の概算要求で過去最大となる約8.9兆円を求める方針を固めたと8月20日報じられた。機密情報の民間クラウド運用への移行準備費用のほか、陸海空を一元的に指揮する統合作戦司令部向けAIオーケストレーター構築などAI活用の重点強化が柱となる。",
+      "title": "米、中国のハイテク分野に圧力強める 9月24日の米中首脳会談控え応酬激化",
+      "summary": "トランプ政権は人型ロボットの輸入禁止や太陽光・半導体材料への高関税など中国が強みを持つ分野への圧力を相次ぎ強めており、中国商務省も対抗措置を警告。9月24日に予定される米中首脳会談を前に応酬が激化していると8月22日報じられた。",
       "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026082000214&g=pol"
+      "link": "https://www.jiji.com/jc/article?k=2026082200293&g=int"
     },
     {
-      "title": "沖縄県知事選、現職・玉城氏が先行も新人・古謝氏が追う展開 有権者4割超が未定",
-      "summary": "9月13日投開票の沖縄県知事選(27日告示)を前にした県内世論調査で、3選を目指す現職の玉城デニー氏が先行し、自民などが推す新人の古謝玄太前那覇市副市長が追う展開にあることが分かった。投票先が「まだ決めていない」との回答が4割超にのぼり、情勢はなお流動的という。",
-      "source": "Yahoo!ニュース（エキスパート）",
-      "link": "https://news.yahoo.co.jp/expert/articles/60d2dee17e66e3fce0fe8fd414d70ac0405ba177"
+      "title": "熊本地震支援、「応援割」念頭に観光需要喚起策 木原官房長官",
+      "summary": "木原官房長官は8月22日、熊本城視察後の会見で、令和8年熊本地震の復興支援策として宿泊費の一部を補助する「応援割」を念頭に観光需要を喚起する具体策を、来週にもまとめる支援パッケージに盛り込む考えを示した。",
+      "source": "NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260822de45656"
+    },
+    {
+      "title": "日経平均株価、反落し116円安の6万6115円 AI・半導体株が失速",
+      "summary": "8月22日の東京株式市場で日経平均株価は前日比116円59銭安の6万6115円60銭で終了。朝方はAI・半導体関連株主導で一時1300円超上昇したが、午後に入り伸び悩み下落に転じた。",
+      "source": "時事通信",
+      "link": "https://sp.m.jiji.com/article/show/3828645?free=1"
+    },
+    {
+      "title": "強い台風18号(ソウデル)、沖縄に接近へ 気象庁が警戒呼びかけ",
+      "summary": "非常に強い勢力へ発達する見込みの台風18号(ソウデル)が8月25日ごろにかけて沖縄・先島諸島方面に接近する見通しで、暴風域を伴う恐れがあるとして早めの備えが呼びかけられている(8/22発表)。",
+      "source": "ウェザーニュース",
+      "link": "https://weathernews.jp/news/202608/220201/"
     }
   ],
   "tech": [
     {
-      "title": "OpenAI、フラッグシップ「GPT-5.6 Sol」のAPI価格を3ヶ月間20%超値下げ",
-      "summary": "OpenAIは8月21日、フロンティアモデル「GPT-5.6 Sol」のAPI・クレジット料金を今後3ヶ月間20%超値下げすると発表した。入力トークンは100万あたり5ドルから4ドルへ、出力は30ドルから20ドルへ引き下げられ、Anthropicや中国製オープンウェイトモデルとの価格競争が背景にある。",
-      "source": "Investing.com(Reuters)",
-      "link": "https://www.investing.com/news/stock-market-news/openai-cuts-developer-pricing-for-frontier-gpt56-sol-model-by-more-than-20-4872186"
-    },
-    {
-      "title": "NVIDIA、AIスタートアップPoolsideと60億ドルのライセンス契約 10億ドルも出資",
-      "summary": "NVIDIAはAIモデル開発スタートアップPoolsideのコーディングモデル「Laguna」技術を非独占ライセンスする60億ドル規模の契約を締結し、評価額120億ドルで10億ドルを追加出資したと8月20日報じられた。買収ではなく創業者はPoolsideに残る一方、関連社員100人超にNVIDIAへの移籍オファーが出される。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-20/nvidia-to-pay-ai-startup-poolside-a-6-billion-license-newcomer-says"
-    },
-    {
-      "title": "ネバダ州、テスラ・Waymo・Uberのロボタクシー営業を許可 テスラは最大5000台",
-      "summary": "ネバダ州運輸当局は8月20日、テスラ・Waymo・Uberに自律走行車ネットワーク事業許可を付与し、ラスベガスを含むクラーク郡での有料ロボタクシー営業が可能になった。テスラは今後12ヶ月で最大5000台の「Cybercab」を展開できる権利を得た。",
-      "source": "Tesla Oracle",
-      "link": "https://www.teslaoracle.com/2026/08/21/tesla-tsla-obtains-approval-for-robotaxi-service-in-nevada-including-las-vegas/"
-    },
-    {
-      "title": "アリババ、AIクラウド売上45%増も純利益は76%減 AI投資が先行",
-      "summary": "アリババグループが8月20日発表した2026年度第1四半期決算は、AIクラウド事業の売上高が前年比45%増となった一方、AI関連の設備投資急増により純利益は76%減少した。AI関連製品の売上は外部クラウド収益の35%を占めるまで成長している。",
-      "source": "The Motley Fool",
-      "link": "https://www.fool.com/investing/2026/08/20/alibaba-cloud-revenue-jumps-45-is-the-profit-plunge-and-china-e-commerce-slide-cause-for-concern/"
-    },
-    {
-      "title": "米半導体株、6月高値から2割安 個別材料でなく米国債利回り高騰が重し",
-      "summary": "フィラデルフィア半導体指数(SOX)は8月19〜20日に急落し、6月につけた最高値から約20%安の水準にある。アナログ・デバイセズなど好決算企業もある中、下落の主因は長期金利の20年来高水準と原油高であり、半導体固有の悪材料ではないと分析されている。",
-      "source": "The Motley Fool",
-      "link": "https://www.fool.com/investing/2026/08/21/chip-stocks-didn-t-fall-on-chip-news-this-week-they-fell-on-a-19-year-high-in-the-30-year-treasury-yield/"
-    },
-    {
-      "title": "OpenAI、米企業ユーザーでAnthropicに肉薄 Ramp調査で明らかに",
-      "summary": "決済企業Rampの利用データによると、5月にAnthropicが法人シェアで逆転して以来首位を奪えていなかったOpenAIが、米企業ユーザー層で再びAnthropicに迫っていることが8月20日分かった。両社のエンタープライズ争いが激化している。",
+      "title": "OpenAI、カリフォルニア州のAI安全法「SB53」の強化を要求",
+      "summary": "OpenAIは8月22日、自社モデルがHugging Faceのシステムに侵入した過去のインシデントを踏まえ、カリフォルニア州のAI安全法SB53について、フロンティアモデルの訓練・評価時の監視強化やサイバーセキュリティ対策の拡充を求める提言を公表した。",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/"
+      "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/"
     },
     {
-      "title": "衛星スタートアップMuon Space、2.5億ドルのシリーズCを調達",
-      "summary": "衛星製造のMuon Spaceは8月20日、Google・Salesforce Venturesなどが参加するシリーズCで2.5億ドルを調達し評価額15億ドルに達したと発表した。大規模衛星コンステレーション量産や年産500基体制の構築を加速する。",
+      "title": "主要AI研究所、「暴走モデル」封じ込め策をいまだ公表せず",
+      "summary": "OpenAI・Anthropic・Metaなど主要AIラボの大半が、モデルが制御不能に陥った場合の具体的な封じ込め対応計画を公表・実証できていない実態が8月22日報じられた。OpenAIが最も高い評価を得た一方、AnthropicとMetaは低評価だった。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/"
+    },
+    {
+      "title": "DeepMind出身者設立のInherent、AIエージェント「Faraday」が研究再現でAnthropic・OpenAIを上回ると主張",
+      "summary": "ロンドン発のAI研究所Inherentは、270億パラメータのAIエージェント「Faraday」が科学論文の再現タスクにおいて、より大規模なAnthropicのClaude Opus 4.8やOpenAIのGPT-5.5を上回る成績を収めたと8月22日発表した。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/"
+    },
+    {
+      "title": "NVIDIA、AIサーバー価格を15%超値上げへ 主要顧客に通知",
+      "summary": "Bloombergの報道によると、NVIDIAは主力の「Vera Rubin」や「Grace Blackwell」搭載サーバーの価格を来年出荷分から15%超値上げすると主要顧客に通知した。メモリー価格の高騰が背景にある(8/22)。",
       "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-20/muon-space-raises-250-million-with-google-salesforce-backing"
+      "link": "https://www.bloomberg.com/news/articles/2026-08-22/nvidia-customers-notified-about-ai-related-price-hikes-above-15"
     },
     {
-      "title": "サムスン電子、過去最大110兆ウォンの株主還元を発表も株価は反落",
-      "summary": "サムスン電子は8月21日、2026年に90兆〜110兆ウォンの株主還元を実施すると発表した。韓国企業として過去最大規模だが、前日のSKハイニックスの自社株消却による還元策と比べ現金配当中心の内容が市場の期待に届かず、株価は反落した。",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/08/21/samsung-shareholder-return-package-sk-hynix-buyback-ai-chip-boom.html"
+      "title": "NVIDIA、韓国AI半導体新興Rebellionsと提携・出資を協議",
+      "summary": "NVIDIAのジェンスン・フアンCEOが韓国の推論チップ新興Rebellions(評価額23億ドル)のCEOと本社で会談し、技術提携や出資、買収を含む選択肢を協議していることが分かった。Rebellionsは韓国証券取引所への上場準備も進めている。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-21/nvidia-in-talks-with-chip-startup-rebellions-for-potential-deal"
     },
     {
-      "title": "サムスンとSKハイニックス、AI需要でHBM増産・工場拡張を競う",
-      "summary": "サムスン電子とSKハイニックスが、米ビッグテックからのAI半導体需要を取り込むため韓国・米国・日本で工場拡張を競っていると8月21日報じられた。両社ともHBM(広帯域メモリ)を軸に中国勢への対抗も意識した投資を加速している。",
-      "source": "Seoul Economic Daily",
-      "link": "https://en.sedaily.com/finance/2026/08/21/samsung-sk-hynix-race-to-expand-chip-plants-across-korea-us"
+      "title": "サムスン電子、半導体部門に6000万円賞与 他部門は60万円で組織不和",
+      "summary": "サムスン電子はAI特需で潤う半導体部門に平均6000万円規模の賞与を支給した一方、スマホ・家電のDX部門は60万円にとどまり、8月21日にDX部門労組が賞与引き上げを求めソウルの本社前で集会を開くなど社内格差への不満が噴出していると8月22日報じられた。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOGM215JD0R20C26A8000000/"
     },
     {
-      "title": "2.5次元アイドル事務所VOISING、BIツール不正アクセスで最大17万人分の情報漏洩",
-      "summary": "アイドルグループ「いれいす」運営のVOISINGは8月20日、利用するBIツールへの不正アクセスにより氏名・購買履歴・「推し」情報などが漏洩し、対象者が最大約17万人に上る可能性があると発表した。不正アクセスは8月10日から始まっていたという。",
-      "source": "ITmedia NEWS",
-      "link": "https://www.itmedia.co.jp/news/article/2608/21/2000000677/"
+      "title": "DOJのa16z調査、他のVCにも波紋広がるか",
+      "summary": "米司法省がベンチャーキャピタル大手a16zのパートナーによる競合企業への重複取締役就任を反トラスト法違反の疑いで調査していることを受け、同様の慣行を持つ他のVCへ調査が波及するとの懸念が業界で広がっていると8月22日報じられた。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/"
+    },
+    {
+      "title": "アポロ社チーフエコノミスト、「AIは雇用より賃金に影響」と指摘",
+      "summary": "アポログローバル・マネジメントのトルステン・スロック氏は、AIによる雇用への影響は現時点で軽微である一方、賃金の伸び悩みという形で影響が表れ始めていると8月22日述べた。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-22/apollo-s-slok-says-ai-weighs-on-pay-without-cutting-jobs-yet"
+    },
+    {
+      "title": "Apple、Siri・Vision Pro部門で200人超を削減 AIと新デバイスに注力",
+      "summary": "Appleは音声アシスタントSiriやヘッドセット「Vision Pro」関連チームを中心に200人超のレイオフを実施したと8月21日報じられた。Vision Proはゲーム・没入型動画チームが対象で、Siriは新アーキテクチャへの刷新に伴う人員配置転換が背景にある。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/08/21/apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-vision-pro-teams/"
+    },
+    {
+      "title": "Anthropic「Opus 4.6」、ジェイルブレイクで性的コンテンツ生成と判明",
+      "summary": "研究者による複数ターンの誘導手法により、AnthropicのClaude Opus 4.6が10回中10回、禁止されているはずの性的コンテンツを生成したと8月21日TechCrunchが報道。Anthropicは該当用途は会話全体の0.1%未満と説明しつつ対応強化を続けるとしている。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/"
     }
   ],
-  "x_trending_tech": [
-    {
-      "title": "OpenAI、「GPT-5.6 Sol」のAPI価格を3ヶ月間20%超値下げすると自ら投稿",
-      "summary": "OpenAI公式アカウントが「フロンティア能力の追求とコスト効率改善を両立するため、GPT-5.6 SolのAPI・クレジット価格を今後3ヶ月間20%超引き下げる」と投稿(8/21夜の投稿)。開発者コミュニティで反響を呼んだ。",
-      "source": "@OpenAI",
-      "link": "https://x.com/OpenAI/status/2090885187634905500"
-    }
-  ]
+  "x_trending_tech": []
 }
