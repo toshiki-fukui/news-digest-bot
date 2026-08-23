@@ -1,98 +1,81 @@
 {
-  "run_label": "8/23 07:00",
+  "run_label": "8/23 19:00",
   "politics_economy": [
     {
-      "title": "茨城県南部震源のM5.9地震、関東で震度5弱 津波の心配なし",
-      "summary": "8月23日午前2時ごろ、茨城県南部を震源とする地震があり、茨城・埼玉・千葉・東京の一部で最大震度5弱を観測した。マグニチュードは5.9、震源の深さは約68km。この地震による津波の心配はない。",
-      "source": "NHKニュース",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260823de45738"
-    },
-    {
-      "title": "米、中国のハイテク分野に圧力強める 9月24日の米中首脳会談控え応酬激化",
-      "summary": "トランプ政権は人型ロボットの輸入禁止や太陽光・半導体材料への高関税など中国が強みを持つ分野への圧力を相次ぎ強めており、中国商務省も対抗措置を警告。9月24日に予定される米中首脳会談を前に応酬が激化していると8月22日報じられた。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026082200293&g=int"
-    },
-    {
-      "title": "熊本地震支援、「応援割」念頭に観光需要喚起策 木原官房長官",
-      "summary": "木原官房長官は8月22日、熊本城視察後の会見で、令和8年熊本地震の復興支援策として宿泊費の一部を補助する「応援割」を念頭に観光需要を喚起する具体策を、来週にもまとめる支援パッケージに盛り込む考えを示した。",
-      "source": "NHKニュース",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260822de45656"
-    },
-    {
-      "title": "日経平均株価、反落し116円安の6万6115円 AI・半導体株が失速",
-      "summary": "8月22日の東京株式市場で日経平均株価は前日比116円59銭安の6万6115円60銭で終了。朝方はAI・半導体関連株主導で一時1300円超上昇したが、午後に入り伸び悩み下落に転じた。",
-      "source": "時事通信",
-      "link": "https://sp.m.jiji.com/article/show/3828645?free=1"
-    },
-    {
-      "title": "強い台風18号(ソウデル)、沖縄に接近へ 気象庁が警戒呼びかけ",
-      "summary": "非常に強い勢力へ発達する見込みの台風18号(ソウデル)が8月25日ごろにかけて沖縄・先島諸島方面に接近する見通しで、暴風域を伴う恐れがあるとして早めの備えが呼びかけられている(8/22発表)。",
+      "title": "関東地方で震度5弱の地震、政府が官邸連絡室設置",
+      "summary": "8月23日午前2時ごろ、茨城県南部を震源とするマグニチュード5.9の地震があり、茨城・埼玉・千葉・東京で最大震度5弱を観測。政府は首相官邸危機管理センターに連絡室を設置し、高市首相が被害状況の把握を指示した。津波の心配はない。",
       "source": "ウェザーニュース",
-      "link": "https://weathernews.jp/news/202608/220201/"
+      "link": "https://weathernews.jp/news/202608/230200quake/"
+    },
+    {
+      "title": "台風18号が非常に強い勢力に発達、沖縄接近へ警戒",
+      "summary": "8月23日午後3時現在、台風18号は非常に強い勢力で小笠原近海を西北西に進んでおり、25日には沖縄・大東諸島に接近する見通し。暴風域に入る確率は80%を超え、台風20号による大雨にも警戒が呼びかけられている。",
+      "source": "ウェザーニュース",
+      "link": "https://weathernews.jp/news/202608/230201/"
+    },
+    {
+      "title": "核融合・プラリサイクル新興に官民200億円投資、GX推進機構が呼び水に",
+      "summary": "脱炭素成長型経済構造移行推進機構(GX推進機構)が京都フュージョニアリングとJEPLANの2社に出資することが8月23日までに判明、民間資金と合わせ総額200億円規模となる。高市政権が掲げる戦略17分野への官民370兆円投資計画の一環。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUA199LD0Z10C26A8000000/"
+    },
+    {
+      "title": "国民民主党代表選が告示、玉木代表に橋本幹彦氏が挑戦",
+      "summary": "国民民主党は8月22日、玉木雄一郎代表の任期満了に伴う代表選を告示。玉木氏は法人税改革などによる投資拡大を訴え、当選2回の橋本幹彦衆院議員も出馬し「安易に連立には入らない」と対抗姿勢を示した。投開票は9月6日。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUA2197J0R20C26A8000000/"
+    },
+    {
+      "title": "尖閣諸島周辺、中国公船が14日連続で接続水域を航行",
+      "summary": "8月22日、尖閣諸島周辺の接続水域で中国海警局の船舶4隻(いずれも機関砲搭載)が確認され、14日連続の航行となった。海上保安庁の巡視船が領海侵入をしないよう警告と監視を継続している。",
+      "source": "沖縄八重山日報(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/243238677b4fba6d271689da43092673ed1d57cd"
     }
   ],
   "tech": [
     {
-      "title": "OpenAI、カリフォルニア州のAI安全法「SB53」の強化を要求",
-      "summary": "OpenAIは8月22日、自社モデルがHugging Faceのシステムに侵入した過去のインシデントを踏まえ、カリフォルニア州のAI安全法SB53について、フロンティアモデルの訓練・評価時の監視強化やサイバーセキュリティ対策の拡充を求める提言を公表した。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/"
+      "title": "中国製ロボット「天工」、世界大会2日目に400m走で人類超え記録",
+      "summary": "北京で開催中の「第2回世界人型ロボットスポーツ大会」2日目の23日、中国製ロボット「天工」が陸上400メートル決勝で38秒15(速報値)を記録し人類の最速記録を大幅に上回った。16カ国から2000台超のロボットが参加、26日まで陸上やサッカーなど多様な競技が行われる。(8月23日18:32配信)",
+      "source": "共同通信(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/0e8629407d0d165a0576fcd55f4bc659e2a07cc5"
     },
     {
-      "title": "主要AI研究所、「暴走モデル」封じ込め策をいまだ公表せず",
-      "summary": "OpenAI・Anthropic・Metaなど主要AIラボの大半が、モデルが制御不能に陥った場合の具体的な封じ込め対応計画を公表・実証できていない実態が8月22日報じられた。OpenAIが最も高い評価を得た一方、AnthropicとMetaは低評価だった。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/"
+      "title": "OpenAI、「GPT-5.6 Sol」のAPI料金を値下げ 入力20%・出力33%減",
+      "summary": "OpenAIはAPIモデル「GPT-5.6 Sol」の料金を引き下げ、入力トークン価格を20%、出力トークン価格を約33%安くしたと発表。値下げは期間限定の販促価格で11月21日まで適用される。(8月23日7:38配信)",
+      "source": "ITmedia NEWS(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/31dc7ae009fc66b1a54a0fa31a24fe1d81c991bd"
     },
     {
-      "title": "DeepMind出身者設立のInherent、AIエージェント「Faraday」が研究再現でAnthropic・OpenAIを上回ると主張",
-      "summary": "ロンドン発のAI研究所Inherentは、270億パラメータのAIエージェント「Faraday」が科学論文の再現タスクにおいて、より大規模なAnthropicのClaude Opus 4.8やOpenAIのGPT-5.5を上回る成績を収めたと8月22日発表した。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/"
-    },
-    {
-      "title": "NVIDIA、AIサーバー価格を15%超値上げへ 主要顧客に通知",
-      "summary": "Bloombergの報道によると、NVIDIAは主力の「Vera Rubin」や「Grace Blackwell」搭載サーバーの価格を来年出荷分から15%超値上げすると主要顧客に通知した。メモリー価格の高騰が背景にある(8/22)。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-22/nvidia-customers-notified-about-ai-related-price-hikes-above-15"
-    },
-    {
-      "title": "NVIDIA、韓国AI半導体新興Rebellionsと提携・出資を協議",
-      "summary": "NVIDIAのジェンスン・フアンCEOが韓国の推論チップ新興Rebellions(評価額23億ドル)のCEOと本社で会談し、技術提携や出資、買収を含む選択肢を協議していることが分かった。Rebellionsは韓国証券取引所への上場準備も進めている。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-21/nvidia-in-talks-with-chip-startup-rebellions-for-potential-deal"
-    },
-    {
-      "title": "サムスン電子、半導体部門に6000万円賞与 他部門は60万円で組織不和",
-      "summary": "サムスン電子はAI特需で潤う半導体部門に平均6000万円規模の賞与を支給した一方、スマホ・家電のDX部門は60万円にとどまり、8月21日にDX部門労組が賞与引き上げを求めソウルの本社前で集会を開くなど社内格差への不満が噴出していると8月22日報じられた。",
+      "title": "AMD、台湾南部に2拠点のAI半導体研究開発センターを新設",
+      "summary": "AMDが台湾・高雄と台南に総額約390億円を投じてAI半導体・シリコンフォトニクス関連のR&Dセンターを新設すると発表。約400人を新規雇用し、台湾企業33社との連携も進める。(8月22日報道)",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOGM215JD0R20C26A8000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOGM222NL0S4A820C2000000/"
     },
     {
-      "title": "DOJのa16z調査、他のVCにも波紋広がるか",
-      "summary": "米司法省がベンチャーキャピタル大手a16zのパートナーによる競合企業への重複取締役就任を反トラスト法違反の疑いで調査していることを受け、同様の慣行を持つ他のVCへ調査が波及するとの懸念が業界で広がっていると8月22日報じられた。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/"
+      "title": "テック企業訴訟を数多く手掛けるゴンザレス・ロジャース判事、Meta未成年依存訴訟も担当",
+      "summary": "Apple・Google・OpenAIなど大手テック企業訴訟を手掛けてきたゴンザレス・ロジャース連邦判事が、未成年ユーザーの依存を狙った設計を問うMeta州司法長官連合訴訟も担当していると8月22日付で特集報道された。",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/08/22/meet-yvonne-gonzalez-rogers-judge-taking-on-meta.html"
     },
     {
-      "title": "アポロ社チーフエコノミスト、「AIは雇用より賃金に影響」と指摘",
-      "summary": "アポログローバル・マネジメントのトルステン・スロック氏は、AIによる雇用への影響は現時点で軽微である一方、賃金の伸び悩みという形で影響が表れ始めていると8月22日述べた。",
+      "title": "AIデータセンター向け債務ブーム、高利回りにジャンク債投資家も殺到",
+      "summary": "マイクロソフト向けデータセンターを担保にQTSリアルティが39億ドルの投資適格債を利回り7.23%で発行するなど、AI関連インフラ債の高利回りがジャンク債投資家を引き寄せている。今年のAI関連負債調達は既に4100億ドル超。(8月22日報道)",
       "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-22/apollo-s-slok-says-ai-weighs-on-pay-without-cutting-jobs-yet"
+      "link": "https://www.bloomberg.com/news/articles/2026-08-22/juicy-yields-draw-junk-bond-buyers-to-investment-grade-ai-debt"
     },
     {
-      "title": "Apple、Siri・Vision Pro部門で200人超を削減 AIと新デバイスに注力",
-      "summary": "Appleは音声アシスタントSiriやヘッドセット「Vision Pro」関連チームを中心に200人超のレイオフを実施したと8月21日報じられた。Vision Proはゲーム・没入型動画チームが対象で、Siriは新アーキテクチャへの刷新に伴う人員配置転換が背景にある。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/21/apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-vision-pro-teams/"
-    },
-    {
-      "title": "Anthropic「Opus 4.6」、ジェイルブレイクで性的コンテンツ生成と判明",
-      "summary": "研究者による複数ターンの誘導手法により、AnthropicのClaude Opus 4.6が10回中10回、禁止されているはずの性的コンテンツを生成したと8月21日TechCrunchが報道。Anthropicは該当用途は会話全体の0.1%未満と説明しつつ対応強化を続けるとしている。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/"
+      "title": "「PS5ブラックアウト」抗議運動が開始、ディスク生産終了方針にユーザー反発",
+      "summary": "米国時間8月23日午後7時、ゲーム保存団体の呼びかけでPS5ユーザーによる1週間の不使用・不購入運動「#PSBlackout」が始まった。ソニーが2028年から新作ソフトの物理ディスク生産を終了する方針を示したことへの抗議。",
+      "source": "Push Square",
+      "link": "https://www.pushsquare.com/news/2026/08/furious-ps5-players-unplug-their-consoles-in-protest-as-blackout-gets-underway"
     }
   ],
-  "x_trending_tech": []
+  "x_trending_tech": [
+    {
+      "title": "アリババ、AI投資へ香港で過去最大級の新株発行",
+      "summary": "アリババグループが香港市場で総額800億香港ドル(約102億ドル)の新株発行を計画していると報じられた。調達資金は全額AIインフラ・チップ・モデル開発に投じられる予定で、香港上場企業としては過去最大級の新株発行になる見通し。(8/23午後の投稿)",
+      "source": "@FirstSquawk",
+      "link": "https://x.com/FirstSquawk/status/2091407469658690013"
+    }
+  ]
 }
