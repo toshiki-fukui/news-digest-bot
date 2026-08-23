@@ -1,81 +1,98 @@
 {
-  "run_label": "8/23 19:00",
+  "run_label": "8/24 07:00",
   "politics_economy": [
     {
-      "title": "関東地方で震度5弱の地震、政府が官邸連絡室設置",
-      "summary": "8月23日午前2時ごろ、茨城県南部を震源とするマグニチュード5.9の地震があり、茨城・埼玉・千葉・東京で最大震度5弱を観測。政府は首相官邸危機管理センターに連絡室を設置し、高市首相が被害状況の把握を指示した。津波の心配はない。",
-      "source": "ウェザーニュース",
-      "link": "https://weathernews.jp/news/202608/230200quake/"
+      "title": "高市内閣支持率50.2%、発足以来最低を更新",
+      "summary": "共同通信が8月22・23両日実施した全国電話世論調査で、高市内閣の支持率は50.2%となり、前回7月調査から3.5ポイント低下して発足以来最低を更新した。内閣改造での派閥処分議員の重要ポスト起用には73.8%が反対。",
+      "source": "共同通信(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/428bc2a501a2f692f6d438e9d4df1ffe5fec065a"
     },
     {
-      "title": "台風18号が非常に強い勢力に発達、沖縄接近へ警戒",
-      "summary": "8月23日午後3時現在、台風18号は非常に強い勢力で小笠原近海を西北西に進んでおり、25日には沖縄・大東諸島に接近する見通し。暴風域に入る確率は80%を超え、台風20号による大雨にも警戒が呼びかけられている。",
-      "source": "ウェザーニュース",
-      "link": "https://weathernews.jp/news/202608/230201/"
+      "title": "消費税減税、財政不安「感じる」71.7% 共同通信世論調査",
+      "summary": "共同通信の同世論調査では、高市首相が検討する消費税(食品)減税を巡り、財政への不安を「感じる」「ある程度感じる」との回答が計71.7%に上った。減税の是非を巡る国民の慎重姿勢が浮き彫りになった。(8月23日公表)",
+      "source": "西日本新聞",
+      "link": "https://www.nishinippon.co.jp/item/1529692/"
     },
     {
-      "title": "核融合・プラリサイクル新興に官民200億円投資、GX推進機構が呼び水に",
-      "summary": "脱炭素成長型経済構造移行推進機構(GX推進機構)が京都フュージョニアリングとJEPLANの2社に出資することが8月23日までに判明、民間資金と合わせ総額200億円規模となる。高市政権が掲げる戦略17分野への官民370兆円投資計画の一環。",
+      "title": "毎日新聞世論調査、高市内閣支持率横ばい41% 不支持が2カ月連続上回る",
+      "summary": "毎日新聞が8月22・23日に実施した世論調査では、高市内閣の支持率は前回と同じ41%、不支持率は44%で、不支持が支持を上回る状態が2カ月連続となった。共同通信調査とは異なる傾向を示している。",
+      "source": "毎日新聞(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/b778f8034fcd39aa28ae8076458f12be5a927cde"
+    },
+    {
+      "title": "日経平均株価、反落 終値1811円安の6万4611円 AI特需の持続懸念",
+      "summary": "24日の東京株式市場で日経平均株価は反落し、終値は前日比1811円45銭安の6万4611円15銭。前日の米ハイテク株安が波及し、AI・半導体関連銘柄を中心にリスク回避の売りが優勢となった。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUA199LD0Z10C26A8000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOFL240K40U6A720C2000000/"
     },
     {
-      "title": "国民民主党代表選が告示、玉木代表に橋本幹彦氏が挑戦",
-      "summary": "国民民主党は8月22日、玉木雄一郎代表の任期満了に伴う代表選を告示。玉木氏は法人税改革などによる投資拡大を訴え、当選2回の橋本幹彦衆院議員も出馬し「安易に連立には入らない」と対抗姿勢を示した。投開票は9月6日。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUA2197J0R20C26A8000000/"
-    },
-    {
-      "title": "尖閣諸島周辺、中国公船が14日連続で接続水域を航行",
-      "summary": "8月22日、尖閣諸島周辺の接続水域で中国海警局の船舶4隻(いずれも機関砲搭載)が確認され、14日連続の航行となった。海上保安庁の巡視船が領海侵入をしないよう警告と監視を継続している。",
-      "source": "沖縄八重山日報(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/243238677b4fba6d271689da43092673ed1d57cd"
+      "title": "非常に強い台風18号、沖縄接近へ 大東島は25日にも暴風域",
+      "summary": "台風18号は24日午前3時現在、非常に強い勢力(中心気圧950hPa、最大風速45m/s)で日本の南を西北西に進んでいる。25日に沖縄・大東諸島へ接近し、27日にかけて沖縄本島・先島諸島にも強い勢力で近づく見通しで、暴風域に入る確率は80%を超える。",
+      "source": "ウェザーニュース",
+      "link": "https://weathernews.jp/news/202608/240051/"
     }
   ],
   "tech": [
     {
-      "title": "中国製ロボット「天工」、世界大会2日目に400m走で人類超え記録",
-      "summary": "北京で開催中の「第2回世界人型ロボットスポーツ大会」2日目の23日、中国製ロボット「天工」が陸上400メートル決勝で38秒15(速報値)を記録し人類の最速記録を大幅に上回った。16カ国から2000台超のロボットが参加、26日まで陸上やサッカーなど多様な競技が行われる。(8月23日18:32配信)",
-      "source": "共同通信(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/0e8629407d0d165a0576fcd55f4bc659e2a07cc5"
+      "title": "OpenAI、ChatGPT広告を欧州31市場に拡大開始",
+      "summary": "OpenAIは8月24日、ChatGPTの広告表示を欧州31市場(ドイツ・フランス・スペイン・イタリア・北欧諸国など)へ拡大すると発表。広告はFree・Goプランのみに表示され、個人化されない形でスタートする。8月以降広告収益は25%以上伸びているという。",
+      "source": "OpenAI公式(Digiday等)",
+      "link": "https://openai.com/index/chatgpt-ads-expands-across-europe/"
     },
     {
-      "title": "OpenAI、「GPT-5.6 Sol」のAPI料金を値下げ 入力20%・出力33%減",
-      "summary": "OpenAIはAPIモデル「GPT-5.6 Sol」の料金を引き下げ、入力トークン価格を20%、出力トークン価格を約33%安くしたと発表。値下げは期間限定の販促価格で11月21日まで適用される。(8月23日7:38配信)",
-      "source": "ITmedia NEWS(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/31dc7ae009fc66b1a54a0fa31a24fe1d81c991bd"
-    },
-    {
-      "title": "AMD、台湾南部に2拠点のAI半導体研究開発センターを新設",
-      "summary": "AMDが台湾・高雄と台南に総額約390億円を投じてAI半導体・シリコンフォトニクス関連のR&Dセンターを新設すると発表。約400人を新規雇用し、台湾企業33社との連携も進める。(8月22日報道)",
+      "title": "キオクシア株が急落、韓国株安と米サンディスク安が波及",
+      "summary": "24日の東京市場でキオクシアHD株が急落。前日の米国市場でハイテク・半導体株が下落し、関係の深い米サンディスクが11%超下げた流れを受け、海外勢の売りが日本の半導体関連株に波及した。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOGM222NL0S4A820C2000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOUB246L30U6A720C2000000/"
     },
     {
-      "title": "テック企業訴訟を数多く手掛けるゴンザレス・ロジャース判事、Meta未成年依存訴訟も担当",
-      "summary": "Apple・Google・OpenAIなど大手テック企業訴訟を手掛けてきたゴンザレス・ロジャース連邦判事が、未成年ユーザーの依存を狙った設計を問うMeta州司法長官連合訴訟も担当していると8月22日付で特集報道された。",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/08/22/meet-yvonne-gonzalez-rogers-judge-taking-on-meta.html"
+      "title": "マイクロソフト、配当68億ドルの4.5倍となるAI投資1160億ドル",
+      "summary": "マイクロソフトは2026会計年度に68億ドルの配当を株主に支払う一方、AI関連の設備投資はその4.5倍の約1160億ドルに達した。2027会計年度の投資額は最大1750億ドルに膨らむ可能性がある一方、フリーキャッシュフローの黒字維持も約束している。",
+      "source": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/08/23/this-company-just-paid-out-6-8-billion-its-ai-bill-was-4x-that/"
     },
     {
-      "title": "AIデータセンター向け債務ブーム、高利回りにジャンク債投資家も殺到",
-      "summary": "マイクロソフト向けデータセンターを担保にQTSリアルティが39億ドルの投資適格債を利回り7.23%で発行するなど、AI関連インフラ債の高利回りがジャンク債投資家を引き寄せている。今年のAI関連負債調達は既に4100億ドル超。(8月22日報道)",
+      "title": "アップル、初の折りたたみiPhone詳細判明 直営店の刷新も",
+      "summary": "アップルの初となる折りたたみ式iPhoneの仕様やデザインの詳細が明らかになったと報じられた。新しいホーム関連製品の投入に合わせ、直営店(Apple Store)の改装計画も進められているという。",
       "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-22/juicy-yields-draw-junk-bond-buyers-to-investment-grade-ai-debt"
+      "link": "https://www.bloomberg.com/news/newsletters/2026-08-23/apple-s-foldable-iphone-details-retail-store-changes-for-new-home-products-mt5vjf61"
     },
     {
-      "title": "「PS5ブラックアウト」抗議運動が開始、ディスク生産終了方針にユーザー反発",
-      "summary": "米国時間8月23日午後7時、ゲーム保存団体の呼びかけでPS5ユーザーによる1週間の不使用・不購入運動「#PSBlackout」が始まった。ソニーが2028年から新作ソフトの物理ディスク生産を終了する方針を示したことへの抗議。",
-      "source": "Push Square",
-      "link": "https://www.pushsquare.com/news/2026/08/furious-ps5-players-unplug-their-consoles-in-protest-as-blackout-gets-underway"
+      "title": "人型ロボットが100m走で世界記録更新、北京の世界大会",
+      "summary": "北京で開幕した「第2回世界人型ロボット競技大会」の事前走行で、中国HONOR製の人型ロボット「Lightning」が100mを9.32秒で走破し、ウサイン・ボルトの人間の世界記録(9.58秒)を上回った。最高速度は時速52kmに達した。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-23/humanoid-robot-beats-usain-bolt-s-100m-world-record-in-beijing"
+    },
+    {
+      "title": "アンソロピック、SpaceX超えのIPO規模を目指す 評価額2兆ドル視野",
+      "summary": "AI企業アンソロピックがSpaceXの記録的IPO規模に匹敵、あるいは上回る新規株式公開を目指していると関係者が明らかにした。評価額は2兆ドル規模となる可能性があり、実現すれば史上最大級の株式市場デビューとなる。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-20/anthropic-expects-to-match-spacex-s-record-ipo-size-or-top-it"
+    },
+    {
+      "title": "SKハイニックス、HBMの次はCPO技術がAI向けの鍵に",
+      "summary": "SKハイニックスがHBM(広帯域メモリ)に続く技術として、光配線を用いたCPO(Co-Packaged Optics)とメモリプーリング技術の統合を検討していると報じられた。実現にはTSMCの先端パッケージング技術が重要になるという。",
+      "source": "Sammy Fans",
+      "link": "https://www.sammyfans.com/2026/08/22/sk-hynix-looks-beyond-hbm-as-cpo-emerges-as-a-key-technology-for-ai/"
+    },
+    {
+      "title": "xAIのGrokに新型プロンプトインジェクション脆弱性、チャット履歴流出の恐れ",
+      "summary": "AIセキュリティ企業Adversa AIが、xAIのGrokチャットボットに「暗号学的コンテキストインジェクション」と呼ぶ攻撃手法を確認したと公表。悪意あるウェブページを要約させるだけでユーザー名や位置情報、会話内容が攻撃者サーバーに送信される恐れがあるとしている。",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/08/new-cryptographic-context-injection.html"
+    },
+    {
+      "title": "npmパッケージ14件がRedC2 4.0バックドアを配布、AI支援型C2使用",
+      "summary": "トロイの木馬化されたnpmパッケージ14件がLinux向けバックドア「RedC2 4.0」を配布していたことが判明。このC2にはLLMを活用したエージェントが組み込まれており、自然言語の指示をビーコンコマンドに変換できるという。",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html"
+    },
+    {
+      "title": "Waymo、カリフォルニア州でロボタクシー事業の大幅拡大が承認",
+      "summary": "アルファベット傘下Waymoが、カリフォルニア州公益事業委員会からサンフランシスコ・ベイエリアやロサンゼルスに加え、サクラメントやサンディエゴにも自動運転配車サービスを拡大する承認を得た。週間の完全自動運転走行は50万回を突破している。",
+      "source": "Benzinga",
+      "link": "https://www.benzinga.com/markets/tech/26/08/61239145/waymo-gets-california-green-light-for-robotaxi-expansion-across-bay-area-and-los-angeles"
     }
   ],
-  "x_trending_tech": [
-    {
-      "title": "アリババ、AI投資へ香港で過去最大級の新株発行",
-      "summary": "アリババグループが香港市場で総額800億香港ドル(約102億ドル)の新株発行を計画していると報じられた。調達資金は全額AIインフラ・チップ・モデル開発に投じられる予定で、香港上場企業としては過去最大級の新株発行になる見通し。(8/23午後の投稿)",
-      "source": "@FirstSquawk",
-      "link": "https://x.com/FirstSquawk/status/2091407469658690013"
-    }
-  ]
+  "x_trending_tech": []
 }
