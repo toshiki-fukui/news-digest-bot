@@ -1,97 +1,73 @@
 {
-  "run_label": "8/24 07:00",
+  "run_label": "8/24 19:00",
   "politics_economy": [
     {
-      "title": "高市内閣支持率50.2%、発足以来最低を更新",
-      "summary": "共同通信が8月22・23両日実施した全国電話世論調査で、高市内閣の支持率は50.2%となり、前回7月調査から3.5ポイント低下して発足以来最低を更新した。内閣改造での派閥処分議員の重要ポスト起用には73.8%が反対。",
-      "source": "共同通信(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/428bc2a501a2f692f6d438e9d4df1ffe5fec065a"
-    },
-    {
-      "title": "消費税減税、財政不安「感じる」71.7% 共同通信世論調査",
-      "summary": "共同通信の同世論調査では、高市首相が検討する消費税(食品)減税を巡り、財政への不安を「感じる」「ある程度感じる」との回答が計71.7%に上った。減税の是非を巡る国民の慎重姿勢が浮き彫りになった。(8月23日公表)",
-      "source": "西日本新聞",
-      "link": "https://www.nishinippon.co.jp/item/1529692/"
-    },
-    {
-      "title": "毎日新聞世論調査、高市内閣支持率横ばい41% 不支持が2カ月連続上回る",
-      "summary": "毎日新聞が8月22・23日に実施した世論調査では、高市内閣の支持率は前回と同じ41%、不支持率は44%で、不支持が支持を上回る状態が2カ月連続となった。共同通信調査とは異なる傾向を示している。",
-      "source": "毎日新聞(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/b778f8034fcd39aa28ae8076458f12be5a927cde"
-    },
-    {
-      "title": "日経平均株価、反落 終値1811円安の6万4611円 AI特需の持続懸念",
-      "summary": "24日の東京株式市場で日経平均株価は反落し、終値は前日比1811円45銭安の6万4611円15銭。前日の米ハイテク株安が波及し、AI・半導体関連銘柄を中心にリスク回避の売りが優勢となった。",
+      "title": "木原官房長官、ICC赤根所長に「必要な支援」 米制裁受け",
+      "summary": "木原稔官房長官は24日の記者会見で、米政府が国際刑事裁判所(ICC)の赤根智子所長を制裁対象に指定したことを受け、「必要な支援があればしっかりとやっていく」と表明。日本政府はICCを一貫して支持する姿勢を強調した。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOFL240K40U6A720C2000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOUA242MC0U6A820C2000000/"
     },
     {
-      "title": "非常に強い台風18号、沖縄接近へ 大東島は25日にも暴風域",
-      "summary": "台風18号は24日午前3時現在、非常に強い勢力(中心気圧950hPa、最大風速45m/s)で日本の南を西北西に進んでいる。25日に沖縄・大東諸島へ接近し、27日にかけて沖縄本島・先島諸島にも強い勢力で近づく見通しで、暴風域に入る確率は80%を超える。",
-      "source": "ウェザーニュース",
-      "link": "https://weathernews.jp/news/202608/240051/"
+      "title": "ソフトバンクG、個人向け社債1兆円発行 国内リテール債で過去最大",
+      "summary": "ソフトバンクグループは24日、償還期限2033年の7年債を中心に総額1兆円の無担保社債を発行すると発表。利率は年4.3〜4.9%を軸に調整し、調達資金はAI関連投資に充てる。国内個人向け社債として過去最大規模となる。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUB2423H0U6A820C2000000/"
+    },
+    {
+      "title": "東証続落、終値488円安 日米金利上昇と半導体株安が重荷",
+      "summary": "24日の東京株式市場で日経平均株価は続落し、前週末比488円27銭安の6万5528円09銭で終えた。日米の長期金利上昇や韓国株安を受け、AI・半導体関連銘柄を中心に売りが広がった。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOFL244L70U6A820C2000000/"
+    },
+    {
+      "title": "高市内閣支持率57%に急落、政権発足以来最低 NNN・読売調査",
+      "summary": "NNN・読売新聞が8月22・23日に実施した世論調査で、高市内閣の支持率は前回から12ポイント下落し57%となり、政権発足以降で最低を記録した。不支持率は13ポイント上昇し34%。",
+      "source": "日本テレビ(NNN)・読売新聞(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/43525b28dc27e80471fdc00b6a925480ed7dcd18"
+    },
+    {
+      "title": "福岡県議会・蔵内議長、9月めど辞任表明 金銭授受疑惑で混乱の責任",
+      "summary": "福岡県議会の蔵内勇夫議長は、一連の金銭授受疑惑で県政が混乱した責任を取るとして、9月をめどに議長を辞任すると表明した。疑惑への関与は否定し、議員辞職は否定している。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOJC197TP0Z10C26A8000000/"
     }
   ],
   "tech": [
     {
-      "title": "OpenAI、ChatGPT広告を欧州31市場に拡大開始",
-      "summary": "OpenAIは8月24日、ChatGPTの広告表示を欧州31市場(ドイツ・フランス・スペイン・イタリア・北欧諸国など)へ拡大すると発表。広告はFree・Goプランのみに表示され、個人化されない形でスタートする。8月以降広告収益は25%以上伸びているという。",
-      "source": "OpenAI公式(Digiday等)",
-      "link": "https://openai.com/index/chatgpt-ads-expands-across-europe/"
+      "title": "Hugging Face、130億ドル規模での身売り検討 米報道",
+      "summary": "AIプラットフォームのHugging Faceが、評価額130億ドル以上での売却を模索していると米Business Insiderが8月23日に報道。銀行を起用し買収希望者の関心を探っているという。2023年の資金調達時評価額(45億ドル)から大幅増となる。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-23/hugging-face-gauging-interest-for-potential-sale-business-insider-says"
     },
     {
-      "title": "キオクシア株が急落、韓国株安と米サンディスク安が波及",
-      "summary": "24日の東京市場でキオクシアHD株が急落。前日の米国市場でハイテク・半導体株が下落し、関係の深い米サンディスクが11%超下げた流れを受け、海外勢の売りが日本の半導体関連株に波及した。",
+      "title": "Waymo、自社設計チップがロボタクシー戦略の要に",
+      "summary": "アルファベット傘下Waymoが自社開発の半導体チップを軸にロボタクシー事業を拡大していると8月23日付TechCrunchが報じた。新型車両「Ojai」はロサンゼルス・フェニックス・サンフランシスコで一般提供が始まっている。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions/"
+    },
+    {
+      "title": "スズキ初の軽乗用EV「eスカイ」公開 航続310kmで秋発売へ",
+      "summary": "スズキは24日、同社初の軽乗用EV「eスカイ」を公開した。日本メーカーの軽EVで最長となる航続距離310kmを実現し、詳細は今秋発表予定。「軽自動車であること」を重視した日常使いしやすいハイトワゴンタイプ。",
+      "source": "日刊自動車新聞(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/b63eec1f81dadcb21cbf08fdfcb0901cece67cef"
+    },
+    {
+      "title": "中性原子方式の量子コンピューター「春海」稼働開始 分子科学研究所と日立",
+      "summary": "分子科学研究所と日立製作所などが共同開発した国産初の中性原子方式量子コンピューター「春海」が愛知県岡崎市で稼働を開始した。富士通が量子コンピューター向けOS開発に活用する予定。",
+      "source": "NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260823de45895"
+    },
+    {
+      "title": "日経平均488円安、NVIDIA決算控えAI関連株に「小休止」ムード",
+      "summary": "24日の東京市場でAI・半導体関連株を中心に売りが優勢となった背景として、26日に控えるNVIDIAの決算発表を前にした様子見姿勢が指摘されている。市場では狙い目としてコンテンツ関連株にも関心が向かっているという。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUB246L30U6A720C2000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOUB240CSTU6A820C2000000/"
     },
     {
-      "title": "マイクロソフト、配当68億ドルの4.5倍となるAI投資1160億ドル",
-      "summary": "マイクロソフトは2026会計年度に68億ドルの配当を株主に支払う一方、AI関連の設備投資はその4.5倍の約1160億ドルに達した。2027会計年度の投資額は最大1750億ドルに膨らむ可能性がある一方、フリーキャッシュフローの黒字維持も約束している。",
-      "source": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/08/23/this-company-just-paid-out-6-8-billion-its-ai-bill-was-4x-that/"
-    },
-    {
-      "title": "アップル、初の折りたたみiPhone詳細判明 直営店の刷新も",
-      "summary": "アップルの初となる折りたたみ式iPhoneの仕様やデザインの詳細が明らかになったと報じられた。新しいホーム関連製品の投入に合わせ、直営店(Apple Store)の改装計画も進められているという。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/newsletters/2026-08-23/apple-s-foldable-iphone-details-retail-store-changes-for-new-home-products-mt5vjf61"
-    },
-    {
-      "title": "人型ロボットが100m走で世界記録更新、北京の世界大会",
-      "summary": "北京で開幕した「第2回世界人型ロボット競技大会」の事前走行で、中国HONOR製の人型ロボット「Lightning」が100mを9.32秒で走破し、ウサイン・ボルトの人間の世界記録(9.58秒)を上回った。最高速度は時速52kmに達した。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-23/humanoid-robot-beats-usain-bolt-s-100m-world-record-in-beijing"
-    },
-    {
-      "title": "アンソロピック、SpaceX超えのIPO規模を目指す 評価額2兆ドル視野",
-      "summary": "AI企業アンソロピックがSpaceXの記録的IPO規模に匹敵、あるいは上回る新規株式公開を目指していると関係者が明らかにした。評価額は2兆ドル規模となる可能性があり、実現すれば史上最大級の株式市場デビューとなる。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-20/anthropic-expects-to-match-spacex-s-record-ipo-size-or-top-it"
-    },
-    {
-      "title": "SKハイニックス、HBMの次はCPO技術がAI向けの鍵に",
-      "summary": "SKハイニックスがHBM(広帯域メモリ)に続く技術として、光配線を用いたCPO(Co-Packaged Optics)とメモリプーリング技術の統合を検討していると報じられた。実現にはTSMCの先端パッケージング技術が重要になるという。",
-      "source": "Sammy Fans",
-      "link": "https://www.sammyfans.com/2026/08/22/sk-hynix-looks-beyond-hbm-as-cpo-emerges-as-a-key-technology-for-ai/"
-    },
-    {
-      "title": "xAIのGrokに新型プロンプトインジェクション脆弱性、チャット履歴流出の恐れ",
-      "summary": "AIセキュリティ企業Adversa AIが、xAIのGrokチャットボットに「暗号学的コンテキストインジェクション」と呼ぶ攻撃手法を確認したと公表。悪意あるウェブページを要約させるだけでユーザー名や位置情報、会話内容が攻撃者サーバーに送信される恐れがあるとしている。",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/08/new-cryptographic-context-injection.html"
-    },
-    {
-      "title": "npmパッケージ14件がRedC2 4.0バックドアを配布、AI支援型C2使用",
-      "summary": "トロイの木馬化されたnpmパッケージ14件がLinux向けバックドア「RedC2 4.0」を配布していたことが判明。このC2にはLLMを活用したエージェントが組み込まれており、自然言語の指示をビーコンコマンドに変換できるという。",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html"
-    },
-    {
-      "title": "Waymo、カリフォルニア州でロボタクシー事業の大幅拡大が承認",
-      "summary": "アルファベット傘下Waymoが、カリフォルニア州公益事業委員会からサンフランシスコ・ベイエリアやロサンゼルスに加え、サクラメントやサンディエゴにも自動運転配車サービスを拡大する承認を得た。週間の完全自動運転走行は50万回を突破している。",
-      "source": "Benzinga",
-      "link": "https://www.benzinga.com/markets/tech/26/08/61239145/waymo-gets-california-green-light-for-robotaxi-expansion-across-bay-area-and-los-angeles"
+      "title": "中国政府、政府機関PCでWindows排除しLinuxへ移行加速",
+      "summary": "中国の中央国家機関政府調達センターが8月分のノートPC調達結果を発表し、調達1043台のOS欄に「Windows」の名称がなく、「麒麟」「統信UOS」など国産Linux系OSが並んだ。米国製ソフトへの不信感を背景にデジタル主権確保の動きが加速している。",
+      "source": "ZDNET Japan(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/1015ba3d0ed92633a69e30a3bd30c0feadcd40cd"
     }
   ],
   "x_trending_tech": []
