@@ -1,74 +1,117 @@
 {
-  "run_label": "8/24 19:00",
+  "run_label": "8/25 07:00",
   "politics_economy": [
     {
-      "title": "木原官房長官、ICC赤根所長に「必要な支援」 米制裁受け",
-      "summary": "木原稔官房長官は24日の記者会見で、米政府が国際刑事裁判所(ICC)の赤根智子所長を制裁対象に指定したことを受け、「必要な支援があればしっかりとやっていく」と表明。日本政府はICCを一貫して支持する姿勢を強調した。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUA242MC0U6A820C2000000/"
+      "title": "超党派議連、ICC赤根所長への米制裁で非難声明「政府対応は段違いに弱い」",
+      "summary": "「人権外交を超党派で考える議員連盟」は8月24日、国際刑事裁判所(ICC)の赤根智子所長への米国の制裁措置を非難する声明を採択し、高市首相が「大変残念」と述べるにとどめた日本政府の対応を「諸国と比べて段違いに弱い」と批判した。米国への抗議とICC支持の明確化を政府に求めている。",
+      "source": "時事通信",
+      "link": "https://www.jiji.com/jc/article?k=2026082400865&g=pol"
     },
     {
-      "title": "ソフトバンクG、個人向け社債1兆円発行 国内リテール債で過去最大",
-      "summary": "ソフトバンクグループは24日、償還期限2033年の7年債を中心に総額1兆円の無担保社債を発行すると発表。利率は年4.3〜4.9%を軸に調整し、調達資金はAI関連投資に充てる。国内個人向け社債として過去最大規模となる。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUB2423H0U6A820C2000000/"
+      "title": "立民・公明との3党合流、「中道」代表が参院統一会派案に難色",
+      "summary": "立憲民主党・公明党との月内3党合流を巡り地方組織の慎重論などから難航が伝えられる中、「中道」代表は代替案の参院統一会派結成案にも明確な賛意を示さず難色を示した(8月24日夜報道)。",
+      "source": "時事通信(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/9c083f747b118a334a6175b01112172bc51aa476"
     },
     {
-      "title": "東証続落、終値488円安 日米金利上昇と半導体株安が重荷",
-      "summary": "24日の東京株式市場で日経平均株価は続落し、前週末比488円27銭安の6万5528円09銭で終えた。日米の長期金利上昇や韓国株安を受け、AI・半導体関連銘柄を中心に売りが広がった。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOFL244L70U6A820C2000000/"
+      "title": "ドル円、158円台で攻防続く ジャクソンホール会合を前に様子見",
+      "summary": "8月24日のドル円相場は158円台で推移。米長期金利の高止まりでも上値は伸びにくく、8月27〜29日のジャクソンホール会合でのパウエルFRB議長講演やベッセント財務長官発言を控え市場は様子見姿勢を強めている。",
+      "source": "外為どっとコム",
+      "link": "https://www.gaitame.com/media/entry/2026/08/24/120722"
     },
     {
-      "title": "高市内閣支持率57%に急落、政権発足以来最低 NNN・読売調査",
-      "summary": "NNN・読売新聞が8月22・23日に実施した世論調査で、高市内閣の支持率は前回から12ポイント下落し57%となり、政権発足以降で最低を記録した。不支持率は13ポイント上昇し34%。",
-      "source": "日本テレビ(NNN)・読売新聞(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/43525b28dc27e80471fdc00b6a925480ed7dcd18"
-    },
-    {
-      "title": "福岡県議会・蔵内議長、9月めど辞任表明 金銭授受疑惑で混乱の責任",
-      "summary": "福岡県議会の蔵内勇夫議長は、一連の金銭授受疑惑で県政が混乱した責任を取るとして、9月をめどに議長を辞任すると表明した。疑惑への関与は否定し、議員辞職は否定している。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOJC197TP0Z10C26A8000000/"
+      "title": "木原官房長官、北朝鮮対応で米韓と緊密連携を強調 トランプ氏の米朝会談意欲に「重大な関心」",
+      "summary": "木原稔官房長官は8月24日の記者会見で、トランプ米大統領が金正恩氏との年内会談に意欲を示していることについて「重大な関心を持って情報収集・分析している」と述べ、拉致問題や核・ミサイル開発対応で米韓と緊密に連携する考えを示した。",
+      "source": "NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260824de45974"
     }
   ],
   "tech": [
     {
-      "title": "Hugging Face、130億ドル規模での身売り検討 米報道",
-      "summary": "AIプラットフォームのHugging Faceが、評価額130億ドル以上での売却を模索していると米Business Insiderが8月23日に報道。銀行を起用し買収希望者の関心を探っているという。2023年の資金調達時評価額(45億ドル)から大幅増となる。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-23/hugging-face-gauging-interest-for-potential-sale-business-insider-says"
+      "title": "Claude(Anthropic)に世界的障害、複数モデルでエラー多発",
+      "summary": "8月24日UTC午前5時過ぎ(日本時間14時過ぎ)、Claude.aiやAPI、Claude Codeなどで世界的な障害が発生し複数モデルでエラー率が上昇。同日UTC8時30分頃(日本時間17時30分頃)までに大部分が復旧した。",
+      "source": "Android Authority",
+      "link": "https://www.androidauthority.com/claude-outage-august-24-3702012/"
     },
     {
-      "title": "Waymo、自社設計チップがロボタクシー戦略の要に",
-      "summary": "アルファベット傘下Waymoが自社開発の半導体チップを軸にロボタクシー事業を拡大していると8月23日付TechCrunchが報じた。新型車両「Ojai」はロサンゼルス・フェニックス・サンフランシスコで一般提供が始まっている。",
+      "title": "NVIDIA、Perplexityへの出資を協議 評価額300億ドル超か",
+      "summary": "NVIDIAがAI検索スタートアップPerplexityへの新規出資を協議しており、評価額は300億ドル超になる可能性があると8月23日に報じられた。Perplexityの年換算売上高は年初の2.5億ドル未満から7.5億ドル超に急増しているという。",
+      "source": "Reuters(Investing.com)",
+      "link": "https://www.investing.com/news/stock-market-news/nvidia-discusses-perplexity-investment-at-30-billionplus-valuation-the-information-reports-4872594"
+    },
+    {
+      "title": "中国XPengのヒューマノイドロボット子会社、9億ドル超調達 評価額63億ドルに",
+      "summary": "中国EVメーカーXPengのロボット子会社「Dogotix」がアリババやテンセントなどから9億ドル超を調達し評価額63億ドル超となったと8月24日に報じられた。人型ロボット「IRON」は2026年内の量産開始を目指す。",
+      "source": "Bloomberg/Electrek",
+      "link": "https://electrek.co/2026/08/24/xpeng-robotics-900m-iron-humanoid-robot-valuation/"
+    },
+    {
+      "title": "アリババ、AI動画生成モデル「Wan3.0」を発表",
+      "summary": "アリババクラウドは8月24日、最大30秒の動画を生成できる新モデル「Wan3.0」を発表した。前日に約102億ドルの株式売り出しを完了しており、調達資金はAIインフラ拡充に充てるとしている。",
+      "source": "Dataconomy",
+      "link": "https://dataconomy.com/2026/08/24/alibaba-launches-wan30-a-30-second-ai-video-generation-model/"
+    },
+    {
+      "title": "Hugging Face、130億ドル超での売却を検討と報道",
+      "summary": "TechCrunchは8月24日、AIモデル共有プラットフォームのHugging Faceが130億ドルを超える評価額での売却を模索していると報じた。2023年の前回調達時評価額(45億ドル)の約3倍に相当する。",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions/"
+      "link": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/"
     },
     {
-      "title": "スズキ初の軽乗用EV「eスカイ」公開 航続310kmで秋発売へ",
-      "summary": "スズキは24日、同社初の軽乗用EV「eスカイ」を公開した。日本メーカーの軽EVで最長となる航続距離310kmを実現し、詳細は今秋発表予定。「軽自動車であること」を重視した日常使いしやすいハイトワゴンタイプ。",
-      "source": "日刊自動車新聞(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/b63eec1f81dadcb21cbf08fdfcb0901cece67cef"
+      "title": "OpenAI、あらゆる用途向けAIエージェント開発を加速",
+      "summary": "TechCrunchは8月24日、OpenAIがメールやSlack、Notion、Figmaなど幅広いアプリを操作できるAIエージェントの開発を進めていると報じ、ユーザーがどこまでデジタル生活の制御をAIに委ねるかが焦点になっていると指摘した。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/"
     },
     {
-      "title": "中性原子方式の量子コンピューター「春海」稼働開始 分子科学研究所と日立",
-      "summary": "分子科学研究所と日立製作所などが共同開発した国産初の中性原子方式量子コンピューター「春海」が愛知県岡崎市で稼働を開始した。富士通が量子コンピューター向けOS開発に活用する予定。",
-      "source": "NHKニュース",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260823de45895"
+      "title": "Meta、Microsoft AzureのAI事業で主要顧客に浮上",
+      "summary": "Bloombergは8月24日、MetaがMicrosoft AzureのAIモデル提供サービスで年間数億ドル規模を支出する主要顧客の一つになっていると報じ、AI需要が一部大手テック企業に集中している実態を指摘した。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-08-24/microsoft-ai-business-is-concentrated-with-openai-tiktok-meta"
     },
     {
-      "title": "日経平均488円安、NVIDIA決算控えAI関連株に「小休止」ムード",
-      "summary": "24日の東京市場でAI・半導体関連株を中心に売りが優勢となった背景として、26日に控えるNVIDIAの決算発表を前にした様子見姿勢が指摘されている。市場では狙い目としてコンテンツ関連株にも関心が向かっているという。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUB240CSTU6A820C2000000/"
+      "title": "インテル株、200億ドル増資価格を割り込み下落",
+      "summary": "8月24日、インテル株が半導体セクター全体の下落を受けて続落し、8月12日に1株95ドルで実施した200億ドル規模の増資価格を下回る水準まで下げた。PC需要の弱さやチップ遅延への懸念も重荷。",
+      "source": "Benzinga",
+      "link": "https://www.benzinga.com/trading-ideas/movers/26/08/61391801/why-is-intel-stock-falling-on-monday"
     },
     {
-      "title": "中国政府、政府機関PCでWindows排除しLinuxへ移行加速",
-      "summary": "中国の中央国家機関政府調達センターが8月分のノートPC調達結果を発表し、調達1043台のOS欄に「Windows」の名称がなく、「麒麟」「統信UOS」など国産Linux系OSが並んだ。米国製ソフトへの不信感を背景にデジタル主権確保の動きが加速している。",
-      "source": "ZDNET Japan(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/1015ba3d0ed92633a69e30a3bd30c0feadcd40cd"
+      "title": "アップルの折りたたみ「iPhone Ultra」、早期テスターから高評価",
+      "summary": "8月24日の報道によると、9月発表予定のアップル初の折りたたみ式iPhone「iPhone Ultra」はポケットに収まりやすいデザインと耐久性あるヒンジが早期テスターから好評。価格は2000ドル超になる見通し。",
+      "source": "MacDailyNews",
+      "link": "https://macdailynews.com/2026/08/24/apples-iphone-ultra-foldable-impresses-early-testers-with-pocket-friendly-design-and-durable-hinge-ahead-of-september-debut/"
     }
   ],
-  "x_trending_tech": []
+  "x_trending_tech": [
+    {
+      "title": "NVIDIAがPerplexityへ評価額300億ドルで追加出資検討との解説投稿",
+      "summary": "NVIDIAがPerplexityに評価額300億ドル超で出資交渉中との報道を受け、同社の年間売上が8ヶ月で2.5億ドルから7.5億ドル超に急増しAIエージェント「Perplexity Computer」が成長を牽引していると解説。8/24 18時過ぎの投稿。",
+      "source": "@VaibhavSisinty",
+      "link": "https://x.com/VaibhavSisinty/status/2091816538735284539"
+    },
+    {
+      "title": "Xiaomi新CPU、シングルスレッドでApple並み・マルチスレッドでApple超えとの分析投稿",
+      "summary": "計算機科学者Daniel Lemire氏が、Xiaomiの新CPU(Xring O3系)がシングルスレッド性能でApple製コアに匹敵し、マルチスレッドでは大きく上回ると解説。8/24 23時過ぎの投稿。",
+      "source": "@lemire",
+      "link": "https://x.com/lemire/status/2091894299289874926"
+    },
+    {
+      "title": "中国旅行中に使えた西側AIはxAIのGrokだけだったとの体験投稿",
+      "summary": "起業家levelsio氏が、中国旅行中に香港経由eSIMで使えた西側AIはxAI(Grok)のみで、AnthropicとOpenAIは香港を完全ブロックしていると投稿し話題に。8/24 16時台後半の投稿。",
+      "source": "@levelsio",
+      "link": "https://x.com/levelsio/status/2091794783253483833"
+    },
+    {
+      "title": "AI業界、今週中に主要各社のモデルが立て続けにリリースかとの観測投稿",
+      "summary": "AI情報発信者Andrew Curran氏が、主要AI企業のモデルリリースが最終段階にあり今後5日以内に相次いで公開される可能性が高いと投稿。あるスタートアップの早期アクセス版モデルも話題に。8/24 23時頃の投稿。",
+      "source": "@AndrewCurran_",
+      "link": "https://x.com/AndrewCurran_/status/2091888369173426511"
+    },
+    {
+      "title": "独NEURA Robotics、清掃ロボット企業ADLATUSを買収",
+      "summary": "独ロボティクス企業NEURA Roboticsが自律清掃ロボットのADLATUSを買収しPhysical AI基盤に統合すると発表。16ヶ月で5件目の買収となる。8/24 17時過ぎの投稿。",
+      "source": "@tech_eu",
+      "link": "https://x.com/tech_eu/status/2091803166752780437"
+    }
+  ]
 }
