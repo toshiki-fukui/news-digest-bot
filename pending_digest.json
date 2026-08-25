@@ -1,117 +1,105 @@
 {
-  "run_label": "8/25 07:00",
+  "run_label": "8/25 19:00",
   "politics_economy": [
     {
-      "title": "超党派議連、ICC赤根所長への米制裁で非難声明「政府対応は段違いに弱い」",
-      "summary": "「人権外交を超党派で考える議員連盟」は8月24日、国際刑事裁判所(ICC)の赤根智子所長への米国の制裁措置を非難する声明を採択し、高市首相が「大変残念」と述べるにとどめた日本政府の対応を「諸国と比べて段違いに弱い」と批判した。米国への抗議とICC支持の明確化を政府に求めている。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026082400865&g=pol"
+      "title": "高市首相「弱腰批判は当たらない」ICC赤根所長への米制裁対応で反論",
+      "summary": "米国がICC赤根智子所長らを制裁対象に指定したことを巡り、高市首相は25日、「弱腰との批判は当たらない。米国に対し対象にしないようぎりぎりまで働きかけを続けてきた」と反論した（8/25 17:58報道）。",
+      "source": "共同通信",
+      "link": "https://topics.smt.docomo.ne.jp/article/kyodo_nor/politics/kyodo_nor-2026082501001411?fm=latestnews"
     },
     {
-      "title": "立民・公明との3党合流、「中道」代表が参院統一会派案に難色",
-      "summary": "立憲民主党・公明党との月内3党合流を巡り地方組織の慎重論などから難航が伝えられる中、「中道」代表は代替案の参院統一会派結成案にも明確な賛意を示さず難色を示した(8月24日夜報道)。",
-      "source": "時事通信(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/9c083f747b118a334a6175b01112172bc51aa476"
+      "title": "日経平均、後場に反発し376円高で取引終了 米半導体株安の流れ切り返す",
+      "summary": "25日の東京株式市場で日経平均株価は前場に一時900円超安まで売られたが、後場はKOSPI高に連動して買い戻され、前日比376円高の6万5904円で取引を終えた。",
+      "source": "株式新聞Web",
+      "link": "https://kabushiki.jp/news/765527"
     },
     {
-      "title": "ドル円、158円台で攻防続く ジャクソンホール会合を前に様子見",
-      "summary": "8月24日のドル円相場は158円台で推移。米長期金利の高止まりでも上値は伸びにくく、8月27〜29日のジャクソンホール会合でのパウエルFRB議長講演やベッセント財務長官発言を控え市場は様子見姿勢を強めている。",
-      "source": "外為どっとコム",
-      "link": "https://www.gaitame.com/media/entry/2026/08/24/120722"
+      "title": "日銀、9月利上げの可能性大か 見送れば大幅円安のリスクも－安達元委員",
+      "summary": "元日銀審議委員の安達誠司氏は24日、日米協調介入や市場の織り込み進展を踏まえ、日銀が9月の金融政策決定会合で利上げに踏み切る可能性が高いとの見方を示した。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/jp/news/articles/2026-08-24/TK5DMCKK3NYA00"
     },
     {
-      "title": "木原官房長官、北朝鮮対応で米韓と緊密連携を強調 トランプ氏の米朝会談意欲に「重大な関心」",
-      "summary": "木原稔官房長官は8月24日の記者会見で、トランプ米大統領が金正恩氏との年内会談に意欲を示していることについて「重大な関心を持って情報収集・分析している」と述べ、拉致問題や核・ミサイル開発対応で米韓と緊密に連携する考えを示した。",
-      "source": "NHKニュース",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260824de45974"
+      "title": "米、中国製品に7.5%の追加関税検討 9月の米中首脳会談前に",
+      "summary": "トランプ政権は中国の過剰生産能力を理由に、中国からの輸入品に新たに7.5%の関税を上乗せする方針を検討していると25日報じられた。実現すれば対中関税は計20%前後に達する見通し。",
+      "source": "株探（Bloomberg報道）",
+      "link": "https://s.kabutan.jp/news/n202608250009/"
+    },
+    {
+      "title": "イオンモール熊本の爆発事故、経産省が事故調査委員会を設置",
+      "summary": "赤沢経産相は25日の会見で、熊本地震後に発生した「イオンモール熊本」の爆発事故の原因究明に向け、高圧ガス保安協会に委託する事故調査委員会を立ち上げると発表。9月3日に初会合を開く。",
+      "source": "共同通信",
+      "link": "https://news.yahoo.co.jp/articles/1f3d2f786d6e79798c0b3b041f264100152ec42d"
     }
   ],
   "tech": [
     {
-      "title": "Claude(Anthropic)に世界的障害、複数モデルでエラー多発",
-      "summary": "8月24日UTC午前5時過ぎ(日本時間14時過ぎ)、Claude.aiやAPI、Claude Codeなどで世界的な障害が発生し複数モデルでエラー率が上昇。同日UTC8時30分頃(日本時間17時30分頃)までに大部分が復旧した。",
-      "source": "Android Authority",
-      "link": "https://www.androidauthority.com/claude-outage-august-24-3702012/"
+      "title": "サムスンとSKハイニックス、Hot Chips 2026でメモリボトルネック解消技術を競う",
+      "summary": "スタンフォード大学で開催中の「Hot Chips 2026」で、サムスン電子はプロセッサ特性に合わせたカスタムHBM、SKハイニックスはハイブリッドボンディングによるパッケージング技術を発表し、AIメモリのボトルネック解消を競った（8/25報道）。",
+      "source": "The Seoul Economic Daily",
+      "link": "https://en.sedaily.com/finance/2026/08/25/samsung-sk-target-memory-bottleneck-with-custom-design-20"
     },
     {
-      "title": "NVIDIA、Perplexityへの出資を協議 評価額300億ドル超か",
-      "summary": "NVIDIAがAI検索スタートアップPerplexityへの新規出資を協議しており、評価額は300億ドル超になる可能性があると8月23日に報じられた。Perplexityの年換算売上高は年初の2.5億ドル未満から7.5億ドル超に急増しているという。",
-      "source": "Reuters(Investing.com)",
-      "link": "https://www.investing.com/news/stock-market-news/nvidia-discusses-perplexity-investment-at-30-billionplus-valuation-the-information-reports-4872594"
+      "title": "全日空商事「選べるe-GIFT」に不正アクセス、個人情報漏えいの可能性",
+      "summary": "全日空商事は24日、法人向けデジタルギフト「選べるe-GIFT」の管理システムに8月11〜12日にかけて第三者の不正アクセスがあったと公表。担当者の個人情報閲覧やギフトの不正交換も確認された。",
+      "source": "全日空商事",
+      "link": "https://www.anatc.com/pressroom/20260824_01/"
     },
     {
-      "title": "中国XPengのヒューマノイドロボット子会社、9億ドル超調達 評価額63億ドルに",
-      "summary": "中国EVメーカーXPengのロボット子会社「Dogotix」がアリババやテンセントなどから9億ドル超を調達し評価額63億ドル超となったと8月24日に報じられた。人型ロボット「IRON」は2026年内の量産開始を目指す。",
-      "source": "Bloomberg/Electrek",
-      "link": "https://electrek.co/2026/08/24/xpeng-robotics-900m-iron-humanoid-robot-valuation/"
+      "title": "ソフトバンクグループ株、7カ月ぶり上場来高値 OpenAI IPO観測で資金流入",
+      "summary": "25日の東京株式市場でソフトバンクグループ株が買われ、7カ月ぶりに上場来高値を更新。米OpenAIのIPO観測を背景に保有資産価値の上昇期待から投資マネーが流入した。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUB240MP0U6A520C2000000/"
     },
     {
-      "title": "アリババ、AI動画生成モデル「Wan3.0」を発表",
-      "summary": "アリババクラウドは8月24日、最大30秒の動画を生成できる新モデル「Wan3.0」を発表した。前日に約102億ドルの株式売り出しを完了しており、調達資金はAIインフラ拡充に充てるとしている。",
-      "source": "Dataconomy",
-      "link": "https://dataconomy.com/2026/08/24/alibaba-launches-wan30-a-30-second-ai-video-generation-model/"
+      "title": "SpaceXAI、エージェントAI高速化へNVIDIAの新型CPU「Vera」を採用",
+      "summary": "SpaceXAIは24日、AIエージェントの高速な動作を支えるNVIDIAの新型CPU「Vera」を採用すると発表。GPUを効率的に稼働させつつ、ツール実行やデータ処理を担わせる。",
+      "source": "NVIDIA Newsroom",
+      "link": "https://nvidianews.nvidia.com/news/spacexai-adopts-nvidia-vera-cpu-to-accelerate-agentic-ai-at-massive-scale"
     },
     {
-      "title": "Hugging Face、130億ドル超での売却を検討と報道",
-      "summary": "TechCrunchは8月24日、AIモデル共有プラットフォームのHugging Faceが130億ドルを超える評価額での売却を模索していると報じた。2023年の前回調達時評価額(45億ドル)の約3倍に相当する。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/"
+      "title": "NVIDIA、エージェントAI向け推論チップ「Groq 3 LPX」が量産開始",
+      "summary": "NVIDIAは24日、超高速なトークン生成を実現する推論アクセラレーター「Groq 3 LPX」が量産段階に入ったと発表。Nebiusが採用第1号のAIクラウドとなる。",
+      "source": "NVIDIA Newsroom",
+      "link": "https://nvidianews.nvidia.com/news/nvidia-groq-3-lpx-now-in-full-production-with-world-class-speed-for-agentic-ai"
     },
     {
-      "title": "OpenAI、あらゆる用途向けAIエージェント開発を加速",
-      "summary": "TechCrunchは8月24日、OpenAIがメールやSlack、Notion、Figmaなど幅広いアプリを操作できるAIエージェントの開発を進めていると報じ、ユーザーがどこまでデジタル生活の制御をAIに委ねるかが焦点になっていると指摘した。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/"
+      "title": "Apple、iPhone 18 Pro/Ultra発表イベントの招待状を8月26日にも送付か",
+      "summary": "Appleは例年のパターンに従えば、9月9日開催予定の新製品発表イベントの招待状を8月26日に送る可能性が高いと報じられた。折りたたみ式の「iPhone Ultra」披露が見込まれる。",
+      "source": "MacRumors",
+      "link": "https://www.macrumors.com/2026/08/24/iphone-18-pro-iphone-ultra-apple-event-when/"
     },
     {
-      "title": "Meta、Microsoft AzureのAI事業で主要顧客に浮上",
-      "summary": "Bloombergは8月24日、MetaがMicrosoft AzureのAIモデル提供サービスで年間数億ドル規模を支出する主要顧客の一つになっていると報じ、AI需要が一部大手テック企業に集中している実態を指摘した。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/newsletters/2026-08-24/microsoft-ai-business-is-concentrated-with-openai-tiktok-meta"
+      "title": "ソニー、ミドルレンジ新機種「Xperia 10 VIII」を発表",
+      "summary": "ソニーは25日午前11時、新型スマートフォン「Xperia 10 VIII」を発表。決済・ポイ活アプリを素早く呼び出す新機能を搭載し、9月中旬以降に発売予定。",
+      "source": "Business Insider Japan",
+      "link": "https://www.businessinsider.jp/article/2608-sony-xperia-10-viii-announce/"
     },
     {
-      "title": "インテル株、200億ドル増資価格を割り込み下落",
-      "summary": "8月24日、インテル株が半導体セクター全体の下落を受けて続落し、8月12日に1株95ドルで実施した200億ドル規模の増資価格を下回る水準まで下げた。PC需要の弱さやチップ遅延への懸念も重荷。",
-      "source": "Benzinga",
-      "link": "https://www.benzinga.com/trading-ideas/movers/26/08/61391801/why-is-intel-stock-falling-on-monday"
-    },
-    {
-      "title": "アップルの折りたたみ「iPhone Ultra」、早期テスターから高評価",
-      "summary": "8月24日の報道によると、9月発表予定のアップル初の折りたたみ式iPhone「iPhone Ultra」はポケットに収まりやすいデザインと耐久性あるヒンジが早期テスターから好評。価格は2000ドル超になる見通し。",
-      "source": "MacDailyNews",
-      "link": "https://macdailynews.com/2026/08/24/apples-iphone-ultra-foldable-impresses-early-testers-with-pocket-friendly-design-and-durable-hinge-ahead-of-september-debut/"
+      "title": "Anthropic、月末にもIPO目論見書を公開へ 評価額は9650億ドル",
+      "summary": "Anthropicは非公開のS-1届出書を公開書類として提出する準備を進めており、早ければ8月末にも公表される見通し。7月の年間経常収益は650億ドルに達し、企業向けLLM市場シェアでOpenAIを初めて上回ったと報じられた。",
+      "source": "TradingKey",
+      "link": "https://www.tradingkey.com/analysis/stocks/us-stocks/262121961-anthropic-ipo-expects-to-spacex-valuation-ai-claude-code-api-openai-tradingkey"
     }
   ],
   "x_trending_tech": [
     {
-      "title": "NVIDIAがPerplexityへ評価額300億ドルで追加出資検討との解説投稿",
-      "summary": "NVIDIAがPerplexityに評価額300億ドル超で出資交渉中との報道を受け、同社の年間売上が8ヶ月で2.5億ドルから7.5億ドル超に急増しAIエージェント「Perplexity Computer」が成長を牽引していると解説。8/24 18時過ぎの投稿。",
-      "source": "@VaibhavSisinty",
-      "link": "https://x.com/VaibhavSisinty/status/2091816538735284539"
+      "title": "Xperia 10 VIII、旧モデルと同じSoCながらOS/セキュリティサポートを延長と話題に",
+      "summary": "ソニーが本日発表した「Xperia 10 VIII」について、10 VIIと同じSoCのままOSアップデート提供回数が2→4回、セキュリティアップデート期間が4年→6年に延長された点がXで話題に（8/25昼の投稿）。",
+      "source": "@Logkazu",
+      "link": "https://x.com/Logkazu/status/2092091354709205257"
     },
     {
-      "title": "Xiaomi新CPU、シングルスレッドでApple並み・マルチスレッドでApple超えとの分析投稿",
-      "summary": "計算機科学者Daniel Lemire氏が、Xiaomiの新CPU(Xring O3系)がシングルスレッド性能でApple製コアに匹敵し、マルチスレッドでは大きく上回ると解説。8/24 23時過ぎの投稿。",
-      "source": "@lemire",
-      "link": "https://x.com/lemire/status/2091894299289874926"
+      "title": "NVIDIA公式、SpaceXAIのエージェントAI高速化に向けたVera CPU採用を発表",
+      "summary": "NVIDIA公式アカウントが、SpaceXAIがオーケストレーションやコード実行を担う新型CPU「Vera」を採用し、GPUを効率的に稼働させながらエージェントAIを高速化すると投稿（8/25未明の投稿）。",
+      "source": "@nvidia",
+      "link": "https://x.com/nvidia/status/2091920680317046847"
     },
     {
-      "title": "中国旅行中に使えた西側AIはxAIのGrokだけだったとの体験投稿",
-      "summary": "起業家levelsio氏が、中国旅行中に香港経由eSIMで使えた西側AIはxAI(Grok)のみで、AnthropicとOpenAIは香港を完全ブロックしていると投稿し話題に。8/24 16時台後半の投稿。",
-      "source": "@levelsio",
-      "link": "https://x.com/levelsio/status/2091794783253483833"
-    },
-    {
-      "title": "AI業界、今週中に主要各社のモデルが立て続けにリリースかとの観測投稿",
-      "summary": "AI情報発信者Andrew Curran氏が、主要AI企業のモデルリリースが最終段階にあり今後5日以内に相次いで公開される可能性が高いと投稿。あるスタートアップの早期アクセス版モデルも話題に。8/24 23時頃の投稿。",
-      "source": "@AndrewCurran_",
-      "link": "https://x.com/AndrewCurran_/status/2091888369173426511"
-    },
-    {
-      "title": "独NEURA Robotics、清掃ロボット企業ADLATUSを買収",
-      "summary": "独ロボティクス企業NEURA Roboticsが自律清掃ロボットのADLATUSを買収しPhysical AI基盤に統合すると発表。16ヶ月で5件目の買収となる。8/24 17時過ぎの投稿。",
-      "source": "@tech_eu",
-      "link": "https://x.com/tech_eu/status/2091803166752780437"
+      "title": "NVIDIA「Groq 3 LPX」量産開始に、推論競争の焦点は低遅延・低コストへとXで指摘",
+      "summary": "NVIDIAのAIエージェント向け推論チップ「Groq 3 LPX」が量産に入ったことを受け、「AI基盤の競争軸は学習性能より、長い推論をどれだけ低遅延・低コストで回せるかに移っている」との投稿がXで話題に（8/25未明の投稿）。",
+      "source": "@hfujikawa77",
+      "link": "https://x.com/hfujikawa77/status/2091922720988770450"
     }
   ]
 }
