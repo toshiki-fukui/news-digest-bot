@@ -1,105 +1,99 @@
 {
-  "run_label": "8/25 19:00",
+  "run_label": "8/26 07:00",
   "politics_economy": [
     {
-      "title": "高市首相「弱腰批判は当たらない」ICC赤根所長への米制裁対応で反論",
-      "summary": "米国がICC赤根智子所長らを制裁対象に指定したことを巡り、高市首相は25日、「弱腰との批判は当たらない。米国に対し対象にしないようぎりぎりまで働きかけを続けてきた」と反論した（8/25 17:58報道）。",
+      "title": "NY株式市場、25日終値 ダウ小反発・ナスダック続落",
+      "summary": "25日のニューヨーク株式市場でダウ工業株30種平均は前日比71.72ドル高の5万1920.62ドルで取引を終えた一方、ナスダック総合指数は118.02ポイント安の2万5358.61に下落した。PCEコア価格指数を受けたインフレ懸念の緩和で寄り付き後は上昇したが、アップル安や中東情勢の緊迫化で伸び悩んだ（26日早朝の報道）。",
       "source": "共同通信",
-      "link": "https://topics.smt.docomo.ne.jp/article/kyodo_nor/politics/kyodo_nor-2026082501001411?fm=latestnews"
+      "link": "https://news.yahoo.co.jp/articles/d7bd967fb7509d7feb832c3ea789dfe0316639fe"
     },
     {
-      "title": "日経平均、後場に反発し376円高で取引終了 米半導体株安の流れ切り返す",
-      "summary": "25日の東京株式市場で日経平均株価は前場に一時900円超安まで売られたが、後場はKOSPI高に連動して買い戻され、前日比376円高の6万5904円で取引を終えた。",
-      "source": "株式新聞Web",
-      "link": "https://kabushiki.jp/news/765527"
+      "title": "円相場、159円台前半に下落 「5・10日」でドル買い優勢",
+      "summary": "25日の東京外国為替市場で円相場は下落し、159円44～45銭で取引を終えた。事業会社の決済が集中する「5・10日」にあたりドル買いが優勢だったほか、一時159円39銭近辺まで円安・ドル高が進行した。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOFL252IC0V20C26A8000000/"
     },
     {
-      "title": "日銀、9月利上げの可能性大か 見送れば大幅円安のリスクも－安達元委員",
-      "summary": "元日銀審議委員の安達誠司氏は24日、日米協調介入や市場の織り込み進展を踏まえ、日銀が9月の金融政策決定会合で利上げに踏み切る可能性が高いとの見方を示した。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/jp/news/articles/2026-08-24/TK5DMCKK3NYA00"
+      "title": "熊本地震の中小企業支援、融資金利0.9%引き下げなど閣議決定",
+      "summary": "政府は25日、令和8年熊本地震の激甚災害指定を受け、被災した熊本県内の中小企業者向けに日本政策金融公庫による災害復旧貸付の金利を基準金利から0.9％引き下げるなどの追加支援策を閣議決定した。",
+      "source": "NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015199751000"
     },
     {
-      "title": "米、中国製品に7.5%の追加関税検討 9月の米中首脳会談前に",
-      "summary": "トランプ政権は中国の過剰生産能力を理由に、中国からの輸入品に新たに7.5%の関税を上乗せする方針を検討していると25日報じられた。実現すれば対中関税は計20%前後に達する見通し。",
-      "source": "株探（Bloomberg報道）",
-      "link": "https://s.kabutan.jp/news/n202608250009/"
+      "title": "高市首相、ガソリン170円程度への抑制策継続を表明",
+      "summary": "高市早苗首相は25日、ガソリンの店頭価格を1リットル170円程度に抑える措置を継続する方針を示し、片山さつき財務相と赤沢亮正経済産業相に必要な基金の規模を確保するよう指示したことを明らかにした。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUA2568S0V20C26A8000000/"
     },
     {
-      "title": "イオンモール熊本の爆発事故、経産省が事故調査委員会を設置",
-      "summary": "赤沢経産相は25日の会見で、熊本地震後に発生した「イオンモール熊本」の爆発事故の原因究明に向け、高圧ガス保安協会に委託する事故調査委員会を立ち上げると発表。9月3日に初会合を開く。",
-      "source": "共同通信",
-      "link": "https://news.yahoo.co.jp/articles/1f3d2f786d6e79798c0b3b041f264100152ec42d"
+      "title": "ラピダスに1500億円追加出資へ 経産省が27年度予算要求で計上",
+      "summary": "経済産業省は、最先端半導体の量産を目指すラピダスへの追加出資1500億円超を27年度予算の概算要求に計上する方針。累計の政府支援額は2.9兆円規模に達する見通しと24日に報じられた。",
+      "source": "時事通信",
+      "link": "https://www.jiji.com/jc/article?k=2026082400824&g=eco"
     }
   ],
   "tech": [
     {
-      "title": "サムスンとSKハイニックス、Hot Chips 2026でメモリボトルネック解消技術を競う",
-      "summary": "スタンフォード大学で開催中の「Hot Chips 2026」で、サムスン電子はプロセッサ特性に合わせたカスタムHBM、SKハイニックスはハイブリッドボンディングによるパッケージング技術を発表し、AIメモリのボトルネック解消を競った（8/25報道）。",
-      "source": "The Seoul Economic Daily",
-      "link": "https://en.sedaily.com/finance/2026/08/25/samsung-sk-target-memory-bottleneck-with-custom-design-20"
+      "title": "Apple、新型Mac miniを発表 初の2nmプロセス「M6」チップ搭載",
+      "summary": "Appleは25日、新型Mac miniを発表した。新設計の「M6」チップ（12コアCPU/12コアGPU、初のデュアルNeural Engine）と「M5 Pro」の2構成で、価格は899ドルから。9月22日発売予定。",
+      "source": "Apple Newsroom",
+      "link": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/"
     },
     {
-      "title": "全日空商事「選べるe-GIFT」に不正アクセス、個人情報漏えいの可能性",
-      "summary": "全日空商事は24日、法人向けデジタルギフト「選べるe-GIFT」の管理システムに8月11〜12日にかけて第三者の不正アクセスがあったと公表。担当者の個人情報閲覧やギフトの不正交換も確認された。",
-      "source": "全日空商事",
-      "link": "https://www.anatc.com/pressroom/20260824_01/"
+      "title": "Google、法律事務所向けAI「Gemini Enterprise for Legal」を発表",
+      "summary": "Googleは25日、法律業務に特化したAIエージェント群「Gemini Enterprise for Legal」を発表した。Cleary GottliebやWeil、Freshfieldsなど大手法律事務所が早期採用パートナーとして参加する。",
+      "source": "Google Cloud Blog",
+      "link": "https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-enterprise-for-legal"
     },
     {
-      "title": "ソフトバンクグループ株、7カ月ぶり上場来高値 OpenAI IPO観測で資金流入",
-      "summary": "25日の東京株式市場でソフトバンクグループ株が買われ、7カ月ぶりに上場来高値を更新。米OpenAIのIPO観測を背景に保有資産価値の上昇期待から投資マネーが流入した。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUB240MP0U6A520C2000000/"
+      "title": "台湾検察、NVIDIA・Super Micro従業員含む9人を起訴 AIサーバーの対中不正輸出で",
+      "summary": "台湾の検察当局は、対中輸出が禁止されている「B300」搭載の高性能AIサーバーを日本やインドネシア経由で中国に不正輸出したとして、NVIDIAとSuper Microの台湾法人従業員を含む9人を背任・文書偽造の疑いで起訴したと24日発表した。",
+      "source": "Nikkei Asia",
+      "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/taiwan-issues-indictments-over-alleged-illegal-export-of-ai-servers-to-china"
     },
     {
-      "title": "SpaceXAI、エージェントAI高速化へNVIDIAの新型CPU「Vera」を採用",
-      "summary": "SpaceXAIは24日、AIエージェントの高速な動作を支えるNVIDIAの新型CPU「Vera」を採用すると発表。GPUを効率的に稼働させつつ、ツール実行やデータ処理を担わせる。",
-      "source": "NVIDIA Newsroom",
-      "link": "https://nvidianews.nvidia.com/news/spacexai-adopts-nvidia-vera-cpu-to-accelerate-agentic-ai-at-massive-scale"
+      "title": "Xiaomi、3nm新チップ「Xring O3」発表 AnTuTu初の500万点超え",
+      "summary": "Xiaomiは24日、TSMC 3nmプロセスの新型SoC「Xring O3」を発表した。ベンチマークAnTuTuで522万点を記録しモバイルSoC初の500万点突破をうたう。9月発売の折りたたみ機「Xiaomi 18 Fold」に搭載予定。",
+      "source": "TechNode",
+      "link": "https://technode.com/2026/08/25/xiaomi-unveils-xring-o3-as-it-expands-in-house-chip-push/"
     },
     {
-      "title": "NVIDIA、エージェントAI向け推論チップ「Groq 3 LPX」が量産開始",
-      "summary": "NVIDIAは24日、超高速なトークン生成を実現する推論アクセラレーター「Groq 3 LPX」が量産段階に入ったと発表。Nebiusが採用第1号のAIクラウドとなる。",
-      "source": "NVIDIA Newsroom",
-      "link": "https://nvidianews.nvidia.com/news/nvidia-groq-3-lpx-now-in-full-production-with-world-class-speed-for-agentic-ai"
+      "title": "NVIDIA、26日に四半期決算発表 売上高900億ドル超えの予想",
+      "summary": "NVIDIAは26日、2027会計年度第2四半期決算を発表する。市場予想は売上高約920億ドルと、データセンター事業の伸びを背景に前年比ほぼ倍増を見込むが、株価は決算発表を控え8営業日続落するなど神経質な展開が続いている。",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/08/25/the-stocks-that-tend-to-move-with-nvidia-earnings-and-the-ones-that-dont.html"
     },
     {
-      "title": "Apple、iPhone 18 Pro/Ultra発表イベントの招待状を8月26日にも送付か",
-      "summary": "Appleは例年のパターンに従えば、9月9日開催予定の新製品発表イベントの招待状を8月26日に送る可能性が高いと報じられた。折りたたみ式の「iPhone Ultra」披露が見込まれる。",
-      "source": "MacRumors",
-      "link": "https://www.macrumors.com/2026/08/24/iphone-18-pro-iphone-ultra-apple-event-when/"
+      "title": "UAEのFasset、SBI主導のシリーズCで評価額10億ドルのユニコーンに",
+      "summary": "ステーブルコイン活用の銀行サービスを手がけるFassetは、SBIグループ主導の6800万ドルのシリーズC調達で評価額10億ドルに到達しユニコーン入りしたと24日発表した。今年の累計調達額は1億1900万ドルに達した。",
+      "source": "TechNode Global",
+      "link": "https://technode.global/2026/08/24/uaes-fasset-raises-68m-series-c-at-1b-valuation-led-by-japans-sbi/"
     },
     {
-      "title": "ソニー、ミドルレンジ新機種「Xperia 10 VIII」を発表",
-      "summary": "ソニーは25日午前11時、新型スマートフォン「Xperia 10 VIII」を発表。決済・ポイ活アプリを素早く呼び出す新機能を搭載し、9月中旬以降に発売予定。",
-      "source": "Business Insider Japan",
-      "link": "https://www.businessinsider.jp/article/2608-sony-xperia-10-viii-announce/"
+      "title": "インドAirbound、自律配送ドローンで3700万ドルのシリーズA調達",
+      "summary": "インドのドローン配送スタートアップAirboundは、Greenoaks主導・DoorDash等参加の3700万ドルのシリーズAを調達したと24日発表した。ロケット型テールシッター機で陸送並みの低コスト配送網構築を目指す。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/08/24/indias-airbound-bags-37m-to-take-on-trucks-with-rocket-like-drones/"
     },
     {
-      "title": "Anthropic、月末にもIPO目論見書を公開へ 評価額は9650億ドル",
-      "summary": "Anthropicは非公開のS-1届出書を公開書類として提出する準備を進めており、早ければ8月末にも公表される見通し。7月の年間経常収益は650億ドルに達し、企業向けLLM市場シェアでOpenAIを初めて上回ったと報じられた。",
-      "source": "TradingKey",
-      "link": "https://www.tradingkey.com/analysis/stocks/us-stocks/262121961-anthropic-ipo-expects-to-spacex-valuation-ai-claude-code-api-openai-tradingkey"
+      "title": "「AI博覧会 Summer 2026」、26・27日に新宿で開催",
+      "summary": "AI関連製品・サービスの展示イベント「AI博覧会 Summer 2026」が8月26・27日、新宿住友ビル三角広場で開催される。生成AIやAIエージェント、フィジカルAIなど約100社が出展する。",
+      "source": "AIsmiley",
+      "link": "https://aismiley.co.jp/ai_hakurankai/summer-2026/"
+    },
+    {
+      "title": "ブロードコムのAI向け700億ドル調達、隠れた3700億ドルのリスクに懸念",
+      "summary": "ブロードコムがAnthropic向けなどのAIチップ融資のため特別目的会社を通じて600億～700億ドル規模の債務調達を計画している件について、バンク・オブ・アメリカは2029年までにエクスポージャーが最大3700億ドルに達し得ると試算していると24日報じられた。",
+      "source": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/08/24/broadcoms-60-billion-ai-debt-deal-hides-a-370-billion-question-nobody-on-wall-street-wants-to-answer/"
     }
   ],
   "x_trending_tech": [
     {
-      "title": "Xperia 10 VIII、旧モデルと同じSoCながらOS/セキュリティサポートを延長と話題に",
-      "summary": "ソニーが本日発表した「Xperia 10 VIII」について、10 VIIと同じSoCのままOSアップデート提供回数が2→4回、セキュリティアップデート期間が4年→6年に延長された点がXで話題に（8/25昼の投稿）。",
-      "source": "@Logkazu",
-      "link": "https://x.com/Logkazu/status/2092091354709205257"
-    },
-    {
-      "title": "NVIDIA公式、SpaceXAIのエージェントAI高速化に向けたVera CPU採用を発表",
-      "summary": "NVIDIA公式アカウントが、SpaceXAIがオーケストレーションやコード実行を担う新型CPU「Vera」を採用し、GPUを効率的に稼働させながらエージェントAIを高速化すると投稿（8/25未明の投稿）。",
-      "source": "@nvidia",
-      "link": "https://x.com/nvidia/status/2091920680317046847"
-    },
-    {
-      "title": "NVIDIA「Groq 3 LPX」量産開始に、推論競争の焦点は低遅延・低コストへとXで指摘",
-      "summary": "NVIDIAのAIエージェント向け推論チップ「Groq 3 LPX」が量産に入ったことを受け、「AI基盤の競争軸は学習性能より、長い推論をどれだけ低遅延・低コストで回せるかに移っている」との投稿がXで話題に（8/25未明の投稿）。",
-      "source": "@hfujikawa77",
-      "link": "https://x.com/hfujikawa77/status/2091922720988770450"
+      "title": "Apple新型Mac mini(M6)発表に反応続々、899ドルの価格に驚きの声も",
+      "summary": "著名テックYouTuberのMKBHDが「M6 just dropped、M6 Mac Miniは899ドルから」と投稿し反響を呼んだ（8/25夜22時過ぎの投稿）。値上がりへの驚きの声が相次いだ。",
+      "source": "@MKBHD",
+      "link": "https://x.com/MKBHD/status/2092240440942625053"
     }
   ]
 }
