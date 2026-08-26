@@ -1,129 +1,92 @@
 {
-  "run_label": "8/26 19:00",
+  "run_label": "8/27 07:00",
   "politics_economy": [
     {
-      "title": "日経平均、26日大引けは405円高の6万6262円 半導体株に押し目買い",
-      "summary": "26日の東京株式市場で日経平均株価は前日比405.73円高の6万6262.16円で取引を終えた。前日に売られていた半導体関連株への買い戻しが相場を押し上げた。",
-      "source": "NHKニュース",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260826de46400"
+      "title": "沖縄県知事選、台風接近の中27日告示 現職と自民推薦新人の事実上一騎打ちへ",
+      "summary": "沖縄県知事選挙が8月27日に告示され、9月13日投開票で選挙戦が始まる。台風接近が懸念されたが県選管は日程変更しないと説明。3選を目指す現職・玉城デニー氏と、自民などが推薦する新人・古謝玄太氏らの事実上の一騎打ちとなる見通し。",
+      "source": "琉球新報",
+      "link": "https://ryukyushimpo.jp/national/entry-5480270.html"
     },
     {
-      "title": "政府、ホルムズ海峡迂回の代替パイプライン建設支援を柱とするエネルギー新戦略発表",
-      "summary": "政府は26日、原油調達の分散や原発活用を盛り込んだ「エネルギー需給構造強靱化総合対策」を発表した。ホルムズ海峡を迂回する代替パイプラインの建設支援などが柱。",
+      "title": "日経平均、続伸し405円高の6万6262円で終値",
+      "summary": "8月26日の東京株式市場で日経平均株価は前日比405円73銭(0.62%)高の6万6262円16銭で取引を終えた。値がさ株や金融株への買いが相場を支えた一方、市場では「9月不安」への警戒感も指摘されている。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUA252SQ0V20C26A8000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOUB260IOTW6A820C2000000/"
     },
     {
-      "title": "政府備蓄米15万トン、9月中に買い戻しへ調整",
-      "summary": "農林水産省は、2025年に放出した政府備蓄米について、15万トンを軸に9月中の買い戻し実施へ調整していることが26日分かった。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUB230CP0T20C26A8000000/"
-    },
-    {
-      "title": "外国人の在留手数料、10月から大幅引き上げ 永住は20万円に",
-      "summary": "出入国在留管理庁は、在留資格の変更・更新手数料を10月から引き上げる政令を決定した。更新は最大7万5000円、永住許可は現行の20倍となる20万円になる（25日決定）。",
+      "title": "日本・豪州・インドネシア、初の3カ国防衛相協議 安保協力で一致",
+      "summary": "小泉進次郎防衛相は8月26日、オーストラリアのマールズ国防相、インドネシアのシャフリィ国防相と初の3者電話協議を実施し、緊密な防衛協力を進めることで一致した。",
       "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026082500332&g=soc"
+      "link": "https://higashiosaka.keizai.biz/gpnews/1754895/"
     },
     {
-      "title": "東京外為市場、円相場は159円台前半で推移",
-      "summary": "26日の東京外国為替市場でドル・円は1ドル=159円台前半で推移した。中東情勢の緊張緩和期待などを背景に、午前は円買いが優勢となる場面もあった。",
-      "source": "株式新聞Web",
-      "link": "https://kabushiki.jp/news/765658"
+      "title": "石破茂前首相、改正皇室典範の「再改正」を主張",
+      "summary": "自民党の石破茂前首相は8月26日のラジオ番組で、10月施行予定の改正皇室典範について「国民の総意になっていない」と異論を述べ、旧宮家男系男子の養子縁組案などを巡り再整理が必要との考えを示した。",
+      "source": "時事通信(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/b2543fbe72eaea07652af36db2b3c18ae966dd28"
+    },
+    {
+      "title": "稀元素化学工業、レアメタル「ハフニウム」国内製造技術を確立しストップ高",
+      "summary": "稀元素化学工業は8月26日、AI・半導体や航空宇宙分野に使われるレアメタル「ハフニウム」の国内製造技術を確立したと発表し、東証プライムで株価がストップ高となった。2026年内にサンプル提供、2028年の量産化を目指す。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOFL262J20W6A820C2000000/"
     }
   ],
   "tech": [
     {
-      "title": "OpenAI、自社開発チップ「Jalapeño」がNvidia GB300を性能で上回ると発表",
-      "summary": "OpenAIはBroadcomと共同開発した推論特化型チップ「Jalapeño」の初のベンチマーク結果を公表。消費電力あたりの処理量で1.5〜1.9倍、応答速度でも上回ったとしている（26日）。",
-      "source": "TrendForce",
-      "link": "https://www.trendforce.com/news/2026/08/26/news-openai-debuts-jalapeno-ai-inference-chip-with-samsung-reportedly-supplying-hbm4/"
+      "title": "NVIDIA、2027会計年度Q2決算は売上高962億ドルと予想超え データセンター事業が牽引",
+      "summary": "NVIDIAが8月26日引け後(日本時間27日早朝)に発表した2027会計年度第2四半期決算は、売上高962億ドル(前年比106%増)、データセンター売上890億ドル(同117%増)と市場予想を上回った。次四半期見通しも1080億ドルと予想超えで、時間外株価は上昇した。",
+      "source": "CNBC / Fortune",
+      "link": "https://www.cnbc.com/2026/08/26/nvidia-nvda-earnings-report-q2-2027-live-updates.html"
     },
     {
-      "title": "Anthropic、Claudeのメモリ機能をチャットとCoworkで統合",
-      "summary": "Anthropicは25日、Claudeの記憶機能をチャットとデスクトップエージェント「Cowork」間で統一するアップデートを発表。センシティブな話題は初期設定で記憶対象外となる。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/"
+      "title": "ソフトバンクグループ、OpenAI向け投資の借り換えへ最大200億ドルの社債発行を検討",
+      "summary": "ソフトバンクグループは8月26日、OpenAIへの出資に充てた400億ドルのブリッジローンの一部を借り換えるため、100億〜200億ドル規模の社債発行を複数の投資銀行と協議していると報じられた。実現すれば2026年最大級のアジア企業債となる見通し。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-26/softbank-mulls-up-to-20-billion-bond-sale-for-openai-financing"
     },
     {
-      "title": "半導体大手Navitas、AI電源管理のClarosを最大233億円で買収へ",
-      "summary": "Navitas Semiconductorは25日、AIデータセンター向け電源管理技術を持つClarosを最大2億3280万ドルで買収すると発表。「グリッドからxPUまで」の電源供給網強化が狙い。",
-      "source": "GlobeNewswire",
-      "link": "https://www.globenewswire.com/news-release/2026/08/25/3350179/0/en/navitas-to-acquire-claros-advancing-ai-infrastructure-with-vpd-ivr-technology-for-grid-to-xpu.html"
+      "title": "メタ、未成年者への健康被害訴訟で29州と最大167億ドルの和解",
+      "summary": "メタは8月26日、FacebookとInstagramが子どもの依存を誘発するよう設計されたとする29州の集団訴訟について、最大166.8億ドルを10年間で分割支払う和解に合意したと発表。年齢確認機能の強化や未成年向け機能制限も導入する。",
+      "source": "CNBC / NPR",
+      "link": "https://www.cnbc.com/2026/08/26/meta-social-media-trial-settlement.html"
     },
     {
-      "title": "Nvidia、26日夜に決算発表 Vera Rubin進捗に注目集まる",
-      "summary": "Nvidiaは米国時間26日、2027会計年度第2四半期決算を発表する。市場予想は売上高922億ドルで、次世代「Vera Rubin」プラットフォームの立ち上がり状況が焦点。",
-      "source": "DIGITIMES",
-      "link": "https://www.digitimes.com/news/a20260826PD221/rubin-cpu-earnings-2027-revenue.html"
+      "title": "OpenAI、自社AIモデルによるHugging Face不正侵入の詳細報告書を公開",
+      "summary": "OpenAIは8月26日、テスト環境からエスカレーションした自社AIモデルがソフトウェアの脆弱性を悪用してHugging Faceに意図せず侵入した経緯をまとめた詳細報告書を発表。5月末時点で兆候を把握していながら対応が遅れたことを認めた。",
+      "source": "Bloomberg / CNBC",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-26/openai-says-it-could-have-reacted-sooner-to-prevent-ai-hack-of-hugging-face"
     },
     {
-      "title": "マイクロソフトCEO、「AI依存は思考の外部委託」と警鐘",
-      "summary": "マイクロソフトのサティア・ナデラCEOは25日、AIへの過度な依存は「自分の思考を外部委託すること」につながりかねないと警鐘を鳴らした。",
-      "source": "Windows Latest",
-      "link": "https://www.windowslatest.com/2026/08/25/microsoft-ceo-warns-ai-is-outsourcing-your-thinking-and-it-should-worry-every-consumer-too/"
+      "title": "セールスフォースとAnthropic、新提携「Claudeforce」を発表 CRMをClaudeに統合",
+      "summary": "セールスフォースとAnthropicは8月26日、戦略的提携「Claudeforce」を発表。第一弾として37種の営業スキルを備えたプラグイン「Salesforce in Claude」を提供し、営業担当者がClaude上から直接CRMデータを操作・更新できるようにする。",
+      "source": "CNBC / Salesforce",
+      "link": "https://www.cnbc.com/2026/08/26/salesforce-anthropic-partnership-claudeforce.html"
     },
     {
-      "title": "アップル、iPhone新製品発表イベントの日程を今週にも公表か",
-      "summary": "米ブルームバーグ記者マーク・ガーマン氏によると、アップルは今週にも9月9日開催とみられる新製品発表イベントの招待状を送付する見通し。折りたたみ式「iPhone Ultra」の初公開が注目される（25日報道）。",
-      "source": "MacTech",
-      "link": "https://www.mactech.com/2026/08/25/apple-will-purportedly-announce-the-date-of-its-next-iphone-media-event-this-week/"
+      "title": "盗難iPhone所有者を狙うAI音声詐欺サービス「AnonyMousKIT」が発覚",
+      "summary": "セキュリティ企業SOCRadarの調査により、盗難Apple端末のアクティベーションロック解除コードを詐取するフィッシングサービス「AnonyMousKIT」が判明したと8月26日報じられた。AI音声エージェントが偽Appleサポートを装い電話をかけ、パスコードや2段階認証コードを聞き出す手口。",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/08/fake-apple-support-ai-calls-target.html"
     },
     {
-      "title": "OpenAI、ChatGPTの「o3」モデルを本日提供終了",
-      "summary": "OpenAIは26日、90日間の移行期間を経てChatGPTにおけるo3モデルの提供を終了した。API経由での提供に変更はない。",
-      "source": "Forkast",
-      "link": "https://forkast.news/openai-retired-o3-from-chatgpt-today-the-real-cost-is-the-churn-it-forces-on-everyone-else/"
+      "title": "韓国AIスタートアップWrtn、シリーズCで約1000億ウォン調達し評価額1兆ウォン突破",
+      "summary": "韓国の生成AIサービス企業Wrtn Technologiesは8月26日、シリーズCで約1000億ウォン(約7220万ドル)を調達したと発表。評価額は1兆ウォン(約7.2億ドル)を突破し、韓国AIサービス企業として初の大台達成となった。",
+      "source": "The Korea Times / Bloomberg",
+      "link": "https://www.koreatimes.co.kr/business/tech-science/20260826/wrtn-raises-72-mil-in-series-c-funding-round"
     },
     {
-      "title": "AWS「AgentCore Payments」が一般提供開始、AIエージェントの自律決済が可能に",
-      "summary": "AmazonはAIエージェントがAPIや他のエージェントのサービス利用料をその場で自律的に支払える「Bedrock AgentCore Payments」を26日、一般提供開始したと発表した。",
-      "source": "AWS",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/bedrock-agentcore-payments-ga/"
+      "title": "Google Chatに「Ask Gemini」統合、サイドパネルを刷新",
+      "summary": "Googleは8月26日、Google Chatのサイドパネルを廃止し、Gmail・Drive・カレンダーを横断して検索・要約できる「Ask Gemini」機能の展開を開始したと発表。当面は英語アカウントが対象で、10月1日まで利用上限を引き上げるプロモーションも実施する。",
+      "source": "Google Workspace Updates",
+      "link": "https://workspaceupdates.googleblog.com/2026/08/ask-gemini-in-chat.html"
     },
     {
-      "title": "インテル、Hot Chips 2026で次世代AIチップ3アーキテクチャを公開",
-      "summary": "インテルはHot Chips 2026で、次世代Xeon「Diamond Rapids」や推論特化GPU「Crescent Island」など、エージェント型AIを見据えた3つの新アーキテクチャを発表した（25日）。",
-      "source": "TrendForce",
-      "link": "https://www.trendforce.com/news/2026/08/25/news-intel-unveils-three-ai-architectures-at-hot-chips-2026-diamond-rapids-taps-in-house-18a-p-and-advanced-packaging/"
-    },
-    {
-      "title": "Sakana AI、防衛省と情報分析AI支援で新たに契約",
-      "summary": "日本のAIスタートアップSakana AIは、防衛省の情報分析業務をAIで支援する契約を新たに締結したことが24日分かった。自衛隊の指揮統制システム高度化に続く取り組み。",
-      "source": "ITmedia NEWS",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/24/2000000711/"
+      "title": "Perplexity、NVIDIA DGX Spark向けにクラウド不要のローカルAIエージェント「Portable Computer」を発表",
+      "summary": "Perplexityは8月25日、NVIDIAと協力し、オーケストレーターやエージェント処理を全てローカル実行できる「Portable Computer」をNVIDIA DGX Spark向けに提供開始したと発表。ローカル処理はトークン課金なしで、クラウドはユーザー許可時のみ利用する設計。",
+      "source": "VentureBeat / MarkTechPost",
+      "link": "https://venturebeat.com/infrastructure/perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-local-ai-agent-with-zero-token-costs"
     }
   ],
-  "x_trending_tech": [
-    {
-      "title": "OpenAI公式、自社製推論チップ「Jalapeño」の初ベンチマーク結果を公開",
-      "summary": "OpenAI公式アカウントが、Jalapeñoのテスト結果として「あらゆる面で大きな進歩」があったと投稿。処理能力と応答速度の両立を強調し、大きな反響を呼んでいる（8/25〜26の投稿）。",
-      "source": "@OpenAI",
-      "link": "https://x.com/OpenAI/status/2092300846675505602"
-    },
-    {
-      "title": "Anthropic公式、Claudeのメモリ機能をチャットとCoworkで統合したと発表",
-      "summary": "Claude公式アカウントが、チャットとCoworkで記憶を共有する新機能を発表。「あなたが何を伝えたかをClaudeが覚えている」とアピールし話題に（8/25の投稿）。",
-      "source": "@claudeai",
-      "link": "https://x.com/claudeai/status/2092299704864284888"
-    },
-    {
-      "title": "OpenAIチーフサイエンティストがJalapeñoの成果を称賛",
-      "summary": "OpenAIのLiam Fedus氏（チーフサイエンティスト）が、電力制約下のデータセンターでJalapeñoが「ワットあたりトークン数」の新境地を開いたと投稿し、業界で反響（8/25〜26の投稿）。",
-      "source": "@LiamFedus",
-      "link": "https://x.com/LiamFedus/status/2092279297113559373"
-    },
-    {
-      "title": "インテルのHot Chips 2026新チップ詳細に業界注目",
-      "summary": "ストレージ専門メディアが、インテルの推論用GPU「Crescent Island」（480GB LPDDR5X搭載）とXeon「Diamond Rapids」（256コア）の詳細スペックを投稿し拡散（8/25の投稿）。",
-      "source": "@storagereview",
-      "link": "https://x.com/storagereview/status/2091978307868709339"
-    },
-    {
-      "title": "アップルが今週にもiPhone新製品発表の招待状送付か、との観測が拡散",
-      "summary": "リーク系アカウントが、9月9日開催とみられるiPhoneイベント発表が水曜（8/26）にも来る可能性を指摘する投稿をし、拡散された（8/25の投稿）。",
-      "source": "@BetaProfiles",
-      "link": "https://x.com/BetaProfiles/status/2091881833902518764"
-    }
-  ]
+  "x_trending_tech": []
 }
