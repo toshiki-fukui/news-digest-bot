@@ -1,99 +1,129 @@
 {
-  "run_label": "8/26 07:00",
+  "run_label": "8/26 19:00",
   "politics_economy": [
     {
-      "title": "NY株式市場、25日終値 ダウ小反発・ナスダック続落",
-      "summary": "25日のニューヨーク株式市場でダウ工業株30種平均は前日比71.72ドル高の5万1920.62ドルで取引を終えた一方、ナスダック総合指数は118.02ポイント安の2万5358.61に下落した。PCEコア価格指数を受けたインフレ懸念の緩和で寄り付き後は上昇したが、アップル安や中東情勢の緊迫化で伸び悩んだ（26日早朝の報道）。",
-      "source": "共同通信",
-      "link": "https://news.yahoo.co.jp/articles/d7bd967fb7509d7feb832c3ea789dfe0316639fe"
-    },
-    {
-      "title": "円相場、159円台前半に下落 「5・10日」でドル買い優勢",
-      "summary": "25日の東京外国為替市場で円相場は下落し、159円44～45銭で取引を終えた。事業会社の決済が集中する「5・10日」にあたりドル買いが優勢だったほか、一時159円39銭近辺まで円安・ドル高が進行した。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOFL252IC0V20C26A8000000/"
-    },
-    {
-      "title": "熊本地震の中小企業支援、融資金利0.9%引き下げなど閣議決定",
-      "summary": "政府は25日、令和8年熊本地震の激甚災害指定を受け、被災した熊本県内の中小企業者向けに日本政策金融公庫による災害復旧貸付の金利を基準金利から0.9％引き下げるなどの追加支援策を閣議決定した。",
+      "title": "日経平均、26日大引けは405円高の6万6262円 半導体株に押し目買い",
+      "summary": "26日の東京株式市場で日経平均株価は前日比405.73円高の6万6262.16円で取引を終えた。前日に売られていた半導体関連株への買い戻しが相場を押し上げた。",
       "source": "NHKニュース",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015199751000"
+      "link": "https://news.web.nhk/newsweb/na/nd-20260826de46400"
     },
     {
-      "title": "高市首相、ガソリン170円程度への抑制策継続を表明",
-      "summary": "高市早苗首相は25日、ガソリンの店頭価格を1リットル170円程度に抑える措置を継続する方針を示し、片山さつき財務相と赤沢亮正経済産業相に必要な基金の規模を確保するよう指示したことを明らかにした。",
+      "title": "政府、ホルムズ海峡迂回の代替パイプライン建設支援を柱とするエネルギー新戦略発表",
+      "summary": "政府は26日、原油調達の分散や原発活用を盛り込んだ「エネルギー需給構造強靱化総合対策」を発表した。ホルムズ海峡を迂回する代替パイプラインの建設支援などが柱。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUA2568S0V20C26A8000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOUA252SQ0V20C26A8000000/"
     },
     {
-      "title": "ラピダスに1500億円追加出資へ 経産省が27年度予算要求で計上",
-      "summary": "経済産業省は、最先端半導体の量産を目指すラピダスへの追加出資1500億円超を27年度予算の概算要求に計上する方針。累計の政府支援額は2.9兆円規模に達する見通しと24日に報じられた。",
+      "title": "政府備蓄米15万トン、9月中に買い戻しへ調整",
+      "summary": "農林水産省は、2025年に放出した政府備蓄米について、15万トンを軸に9月中の買い戻し実施へ調整していることが26日分かった。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUB230CP0T20C26A8000000/"
+    },
+    {
+      "title": "外国人の在留手数料、10月から大幅引き上げ 永住は20万円に",
+      "summary": "出入国在留管理庁は、在留資格の変更・更新手数料を10月から引き上げる政令を決定した。更新は最大7万5000円、永住許可は現行の20倍となる20万円になる（25日決定）。",
       "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026082400824&g=eco"
+      "link": "https://www.jiji.com/jc/article?k=2026082500332&g=soc"
+    },
+    {
+      "title": "東京外為市場、円相場は159円台前半で推移",
+      "summary": "26日の東京外国為替市場でドル・円は1ドル=159円台前半で推移した。中東情勢の緊張緩和期待などを背景に、午前は円買いが優勢となる場面もあった。",
+      "source": "株式新聞Web",
+      "link": "https://kabushiki.jp/news/765658"
     }
   ],
   "tech": [
     {
-      "title": "Apple、新型Mac miniを発表 初の2nmプロセス「M6」チップ搭載",
-      "summary": "Appleは25日、新型Mac miniを発表した。新設計の「M6」チップ（12コアCPU/12コアGPU、初のデュアルNeural Engine）と「M5 Pro」の2構成で、価格は899ドルから。9月22日発売予定。",
-      "source": "Apple Newsroom",
-      "link": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/"
+      "title": "OpenAI、自社開発チップ「Jalapeño」がNvidia GB300を性能で上回ると発表",
+      "summary": "OpenAIはBroadcomと共同開発した推論特化型チップ「Jalapeño」の初のベンチマーク結果を公表。消費電力あたりの処理量で1.5〜1.9倍、応答速度でも上回ったとしている（26日）。",
+      "source": "TrendForce",
+      "link": "https://www.trendforce.com/news/2026/08/26/news-openai-debuts-jalapeno-ai-inference-chip-with-samsung-reportedly-supplying-hbm4/"
     },
     {
-      "title": "Google、法律事務所向けAI「Gemini Enterprise for Legal」を発表",
-      "summary": "Googleは25日、法律業務に特化したAIエージェント群「Gemini Enterprise for Legal」を発表した。Cleary GottliebやWeil、Freshfieldsなど大手法律事務所が早期採用パートナーとして参加する。",
-      "source": "Google Cloud Blog",
-      "link": "https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-enterprise-for-legal"
-    },
-    {
-      "title": "台湾検察、NVIDIA・Super Micro従業員含む9人を起訴 AIサーバーの対中不正輸出で",
-      "summary": "台湾の検察当局は、対中輸出が禁止されている「B300」搭載の高性能AIサーバーを日本やインドネシア経由で中国に不正輸出したとして、NVIDIAとSuper Microの台湾法人従業員を含む9人を背任・文書偽造の疑いで起訴したと24日発表した。",
-      "source": "Nikkei Asia",
-      "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/taiwan-issues-indictments-over-alleged-illegal-export-of-ai-servers-to-china"
-    },
-    {
-      "title": "Xiaomi、3nm新チップ「Xring O3」発表 AnTuTu初の500万点超え",
-      "summary": "Xiaomiは24日、TSMC 3nmプロセスの新型SoC「Xring O3」を発表した。ベンチマークAnTuTuで522万点を記録しモバイルSoC初の500万点突破をうたう。9月発売の折りたたみ機「Xiaomi 18 Fold」に搭載予定。",
-      "source": "TechNode",
-      "link": "https://technode.com/2026/08/25/xiaomi-unveils-xring-o3-as-it-expands-in-house-chip-push/"
-    },
-    {
-      "title": "NVIDIA、26日に四半期決算発表 売上高900億ドル超えの予想",
-      "summary": "NVIDIAは26日、2027会計年度第2四半期決算を発表する。市場予想は売上高約920億ドルと、データセンター事業の伸びを背景に前年比ほぼ倍増を見込むが、株価は決算発表を控え8営業日続落するなど神経質な展開が続いている。",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/08/25/the-stocks-that-tend-to-move-with-nvidia-earnings-and-the-ones-that-dont.html"
-    },
-    {
-      "title": "UAEのFasset、SBI主導のシリーズCで評価額10億ドルのユニコーンに",
-      "summary": "ステーブルコイン活用の銀行サービスを手がけるFassetは、SBIグループ主導の6800万ドルのシリーズC調達で評価額10億ドルに到達しユニコーン入りしたと24日発表した。今年の累計調達額は1億1900万ドルに達した。",
-      "source": "TechNode Global",
-      "link": "https://technode.global/2026/08/24/uaes-fasset-raises-68m-series-c-at-1b-valuation-led-by-japans-sbi/"
-    },
-    {
-      "title": "インドAirbound、自律配送ドローンで3700万ドルのシリーズA調達",
-      "summary": "インドのドローン配送スタートアップAirboundは、Greenoaks主導・DoorDash等参加の3700万ドルのシリーズAを調達したと24日発表した。ロケット型テールシッター機で陸送並みの低コスト配送網構築を目指す。",
+      "title": "Anthropic、Claudeのメモリ機能をチャットとCoworkで統合",
+      "summary": "Anthropicは25日、Claudeの記憶機能をチャットとデスクトップエージェント「Cowork」間で統一するアップデートを発表。センシティブな話題は初期設定で記憶対象外となる。",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/24/indias-airbound-bags-37m-to-take-on-trucks-with-rocket-like-drones/"
+      "link": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/"
     },
     {
-      "title": "「AI博覧会 Summer 2026」、26・27日に新宿で開催",
-      "summary": "AI関連製品・サービスの展示イベント「AI博覧会 Summer 2026」が8月26・27日、新宿住友ビル三角広場で開催される。生成AIやAIエージェント、フィジカルAIなど約100社が出展する。",
-      "source": "AIsmiley",
-      "link": "https://aismiley.co.jp/ai_hakurankai/summer-2026/"
+      "title": "半導体大手Navitas、AI電源管理のClarosを最大233億円で買収へ",
+      "summary": "Navitas Semiconductorは25日、AIデータセンター向け電源管理技術を持つClarosを最大2億3280万ドルで買収すると発表。「グリッドからxPUまで」の電源供給網強化が狙い。",
+      "source": "GlobeNewswire",
+      "link": "https://www.globenewswire.com/news-release/2026/08/25/3350179/0/en/navitas-to-acquire-claros-advancing-ai-infrastructure-with-vpd-ivr-technology-for-grid-to-xpu.html"
     },
     {
-      "title": "ブロードコムのAI向け700億ドル調達、隠れた3700億ドルのリスクに懸念",
-      "summary": "ブロードコムがAnthropic向けなどのAIチップ融資のため特別目的会社を通じて600億～700億ドル規模の債務調達を計画している件について、バンク・オブ・アメリカは2029年までにエクスポージャーが最大3700億ドルに達し得ると試算していると24日報じられた。",
-      "source": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/08/24/broadcoms-60-billion-ai-debt-deal-hides-a-370-billion-question-nobody-on-wall-street-wants-to-answer/"
+      "title": "Nvidia、26日夜に決算発表 Vera Rubin進捗に注目集まる",
+      "summary": "Nvidiaは米国時間26日、2027会計年度第2四半期決算を発表する。市場予想は売上高922億ドルで、次世代「Vera Rubin」プラットフォームの立ち上がり状況が焦点。",
+      "source": "DIGITIMES",
+      "link": "https://www.digitimes.com/news/a20260826PD221/rubin-cpu-earnings-2027-revenue.html"
+    },
+    {
+      "title": "マイクロソフトCEO、「AI依存は思考の外部委託」と警鐘",
+      "summary": "マイクロソフトのサティア・ナデラCEOは25日、AIへの過度な依存は「自分の思考を外部委託すること」につながりかねないと警鐘を鳴らした。",
+      "source": "Windows Latest",
+      "link": "https://www.windowslatest.com/2026/08/25/microsoft-ceo-warns-ai-is-outsourcing-your-thinking-and-it-should-worry-every-consumer-too/"
+    },
+    {
+      "title": "アップル、iPhone新製品発表イベントの日程を今週にも公表か",
+      "summary": "米ブルームバーグ記者マーク・ガーマン氏によると、アップルは今週にも9月9日開催とみられる新製品発表イベントの招待状を送付する見通し。折りたたみ式「iPhone Ultra」の初公開が注目される（25日報道）。",
+      "source": "MacTech",
+      "link": "https://www.mactech.com/2026/08/25/apple-will-purportedly-announce-the-date-of-its-next-iphone-media-event-this-week/"
+    },
+    {
+      "title": "OpenAI、ChatGPTの「o3」モデルを本日提供終了",
+      "summary": "OpenAIは26日、90日間の移行期間を経てChatGPTにおけるo3モデルの提供を終了した。API経由での提供に変更はない。",
+      "source": "Forkast",
+      "link": "https://forkast.news/openai-retired-o3-from-chatgpt-today-the-real-cost-is-the-churn-it-forces-on-everyone-else/"
+    },
+    {
+      "title": "AWS「AgentCore Payments」が一般提供開始、AIエージェントの自律決済が可能に",
+      "summary": "AmazonはAIエージェントがAPIや他のエージェントのサービス利用料をその場で自律的に支払える「Bedrock AgentCore Payments」を26日、一般提供開始したと発表した。",
+      "source": "AWS",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/bedrock-agentcore-payments-ga/"
+    },
+    {
+      "title": "インテル、Hot Chips 2026で次世代AIチップ3アーキテクチャを公開",
+      "summary": "インテルはHot Chips 2026で、次世代Xeon「Diamond Rapids」や推論特化GPU「Crescent Island」など、エージェント型AIを見据えた3つの新アーキテクチャを発表した（25日）。",
+      "source": "TrendForce",
+      "link": "https://www.trendforce.com/news/2026/08/25/news-intel-unveils-three-ai-architectures-at-hot-chips-2026-diamond-rapids-taps-in-house-18a-p-and-advanced-packaging/"
+    },
+    {
+      "title": "Sakana AI、防衛省と情報分析AI支援で新たに契約",
+      "summary": "日本のAIスタートアップSakana AIは、防衛省の情報分析業務をAIで支援する契約を新たに締結したことが24日分かった。自衛隊の指揮統制システム高度化に続く取り組み。",
+      "source": "ITmedia NEWS",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/24/2000000711/"
     }
   ],
   "x_trending_tech": [
     {
-      "title": "Apple新型Mac mini(M6)発表に反応続々、899ドルの価格に驚きの声も",
-      "summary": "著名テックYouTuberのMKBHDが「M6 just dropped、M6 Mac Miniは899ドルから」と投稿し反響を呼んだ（8/25夜22時過ぎの投稿）。値上がりへの驚きの声が相次いだ。",
-      "source": "@MKBHD",
-      "link": "https://x.com/MKBHD/status/2092240440942625053"
+      "title": "OpenAI公式、自社製推論チップ「Jalapeño」の初ベンチマーク結果を公開",
+      "summary": "OpenAI公式アカウントが、Jalapeñoのテスト結果として「あらゆる面で大きな進歩」があったと投稿。処理能力と応答速度の両立を強調し、大きな反響を呼んでいる（8/25〜26の投稿）。",
+      "source": "@OpenAI",
+      "link": "https://x.com/OpenAI/status/2092300846675505602"
+    },
+    {
+      "title": "Anthropic公式、Claudeのメモリ機能をチャットとCoworkで統合したと発表",
+      "summary": "Claude公式アカウントが、チャットとCoworkで記憶を共有する新機能を発表。「あなたが何を伝えたかをClaudeが覚えている」とアピールし話題に（8/25の投稿）。",
+      "source": "@claudeai",
+      "link": "https://x.com/claudeai/status/2092299704864284888"
+    },
+    {
+      "title": "OpenAIチーフサイエンティストがJalapeñoの成果を称賛",
+      "summary": "OpenAIのLiam Fedus氏（チーフサイエンティスト）が、電力制約下のデータセンターでJalapeñoが「ワットあたりトークン数」の新境地を開いたと投稿し、業界で反響（8/25〜26の投稿）。",
+      "source": "@LiamFedus",
+      "link": "https://x.com/LiamFedus/status/2092279297113559373"
+    },
+    {
+      "title": "インテルのHot Chips 2026新チップ詳細に業界注目",
+      "summary": "ストレージ専門メディアが、インテルの推論用GPU「Crescent Island」（480GB LPDDR5X搭載）とXeon「Diamond Rapids」（256コア）の詳細スペックを投稿し拡散（8/25の投稿）。",
+      "source": "@storagereview",
+      "link": "https://x.com/storagereview/status/2091978307868709339"
+    },
+    {
+      "title": "アップルが今週にもiPhone新製品発表の招待状送付か、との観測が拡散",
+      "summary": "リーク系アカウントが、9月9日開催とみられるiPhoneイベント発表が水曜（8/26）にも来る可能性を指摘する投稿をし、拡散された（8/25の投稿）。",
+      "source": "@BetaProfiles",
+      "link": "https://x.com/BetaProfiles/status/2091881833902518764"
     }
   ]
 }
