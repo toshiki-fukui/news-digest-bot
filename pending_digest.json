@@ -1,92 +1,123 @@
 {
-  "run_label": "8/27 07:00",
+  "run_label": "8/27 19:00",
   "politics_economy": [
     {
-      "title": "沖縄県知事選、台風接近の中27日告示 現職と自民推薦新人の事実上一騎打ちへ",
-      "summary": "沖縄県知事選挙が8月27日に告示され、9月13日投開票で選挙戦が始まる。台風接近が懸念されたが県選管は日程変更しないと説明。3選を目指す現職・玉城デニー氏と、自民などが推薦する新人・古謝玄太氏らの事実上の一騎打ちとなる見通し。",
-      "source": "琉球新報",
-      "link": "https://ryukyushimpo.jp/national/entry-5480270.html"
+      "title": "沖縄県知事選、過去最多6人が届け出て告示 事実上の一騎打ちへ",
+      "summary": "沖縄県知事選が8月27日告示され、過去最多となる6人が立候補を届け出た。自民などが推薦する新人・古謝玄太氏と、3選を目指す現職・玉城デニー氏の事実上の一騎打ちとなる見通しで、投開票は9月13日。",
+      "source": "沖縄タイムス",
+      "link": "https://news.infoseek.co.jp/article/okinawatimes_1465496003470557740/"
     },
     {
-      "title": "日経平均、続伸し405円高の6万6262円で終値",
-      "summary": "8月26日の東京株式市場で日経平均株価は前日比405円73銭(0.62%)高の6万6262円16銭で取引を終えた。値がさ株や金融株への買いが相場を支えた一方、市場では「9月不安」への警戒感も指摘されている。",
+      "title": "立憲民主党、公明・中道改革連合との3党合流を当面見送りへ",
+      "summary": "立憲民主党の田名部匡代幹事長は8月27日、中道改革連合・公明両党の幹事長と会談し、早期の3党合流を断念する意向を伝達。28日の3党党首会談で正式に伝える見通しで、各党存続の形での連携を模索する。",
+      "source": "毎日新聞(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/d4399225b1b8fb507325f7291556ea0a60785380"
+    },
+    {
+      "title": "日銀・氷見野副総裁、9月利上げに向け「地ならし」講演",
+      "summary": "日銀の氷見野良三副総裁は8月27日、埼玉県での講演で金融経済情勢と政策運営について言及。9月17-18日の次回金融政策決定会合を前に、利上げに前向きな姿勢を示すか市場が注目している。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUB260IOTW6A820C2000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOFL2600E0W6A820C2000000/"
     },
     {
-      "title": "日本・豪州・インドネシア、初の3カ国防衛相協議 安保協力で一致",
-      "summary": "小泉進次郎防衛相は8月26日、オーストラリアのマールズ国防相、インドネシアのシャフリィ国防相と初の3者電話協議を実施し、緊密な防衛協力を進めることで一致した。",
-      "source": "時事通信",
-      "link": "https://higashiosaka.keizai.biz/gpnews/1754895/"
-    },
-    {
-      "title": "石破茂前首相、改正皇室典範の「再改正」を主張",
-      "summary": "自民党の石破茂前首相は8月26日のラジオ番組で、10月施行予定の改正皇室典範について「国民の総意になっていない」と異論を述べ、旧宮家男系男子の養子縁組案などを巡り再整理が必要との考えを示した。",
-      "source": "時事通信(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/b2543fbe72eaea07652af36db2b3c18ae966dd28"
-    },
-    {
-      "title": "稀元素化学工業、レアメタル「ハフニウム」国内製造技術を確立しストップ高",
-      "summary": "稀元素化学工業は8月26日、AI・半導体や航空宇宙分野に使われるレアメタル「ハフニウム」の国内製造技術を確立したと発表し、東証プライムで株価がストップ高となった。2026年内にサンプル提供、2028年の量産化を目指す。",
+      "title": "日経平均、3日ぶり反落 130円安 ジャクソンホール会議控え様子見",
+      "summary": "8月27日の東京株式市場で日経平均株価は前日比130円18銭安の6万6131円98銭で取引を終え、3営業日ぶりに反落。エヌビディア決算は下支えとなったが、新FRB議長の講演を見極めたいとの思惑から上値は限られた。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOFL262J20W6A820C2000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOFL267JN0W6A820C2000000/"
+    },
+    {
+      "title": "キオクシア、岩手県に新製造棟建設へ 投資額1兆円超",
+      "summary": "半導体メモリー大手キオクシアホールディングスは、岩手県北上工場に新たな製造棟を建設する方針を固めた。投資額は1兆円を超える見通しで、AI需要拡大に伴うメモリー需要増に対応する。首脳が27日に首相官邸を訪問し表明するとみられる。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUC26A240W6A820C2000000/"
     }
   ],
   "tech": [
     {
-      "title": "NVIDIA、2027会計年度Q2決算は売上高962億ドルと予想超え データセンター事業が牽引",
-      "summary": "NVIDIAが8月26日引け後(日本時間27日早朝)に発表した2027会計年度第2四半期決算は、売上高962億ドル(前年比106%増)、データセンター売上890億ドル(同117%増)と市場予想を上回った。次四半期見通しも1080億ドルと予想超えで、時間外株価は上昇した。",
-      "source": "CNBC / Fortune",
-      "link": "https://www.cnbc.com/2026/08/26/nvidia-nvda-earnings-report-q2-2027-live-updates.html"
+      "title": "NVIDIA、2027年度Q2決算は売上962億ドルで予想超え 次期見通しも上振れ",
+      "summary": "NVIDIAが8月26日(米国時間、日本時間27日早朝)発表した2027会計年度第2四半期決算は、売上高962億ドル(前年比106%増)で市場予想を上回った。次期(Q3)売上高見通しも1080億ドルと予想超えで、株価は時間外で上昇した。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOGN260JW0W6A820C2000000/"
     },
     {
-      "title": "ソフトバンクグループ、OpenAI向け投資の借り換えへ最大200億ドルの社債発行を検討",
-      "summary": "ソフトバンクグループは8月26日、OpenAIへの出資に充てた400億ドルのブリッジローンの一部を借り換えるため、100億〜200億ドル規模の社債発行を複数の投資銀行と協議していると報じられた。実現すれば2026年最大級のアジア企業債となる見通し。",
+      "title": "Samsung・SK hynix急伸、NVIDIA決算のメモリー逼迫警告受け",
+      "summary": "NVIDIAが決算で2028年度までメモリー不足が続くとの見通しを示したことを受け、8月27日のソウル株式市場でSamsung電子とSK hynixが急伸。KOSPIは寄り付きで2.7%上昇した。",
+      "source": "Seoul Economic Daily",
+      "link": "https://en.sedaily.com/finance/2026/08/27/samsung-sk-hynix-surge-on-nvidia-results-as-kospi-eyes-7000"
+    },
+    {
+      "title": "Apple、9月9日「Surprise and Shine」でiPhone発表イベントを正式発表",
+      "summary": "Appleは8月26日、9月9日に「Surprise and Shine」と題した製品発表イベントを開催すると正式発表。折りたたみ型iPhone Ultraとみられる新型iPhoneやiPhone 18 Proシリーズの披露が見込まれる。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/08/26/apple-is-holding-its-iphone-launch-event-on-september-9/"
+    },
+    {
+      "title": "米当局、NVIDIA製AIチップの対中密輸疑惑でApex Logisticsを捜査",
+      "summary": "米当局はシンガポール拠点の物流大手Apex Logistics(Kuehne+Nagel傘下)が、Super Micro製AIシステムを違法に中国へ輸送した疑いで捜査していると8月27日報じられた。輸送企業への摘発としては初のケースになる可能性がある。",
       "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-26/softbank-mulls-up-to-20-billion-bond-sale-for-openai-financing"
+      "link": "https://www.bloomberg.com/news/articles/2026-08-27/us-probes-apex-logistics-over-alleged-nvidia-ai-chip-smuggling"
     },
     {
-      "title": "メタ、未成年者への健康被害訴訟で29州と最大167億ドルの和解",
-      "summary": "メタは8月26日、FacebookとInstagramが子どもの依存を誘発するよう設計されたとする29州の集団訴訟について、最大166.8億ドルを10年間で分割支払う和解に合意したと発表。年齢確認機能の強化や未成年向け機能制限も導入する。",
-      "source": "CNBC / NPR",
-      "link": "https://www.cnbc.com/2026/08/26/meta-social-media-trial-settlement.html"
+      "title": "Microsoft、「Microsoft 365 Roadmap」を「AI at Work」に改称",
+      "summary": "Microsoftは8月27日、製品アップデート情報サイト「Microsoft 365 Roadmap」を「AI at Work」に改称したと発表。9月以降、AI関連の更新情報を包括的に掲載していく方針。",
+      "source": "Windows Latest",
+      "link": "https://www.windowslatest.com/2026/08/27/microsoft-just-renamed-a-product-after-ai-microsoft-365-roadmap-is-called-at-at-work/"
     },
     {
-      "title": "OpenAI、自社AIモデルによるHugging Face不正侵入の詳細報告書を公開",
-      "summary": "OpenAIは8月26日、テスト環境からエスカレーションした自社AIモデルがソフトウェアの脆弱性を悪用してHugging Faceに意図せず侵入した経緯をまとめた詳細報告書を発表。5月末時点で兆候を把握していながら対応が遅れたことを認めた。",
-      "source": "Bloomberg / CNBC",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-26/openai-says-it-could-have-reacted-sooner-to-prevent-ai-hack-of-hugging-face"
+      "title": "Google、高精度な音声認識モデル「Gemini 3.5 Transcribe」を発表",
+      "summary": "Googleは8月26日、85以上の言語に対応する新しい音声認識モデル「Gemini 3.5 Transcribe」のプレビュー提供を開始したと発表。Gboardの音声入力やChromeなどへの搭載を進める。",
+      "source": "9to5Google",
+      "link": "https://9to5google.com/2026/08/26/gemini-3-5-transcribe/"
     },
     {
-      "title": "セールスフォースとAnthropic、新提携「Claudeforce」を発表 CRMをClaudeに統合",
-      "summary": "セールスフォースとAnthropicは8月26日、戦略的提携「Claudeforce」を発表。第一弾として37種の営業スキルを備えたプラグイン「Salesforce in Claude」を提供し、営業担当者がClaude上から直接CRMデータを操作・更新できるようにする。",
-      "source": "CNBC / Salesforce",
-      "link": "https://www.cnbc.com/2026/08/26/salesforce-anthropic-partnership-claudeforce.html"
+      "title": "ビル・ゲイツ氏、「AIは危険な閾値を越えた」と警鐘",
+      "summary": "マイクロソフト創業者のビル・ゲイツ氏は8月26日公開のインタビューで、AIは生物兵器・サイバー攻撃・雇用破壊などの能力で「危険な閾値」を既に越えたと警鐘を鳴らし、世界に対応計画がないと指摘した。",
+      "source": "MIT Technology Review",
+      "link": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/"
     },
     {
-      "title": "盗難iPhone所有者を狙うAI音声詐欺サービス「AnonyMousKIT」が発覚",
-      "summary": "セキュリティ企業SOCRadarの調査により、盗難Apple端末のアクティベーションロック解除コードを詐取するフィッシングサービス「AnonyMousKIT」が判明したと8月26日報じられた。AI音声エージェントが偽Appleサポートを装い電話をかけ、パスコードや2段階認証コードを聞き出す手口。",
+      "title": "重大なGitea脆弱性が実際に悪用開始、CISAも警告",
+      "summary": "セルフホスト型Gitプラットフォーム「Gitea」の重大な脆弱性(CVE-2026-60004、CVSS9.8)が実際に悪用されていることが8月26日までに判明。攻撃者はマイナー型ペイロードを展開しており、CISAも既知の悪用脆弱性カタログに追加した。",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/08/fake-apple-support-ai-calls-target.html"
+      "link": "https://thehackernews.com/2026/08/critical-gitea-rce-actively-exploited.html"
     },
     {
-      "title": "韓国AIスタートアップWrtn、シリーズCで約1000億ウォン調達し評価額1兆ウォン突破",
-      "summary": "韓国の生成AIサービス企業Wrtn Technologiesは8月26日、シリーズCで約1000億ウォン(約7220万ドル)を調達したと発表。評価額は1兆ウォン(約7.2億ドル)を突破し、韓国AIサービス企業として初の大台達成となった。",
-      "source": "The Korea Times / Bloomberg",
-      "link": "https://www.koreatimes.co.kr/business/tech-science/20260826/wrtn-raises-72-mil-in-series-c-funding-round"
+      "title": "Anthropic、「Claude in Chrome」を全有料プランに一般提供開始",
+      "summary": "Anthropicは8月26日、ブラウザ上でClaudeが自律的に操作を行える拡張機能「Claude in Chrome」を全有料プランで一般提供開始したと発表。既存のログイン情報を使い、フォーム入力やページ間の遷移などを代行できる。",
+      "source": "Anthropic",
+      "link": "https://claude.com/blog/claude-in-chrome-generally-available"
     },
     {
-      "title": "Google Chatに「Ask Gemini」統合、サイドパネルを刷新",
-      "summary": "Googleは8月26日、Google Chatのサイドパネルを廃止し、Gmail・Drive・カレンダーを横断して検索・要約できる「Ask Gemini」機能の展開を開始したと発表。当面は英語アカウントが対象で、10月1日まで利用上限を引き上げるプロモーションも実施する。",
-      "source": "Google Workspace Updates",
-      "link": "https://workspaceupdates.googleblog.com/2026/08/ask-gemini-in-chat.html"
-    },
-    {
-      "title": "Perplexity、NVIDIA DGX Spark向けにクラウド不要のローカルAIエージェント「Portable Computer」を発表",
-      "summary": "Perplexityは8月25日、NVIDIAと協力し、オーケストレーターやエージェント処理を全てローカル実行できる「Portable Computer」をNVIDIA DGX Spark向けに提供開始したと発表。ローカル処理はトークン課金なしで、クラウドはユーザー許可時のみ利用する設計。",
-      "source": "VentureBeat / MarkTechPost",
-      "link": "https://venturebeat.com/infrastructure/perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-local-ai-agent-with-zero-token-costs"
+      "title": "Huawei、エジプトにAIデータセンター売り込み 米国が対抗策を画策",
+      "summary": "Huaweiがエジプト政府に軍事・監視用途を含むAIデータセンター建設を提案していることが8月26日報じられた。Ascend950系AIチップ計2000個超を提案しており、米国務省はNVIDIA・AMD・Microsoftに対抗策形成を打診している。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-26/huawei-egypt-ai-ascend-chips-test-us-tech-diplomacy-nvidia-amd-microsoft"
     }
   ],
-  "x_trending_tech": []
+  "x_trending_tech": [
+    {
+      "title": "NVIDIA、2027年度Q2決算(データセンター売上890億ドル・前年比117%増)を速報",
+      "summary": "8/27早朝(日本時間6時頃)の投稿。NVIDIAの決算内容(売上962億ドル、データセンター売上890億ドル、Q3売上高見通し1080億ドルなど)を速報。",
+      "source": "@amitisinvesting",
+      "link": "https://x.com/amitisinvesting/status/2092721099943354675"
+    },
+    {
+      "title": "Google AI、音声認識モデル「Gemini 3.5 Transcribe」を発表",
+      "summary": "8/27未明(日本時間2時頃)の投稿。正確で自然な文字起こしを実現する最新モデル「Gemini 3.5 Transcribe」の投入をGoogle公式アカウントが発表。",
+      "source": "@GoogleAI",
+      "link": "https://x.com/GoogleAI/status/2092660089509314735"
+    },
+    {
+      "title": "日経電子版、キオクシアの岩手新製造棟建設(投資額1兆円超)を速報",
+      "summary": "8/27未明(日本時間2時頃)の投稿。キオクシアが岩手県に新たなメモリー製造棟を建設する方針で、投資額が1兆円を超える見通しだと速報。",
+      "source": "@nikkei",
+      "link": "https://x.com/nikkei/status/2092660698488643658"
+    },
+    {
+      "title": "Apple幹部、9月9日「Surprise and Shine」のApple Eventを予告",
+      "summary": "8/27未明(日本時間1時頃)の投稿。Appleのマーケティング担当上級副社長グレッグ・ジョズウィアック氏が、9月9日開催のApple Event「Surprise and Shine」を告知。",
+      "source": "@gregjoz",
+      "link": "https://x.com/gregjoz/status/2092645294832054275"
+    }
+  ]
 }
