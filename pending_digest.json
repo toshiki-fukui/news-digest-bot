@@ -1,117 +1,92 @@
 {
-  "run_label": "8/28 19:00",
+  "run_label": "8/29 07:00",
   "politics_economy": [
     {
-      "title": "日経平均株価が反発、終値273円高の6万6405円",
-      "summary": "28日の東京株式市場で日経平均株価は反発し、前日比273円58銭(0.41%)高の6万6405円56銭で取引を終えた。前日の米ハイテク株高を受けAI・半導体関連株が買われた一方、ジャクソンホール会議での議長講演を控え上値は重かった。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOFL280H00Y6A820C2000000/"
+      "title": "横浜市長・山中竹春氏がパワハラ問題で辞意表明",
+      "summary": "横浜市の山中竹春市長は28日、パワハラ行為が第三者委員会の調査で認定されたことを受け、自身の後援会会合で辞意を表明した。自民・公明・立憲民主の会派が辞職を要求していた。",
+      "source": "時事通信",
+      "link": "https://www.jiji.com/jc/article?k=2026082800156&g=pol"
     },
     {
-      "title": "ジャクソンホール会議2日目、ウォーシュFRB議長の講演に市場が注目",
-      "summary": "米ワイオミング州で開催中のジャクソンホール会議は28日、議長就任後初めてとなるウォーシュFRB議長の講演を控え、市場の関心が一段と高まっている。9月のFOMC会合の方向性を探る手がかりとして投資家が発言を注視している。",
+      "title": "円相場が一時1ドル=160円台に、ウォーシュFRB議長のタカ派発言で円安加速",
+      "summary": "28日のニューヨーク外国為替市場で円相場は対ドルで一時160円台前半まで下落した。日米が協調為替介入に踏み切った7月末以降で初の160円台となった(29日未明)。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOGN28AGA0Y6A820C2000000/"
+    },
+    {
+      "title": "FRBウォーシュ議長、ジャクソンホールで追加利上げ示唆 9月利上げ観測強まる",
+      "summary": "米FRBのウォーシュ議長は28日、就任後初となるジャクソンホール会議での講演で、インフレ抑制に向け「やるべき仕事がある」と述べ、追加利上げの可能性に言及した。",
+      "source": "ロイター(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/e6c9b767a3a5d165746499d5f2bd014e1f088ad1"
+    },
+    {
+      "title": "立憲民主党、中道改革連合・公明との早期合流を見送り",
+      "summary": "立憲民主党は28日、中道改革連合・公明党との3党党首会談で、早期の合流は行わない方針を伝達した。3党間の連携のあり方は今後も協議を続ける。",
       "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260828de46922"
+      "link": "https://news.web.nhk/newsweb/na/nd-20260828de46878"
     },
     {
-      "title": "高市首相、28日午後に「AIの授業」 チームみらい安野氏らが講師",
-      "summary": "政府は28日午後、首相官邸で高市首相がAIについて指導を受ける場を設けた。講師はチームみらいの安野貴博党首ら。5月の党首討論で交わされた「AIの家庭教師」の約束が実現した形。",
-      "source": "8and",
-      "link": "https://8and.jp/2026/08/28/%E9%AB%98%E5%B8%82%E9%A6%96%E7%9B%B8%E3%81%8C8%E6%9C%8828%E6%97%A5%E3%81%ABai%E3%81%AE%E6%8E%88%E6%A5%AD%E3%82%92%E5%8F%97%E3%81%91%E3%82%8B%E3%80%82%E8%AC%9B%E5%B8%AB%E3%81%AF/"
-    },
-    {
-      "title": "ソフトバンクG、OpenAI株担保に100億ドルの追加融資模索",
-      "summary": "ソフトバンクグループはOpenAI出資に伴う債務の借り換え原資として、100億ドル規模の追加融資をみずほ銀行主幹事で模索していると28日Bloombergが報道。2年物融資でSOFR+約275ベーシスポイントの金利水準になるという。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-28/softbank-seeks-another-10-billion-loan-for-openai-stake-funding"
-    },
-    {
-      "title": "キオクシアHD株価が反落、好材料出尽くしで利益確定売り",
-      "summary": "28日のキオクシアホールディングス株は反落。前日発表の岩手県での5兆円規模投資計画という好材料が織り込まれたとの見方から利益確定売りが優勢となった。米サンディスク株安や韓国株軟調も重荷になった。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOFL280TG0Y6A820C2000000/"
+      "title": "8月に台風9個発生、\"トリプル台風\"に 60年ぶりペース",
+      "summary": "28日正午、台風23号「バンラン」がウェーク島近海で発生し、18号・22号と合わせ3つの台風が同時発生する事態に。8月の発生数は9個に達し、10個目が出れば1966年8月以来60年ぶりとなる。",
+      "source": "日本気象協会 tenki.jp",
+      "link": "https://tenki.jp/forecaster/deskpart/2026/08/28/40352.html"
     }
   ],
   "tech": [
     {
-      "title": "米連邦判事、ペンタゴンのAnthropic制裁を「違法かつ根拠なし」と判断",
-      "summary": "米連邦地裁のリタ・リン判事は28日、国防総省がAnthropicを「サプライチェーンリスク」に指定した措置を違法と判断する59ページの判決を下した。政府によるAnthropic批判への報復であり、憲法・法律上の根拠を欠くと認定。政府は控訴する見通し。",
-      "source": "NPR",
-      "link": "https://www.npr.org/2026/08/28/nx-s1-5947761/judge-pentagon-anthropic-illegal"
+      "title": "英マンチェスター空港運営大手にサイバー攻撃、顧客870万人分のデータ流出",
+      "summary": "マンチェスター、スタンステッド、イーストミッドランズの3空港を運営するMAGがサイバー攻撃を受け、WiFi登録情報やメールアドレスなど約870万人分の顧客データが流出した(28日発覚)。攻撃者の身代金要求には応じなかったという。",
+      "source": "IT Security Guru",
+      "link": "https://www.itsecurityguru.org/2026/08/28/manchester-airports-group-cyberattack/"
     },
     {
-      "title": "Google、動画生成AI「Gemini Omni 1.1 Flash」を発表",
-      "summary": "Googleは28日、動画生成・編集AI「Gemini Omni 1.1 Flash」を発表。直近10秒分の文脈を参照してシーンを最長40秒まで延長でき、4Kアップスケールや360p高速プレビューにも対応。Gemini API・Google AI Studioなどで提供開始。",
-      "source": "ITmedia",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/28/2000000878/"
+      "title": "アリババクラウド、ブラジルに南米初のクラウドリージョン開設",
+      "summary": "アリババクラウドは28日、ブラジルで2つのデータセンターから成る同社初の南米向けクラウドリージョンを稼働開始したと発表。今後はエージェント型AIサービスも順次投入する計画。",
+      "source": "Data Center Dynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/alibaba-brazil/"
     },
     {
-      "title": "米商務省、半導体製造装置メーカーに対中出荷停止を要請",
-      "summary": "ロイター通信は28日、米商務省が複数の半導体製造装置メーカーに対し、中国大手「華虹半導体」向け装置・資材の出荷停止を通知したと報道。先端半導体開発の遅延を狙った措置とみられ、米中関係の緊張が高まる可能性がある。",
-      "source": "共同通信(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/a84e2b8fefdb6766f99b8f4493b7e055ca9986a2"
+      "title": "Meta、スマートグラスの隠し撮り防止機能の抜け穴を再び封鎖",
+      "summary": "Metaはレイバン等のスマートグラスで、録画開始後にプライバシーLEDを覆っても撮影が続けられる抜け穴を塞ぐアップデートを28日までに展開。LEDが覆われたことを検知すると自動的に撮影を停止する。",
+      "source": "9to5Google",
+      "link": "https://9to5google.com/2026/08/28/meta-ray-ban-smart-glasses-privacy-led-loophole-update/"
     },
     {
-      "title": "Marvell、決算は市場予想上回るも株価は時間外で7.6%安",
-      "summary": "半導体大手Marvellは27日発表した第2四半期決算で売上高27.4億ドル(前年比37%増)と市場予想を上回ったが、株価は時間外取引で7.6%安。AIバブルへの懸念から、市場は決算内容以上の上振れを期待していたとみられる。",
-      "source": "SiliconANGLE",
-      "link": "https://siliconangle.com/2026/08/27/marvells-stock-sinks-despite-earnings-beat-and-strong-guidance/"
+      "title": "Marvell、好決算も株価急落 Google向けチップの収益化は2029年度に本格化",
+      "summary": "半導体大手Marvellは27日発表の四半期決算で売上高が前年比37%増の過去最高を記録したが、Googleとのカスタムチップ提携の大きな収益貢献は2029年度からとの見通しが嫌気され、28日の株価は急落した。",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/08/28/marvell-mrvl-q2-earnings-outlook.html"
     },
     {
-      "title": "Salesforce株が22%急伸、Agentforce収益が前年比240%増",
-      "summary": "Salesforceは27日発表した第2四半期決算で市場予想を大幅に上回るEPSを計上、AnthropicとのAIパートナーシップ「Claudeforce」も発表し株価が22%急伸。Agentforce関連の年間経常収益は前年比240%増の15億ドルに達した。",
-      "source": "FX Leaders",
-      "link": "https://www.fxleaders.com/news/2026/08/28/salesforce-stock-explodes-22-agentforce-ai-boom-puts-265-in-play/"
+      "title": "Nvidia、AIクラウド企業向けの収益分配型融資を一時停止",
+      "summary": "Nvidiaが独禁当局の懸念に配慮し、中小AIクラウド事業者向けに導入したばかりの収益分配型資金支援プログラムの一部案件を一時停止したと27日、ウォール・ストリート・ジャーナルが報じた。",
+      "source": "Benzinga",
+      "link": "https://www.benzinga.com/markets/tech/26/08/61486472/nvidia-reportedly-pauses-revenue-sharing-deals-with-ai-cloud-companies-amid-antitrust-concerns"
     },
     {
-      "title": "OpenAI、推論チップ「Jalapeño」の性能詳細を公開 NVIDIA上回る結果",
-      "summary": "OpenAIはBroadcomと共同開発した推論専用チップ「Jalapeño」の初のベンチマーク結果を公開。第三者機関SemiAnalysisのテストでNVIDIA・AMD・Googleのアクセラレータをワット当たり性能で上回ったと報告された。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/"
-    },
-    {
-      "title": "Perplexity、オンデバイスAIエージェント「Portable Computer」公開",
-      "summary": "Perplexity AIはNVIDIA製半導体搭載デスクトップで動作するAIエージェント「Portable Computer」を発表。NVIDIAが同社に300億ドル超の評価額で出資検討中との報道も出ており、AI業界での存在感を強めている。",
-      "source": "SiliconANGLE",
-      "link": "https://siliconangle.com/2026/08/25/perplexity-ai-launches-portable-computer-on-device-ai-agent/"
-    },
-    {
-      "title": "インドAMインテリジェンス、NVIDIA GPU9000基を発注 82億ドル規模AI基盤",
-      "summary": "インドのAMインテリジェンス(Greenko創業者らが設立)は、ハイデラバードのAIファクトリー向けにNVIDIA Vera Rubin NVL72ラックシステムを約9000基発注する契約を締結。総投資額は約82億ドル規模で、インド初の大規模AIクラスターとなる。",
+      "title": "Nvidia、2027年出荷のAIサーバー価格を15%超値上げへ メモリー高騰で",
+      "summary": "Nvidiaのサーバー受託製造各社が主要顧客に対し、DRAMやHBMの価格高騰を理由にVera RubinやGrace Blackwell搭載システムの価格を2027年初め出荷分から15%超引き上げると通知したことが分かった。",
       "source": "Tech Times",
-      "link": "https://www.techtimes.com/articles/325586/20260826/india-lands-its-first-vera-rubin-cluster-9000-gpus-green-power-us-export-risk.htm"
+      "link": "https://www.techtimes.com/articles/325718/20260827/memory-will-cost-cloud-giants-more-gpus-2027-nvidia-uses-that-justify-15-server-hike.htm"
     },
     {
-      "title": "シャオミ、1万mAhバッテリー搭載「Redmi Note 17 Pro Max」を日本発売",
-      "summary": "Xiaomiは28日、大容量1万mAhバッテリーを搭載したミドルレンジスマートフォン「REDMI Note 17 Pro Max 5G」の日本版を発売開始。価格は7万9980円からで、10月14日までの早期購入特典もある。",
-      "source": "ケータイWatch",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2133514.html"
+      "title": "キオクシア社長、岩手新棟の稼働時期「年単位で前倒し」",
+      "summary": "キオクシアの社長は、AI需要の拡大がメモリー需要の想定を上回っているとして、岩手県北上市に建設中の新製造棟の稼働開始時期を当初計画より年単位で前倒しする考えを示した(27日)。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUC279TT0X20C26A8000000/"
+    },
+    {
+      "title": "高市首相、チームみらい安野氏を\"AIの家庭教師\"にアプリ作成を体験",
+      "summary": "高市首相は28日午後、官邸でチームみらいの安野貴博党首らからAIの指導を受け、生成AIを使ったアプリ作成を体験した。5月の党首討論での「AIの家庭教師」の約束が実現した形。",
+      "source": "NHK",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260828de47070"
+    },
+    {
+      "title": "AI問い合わせ対応の「Helpfeel」、26億円を調達",
+      "summary": "生成AIを活用した問い合わせ対応サービスを手がけるHelpfeel(京都市)が、ベンチャーキャピタル等を引受先とする第三者割当増資で26億円を調達したと発表した。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUC3026R0Q5A830C2000000/"
     }
   ],
-  "x_trending_tech": [
-    {
-      "title": "Google公式、動画生成AI「Gemini Omni 1.1 Flash」を発表",
-      "summary": "8/28未明(日本時間1時頃)の投稿。Google AI公式アカウントが新しい動画生成・編集モデル「Gemini Omni 1.1 Flash」を発表。4Kアップスケールやシーン延長など新機能を紹介。",
-      "source": "@GoogleAI",
-      "link": "https://x.com/GoogleAI/status/2093008576487072064"
-    },
-    {
-      "title": "AI速報アカウントが「Gemini Omni 1.1 Flash」正式発表を速報",
-      "summary": "8/28未明(日本時間1時20分頃)の投稿。AI情報アカウントTestingCatalogが、Gemini Omni 1.1 FlashがGemini APIとGoogle AI Studioで利用可能になったことを速報。",
-      "source": "@testingcatalog",
-      "link": "https://x.com/testingcatalog/status/2093012163715563624"
-    },
-    {
-      "title": "NHK、高市首相が28日にAI指導を受けると速報",
-      "summary": "8/27夜(日本時間21時50分頃)の投稿。NHKニュース公式アカウントが、高市首相が28日にAIの指導を受け、講師はチームみらいの安野貴博党首らが務めると速報。",
-      "source": "@nhk_news",
-      "link": "https://x.com/nhk_news/status/2092958826496749945"
-    },
-    {
-      "title": "ケビン・デュラント氏、Hugging Face早期投資が2万4000%の含み益に",
-      "summary": "8/28未明(日本時間3時35分頃)の投稿。予測市場Polymarketが、NBA選手ケビン・デュラント氏の25万ドルのHugging Face早期投資が、NVIDIAによる買収報道を受け6000万ドル超(約2万4000%増)に膨らんだと伝え話題に。",
-      "source": "@Polymarket",
-      "link": "https://x.com/Polymarket/status/2093046638549819520"
-    }
-  ]
+  "x_trending_tech": []
 }
