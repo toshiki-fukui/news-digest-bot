@@ -1,111 +1,117 @@
 {
-  "run_label": "8/28 07:00",
+  "run_label": "8/28 19:00",
   "politics_economy": [
     {
-      "title": "キオクシア、国内半導体に6年で5兆円投資 岩手に新製造棟",
-      "summary": "キオクシアホールディングスは8月27日、2032年までに国内で5兆円規模の半導体投資を行うと発表。岩手県北上市に3棟目の製造棟を建設し2029年度の稼働を目指す。太田裕雄社長が首相官邸を訪れ高市首相に伝達した。",
+      "title": "日経平均株価が反発、終値273円高の6万6405円",
+      "summary": "28日の東京株式市場で日経平均株価は反発し、前日比273円58銭(0.41%)高の6万6405円56銭で取引を終えた。前日の米ハイテク株高を受けAI・半導体関連株が買われた一方、ジャクソンホール会議での議長講演を控え上値は重かった。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUC270390X20C26A8000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOFL280H00Y6A820C2000000/"
     },
     {
-      "title": "立憲民主党、中道改革連合・公明との早期合流を見送りへ",
-      "summary": "立憲民主党は8月27日の3党幹事長会談で、中道改革連合・公明党との早期合流を当面見送る意向を伝達。28日の3党党首会談で正式表明する見通しで、完全合流を求める公明党の反発は必至とみられる。",
-      "source": "読売新聞(Infoseekニュース)",
-      "link": "https://news.infoseek.co.jp/article/yomiuri_20260827_gyt1t00034/"
-    },
-    {
-      "title": "沖縄県知事選、過去最多6人が立候補 基地負担や経済振興で論戦へ",
-      "summary": "8月27日に告示された沖縄県知事選は過去最多の6人が立候補。3選を目指す現職・玉城デニー氏と、自民などが推す新人・古謝玄太氏の事実上の一騎打ちとなる見通しで、9月13日投開票。",
+      "title": "ジャクソンホール会議2日目、ウォーシュFRB議長の講演に市場が注目",
+      "summary": "米ワイオミング州で開催中のジャクソンホール会議は28日、議長就任後初めてとなるウォーシュFRB議長の講演を控え、市場の関心が一段と高まっている。9月のFOMC会合の方向性を探る手がかりとして投資家が発言を注視している。",
       "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260827de46747"
+      "link": "https://news.web.nhk/newsweb/na/nd-20260828de46922"
     },
     {
-      "title": "ジャクソンホール会議開幕、28日深夜にウォーシュFRB議長が就任後初講演",
-      "summary": "米ワイオミング州で8月27日開幕したジャクソンホール会議で、FRBのウォーシュ議長が28日午前8時(日本時間同日深夜)に就任後初の講演を行う。物価・金利上昇への言及があるか市場が注目している。",
+      "title": "高市首相、28日午後に「AIの授業」 チームみらい安野氏らが講師",
+      "summary": "政府は28日午後、首相官邸で高市首相がAIについて指導を受ける場を設けた。講師はチームみらいの安野貴博党首ら。5月の党首討論で交わされた「AIの家庭教師」の約束が実現した形。",
+      "source": "8and",
+      "link": "https://8and.jp/2026/08/28/%E9%AB%98%E5%B8%82%E9%A6%96%E7%9B%B8%E3%81%8C8%E6%9C%8828%E6%97%A5%E3%81%ABai%E3%81%AE%E6%8E%88%E6%A5%AD%E3%82%92%E5%8F%97%E3%81%91%E3%82%8B%E3%80%82%E8%AC%9B%E5%B8%AB%E3%81%AF/"
+    },
+    {
+      "title": "ソフトバンクG、OpenAI株担保に100億ドルの追加融資模索",
+      "summary": "ソフトバンクグループはOpenAI出資に伴う債務の借り換え原資として、100億ドル規模の追加融資をみずほ銀行主幹事で模索していると28日Bloombergが報道。2年物融資でSOFR+約275ベーシスポイントの金利水準になるという。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-28/softbank-seeks-another-10-billion-loan-for-openai-stake-funding"
+    },
+    {
+      "title": "キオクシアHD株価が反落、好材料出尽くしで利益確定売り",
+      "summary": "28日のキオクシアホールディングス株は反落。前日発表の岩手県での5兆円規模投資計画という好材料が織り込まれたとの見方から利益確定売りが優勢となった。米サンディスク株安や韓国株軟調も重荷になった。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOGN260FI0W6A820C2000000/"
-    },
-    {
-      "title": "NYダウ続伸262ドル高、堅調な経済指標や決算を好感",
-      "summary": "8月27日のニューヨーク株式市場でダウ工業株30種平均は前日比262.83ドル高の5万2210.08ドルで終了。S&P500も続伸し、堅調な経済指標や企業決算が相場を支えた。",
-      "source": "時事通信(Yahoo!ファイナンス)",
-      "link": "https://finance.yahoo.co.jp/news/detail/61b1e1d3ea5f88582ba233050c27cc32687fc19c"
+      "link": "https://www.nikkei.com/article/DGXZQOFL280TG0Y6A820C2000000/"
     }
   ],
   "tech": [
     {
-      "title": "Anthropic、英Nscaleと6年450億ドルのクラウド計算契約",
-      "summary": "AnthropicはIPOを控え、英インフラ企業Nscaleの米ウェストバージニア州データセンターから6年間で約450億ドル(約6.7兆円)分の計算資源を調達する契約を締結。NVIDIAの次世代「Vera Rubin」チップを活用する。",
+      "title": "米連邦判事、ペンタゴンのAnthropic制裁を「違法かつ根拠なし」と判断",
+      "summary": "米連邦地裁のリタ・リン判事は28日、国防総省がAnthropicを「サプライチェーンリスク」に指定した措置を違法と判断する59ページの判決を下した。政府によるAnthropic批判への報復であり、憲法・法律上の根拠を欠くと認定。政府は控訴する見通し。",
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/08/28/nx-s1-5947761/judge-pentagon-anthropic-illegal"
+    },
+    {
+      "title": "Google、動画生成AI「Gemini Omni 1.1 Flash」を発表",
+      "summary": "Googleは28日、動画生成・編集AI「Gemini Omni 1.1 Flash」を発表。直近10秒分の文脈を参照してシーンを最長40秒まで延長でき、4Kアップスケールや360p高速プレビューにも対応。Gemini API・Google AI Studioなどで提供開始。",
+      "source": "ITmedia",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/28/2000000878/"
+    },
+    {
+      "title": "米商務省、半導体製造装置メーカーに対中出荷停止を要請",
+      "summary": "ロイター通信は28日、米商務省が複数の半導体製造装置メーカーに対し、中国大手「華虹半導体」向け装置・資材の出荷停止を通知したと報道。先端半導体開発の遅延を狙った措置とみられ、米中関係の緊張が高まる可能性がある。",
+      "source": "共同通信(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/a84e2b8fefdb6766f99b8f4493b7e055ca9986a2"
+    },
+    {
+      "title": "Marvell、決算は市場予想上回るも株価は時間外で7.6%安",
+      "summary": "半導体大手Marvellは27日発表した第2四半期決算で売上高27.4億ドル(前年比37%増)と市場予想を上回ったが、株価は時間外取引で7.6%安。AIバブルへの懸念から、市場は決算内容以上の上振れを期待していたとみられる。",
+      "source": "SiliconANGLE",
+      "link": "https://siliconangle.com/2026/08/27/marvells-stock-sinks-despite-earnings-beat-and-strong-guidance/"
+    },
+    {
+      "title": "Salesforce株が22%急伸、Agentforce収益が前年比240%増",
+      "summary": "Salesforceは27日発表した第2四半期決算で市場予想を大幅に上回るEPSを計上、AnthropicとのAIパートナーシップ「Claudeforce」も発表し株価が22%急伸。Agentforce関連の年間経常収益は前年比240%増の15億ドルに達した。",
+      "source": "FX Leaders",
+      "link": "https://www.fxleaders.com/news/2026/08/28/salesforce-stock-explodes-22-agentforce-ai-boom-puts-265-in-play/"
+    },
+    {
+      "title": "OpenAI、推論チップ「Jalapeño」の性能詳細を公開 NVIDIA上回る結果",
+      "summary": "OpenAIはBroadcomと共同開発した推論専用チップ「Jalapeño」の初のベンチマーク結果を公開。第三者機関SemiAnalysisのテストでNVIDIA・AMD・Googleのアクセラレータをワット当たり性能で上回ったと報告された。",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/"
+      "link": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/"
     },
     {
-      "title": "NVIDIA、Hugging Faceを129億ドルで買収へ",
-      "summary": "NVIDIAはオープンソースAIモデル共有基盤Hugging Faceを約129億ドルで買収することで合意したと8月27日報じられた。正式契約はまだで破談の可能性も残るが、AIモデル配布層への進出を狙う。",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/08/27/nvidia-hugging-face-acquisition.html"
+      "title": "Perplexity、オンデバイスAIエージェント「Portable Computer」公開",
+      "summary": "Perplexity AIはNVIDIA製半導体搭載デスクトップで動作するAIエージェント「Portable Computer」を発表。NVIDIAが同社に300億ドル超の評価額で出資検討中との報道も出ており、AI業界での存在感を強めている。",
+      "source": "SiliconANGLE",
+      "link": "https://siliconangle.com/2026/08/25/perplexity-ai-launches-portable-computer-on-device-ai-agent/"
     },
     {
-      "title": "AWSとNVIDIA、2027-28年にGPU追加200万基配備へ提携拡大",
-      "summary": "AWSとNVIDIAは8月27日、2027-28年にかけてBlackwell UltraやRubinなど追加200万基のGPUを配備すると発表。米政府向けの安全なデータセンター構築でも協業する。",
-      "source": "NVIDIA Newsroom",
-      "link": "https://nvidianews.nvidia.com/news/aws-and-nvidia-to-deliver-2-million-additional-gpus-and-next-generation-infrastructure-for-agentic-and-physical-ai"
+      "title": "インドAMインテリジェンス、NVIDIA GPU9000基を発注 82億ドル規模AI基盤",
+      "summary": "インドのAMインテリジェンス(Greenko創業者らが設立)は、ハイデラバードのAIファクトリー向けにNVIDIA Vera Rubin NVL72ラックシステムを約9000基発注する契約を締結。総投資額は約82億ドル規模で、インド初の大規模AIクラスターとなる。",
+      "source": "Tech Times",
+      "link": "https://www.techtimes.com/articles/325586/20260826/india-lands-its-first-vera-rubin-cluster-9000-gpus-green-power-us-export-risk.htm"
     },
     {
-      "title": "OpenAI幹部退社相次ぐ中、ブロックマン氏がプロダクト権限を掌握",
-      "summary": "OpenAIでは2026年に入り13人の幹部が退社。共同創業者のグレッグ・ブロックマン社長がプロダクト・スケーリング両部門を統括する体制となり、IPOを控えた組織再編が進んでいると8月26日報じられた。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/"
-    },
-    {
-      "title": "Samsung、AI推論を3倍高速化する新型メモリ「LPDDR5X-PIM」を発表",
-      "summary": "Samsungは8月25日、Hot Chips 2026でメモリ内部に演算回路を組み込んだ「LPDDR5X-PIM」を発表。従来のLPDDR5X比でAI推論を最大3.01倍高速化し、帯域幅も8倍になるという。",
-      "source": "Tom's Hardware",
-      "link": "https://www.tomshardware.com/pc-components/dram/hot-chips-2026-samsung-makes-lpddr5x-smart-with-logic-unit-in-memory-lpddr5x-pim-is-3-01x-faster-than-lpddr5x-in-ai-inference-with-8x-the-bandwidth"
-    },
-    {
-      "title": "OpenAI、「ChatGPT for Teachers」を全米55学区に追加提供",
-      "summary": "OpenAIは8月26日、無償版「ChatGPT for Teachers」の提供先を20州55学区・10万人超の教育関係者に拡大すると発表。16州とのデータプライバシー協定も業界初の枠組みとして締結した。",
-      "source": "OpenAI",
-      "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts/"
-    },
-    {
-      "title": "OpenAI・Anthropic・Googleなど100社超、AIサイバー攻撃対策の強化を共同要請",
-      "summary": "OpenAI、Anthropic、Google、Microsoftなど100社超が8月27日、AIを悪用したサイバー攻撃の急速な高度化に備え官民が連携して防御体制を強化するよう求める共同書簡を発表した。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/"
-    },
-    {
-      "title": "Amazon、21年の歴史に幕 「Mechanical Turk」を9月30日に終了",
-      "summary": "Amazonは、2005年開始の人力クラウドソーシング基盤「Mechanical Turk」を9月30日に終了すると発表。AI学習データ市場の主役が新興企業に移る中、社内評価を経て決定したという。",
-      "source": "Fast Company",
-      "link": "https://www.fastcompany.com/91596625/amazon-is-shutting-down-mechanical-turk-after-21-years-quietly-ending-the-human-powered-platform"
-    },
-    {
-      "title": "AIエージェント企業Instinct、シリーズBで2.5億ドル調達",
-      "summary": "コンシューマー向けAIエージェントを手がけるInstinct(Spear Street Technology)は8月27日、Index VenturesとBenchmarkが主導するシリーズBで2.5億ドルを調達したと発表。累計調達額は3.5億ドル、評価額は25億ドルに達した。",
-      "source": "Tech Startups",
-      "link": "https://techstartups.com/2026/08/27/startup-funding-news-today-august-27-2026-instinct-breedr-agentrys-more/"
-    },
-    {
-      "title": "台湾株、NVIDIA好決算受け続伸 加権指数最高値圏",
-      "summary": "8月27日の台湾株式市場は、NVIDIAの決算・見通しが市場予想を上回ったことを好感し、加権指数は前日比142.6ポイント高の4万5975.22ポイントで取引を終えた。寄り付き直後には一時46400ポイントを突破する場面も見られた。",
-      "source": "中央社(CNA)",
-      "link": "https://www.cna.com.tw/news/afe/202608270156.aspx"
+      "title": "シャオミ、1万mAhバッテリー搭載「Redmi Note 17 Pro Max」を日本発売",
+      "summary": "Xiaomiは28日、大容量1万mAhバッテリーを搭載したミドルレンジスマートフォン「REDMI Note 17 Pro Max 5G」の日本版を発売開始。価格は7万9980円からで、10月14日までの早期購入特典もある。",
+      "source": "ケータイWatch",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2133514.html"
     }
   ],
   "x_trending_tech": [
     {
-      "title": "NVIDIAによるHugging Face買収、「あっという間に決着」との速報",
-      "summary": "8/27午前10時35分頃の投稿。AI業界ウォッチャーのAndrew Curran氏が、The InformationによるNVIDIAのHugging Face買収(129億ドル)報道を受け「話が急展開した」と速報。",
-      "source": "@AndrewCurran_",
-      "link": "https://x.com/AndrewCurran_/status/2092788129052909831"
+      "title": "Google公式、動画生成AI「Gemini Omni 1.1 Flash」を発表",
+      "summary": "8/28未明(日本時間1時頃)の投稿。Google AI公式アカウントが新しい動画生成・編集モデル「Gemini Omni 1.1 Flash」を発表。4Kアップスケールやシーン延長など新機能を紹介。",
+      "source": "@GoogleAI",
+      "link": "https://x.com/GoogleAI/status/2093008576487072064"
     },
     {
-      "title": "Hugging Face買収劇、投資家の利益配分を分析した投稿が話題",
-      "summary": "8/27夜(日本時間21時頃)の投稿。NVIDIAによるHugging Face買収(約129億ドル)について、既存投資家が少額の出資から巨額の利益を得る構図を分析。Lux Capitalが最大の勝者と指摘。",
-      "source": "@P_Bonnet",
-      "link": "https://x.com/P_Bonnet/status/2092946471989465470"
+      "title": "AI速報アカウントが「Gemini Omni 1.1 Flash」正式発表を速報",
+      "summary": "8/28未明(日本時間1時20分頃)の投稿。AI情報アカウントTestingCatalogが、Gemini Omni 1.1 FlashがGemini APIとGoogle AI Studioで利用可能になったことを速報。",
+      "source": "@testingcatalog",
+      "link": "https://x.com/testingcatalog/status/2093012163715563624"
+    },
+    {
+      "title": "NHK、高市首相が28日にAI指導を受けると速報",
+      "summary": "8/27夜(日本時間21時50分頃)の投稿。NHKニュース公式アカウントが、高市首相が28日にAIの指導を受け、講師はチームみらいの安野貴博党首らが務めると速報。",
+      "source": "@nhk_news",
+      "link": "https://x.com/nhk_news/status/2092958826496749945"
+    },
+    {
+      "title": "ケビン・デュラント氏、Hugging Face早期投資が2万4000%の含み益に",
+      "summary": "8/28未明(日本時間3時35分頃)の投稿。予測市場Polymarketが、NBA選手ケビン・デュラント氏の25万ドルのHugging Face早期投資が、NVIDIAによる買収報道を受け6000万ドル超(約2万4000%増)に膨らんだと伝え話題に。",
+      "source": "@Polymarket",
+      "link": "https://x.com/Polymarket/status/2093046638549819520"
     }
   ]
 }
