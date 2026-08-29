@@ -1,91 +1,67 @@
 {
-  "run_label": "8/29 07:00",
+  "run_label": "8/29 19:00",
   "politics_economy": [
     {
-      "title": "横浜市長・山中竹春氏がパワハラ問題で辞意表明",
-      "summary": "横浜市の山中竹春市長は28日、パワハラ行為が第三者委員会の調査で認定されたことを受け、自身の後援会会合で辞意を表明した。自民・公明・立憲民主の会派が辞職を要求していた。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026082800156&g=pol"
+      "title": "高市首相、来年度の新規国債発行額「40兆円程度」に抑制する方針を表明",
+      "summary": "高市早苗首相は8月28日、2027年度予算編成をめぐり市場の信認確保を意識し、新規国債発行額を今年度の当初・補正合算(約32.7兆円)に近い40兆円程度に抑える方針を具体化した。概算要求が130兆円超と過去最大規模になる中、財政規律への懸念を払拭する狙い。",
+      "source": "Bloomberg(Yahoo!ファイナンス)",
+      "link": "https://finance.yahoo.co.jp/news/detail/98e52ff2e8f13a3ad83910c64c6d87a937b41b16"
     },
     {
-      "title": "円相場が一時1ドル=160円台に、ウォーシュFRB議長のタカ派発言で円安加速",
-      "summary": "28日のニューヨーク外国為替市場で円相場は対ドルで一時160円台前半まで下落した。日米が協調為替介入に踏み切った7月末以降で初の160円台となった(29日未明)。",
+      "title": "超党派訪中団に中国側「高市首相の台湾答弁変わらぬ限り対日政策変えず」と伝達",
+      "summary": "中国を訪問した中道改革連合の伊佐進一氏ら超党派議員団は8月27日、中国共産党中央対外連絡部の陸慷副部長と会談し、台湾有事をめぐる高市首相の国会答弁について「発言や認識が変わらない限り政策を変えるつもりはない」と伝えられたと28日に報じられた。",
+      "source": "毎日新聞(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/1080b47ca28ba8563c17809c98328588dbee4d98"
+    },
+    {
+      "title": "今年上半期の出生数、11年ぶりに増加 34万2000人",
+      "summary": "厚生労働省は8月28日、2026年1〜6月の出生数(概数)が34万2068人で前年同期比0.8%増となり、上半期としては2015年以来11年ぶりの増加に転じたと発表した。婚姻数の増加が押し上げ要因とみられ、少子化の下げ止まりの兆候として注目されている。",
+      "source": "時事通信(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/63e5e265d6f3374e6c4fc6b5e403ca1e8634fb59"
+    },
+    {
+      "title": "東京都区部消費者物価、8月は1.8%上昇 7カ月連続で日銀目標の2%割れ",
+      "summary": "総務省が8月28日発表した8月の東京都区部消費者物価指数(生鮮食品除く)は前年同月比1.8%上昇となり、7カ月連続で日銀目標の2%を下回った。全国の物価動向を先取りする指標として、日銀の次回利上げ判断への影響が注目されている。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOGN28AGA0Y6A820C2000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOUA275DA0X20C26A8000000/"
     },
     {
-      "title": "FRBウォーシュ議長、ジャクソンホールで追加利上げ示唆 9月利上げ観測強まる",
-      "summary": "米FRBのウォーシュ議長は28日、就任後初となるジャクソンホール会議での講演で、インフレ抑制に向け「やるべき仕事がある」と述べ、追加利上げの可能性に言及した。",
-      "source": "ロイター(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/e6c9b767a3a5d165746499d5f2bd014e1f088ad1"
-    },
-    {
-      "title": "立憲民主党、中道改革連合・公明との早期合流を見送り",
-      "summary": "立憲民主党は28日、中道改革連合・公明党との3党党首会談で、早期の合流は行わない方針を伝達した。3党間の連携のあり方は今後も協議を続ける。",
-      "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260828de46878"
-    },
-    {
-      "title": "8月に台風9個発生、\"トリプル台風\"に 60年ぶりペース",
-      "summary": "28日正午、台風23号「バンラン」がウェーク島近海で発生し、18号・22号と合わせ3つの台風が同時発生する事態に。8月の発生数は9個に達し、10個目が出れば1966年8月以来60年ぶりとなる。",
-      "source": "日本気象協会 tenki.jp",
-      "link": "https://tenki.jp/forecaster/deskpart/2026/08/28/40352.html"
+      "title": "為替介入、月間で過去最大の15兆3993億円 財務省が7月末〜8月分を公表",
+      "summary": "財務省は8月28日、7月30日から8月26日にかけて実施した円買い・ドル売り介入の総額が15兆3993億円に上り、月間ベースで過去最大を更新したと発表した。期間中には日米協調介入も実施されたとみられ、歴史的円安への対応が続いている。",
+      "source": "時事通信(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/fbc7d06de66ef5888e37286c5a93de0844a6f6eb"
     }
   ],
   "tech": [
     {
-      "title": "英マンチェスター空港運営大手にサイバー攻撃、顧客870万人分のデータ流出",
-      "summary": "マンチェスター、スタンステッド、イーストミッドランズの3空港を運営するMAGがサイバー攻撃を受け、WiFi登録情報やメールアドレスなど約870万人分の顧客データが流出した(28日発覚)。攻撃者の身代金要求には応じなかったという。",
-      "source": "IT Security Guru",
-      "link": "https://www.itsecurityguru.org/2026/08/28/manchester-airports-group-cyberattack/"
+      "title": "Anthropic研究者、AIによる「自己改善」の実例を提示",
+      "summary": "Anthropicは2026年8月28日(日本時間29日未明)、自動化されたAI研究者が10種類のアライメント失敗のベンチマーク全てで性能を改善したとする論文を発表。最良の手法は平均6時間で経験豊富な人間研究者を上回る成果を示し、再帰的な自己改善への一歩として注目されている。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/"
     },
     {
-      "title": "アリババクラウド、ブラジルに南米初のクラウドリージョン開設",
-      "summary": "アリババクラウドは28日、ブラジルで2つのデータセンターから成る同社初の南米向けクラウドリージョンを稼働開始したと発表。今後はエージェント型AIサービスも順次投入する計画。",
-      "source": "Data Center Dynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/alibaba-brazil/"
+      "title": "医薬品卸大手マッケソン、ハッカー集団の情報流出を公表",
+      "summary": "米医薬品・医療機器卸大手マッケソンが2026年8月28日、サードパーティアプリへの不正アクセスによるサイバー被害を公表。恐喝集団ShinyHuntersは患者データ約2億8400万件を窃取したと主張し、5520万ドルの身代金を要求しているという。",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/mckesson-discloses-breach-after-shinyhunters-claims-patient-data-theft/"
     },
     {
-      "title": "Meta、スマートグラスの隠し撮り防止機能の抜け穴を再び封鎖",
-      "summary": "Metaはレイバン等のスマートグラスで、録画開始後にプライバシーLEDを覆っても撮影が続けられる抜け穴を塞ぐアップデートを28日までに展開。LEDが覆われたことを検知すると自動的に撮影を停止する。",
-      "source": "9to5Google",
-      "link": "https://9to5google.com/2026/08/28/meta-ray-ban-smart-glasses-privacy-led-loophole-update/"
+      "title": "オープンウェイトAI企業がシリコンバレーで争奪戦の的に",
+      "summary": "TechCrunchが2026年8月28日、NvidiaによるHugging Face(130億ドル規模)買収交渉を筆頭に、Poolsideへの60億ドル出資やStripeによるOpenRouter買収など、オープンウェイトAIモデル企業がテック大手の買収標的として急浮上している動向を分析した。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/"
     },
     {
-      "title": "Marvell、好決算も株価急落 Google向けチップの収益化は2029年度に本格化",
-      "summary": "半導体大手Marvellは27日発表の四半期決算で売上高が前年比37%増の過去最高を記録したが、Googleとのカスタムチップ提携の大きな収益貢献は2029年度からとの見通しが嫌気され、28日の株価は急落した。",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/08/28/marvell-mrvl-q2-earnings-outlook.html"
+      "title": "EU AI法の運用がいよいよ本格化",
+      "summary": "Axiosが2026年8月28日、8月2日発効の透明性規制(AI生成物の開示義務など)を受けてEU AI法が実効段階に入ったと報じた。高リスクAI分野への規制はさらに2027年12月以降段階的に適用される見通し。",
+      "source": "Axios",
+      "link": "https://www.axios.com/2026/08/28/eu-ai-act-gets-real"
     },
     {
-      "title": "Nvidia、AIクラウド企業向けの収益分配型融資を一時停止",
-      "summary": "Nvidiaが独禁当局の懸念に配慮し、中小AIクラウド事業者向けに導入したばかりの収益分配型資金支援プログラムの一部案件を一時停止したと27日、ウォール・ストリート・ジャーナルが報じた。",
-      "source": "Benzinga",
-      "link": "https://www.benzinga.com/markets/tech/26/08/61486472/nvidia-reportedly-pauses-revenue-sharing-deals-with-ai-cloud-companies-amid-antitrust-concerns"
-    },
-    {
-      "title": "Nvidia、2027年出荷のAIサーバー価格を15%超値上げへ メモリー高騰で",
-      "summary": "Nvidiaのサーバー受託製造各社が主要顧客に対し、DRAMやHBMの価格高騰を理由にVera RubinやGrace Blackwell搭載システムの価格を2027年初め出荷分から15%超引き上げると通知したことが分かった。",
-      "source": "Tech Times",
-      "link": "https://www.techtimes.com/articles/325718/20260827/memory-will-cost-cloud-giants-more-gpus-2027-nvidia-uses-that-justify-15-server-hike.htm"
-    },
-    {
-      "title": "キオクシア社長、岩手新棟の稼働時期「年単位で前倒し」",
-      "summary": "キオクシアの社長は、AI需要の拡大がメモリー需要の想定を上回っているとして、岩手県北上市に建設中の新製造棟の稼働開始時期を当初計画より年単位で前倒しする考えを示した(27日)。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUC279TT0X20C26A8000000/"
-    },
-    {
-      "title": "高市首相、チームみらい安野氏を\"AIの家庭教師\"にアプリ作成を体験",
-      "summary": "高市首相は28日午後、官邸でチームみらいの安野貴博党首らからAIの指導を受け、生成AIを使ったアプリ作成を体験した。5月の党首討論での「AIの家庭教師」の約束が実現した形。",
-      "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260828de47070"
-    },
-    {
-      "title": "AI問い合わせ対応の「Helpfeel」、26億円を調達",
-      "summary": "生成AIを活用した問い合わせ対応サービスを手がけるHelpfeel(京都市)が、ベンチャーキャピタル等を引受先とする第三者割当増資で26億円を調達したと発表した。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUC3026R0Q5A830C2000000/"
+      "title": "国産ヒューマノイドAIロボット企業アトム、豊洲にデータ収集拠点「フィジカルAIファウンドリ」開設",
+      "summary": "ヒューマノイドAIロボットを開発するアトムは8月28日までに、東京・豊洲に学習データ生産拠点「アトム フィジカルAIファウンドリ」を開設したと発表。約1,700㎡の施設で将来的に200台規模のロボットを稼働させ、累計30万時間分の学習データ生産を目指す。",
+      "source": "クラウド Watch",
+      "link": "https://cloud.watch.impress.co.jp/docs/news/2136299.html"
     }
   ],
   "x_trending_tech": []
