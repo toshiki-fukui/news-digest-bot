@@ -1,67 +1,67 @@
 {
-  "run_label": "8/29 19:00",
+  "run_label": "8/30 07:00",
   "politics_economy": [
     {
-      "title": "高市首相、来年度の新規国債発行額「40兆円程度」に抑制する方針を表明",
-      "summary": "高市早苗首相は8月28日、2027年度予算編成をめぐり市場の信認確保を意識し、新規国債発行額を今年度の当初・補正合算(約32.7兆円)に近い40兆円程度に抑える方針を具体化した。概算要求が130兆円超と過去最大規模になる中、財政規律への懸念を払拭する狙い。",
-      "source": "Bloomberg(Yahoo!ファイナンス)",
-      "link": "https://finance.yahoo.co.jp/news/detail/98e52ff2e8f13a3ad83910c64c6d87a937b41b16"
+      "title": "NY市場で円一時160円台前半に下落、FRB議長発言で利上げ観測強まる",
+      "summary": "8月28日のニューヨーク外国為替市場で、円相場は対ドルで一時1ドル=160円台前半まで下落。FRBのウォーシュ議長が講演で追加利上げの可能性を示唆したことでドル買いが加速し、7月末の日米協調介入以降で初めて160円台をつけた。",
+      "source": "ライブドアニュース(時事通信系)",
+      "link": "https://news.livedoor.com/topics/detail/32187144/"
     },
     {
-      "title": "超党派訪中団に中国側「高市首相の台湾答弁変わらぬ限り対日政策変えず」と伝達",
-      "summary": "中国を訪問した中道改革連合の伊佐進一氏ら超党派議員団は8月27日、中国共産党中央対外連絡部の陸慷副部長と会談し、台湾有事をめぐる高市首相の国会答弁について「発言や認識が変わらない限り政策を変えるつもりはない」と伝えられたと28日に報じられた。",
-      "source": "毎日新聞(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/1080b47ca28ba8563c17809c98328588dbee4d98"
-    },
-    {
-      "title": "今年上半期の出生数、11年ぶりに増加 34万2000人",
-      "summary": "厚生労働省は8月28日、2026年1〜6月の出生数(概数)が34万2068人で前年同期比0.8%増となり、上半期としては2015年以来11年ぶりの増加に転じたと発表した。婚姻数の増加が押し上げ要因とみられ、少子化の下げ止まりの兆候として注目されている。",
-      "source": "時事通信(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/63e5e265d6f3374e6c4fc6b5e403ca1e8634fb59"
-    },
-    {
-      "title": "東京都区部消費者物価、8月は1.8%上昇 7カ月連続で日銀目標の2%割れ",
-      "summary": "総務省が8月28日発表した8月の東京都区部消費者物価指数(生鮮食品除く)は前年同月比1.8%上昇となり、7カ月連続で日銀目標の2%を下回った。全国の物価動向を先取りする指標として、日銀の次回利上げ判断への影響が注目されている。",
+      "title": "大手電力・ガス10社、9月使用分は全社値上げ 補助縮小と燃料高が影響",
+      "summary": "大手電力10社は8月28日、9月使用分(10月請求分)の家庭向け電気料金を発表し全社が値上げ。政府補助の減額(9月は1kWhあたり3.5円に縮小)と中東情勢による燃料高が主因で、都市ガス4社も同時に値上がりする。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUA275DA0X20C26A8000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOUC282JE0Y6A820C2000000/"
     },
     {
-      "title": "為替介入、月間で過去最大の15兆3993億円 財務省が7月末〜8月分を公表",
-      "summary": "財務省は8月28日、7月30日から8月26日にかけて実施した円買い・ドル売り介入の総額が15兆3993億円に上り、月間ベースで過去最大を更新したと発表した。期間中には日米協調介入も実施されたとみられ、歴史的円安への対応が続いている。",
-      "source": "時事通信(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/fbc7d06de66ef5888e37286c5a93de0844a6f6eb"
+      "title": "横浜市長・山中竹春氏、パワハラ問題で辞職の意向を正式表明",
+      "summary": "横浜市の山中竹春市長は8月28日、部下へのパワーハラスメント問題を巡り後援会役員会で辞職の意向を正式に表明した。第三者調査で7項目のパワハラが認定され、自民・公明・立憲各党からも辞職を求められていた。",
+      "source": "時事通信",
+      "link": "https://www.jiji.com/jc/article?k=2026082800802&g=pol"
+    },
+    {
+      "title": "立憲民主党、中道改革連合・公明党との3党合流を見送りへ",
+      "summary": "立憲民主党は8月28日の3党党首会談で、中道改革連合・公明党との早期合流を見送る方針を伝達した。秋の臨時国会に向けた野党再編協議は当面白紙となり、31日に改めて3党首が会談する見通し。",
+      "source": "時事通信",
+      "link": "https://www.jiji.com/jc/article?k=2026082800158&g=pol"
+    },
+    {
+      "title": "日銀、9月利上げ観測が82%に急上昇 副総裁が追加引き締めの可能性に言及",
+      "summary": "日銀の氷見野副総裁の講演を受け、市場では9月17-18日の金融政策決定会合での利上げ観測が急速に高まり、OIS市場は約82%の確率を織り込んだ。植田総裁も金融環境が過度に緩和的なら利上げペース加速もあり得るとの認識を示している。",
+      "source": "ダイヤモンド・オンライン",
+      "link": "https://diamond.jp/articles/-/397733"
     }
   ],
   "tech": [
     {
-      "title": "Anthropic研究者、AIによる「自己改善」の実例を提示",
-      "summary": "Anthropicは2026年8月28日(日本時間29日未明)、自動化されたAI研究者が10種類のアライメント失敗のベンチマーク全てで性能を改善したとする論文を発表。最良の手法は平均6時間で経験豊富な人間研究者を上回る成果を示し、再帰的な自己改善への一歩として注目されている。",
+      "title": "Meta、未成年保護問題で180億ドル和解 TikTok・YouTubeにも対応迫る",
+      "summary": "Metaは8月29日までに、SNSが若者のメンタルヘルスに悪影響を与えたとする複数州との訴訟で180億ドル(うちMetaが127億ドルを負担)の和解に合意したと報じられた。未成年利用者への1日2時間の利用制限などを導入する一方、残る53億ドルの支払いはTikTokやYouTubeが同様の対策を講じることを条件としている。",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/08/29/meta-settlement-tiktok-youtube-snap-teen-safety.html"
+    },
+    {
+      "title": "欧州テック界、AI主権・統制を巡る議論が加速 TechBBQで焦点に",
+      "summary": "コペンハーゲンで開催されたスタートアップ会議TechBBQでは、投資家や創業者の間で「AIを誰がコントロールすべきか」が主要な論点となった。Anthropicのモデルが一時EU域外で利用不可となった経緯もあり、欧州のAI主権への関心の高まりが8月29日付で報じられた。",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/"
+      "link": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/"
     },
     {
-      "title": "医薬品卸大手マッケソン、ハッカー集団の情報流出を公表",
-      "summary": "米医薬品・医療機器卸大手マッケソンが2026年8月28日、サードパーティアプリへの不正アクセスによるサイバー被害を公表。恐喝集団ShinyHuntersは患者データ約2億8400万件を窃取したと主張し、5520万ドルの身代金を要求しているという。",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/mckesson-discloses-breach-after-shinyhunters-claims-patient-data-theft/"
-    },
-    {
-      "title": "オープンウェイトAI企業がシリコンバレーで争奪戦の的に",
-      "summary": "TechCrunchが2026年8月28日、NvidiaによるHugging Face(130億ドル規模)買収交渉を筆頭に、Poolsideへの60億ドル出資やStripeによるOpenRouter買収など、オープンウェイトAIモデル企業がテック大手の買収標的として急浮上している動向を分析した。",
+      "title": "Apple、Apple TV+とApple Oneのサブスク価格を値上げ",
+      "summary": "Appleは8月28日、米国でApple TV+の月額料金を12.99ドルから14.99ドルに、バンドルサービスApple Oneの料金も19.95ドルから21.95ドルに引き上げると発表した。Apple TV+の値上げは4年連続。",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/"
+      "link": "https://techcrunch.com/2026/08/28/apple-tv-is-raising-its-subscription-prices-again/"
     },
     {
-      "title": "EU AI法の運用がいよいよ本格化",
-      "summary": "Axiosが2026年8月28日、8月2日発効の透明性規制(AI生成物の開示義務など)を受けてEU AI法が実効段階に入ったと報じた。高リスクAI分野への規制はさらに2027年12月以降段階的に適用される見通し。",
-      "source": "Axios",
-      "link": "https://www.axios.com/2026/08/28/eu-ai-act-gets-real"
+      "title": "OpenAI、ChatGPT内の公式「DALL・E GPT」を8月30日に終了",
+      "summary": "OpenAIは8月30日、ChatGPT内の公式DALL・E GPTの提供を終了する。画像生成・編集機能は無料プランを含む全プランで使える「ChatGPT Images」に一本化され、ユーザーには終了前に画像の保存が呼びかけられている。",
+      "source": "Tom's Guide",
+      "link": "https://www.tomsguide.com/ai/chatgpt/you-have-until-august-30-to-save-your-chatgpt-dall-e-images-heres-how-to-avoid-losing-them-forever"
     },
     {
-      "title": "国産ヒューマノイドAIロボット企業アトム、豊洲にデータ収集拠点「フィジカルAIファウンドリ」開設",
-      "summary": "ヒューマノイドAIロボットを開発するアトムは8月28日までに、東京・豊洲に学習データ生産拠点「アトム フィジカルAIファウンドリ」を開設したと発表。約1,700㎡の施設で将来的に200台規模のロボットを稼働させ、累計30万時間分の学習データ生産を目指す。",
-      "source": "クラウド Watch",
-      "link": "https://cloud.watch.impress.co.jp/docs/news/2136299.html"
+      "title": "WatchGuard、Firebox向けVPN機能に重大脆弱性 緊急パッチを公開",
+      "summary": "WatchGuard Technologiesは8月27日、ファイアウォール製品「Firebox」のIKEv2 VPN機能に認証不要でリモートコード実行が可能な重大脆弱性(CVE-2026-13368、CVSS9.2)が見つかったとして緊急パッチをリリース。全世界の対象機器への即時適用を呼びかけている。",
+      "source": "WatchGuard Technologies",
+      "link": "https://www.watchguard.com/wgrd-psirt/advisory/wgsa-2026-00003"
     }
   ],
   "x_trending_tech": []
