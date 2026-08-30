@@ -1,67 +1,73 @@
 {
-  "run_label": "8/30 07:00",
+  "run_label": "8/30 19:00",
   "politics_economy": [
     {
-      "title": "NY市場で円一時160円台前半に下落、FRB議長発言で利上げ観測強まる",
-      "summary": "8月28日のニューヨーク外国為替市場で、円相場は対ドルで一時1ドル=160円台前半まで下落。FRBのウォーシュ議長が講演で追加利上げの可能性を示唆したことでドル買いが加速し、7月末の日米協調介入以降で初めて160円台をつけた。",
-      "source": "ライブドアニュース(時事通信系)",
-      "link": "https://news.livedoor.com/topics/detail/32187144/"
+      "title": "福井県に大雨特別警報、高市首相「身の安全確保を」と呼びかけ",
+      "summary": "気象庁は8月30日未明、福井県福井市・大野市・勝山市に大雨特別警報(レベル5)を発表。記録的豪雨で土砂崩れや道路冠水が相次ぎ、高市首相はSNSで身の安全確保を呼びかけ、官邸に情報連絡室を設置した。",
+      "source": "ABEMA TIMES(Yahoo!ニュース配信)",
+      "link": "https://news.yahoo.co.jp/articles/2caf1f6161d915d8c8d9c7a4791d95077afcfe95"
     },
     {
-      "title": "大手電力・ガス10社、9月使用分は全社値上げ 補助縮小と燃料高が影響",
-      "summary": "大手電力10社は8月28日、9月使用分(10月請求分)の家庭向け電気料金を発表し全社が値上げ。政府補助の減額(9月は1kWhあたり3.5円に縮小)と中東情勢による燃料高が主因で、都市ガス4社も同時に値上がりする。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUC282JE0Y6A820C2000000/"
+      "title": "福井・大野・勝山の3市全域に緊急安全確保、対象30万人超",
+      "summary": "記録的大雨を受け福井県は8月30日午前、福井・大野・勝山の3市全域の30万2000人余りに緊急安全確保を発令。複数の河川が氾濫危険水位を超え、住宅浸水などの被害が広がった。",
+      "source": "朝日新聞(Yahoo!ニュース配信)",
+      "link": "https://news.yahoo.co.jp/articles/0674817761b2416aa47f20e429f25e52f686c224"
     },
     {
-      "title": "横浜市長・山中竹春氏、パワハラ問題で辞職の意向を正式表明",
-      "summary": "横浜市の山中竹春市長は8月28日、部下へのパワーハラスメント問題を巡り後援会役員会で辞職の意向を正式に表明した。第三者調査で7項目のパワハラが認定され、自民・公明・立憲各党からも辞職を求められていた。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026082800802&g=pol"
+      "title": "香川県知事選挙、8月30日投開票 現職と新人3人が争う",
+      "summary": "任期満了に伴う香川県知事選挙が8月30日投開票を迎えた。現職の池田豊人氏に新人3人が挑む構図で、人口減少対策や観光振興策などが主な争点となった。",
+      "source": "8and(エイトアンド)",
+      "link": "https://8and.jp/2026/08/30/%E9%A6%99%E5%B7%9D%E7%9C%8C%E7%9F%A5%E4%BA%8B%E9%81%B8%E3%80%818%E6%9C%8830%E6%97%A5%E3%81%AF%E6%8A%95%E7%A5%A8%E6%97%A5%E3%80%82%E7%8F%BE%E8%81%B7%E3%81%A8%E6%96%B0%E4%BA%BA3%E4%BA%BA%E3%81%8C/"
     },
     {
-      "title": "立憲民主党、中道改革連合・公明党との3党合流を見送りへ",
-      "summary": "立憲民主党は8月28日の3党党首会談で、中道改革連合・公明党との早期合流を見送る方針を伝達した。秋の臨時国会に向けた野党再編協議は当面白紙となり、31日に改めて3党首が会談する見通し。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026082800158&g=pol"
-    },
-    {
-      "title": "日銀、9月利上げ観測が82%に急上昇 副総裁が追加引き締めの可能性に言及",
-      "summary": "日銀の氷見野副総裁の講演を受け、市場では9月17-18日の金融政策決定会合での利上げ観測が急速に高まり、OIS市場は約82%の確率を織り込んだ。植田総裁も金融環境が過度に緩和的なら利上げペース加速もあり得るとの認識を示している。",
-      "source": "ダイヤモンド・オンライン",
-      "link": "https://diamond.jp/articles/-/397733"
+      "title": "京セラや神戸製鋼など20社、「フィジカルAI」実用化へ企業連合",
+      "summary": "製造現場でロボットを制御する「フィジカルAI」の実用化に向け、京セラや神戸製鋼所など国内メーカー20社が企業連合を組むことが8月29日分かった。国産AI技術の産業応用加速を狙う。",
+      "source": "四国新聞社(共同通信配信)",
+      "link": "http://www.shikoku-np.co.jp/national/main/article.aspx?id=20260829000577"
     }
   ],
   "tech": [
     {
-      "title": "Meta、未成年保護問題で180億ドル和解 TikTok・YouTubeにも対応迫る",
-      "summary": "Metaは8月29日までに、SNSが若者のメンタルヘルスに悪影響を与えたとする複数州との訴訟で180億ドル(うちMetaが127億ドルを負担)の和解に合意したと報じられた。未成年利用者への1日2時間の利用制限などを導入する一方、残る53億ドルの支払いはTikTokやYouTubeが同様の対策を講じることを条件としている。",
+      "title": "ソニー・ミュージックとワーナー・チャペルがAnthropicを提訴、著作権の「大胆な侵害キャンペーン」と主張",
+      "summary": "Sony Music PublishingとWarner Chappellなど複数の音楽出版社が、AnthropicがBitTorrentで違法に楽曲を大量ダウンロードしClaudeの学習に使用したとして提訴。1曲あたり最大15万ドルの損害賠償を求めている。8月29日報道。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/"
+    },
+    {
+      "title": "OpenAI、SpaceXによるCursor買収を受けモデル提供を11月12日に終了へ",
+      "summary": "OpenAIは、AIコーディングツールCursorがイーロン・マスク率いるSpaceXに買収されたことを理由に、契約上認められた最大猶予期間をとって11月12日にモデルへのアクセスを打ち切ると発表。8月29〜30日報道。",
+      "source": "CNBC / ITmedia NEWS",
+      "link": "https://www.itmedia.co.jp/news/article/2608/30/2000000945/"
+    },
+    {
+      "title": "NvidiaのAI優位性、もはやGPUだけではない CUDAやネットワークにも広がる堀",
+      "summary": "Nvidiaの決算発表以降、投資家はGPU単体の優位性を超え、CUDAソフトウェアやネットワーク、Vera Rubinのようなシステム統合力こそが真の競争優位だと認識し始めていると分析。8月29日掲載。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/"
+    },
+    {
+      "title": "中国メモリ最大手CXMT、米国防総省の「軍事関連企業」指定取り消しを求め提訴",
+      "summary": "中国のDRAM最大手ChangXin Memory Technologies(CXMT)が、ペンタゴンの中国軍事関連企業リスト(1260Hリスト)への掲載は根拠不十分で恣意的だとして、ワシントン連邦地裁に提訴した。8月29日報道。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-29/chinese-chipmaker-cxmt-sues-pentagon-to-get-off-us-blacklist"
+    },
+    {
+      "title": "AIによる失業は実際には労働者のわずか3%、YouGov調査で判明",
+      "summary": "2026年7月30日〜8月4日に実施された米国人労働者1250人対象のYouGov調査で、ChatGPT登場から4年経ってもAIを理由に職を失ったと答えたのはわずか約3%、逆に新規に生まれた職に就いたのは約6%だったと判明。8月29日掲載。",
+      "source": "Fortune",
+      "link": "https://fortune.com/2026/08/29/ai-workers-survey-job-impact-2026/"
+    },
+    {
+      "title": "AIハイパースケーラーの社債発行ラッシュが米国債市場を「逆クラウディングアウト」",
+      "summary": "データセンターやAIチップ購入のための巨額債務発行が急拡大し、AI企業の社債が米国債の需要を奪う「逆クラウディングアウト」現象が発生、財務長官やFRB議長も懸念を表明していると報じられた。8月29日掲載。",
+      "source": "Fortune",
+      "link": "https://fortune.com/2026/08/29/us-debt-reverse-crowding-out-effect-ai-hyperscaler-bonds-treasury-yields/"
+    },
+    {
+      "title": "今週の決算が示した教訓:AI設備投資は「ゼロサムゲームではない」",
+      "summary": "Nvidia、Marvell、Salesforceなど今週の決算を総括し、AmazonがNvidia GPUを2027〜28年に追加購入すると発表したことなどを踏まえ、自社チップ開発と外部購入は共存可能だと分析。8月29日掲載。",
       "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/08/29/meta-settlement-tiktok-youtube-snap-teen-safety.html"
-    },
-    {
-      "title": "欧州テック界、AI主権・統制を巡る議論が加速 TechBBQで焦点に",
-      "summary": "コペンハーゲンで開催されたスタートアップ会議TechBBQでは、投資家や創業者の間で「AIを誰がコントロールすべきか」が主要な論点となった。Anthropicのモデルが一時EU域外で利用不可となった経緯もあり、欧州のAI主権への関心の高まりが8月29日付で報じられた。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/"
-    },
-    {
-      "title": "Apple、Apple TV+とApple Oneのサブスク価格を値上げ",
-      "summary": "Appleは8月28日、米国でApple TV+の月額料金を12.99ドルから14.99ドルに、バンドルサービスApple Oneの料金も19.95ドルから21.95ドルに引き上げると発表した。Apple TV+の値上げは4年連続。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/28/apple-tv-is-raising-its-subscription-prices-again/"
-    },
-    {
-      "title": "OpenAI、ChatGPT内の公式「DALL・E GPT」を8月30日に終了",
-      "summary": "OpenAIは8月30日、ChatGPT内の公式DALL・E GPTの提供を終了する。画像生成・編集機能は無料プランを含む全プランで使える「ChatGPT Images」に一本化され、ユーザーには終了前に画像の保存が呼びかけられている。",
-      "source": "Tom's Guide",
-      "link": "https://www.tomsguide.com/ai/chatgpt/you-have-until-august-30-to-save-your-chatgpt-dall-e-images-heres-how-to-avoid-losing-them-forever"
-    },
-    {
-      "title": "WatchGuard、Firebox向けVPN機能に重大脆弱性 緊急パッチを公開",
-      "summary": "WatchGuard Technologiesは8月27日、ファイアウォール製品「Firebox」のIKEv2 VPN機能に認証不要でリモートコード実行が可能な重大脆弱性(CVE-2026-13368、CVSS9.2)が見つかったとして緊急パッチをリリース。全世界の対象機器への即時適用を呼びかけている。",
-      "source": "WatchGuard Technologies",
-      "link": "https://www.watchguard.com/wgrd-psirt/advisory/wgsa-2026-00003"
+      "link": "https://www.cnbc.com/2026/08/29/big-lesson-from-this-weeks-earnings-ai-buildout-is-not-a-zero-sum-game.html"
     }
   ],
   "x_trending_tech": []
