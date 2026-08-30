@@ -1,73 +1,43 @@
 {
-  "run_label": "8/30 19:00",
+  "run_label": "8/31 07:00",
   "politics_economy": [
     {
-      "title": "福井県に大雨特別警報、高市首相「身の安全確保を」と呼びかけ",
-      "summary": "気象庁は8月30日未明、福井県福井市・大野市・勝山市に大雨特別警報(レベル5)を発表。記録的豪雨で土砂崩れや道路冠水が相次ぎ、高市首相はSNSで身の安全確保を呼びかけ、官邸に情報連絡室を設置した。",
-      "source": "ABEMA TIMES(Yahoo!ニュース配信)",
-      "link": "https://news.yahoo.co.jp/articles/2caf1f6161d915d8c8d9c7a4791d95077afcfe95"
+      "title": "香川県知事に池田豊人氏が再選、3新人破る",
+      "summary": "30日投開票の香川県知事選で、自民・立民・国民・公明などの推薦を受けた無所属現職の池田豊人氏(65)が19万3244票を獲得し、共産推薦の新人ら3人を破って再選を果たした。投票率は35.68%で前回を6.59ポイント上回った。8月30日夜、時事通信が配信。",
+      "source": "時事通信",
+      "link": "https://www.jiji.com/jc/article?k=2026083000361&g=pol"
     },
     {
-      "title": "福井・大野・勝山の3市全域に緊急安全確保、対象30万人超",
-      "summary": "記録的大雨を受け福井県は8月30日午前、福井・大野・勝山の3市全域の30万2000人余りに緊急安全確保を発令。複数の河川が氾濫危険水位を超え、住宅浸水などの被害が広がった。",
-      "source": "朝日新聞(Yahoo!ニュース配信)",
-      "link": "https://news.yahoo.co.jp/articles/0674817761b2416aa47f20e429f25e52f686c224"
+      "title": "福井大雨、22河川が氾濫し病院も浸水",
+      "summary": "福井県内で29日夜から30日にかけて記録的な大雨となり、県内22河川が氾濫、市街地や病院も浸水するなど被害が拡大した。毎日新聞が8月30日配信。",
+      "source": "毎日新聞(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/9e52dcc8f944faa024544c5e90cfe546aa516da2"
     },
     {
-      "title": "香川県知事選挙、8月30日投開票 現職と新人3人が争う",
-      "summary": "任期満了に伴う香川県知事選挙が8月30日投開票を迎えた。現職の池田豊人氏に新人3人が挑む構図で、人口減少対策や観光振興策などが主な争点となった。",
-      "source": "8and(エイトアンド)",
-      "link": "https://8and.jp/2026/08/30/%E9%A6%99%E5%B7%9D%E7%9C%8C%E7%9F%A5%E4%BA%8B%E9%81%B8%E3%80%818%E6%9C%8830%E6%97%A5%E3%81%AF%E6%8A%95%E7%A5%A8%E6%97%A5%E3%80%82%E7%8F%BE%E8%81%B7%E3%81%A8%E6%96%B0%E4%BA%BA3%E4%BA%BA%E3%81%8C/"
-    },
-    {
-      "title": "京セラや神戸製鋼など20社、「フィジカルAI」実用化へ企業連合",
-      "summary": "製造現場でロボットを制御する「フィジカルAI」の実用化に向け、京セラや神戸製鋼所など国内メーカー20社が企業連合を組むことが8月29日分かった。国産AI技術の産業応用加速を狙う。",
-      "source": "四国新聞社(共同通信配信)",
-      "link": "http://www.shikoku-np.co.jp/national/main/article.aspx?id=20260829000577"
+      "title": "高市内閣支持率62%に上昇、日経・テレ東世論調査",
+      "summary": "日本経済新聞社とテレビ東京が8月28〜30日に実施した世論調査で、高市早苗内閣の支持率は62%となり、7月の前回調査から4ポイント上昇した。不支持は32%で5ポイント低下。8月30日発表。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUA2682J0W6A820C2000000/"
     }
   ],
   "tech": [
     {
-      "title": "ソニー・ミュージックとワーナー・チャペルがAnthropicを提訴、著作権の「大胆な侵害キャンペーン」と主張",
-      "summary": "Sony Music PublishingとWarner Chappellなど複数の音楽出版社が、AnthropicがBitTorrentで違法に楽曲を大量ダウンロードしClaudeの学習に使用したとして提訴。1曲あたり最大15万ドルの損害賠償を求めている。8月29日報道。",
+      "title": "マスク氏、SpaceXの新鋳造工場でガスタービン量産へ AI電力不足解消も汚染問題浮上",
+      "summary": "イーロン・マスク氏はSpaceXの新鋳造工場でガスタービン部品を自社生産し、AIデータセンター向け電源確保を従来より18か月早く実現できると表明。一方、メンフィスのデータセンターでは大気汚染を巡り批判が出ている。8月30日(米国時間)報道。",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/"
+      "link": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/"
     },
     {
-      "title": "OpenAI、SpaceXによるCursor買収を受けモデル提供を11月12日に終了へ",
-      "summary": "OpenAIは、AIコーディングツールCursorがイーロン・マスク率いるSpaceXに買収されたことを理由に、契約上認められた最大猶予期間をとって11月12日にモデルへのアクセスを打ち切ると発表。8月29〜30日報道。",
-      "source": "CNBC / ITmedia NEWS",
-      "link": "https://www.itmedia.co.jp/news/article/2608/30/2000000945/"
-    },
-    {
-      "title": "NvidiaのAI優位性、もはやGPUだけではない CUDAやネットワークにも広がる堀",
-      "summary": "Nvidiaの決算発表以降、投資家はGPU単体の優位性を超え、CUDAソフトウェアやネットワーク、Vera Rubinのようなシステム統合力こそが真の競争優位だと認識し始めていると分析。8月29日掲載。",
+      "title": "ロボタクシーのテストドライバーに負傷相次ぐ、Waymo・Zooxで20件超",
+      "summary": "WaymoとZooxの自動運転車テストドライバーが2024〜2025年に急ブレーキなど車両の急な動きによりむち打ちなど20件超の負傷を負っていたことが判明。数か月間の休業を余儀なくされた例もあった。8月30日、TechCrunch Mobilityが報道。",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/"
+      "link": "https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/"
     },
     {
-      "title": "中国メモリ最大手CXMT、米国防総省の「軍事関連企業」指定取り消しを求め提訴",
-      "summary": "中国のDRAM最大手ChangXin Memory Technologies(CXMT)が、ペンタゴンの中国軍事関連企業リスト(1260Hリスト)への掲載は根拠不十分で恣意的だとして、ワシントン連邦地裁に提訴した。8月29日報道。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-29/chinese-chipmaker-cxmt-sues-pentagon-to-get-off-us-blacklist"
-    },
-    {
-      "title": "AIによる失業は実際には労働者のわずか3%、YouGov調査で判明",
-      "summary": "2026年7月30日〜8月4日に実施された米国人労働者1250人対象のYouGov調査で、ChatGPT登場から4年経ってもAIを理由に職を失ったと答えたのはわずか約3%、逆に新規に生まれた職に就いたのは約6%だったと判明。8月29日掲載。",
-      "source": "Fortune",
-      "link": "https://fortune.com/2026/08/29/ai-workers-survey-job-impact-2026/"
-    },
-    {
-      "title": "AIハイパースケーラーの社債発行ラッシュが米国債市場を「逆クラウディングアウト」",
-      "summary": "データセンターやAIチップ購入のための巨額債務発行が急拡大し、AI企業の社債が米国債の需要を奪う「逆クラウディングアウト」現象が発生、財務長官やFRB議長も懸念を表明していると報じられた。8月29日掲載。",
-      "source": "Fortune",
-      "link": "https://fortune.com/2026/08/29/us-debt-reverse-crowding-out-effect-ai-hyperscaler-bonds-treasury-yields/"
-    },
-    {
-      "title": "今週の決算が示した教訓:AI設備投資は「ゼロサムゲームではない」",
-      "summary": "Nvidia、Marvell、Salesforceなど今週の決算を総括し、AmazonがNvidia GPUを2027〜28年に追加購入すると発表したことなどを踏まえ、自社チップ開発と外部購入は共存可能だと分析。8月29日掲載。",
+      "title": "来週の米株式市場、ブロードコム好決算の余波とパロアルトのAI決算・雇用統計に注目",
+      "summary": "CNBCは来週の米株式市場の注目点として、AI半導体需要を追い風にしたブロードコムの決算内容、9月1日発表予定のパロアルトネットワークスによるAIセキュリティ需要動向、週内発表の雇用統計を挙げた。8月30日掲載。",
       "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/08/29/big-lesson-from-this-weeks-earnings-ai-buildout-is-not-a-zero-sum-game.html"
+      "link": "https://www.cnbc.com/2026/08/30/here-are-the-3-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html"
     }
   ],
   "x_trending_tech": []
