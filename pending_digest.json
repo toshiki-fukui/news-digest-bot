@@ -1,79 +1,79 @@
 {
-  "run_label": "8/31 19:00",
+  "run_label": "9/1 07:00",
   "politics_economy": [
     {
-      "title": "政府・日銀、円買い介入後の31日は160円台に戻す 日銀は政策金利据え置き、長期金利は約30年ぶり高水準",
-      "summary": "政府・日銀は30日夜、3カ月ぶりとなる円買い為替介入に踏み切り円が対ドルで一時5円急騰したが、31日の東京市場では160円20銭から159円73銭まで軟調に推移し介入前の水準に近づいた。同日の日銀金融政策決定会合では政策金利を据え置き。国内債券市場では新発10年物国債利回りが一時2.950%と1996年9月以来およそ30年ぶりの高水準をつけた。",
-      "source": "財経新聞",
-      "link": "https://www.zaikei.co.jp/article/20260831/867994.html"
-    },
-    {
-      "title": "日経平均、31日終値は93円安の6万6311円 一時1500円超安から急速に下げ幅縮小",
-      "summary": "31日の東京株式市場で日経平均株価は、前週末の米国株安や長期金利上昇を受け朝方に一時1500円超下落し節目の6万5000円を割り込む場面があったが、売られ過ぎ感からの買い戻しで下げ幅を縮小し、前週末比93円63銭安の6万6311円93銭で取引を終えた。",
-      "source": "財経新聞",
-      "link": "https://www.zaikei.co.jp/article/20260831/868019.html"
-    },
-    {
-      "title": "横浜市長選、10月4日告示・18日投開票に正式決定 パワハラ問題で前市長辞職",
-      "summary": "横浜市選挙管理委員会は31日、パワハラ問題で辞職した山中竹春前市長の後任を選ぶ市長選の日程を10月4日告示、18日投開票とすることを正式決定した。山中氏は自身の出馬の可否について態度を明らかにしていない。",
+      "title": "日米財務相が会談、G20で為替・金利動向を協議",
+      "summary": "8月31日、米ノースカロライナ州アッシュビルで開催中のG20財務相・中央銀行総裁会議に合わせ、ベッセント米財務長官と片山さつき財務相が会談。7月末の日米協調円買い介入の効果や、世界的に上昇する長期金利について意見を交わした。",
       "source": "共同通信(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/5a5e4e9600b7fbc145d359dd9dd1bbaa6f15fc50"
+      "link": "https://news.yahoo.co.jp/articles/fb7cb47ed2562708db9faebbea9020376bb8d7a5"
     },
     {
-      "title": "福井の記録的大雨、一夜明け片付け作業続く 22河川氾濫の爪痕",
-      "summary": "福井県内で29日夜から30日にかけて観測した記録的大雨により県内22河川が氾濫し市街地や病院が浸水するなど被害が拡大した。31日は坂井市など被災地各地で住民らが一夜明けの片付け作業に追われた。",
-      "source": "NHKニュース",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260831de47359"
+      "title": "9月最初の台風24号、週後半にかけて発生・接近の見込み",
+      "summary": "8月31日19時更新の気象情報によると、南方の熱帯低気圧が24時間以内に台風24号へ発達する見込みで、沖縄・奄美方面へ北上し、週後半には秋雨前線と絡んで大雨をもたらす恐れがある。",
+      "source": "ウェザーマップ(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/cdabdc187004bf7ce5a60a6bf2a4fd4d01773c10"
     },
     {
-      "title": "日本の南の熱帯低気圧、24時間以内に台風24号へ発達の見込み",
-      "summary": "気象庁は31日午前9時時点で、日本の南をゆっくり西北西に進む熱帯低気圧について24時間以内に台風に発達する見込みだと発表した。発生すれば今年の台風24号となり、9月4日頃には九州の南まで進む可能性がある。大きくは発達しない見込みだが今後の進路情報に注意が必要。",
-      "source": "ウェザーニュース",
-      "link": "https://weathernews.jp/news/202608/310121/"
+      "title": "NY円、ベッセント発言で追加利上げ観測強まり円買い優勢",
+      "summary": "8月31日のNY外為市場でドル円は159円90銭から159円60銭まで下落。ベッセント米財務長官の発言を受け日銀の追加利上げ観測が意識され円買いが優勢となる一方、中東情勢緊迫化で原油高・ドル買いも交錯した(9/1未明報道)。",
+      "source": "財経新聞",
+      "link": "https://www.zaikei.co.jp/article/20260901/868053.html"
+    },
+    {
+      "title": "壱番屋、非公開化検討報道でストップ高",
+      "summary": "8月31日、親会社ハウス食品グループが「ココイチ」運営の壱番屋の非公開化を含む選択肢を検討していると伝わり、壱番屋株が制限値幅上限(ストップ高)まで買われた。いわゆる「親子上場」解消の思惑が広がっている。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOFL310RU0R30C26A8000000/"
     }
   ],
   "tech": [
     {
-      "title": "SK hynix、宮城県での半導体メモリ工場合弁を検討 AI需要拡大に対応",
-      "summary": "SK hynixはAI需要の急拡大に対応するため、宮城県でメモリ半導体工場を合弁で建設する構想の実現可能性を検討していることが31日分かった。実現すればマイクロン、TSMCに続き日本で稼働する3社目の海外半導体メーカーとなる見通しで、投資規模は数兆円規模になる可能性がある。",
-      "source": "Bloomberg / Japan Times",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-31/sk-hynix-weighs-japan-memory-fab-partnership-to-supply-ai-boom"
+      "title": "アップルCEO交代、ティム・クック氏が退任しジョン・ターナス氏に",
+      "summary": "8/31、ティム・クック氏がアップルCEOを退任し会長職へ。翌9/1付でジョン・ターナス氏が新CEOに就任し、低迷するSiri刷新(Google Gemini技術活用)などAI戦略の立て直しが最初の大きな課題となる。",
+      "source": "Fortune",
+      "link": "https://fortune.com/2026/08/31/apple-new-ceo-john-ternus-tim-cook-ai-competition-corporate-succession/"
     },
     {
-      "title": "Nvidia、ローカルAI処理の最大の競合はAppleと認識 OpenAIはMacを大量購入、Anthropicも活用",
-      "summary": "米The Information(31日報道)によると、OpenAIは強化学習ワークロード向けに数万台規模のMac miniやMac Studioを密かに購入しており、AnthropicもAWS経由でMacリソースを利用していることが判明。Nvidiaはオンデバイス処理の分野でAppleを最大の競合とみなし始めているという。",
-      "source": "The Information(Techmeme経由)",
-      "link": "https://www.techmeme.com/260830/p8"
+      "title": "SEMICON Taiwan 2026開幕、AI半導体の新ボトルネックは「配線」",
+      "summary": "8/31に台北で開幕した国際半導体展示会SEMICON Taiwan 2026で、AIシステムはデータ移動が演算そのものより多くの電力を消費し得るとの指摘があり、チップ単体の性能よりシステム配線・パッケージングが新たな制約になっているとの議論が焦点に。",
+      "source": "Tech Times",
+      "link": "https://www.techtimes.com/articles/326056/20260831/semicon-taiwan-2026-kicks-off-ai-chips-bottleneck-wires-connecting-them.htm"
     },
     {
-      "title": "アップル、9月1日付でジョン・ターナス氏が新CEOに就任 ティム・クック氏は会長へ",
-      "summary": "アップルのハードウェア担当上級副社長ジョン・ターナス氏が9月1日付で新CEOに正式就任する。ティム・クック氏はCEOを退き取締役会の執行会長となる。AI時代を見据えた製品戦略の舵取り役として注目されている(31日、就任前日の解説記事)。",
-      "source": "Aroged",
-      "link": "https://www.aroged.com/2026/08/31/apple-john-ternus-will-officially-become-the-new-ceo-tomorrow-what-should-we-expect/"
+      "title": "東京エレクトロン、AI向けメモリー需要で26年4-9月期利益予想を上方修正",
+      "summary": "東京エレクトロンは8/30、AI向けメモリー需要拡大を受け2026年4-9月期の連結純利益予想を前年同期比44%増の3490億円に上方修正。31日の株式市場では株価が一時13%超上昇し、半期として過去最高益となる見通し。",
+      "source": "Nikkei",
+      "link": "https://www.nikkei.com/article/DGXZQOFL310KR0R30C26A7000000/"
     },
     {
-      "title": "アップルが2nmチップ「M6」搭載Mac miniを発表、MediaTekはGoogleのTPU受注 半導体業界週間まとめ",
-      "summary": "DIGITIMESの週間まとめ(31日)によると、アップルはTSMCの2nmプロセスを採用した初のチップ「M6」を新型Mac miniに搭載して発表。MediaTekはGoogleのカスタムAIチップ(TPU)の受注を獲得したと報じられたほか、米国が韓国企業の半導体投資に圧力を強めている動きも伝えられた。",
-      "source": "DIGITIMES",
-      "link": "https://www.digitimes.com/news/a20260831VL200/2nm-apple-capacity-expansion-mediatek-semiconductor-industry.html"
+      "title": "サムスン・SKハイニックス株下落、FRB高官のタカ派発言で利上げ懸念再燃",
+      "summary": "8/31、前週末のジャクソンホール会議でのウォーシュFRB議長のタカ派的発言を受け利上げ観測が強まり、米ハイテク株安が波及。サムスン電子・SKハイニックス株が下落しKOSPI指数も6600台に下落した。",
+      "source": "Seoul Economic Daily",
+      "link": "https://en.sedaily.com/finance/2026/08/31/samsung-electronics-sk-hynix-slide-2-percent-as-kospi-drops"
     },
     {
-      "title": "クアルコム、9月1日からチップ価格を引き上げへ TSMCの生産逼迫が影響",
-      "summary": "クアルコムは、TSMCの生産能力逼迫によるコスト上昇分をこれ以上吸収できなくなったとして、9月1日からチップ価格を引き上げると発表した。代替調達先の確保も難航しており、次期スマートフォンなど端末価格への影響が懸念されている。",
-      "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/technology/articles/qualcomm-set-ratchet-chip-prices-223848048.html"
+      "title": "エヌビディア、MediaTekに35億ドル出資 AIチップ連合を強化",
+      "summary": "エヌビディアが台湾MediaTekに転換社債を通じて35億ドルを出資すると発表(2026年8月31日)。NVLink Fusionの採用拡大やAIデータセンター、PC・車載向けチップでの協業を深め、カスタムAIチップ開発が進む中でインターコネクト技術の地位を固める狙い。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/"
     },
     {
-      "title": "AIチャットボット、海外発の偽情報を見破る精度は検索エンジンより高いとNPR調査",
-      "summary": "NPRとNewsGuardの調査(30日公開)によると、ChatGPT・Gemini・Copilot・Meta AI・Grok・Claudeの主要チャットボット6種は、中国・イラン・ロシア発とされる偽情報30件のテストで約4分の3を正しく否定でき、大手検索エンジンよりも偽情報の拡散阻止能力が高かった。",
-      "source": "NPR",
-      "link": "https://www.npr.org/2026/08/30/nx-s1-5876436/chatbots-search-propaganda"
+      "title": "マイクロソフトOutlookとOpenAI ChatGPT Workが同時に障害",
+      "summary": "2026年8月31日、Microsoft Exchange Online/Outlookで数万人規模のメール送受信・認証障害が発生したのとほぼ同時に、OpenAIのChatGPT Work機能でも遅延・エラーが多発し利用不能になった。",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/08/31/microsoft-outlook-and-openais-chatgpt-work-experience-outages-.html"
     },
     {
-      "title": "Anthropic、インフォスティーラー型マルウェアによるClaudeセッション乗っ取り被害を警告",
-      "summary": "Anthropicは、端末に感染したVidar・LummaC2・StealC・RedLine・Acreed等のインフォスティーラー型マルウェア(Mac版はAtomic Stealer)がブラウザに保存されたClaudeのログインセッションを盗み、パスワードやMFAを回避して利用枠を消費する被害が起きていると警告。影響を受けたユーザーを強制ログアウトさせ、保存済み支払い情報の削除や不正利用分の返金対応を進めている。",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/"
+      "title": "インド、137億ドル規模の半導体基金でチップ設計支援を拡充",
+      "summary": "インド政府が総額134億ドルの半導体基金から、チップ設計を手がける新興企業向けに新たな助成制度を発表(2026年8月31日、Bloomberg報道)。プロジェクト費用の最大50%(上限160万ドル)を支援し、自国半導体サプライチェーン構築を加速する。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-31/india-offers-chip-design-gear-subsidy-from-13-4-billion-fund"
+    },
+    {
+      "title": "米政権、中国企業のクラウド経由AIチップ利用に規制検討",
+      "summary": "トランプ政権の商務省が、東南アジアなど海外データセンターを通じて中国のAI企業が米国製先端チップへ遠隔アクセスする「抜け穴」を塞ぐ新たな輸出規制案を検討していると2026年8月31日に報じられた。9月にも業界へ提示される可能性がある。",
+      "source": "Digitimes",
+      "link": "https://www.digitimes.com/news/a20260831VL216/chips-data-data-center-exports-hardware.html"
     }
   ],
   "x_trending_tech": []
