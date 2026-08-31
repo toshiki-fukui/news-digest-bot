@@ -1,43 +1,79 @@
 {
-  "run_label": "8/31 07:00",
+  "run_label": "8/31 19:00",
   "politics_economy": [
     {
-      "title": "香川県知事に池田豊人氏が再選、3新人破る",
-      "summary": "30日投開票の香川県知事選で、自民・立民・国民・公明などの推薦を受けた無所属現職の池田豊人氏(65)が19万3244票を獲得し、共産推薦の新人ら3人を破って再選を果たした。投票率は35.68%で前回を6.59ポイント上回った。8月30日夜、時事通信が配信。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026083000361&g=pol"
+      "title": "政府・日銀、円買い介入後の31日は160円台に戻す 日銀は政策金利据え置き、長期金利は約30年ぶり高水準",
+      "summary": "政府・日銀は30日夜、3カ月ぶりとなる円買い為替介入に踏み切り円が対ドルで一時5円急騰したが、31日の東京市場では160円20銭から159円73銭まで軟調に推移し介入前の水準に近づいた。同日の日銀金融政策決定会合では政策金利を据え置き。国内債券市場では新発10年物国債利回りが一時2.950%と1996年9月以来およそ30年ぶりの高水準をつけた。",
+      "source": "財経新聞",
+      "link": "https://www.zaikei.co.jp/article/20260831/867994.html"
     },
     {
-      "title": "福井大雨、22河川が氾濫し病院も浸水",
-      "summary": "福井県内で29日夜から30日にかけて記録的な大雨となり、県内22河川が氾濫、市街地や病院も浸水するなど被害が拡大した。毎日新聞が8月30日配信。",
-      "source": "毎日新聞(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/9e52dcc8f944faa024544c5e90cfe546aa516da2"
+      "title": "日経平均、31日終値は93円安の6万6311円 一時1500円超安から急速に下げ幅縮小",
+      "summary": "31日の東京株式市場で日経平均株価は、前週末の米国株安や長期金利上昇を受け朝方に一時1500円超下落し節目の6万5000円を割り込む場面があったが、売られ過ぎ感からの買い戻しで下げ幅を縮小し、前週末比93円63銭安の6万6311円93銭で取引を終えた。",
+      "source": "財経新聞",
+      "link": "https://www.zaikei.co.jp/article/20260831/868019.html"
     },
     {
-      "title": "高市内閣支持率62%に上昇、日経・テレ東世論調査",
-      "summary": "日本経済新聞社とテレビ東京が8月28〜30日に実施した世論調査で、高市早苗内閣の支持率は62%となり、7月の前回調査から4ポイント上昇した。不支持は32%で5ポイント低下。8月30日発表。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUA2682J0W6A820C2000000/"
+      "title": "横浜市長選、10月4日告示・18日投開票に正式決定 パワハラ問題で前市長辞職",
+      "summary": "横浜市選挙管理委員会は31日、パワハラ問題で辞職した山中竹春前市長の後任を選ぶ市長選の日程を10月4日告示、18日投開票とすることを正式決定した。山中氏は自身の出馬の可否について態度を明らかにしていない。",
+      "source": "共同通信(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/5a5e4e9600b7fbc145d359dd9dd1bbaa6f15fc50"
+    },
+    {
+      "title": "福井の記録的大雨、一夜明け片付け作業続く 22河川氾濫の爪痕",
+      "summary": "福井県内で29日夜から30日にかけて観測した記録的大雨により県内22河川が氾濫し市街地や病院が浸水するなど被害が拡大した。31日は坂井市など被災地各地で住民らが一夜明けの片付け作業に追われた。",
+      "source": "NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260831de47359"
+    },
+    {
+      "title": "日本の南の熱帯低気圧、24時間以内に台風24号へ発達の見込み",
+      "summary": "気象庁は31日午前9時時点で、日本の南をゆっくり西北西に進む熱帯低気圧について24時間以内に台風に発達する見込みだと発表した。発生すれば今年の台風24号となり、9月4日頃には九州の南まで進む可能性がある。大きくは発達しない見込みだが今後の進路情報に注意が必要。",
+      "source": "ウェザーニュース",
+      "link": "https://weathernews.jp/news/202608/310121/"
     }
   ],
   "tech": [
     {
-      "title": "マスク氏、SpaceXの新鋳造工場でガスタービン量産へ AI電力不足解消も汚染問題浮上",
-      "summary": "イーロン・マスク氏はSpaceXの新鋳造工場でガスタービン部品を自社生産し、AIデータセンター向け電源確保を従来より18か月早く実現できると表明。一方、メンフィスのデータセンターでは大気汚染を巡り批判が出ている。8月30日(米国時間)報道。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/"
+      "title": "SK hynix、宮城県での半導体メモリ工場合弁を検討 AI需要拡大に対応",
+      "summary": "SK hynixはAI需要の急拡大に対応するため、宮城県でメモリ半導体工場を合弁で建設する構想の実現可能性を検討していることが31日分かった。実現すればマイクロン、TSMCに続き日本で稼働する3社目の海外半導体メーカーとなる見通しで、投資規模は数兆円規模になる可能性がある。",
+      "source": "Bloomberg / Japan Times",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-31/sk-hynix-weighs-japan-memory-fab-partnership-to-supply-ai-boom"
     },
     {
-      "title": "ロボタクシーのテストドライバーに負傷相次ぐ、Waymo・Zooxで20件超",
-      "summary": "WaymoとZooxの自動運転車テストドライバーが2024〜2025年に急ブレーキなど車両の急な動きによりむち打ちなど20件超の負傷を負っていたことが判明。数か月間の休業を余儀なくされた例もあった。8月30日、TechCrunch Mobilityが報道。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/"
+      "title": "Nvidia、ローカルAI処理の最大の競合はAppleと認識 OpenAIはMacを大量購入、Anthropicも活用",
+      "summary": "米The Information(31日報道)によると、OpenAIは強化学習ワークロード向けに数万台規模のMac miniやMac Studioを密かに購入しており、AnthropicもAWS経由でMacリソースを利用していることが判明。Nvidiaはオンデバイス処理の分野でAppleを最大の競合とみなし始めているという。",
+      "source": "The Information(Techmeme経由)",
+      "link": "https://www.techmeme.com/260830/p8"
     },
     {
-      "title": "来週の米株式市場、ブロードコム好決算の余波とパロアルトのAI決算・雇用統計に注目",
-      "summary": "CNBCは来週の米株式市場の注目点として、AI半導体需要を追い風にしたブロードコムの決算内容、9月1日発表予定のパロアルトネットワークスによるAIセキュリティ需要動向、週内発表の雇用統計を挙げた。8月30日掲載。",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/08/30/here-are-the-3-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html"
+      "title": "アップル、9月1日付でジョン・ターナス氏が新CEOに就任 ティム・クック氏は会長へ",
+      "summary": "アップルのハードウェア担当上級副社長ジョン・ターナス氏が9月1日付で新CEOに正式就任する。ティム・クック氏はCEOを退き取締役会の執行会長となる。AI時代を見据えた製品戦略の舵取り役として注目されている(31日、就任前日の解説記事)。",
+      "source": "Aroged",
+      "link": "https://www.aroged.com/2026/08/31/apple-john-ternus-will-officially-become-the-new-ceo-tomorrow-what-should-we-expect/"
+    },
+    {
+      "title": "アップルが2nmチップ「M6」搭載Mac miniを発表、MediaTekはGoogleのTPU受注 半導体業界週間まとめ",
+      "summary": "DIGITIMESの週間まとめ(31日)によると、アップルはTSMCの2nmプロセスを採用した初のチップ「M6」を新型Mac miniに搭載して発表。MediaTekはGoogleのカスタムAIチップ(TPU)の受注を獲得したと報じられたほか、米国が韓国企業の半導体投資に圧力を強めている動きも伝えられた。",
+      "source": "DIGITIMES",
+      "link": "https://www.digitimes.com/news/a20260831VL200/2nm-apple-capacity-expansion-mediatek-semiconductor-industry.html"
+    },
+    {
+      "title": "クアルコム、9月1日からチップ価格を引き上げへ TSMCの生産逼迫が影響",
+      "summary": "クアルコムは、TSMCの生産能力逼迫によるコスト上昇分をこれ以上吸収できなくなったとして、9月1日からチップ価格を引き上げると発表した。代替調達先の確保も難航しており、次期スマートフォンなど端末価格への影響が懸念されている。",
+      "source": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/technology/articles/qualcomm-set-ratchet-chip-prices-223848048.html"
+    },
+    {
+      "title": "AIチャットボット、海外発の偽情報を見破る精度は検索エンジンより高いとNPR調査",
+      "summary": "NPRとNewsGuardの調査(30日公開)によると、ChatGPT・Gemini・Copilot・Meta AI・Grok・Claudeの主要チャットボット6種は、中国・イラン・ロシア発とされる偽情報30件のテストで約4分の3を正しく否定でき、大手検索エンジンよりも偽情報の拡散阻止能力が高かった。",
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/08/30/nx-s1-5876436/chatbots-search-propaganda"
+    },
+    {
+      "title": "Anthropic、インフォスティーラー型マルウェアによるClaudeセッション乗っ取り被害を警告",
+      "summary": "Anthropicは、端末に感染したVidar・LummaC2・StealC・RedLine・Acreed等のインフォスティーラー型マルウェア(Mac版はAtomic Stealer)がブラウザに保存されたClaudeのログインセッションを盗み、パスワードやMFAを回避して利用枠を消費する被害が起きていると警告。影響を受けたユーザーを強制ログアウトさせ、保存済み支払い情報の削除や不正利用分の返金対応を進めている。",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/"
     }
   ],
   "x_trending_tech": []
