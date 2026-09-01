@@ -1,80 +1,105 @@
 {
-  "run_label": "9/1 07:00",
+  "run_label": "9/1 19:00",
   "politics_economy": [
     {
-      "title": "日米財務相が会談、G20で為替・金利動向を協議",
-      "summary": "8月31日、米ノースカロライナ州アッシュビルで開催中のG20財務相・中央銀行総裁会議に合わせ、ベッセント米財務長官と片山さつき財務相が会談。7月末の日米協調円買い介入の効果や、世界的に上昇する長期金利について意見を交わした。",
-      "source": "共同通信(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/fb7cb47ed2562708db9faebbea9020376bb8d7a5"
-    },
-    {
-      "title": "9月最初の台風24号、週後半にかけて発生・接近の見込み",
-      "summary": "8月31日19時更新の気象情報によると、南方の熱帯低気圧が24時間以内に台風24号へ発達する見込みで、沖縄・奄美方面へ北上し、週後半には秋雨前線と絡んで大雨をもたらす恐れがある。",
-      "source": "ウェザーマップ(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/cdabdc187004bf7ce5a60a6bf2a4fd4d01773c10"
-    },
-    {
-      "title": "NY円、ベッセント発言で追加利上げ観測強まり円買い優勢",
-      "summary": "8月31日のNY外為市場でドル円は159円90銭から159円60銭まで下落。ベッセント米財務長官の発言を受け日銀の追加利上げ観測が意識され円買いが優勢となる一方、中東情勢緊迫化で原油高・ドル買いも交錯した(9/1未明報道)。",
-      "source": "財経新聞",
-      "link": "https://www.zaikei.co.jp/article/20260901/868053.html"
-    },
-    {
-      "title": "壱番屋、非公開化検討報道でストップ高",
-      "summary": "8月31日、親会社ハウス食品グループが「ココイチ」運営の壱番屋の非公開化を含む選択肢を検討していると伝わり、壱番屋株が制限値幅上限(ストップ高)まで買われた。いわゆる「親子上場」解消の思惑が広がっている。",
+      "title": "長期金利が3%に上昇、約30年ぶりの水準",
+      "summary": "9月1日、新発10年物国債利回り（長期金利の指標）が3%まで上昇し、1996年以来約30年ぶりの高水準となった。日銀の早期利上げ観測と日本の財政悪化懸念が背景。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOFL310RU0R30C26A8000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOUB010UI0R00C26A9000000/"
+    },
+    {
+      "title": "「防災の日」政府が総合防災訓練、高市首相らM8.3地震想定で対応",
+      "summary": "9月1日、政府は「防災の日」に合わせ日本海溝・千島海溝地震（M8.3、震度7）を想定した総合防災訓練を実施。高市首相を本部長とする緊急災害対策本部が設置され、北海道・青森両知事もオンライン参加した。",
+      "source": "読売新聞(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/c80f125bf146fb3b9a38b2ced13a5501b5418e03"
+    },
+    {
+      "title": "日経平均続落、96円安の6万6215円で大引け",
+      "summary": "9月1日の東京株式市場で日経平均株価は前日比96円59銭安の6万6215円34銭で取引を終了。長期金利上昇や米株安を受け上値が重い展開となった。",
+      "source": "財経新聞",
+      "link": "https://www.zaikei.co.jp/article/20260901/868174.html"
+    },
+    {
+      "title": "台風24号（クロヴァン）発生、統計開始以来2番目の早さ",
+      "summary": "9月1日午前9時、日本の南で台風24号（クロヴァン）が発生。中心気圧996hPa、最大瞬間風速25m。台風発生としては統計開始以来2番目に早い記録で、今週後半は秋雨前線の影響で大雨のおそれ。",
+      "source": "NBS長野放送(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/19076dcc28ce91a392a701749b2c9514df6d0b09"
+    },
+    {
+      "title": "壱番屋、9月1日から深夜料金・トッピング価格改定 非公開化検討も継続",
+      "summary": "ハウス食品グループによる壱番屋の非公開化検討が報じられる中、壱番屋は9月1日から深夜料金やトッピング価格を改定。原材料・物流・人件費上昇への対応としており、売却報道とは別に決定していた施策と説明。",
+      "source": "中部経済新聞",
+      "link": "https://www.chukei-news.co.jp/news/2026/09/01/OK0002609010101_03/"
     }
   ],
   "tech": [
     {
-      "title": "アップルCEO交代、ティム・クック氏が退任しジョン・ターナス氏に",
-      "summary": "8/31、ティム・クック氏がアップルCEOを退任し会長職へ。翌9/1付でジョン・ターナス氏が新CEOに就任し、低迷するSiri刷新(Google Gemini技術活用)などAI戦略の立て直しが最初の大きな課題となる。",
-      "source": "Fortune",
-      "link": "https://fortune.com/2026/08/31/apple-new-ceo-john-ternus-tim-cook-ai-competition-corporate-succession/"
-    },
-    {
-      "title": "SEMICON Taiwan 2026開幕、AI半導体の新ボトルネックは「配線」",
-      "summary": "8/31に台北で開幕した国際半導体展示会SEMICON Taiwan 2026で、AIシステムはデータ移動が演算そのものより多くの電力を消費し得るとの指摘があり、チップ単体の性能よりシステム配線・パッケージングが新たな制約になっているとの議論が焦点に。",
-      "source": "Tech Times",
-      "link": "https://www.techtimes.com/articles/326056/20260831/semicon-taiwan-2026-kicks-off-ai-chips-bottleneck-wires-connecting-them.htm"
-    },
-    {
-      "title": "東京エレクトロン、AI向けメモリー需要で26年4-9月期利益予想を上方修正",
-      "summary": "東京エレクトロンは8/30、AI向けメモリー需要拡大を受け2026年4-9月期の連結純利益予想を前年同期比44%増の3490億円に上方修正。31日の株式市場では株価が一時13%超上昇し、半期として過去最高益となる見通し。",
-      "source": "Nikkei",
-      "link": "https://www.nikkei.com/article/DGXZQOFL310KR0R30C26A7000000/"
-    },
-    {
-      "title": "サムスン・SKハイニックス株下落、FRB高官のタカ派発言で利上げ懸念再燃",
-      "summary": "8/31、前週末のジャクソンホール会議でのウォーシュFRB議長のタカ派的発言を受け利上げ観測が強まり、米ハイテク株安が波及。サムスン電子・SKハイニックス株が下落しKOSPI指数も6600台に下落した。",
-      "source": "Seoul Economic Daily",
-      "link": "https://en.sedaily.com/finance/2026/08/31/samsung-electronics-sk-hynix-slide-2-percent-as-kospi-drops"
-    },
-    {
-      "title": "エヌビディア、MediaTekに35億ドル出資 AIチップ連合を強化",
-      "summary": "エヌビディアが台湾MediaTekに転換社債を通じて35億ドルを出資すると発表(2026年8月31日)。NVLink Fusionの採用拡大やAIデータセンター、PC・車載向けチップでの協業を深め、カスタムAIチップ開発が進む中でインターコネクト技術の地位を固める狙い。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/"
-    },
-    {
-      "title": "マイクロソフトOutlookとOpenAI ChatGPT Workが同時に障害",
-      "summary": "2026年8月31日、Microsoft Exchange Online/Outlookで数万人規模のメール送受信・認証障害が発生したのとほぼ同時に、OpenAIのChatGPT Work機能でも遅延・エラーが多発し利用不能になった。",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/08/31/microsoft-outlook-and-openais-chatgpt-work-experience-outages-.html"
-    },
-    {
-      "title": "インド、137億ドル規模の半導体基金でチップ設計支援を拡充",
-      "summary": "インド政府が総額134億ドルの半導体基金から、チップ設計を手がける新興企業向けに新たな助成制度を発表(2026年8月31日、Bloomberg報道)。プロジェクト費用の最大50%(上限160万ドル)を支援し、自国半導体サプライチェーン構築を加速する。",
+      "title": "Anthropic、Nvidia出資先Lambdaと3.5兆円規模のクラウド契約",
+      "summary": "Anthropicは米Lambda（Nvidia出資先）と総額350億ドル規模のクラウド計算資源契約を締結したと報じられた。テキサス州のデータセンターはHut8が開発し、Nvidiaがリースを保有する構造。Claudeの需要拡大に対応するインフラ確保の一環（8/31報道）。",
       "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-31/india-offers-chip-design-gear-subsidy-from-13-4-billion-fund"
+      "link": "https://www.bloomberg.com/news/articles/2026-08-31/anthropic-seals-35-billion-cloud-deal-with-nvidia-backed-lambda"
     },
     {
-      "title": "米政権、中国企業のクラウド経由AIチップ利用に規制検討",
-      "summary": "トランプ政権の商務省が、東南アジアなど海外データセンターを通じて中国のAI企業が米国製先端チップへ遠隔アクセスする「抜け穴」を塞ぐ新たな輸出規制案を検討していると2026年8月31日に報じられた。9月にも業界へ提示される可能性がある。",
-      "source": "Digitimes",
-      "link": "https://www.digitimes.com/news/a20260831VL216/chips-data-data-center-exports-hardware.html"
+      "title": "アップル、OpenAIが証拠隠滅と非難 企業秘密訴訟が激化",
+      "summary": "アップルは8/31提出の裁判資料で、OpenAIに移籍した元社員がアップルの機密回路図をOpenAIでの業務に使用し、さらに同僚に証拠隠滅を指示していたとする新証拠を提示。トレードシークレット訴訟が激化している。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/"
+    },
+    {
+      "title": "米国防総省、ChatGPTとGrokを政府向けAIポータルに追加",
+      "summary": "米国防総省は8/31、機密性の高い統合AIポータル「GenAI.mil」にOpenAIの「ChatGPT Mil」とxAI/Starshieldの「Grok for Government」を追加し、Google Geminiと合わせ300万人の国防総省職員に提供開始。既に170万人が利用登録済み。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/"
+    },
+    {
+      "title": "イングランド銀行総裁、最先端AIが世界の金融安定を脅かすと警告",
+      "summary": "イングランド銀行のベイリー総裁は8/31、G20財務相・中央銀行総裁宛の書簡で、最先端AIモデルのサイバー脅威能力の高度化が金融システムに対するサイバーリスクを著しく高めていると警告した。",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/08/31/bailey-frontier-ai-financial-stability-risk.html"
+    },
+    {
+      "title": "AI長者ら支援の団体、データセンター推進の広告キャンペーンを開始",
+      "summary": "アンドリーセン氏やホロウィッツ氏、OpenAI社長ブロックマン氏らが資金を出す非営利団体「Build American AI」が、データセンター建設への反発が広がる激戦州（カンザス・オハイオ・ウィスコンシン）で数百万ドル規模の広告展開を開始（8/31報道）。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/08/31/a-group-funded-by-andreessen-horowitz-and-brockman-plan-data-center-ads-to-sway-midterms/"
+    },
+    {
+      "title": "日本政府、「人工知能戦略本部」を設置",
+      "summary": "日本政府は9月1日、5月成立のAI推進法に基づき内閣に「人工知能戦略本部」を設置。本部長は首相、AI戦略担当大臣には城内実氏を任命。AI開発・活用の促進とフェイクニュース等リスクへの対応強化を目指す。",
+      "source": "時事通信(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/5ad8fb0c136e0d32b2c539998770400c39f998cf"
+    },
+    {
+      "title": "OpenAIの広告事業、開始200日で年換算売上高10億ドルに到達",
+      "summary": "OpenAIはChatGPT上の広告事業（ChatGPT Ads）が年換算売上高10億ドルに達したと発表。開始からわずか200日での到達で急成長ぶりを示す一方、当初目標の24億ドルには届かない見通し（8/31報道）。",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/08/31/open-ai-chatgpt-ads-revenue.html"
+    },
+    {
+      "title": "アップルのフィル・シラー氏、App Store・製品発表統括から退任",
+      "summary": "アップルの古参幹部フィル・シラー氏が、App Store運営とプロダクトイベント統括の役職から退いたことが8/31判明。App Storeはエディ・キュー氏が、イベント運営はノラ・ワインスタイン氏が引き継ぐ。ティム・クック氏CEO退任・ジョン・ターナス氏新体制発足のタイミングと重なる。",
+      "source": "9to5Mac",
+      "link": "https://9to5mac.com/2026/08/31/phil-schiller-steps-down-from-leading-the-app-store-and-apple-events/"
+    },
+    {
+      "title": "TSMC、2027年の値上げ計画報道を受け株価急伸",
+      "summary": "TSMCが先端・成熟プロセス双方で5〜10%の価格引き上げを2027年から実施する方向で顧客との協議を終えたと報じられ、株価が時間外で約4%上昇。AI向け先端チップ客にはさらに10〜15%の追加サーチャージが課される見通し。",
+      "source": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tsm-stock-jumps-overnight-reports-052844936.html"
+    },
+    {
+      "title": "東京市場の半導体・AI関連株、9月1日はキオクシア高・フジクラ安",
+      "summary": "9月1日の東京株式市場では半導体・AI関連株の値動きが交錯。キオクシアホールディングスは+2.02%高となる一方、フジクラは-3.74%安。前日8/31の米半導体株高から一転、日経平均は96円安で続落した。",
+      "source": "LIMO",
+      "link": "https://limo.media/articles/-/136732"
     }
   ],
-  "x_trending_tech": []
+  "x_trending_tech": [
+    {
+      "title": "ティム・クック氏、CEO最終日にXで感謝を表明",
+      "summary": "8/31、Apple CEO最終日を迎えたティム・クック氏がXに投稿。「肩書は明日変わるが、Appleコミュニティへの愛は変わらない」と述べ、長年の支援に感謝。9/1付でジョン・ターナス新CEOに引き継がれた。",
+      "source": "@tim_cook",
+      "link": "https://x.com/tim_cook/status/2094448088199078236"
+    }
+  ]
 }
