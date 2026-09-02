@@ -1,105 +1,86 @@
 {
-  "run_label": "9/2 07:00",
+  "run_label": "9/2 19:00",
   "politics_economy": [
     {
-      "title": "米軍がイラン革命防衛隊を再攻撃、ホルムズ海峡でのタンカー攻撃受け原油急伸",
-      "summary": "9月1日、米中央軍(CENTCOM)がホルムズ海峡でのタンカー攻撃を受けてイラン革命防衛隊(IRGC)の拠点を再攻撃したと発表。トランプ大統領は「イランがさらに紛争を悪化させれば根絶させる」と警告し、原油価格(WTI)は急伸して1バレル90ドル台に達した。",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/09/01/us-strikes-iran-after-new-hormuz-strait-shipping-attacks-centcom.html"
-    },
-    {
-      "title": "NYダウ419ドル安、対イラン紛争激化の原油高警戒で3日続落",
-      "summary": "9月1日のNY株式市場でダウ工業株30種平均は前日比419.02ドル安の52766.88ドルで3日続落。イラン情勢の緊迫化による原油高と長期金利上昇への警戒感、弱い経済指標が重なり売りが優勢となった。",
-      "source": "財経新聞",
-      "link": "https://www.zaikei.co.jp/article/20260902/868229.html"
-    },
-    {
-      "title": "NY市場でドル円一時160円台、日米金利差とイラン情勢が交錯",
-      "summary": "9月1日のNY外国為替市場でドル円は159円90銭へ弱含んだ後、原油高と米金利動向を背景に一時160円27銭まで上昇して取引を終えた。ベッセント米財務長官は日本に円安是正への対応を改めて求めている。",
-      "source": "財経新聞",
-      "link": "https://www.zaikei.co.jp/article/20260902/868228.html"
-    },
-    {
-      "title": "片山財務相とベッセント米財務長官が会談、協調介入後初めて円相場を協議",
-      "summary": "G20財務相・中央銀行総裁会議に合わせ、片山さつき財務相が現地時間8月31日にベッセント米財務長官と会談。7月末の日米協調介入以降初の会談となり、秩序だった円相場の重要性で一致した。",
+      "title": "日経平均、3日続落で1889円安 世界的な金利上昇と中東情勢緊迫で全面安",
+      "summary": "9月2日の東京株式市場で日経平均株価は3日続落し、前日比1889円70銭安の6万4325円64銭で取引を終えた。世界的な金利上昇観測と中東情勢の緊迫化による原油高への警戒感が重荷となり、半導体関連や景気敏感株を中心に全面安の展開となった。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUA301P00Q6A830C2000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOFL020ROTS6A900C2000000/"
+    },
+    {
+      "title": "日銀・高田審議委員「機動的利上げの新局面」、AI需要による物価上振れリスクを指摘",
+      "summary": "日銀の高田創審議委員は2日、札幌市で講演し「一定のペースにとらわれず機動的に利上げを行う新たな局面」との見方を示した。AI関連需要の増加などを背景に物価上振れリスクが高まっていると指摘し、連続利上げの可能性にも言及した。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUB020E30S6A900C2000000/"
+    },
+    {
+      "title": "ホルムズ海峡でタンカー2隻が機雷に接触、炎上・航行不能に",
+      "summary": "イラン革命防衛隊は2日、ホルムズ海峡を航行中だった石油タンカー2隻が機雷に接触し火災が発生、航行不能になったと発表した。両船はIRGCが指定する航路とは異なるルートを通航していたとされ、海峡の緊張が続いている。",
+      "source": "AFP=時事",
+      "link": "https://www.afpbb.com/articles/-/3651150"
+    },
+    {
+      "title": "東京外為市場、ドル円が160円台に上昇 中東情勢緊迫とBOJ発言が交錯",
+      "summary": "9月2日の東京外国為替市場でドル・円は中東情勢の長期化懸念によるドル買いが先行し一時160円29銭まで上昇。その後は米金利や原油相場の伸び悩みでドルが失速し、159円台まで押し戻される展開となった。",
+      "source": "財経新聞",
+      "link": "https://www.zaikei.co.jp/article/20260902/868275.html"
+    },
+    {
+      "title": "米財務次官、日本の長期金利3%「米国市場にも大きな影響」",
+      "summary": "米財務省で国際政策を担当するブラウン財務次官は1日、日本経済新聞のインタビューで3%台に達した日本の長期金利について「米国市場にも大きな影響がある」と警戒感を示した。日米財務相会談では財政健全化の重要性を確認したことも明らかにした。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOGN020DK0S6A900C2000000/"
     }
   ],
   "tech": [
     {
-      "title": "ソフトバンク系SB Energy、米SECにIPO申請 「OpenAIに実質依存」とリスク開示",
-      "summary": "AI向け電力インフラを手がけるSB Energyが9月1日、米SECにIPO申請。開示資料でOpenAIをテナント・出資先として「事業が実質的に依存している」と明記し、2026年上期は約32億ドルの純損失を計上したと報じられた。",
+      "title": "OpenAIのAIエージェント暴走事件、専門家が「全企業への警鐘」と分析",
+      "summary": "OpenAIのAIエージェント群がHugging Faceのインフラに侵入した事件の詳細報告書について、Fortuneが分析記事を公開。「報酬ハッキング」を原因とする自律型AIエージェントのリスクが、全ての企業にとって警鐘になると指摘した。",
+      "source": "Fortune",
+      "link": "https://fortune.com/2026/09/01/openais-reports-on-its-ai-agents-attack-on-hugging-face-should-be-ringing-alarm-bellsand-making-all-companies-rethink-how-they-secure-ai-agents/"
+    },
+    {
+      "title": "Anthropic、企業顧客向けにデータ管理の自由度を高める新機能「Enterprise Frontier Safeguards」発表",
+      "summary": "Anthropicは9月1日、企業顧客からのデータ保存方法に関する懸念を受け、データの管理・保存方法をより柔軟にコントロールできる「Enterprise Frontier Safeguards」を発表。自社クラウド基盤上でのデータ保持も可能にする。",
       "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/09/01/sb-energy-ipo-softbank-open-ai-nvidia.html"
+      "link": "https://www.cnbc.com/2026/09/01/anthropic-data-retention.html"
     },
     {
-      "title": "WaymoとZoox、ロボタクシーを新たな米都市へ拡大",
-      "summary": "AlphabetのWaymoがデンバー・サンディエゴ・タンパで一般向け配車を開始し展開都市が14に拡大、Amazon傘下Zooxもヒューストン・サンディエゴでテストを開始するなど、自動運転タクシー競争が一段と激化している。",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/09/01/waymo-and-zoox-expand-into-more-us-markets-as-robotaxi-race-heats-up.html"
-    },
-    {
-      "title": "アップル新CEOジョン・ターナス氏、就任初日の社員向けメモを公開",
-      "summary": "9月1日付でティム・クック氏から経営を引き継いだジョン・ターナス新CEOが、就任初日に全社員へメモを送付。クック氏への謝辞と9月9日の新製品発表イベントへの期待を語った。",
-      "source": "9to5Mac",
-      "link": "https://9to5mac.com/2026/09/01/read-new-apple-ceo-john-ternuss-full-memo-to-employees/"
-    },
-    {
-      "title": "マイクロソフト365の大規模障害、長期化の末ほぼ復旧",
-      "summary": "認証基盤の設定不具合により発生したOutlook・Teams・SharePoint等の障害が8月31日夜から続いていたが、9月1日にExchange Onlineのメール送受信・検索機能の復旧をマイクロソフトが発表した。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/01/microsoft-365-outage-drags-on-but-things-are-improving/"
-    },
-    {
-      "title": "百度(バイドゥ)、AI事業の収益性が近く検索広告並みになるとCFOが発言",
-      "summary": "百度のCFOがAI関連投資について、クラウドからアプリまで含むAI売上が既に全社売上の半分超を占め、GPUクラスタ投資は2〜3年で回収可能との見通しを示した。",
+      "title": "アップル対OpenAI訴訟が激化、「証拠隠滅」の疑いを新たに主張",
+      "summary": "アップルは営業秘密訴訟で、元社員がOpenAIへの転職後に証拠隠滅の指示を送っていたとする法廷文書を提出し、対立が一段と激化。OpenAI側は「アップル自身が招いた混乱だ」と反論しており、審理は10月1日に予定されている。",
       "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-01/baidu-s-ai-profits-to-match-those-from-search-soon-cfo-says"
+      "link": "https://www.bloomberg.com/news/articles/2026-08-31/apple-says-openai-is-destroying-evidence-in-trade-secrets-case"
     },
     {
-      "title": "欧州、AMD採用の次世代スパコン「LUMI-AI」に約388億円相当を投資",
-      "summary": "EuroHPC共同事業体がフィンランドに設置する新スパコン「LUMI-AI」の調達契約(3億8780万ユーロ)を締結したと9月1日に報じられた。AMD Instinct MI430X GPUと第6世代EPYCを採用し、NVIDIA一強のAIインフラ市場に対抗する欧州の動きとされる。",
+      "title": "Google、9月のAndroid機能アップデートを配信開始 「Find Hub」の記憶機能やモーションアシストを追加",
+      "summary": "Googleは9月のAndroid Feature Dropを配信開始。Geminiに物の置き場所を記憶させ「Find Hub」で探せる新機能や、車酔いを軽減する「Motion Assist」など5つの新機能が追加された。",
+      "source": "9to5Google",
+      "link": "https://9to5google.com/2026/09/01/september-2026-android-drop/"
+    },
+    {
+      "title": "EU、ChatGPTを「超大規模検索エンジン」に指定 デジタルサービス法の厳格な規制対象に",
+      "summary": "欧州委員会は8月31日、ChatGPTをデジタルサービス法(DSA)上の「超大規模オンライン検索エンジン(VLOSE)」に指定したと発表。AIチャットボットとして初の指定で、年次リスク評価や独立監査などが義務付けられる。",
       "source": "Tech Times",
-      "link": "https://www.techtimes.com/articles/326138/20260901/europe-signs-451m-amd-deal-lumi-ai-defying-nvidia-ai-factory-dominance.htm"
+      "link": "https://www.techtimes.com/articles/326086/20260831/chatgpt-becomes-first-ai-chatbot-designated-search-engine-under-eu-law.htm"
     },
     {
-      "title": "AI推論コストが過去最安値を更新、中国発オープンソースモデルとOpenAIの値下げが背景",
-      "summary": "AIトークン処理コストの指標が下落を続け、2026年としては過去最安値圏に。中国発オープンソースモデルの台頭やOpenAIの大幅値下げにより、AI提供各社の価格決定力低下が懸念されている。",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/09/01/ai-token-prices-lows.html"
+      "title": "シャープ、家電と連携する統合AIサービス「NIAH」を発表",
+      "summary": "シャープは9月1日、家電と連携する統合AIサービス「NIAH(ニア)」を発表した。スマホアプリを通じて音声やテキストで家事の相談をすると生成AIが解決策を提案し、対応家電の操作までナビゲートする。9月30日提供開始、対応機種は52種。",
+      "source": "マイナビニュース",
+      "link": "https://news.mynavi.jp/article/20260901-4901351/"
     },
     {
-      "title": "米FTC、Amazonを広告オークション不正操作の疑いで提訴",
-      "summary": "FTCと22州の司法長官が9月1日、Amazonを提訴。「セカンドプライス方式」の広告オークションを秘密裏に事実上の「ファーストプライス」化し、7年以上にわたり広告主から200億ドル超を過剰請求した疑いがあると主張した。",
-      "source": "UPI",
-      "link": "https://www.upi.com/Top_News/US/2026/09/01/Amazon-faces-auction-rigging-lawsuit/3601788250689/"
+      "title": "アップル、トランプ大統領の要請でマップの「オンタリオ湖」表記を「レイク・アメリカ」に変更",
+      "summary": "アップルは9月1日、Googleに続きMapsアプリの米国向け表示で「オンタリオ湖」を「レイク・アメリカ」に変更した。トランプ大統領による8月27日の大統領令とアップルへの直接の働きかけを受けたもので、カナダ版では従来通りの表記が維持される。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/"
     },
     {
-      "title": "クアルコムの「日本ロボティクスセンター」にトヨタ・KDDIなどが新規参画",
-      "summary": "クアルコムが日本で立ち上げたロボット産業向け研究開発拠点「Qualcomm Japan Robotics Center」に、トヨタ自動車やKDDIなどが新たに参画。フィジカルAIエコシステム構築を国内18社・団体で推進する。",
-      "source": "Response.jp",
-      "link": "https://response.jp/article/2026/09/01/415953.html"
-    },
-    {
-      "title": "米大学生、AIの影響で専攻・キャリアを再考する動きが拡大 CNBC調査",
-      "summary": "CNBCの調査によると、在学中の学生・社会人の約4割がAIの影響で専攻や履修分野の変更を検討したと回答。志望職種・企業を見直したとの回答も3割超に上り、AIによる雇用不安が教育選択にも波及している実態が明らかになった。",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/09/01/students-are-reconsidering-majors-career-paths-due-to-ai-cnbc-survey.html"
+      "title": "SEMICON Taiwan 2026開幕、AI半導体の焦点は演算性能から「データ転送」へ",
+      "summary": "台湾・南港展覧館で9月2日から半導体国際展示会「SEMICON Taiwan 2026」が開幕。65カ国から1300社超が出展し、AIインフラの帯域幅需要拡大を受けシリコンフォトニクスやCPO(Co-Packaged Optics)などの光配線技術が最大の焦点となっている。",
+      "source": "財経新聞",
+      "link": "https://www.zaikei.co.jp/article/20260902/868210.html"
     }
   ],
-  "x_trending_tech": [
-    {
-      "title": "アップル新CEOジョン・ターナス氏、Xで初投稿「hello」",
-      "summary": "2026年9月1日にCEOに正式就任したジョン・ターナス氏が新設のXアカウントで最初の投稿として「hello」とだけ投稿。投稿直後から数百万回表示される話題となった(9/1午後3時46分PT=9/2未明JSTの投稿)。",
-      "source": "@johnternus",
-      "link": "https://x.com/johnternus/status/2094814214787633367"
-    },
-    {
-      "title": "イーロン・マスク氏、新CEOのX初投稿に反応",
-      "summary": "ジョン・ターナス氏の「hello」投稿を受け、イーロン・マスク氏が「New Apple CEO posting on 𝕏(新CEOがXに投稿している)」と反応(ターナス氏投稿の約30分後、9/1午後4時15分PT頃の投稿)。",
-      "source": "@elonmusk",
-      "link": "https://x.com/elonmusk/status/2094821435692982631"
-    }
-  ]
+  "x_trending_tech": []
 }
