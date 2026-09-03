@@ -1,98 +1,111 @@
 {
-  "run_label": "9/3 19:00",
+  "run_label": "9/4 07:00",
   "politics_economy": [
     {
-      "title": "高市首相、党役員・内閣人事を9月中下旬に調整 麻生副総裁・鈴木幹事長は続投へ",
-      "summary": "政府・与党関係者が9月3日、高市早苗首相が9月中下旬に予定する内閣改造・自民党役員人事で麻生太郎副総裁と鈴木俊一幹事長を再任する方向で調整していることを明らかにした。来秋の総裁選再選も見据えた布陣とされる。",
-      "source": "毎日新聞(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/45c010b1496ee0afc4239bbb1c7cc0521c78ccbf"
-    },
-    {
-      "title": "円相場、一時1ドル=156円台に上昇 日銀の追加利上げ観測で約1カ月ぶり水準",
-      "summary": "9月3日の東京外国為替市場で円相場が対ドルで上昇し、一時156円台を付けた。前日の日銀高田審議委員の講演で利上げペース加速の可能性が意識され、9月17〜18日の金融政策決定会合での利上げ観測が強まっている。",
-      "source": "共同通信(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/4e996077b012e444907ac06286a46b517e359cd8"
-    },
-    {
-      "title": "日経平均、4営業日続落 一時500円超安 韓国株軟化がツレ安招く",
-      "summary": "9月3日の東京株式市場で日経平均株価は4営業日続落し、64,214.48円で取引を終えた(前日比111.16円安)。朝方は米株高を受けて堅調だったが、後場に韓国KOSPIが急速に軟化したことで下げ幅を広げた。",
-      "source": "株探",
-      "link": "https://s.kabutan.jp/news/n202609030941/"
-    },
-    {
-      "title": "台風24号接近と秋雨前線で九州南部に線状降水帯のおそれ、大雨に厳重警戒",
-      "summary": "9月3日、台風24号の接近と秋雨前線の影響で日本列島の広範囲が雨や雷雨となり、九州南部では線状降水帯が発生するおそれがあるとしてNHKなどが土砂災害や河川増水への厳重警戒を呼びかけている。",
+      "title": "高市首相、党役員・内閣改造人事を9月16日の方向で調整",
+      "summary": "政権発足後初となる自民党役員・内閣改造人事について、高市早苗首相が食料品消費税減税の税制改正大綱決定後の9月16日にも踏み切る方向で調整に入ったことが9月3日分かった。鈴木俊一幹事長の処遇や後任候補に挙がる萩生田光一氏の動向が焦点。",
       "source": "NHKニュース",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260903de47887"
+      "link": "https://news.web.nhk/newsweb/na/nd-20260903de47879"
     },
     {
-      "title": "「まんじゅうや」票は無効、東京高裁も茨城・神栖市長の当選認めず",
-      "summary": "2025年11月の神栖市長選を巡る訴訟で東京高裁は9月3日、「まんじゅうや」などと書かれた票を無効と判断し、当選が取り消された木内敏之氏側の請求を退ける判決を言い渡した。得票僅差での当選効力が争われていた。",
-      "source": "毎日新聞(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/bda0af59b1891b591164cca1a4a9543db2ef09b5"
+      "title": "青森市の瀬戸子川で氾濫発生、一部地域に緊急安全確保",
+      "summary": "台風と秋雨前線による大雨の影響で9月3日、青森市内を流れる瀬戸子川が氾濫し、市は最も警戒レベルの高い「緊急安全確保」を一部地域に発令した。大雨の影響が北日本にも及んでいることを示す事例。",
+      "source": "NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260903de47882"
+    },
+    {
+      "title": "鹿児島県奄美地方に「線状降水帯」発生の恐れ、4日未明に発表",
+      "summary": "気象庁は9月4日午前0時28分、鹿児島県奄美地方で今後3時間以内に線状降水帯が発生する恐れがあるとして「線状降水帯直前予測」を発表した。台風24号と秋雨前線の影響で九州南部を中心に大雨が続いている。",
+      "source": "tenki.jp(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/71a09f7512089b903b34968176ce40f27ad6a392"
+    },
+    {
+      "title": "上皇さまの葬儀、規模縮小へ 皇居・宮殿で検討",
+      "summary": "宮内庁は、92歳の上皇さまが国民生活への影響を極力少なくしたいとの意向を示していることを踏まえ、葬儀を昭和天皇の際の新宿御苑ではなく皇居・宮殿で実施し、参列者数も約1万人から約2500人規模に大幅縮小する方向で検討していることが9月2日分かった。",
+      "source": "共同通信(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/01aa1f020d1514218bb75db9729232070de4683c"
     }
   ],
   "tech": [
     {
-      "title": "Meta、新AIモデル「Muse Spark 1.3」公開 競合他社との差を縮める",
-      "summary": "Metaは9月2日、最新AIモデル「Muse Spark 1.3」をリリースした。同社チーフAI責任者は性能面で競合ラボに接近していると説明しており、AI開発競争でのMetaの巻き返しを印象付けた。",
+      "title": "Nvidia、Hugging Faceを129億ドルで買収へ",
+      "summary": "NvidiaはAIプラットフォーム大手Hugging Faceを約129億ドルで買収すると9月3日発表した。300万超のAIモデルと100万本のアプリを抱えるHugging Faceのオープンプラットフォームとしての独立性は維持するとしている。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/"
+    },
+    {
+      "title": "OpenAI、新モデル「Astra(GPT-6 Astra)」提供開始 サイバー能力は「重大」水準",
+      "summary": "OpenAIは9月3日、最新かつ最も高性能とする新モデル「Astra」の提供を開始した。同社の安全性評価基準でサイバー攻撃能力が初めて「Critical(重大)」水準に達したとされ、追加の安全対策を講じたうえで段階的に提供する。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/"
+    },
+    {
+      "title": "Google、Gmail・ドキュメント・Keepに会話型AI音声機能を追加",
+      "summary": "Googleは9月3日、Gmail、Googleドキュメント、Keepに会話型AI機能を追加すると発表した。自然な音声での指示や質問でメール検索やメモの整理、文書作成が行えるようになる。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/09/03/google-launches-ai-voice-features-in-gmail-docs-and-keep/"
+    },
+    {
+      "title": "Meta、新AIモデルの利用データ提供者に大幅割引",
+      "summary": "Metaはコーディング等に使う新モデル「Muse Spark」について、プロンプトや出力結果を今後のモデル開発に提供するユーザー向けに平均約95%の割引を提供していることが9月3日報じられた。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/"
+    },
+    {
+      "title": "Thinking Machines、Accel主導で評価額400億ドル・10億ドル調達を協議",
+      "summary": "元OpenAI CTOのミラ・ムラティ氏が設立したAIラボ、Thinking Machinesが、Accelが主導する新たな資金調達ラウンドで評価額400億ドル以上、調達額10億ドル規模となる方向で協議していると9月3日報じられた。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/"
+    },
+    {
+      "title": "テスラ、無人ロボタクシー「Cybercab」をオースティンでお披露目",
+      "summary": "テスラは9月3日、ハンドルもペダルもない2人乗りロボタクシー「Cybercab」の量産車を招待制イベントで公開した。カメラとAIのみで走行する完全自動運転車で、Waymoなど競合との自動運転車競争が一段と激化している。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/"
+    },
+    {
+      "title": "TSMC、AI需要で四半期の製造装置調達必要量がほぼ倍増",
+      "summary": "半導体受託製造最大手のTSMCが、AI需要拡大に対応するため四半期あたりの製造装置調達必要量を昨年末時点の想定の約1.9倍に引き上げたことが9月2日報じられた。",
       "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-02/meta-releases-more-powerful-ai-model-edging-closer-to-rivals"
+      "link": "https://www.bloomberg.com/news/articles/2026-09-02/tsmc-s-quarterly-chipmaking-tool-needs-almost-doubled-this-year"
     },
     {
-      "title": "米司法省、OpenAI・マイクロソフト支持の意見書 NYT著作権訴訟でAI学習は「フェアユース」と主張",
-      "summary": "トランプ政権の司法省は9月2日(米東部時間)、ニューヨーク・タイムズがOpenAIとマイクロソフトを訴えている著作権訴訟でAI学習は一般にフェアユースに当たるとする意見書をマンハッタン連邦地裁に提出した。政府がAI訴訟に介入するのは初とみられる。",
-      "source": "The Washington Post",
-      "link": "https://www.washingtonpost.com/technology/2026/09/02/doj-urges-judge-rule-openai-microsoft-ny-times-lawsuit/"
+      "title": "キオクシア、消費電力4割減の新型フラッシュメモリーを公開",
+      "summary": "キオクシアは9月3日、消費電力を4割抑えつつ記憶容量を約6割向上させた新型NAND型フラッシュメモリーを公開した。生成AI需要の拡大を背景に、生産体制強化と競争力向上を狙う。",
+      "source": "TBS NEWS DIG(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/f18a33bbf13994c36c886eb2abcf49035aca7400"
     },
     {
-      "title": "サムスン・SKハイニックス、TSMCに対抗するには対米投資を6.5倍に拡大する必要と試算",
-      "summary": "米国が半導体関税を巡り韓国に追加投資を迫る中、サムスン電子とSKハイニックスがTSMCの対米投資規模(2650億ドル)に匹敵するには現状の6.5倍の投資が必要との試算が9月3日報じられた。",
-      "source": "Seoul Economic Daily",
-      "link": "https://en.sedaily.com/finance/2026/09/03/samsung-sk-hynix-would-need-65-times-more-us-investment-to"
+      "title": "NEC、フィジカルAI・宇宙防衛軸に製造業系企業の買収検討",
+      "summary": "NECは決算会見で、フィジカルAIや宇宙・防衛分野を軸に製造業系企業の買収を検討していることを明らかにしたと9月3日報じられた。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUB013BQ0R00C26A9000000/"
     },
     {
-      "title": "Meta、180億ドルの集団訴訟和解が成立 新AI製品投入への障害解消との見方",
-      "summary": "Metaを巡る180億ドル規模の集団訴訟の和解が成立したと9月2日に報じられた。モルガン・スタンレーのアナリストは、これにより新たなAI製品投入への法的懸念が和らぎ、開発が加速する可能性があると指摘した。",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/09/02/meta-18-billion-settlement-ai-products.html"
-    },
-    {
-      "title": "音声AIのElevenLabs、元OpenAI幹部を初代最高収益責任者に起用",
-      "summary": "音声AIスタートアップのElevenLabsは9月2日、OpenAIで法人営業担当バイスプレジデントを務めたアシュリー・クレイマー氏を初の最高収益責任者(CRO)に起用したと発表した。同社の年間経常収益は6億ドルを超えている。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-02/elevenlabs-hires-openai-vp-as-first-chief-revenue-officer"
-    },
-    {
-      "title": "Snowflake、AIコーディング機能の採用拡大で通期売上高見通しを上方修正 株価急伸",
-      "summary": "データ分析大手Snowflakeは9月2日発表の四半期決算で売上高が市場予想を上回り、AIコーディングエージェント「Cortex Code」の採用拡大を背景に通期の製品売上高見通しを上方修正した。時間外取引で株価が急伸した。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-02/snowflake-jumps-on-revenue-outlook-uptake-of-ai-assistant"
-    },
-    {
-      "title": "HPE、AI・ネットワーク需要の強さで通期業績予想を上方修正",
-      "summary": "ヒューレット・パッカード・エンタープライズ(HPE)は9月2日、AIサーバーとネットワーク機器への旺盛な需要を背景に四半期売上高が過去最高となったと発表し、2026会計年度の通期業績予想を上方修正した。",
-      "source": "Reuters(Investing.com)",
-      "link": "https://www.investing.com/news/stock-market-news/hpe-raises-annual-forecasts-as-ai-networking-demand-lifts-quarterly-revenue-4886707"
-    },
-    {
-      "title": "ブロードコム、AI半導体売上高が2028年に2300億ドル規模へ拡大するとの見通し示す",
-      "summary": "ブロードコムのホック・タンCEOは9月2日の決算発表で、AI半導体売上高が2027会計年度に約1150億ドル、2028会計年度には約2300億ドルに達する見通しを示した。アンソロピックが2027年に最大の顧客になるとの見方も示した。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/videos/2026-09-03/broadcom-forecasts-boom-in-ai-chip-sales-video"
-    },
-    {
-      "title": "アブダビのAI企業G42、マイクロソフトなどから数十億ドル規模の追加資金調達を検討",
-      "summary": "マイクロソフトが出資するアブダビのAI企業G42が、投資家との間で数十億ドル規模の資金調達に向けた協議を行っていると9月2日報じられた。調達の規模や構造はまだ最終決定していないという。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-02/microsoft-backed-ai-firm-g42-weighs-raising-billions-of-dollars"
-    },
-    {
-      "title": "中国のAI生成長編ドラマが人気沸騰、放送局マンゴーTV株が一時64%急伸",
-      "summary": "中国で初とされる完全AI生成の長編ドラマがマンゴーTVで放送され話題となり、同局を傘下に持つ放送会社の株価が週間で約15年ぶりの上げ幅となる一時64%の急伸を記録したと9月3日報じられた。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-03/ai-drama-frenzy-sends-china-broadcaster-mango-soaring-64"
+      "title": "Anthropic、Claudeで障害発生も数時間で復旧",
+      "summary": "Anthropicは9月3日(米東部時間午前9時41分ごろ)、Opus 5やFable 5.1など複数モデルでエラーが急増する障害が発生したと発表。同日正午過ぎに原因を特定し復旧したことを明らかにした。",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-multiple-models-affected/"
     }
   ],
-  "x_trending_tech": []
+  "x_trending_tech": [
+    {
+      "title": "NvidiaのフアンCEO、Hugging Face買収を発表",
+      "summary": "NvidiaのジェンスンフアンCEOが9月3日、Hugging Face買収について「NVIDIAとHugging Faceにとってエキサイティングな日だ。オープンモデルは安全性とサイバーセキュリティを強化し、イノベーションを加速する」と投稿。",
+      "source": "@JensenHuang",
+      "link": "https://x.com/JensenHuang/status/2095482647355244762"
+    },
+    {
+      "title": "OpenAI公式、新モデル「GPT-6 Astra」の提供開始を発表",
+      "summary": "OpenAI公式アカウントが9月3日、「GPT-6 Astraは本日、一部の組織向けに展開を開始し、今後数日でChatGPT Plus/Pro/Business/Enterprise、APIでも利用可能になる」と投稿。",
+      "source": "@OpenAI",
+      "link": "https://x.com/OpenAI/status/2095595757072191802"
+    },
+    {
+      "title": "イーロン・マスク氏、テスラ「Cybercab」披露に合わせ投稿し話題に",
+      "summary": "イーロン・マスク氏が9月3日朝、テスラの無人ロボタクシー「Cybercab」のオースティンでの披露イベントに合わせ「A Storm of Cybercabs(嵐のようなサイバーキャブ)」と投稿し、大きな反響を呼んだ。",
+      "source": "@elonmusk",
+      "link": "https://x.com/elonmusk/status/2095364595326263447"
+    }
+  ]
 }
