@@ -1,117 +1,98 @@
 {
-  "run_label": "9/3 07:00",
+  "run_label": "9/3 19:00",
   "politics_economy": [
     {
-      "title": "米中央軍、イラン革命防衛隊の拠点を攻撃 ホルムズ海峡で緊張再燃",
-      "summary": "米中央軍は9月2日、イラン革命防衛隊がホルムズ海峡での商船攻撃を計画していたとして同隊拠点への攻撃開始を発表した。ホルムズ海峡周辺での軍事的緊張が再び高まっている。",
-      "source": "読売新聞",
-      "link": "https://news.infoseek.co.jp/article/yomiuri_20260902_gyt1t00052/"
+      "title": "高市首相、党役員・内閣人事を9月中下旬に調整 麻生副総裁・鈴木幹事長は続投へ",
+      "summary": "政府・与党関係者が9月3日、高市早苗首相が9月中下旬に予定する内閣改造・自民党役員人事で麻生太郎副総裁と鈴木俊一幹事長を再任する方向で調整していることを明らかにした。来秋の総裁選再選も見据えた布陣とされる。",
+      "source": "毎日新聞(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/45c010b1496ee0afc4239bbb1c7cc0521c78ccbf"
     },
     {
-      "title": "NY株式市場、4営業日ぶり反発 295ドル高",
-      "summary": "9月2日のNY株式市場でダウ工業株30種平均は前日比295.07ドル高の5万3061.95ドルで取引を終え、4営業日ぶりに反発した。長期金利や原油先物相場の高止まりが続く中での上昇となった。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026090300146&g=int&m=rss"
+      "title": "円相場、一時1ドル=156円台に上昇 日銀の追加利上げ観測で約1カ月ぶり水準",
+      "summary": "9月3日の東京外国為替市場で円相場が対ドルで上昇し、一時156円台を付けた。前日の日銀高田審議委員の講演で利上げペース加速の可能性が意識され、9月17〜18日の金融政策決定会合での利上げ観測が強まっている。",
+      "source": "共同通信(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/4e996077b012e444907ac06286a46b517e359cd8"
     },
     {
-      "title": "日本の長期金利、一時3%突破 30年ぶり高水準",
-      "summary": "9月1日の国内債券市場で新発10年物国債利回りが一時3%の大台を突破し、1996年9月以来30年ぶりの高水準となった。米金利上昇や日銀の利上げ観測、過去最大規模の2027年度予算概算要求による財政悪化懸念が背景。",
-      "source": "毎日新聞",
-      "link": "https://news.yahoo.co.jp/articles/0c447a8c9dc33f6396a4d19a50abcadb181fbbbb"
+      "title": "日経平均、4営業日続落 一時500円超安 韓国株軟化がツレ安招く",
+      "summary": "9月3日の東京株式市場で日経平均株価は4営業日続落し、64,214.48円で取引を終えた(前日比111.16円安)。朝方は米株高を受けて堅調だったが、後場に韓国KOSPIが急速に軟化したことで下げ幅を広げた。",
+      "source": "株探",
+      "link": "https://s.kabutan.jp/news/n202609030941/"
     },
     {
-      "title": "防衛省、2027年度予算概算要求で過去最大8兆8900億円 自衛隊指揮統制にAI導入へ",
-      "summary": "防衛省は9月1日、2027年度予算の概算要求で過去最大となる8兆8900億円を計上したと発表。自衛隊指揮統制システムへのAI導入や攻撃用ドローンの取得加速が柱で、2030年までに国産ドローン8万台の保有を目指す。",
-      "source": "ITmedia NEWS",
-      "link": "https://www.itmedia.co.jp/news/article/2609/01/2000001004/"
+      "title": "台風24号接近と秋雨前線で九州南部に線状降水帯のおそれ、大雨に厳重警戒",
+      "summary": "9月3日、台風24号の接近と秋雨前線の影響で日本列島の広範囲が雨や雷雨となり、九州南部では線状降水帯が発生するおそれがあるとしてNHKなどが土砂災害や河川増水への厳重警戒を呼びかけている。",
+      "source": "NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260903de47887"
     },
     {
-      "title": "高市首相、自衛隊幹部への訓示でAI・無人機導入を安保3文書改定の「主要な課題」に",
-      "summary": "高市早苗首相は9月2日、防衛省で自衛隊幹部を集めた会合に出席し、年末に予定される安全保障関連3文書の改定でAIや無人機の活用を「主要な課題」と位置付ける考えを示した。",
-      "source": "テレビ朝日系(ANN)",
-      "link": "https://news.yahoo.co.jp/articles/914c2601832881bc18cbed444146332e9975b0b7"
+      "title": "「まんじゅうや」票は無効、東京高裁も茨城・神栖市長の当選認めず",
+      "summary": "2025年11月の神栖市長選を巡る訴訟で東京高裁は9月3日、「まんじゅうや」などと書かれた票を無効と判断し、当選が取り消された木内敏之氏側の請求を退ける判決を言い渡した。得票僅差での当選効力が争われていた。",
+      "source": "毎日新聞(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/bda0af59b1891b591164cca1a4a9543db2ef09b5"
     }
   ],
   "tech": [
     {
-      "title": "Google、推論・コーディング特化「Gemini 3.8 Flash」とサイバー特化版「Flash Cyber」を発表",
-      "summary": "Googleは9月2日、前モデルからわずか3週間で「Gemini 3.8 Flash」と、脆弱性の発見・自動パッチ生成に特化した「Gemini 3.8 Flash Cyber」を発表。Cyber版は政府・セキュリティ機関向け新プログラム「Fairwind」経由で提供される。",
-      "source": "9to5Google",
-      "link": "https://9to5google.com/2026/09/02/gemini-3-8-flash-launch/"
+      "title": "Meta、新AIモデル「Muse Spark 1.3」公開 競合他社との差を縮める",
+      "summary": "Metaは9月2日、最新AIモデル「Muse Spark 1.3」をリリースした。同社チーフAI責任者は性能面で競合ラボに接近していると説明しており、AI開発競争でのMetaの巻き返しを印象付けた。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-02/meta-releases-more-powerful-ai-model-edging-closer-to-rivals"
     },
     {
-      "title": "OpenAIの新モデル「Astra」、サイバー能力で自社基準の最高水準「Critical」に初到達",
-      "summary": "OpenAIは開発中の新モデル「Astra」が同社Preparedness Frameworkのサイバーセキュリティ能力で「Critical」しきい値に達したと発表。人手を介さず未知の脆弱性を発見・攻略できる水準とされ、提供範囲を限定して公開する方針。",
-      "source": "OpenAI",
-      "link": "https://openai.com/index/path-to-astra/"
+      "title": "米司法省、OpenAI・マイクロソフト支持の意見書 NYT著作権訴訟でAI学習は「フェアユース」と主張",
+      "summary": "トランプ政権の司法省は9月2日(米東部時間)、ニューヨーク・タイムズがOpenAIとマイクロソフトを訴えている著作権訴訟でAI学習は一般にフェアユースに当たるとする意見書をマンハッタン連邦地裁に提出した。政府がAI訴訟に介入するのは初とみられる。",
+      "source": "The Washington Post",
+      "link": "https://www.washingtonpost.com/technology/2026/09/02/doj-urges-judge-rule-openai-microsoft-ny-times-lawsuit/"
     },
     {
-      "title": "Anthropic、コーディング・研究向け新モデル「Claude Fable 5.1」「Claude Mythos 5.1」を発表",
-      "summary": "Anthropicは9月1日、最新モデル「Claude Fable 5.1」「Claude Mythos 5.1」を発表。Fable 5.1は一般提供、Mythos 5.1はサイバーセキュリティ・生命科学分野の限定パートナー向けで、従来比最大45%のコスト削減も実現。",
-      "source": "Anthropic",
-      "link": "https://www.anthropic.com/claude-fable-and-mythos-5-1"
+      "title": "サムスン・SKハイニックス、TSMCに対抗するには対米投資を6.5倍に拡大する必要と試算",
+      "summary": "米国が半導体関税を巡り韓国に追加投資を迫る中、サムスン電子とSKハイニックスがTSMCの対米投資規模(2650億ドル)に匹敵するには現状の6.5倍の投資が必要との試算が9月3日報じられた。",
+      "source": "Seoul Economic Daily",
+      "link": "https://en.sedaily.com/finance/2026/09/03/samsung-sk-hynix-would-need-65-times-more-us-investment-to"
     },
     {
-      "title": "スペインの光通信新興iPronics、Nvidia参加のシリーズBで125億円相当を調達",
-      "summary": "AIデータセンター向け光回路スイッチを手がけるiPronicsは9月2日、Nvidiaなどが参加するシリーズBで1億2500万ドルを調達したと発表。累計調達額は1億7700万ドルとなり、GPU利用率向上に資する光配線技術の商用展開を加速する。",
-      "source": "GlobeNewswire",
-      "link": "https://www.globenewswire.com/news-release/2026/09/02/3355203/0/en/ipronics-raises-125-million-to-scale-programmable-optical-networking-for-ai-data-centers.html"
+      "title": "Meta、180億ドルの集団訴訟和解が成立 新AI製品投入への障害解消との見方",
+      "summary": "Metaを巡る180億ドル規模の集団訴訟の和解が成立したと9月2日に報じられた。モルガン・スタンレーのアナリストは、これにより新たなAI製品投入への法的懸念が和らぎ、開発が加速する可能性があると指摘した。",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/09/02/meta-18-billion-settlement-ai-products.html"
     },
     {
-      "title": "AIエージェントの不正トラフィックを検知するHuskeys、ブラックストーン主導で約27億円調達",
-      "summary": "ネットワークエッジのセキュリティを手がけるHuskeysは、ブラックストーン主導のシリーズAで2700万ドルを調達したと発表。悪意あるAIエージェントと正規トラフィックを見分ける技術が評価され、累計調達額は3500万ドルに達した。",
-      "source": "TheNextWeb",
-      "link": "https://thenextweb.com/news/huskeys-raises-27m-series-a-led-by-blackstone"
+      "title": "音声AIのElevenLabs、元OpenAI幹部を初代最高収益責任者に起用",
+      "summary": "音声AIスタートアップのElevenLabsは9月2日、OpenAIで法人営業担当バイスプレジデントを務めたアシュリー・クレイマー氏を初の最高収益責任者(CRO)に起用したと発表した。同社の年間経常収益は6億ドルを超えている。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-02/elevenlabs-hires-openai-vp-as-first-chief-revenue-officer"
     },
     {
-      "title": "サムスン電子・SKハイニックス株が下落、米半導体株安と中国CXMTのHBM3E進展が重荷に",
-      "summary": "9月2日の韓国市場でサムスン電子・SKハイニックス株が下落した。前日の米半導体株安に加え、中国CXMTがHBM3Eの小規模量産を始めたとの報道が競合激化懸念を招いた。米イラン間の軍事衝突再燃も投資家心理を冷やした。",
-      "source": "Bloomingbit",
-      "link": "https://en.bloomingbit.io/feed/news/119569"
+      "title": "Snowflake、AIコーディング機能の採用拡大で通期売上高見通しを上方修正 株価急伸",
+      "summary": "データ分析大手Snowflakeは9月2日発表の四半期決算で売上高が市場予想を上回り、AIコーディングエージェント「Cortex Code」の採用拡大を背景に通期の製品売上高見通しを上方修正した。時間外取引で株価が急伸した。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-02/snowflake-jumps-on-revenue-outlook-uptake-of-ai-assistant"
     },
     {
-      "title": "SEMICON Taiwan 2026開幕、AI時代の半導体覇権を巡る競争が焦点に",
-      "summary": "台湾で9月2日に開幕した半導体国際展示会「SEMICON Taiwan 2026」では、AIインフラ拡大を背景にパッケージング技術やスマートファブ、量子技術など製造の枠を超えた分野競争が焦点となっている。",
-      "source": "DIGITIMES",
-      "link": "https://www.digitimes.com/news/a20260902PD209/taiwan-2026-packaging-technology-fab.html"
+      "title": "HPE、AI・ネットワーク需要の強さで通期業績予想を上方修正",
+      "summary": "ヒューレット・パッカード・エンタープライズ(HPE)は9月2日、AIサーバーとネットワーク機器への旺盛な需要を背景に四半期売上高が過去最高となったと発表し、2026会計年度の通期業績予想を上方修正した。",
+      "source": "Reuters(Investing.com)",
+      "link": "https://www.investing.com/news/stock-market-news/hpe-raises-annual-forecasts-as-ai-networking-demand-lifts-quarterly-revenue-4886707"
     },
     {
-      "title": "ブロードコム、第3四半期のAI半導体売上が前年比221%増の167億ドルで最高益",
-      "summary": "ブロードコムは9月2日、2026会計年度第3四半期決算を発表。売上高は前年比86%増の296億ドル、AI半導体売上は同221%増の167億ドルと過去最高を記録。第4四半期のAI半導体売上は同236%増の217億ドルを見込む。",
-      "source": "PR Newswire",
-      "link": "https://www.prnewswire.com/news-releases/broadcom-inc-announces-third-quarter-fiscal-year-2026-financial-results-and-quarterly-dividend-302868129.html"
+      "title": "ブロードコム、AI半導体売上高が2028年に2300億ドル規模へ拡大するとの見通し示す",
+      "summary": "ブロードコムのホック・タンCEOは9月2日の決算発表で、AI半導体売上高が2027会計年度に約1150億ドル、2028会計年度には約2300億ドルに達する見通しを示した。アンソロピックが2027年に最大の顧客になるとの見方も示した。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/videos/2026-09-03/broadcom-forecasts-boom-in-ai-chip-sales-video"
     },
     {
-      "title": "Waymo、ロボタクシーをデンバー・サンディエゴ・タンパの3都市に拡大",
-      "summary": "Waymoは9月1日、完全自動運転の配車サービスをデンバー、サンディエゴ、タンパで一般提供開始したと発表。展開都市は14都市に達し、車両数は4000台超に拡大した。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/01/waymo-accelerates-robotaxi-expansion-with-launches-in-denver-san-diego-and-tampa/"
+      "title": "アブダビのAI企業G42、マイクロソフトなどから数十億ドル規模の追加資金調達を検討",
+      "summary": "マイクロソフトが出資するアブダビのAI企業G42が、投資家との間で数十億ドル規模の資金調達に向けた協議を行っていると9月2日報じられた。調達の規模や構造はまだ最終決定していないという。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-02/microsoft-backed-ai-firm-g42-weighs-raising-billions-of-dollars"
     },
     {
-      "title": "Perplexity、Mac向けAIエージェントに機密データをローカル処理する「ハイブリッドコンピュート」導入",
-      "summary": "Perplexityは、Apple Silicon搭載Mac向けの「Computer」エージェント機能で、クラウドとローカルの小型モデルにタスクを振り分ける「ハイブリッドコンピュート」を発表。機密性の高い情報はデバイス上で処理し外部に送らない設計とした。",
-      "source": "Perplexity",
-      "link": "https://www.perplexity.ai/hub/blog/introducing-hybrid-compute-on-mac"
+      "title": "中国のAI生成長編ドラマが人気沸騰、放送局マンゴーTV株が一時64%急伸",
+      "summary": "中国で初とされる完全AI生成の長編ドラマがマンゴーTVで放送され話題となり、同局を傘下に持つ放送会社の株価が週間で約15年ぶりの上げ幅となる一時64%の急伸を記録したと9月3日報じられた。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-03/ai-drama-frenzy-sends-china-broadcaster-mango-soaring-64"
     }
   ],
-  "x_trending_tech": [
-    {
-      "title": "ピチャイCEO「Gemini 3.8 Flash Cyberはサイバー防御で最高水準の性能」と投稿",
-      "summary": "Googleのサンダー・ピチャイCEOは9/3未明(日本時間)、新モデル「Gemini 3.8 Flash Cyber」について、脆弱性発見・自動パッチ生成でフロンティア級の性能を発揮し、業界ベンチマーク「CyberGym」で86.2%のスコアを達成したと投稿した。",
-      "source": "@sundarpichai",
-      "link": "https://x.com/sundarpichai/status/2095184464800526655"
-    },
-    {
-      "title": "アルトマンCEO「今夏は安全対策を優先、次期モデルも近く公開」と投稿",
-      "summary": "OpenAIのサム・アルトマンCEOは9/2朝(日本時間)、今夏は安全面の優先事項に注力してきたとした上で性能向上と安全対策を両輪で進める必要があると投稿。新モデル「Astra」の近日公開にも言及した。",
-      "source": "@sama",
-      "link": "https://x.com/sama/status/2094934592062959832"
-    },
-    {
-      "title": "ブロードコムのAI半導体売上が前年比221%増の167億ドルに、決算速報がXで拡散",
-      "summary": "金融情報アカウント「Earnings Time」が9/3早朝(日本時間)、ブロードコムの第3四半期決算速報を投稿。AI半導体売上は167億ドルで前年比221%増、第4四半期は217億ドル(同236%増)を見込むと伝え反響を呼んだ。",
-      "source": "@Earnings_Time",
-      "link": "https://x.com/Earnings_Time/status/2095248845307314450"
-    }
-  ]
+  "x_trending_tech": []
 }
