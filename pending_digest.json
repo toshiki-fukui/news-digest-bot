@@ -1,129 +1,111 @@
 {
-  "run_label": "9/4 19:00",
+  "run_label": "9/5 07:00",
   "politics_economy": [
     {
-      "title": "日経平均株価が5営業日ぶり反発、806円高の6万5020円94銭で終値",
-      "summary": "9月4日の東京株式市場で日経平均株価は前日比806円46銭（1.26%）高。米長期金利上昇の一服を受けAI・半導体関連株が買われ、ソフトバンクグループの上昇が押し上げの主役となった。",
-      "source": "財経新聞",
-      "link": "https://www.zaikei.co.jp/article/20260904/868699.html"
-    },
-    {
-      "title": "内閣改造・自民党役員人事、9月中下旬が軸に 高市首相が幹事長続投を判断へ",
-      "summary": "政府・与党関係者が9月3日、内閣改造と党役員人事を9月中下旬に実施する方向で調整していると明らかにした。財務相は片山氏留任、幹事長は鈴木氏続投との見方が伝えられている。",
+      "title": "米雇用統計、8月は16.2万人増で市場予想を大幅に上回る",
+      "summary": "米労働省が9月4日発表した8月の雇用統計で非農業部門の就業者数は前月比16.2万人増となり、5万〜7万人増の市場予想を大きく上回った。失業率は4.1%で横ばい。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUA1984N0Z10C26A8000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOGN02C6D0S6A900C2000000/"
     },
     {
-      "title": "ドル円が155円台に円高進行、米早期利上げ観測後退で",
-      "summary": "9月4日の東京外国為替市場で円が買われ、1ドル=155円台前半まで円高が進行した。米FRB高官のハト派発言を受けた米長期金利低下が背景にある。",
+      "title": "NYダウ624ドル高、年内利上げリスク後退で続伸",
+      "summary": "9月4日のNY株式市場でダウ平均は624.16ドル高の53686.11ドルで取引を終えた。FRBウォラー理事のハト派寄りの発言を受け、年内の追加利上げ観測が後退したことが好感された。",
       "source": "財経新聞",
-      "link": "https://www.zaikei.co.jp/article/20260904/868621.html"
+      "link": "https://www.zaikei.co.jp/article/20260904/868583.html"
     },
     {
-      "title": "北方領土・色丹島でインドネシア人労働者の受け入れ進む",
-      "summary": "ロシアの実効支配下にある北方領土・色丹島で、人手不足を補うためインドネシア人労働者の受け入れが進んでいる実態が9月上旬に報じられた。",
-      "source": "NHKニュース",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260903de48059"
-    },
-    {
-      "title": "27年度予算の概算要求、過去最大143兆円規模に",
-      "summary": "財務省がまとめた2027年度予算の各省庁概算要求総額は過去最大の143兆円前後となった。上限のない新投資枠創設などが要因で、4年連続の過去最大更新となる。",
+      "title": "円相場が1カ月ぶり155円台、日銀利上げ観測が強まる",
+      "summary": "9月4日の外国為替市場で円が対ドルで一時155円台まで上昇し、約1カ月ぶりの円高水準となった。9月17〜18日の日銀会合での利上げ確率は市場で7割超に織り込まれつつある。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUA311BB0R30C26A8000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOFL040C0TU6A900C2000000/"
+    },
+    {
+      "title": "内閣改造、片山財務相は留任へ　早ければ16日にも人事断行",
+      "summary": "高市早苗首相が9月中下旬に予定する内閣改造・党役員人事で、片山さつき財務相を留任させる方向で調整に入ったことが9月4日分かった。早ければ16日にも人事に踏み切るとみられている。",
+      "source": "Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/pickup/6594150"
+    },
+    {
+      "title": "日米豪印、クアッド外相会合開催へ高官協議をニューデリーで実施",
+      "summary": "外務省は9月4日、日本・米国・オーストラリア・インドの4カ国（クアッド）の高官協議をインド・ニューデリーで開いたと発表。首脳会合実現に向け意思疎通を継続することで一致した。",
+      "source": "時事通信",
+      "link": "https://www.jiji.com/jc/article?k=2026090400674&g=pol&m=rss"
     }
   ],
   "tech": [
     {
-      "title": "半導体製造装置市場、2026年Q2は405億ドルで2四半期連続の過去最高",
-      "summary": "SEMIが発表した2026年第2四半期の世界半導体製造装置売上高は前年同期比23%増の405億ドルとなり、AI向け需要を背景に過去最高を更新した（9/4）。",
-      "source": "マイナビ",
-      "link": "https://news.mynavi.jp/techplus/article/20260904-4914480/"
+      "title": "テスラの無人ロボタクシー「サイバーキャブ」、稼働直後に米当局が調査開始",
+      "summary": "米運輸省道路交通安全局(NHTSA)は9月4日、ハンドルもペダルもないテスラの新型ロボタクシー「サイバーキャブ」の自己認証プロセスを調べる調査を開始したと発表。オースティンでの営業運行開始から数時間後の発表となった。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/09/04/feds-launch-investigation-into-teslas-cybercab-deployment/"
     },
     {
-      "title": "ChatGPT・Claude・Grokが同時に障害、3大AIサービスが揃ってダウン",
-      "summary": "9月3日、OpenAIのChatGPT、AnthropicのClaude、xAIのGrokがほぼ同時に利用障害を起こした。原因は個別と見られるが3社同時の障害は異例で、数十分後に復旧した。",
-      "source": "The Register",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/03/chatgpt-claude-and-grok-all-had-outages-at-the-same-time/5294322"
+      "title": "米議会、OpenAIの「AGI宣言」と同日に暴走AIエージェント規制法案を提出",
+      "summary": "米下院の超党派議員が9月3日、AIエージェントの安全運用に関する国家基準策定をNISTに義務付ける「Stop Rogue AI Act」を提出。OpenAIのHugging Face侵害事件を受けた措置で、奇しくもOpenAIがGPT-6 Astraで「AGI時代」到来を宣言したのと同じ週の動きとなった。",
+      "source": "Tech Times",
+      "link": "https://www.techtimes.com/articles/326603/20260904/congress-moves-criminalize-agi-same-day-openai-declared-its-arrival.htm"
     },
     {
-      "title": "サンダース上院議員ら、「超知能AI禁止法案」を発表",
-      "summary": "バーニー・サンダース上院議員とグレッグ・カサール下院議員が9月3日、超知能AIの開発・提供を恒久的に禁止し先進AI開発を一時停止する法案を発表した。",
-      "source": "Axios",
-      "link": "https://www.axios.com/2026/09/03/bernie-sanders-superintelligence-ban-ai-pause"
+      "title": "サウジHUMAIN、中国MiniMax基盤の4280億パラメータ・アラビア語AI「humain-m3」を発表",
+      "summary": "サウジ政府系AI企業HUMAINは9月3日、中国MiniMaxのオープンウェイトモデルを基盤にした4280億パラメータのアラビア語特化AI「humain-m3」をリヤドで発表。自国開発ではなく中国製基盤の採用が注目されている。",
+      "source": "Tech Times",
+      "link": "https://www.techtimes.com/articles/326703/20260904/humain-launches-humain-m3-saudi-arabias-arabic-ai-runs-chinese-weights-scores-unverified.htm"
     },
     {
-      "title": "中国AIスタートアップMoonshot、評価額500億ドルで香港上場を申請",
-      "summary": "中国のAI企業Moonshotが評価額約500億ドルで、調達額30億ドル規模の香港IPOを非公開で申請したと報じられた。人気モデル「Kimi K3」が業績を牽引している（9/3）。",
-      "source": "Tech Startups",
-      "link": "https://techstartups.com/2026/09/03/chinese-ai-startup-moonshot-files-for-3-billion-hong-kong-ipo-at-50-billion-valuation/"
+      "title": "マイクロソフト、最速・最安級の音声認識AI「MAI-Transcribe-2」を発表",
+      "summary": "マイクロソフトは9月3〜4日、時間あたり10セントで利用でき60言語に対応する音声認識モデル「MAI-Transcribe-2」を発表。OpenAIやGoogle、ElevenLabsの競合モデルより高速・低価格だとしている（期間限定価格）。",
+      "source": "Microsoft AI",
+      "link": "https://microsoft.ai/news/mai-transcribe-2-is-the-fastest-most-accurate-and-cheapest-speech-recognition-model-in-the-world/"
     },
     {
-      "title": "OpenAIの新モデル「Astra」、不透明な推論アーキテクチャに安全性専門家が懸念",
-      "summary": "OpenAIの新モデルAstraが従来より不透明な新アーキテクチャを採用しているとの報道を受け、AI安全性研究者から監視・規制が困難になるとの懸念が広がっている（9/3）。",
-      "source": "Fortune",
-      "link": "https://fortune.com/2026/09/03/reports-openais-astra-model-uses-a-new-more-efficient-ai-architecture-alarms-ai-safety-experts-who-worry-the-method-makes-models-harder-to-control/"
+      "title": "AIデータセンター新興Crusoe、30億ドル超調達し評価額300億ドルに",
+      "summary": "クラウド・データセンター事業者Crusoeが9月3日までに30億ドル超のシリーズFを調達し評価額は約300億ドルとなったと報じられた。2025年10月時点からほぼ3倍への急上昇となる。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/"
     },
     {
-      "title": "NvidiaのHugging Face買収、独占懸念とオープンソース界隈への影響を指摘する声",
-      "summary": "Nvidiaによる129億ドルでのHugging Face買収発表を受け、独禁法上の懸念やオープンソースAIコミュニティへの影響を指摘する論調が相次いでいる（9/3）。",
-      "source": "The Register",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/03/hugging-face-is-too-important-to-fall-into-nvidias-hands/5294363"
+      "title": "NECとAnthropic、サイバー防衛協業を拡大　「Claude Mythos」を脆弱性管理に活用",
+      "summary": "NECは9月2日、Anthropicのフロンティアモデル「Claude Mythos Preview」を脆弱性管理や防御的サイバーセキュリティ業務に活用すると発表。Anthropicの「Project Glasswing」にも参画する。",
+      "source": "ITmedia",
+      "link": "https://www.itmedia.co.jp/business/articles/2609/03/news052.html"
     },
     {
-      "title": "Meta、コーディング・エージェント特化の新モデル「Muse Spark 1.3」公開",
-      "summary": "Metaが9月2日、Meta Superintelligence Labs開発の新モデル「Muse Spark 1.3」を公開。前バージョンよりツール呼び出しやトークン消費を約2割削減しつつ性能を向上させた。",
-      "source": "Axios",
-      "link": "https://www.axios.com/2026/09/02/meta-debuts-muse-spark-13-as-personal-agent-work-continues"
+      "title": "Google、実攻撃で悪用のChromeゼロデイ脆弱性に緊急パッチ",
+      "summary": "Googleは9月4日、実際の攻撃での悪用が確認されたV8エンジンの型混同の脆弱性(CVE-2026-85046、CVSS8.8)を修正する緊急アップデートをChromeに配信した。2026年に入り6件目の悪用済みゼロデイとなる。",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/09/google-releases-chrome-update-to-patch.html"
     },
     {
-      "title": "Anthropic、ClaudeがMacをバックグラウンドで操作できる新機能を追加",
-      "summary": "AnthropicはClaude Cowork・Claude CodeにMac向けのバックグラウンドPC操作機能をベータ提供開始。ユーザーが他の作業をしている間にクリックや入力を代行する（9/2）。",
-      "source": "9to5Mac",
-      "link": "https://9to5mac.com/2026/09/02/anthropic-upgrades-claude-codes-computer-use-to-run-in-the-background-on-mac/"
+      "title": "OpenAI、AIが脆弱性発見から修正確認まで担う「Defense Factory」構想を発表",
+      "summary": "OpenAIは、フロンティアモデルを使い脆弱性の発見・検証・パッチ提案・修正確認までを継続的に自動で行う「Defense Factory」構想を発表。オープンウェイトモデルを悪用する攻撃者に対し防御側優位を保つ狙いとしている。",
+      "source": "OpenAI",
+      "link": "https://openai.com/the-defense-factory/"
     },
     {
-      "title": "Google、政府・重要インフラ向けサイバーセキュリティ特化AI「Gemini 3.8 Flash Cyber」を発表",
-      "summary": "Googleは9月2日、汎用モデル「Gemini 3.8 Flash」と、脆弱性検出・自動パッチ適用に特化した「Gemini 3.8 Flash Cyber」を同時発表。後者は政府機関等に限定提供される。",
-      "source": "Google Blog",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/"
+      "title": "AI半導体株が上昇、BofAが「エージェンティックAI」評価しIntel・AMDの目標株価引き上げ",
+      "summary": "9月4日の米株式市場でNvidia、AMD、Intelなど半導体株が上昇。バンク・オブ・アメリカがCPUの役割拡大を見込みAMDやArmの目標株価を引き上げ、Intelを「買い」に格上げしたことが材料視された。",
+      "source": "TipRanks",
+      "link": "https://www.tipranks.com/news/why-ai-chip-stocks-nvidia-amd-intel-are-rising-today-september-4"
     },
     {
-      "title": "Quantinuumとサウジアラムコ、量子コンピューティング活用へMOU締結",
-      "summary": "量子コンピューター企業QuantinuumとサウジアラムコAramcoが9月3日、エネルギー分野での量子コンピューティング活用に向けた非拘束的MOUを締結したと発表した。",
-      "source": "The Quantum Insider",
-      "link": "https://thequantuminsider.com/2026/09/03/quantinuum-aramco-mou-industrial-quantum-computing/"
+      "title": "米テキサス州、データセンターの新規電力接続を凍結　「幽霊需要」474GWに対応",
+      "summary": "AI向けデータセンターの投機的な電力需要（「幽霊需要」）が474ギガワットに急増したことを受け、米テキサス州は主要データセンター拠点として初めて新規の送電網接続を凍結し計画の精査に乗り出した。",
+      "source": "Technology.org",
+      "link": "https://www.technology.org/2026/09/04/texas-freezes-data-center-grid-connections-474-gw/"
     }
   ],
   "x_trending_tech": [
     {
-      "title": "Sam Altman氏、Astraロールアウトの混乱を謝罪し補償を約束",
-      "summary": "OpenAIのAltman CEOが、新モデルAstra提供開始時の不具合について謝罪し、アクセスできなかった日数分の利用制限リセットを提供すると投稿（9/3の投稿）。",
-      "source": "@sama",
-      "link": "https://x.com/sama/status/2095678759651438887"
+      "title": "Chromeのゼロデイ脆弱性が実攻撃で悪用中、緊急更新を呼びかける投稿が拡散",
+      "summary": "セキュリティ専門アカウントが、Googleが緊急配信したChromeのV8エンジンの深刻なゼロデイ脆弱性(CVE-2026-85046)修正パッチについて注意喚起（9/4夕方の投稿）。",
+      "source": "@The_Cyber_News",
+      "link": "https://x.com/The_Cyber_News/status/2095767967577600011"
     },
     {
-      "title": "OpenAI公式、新モデル「GPT-6 Astra」の投入を発表",
-      "summary": "OpenAI公式アカウントが「これがGPT-6 Astra。パソコンでできることは何でも代わりにやってくれる」と新モデルの投入を投稿（9/3の投稿）。",
-      "source": "@OpenAI",
-      "link": "https://x.com/OpenAI/status/2095595741528125780"
-    },
-    {
-      "title": "バーニー・サンダース氏、超知能AI禁止法案の提出を表明",
-      "summary": "サンダース上院議員が「先進AI開発の即時一時停止と、人間を超える人工知能＝超知能の恒久的禁止が必要だ」と投稿し、新法案発表を告知（9/3の投稿）。",
-      "source": "@BernieSanders",
-      "link": "https://x.com/BernieSanders/status/2095542398084415952"
-    },
-    {
-      "title": "Hugging Face CEO、Nvidiaとの統合合意を発表し話題に",
-      "summary": "Hugging FaceのClement Delangue CEOが「NVIDIAとの129億3000万ドルでの統合を発表できて嬉しい」とXに投稿、オープンソースAI業界で大きな反響を呼んだ（9/3の投稿）。",
-      "source": "@ClementDelangue",
-      "link": "https://x.com/ClementDelangue/status/2095482998674112733"
-    },
-    {
-      "title": "サンダース氏のAI禁止発言、Xで拡散し話題に",
-      "summary": "予測市場PolymarketのX公式アカウントが「84歳のバーニー・サンダース氏が世界各国に先進AI開発の即時一時停止と超知能の恒久禁止を呼びかけた」と投稿し拡散（9/3の投稿）。",
-      "source": "@Polymarket",
-      "link": "https://x.com/Polymarket/status/2095599350395084958"
+      "title": "GPT-6 Astra、ChatGPT Plusでのアクセス案内が二転三転し混乱と話題に",
+      "summary": "OpenAIウォッチャーのアカウントが、GPT-6 AstraがPlusプランでは通常チャットで使えず「ChatGPT Work」や「Codex」経由に限定されるとの案内の矛盾を指摘し議論を呼んだ（9/4朝の投稿）。",
+      "source": "@TokenGremlin",
+      "link": "https://x.com/TokenGremlin/status/2095692299049009225"
     }
   ]
 }
