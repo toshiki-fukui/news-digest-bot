@@ -1,111 +1,129 @@
 {
-  "run_label": "9/4 07:00",
+  "run_label": "9/4 19:00",
   "politics_economy": [
     {
-      "title": "高市首相、党役員・内閣改造人事を9月16日の方向で調整",
-      "summary": "政権発足後初となる自民党役員・内閣改造人事について、高市早苗首相が食料品消費税減税の税制改正大綱決定後の9月16日にも踏み切る方向で調整に入ったことが9月3日分かった。鈴木俊一幹事長の処遇や後任候補に挙がる萩生田光一氏の動向が焦点。",
+      "title": "日経平均株価が5営業日ぶり反発、806円高の6万5020円94銭で終値",
+      "summary": "9月4日の東京株式市場で日経平均株価は前日比806円46銭（1.26%）高。米長期金利上昇の一服を受けAI・半導体関連株が買われ、ソフトバンクグループの上昇が押し上げの主役となった。",
+      "source": "財経新聞",
+      "link": "https://www.zaikei.co.jp/article/20260904/868699.html"
+    },
+    {
+      "title": "内閣改造・自民党役員人事、9月中下旬が軸に 高市首相が幹事長続投を判断へ",
+      "summary": "政府・与党関係者が9月3日、内閣改造と党役員人事を9月中下旬に実施する方向で調整していると明らかにした。財務相は片山氏留任、幹事長は鈴木氏続投との見方が伝えられている。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUA1984N0Z10C26A8000000/"
+    },
+    {
+      "title": "ドル円が155円台に円高進行、米早期利上げ観測後退で",
+      "summary": "9月4日の東京外国為替市場で円が買われ、1ドル=155円台前半まで円高が進行した。米FRB高官のハト派発言を受けた米長期金利低下が背景にある。",
+      "source": "財経新聞",
+      "link": "https://www.zaikei.co.jp/article/20260904/868621.html"
+    },
+    {
+      "title": "北方領土・色丹島でインドネシア人労働者の受け入れ進む",
+      "summary": "ロシアの実効支配下にある北方領土・色丹島で、人手不足を補うためインドネシア人労働者の受け入れが進んでいる実態が9月上旬に報じられた。",
       "source": "NHKニュース",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260903de47879"
+      "link": "https://news.web.nhk/newsweb/na/nd-20260903de48059"
     },
     {
-      "title": "青森市の瀬戸子川で氾濫発生、一部地域に緊急安全確保",
-      "summary": "台風と秋雨前線による大雨の影響で9月3日、青森市内を流れる瀬戸子川が氾濫し、市は最も警戒レベルの高い「緊急安全確保」を一部地域に発令した。大雨の影響が北日本にも及んでいることを示す事例。",
-      "source": "NHKニュース",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260903de47882"
-    },
-    {
-      "title": "鹿児島県奄美地方に「線状降水帯」発生の恐れ、4日未明に発表",
-      "summary": "気象庁は9月4日午前0時28分、鹿児島県奄美地方で今後3時間以内に線状降水帯が発生する恐れがあるとして「線状降水帯直前予測」を発表した。台風24号と秋雨前線の影響で九州南部を中心に大雨が続いている。",
-      "source": "tenki.jp(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/71a09f7512089b903b34968176ce40f27ad6a392"
-    },
-    {
-      "title": "上皇さまの葬儀、規模縮小へ 皇居・宮殿で検討",
-      "summary": "宮内庁は、92歳の上皇さまが国民生活への影響を極力少なくしたいとの意向を示していることを踏まえ、葬儀を昭和天皇の際の新宿御苑ではなく皇居・宮殿で実施し、参列者数も約1万人から約2500人規模に大幅縮小する方向で検討していることが9月2日分かった。",
-      "source": "共同通信(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/01aa1f020d1514218bb75db9729232070de4683c"
+      "title": "27年度予算の概算要求、過去最大143兆円規模に",
+      "summary": "財務省がまとめた2027年度予算の各省庁概算要求総額は過去最大の143兆円前後となった。上限のない新投資枠創設などが要因で、4年連続の過去最大更新となる。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUA311BB0R30C26A8000000/"
     }
   ],
   "tech": [
     {
-      "title": "Nvidia、Hugging Faceを129億ドルで買収へ",
-      "summary": "NvidiaはAIプラットフォーム大手Hugging Faceを約129億ドルで買収すると9月3日発表した。300万超のAIモデルと100万本のアプリを抱えるHugging Faceのオープンプラットフォームとしての独立性は維持するとしている。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/"
+      "title": "半導体製造装置市場、2026年Q2は405億ドルで2四半期連続の過去最高",
+      "summary": "SEMIが発表した2026年第2四半期の世界半導体製造装置売上高は前年同期比23%増の405億ドルとなり、AI向け需要を背景に過去最高を更新した（9/4）。",
+      "source": "マイナビ",
+      "link": "https://news.mynavi.jp/techplus/article/20260904-4914480/"
     },
     {
-      "title": "OpenAI、新モデル「Astra(GPT-6 Astra)」提供開始 サイバー能力は「重大」水準",
-      "summary": "OpenAIは9月3日、最新かつ最も高性能とする新モデル「Astra」の提供を開始した。同社の安全性評価基準でサイバー攻撃能力が初めて「Critical(重大)」水準に達したとされ、追加の安全対策を講じたうえで段階的に提供する。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/"
+      "title": "ChatGPT・Claude・Grokが同時に障害、3大AIサービスが揃ってダウン",
+      "summary": "9月3日、OpenAIのChatGPT、AnthropicのClaude、xAIのGrokがほぼ同時に利用障害を起こした。原因は個別と見られるが3社同時の障害は異例で、数十分後に復旧した。",
+      "source": "The Register",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/03/chatgpt-claude-and-grok-all-had-outages-at-the-same-time/5294322"
     },
     {
-      "title": "Google、Gmail・ドキュメント・Keepに会話型AI音声機能を追加",
-      "summary": "Googleは9月3日、Gmail、Googleドキュメント、Keepに会話型AI機能を追加すると発表した。自然な音声での指示や質問でメール検索やメモの整理、文書作成が行えるようになる。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/03/google-launches-ai-voice-features-in-gmail-docs-and-keep/"
+      "title": "サンダース上院議員ら、「超知能AI禁止法案」を発表",
+      "summary": "バーニー・サンダース上院議員とグレッグ・カサール下院議員が9月3日、超知能AIの開発・提供を恒久的に禁止し先進AI開発を一時停止する法案を発表した。",
+      "source": "Axios",
+      "link": "https://www.axios.com/2026/09/03/bernie-sanders-superintelligence-ban-ai-pause"
     },
     {
-      "title": "Meta、新AIモデルの利用データ提供者に大幅割引",
-      "summary": "Metaはコーディング等に使う新モデル「Muse Spark」について、プロンプトや出力結果を今後のモデル開発に提供するユーザー向けに平均約95%の割引を提供していることが9月3日報じられた。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/"
+      "title": "中国AIスタートアップMoonshot、評価額500億ドルで香港上場を申請",
+      "summary": "中国のAI企業Moonshotが評価額約500億ドルで、調達額30億ドル規模の香港IPOを非公開で申請したと報じられた。人気モデル「Kimi K3」が業績を牽引している（9/3）。",
+      "source": "Tech Startups",
+      "link": "https://techstartups.com/2026/09/03/chinese-ai-startup-moonshot-files-for-3-billion-hong-kong-ipo-at-50-billion-valuation/"
     },
     {
-      "title": "Thinking Machines、Accel主導で評価額400億ドル・10億ドル調達を協議",
-      "summary": "元OpenAI CTOのミラ・ムラティ氏が設立したAIラボ、Thinking Machinesが、Accelが主導する新たな資金調達ラウンドで評価額400億ドル以上、調達額10億ドル規模となる方向で協議していると9月3日報じられた。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/"
+      "title": "OpenAIの新モデル「Astra」、不透明な推論アーキテクチャに安全性専門家が懸念",
+      "summary": "OpenAIの新モデルAstraが従来より不透明な新アーキテクチャを採用しているとの報道を受け、AI安全性研究者から監視・規制が困難になるとの懸念が広がっている（9/3）。",
+      "source": "Fortune",
+      "link": "https://fortune.com/2026/09/03/reports-openais-astra-model-uses-a-new-more-efficient-ai-architecture-alarms-ai-safety-experts-who-worry-the-method-makes-models-harder-to-control/"
     },
     {
-      "title": "テスラ、無人ロボタクシー「Cybercab」をオースティンでお披露目",
-      "summary": "テスラは9月3日、ハンドルもペダルもない2人乗りロボタクシー「Cybercab」の量産車を招待制イベントで公開した。カメラとAIのみで走行する完全自動運転車で、Waymoなど競合との自動運転車競争が一段と激化している。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/"
+      "title": "NvidiaのHugging Face買収、独占懸念とオープンソース界隈への影響を指摘する声",
+      "summary": "Nvidiaによる129億ドルでのHugging Face買収発表を受け、独禁法上の懸念やオープンソースAIコミュニティへの影響を指摘する論調が相次いでいる（9/3）。",
+      "source": "The Register",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/03/hugging-face-is-too-important-to-fall-into-nvidias-hands/5294363"
     },
     {
-      "title": "TSMC、AI需要で四半期の製造装置調達必要量がほぼ倍増",
-      "summary": "半導体受託製造最大手のTSMCが、AI需要拡大に対応するため四半期あたりの製造装置調達必要量を昨年末時点の想定の約1.9倍に引き上げたことが9月2日報じられた。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-02/tsmc-s-quarterly-chipmaking-tool-needs-almost-doubled-this-year"
+      "title": "Meta、コーディング・エージェント特化の新モデル「Muse Spark 1.3」公開",
+      "summary": "Metaが9月2日、Meta Superintelligence Labs開発の新モデル「Muse Spark 1.3」を公開。前バージョンよりツール呼び出しやトークン消費を約2割削減しつつ性能を向上させた。",
+      "source": "Axios",
+      "link": "https://www.axios.com/2026/09/02/meta-debuts-muse-spark-13-as-personal-agent-work-continues"
     },
     {
-      "title": "キオクシア、消費電力4割減の新型フラッシュメモリーを公開",
-      "summary": "キオクシアは9月3日、消費電力を4割抑えつつ記憶容量を約6割向上させた新型NAND型フラッシュメモリーを公開した。生成AI需要の拡大を背景に、生産体制強化と競争力向上を狙う。",
-      "source": "TBS NEWS DIG(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/f18a33bbf13994c36c886eb2abcf49035aca7400"
+      "title": "Anthropic、ClaudeがMacをバックグラウンドで操作できる新機能を追加",
+      "summary": "AnthropicはClaude Cowork・Claude CodeにMac向けのバックグラウンドPC操作機能をベータ提供開始。ユーザーが他の作業をしている間にクリックや入力を代行する（9/2）。",
+      "source": "9to5Mac",
+      "link": "https://9to5mac.com/2026/09/02/anthropic-upgrades-claude-codes-computer-use-to-run-in-the-background-on-mac/"
     },
     {
-      "title": "NEC、フィジカルAI・宇宙防衛軸に製造業系企業の買収検討",
-      "summary": "NECは決算会見で、フィジカルAIや宇宙・防衛分野を軸に製造業系企業の買収を検討していることを明らかにしたと9月3日報じられた。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUB013BQ0R00C26A9000000/"
+      "title": "Google、政府・重要インフラ向けサイバーセキュリティ特化AI「Gemini 3.8 Flash Cyber」を発表",
+      "summary": "Googleは9月2日、汎用モデル「Gemini 3.8 Flash」と、脆弱性検出・自動パッチ適用に特化した「Gemini 3.8 Flash Cyber」を同時発表。後者は政府機関等に限定提供される。",
+      "source": "Google Blog",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/"
     },
     {
-      "title": "Anthropic、Claudeで障害発生も数時間で復旧",
-      "summary": "Anthropicは9月3日(米東部時間午前9時41分ごろ)、Opus 5やFable 5.1など複数モデルでエラーが急増する障害が発生したと発表。同日正午過ぎに原因を特定し復旧したことを明らかにした。",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-multiple-models-affected/"
+      "title": "Quantinuumとサウジアラムコ、量子コンピューティング活用へMOU締結",
+      "summary": "量子コンピューター企業QuantinuumとサウジアラムコAramcoが9月3日、エネルギー分野での量子コンピューティング活用に向けた非拘束的MOUを締結したと発表した。",
+      "source": "The Quantum Insider",
+      "link": "https://thequantuminsider.com/2026/09/03/quantinuum-aramco-mou-industrial-quantum-computing/"
     }
   ],
   "x_trending_tech": [
     {
-      "title": "NvidiaのフアンCEO、Hugging Face買収を発表",
-      "summary": "NvidiaのジェンスンフアンCEOが9月3日、Hugging Face買収について「NVIDIAとHugging Faceにとってエキサイティングな日だ。オープンモデルは安全性とサイバーセキュリティを強化し、イノベーションを加速する」と投稿。",
-      "source": "@JensenHuang",
-      "link": "https://x.com/JensenHuang/status/2095482647355244762"
+      "title": "Sam Altman氏、Astraロールアウトの混乱を謝罪し補償を約束",
+      "summary": "OpenAIのAltman CEOが、新モデルAstra提供開始時の不具合について謝罪し、アクセスできなかった日数分の利用制限リセットを提供すると投稿（9/3の投稿）。",
+      "source": "@sama",
+      "link": "https://x.com/sama/status/2095678759651438887"
     },
     {
-      "title": "OpenAI公式、新モデル「GPT-6 Astra」の提供開始を発表",
-      "summary": "OpenAI公式アカウントが9月3日、「GPT-6 Astraは本日、一部の組織向けに展開を開始し、今後数日でChatGPT Plus/Pro/Business/Enterprise、APIでも利用可能になる」と投稿。",
+      "title": "OpenAI公式、新モデル「GPT-6 Astra」の投入を発表",
+      "summary": "OpenAI公式アカウントが「これがGPT-6 Astra。パソコンでできることは何でも代わりにやってくれる」と新モデルの投入を投稿（9/3の投稿）。",
       "source": "@OpenAI",
-      "link": "https://x.com/OpenAI/status/2095595757072191802"
+      "link": "https://x.com/OpenAI/status/2095595741528125780"
     },
     {
-      "title": "イーロン・マスク氏、テスラ「Cybercab」披露に合わせ投稿し話題に",
-      "summary": "イーロン・マスク氏が9月3日朝、テスラの無人ロボタクシー「Cybercab」のオースティンでの披露イベントに合わせ「A Storm of Cybercabs(嵐のようなサイバーキャブ)」と投稿し、大きな反響を呼んだ。",
-      "source": "@elonmusk",
-      "link": "https://x.com/elonmusk/status/2095364595326263447"
+      "title": "バーニー・サンダース氏、超知能AI禁止法案の提出を表明",
+      "summary": "サンダース上院議員が「先進AI開発の即時一時停止と、人間を超える人工知能＝超知能の恒久的禁止が必要だ」と投稿し、新法案発表を告知（9/3の投稿）。",
+      "source": "@BernieSanders",
+      "link": "https://x.com/BernieSanders/status/2095542398084415952"
+    },
+    {
+      "title": "Hugging Face CEO、Nvidiaとの統合合意を発表し話題に",
+      "summary": "Hugging FaceのClement Delangue CEOが「NVIDIAとの129億3000万ドルでの統合を発表できて嬉しい」とXに投稿、オープンソースAI業界で大きな反響を呼んだ（9/3の投稿）。",
+      "source": "@ClementDelangue",
+      "link": "https://x.com/ClementDelangue/status/2095482998674112733"
+    },
+    {
+      "title": "サンダース氏のAI禁止発言、Xで拡散し話題に",
+      "summary": "予測市場PolymarketのX公式アカウントが「84歳のバーニー・サンダース氏が世界各国に先進AI開発の即時一時停止と超知能の恒久禁止を呼びかけた」と投稿し拡散（9/3の投稿）。",
+      "source": "@Polymarket",
+      "link": "https://x.com/Polymarket/status/2095599350395084958"
     }
   ]
 }
