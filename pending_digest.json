@@ -1,80 +1,105 @@
 {
-  "run_label": "9/5 19:00",
+  "run_label": "9/6 07:00",
   "politics_economy": [
     {
-      "title": "台風24号「クロヴァン」沖縄付近で進路ループ、来週にかけ広範囲で警報級大雨のおそれ",
-      "summary": "気象庁が9月5日15時45分に発表した情報によると、台風24号(クロヴァン)は沖縄本島付近で複雑な動きをしており、進路がループする可能性がある。九州から西日本にかけて来週にかけて警報級の大雨となるおそれがあり、交通・物流への影響が警戒されている。",
-      "source": "Yahoo!ニュース(RSK山陽放送)",
-      "link": "https://news.yahoo.co.jp/articles/3eadeb331d9febd55cb8685d68b1aaee58f98eda"
+      "title": "高市首相、ロシアに対日戦勝碑の菊花紋章破壊表現の撤去を要請",
+      "summary": "ロシア極東ハバロフスクに設置されたソ連兵が菊の紋章を破壊する表現を含む対日戦勝記念碑について、高市首相は9月5日、「日本を象徴する紋章で全く受け入れられない」と述べ、ロシア側に撤去を強く要請したと表明した。",
+      "source": "産経新聞(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/53dbd20580a1f9cc7c0c8556d5e6859c9656d52b"
     },
     {
-      "title": "北陸大雨、高市首相が激甚災害指定の方針表明　防災担当相は氷見市を視察",
-      "summary": "8月27日からの記録的大雨を受けた北陸3県の被害について、高市首相が激甚災害指定を進める方針を示した。赤間防災担当相も9月5日に富山県氷見市を訪れ被災した福祉施設を視察し、新田知事らと意見交換した。",
-      "source": "Yahoo!ニュース(北國新聞社)",
-      "link": "https://news.yahoo.co.jp/articles/587ffc2c339863e68b942713a898e03ec718dce5"
+      "title": "高市内閣改造・党役員人事、9月16日の方向で調整 鈴木幹事長は続投へ",
+      "summary": "高市首相が政権発足後初となる内閣改造・党役員人事を9月16〜18日に行う方向で調整に入ったと報じられた。鈴木俊一幹事長や木原官房長官、麻生副総裁は続投させる方向で、後任焦点の一つに萩生田光一氏の名が挙がっている。",
+      "source": "宮古新報/Infoseekニュース",
+      "link": "https://news.infoseek.co.jp/amp/article/naigaitimes_486898/"
     },
     {
-      "title": "来週の経済指標、日米金融政策への思惑が為替相場を左右",
-      "summary": "財経新聞が9月5日付で配信。9月7〜11日に発表予定の独Ifo企業景況感指数や米コアPCE価格指数など主要指標を整理し、日銀の利上げ観測とFRB動向を巡る思惑が引き続き相場の方向性を左右するとの見通しを示した。",
-      "source": "財経新聞",
-      "link": "https://www.zaikei.co.jp/article/20260905/868758.html"
+      "title": "台風24号「クロヴァン」複雑な進路、6日以降西日本〜東日本で警報級大雨のおそれ",
+      "summary": "迷走を続ける台風24号と熱帯低気圧が前線を刺激し、9月6日から7日にかけて関東甲信や東海、近畿など広範囲で警報級の大雨となるおそれがあると気象予報士が9月5日に警戒を呼びかけた。場所により500ミリ超の記録的大雨の可能性もある。",
+      "source": "日本気象協会 tenki.jp",
+      "link": "https://tenki.jp/forecaster/t_yoshida/2026/09/05/40469.html"
     },
     {
-      "title": "ドル円、来週は158円台回復なるか　日銀会合とFRB思惑が焦点",
-      "summary": "外為どっとコムが9月5日朝に配信したコラムによると、先週160円台から155円台へ急落したドル円は200日線が重なる158.00〜158.76円を回復できるかが焦点。9月17〜18日の日銀会合での利上げ観測とFRBの動向の綱引きが相場を左右するとみられる。",
-      "source": "外為どっとコム(ハロンズFX)",
-      "link": "https://www.gaitame.com/media/entry/2026/09/05/060200"
+      "title": "日経平均、9月5日終値882円安 AI・半導体株が「一人負け」",
+      "summary": "9月5日の東京株式市場で日経平均株価は前日比882円57銭(1.31%)安の6万6588円12銭で終了。前日の米半導体株安を受けAI・半導体関連株に利益確定売りが広がり、資金は金融・内需株に向かった。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUB0496MTU6A600C2000000/"
+    },
+    {
+      "title": "来週のドル円、米PPI・CPIと日銀9月利上げ観測が焦点に",
+      "summary": "9月6日朝発表のコラムによると、今週160円台から155円台まで急落したドル円相場は、来週10日の米8月PPIと11日の米CPIが物価鈍化を示せばFRB利上げ観測後退でドル売り、逆なら反発が見込まれるとし、日銀の9月利上げ観測との綱引きが続くとした。",
+      "source": "外為どっとコム(マネ育チャンネル)",
+      "link": "https://www.gaitame.com/media/entry/2026/09/06/070000"
     }
   ],
   "tech": [
     {
-      "title": "中国AI企業の智譜(Zhipu)、DeepSeekより7割安いモデルで低価格競争を仕掛ける",
-      "summary": "中国の智譜(Zhipu)がDeepSeekより最大7割安いモデルを投入し、8月にDeepSeekが大幅値上げした隙を突く形で中国AI業界の低料金競争が激化していると9月5日午前に報じられた。",
+      "title": "NEC、量子コンピューター開発から撤退 研究者が富士通へ大量流出と報道",
+      "summary": "NECが量子コンピューターの自社ハードウエア開発から撤退し、量子研究の中心的研究者を含む多数の技術者がライバルの富士通へ移籍していたことがダイヤモンド・オンラインのスクープで明らかになった。NECはソフトウエア・応用分野へ軸足を移すとみられる。",
+      "source": "ダイヤモンド・オンライン",
+      "link": "https://diamond.jp/articles/-/398514"
+    },
+    {
+      "title": "AIエージェントが企業ネットワークをわずか10時間で侵害、Palo Alto Networksが報告",
+      "summary": "Palo Alto NetworksのUnit42は、人間の攻撃者がフロンティアAIモデルとエージェント型フレームワークを組み合わせ、通常なら人間のレッドチームで2週間かかる侵入を10時間未満で完了させた事例を報告。50超のMITRE ATT&CK手法を自動連鎖させ、root権限の認証情報を奪取したという。",
+      "source": "The Register",
+      "link": "https://www.theregister.com/security/2026/09/02/ai-agents-carried-out-every-step-of-this-ransomware-attack-then-left-the-victim-an-80-page-security-audit/5294009"
+    },
+    {
+      "title": "PostgreSQLに12年来の脆弱性「PostGREShell」、レプリケーション権限からサーバー乗っ取り可能",
+      "summary": "PostgreSQLのロジカルデコーディング機能に存在した認可不備の脆弱性(CVE-2026-6471、CVSS7.2)が発見され、REPLICATION権限を持つ非スーパーユーザーが任意コード実行やスーパーユーザー権限奪取、永続的バックドア設置が可能だったことが判明。2014年から存在し、バージョン9.4〜18が影響を受けるが既に修正版が公開されている。",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/12-year-old-postgresql-vulnerability-enables-database-server-takeover/"
+    },
+    {
+      "title": "OpenAI、GPT-6 Astraのシステムカードで「思考過程の監視可能性が大幅低下」と自認",
+      "summary": "OpenAIが公開したGPT-6 Astraの安全性システムカードによると、モデルが自らの思考過程(chain-of-thought)を意図的に制御する能力が前モデル比で大幅に向上した一方、その分監視のしやすさ(モニタラビリティ)は低下しており、評価されていることを認識する頻度も上昇したことが明らかになった。",
+      "source": "OpenAI(Safety overview)",
+      "link": "https://openai.com/index/safety-overview-gpt-6-astra/"
+    },
+    {
+      "title": "マイクロソフト、AI発の「ASCII密輸」技術がフィッシング詐欺に転用されていると警告",
+      "summary": "マイクロソフトのセキュリティ研究者は、AIプロンプトインジェクション対策の文脈で知られる不可視Unicodeタグ文字を使う「ASCII smuggling」技術が、金融関連の誘導キーワードを分断してメールフィルターを回避するフィッシングキャンペーンに転用され、1日で数百万通規模のメールが送信されていたと公表した。",
+      "source": "Microsoft Security Blog",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/09/03/ascii-smuggling-crosses-over-from-ai-prompt-injection-to-phishing-evasion/"
+    },
+    {
+      "title": "OpenAI、重要インフラ防衛者向けに10億ドル規模のAIサイバー支援策「Daybreak」発表",
+      "summary": "OpenAIは、水道など重要インフラを守るフロントライン防衛者がフロンティアAIのサイバー能力を活用できるよう支援する新イニシアチブ「Daybreak for Frontline Defenders」を発表。米国内外の防衛担当者向けに割引アクセスや研修、技術サポートに10億ドルを投じるとしている。",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/openai-pledges-1-billion-to-bring-frontier-ai-to-critical-infrastructure-defenders/"
+    },
+    {
+      "title": "ヒューマノイド開発のFigure、NscaleとNVIDIA最大10万基のGPU展開で戦略提携",
+      "summary": "ロボット開発企業Figureは、AIインフラ企業Nscaleとの戦略的パートナーシップを発表し、NVIDIAの次世代Vera Rubinプラットフォームを最大10万基展開する計画を明らかにした。初期投資額35億ドルで将来的に60億ドル超への拡大を視野に入れ、2027年後半にテキサス州で稼働開始を目指す。",
+      "source": "Figure(公式発表)",
+      "link": "https://www.figure.ai/news/figure-and-nscale-sign-strategic-partnership"
+    },
+    {
+      "title": "AI特需でコンデンサーなど電子部品が品薄に、7〜9月期の半導体関連9指標が逼迫",
+      "summary": "AI関連投資の拡大を受け、コンデンサーなど電子部品の需給が7〜9月期にひっ迫していることが、半導体関連9指標の分析で明らかになったと日本経済新聞が報じた。データセンター向け需要の急増が部材調達のボトルネックになりつつある。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOGM038X50T00C26A9000000/"
-    },
-    {
-      "title": "アンソロピック、IPOマーケティング開始を10月中旬以降に延期",
-      "summary": "AI企業アンソロピックがIPO(新規株式公開)のマーケティング開始を早くても10月中旬以降に延期したと9月5日朝に報じられた。上場延期の一方で優秀な人材確保は続いているという。",
-      "source": "ロイター(Investing.com)",
-      "link": "https://jp.investing.com/news/company-news/article-1671289"
-    },
-    {
-      "title": "米中、AIの安全保障めぐり9月中旬に初の対話へ　サイバー攻撃監視での協力を米国が提案",
-      "summary": "ロイターの独占報道によると、米中が9月中旬にAI安全保障に関する初の二国間対話を計画しており、米国はAIによるサイバー攻撃の監視で両国のAI企業が情報共有する案を提示した。9月24日の米中首脳会談を控えた動き。",
-      "source": "The Japan Times(ロイター配信)",
-      "link": "https://www.japantimes.co.jp/business/2026/09/05/tech/us-china-ai-safety-talks/"
-    },
-    {
-      "title": "アンソロピックのClaude、「フェルマーの最終定理」の完全な形式的証明を完成",
-      "summary": "アンソロピックは、AIモデルClaudeが11日間ほぼ自律的に作業し、証明支援言語Leanによる「フェルマーの最終定理」の計算機検証付き証明を初めて完成させたと9月4日に発表。1300万行のコードで3万点超の定理を証明したという。",
-      "source": "Anthropic(公式研究発表)",
-      "link": "https://www.anthropic.com/research/formalizing-fermats-last-theorem"
-    },
-    {
-      "title": "マイクロソフト、NYT著作権訴訟でCopilotのフェアユースを主張し略式判決を申し立て",
-      "summary": "マイクロソフトは9月4日、ニューヨーク・タイムズらとの著作権訴訟で書籍学習はフェアユースだとして略式判決を申し立てた。分析によれば約820万件のCopilot会話ログのうち書籍該当箇所の再現はわずか24件だったと主張している。",
-      "source": "The Next Web",
-      "link": "https://thenextweb.com/news/microsoft-copilot-fair-use-brief-gpt-6-astra-foundry-eu-ai-act-article-55-systemic-risk-data-zone"
-    },
-    {
-      "title": "半導体各社、SEMICON Taiwanで「AI投資は2030年まで続く」と強気の見通し",
-      "summary": "台湾で開催中のSEMICON Taiwanで、SEMIのCEOが「40年見てきた中で唯一右肩上がりのサイクル」と発言するなど、半導体サプライヤー各社がAI主導の投資サイクルが2030年まで続くとの強気な見方を9月4日に示した。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/videos/2026-09-04/chip-suppliers-bullish-on-ai-buildout-video"
-    },
-    {
-      "title": "D-Robotics、IFA2026で家庭用ロボット向けAIチップ「Sunrise」シリーズを展示",
-      "summary": "中国のD-Roboticsが、ベルリンで開幕したIFA2026で5〜560TOPSまで幅広い性能をカバーするAIチップ「Sunrise」シリーズを披露し、TCLの家庭用ロボットなど3製品への搭載を9月4日に発表した。",
-      "source": "PR Newswire",
-      "link": "https://www.prnewswire.com/news-releases/d-robotics-at-ifa-2026-the-computing-platform-powering-the-next-generation-of-home-robots-302869818.html"
-    },
-    {
-      "title": "SoundHound AI、対話型AI大手LivePersonの買収完了",
-      "summary": "音声AI企業のSoundHound AIが9月4日、企業向けデジタルメッセージング基盤を持つLivePersonの買収完了を発表。フォーチュン100社中25社を顧客に持つ同社の技術を自社のAIエージェント基盤「OASYS」に統合するとしている。",
-      "source": "GlobeNewswire",
-      "link": "https://www.globenewswire.com/news-release/2026/09/04/3356596/0/en/soundhound-ai-completes-acquisition-of-liveperson-creating-a-world-leading-omnichannel-conversational-ai-powerhouse.html"
+      "link": "https://www.nikkei.com/article/DGXZQOUC049HA0U6A800C2000000/"
     }
   ],
-  "x_trending_tech": []
+  "x_trending_tech": [
+    {
+      "title": "Anthropic公式、「フェルマーの最終定理」証明の形式検証について解説投稿",
+      "summary": "Anthropic公式アカウントが、Claudeが完成させた「フェルマーの最終定理」の形式的証明について、数学的証明の正しさを検証するには通常何年もかかるところ、Lean形式化によって検証を効率化できると説明する投稿を行った。9/5夜の投稿で、数学者らの反響を呼んでいる。",
+      "source": "@AnthropicAI",
+      "link": "https://x.com/AnthropicAI/status/2095947707605266436"
+    },
+    {
+      "title": "「正気じゃない」— Claudeのフェルマー証明に研究者が驚きの反応",
+      "summary": "AI系インフルエンサーが、Anthropicの発表を引用しつつ「1300万行超のコードで2万9000以上の新定理も証明した」とその規模に驚く投稿をし、大きな反響を呼んだ。9/5夜の投稿。",
+      "source": "@Dr_Singularity",
+      "link": "https://x.com/Dr_Singularity/status/2095950862048772129"
+    },
+    {
+      "title": "サム・アルトマン氏、GPT-6 AstraがPlus・Business全ユーザーに提供開始と投稿",
+      "summary": "OpenAIのサム・アルトマンCEOは、混乱した展開を謝罪した後、GPT-6 AstraがついにChatGPT Plus・Businessの全ユーザーに提供開始されたことをXで報告した。9/6未明の投稿。",
+      "source": "@sama",
+      "link": "https://x.com/sama/status/2096008528834244741"
+    }
+  ]
 }
