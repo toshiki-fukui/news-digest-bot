@@ -1,111 +1,80 @@
 {
-  "run_label": "9/5 07:00",
+  "run_label": "9/5 19:00",
   "politics_economy": [
     {
-      "title": "米雇用統計、8月は16.2万人増で市場予想を大幅に上回る",
-      "summary": "米労働省が9月4日発表した8月の雇用統計で非農業部門の就業者数は前月比16.2万人増となり、5万〜7万人増の市場予想を大きく上回った。失業率は4.1%で横ばい。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOGN02C6D0S6A900C2000000/"
+      "title": "台風24号「クロヴァン」沖縄付近で進路ループ、来週にかけ広範囲で警報級大雨のおそれ",
+      "summary": "気象庁が9月5日15時45分に発表した情報によると、台風24号(クロヴァン)は沖縄本島付近で複雑な動きをしており、進路がループする可能性がある。九州から西日本にかけて来週にかけて警報級の大雨となるおそれがあり、交通・物流への影響が警戒されている。",
+      "source": "Yahoo!ニュース(RSK山陽放送)",
+      "link": "https://news.yahoo.co.jp/articles/3eadeb331d9febd55cb8685d68b1aaee58f98eda"
     },
     {
-      "title": "NYダウ624ドル高、年内利上げリスク後退で続伸",
-      "summary": "9月4日のNY株式市場でダウ平均は624.16ドル高の53686.11ドルで取引を終えた。FRBウォラー理事のハト派寄りの発言を受け、年内の追加利上げ観測が後退したことが好感された。",
+      "title": "北陸大雨、高市首相が激甚災害指定の方針表明　防災担当相は氷見市を視察",
+      "summary": "8月27日からの記録的大雨を受けた北陸3県の被害について、高市首相が激甚災害指定を進める方針を示した。赤間防災担当相も9月5日に富山県氷見市を訪れ被災した福祉施設を視察し、新田知事らと意見交換した。",
+      "source": "Yahoo!ニュース(北國新聞社)",
+      "link": "https://news.yahoo.co.jp/articles/587ffc2c339863e68b942713a898e03ec718dce5"
+    },
+    {
+      "title": "来週の経済指標、日米金融政策への思惑が為替相場を左右",
+      "summary": "財経新聞が9月5日付で配信。9月7〜11日に発表予定の独Ifo企業景況感指数や米コアPCE価格指数など主要指標を整理し、日銀の利上げ観測とFRB動向を巡る思惑が引き続き相場の方向性を左右するとの見通しを示した。",
       "source": "財経新聞",
-      "link": "https://www.zaikei.co.jp/article/20260904/868583.html"
+      "link": "https://www.zaikei.co.jp/article/20260905/868758.html"
     },
     {
-      "title": "円相場が1カ月ぶり155円台、日銀利上げ観測が強まる",
-      "summary": "9月4日の外国為替市場で円が対ドルで一時155円台まで上昇し、約1カ月ぶりの円高水準となった。9月17〜18日の日銀会合での利上げ確率は市場で7割超に織り込まれつつある。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOFL040C0TU6A900C2000000/"
-    },
-    {
-      "title": "内閣改造、片山財務相は留任へ　早ければ16日にも人事断行",
-      "summary": "高市早苗首相が9月中下旬に予定する内閣改造・党役員人事で、片山さつき財務相を留任させる方向で調整に入ったことが9月4日分かった。早ければ16日にも人事に踏み切るとみられている。",
-      "source": "Yahoo!ニュース",
-      "link": "https://news.yahoo.co.jp/pickup/6594150"
-    },
-    {
-      "title": "日米豪印、クアッド外相会合開催へ高官協議をニューデリーで実施",
-      "summary": "外務省は9月4日、日本・米国・オーストラリア・インドの4カ国（クアッド）の高官協議をインド・ニューデリーで開いたと発表。首脳会合実現に向け意思疎通を継続することで一致した。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026090400674&g=pol&m=rss"
+      "title": "ドル円、来週は158円台回復なるか　日銀会合とFRB思惑が焦点",
+      "summary": "外為どっとコムが9月5日朝に配信したコラムによると、先週160円台から155円台へ急落したドル円は200日線が重なる158.00〜158.76円を回復できるかが焦点。9月17〜18日の日銀会合での利上げ観測とFRBの動向の綱引きが相場を左右するとみられる。",
+      "source": "外為どっとコム(ハロンズFX)",
+      "link": "https://www.gaitame.com/media/entry/2026/09/05/060200"
     }
   ],
   "tech": [
     {
-      "title": "テスラの無人ロボタクシー「サイバーキャブ」、稼働直後に米当局が調査開始",
-      "summary": "米運輸省道路交通安全局(NHTSA)は9月4日、ハンドルもペダルもないテスラの新型ロボタクシー「サイバーキャブ」の自己認証プロセスを調べる調査を開始したと発表。オースティンでの営業運行開始から数時間後の発表となった。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/04/feds-launch-investigation-into-teslas-cybercab-deployment/"
+      "title": "中国AI企業の智譜(Zhipu)、DeepSeekより7割安いモデルで低価格競争を仕掛ける",
+      "summary": "中国の智譜(Zhipu)がDeepSeekより最大7割安いモデルを投入し、8月にDeepSeekが大幅値上げした隙を突く形で中国AI業界の低料金競争が激化していると9月5日午前に報じられた。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOGM038X50T00C26A9000000/"
     },
     {
-      "title": "米議会、OpenAIの「AGI宣言」と同日に暴走AIエージェント規制法案を提出",
-      "summary": "米下院の超党派議員が9月3日、AIエージェントの安全運用に関する国家基準策定をNISTに義務付ける「Stop Rogue AI Act」を提出。OpenAIのHugging Face侵害事件を受けた措置で、奇しくもOpenAIがGPT-6 Astraで「AGI時代」到来を宣言したのと同じ週の動きとなった。",
-      "source": "Tech Times",
-      "link": "https://www.techtimes.com/articles/326603/20260904/congress-moves-criminalize-agi-same-day-openai-declared-its-arrival.htm"
+      "title": "アンソロピック、IPOマーケティング開始を10月中旬以降に延期",
+      "summary": "AI企業アンソロピックがIPO(新規株式公開)のマーケティング開始を早くても10月中旬以降に延期したと9月5日朝に報じられた。上場延期の一方で優秀な人材確保は続いているという。",
+      "source": "ロイター(Investing.com)",
+      "link": "https://jp.investing.com/news/company-news/article-1671289"
     },
     {
-      "title": "サウジHUMAIN、中国MiniMax基盤の4280億パラメータ・アラビア語AI「humain-m3」を発表",
-      "summary": "サウジ政府系AI企業HUMAINは9月3日、中国MiniMaxのオープンウェイトモデルを基盤にした4280億パラメータのアラビア語特化AI「humain-m3」をリヤドで発表。自国開発ではなく中国製基盤の採用が注目されている。",
-      "source": "Tech Times",
-      "link": "https://www.techtimes.com/articles/326703/20260904/humain-launches-humain-m3-saudi-arabias-arabic-ai-runs-chinese-weights-scores-unverified.htm"
+      "title": "米中、AIの安全保障めぐり9月中旬に初の対話へ　サイバー攻撃監視での協力を米国が提案",
+      "summary": "ロイターの独占報道によると、米中が9月中旬にAI安全保障に関する初の二国間対話を計画しており、米国はAIによるサイバー攻撃の監視で両国のAI企業が情報共有する案を提示した。9月24日の米中首脳会談を控えた動き。",
+      "source": "The Japan Times(ロイター配信)",
+      "link": "https://www.japantimes.co.jp/business/2026/09/05/tech/us-china-ai-safety-talks/"
     },
     {
-      "title": "マイクロソフト、最速・最安級の音声認識AI「MAI-Transcribe-2」を発表",
-      "summary": "マイクロソフトは9月3〜4日、時間あたり10セントで利用でき60言語に対応する音声認識モデル「MAI-Transcribe-2」を発表。OpenAIやGoogle、ElevenLabsの競合モデルより高速・低価格だとしている（期間限定価格）。",
-      "source": "Microsoft AI",
-      "link": "https://microsoft.ai/news/mai-transcribe-2-is-the-fastest-most-accurate-and-cheapest-speech-recognition-model-in-the-world/"
+      "title": "アンソロピックのClaude、「フェルマーの最終定理」の完全な形式的証明を完成",
+      "summary": "アンソロピックは、AIモデルClaudeが11日間ほぼ自律的に作業し、証明支援言語Leanによる「フェルマーの最終定理」の計算機検証付き証明を初めて完成させたと9月4日に発表。1300万行のコードで3万点超の定理を証明したという。",
+      "source": "Anthropic(公式研究発表)",
+      "link": "https://www.anthropic.com/research/formalizing-fermats-last-theorem"
     },
     {
-      "title": "AIデータセンター新興Crusoe、30億ドル超調達し評価額300億ドルに",
-      "summary": "クラウド・データセンター事業者Crusoeが9月3日までに30億ドル超のシリーズFを調達し評価額は約300億ドルとなったと報じられた。2025年10月時点からほぼ3倍への急上昇となる。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/"
+      "title": "マイクロソフト、NYT著作権訴訟でCopilotのフェアユースを主張し略式判決を申し立て",
+      "summary": "マイクロソフトは9月4日、ニューヨーク・タイムズらとの著作権訴訟で書籍学習はフェアユースだとして略式判決を申し立てた。分析によれば約820万件のCopilot会話ログのうち書籍該当箇所の再現はわずか24件だったと主張している。",
+      "source": "The Next Web",
+      "link": "https://thenextweb.com/news/microsoft-copilot-fair-use-brief-gpt-6-astra-foundry-eu-ai-act-article-55-systemic-risk-data-zone"
     },
     {
-      "title": "NECとAnthropic、サイバー防衛協業を拡大　「Claude Mythos」を脆弱性管理に活用",
-      "summary": "NECは9月2日、Anthropicのフロンティアモデル「Claude Mythos Preview」を脆弱性管理や防御的サイバーセキュリティ業務に活用すると発表。Anthropicの「Project Glasswing」にも参画する。",
-      "source": "ITmedia",
-      "link": "https://www.itmedia.co.jp/business/articles/2609/03/news052.html"
+      "title": "半導体各社、SEMICON Taiwanで「AI投資は2030年まで続く」と強気の見通し",
+      "summary": "台湾で開催中のSEMICON Taiwanで、SEMIのCEOが「40年見てきた中で唯一右肩上がりのサイクル」と発言するなど、半導体サプライヤー各社がAI主導の投資サイクルが2030年まで続くとの強気な見方を9月4日に示した。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/videos/2026-09-04/chip-suppliers-bullish-on-ai-buildout-video"
     },
     {
-      "title": "Google、実攻撃で悪用のChromeゼロデイ脆弱性に緊急パッチ",
-      "summary": "Googleは9月4日、実際の攻撃での悪用が確認されたV8エンジンの型混同の脆弱性(CVE-2026-85046、CVSS8.8)を修正する緊急アップデートをChromeに配信した。2026年に入り6件目の悪用済みゼロデイとなる。",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/09/google-releases-chrome-update-to-patch.html"
+      "title": "D-Robotics、IFA2026で家庭用ロボット向けAIチップ「Sunrise」シリーズを展示",
+      "summary": "中国のD-Roboticsが、ベルリンで開幕したIFA2026で5〜560TOPSまで幅広い性能をカバーするAIチップ「Sunrise」シリーズを披露し、TCLの家庭用ロボットなど3製品への搭載を9月4日に発表した。",
+      "source": "PR Newswire",
+      "link": "https://www.prnewswire.com/news-releases/d-robotics-at-ifa-2026-the-computing-platform-powering-the-next-generation-of-home-robots-302869818.html"
     },
     {
-      "title": "OpenAI、AIが脆弱性発見から修正確認まで担う「Defense Factory」構想を発表",
-      "summary": "OpenAIは、フロンティアモデルを使い脆弱性の発見・検証・パッチ提案・修正確認までを継続的に自動で行う「Defense Factory」構想を発表。オープンウェイトモデルを悪用する攻撃者に対し防御側優位を保つ狙いとしている。",
-      "source": "OpenAI",
-      "link": "https://openai.com/the-defense-factory/"
-    },
-    {
-      "title": "AI半導体株が上昇、BofAが「エージェンティックAI」評価しIntel・AMDの目標株価引き上げ",
-      "summary": "9月4日の米株式市場でNvidia、AMD、Intelなど半導体株が上昇。バンク・オブ・アメリカがCPUの役割拡大を見込みAMDやArmの目標株価を引き上げ、Intelを「買い」に格上げしたことが材料視された。",
-      "source": "TipRanks",
-      "link": "https://www.tipranks.com/news/why-ai-chip-stocks-nvidia-amd-intel-are-rising-today-september-4"
-    },
-    {
-      "title": "米テキサス州、データセンターの新規電力接続を凍結　「幽霊需要」474GWに対応",
-      "summary": "AI向けデータセンターの投機的な電力需要（「幽霊需要」）が474ギガワットに急増したことを受け、米テキサス州は主要データセンター拠点として初めて新規の送電網接続を凍結し計画の精査に乗り出した。",
-      "source": "Technology.org",
-      "link": "https://www.technology.org/2026/09/04/texas-freezes-data-center-grid-connections-474-gw/"
+      "title": "SoundHound AI、対話型AI大手LivePersonの買収完了",
+      "summary": "音声AI企業のSoundHound AIが9月4日、企業向けデジタルメッセージング基盤を持つLivePersonの買収完了を発表。フォーチュン100社中25社を顧客に持つ同社の技術を自社のAIエージェント基盤「OASYS」に統合するとしている。",
+      "source": "GlobeNewswire",
+      "link": "https://www.globenewswire.com/news-release/2026/09/04/3356596/0/en/soundhound-ai-completes-acquisition-of-liveperson-creating-a-world-leading-omnichannel-conversational-ai-powerhouse.html"
     }
   ],
-  "x_trending_tech": [
-    {
-      "title": "Chromeのゼロデイ脆弱性が実攻撃で悪用中、緊急更新を呼びかける投稿が拡散",
-      "summary": "セキュリティ専門アカウントが、Googleが緊急配信したChromeのV8エンジンの深刻なゼロデイ脆弱性(CVE-2026-85046)修正パッチについて注意喚起（9/4夕方の投稿）。",
-      "source": "@The_Cyber_News",
-      "link": "https://x.com/The_Cyber_News/status/2095767967577600011"
-    },
-    {
-      "title": "GPT-6 Astra、ChatGPT Plusでのアクセス案内が二転三転し混乱と話題に",
-      "summary": "OpenAIウォッチャーのアカウントが、GPT-6 AstraがPlusプランでは通常チャットで使えず「ChatGPT Work」や「Codex」経由に限定されるとの案内の矛盾を指摘し議論を呼んだ（9/4朝の投稿）。",
-      "source": "@TokenGremlin",
-      "link": "https://x.com/TokenGremlin/status/2095692299049009225"
-    }
-  ]
+  "x_trending_tech": []
 }
