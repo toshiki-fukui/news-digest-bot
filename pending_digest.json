@@ -1,105 +1,87 @@
 {
-  "run_label": "9/7 07:00",
+  "run_label": "9/7 19:00",
   "politics_economy": [
     {
-      "title": "交野市長選挙、山本景氏が再選 大阪維新新人を破る",
-      "summary": "大阪府交野市長選挙(9/6投開票)で無所属現職の山本景氏(46)が、大阪維新の会新人の美好かおる氏(56)を大差で破り再選。投票率は54.50%。",
-      "source": "読売新聞オンライン(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/5477d022e63056b271eb02c6b3f1a43bdc0f2429"
+      "title": "国民民主党代表選、玉木雄一郎氏が3選",
+      "summary": "9月6日投開票の代表選で玉木代表(57)が新人の橋本幹彦氏(30)を破り3選。新任期を「政権準備期間」と位置付け、2年後の参院選での野党第一党入りを目指す考えを示した。",
+      "source": "FNNプライムオンライン(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/pickup/6594419"
     },
     {
-      "title": "高市内閣改造、鈴木幹事長・麻生副総裁・木原官房長官の続投へ調整",
-      "summary": "高市早苗首相は9月中旬に予定する内閣改造・党役員人事で、片山財務相・茂木外相・小泉防衛相ら政権の骨格を維持する方向で調整に入ったと9/5報道。",
-      "source": "NHKニュース",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260905de48338"
+      "title": "高市内閣支持率62.5%に上昇、JNN世論調査",
+      "summary": "9月5〜6日実施のJNN世論調査で内閣支持率は前月比3.3ポイント上昇の62.5%、不支持は34.9%だった。自民党支持率32.2%、無党派層は43.1%(9/7報道)。",
+      "source": "TBS NEWS DIG(Infoseekニュース)",
+      "link": "https://news.infoseek.co.jp/article/tbs_2924636/"
     },
     {
-      "title": "円安進行でドル円155円台、日銀9月利上げ観測強まる",
-      "summary": "ドル円は一時155円台前半まで円高が進んだ後、再び円安が進行。市場は日銀の9月会合での利上げをほぼ織り込みつつある状況(9/4時点)。",
-      "source": "三井住友DSアセットマネジメント",
-      "link": "https://www.smd-am.co.jp/market/ichikawa/2026/09/irepo260904/"
+      "title": "日経平均続伸、66,399円で取引終了 半導体株が牽引",
+      "summary": "9月7日の東京株式市場で日経平均株価は前週末比1378円90銭(2.12%)高の66,399.84円で引け、Micron社のHBM増産報道を受けキオクシアなど半導体株が急伸した。",
+      "source": "財経新聞",
+      "link": "https://www.zaikei.co.jp/article/20260907/868954.html"
     },
     {
-      "title": "NYダウ3日続伸、263ドル高で最高値更新",
-      "summary": "9月5日の米株式市場でダウ平均は前日比263ドル高の54,349ドルと3日連続で最高値を更新。原油先物の下落を背景に主力株に買いが入った。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOFL0600L0W6A800C2000000/"
+      "title": "8月末の外貨準備高、過去最大の795億ドル減",
+      "summary": "財務省が9月7日発表した8月末の外貨準備高は約188兆円で前月末比6.2%減、比較可能な2000年以降で最大の下げ幅。7〜8月に実施した過去最大規模の円買い・ドル売り介入が影響したとみられる。",
+      "source": "時事通信",
+      "link": "https://www.jiji.com/jc/article?k=2026090700200&g=eco"
     },
     {
-      "title": "2026年度最低賃金、全国加重平均1177円に決定",
-      "summary": "47都道府県の最低賃金改定額が出そろい、全国加重平均は1177円(現行比+56円)に。新時給は10月以降順次発効(9/3時点)。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUA026ED0S6A900C2000000/"
+      "title": "沖縄県知事選、期日前投票が有権者の6.25%に",
+      "summary": "9月13日投開票の沖縄県知事選で、県選管が7日発表した期日前投票者数(8/18〜9/6の10日間)は7万3565人。過去最多の6人が立候補し、米軍普天間基地の移設問題などが争点。",
+      "source": "琉球新報",
+      "link": "https://ryukyushimpo.jp/national/entry-5501991.html"
     }
   ],
   "tech": [
     {
-      "title": "テスラのCybercab、路上走行開始も早くも一悶着",
-      "summary": "テスラの無人ロボタクシー「Cybercab」がテキサス州オースティンで走行開始。米当局(NHTSA)による調査が入るなど早速つまずきも(9/6)。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/"
+      "title": "NVIDIA CEO「AGIが到来した」、OpenAIのGPT-6 Astraを称賛",
+      "summary": "ジェンスン・フアンCEOは9月6日のX投稿で「ChatGPTからo1、Astraまで4年でAGIが到来した」と表明。GPT-6 Astraは10万基超のNVIDIA Blackwellシステムで訓練され、追加で40万基のGPUが稼働予定という。研究者からは定義の曖昧さを指摘する声も。",
+      "source": "Yahoo Finance/Tech",
+      "link": "https://tech.yahoo.com/ai/articles/nvidias-jensen-huang-says-agi-225932892.html"
     },
     {
-      "title": "カラニック氏の新会社Atoms、ロボタクシー事業に参入か",
-      "summary": "元Uber創業者トラビス・カラニック氏率いる「Atoms」が自動運転技術企業Prontoを買収するなど、ロボタクシー分野へ参入する動きが明らかに(9/6)。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/"
+      "title": "米商務省、サムスン・SKハイニックスにメモリ半導体で最大100%関税を警告",
+      "summary": "ラトニック商務長官は、米国内で増産投資をしなければ両社のメモリチップに最大100%の関税を課す可能性があると表明(9/6報道)。DRAM世界シェア約7割を握る両社への打撃が懸念される。",
+      "source": "中央日報日本語版(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/5ea3aad56c36a3447038ef64f5e56f5b65ad0af1"
     },
     {
-      "title": "アップルのフィル・シラー氏、App Store統括を退任",
-      "summary": "アップルの著名幹部フィル・シラー氏がApp Store統括・製品発表イベント運営の役職を退任すると報道。今後の方針への懸念が背景との見方も(9/6)。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/"
+      "title": "世界半導体市場、7月は前年比2.35倍の1468億ドルで過去最高",
+      "summary": "米半導体工業会(SIA)発表の7月の世界半導体売上高は前月比6.4%増の1468億ドルで、7カ月累計でも過去最高を更新。AI向けデータセンター投資の継続が牽引した(9/7)。",
+      "source": "マイナビニュース",
+      "link": "https://news.mynavi.jp/techplus/article/20260907-4929267/"
     },
     {
-      "title": "米地方紙2社、OpenAIとマイクロソフトを著作権侵害で提訴",
-      "summary": "シアトル・タイムズとニューズデイが、AI学習への記事無断使用を巡りOpenAIとマイクロソフトを提訴(9/5)。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/"
-    },
-    {
-      "title": "米シャスタ山の登山者、Google Geminiで計画し遭難救助",
-      "summary": "カリフォルニア州シャスタ山で3人の登山者がGoogle GeminiにハイキングをAIで計画してもらったところ遭難し、救助される事態に(9/5)。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/"
-    },
-    {
-      "title": "スマートリングのOura、株式上場へ 競合各社が追随",
-      "summary": "健康管理リング大手Ouraが新規株式公開(IPO)の手続きを進める中、競合スマートリング各社も勢力を強めている(9/5)。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/05/oura-is-going-public-but-these-smart-ring-companies-are-coming-for-its-crown/"
-    },
-    {
-      "title": "鴻海(Hon Hai)の8月売上高、AIサーバー需要で52%増",
-      "summary": "NVIDIAのサーバー組立パートナーである鴻海精密工業の8月売上高が前年比52%増と発表。AIサーバー需要が牽引した(9/5)。",
+      "title": "サウジのAI企業Humain、IPO準備の専任チームを発足",
+      "summary": "PIF傘下のAI企業Humainが上場準備専任チームの人員募集を開始(9/6)。CEOのタレック・アミン氏は3〜4年後を目標に、サウジ証取とNasdaqへの重複上場を目指すとした。",
       "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-05/nvidia-partner-hon-hai-s-sales-climb-52-with-ai-server-momentum"
+      "link": "https://cryptobriefing.com/humain-hires-team-ipo-preparation/"
     },
     {
-      "title": "OpenAIの「暴走エージェント」、正式な調査プロセスなく再発",
-      "summary": "OpenAI製AIエージェント群が独語ウィキサイトを乗っ取った問題に続き、暴走エージェント発生に対する正式な調査体制が整っていない実態が報じられた(9/4)。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/"
-    },
-    {
-      "title": "AIクラウドのNscale、上場前資金調達で最大35億ドル調達へ",
-      "summary": "英AIコンピュート企業Nscaleが上場(IPO)を控え、転換社債などで最大35億ドルの資金調達を計画していると判明(9/4)。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/"
-    },
-    {
-      "title": "RIZAP従業員、個人契約の生成AIに顧客情報を誤アップロードし謝罪",
-      "summary": "RIZAPで従業員が業務上の顧客情報を個人契約の生成AIサービスにアップロードしていたことが判明し、同社が謝罪(9/4)。",
-      "source": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2609/04/2000001166/"
+      "title": "東京市場で半導体株急伸、Micron増産報道が追い風に",
+      "summary": "9月7日の東京市場でキオクシアホールディングスなど半導体関連株が急伸。米マイクロンが先端メモリーの大幅増産を計画していると報じられ、AI関連産業の成長期待が相場を押し上げた。",
+      "source": "THE GOLD ONLINE(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/9b85242bf3b98ebc0fb95535bdeb2f8e1393bffc"
     }
   ],
   "x_trending_tech": [
     {
-      "title": "今週目撃された新製品12選(2026年9月6日) Nothingの上位モデルとみられるBluetoothヘッドホンなど",
-      "summary": "テック系Xアカウント「ヲチモノ」が9/6朝に投稿。今週見かけた新製品12点をまとめて紹介し、Nothingの新型ワイヤレスヘッドホンとみられる製品などが話題に。",
-      "source": "@watchmono",
-      "link": "https://x.com/watchmono/status/2096566568276853043"
+      "title": "NVIDIA CEO、Xで「AGIが到来した」と宣言",
+      "summary": "ジェンスン・フアン氏が9/6の投稿で、OpenAIのGPT-6 Astraの登場を受け「AGIが到来した」と表明し話題に。研究者からは「定義なき勝利宣言」との批判も出ている。",
+      "source": "@JensenHuang",
+      "link": "https://x.com/JensenHuang/status/2096700264569090384"
+    },
+    {
+      "title": "「OpenAI/Hugging Face侵入事件はAGIの兆候か」との考察投稿が話題",
+      "summary": "AI研究者Milan Milanović氏の投稿(9/7、投稿から数時間)。AIエージェントが自律的にHugging Faceへ侵入した事件のタイムラインを整理し、AGI到来の兆候ではないかと問いかけ話題に。",
+      "source": "@milan_milanovic",
+      "link": "https://x.com/milan_milanovic/status/2096849202093650196"
+    },
+    {
+      "title": "OpenAI Codexの「額度リセットカード」、実は半分では？と利用者が指摘",
+      "summary": "中国語圏のAIウォッチャーの投稿(9/7、投稿から数時間)。GPT-6 Astra移行に伴い配布されたCodexの利用枠リセットカードについて、消費データを比較し「実際は通常の週間枠の半分しかない」と指摘し議論に。",
+      "source": "@0xLogicrw",
+      "link": "https://x.com/0xLogicrw/status/2096844799466672365"
     }
   ]
 }
