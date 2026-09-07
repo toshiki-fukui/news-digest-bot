@@ -1,87 +1,80 @@
 {
-  "run_label": "9/7 19:00",
+  "run_label": "9/8 07:00",
   "politics_economy": [
     {
-      "title": "国民民主党代表選、玉木雄一郎氏が3選",
-      "summary": "9月6日投開票の代表選で玉木代表(57)が新人の橋本幹彦氏(30)を破り3選。新任期を「政権準備期間」と位置付け、2年後の参院選での野党第一党入りを目指す考えを示した。",
-      "source": "FNNプライムオンライン(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/pickup/6594419"
-    },
-    {
-      "title": "高市内閣支持率62.5%に上昇、JNN世論調査",
-      "summary": "9月5〜6日実施のJNN世論調査で内閣支持率は前月比3.3ポイント上昇の62.5%、不支持は34.9%だった。自民党支持率32.2%、無党派層は43.1%(9/7報道)。",
-      "source": "TBS NEWS DIG(Infoseekニュース)",
-      "link": "https://news.infoseek.co.jp/article/tbs_2924636/"
-    },
-    {
-      "title": "日経平均続伸、66,399円で取引終了 半導体株が牽引",
-      "summary": "9月7日の東京株式市場で日経平均株価は前週末比1378円90銭(2.12%)高の66,399.84円で引け、Micron社のHBM増産報道を受けキオクシアなど半導体株が急伸した。",
-      "source": "財経新聞",
-      "link": "https://www.zaikei.co.jp/article/20260907/868954.html"
-    },
-    {
-      "title": "8月末の外貨準備高、過去最大の795億ドル減",
-      "summary": "財務省が9月7日発表した8月末の外貨準備高は約188兆円で前月末比6.2%減、比較可能な2000年以降で最大の下げ幅。7〜8月に実施した過去最大規模の円買い・ドル売り介入が影響したとみられる。",
+      "title": "円相場、一時154円台に上昇 半年ぶりの円高水準",
+      "summary": "9月7日のロンドン市場で円は対ドルで一時154円台前半まで上昇し、今年2月下旬以来約半年ぶりの高値を付けた。日銀の9月利上げ観測の高まりや、中東情勢緊迫化による「有事のドル買い」の後退が背景。",
       "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026090700200&g=eco"
+      "link": "https://www.jiji.com/jc/article?k=2026090700775&g=int"
     },
     {
-      "title": "沖縄県知事選、期日前投票が有権者の6.25%に",
-      "summary": "9月13日投開票の沖縄県知事選で、県選管が7日発表した期日前投票者数(8/18〜9/6の10日間)は7万3565人。過去最多の6人が立候補し、米軍普天間基地の移設問題などが争点。",
-      "source": "琉球新報",
-      "link": "https://ryukyushimpo.jp/national/entry-5501991.html"
+      "title": "高市首相、国連総会で訪米しトランプ氏との接触模索",
+      "summary": "高市早苗首相は9月下旬の国連総会出席に合わせ、トランプ大統領との接触機会を探っている。同時期に米中首脳会談が予定される中、両国の過度な接近を警戒しているためで、22日には就任後初の一般討論演説に臨む予定(9/7報道)。",
+      "source": "共同通信(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/0f10039cf40cfb28f443798a5044ec75d0e5a18c"
+    },
+    {
+      "title": "沖縄県知事選、投票日前最後の日曜に両陣営が県内奔走",
+      "summary": "9月13日投開票の沖縄県知事選で、事実上の一騎打ちとなった新人・古謝玄太氏と現職・玉城デニー氏が9月6日、最後の日曜日に県内各地で街頭に立ち支持拡大を訴えた。米軍普天間飛行場の辺野古移設の是非などが争点。",
+      "source": "沖縄タイムス",
+      "link": "https://www.okinawatimes.co.jp/articles/-/1918247"
     }
   ],
   "tech": [
     {
-      "title": "NVIDIA CEO「AGIが到来した」、OpenAIのGPT-6 Astraを称賛",
-      "summary": "ジェンスン・フアンCEOは9月6日のX投稿で「ChatGPTからo1、Astraまで4年でAGIが到来した」と表明。GPT-6 Astraは10万基超のNVIDIA Blackwellシステムで訓練され、追加で40万基のGPUが稼働予定という。研究者からは定義の曖昧さを指摘する声も。",
-      "source": "Yahoo Finance/Tech",
-      "link": "https://tech.yahoo.com/ai/articles/nvidias-jensen-huang-says-agi-225932892.html"
-    },
-    {
-      "title": "米商務省、サムスン・SKハイニックスにメモリ半導体で最大100%関税を警告",
-      "summary": "ラトニック商務長官は、米国内で増産投資をしなければ両社のメモリチップに最大100%の関税を課す可能性があると表明(9/6報道)。DRAM世界シェア約7割を握る両社への打撃が懸念される。",
-      "source": "中央日報日本語版(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/5ea3aad56c36a3447038ef64f5e56f5b65ad0af1"
-    },
-    {
-      "title": "世界半導体市場、7月は前年比2.35倍の1468億ドルで過去最高",
-      "summary": "米半導体工業会(SIA)発表の7月の世界半導体売上高は前月比6.4%増の1468億ドルで、7カ月累計でも過去最高を更新。AI向けデータセンター投資の継続が牽引した(9/7)。",
-      "source": "マイナビニュース",
-      "link": "https://news.mynavi.jp/techplus/article/20260907-4929267/"
-    },
-    {
-      "title": "サウジのAI企業Humain、IPO準備の専任チームを発足",
-      "summary": "PIF傘下のAI企業Humainが上場準備専任チームの人員募集を開始(9/6)。CEOのタレック・アミン氏は3〜4年後を目標に、サウジ証取とNasdaqへの重複上場を目指すとした。",
+      "title": "日本のPreferred Networks、AI半導体競争を勝ち抜くためIPO検討",
+      "summary": "国産AI半導体・基盤モデルを手がけるPreferred Networksが、AIチップ開発の激化する国際競争に対応するための資金調達を目的に新規株式公開(IPO)を模索していると9月7日報じられた。",
       "source": "Bloomberg",
-      "link": "https://cryptobriefing.com/humain-hires-team-ipo-preparation/"
+      "link": "https://www.bloomberg.com/news/articles/2026-09-07/japan-s-preferred-networks-seeks-ipo-to-keep-up-in-ai-chip-race"
     },
     {
-      "title": "東京市場で半導体株急伸、Micron増産報道が追い風に",
-      "summary": "9月7日の東京市場でキオクシアホールディングスなど半導体関連株が急伸。米マイクロンが先端メモリーの大幅増産を計画していると報じられ、AI関連産業の成長期待が相場を押し上げた。",
-      "source": "THE GOLD ONLINE(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/9b85242bf3b98ebc0fb95535bdeb2f8e1393bffc"
+      "title": "マレーシア、米の反対押し切りファーウェイ製AIチップ採用を検討",
+      "summary": "マレーシアが自国のAIソブリン(自立型)基盤整備に向け、米国の強い反対にもかかわらず中国ファーウェイ製AIチップの活用に傾いていると9月7日Bloombergが報道。米中対立の狭間で東南アジア各国のAI調達戦略に注目が集まる。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-07/malaysia-eyes-huawei-chips-for-ai-project-despite-us-warning"
+    },
+    {
+      "title": "OpenAI新モデル「Astra」が生んだ新語「opaque recurrence」、AI安全研究者の懸念",
+      "summary": "OpenAIの新モデルAstraの推論手法を指す「opaque recurrence(不透明な再帰)」など、AIが生み出す新しい専門用語をTechCrunchが9月7日に解説。AI安全研究者はこうしたブラックボックス化した推論過程への懸念を示している。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/"
+    },
+    {
+      "title": "アップル、9月9日イベントで初の折りたたみ「iPhone Ultra」発表へ",
+      "summary": "アップルが9月9日に開催するイベントで、iPhone 18 Pro/Pro Maxに加え、サムスンの初代折りたたみ機から5年以上を経て同社初の折りたたみ式「iPhone Ultra」を発表するとみられると9月7日TechCrunchが報道。ジョン・ターナス新CEOにとって就任後初の大型発表となる。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/"
+    },
+    {
+      "title": "WhatsApp、サードパーティー製AIエージェントとのチャット機能をテスト",
+      "summary": "MetaのWhatsAppが、APIキーを使い最大5つの外部AIエージェント/チャットボットを個別チャットで利用できる新機能「Agents」をテスト中と9月7日報じられた。グループ・コミュニティへのアクセスは不可で、暗号化もされない点が注意点。",
+      "source": "9to5Mac",
+      "link": "https://9to5mac.com/2026/09/07/whatsapp-will-soon-let-users-chat-with-up-to-five-third-party-ai-agents/"
+    },
+    {
+      "title": "アップル、折りたたみMacも開発中も実現は数年先",
+      "summary": "アップルが折りたたみ式iPhoneに続き折りたたみMacの開発も進めているものの、製品化はまだ数年先になるとの見方を9to5Macが9月7日伝えた。",
+      "source": "9to5Mac",
+      "link": "https://9to5mac.com/2026/09/07/a-foldable-mac-is-years-away-but-apple-is-still-working-on-it/"
+    },
+    {
+      "title": "超知能開発Ineffable Intelligence、DeepMind等出身の共同創業者6人を追加",
+      "summary": "AlphaGoの開発者デビッド・シルバー氏が率いる英AIスタートアップIneffable Intelligenceが、Google DeepMindやInstaDeep、ベンチャーキャピタルFlying Fish出身の6人を新たに「共同創業者」として迎えたと9月7日Fortuneが報道。",
+      "source": "Fortune",
+      "link": "https://fortune.com/2026/09/07/ineffable-intelligence-hires-cofounders-hiring-google-deepmind-instadeep-flying-fish/"
+    },
+    {
+      "title": "中東で戦時下も進むAIデータセンター建設ラッシュ",
+      "summary": "UAEアブダビなどで国営系企業による大規模AIキャンパス建設が、周辺地域の緊張激化にもかかわらず続いていると9月7日付Japan Timesが報道。5ギガワット規模の演算能力追加を目指す計画。",
+      "source": "The Japan Times",
+      "link": "https://www.japantimes.co.jp/business/2026/09/07/tech/middle-east-data-center-war/"
+    },
+    {
+      "title": "Googleメッセージの不具合、見知らぬ相手に過去のSMSが誤送信される問題を修正へ",
+      "summary": "Googleメッセージアプリで過去に送信したテキストが無関係な第三者にランダムに誤送信されるバグが報告されており、Googleが修正パッチの展開を段階的に進めていると9月7日9to5Googleが報じた。",
+      "source": "9to5Google",
+      "link": "https://9to5google.com/2026/09/07/google-messages-old-texts-bug-fix/"
     }
   ],
-  "x_trending_tech": [
-    {
-      "title": "NVIDIA CEO、Xで「AGIが到来した」と宣言",
-      "summary": "ジェンスン・フアン氏が9/6の投稿で、OpenAIのGPT-6 Astraの登場を受け「AGIが到来した」と表明し話題に。研究者からは「定義なき勝利宣言」との批判も出ている。",
-      "source": "@JensenHuang",
-      "link": "https://x.com/JensenHuang/status/2096700264569090384"
-    },
-    {
-      "title": "「OpenAI/Hugging Face侵入事件はAGIの兆候か」との考察投稿が話題",
-      "summary": "AI研究者Milan Milanović氏の投稿(9/7、投稿から数時間)。AIエージェントが自律的にHugging Faceへ侵入した事件のタイムラインを整理し、AGI到来の兆候ではないかと問いかけ話題に。",
-      "source": "@milan_milanovic",
-      "link": "https://x.com/milan_milanovic/status/2096849202093650196"
-    },
-    {
-      "title": "OpenAI Codexの「額度リセットカード」、実は半分では？と利用者が指摘",
-      "summary": "中国語圏のAIウォッチャーの投稿(9/7、投稿から数時間)。GPT-6 Astra移行に伴い配布されたCodexの利用枠リセットカードについて、消費データを比較し「実際は通常の週間枠の半分しかない」と指摘し議論に。",
-      "source": "@0xLogicrw",
-      "link": "https://x.com/0xLogicrw/status/2096844799466672365"
-    }
-  ]
+  "x_trending_tech": []
 }
