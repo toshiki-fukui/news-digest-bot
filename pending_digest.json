@@ -1,79 +1,79 @@
 {
-  "run_label": "9/8 07:00",
+  "run_label": "9/8 19:00",
   "politics_economy": [
     {
-      "title": "円相場、一時154円台に上昇 半年ぶりの円高水準",
-      "summary": "9月7日のロンドン市場で円は対ドルで一時154円台前半まで上昇し、今年2月下旬以来約半年ぶりの高値を付けた。日銀の9月利上げ観測の高まりや、中東情勢緊迫化による「有事のドル買い」の後退が背景。",
+      "title": "円相場、一時152円台に上昇 半年ぶり水準、「155円の壁」突破",
+      "summary": "9月8日の東京外国為替市場で円は一時1ドル=152円台まで上昇し、2月以来約半年ぶりの円高水準となった。4〜5月や7月の為替介入時にも超えられなかった「155円の壁」を突破。日米当局の円安是正への思惑や日銀の利上げ加速観測が背景。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUB0807O0Y6A900C2000000/"
+    },
+    {
+      "title": "日経平均、1130円安の6万5269円 3日ぶり大幅反落",
+      "summary": "9月8日の東京株式市場で日経平均株価は前日比1130円51銭安の6万5269円33銭で取引を終えた。急速な円高進行が自動車など輸出関連株の重荷となった一方、AI・半導体関連株は買われた。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOFL080JWTY6A900C2000000/"
+    },
+    {
+      "title": "自民党役員人事、高市首相に一任 16日にも断行へ",
+      "summary": "自民党は9月8日の党役員会で党役員人事を高市早苗首相(総裁)に一任することを決めた。消費税減税を盛り込む税制改正大綱を15日に閣議決定できれば、16日に役員人事、18日にかけて内閣改造を行う段取りとみられる。",
       "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026090700775&g=int"
+      "link": "https://www.jiji.com/jc/article?k=2026090800352&g=pol"
     },
     {
-      "title": "高市首相、国連総会で訪米しトランプ氏との接触模索",
-      "summary": "高市早苗首相は9月下旬の国連総会出席に合わせ、トランプ大統領との接触機会を探っている。同時期に米中首脳会談が予定される中、両国の過度な接近を警戒しているためで、22日には就任後初の一般討論演説に臨む予定(9/7報道)。",
-      "source": "共同通信(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/0f10039cf40cfb28f443798a5044ec75d0e5a18c"
+      "title": "中国、日本産半導体用ガスに反ダンピング措置を発動 信越化学など対象",
+      "summary": "中国商務省は日本産の半導体・液晶製造用特殊ガス(ジクロロシラン)に反ダンピング措置を決定し、9月8日から実施。信越化学工業や日本エア・リキードなどが対象で輸入時の保証金率は最大99.2%。高市首相の台湾有事発言への対日圧力の一環との見方も。",
+      "source": "時事通信",
+      "link": "https://www.jiji.com/jc/article?k=2026090700878&g=int"
     },
     {
-      "title": "沖縄県知事選、投票日前最後の日曜に両陣営が県内奔走",
-      "summary": "9月13日投開票の沖縄県知事選で、事実上の一騎打ちとなった新人・古謝玄太氏と現職・玉城デニー氏が9月6日、最後の日曜日に県内各地で街頭に立ち支持拡大を訴えた。米軍普天間飛行場の辺野古移設の是非などが争点。",
-      "source": "沖縄タイムス",
-      "link": "https://www.okinawatimes.co.jp/articles/-/1918247"
+      "title": "沖縄県知事選、古謝氏と玉城氏が横一線 共同通信情勢調査",
+      "summary": "9月13日投開票の沖縄県知事選で、自民等推薦の新人・古謝玄太氏と「オール沖縄」現職・玉城デニー氏の情勢は横一線(共同通信、5〜6日実施の調査)。争点は「経済・観光・雇用」が最多で「普天間移設」が続く。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUA061VW0W6A900C2000000/"
     }
   ],
   "tech": [
     {
-      "title": "日本のPreferred Networks、AI半導体競争を勝ち抜くためIPO検討",
-      "summary": "国産AI半導体・基盤モデルを手がけるPreferred Networksが、AIチップ開発の激化する国際競争に対応するための資金調達を目的に新規株式公開(IPO)を模索していると9月7日報じられた。",
+      "title": "ファーウェイ、二つ折りタブレット型「Mate XT2」発表 独自Kirin 9050 Pro搭載",
+      "summary": "ファーウェイは9月7日、二段折りでタブレットサイズに展開する新型フォルダブル「Mate XT2」を発表。米国の規制下でも処理性能と省電力を両立する新チップ「Kirin 9050 Pro」を搭載し、9月12日発売、価格は1万9999元(約42万円)から。",
       "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-07/japan-s-preferred-networks-seeks-ipo-to-keep-up-in-ai-chip-race"
+      "link": "https://www.bloomberg.com/news/articles/2026-09-07/huawei-xiaomi-to-debut-new-top-phones-on-eve-of-foldable-iphone"
     },
     {
-      "title": "マレーシア、米の反対押し切りファーウェイ製AIチップ採用を検討",
-      "summary": "マレーシアが自国のAIソブリン(自立型)基盤整備に向け、米国の強い反対にもかかわらず中国ファーウェイ製AIチップの活用に傾いていると9月7日Bloombergが報道。米中対立の狭間で東南アジア各国のAI調達戦略に注目が集まる。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-07/malaysia-eyes-huawei-chips-for-ai-project-despite-us-warning"
+      "title": "世界半導体売上高、わずか7カ月で年間最高額を突破 日本は前年比50.8%増",
+      "summary": "米半導体工業会(SIA)は2026年7月の世界半導体売上高が前年同月比135.1%増の1468億ドルに達したと発表。地域別では日本が前年比50.8%増となるなど、AI需要を背景に月次過去最高の更新が17カ月連続で続いている(9/8報道)。",
+      "source": "EE Times Japan",
+      "link": "https://eetimes.itmedia.co.jp/ee/articles/2609/08/news051.html"
     },
     {
-      "title": "OpenAI新モデル「Astra」が生んだ新語「opaque recurrence」、AI安全研究者の懸念",
-      "summary": "OpenAIの新モデルAstraの推論手法を指す「opaque recurrence(不透明な再帰)」など、AIが生み出す新しい専門用語をTechCrunchが9月7日に解説。AI安全研究者はこうしたブラックボックス化した推論過程への懸念を示している。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/"
+      "title": "DRAM業界の四半期売上、前期比59.5%増 TrendForce調べ",
+      "summary": "調査会社TrendForceは、2026年第2四半期のDRAM業界売上高が前四半期比59.5%増の154億7300万ドルに達したと推計を発表(9/8報道)。Samsungが首位を維持する一方、SK hynix、Micronも大幅増収で、AI向け需要の逼迫が続いている。",
+      "source": "TrendForce(エルミタージュ秋葉原)",
+      "link": "https://www.gdm.or.jp/pressrelease/2026/0908/651372"
     },
     {
-      "title": "アップル、9月9日イベントで初の折りたたみ「iPhone Ultra」発表へ",
-      "summary": "アップルが9月9日に開催するイベントで、iPhone 18 Pro/Pro Maxに加え、サムスンの初代折りたたみ機から5年以上を経て同社初の折りたたみ式「iPhone Ultra」を発表するとみられると9月7日TechCrunchが報道。ジョン・ターナス新CEOにとって就任後初の大型発表となる。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/"
-    },
-    {
-      "title": "WhatsApp、サードパーティー製AIエージェントとのチャット機能をテスト",
-      "summary": "MetaのWhatsAppが、APIキーを使い最大5つの外部AIエージェント/チャットボットを個別チャットで利用できる新機能「Agents」をテスト中と9月7日報じられた。グループ・コミュニティへのアクセスは不可で、暗号化もされない点が注意点。",
+      "title": "Logitech、AI作業向けボタン付きキーパッド「MX Keypad」発表",
+      "summary": "Logitechは9月8日、9個のフルカラーLCDキーでマクロ実行やAIツール呼び出しができる新アクセサリー「MX Keypad」($99.99)を発表し、同日発売した。コーディングやAIワークフロー向けの効率化を狙う。",
       "source": "9to5Mac",
-      "link": "https://9to5mac.com/2026/09/07/whatsapp-will-soon-let-users-chat-with-up-to-five-third-party-ai-agents/"
+      "link": "https://9to5mac.com/2026/09/08/logitech-launches-99-mx-keypad-for-coding-and-ai-workflows/"
     },
     {
-      "title": "アップル、折りたたみMacも開発中も実現は数年先",
-      "summary": "アップルが折りたたみ式iPhoneに続き折りたたみMacの開発も進めているものの、製品化はまだ数年先になるとの見方を9to5Macが9月7日伝えた。",
-      "source": "9to5Mac",
-      "link": "https://9to5mac.com/2026/09/07/a-foldable-mac-is-years-away-but-apple-is-still-working-on-it/"
+      "title": "ソニー、Xperia 1 VIIIへのAndroid 17配信を開始(海外先行)",
+      "summary": "ソニーはXperia 1 VIIIに向けたAndroid 17の配信を開始したことが9月8日までに判明。ソニー製スマホとして初のAndroid 17対応となり、外部ディスプレイ接続時のデスクトップモード強化などが盛り込まれる。日本での配信時期は未定。",
+      "source": "スマホダイジェスト",
+      "link": "https://sumahodigest.com/?p=69783"
     },
     {
-      "title": "超知能開発Ineffable Intelligence、DeepMind等出身の共同創業者6人を追加",
-      "summary": "AlphaGoの開発者デビッド・シルバー氏が率いる英AIスタートアップIneffable Intelligenceが、Google DeepMindやInstaDeep、ベンチャーキャピタルFlying Fish出身の6人を新たに「共同創業者」として迎えたと9月7日Fortuneが報道。",
-      "source": "Fortune",
-      "link": "https://fortune.com/2026/09/07/ineffable-intelligence-hires-cofounders-hiring-google-deepmind-instadeep-flying-fish/"
+      "title": "IFA 2026がベルリンで閉幕、ARグラスやローカルAIホームハブなど話題の新製品",
+      "summary": "家電見本市「IFA 2026」が9月8日にベルリンで閉幕。TCL RayNeoのDolby Vision対応ARグラス「GT Max」、Ankerのローカル処理AIホームハブ「MindBase」などが話題を呼び、サムスンは35年ぶりに本展示から撤退した。",
+      "source": "Gizmochina",
+      "link": "https://www.gizmochina.com/2026/09/08/best-of-ifa-2026/"
     },
     {
-      "title": "中東で戦時下も進むAIデータセンター建設ラッシュ",
-      "summary": "UAEアブダビなどで国営系企業による大規模AIキャンパス建設が、周辺地域の緊張激化にもかかわらず続いていると9月7日付Japan Timesが報道。5ギガワット規模の演算能力追加を目指す計画。",
-      "source": "The Japan Times",
-      "link": "https://www.japantimes.co.jp/business/2026/09/07/tech/middle-east-data-center-war/"
-    },
-    {
-      "title": "Googleメッセージの不具合、見知らぬ相手に過去のSMSが誤送信される問題を修正へ",
-      "summary": "Googleメッセージアプリで過去に送信したテキストが無関係な第三者にランダムに誤送信されるバグが報告されており、Googleが修正パッチの展開を段階的に進めていると9月7日9to5Googleが報じた。",
-      "source": "9to5Google",
-      "link": "https://9to5google.com/2026/09/07/google-messages-old-texts-bug-fix/"
+      "title": "東京株式市場でAI・半導体関連株が上昇に転じる、ソフトバンクGなど",
+      "summary": "9月8日の東京株式市場で、朝安の後にソフトバンクグループ、東京エレクトロン、キオクシアなどAI・半導体関連株が上昇に転じ、日経平均の下支え要因となった。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOFL080VO0Y6A900C2000000/"
     }
   ],
   "x_trending_tech": []
