@@ -1,80 +1,111 @@
 {
-  "run_label": "9/8 19:00",
+  "run_label": "9/9 07:00",
   "politics_economy": [
     {
-      "title": "円相場、一時152円台に上昇 半年ぶり水準、「155円の壁」突破",
-      "summary": "9月8日の東京外国為替市場で円は一時1ドル=152円台まで上昇し、2月以来約半年ぶりの円高水準となった。4〜5月や7月の為替介入時にも超えられなかった「155円の壁」を突破。日米当局の円安是正への思惑や日銀の利上げ加速観測が背景。",
+      "title": "名古屋で観測史上最大の猛烈な雨、地下鉄・市バス全線一時運転見合わせ",
+      "summary": "9月8日午後、愛知県西部と岐阜県美濃地方で線状降水帯が発生し、名古屋市では1時間に104.5ミリの猛烈な雨を観測(観測史上最大、東海豪雨を上回る)。庄内川・矢田川に氾濫特別警報が発令され、地下鉄・市バスが全線で一時運転を見合わせるなど都市機能が麻痺した。",
+      "source": "毎日新聞(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/7c926c0e3ab102a596a57df99490ab71a6aeffbc"
+    },
+    {
+      "title": "円相場、154円台に反落 前日の152円台から一転円安",
+      "summary": "9日午前3時時点の東京外国為替市場でドル円は1ドル=154円22〜23銭。前日8日に一時152円台まで急伸した反動で円売りが優勢となり、154円台まで水準を切り下げた。",
+      "source": "共同通信(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/cc090c0c5da11fed1fd20aad61336a24e25ed923"
+    },
+    {
+      "title": "中国の半導体材料規制、官房長官「不当な影響生じないよう対応」",
+      "summary": "中国が日本産の半導体・液晶製造用特殊ガスなどに反ダンピング措置を発動したことを受け、官房長官は9月8日の会見で不当な影響が生じないよう対応する考えを示した。米中対立の余波でレアアース・半導体材料を巡る対中依存リスクが改めて焦点に。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUB0807O0Y6A900C2000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOUA081M40Y6A900C2000000/"
     },
     {
-      "title": "日経平均、1130円安の6万5269円 3日ぶり大幅反落",
-      "summary": "9月8日の東京株式市場で日経平均株価は前日比1130円51銭安の6万5269円33銭で取引を終えた。急速な円高進行が自動車など輸出関連株の重荷となった一方、AI・半導体関連株は買われた。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOFL080JWTY6A900C2000000/"
+      "title": "沖縄県知事選、古謝氏とデニー氏が横一線の接戦 投開票13日",
+      "summary": "9月13日投開票の沖縄県知事選は、新人・古謝玄太氏(42)と現職・玉城デニー氏(66)の事実上の一騎打ち。経済・観光・雇用を重視する層は古謝氏、普天間基地問題を重視する層はデニー氏支持に分かれ、直近の情勢調査では両者が横一線と報じられている。",
+      "source": "Yahoo!ニュース(女性自身)",
+      "link": "https://news.yahoo.co.jp/articles/66b3de6f9d33a8e7fab62b994a6a416046e29974"
     },
     {
-      "title": "自民党役員人事、高市首相に一任 16日にも断行へ",
-      "summary": "自民党は9月8日の党役員会で党役員人事を高市早苗首相(総裁)に一任することを決めた。消費税減税を盛り込む税制改正大綱を15日に閣議決定できれば、16日に役員人事、18日にかけて内閣改造を行う段取りとみられる。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026090800352&g=pol"
-    },
-    {
-      "title": "中国、日本産半導体用ガスに反ダンピング措置を発動 信越化学など対象",
-      "summary": "中国商務省は日本産の半導体・液晶製造用特殊ガス(ジクロロシラン)に反ダンピング措置を決定し、9月8日から実施。信越化学工業や日本エア・リキードなどが対象で輸入時の保証金率は最大99.2%。高市首相の台湾有事発言への対日圧力の一環との見方も。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026090700878&g=int"
-    },
-    {
-      "title": "沖縄県知事選、古謝氏と玉城氏が横一線 共同通信情勢調査",
-      "summary": "9月13日投開票の沖縄県知事選で、自民等推薦の新人・古謝玄太氏と「オール沖縄」現職・玉城デニー氏の情勢は横一線(共同通信、5〜6日実施の調査)。争点は「経済・観光・雇用」が最多で「普天間移設」が続く。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUA061VW0W6A900C2000000/"
+      "title": "米国株、レーバーデー明けに続落 イラン情勢悪化で原油高警戒",
+      "summary": "9月8日の米国市場は続落。イラン情勢の悪化を背景に原油高への警戒が強まり、株式相場の重荷となった。今週はCPI・PPIなど物価指標の発表を控え、FOMCでの利上げ観測を巡る神経質な展開が続いている。",
+      "source": "Fisco(Investing.com)",
+      "link": "https://jp.investing.com/news/forex-news/article-1673282"
     }
   ],
   "tech": [
     {
-      "title": "ファーウェイ、二つ折りタブレット型「Mate XT2」発表 独自Kirin 9050 Pro搭載",
-      "summary": "ファーウェイは9月7日、二段折りでタブレットサイズに展開する新型フォルダブル「Mate XT2」を発表。米国の規制下でも処理性能と省電力を両立する新チップ「Kirin 9050 Pro」を搭載し、9月12日発売、価格は1万9999元(約42万円)から。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-07/huawei-xiaomi-to-debut-new-top-phones-on-eve-of-foldable-iphone"
+      "title": "仏Mistral AI、サムスン主導で3500億円超調達 欧州テック最大の資金調達",
+      "summary": "フランスのAIスタートアップMistral AIが9月8日、サムスン電子主導のシリーズDで30億ユーロ(約35億ドル)を調達したと発表。評価額は210億ユーロ超に達し、欧州テック企業として過去最大の資金調達となった。自前データセンター構築に充てる方針。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/"
     },
     {
-      "title": "世界半導体売上高、わずか7カ月で年間最高額を突破 日本は前年比50.8%増",
-      "summary": "米半導体工業会(SIA)は2026年7月の世界半導体売上高が前年同月比135.1%増の1468億ドルに達したと発表。地域別では日本が前年比50.8%増となるなど、AI需要を背景に月次過去最高の更新が17カ月連続で続いている(9/8報道)。",
+      "title": "Google、EU規制対応で検索品質「約30年で最大の低下」と表明",
+      "summary": "GoogleはEUのデジタル市場法(DMA)対応のため9月8日に欧州向け検索結果を刷新。旅行・宿泊などの検索機能を削減し、自社は「約29年の検索の歴史で最大の品質低下」になると警告した。約4億5000万人の欧州ユーザーに影響。",
+      "source": "Search Engine Land",
+      "link": "https://searchengineland.com/google-says-dma-changes-in-eu-resulted-in-worse-degradation-of-search-quality-ever-487340"
+    },
+    {
+      "title": "AIが1週間で作成した「ゼロクリック」ワームがWeChatアカウントを乗っ取り",
+      "summary": "セキュリティ企業Califの研究者が、AIを活用してWeChatの通話機能の脆弱性を突く自己増殖型ワーム「WeWorm」を開発したと9月8日公表。着信に応答しなくてもアカウントが乗っ取られる恐れがあり、AIが攻撃開発のハードルを下げている実態を示した。Tencentには7月に報告済みで既に対策済みという。",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/09/wechat-zero-click-worm-took-over.html"
+    },
+    {
+      "title": "ASML・TSMC・サムスン・インテル、次世代EUV露光の大型フォトマスク移行で連携",
+      "summary": "ASMLとTSMCは9月8日、High-NA EUV露光装置向けに現行6インチから12インチの大型フォトマスクへ業界移行を主導する共同イニシアチブを発表。サムスンとインテルも参加し、2031年までにパイロットラインの構築、2033年までの量産対応を目指す。AI向け先端半導体の生産性向上が狙い。",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/09/08/tsmc-samsung-asml-high-na-euv-machine-ai-chips.html"
+    },
+    {
+      "title": "米商務省、量子企業D-WaveとRigettiに出資 CHIPS法活用で株価急伸",
+      "summary": "米商務省は9月8日、CHIPS法に基づきD-WaveとRigetti Computingにそれぞれ最大1億ドルの助成契約を締結し、少数株主として出資すると発表。超電導量子コンピューター研究開発を加速する狙いで、両社の株価はこの日急伸した。",
+      "source": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/09/08/quantum-stocks-rally-as-commerce-department-takes-equity-stakes-rigetti-surges-6-d-wave-climbs-5/"
+    },
+    {
+      "title": "シャオミ、自社開発チップ「XRing O3」搭載の折りたたみ機「18 Fold」をIFAで初披露",
+      "summary": "シャオミはドイツ・ベルリンで開催中のIFA 2026で、自社設計SoC「XRing O3」(TSMC 3nmプロセス)を初めて旗艦機に搭載した折りたたみスマートフォン「Xiaomi 18 Fold」を披露。中国では9月7日に発売済みで、自前チップ戦略を本格化させている。",
+      "source": "Android Authority",
+      "link": "https://www.androidauthority.com/xiaomi-18-fold-ifa-2026-showcase-3704608/"
+    },
+    {
+      "title": "中国、AI計算能力を2030年までに4倍増の9800エクサフロップスへ 5カ年計画公表",
+      "summary": "中国工業情報化省は9月8日、2026〜2030年にAI計算インフラへ累計3.8兆元(約53兆円)を投じ、知能計算能力を現在の約2450エクサフロップスから2030年までに9800エクサフロップスへと4倍以上に引き上げる計画を公表した。",
+      "source": "South China Morning Post",
+      "link": "https://www.scmp.com/tech/policy/article/3366733/china-targets-fourfold-boost-ai-computing-capacity-2030-major-tech-push"
+    },
+    {
+      "title": "アップル「Surprise and Shine」イベント、本日(現地時間9日)開催へ 折りたたみiPhone披露の観測",
+      "summary": "アップルは日本時間10日未明(現地時間9日午前10時)から新製品発表イベントを開催予定。新CEOジョン・ターナス氏就任後初の大型イベントとなり、iPhone 18 Pro/Pro Maxに加え、同社初の折りたたみ式iPhoneの発表が有力視されている。",
+      "source": "MacRumors",
+      "link": "https://www.macrumors.com/2026/09/08/what-not-to-expect-apple-sept-9-event/"
+    },
+    {
+      "title": "PyTorch Foundation、アリババクラウドとCambriconがプラチナ会員に加入",
+      "summary": "PyTorch Foundationは9月8日、上海で開催中のKubeCon+PyTorch Conference Chinaで、アリババクラウドとCambricon(寒武紀)がプラチナ会員として、Ant Groupがゴールド会員として加入したと発表。中国のAIオープンソースエコシステムとの連携を深める動き。",
+      "source": "Unite.AI",
+      "link": "https://www.unite.ai/alibaba-cloud-cambricon-join-pytorch-foundation-ant-group-takes-gold-seat/"
+    },
+    {
+      "title": "ASML、日本の人員体制を4割増強へ ラピダス・TSMC支援で「重要市場」と強調",
+      "summary": "ASMLジャパンの藤原昭一郎社長は9月8日の会見で、日本の従業員数を現在の500人規模から2030年までに約700人へと4割程度増やす方針を表明。ラピダスや熊本のTSMCなど先端半導体投資の拡大を受け、日本を技術革新を支える重要市場と位置付けた。",
       "source": "EE Times Japan",
-      "link": "https://eetimes.itmedia.co.jp/ee/articles/2609/08/news051.html"
-    },
-    {
-      "title": "DRAM業界の四半期売上、前期比59.5%増 TrendForce調べ",
-      "summary": "調査会社TrendForceは、2026年第2四半期のDRAM業界売上高が前四半期比59.5%増の154億7300万ドルに達したと推計を発表(9/8報道)。Samsungが首位を維持する一方、SK hynix、Micronも大幅増収で、AI向け需要の逼迫が続いている。",
-      "source": "TrendForce(エルミタージュ秋葉原)",
-      "link": "https://www.gdm.or.jp/pressrelease/2026/0908/651372"
-    },
-    {
-      "title": "Logitech、AI作業向けボタン付きキーパッド「MX Keypad」発表",
-      "summary": "Logitechは9月8日、9個のフルカラーLCDキーでマクロ実行やAIツール呼び出しができる新アクセサリー「MX Keypad」($99.99)を発表し、同日発売した。コーディングやAIワークフロー向けの効率化を狙う。",
-      "source": "9to5Mac",
-      "link": "https://9to5mac.com/2026/09/08/logitech-launches-99-mx-keypad-for-coding-and-ai-workflows/"
-    },
-    {
-      "title": "ソニー、Xperia 1 VIIIへのAndroid 17配信を開始(海外先行)",
-      "summary": "ソニーはXperia 1 VIIIに向けたAndroid 17の配信を開始したことが9月8日までに判明。ソニー製スマホとして初のAndroid 17対応となり、外部ディスプレイ接続時のデスクトップモード強化などが盛り込まれる。日本での配信時期は未定。",
-      "source": "スマホダイジェスト",
-      "link": "https://sumahodigest.com/?p=69783"
-    },
-    {
-      "title": "IFA 2026がベルリンで閉幕、ARグラスやローカルAIホームハブなど話題の新製品",
-      "summary": "家電見本市「IFA 2026」が9月8日にベルリンで閉幕。TCL RayNeoのDolby Vision対応ARグラス「GT Max」、Ankerのローカル処理AIホームハブ「MindBase」などが話題を呼び、サムスンは35年ぶりに本展示から撤退した。",
-      "source": "Gizmochina",
-      "link": "https://www.gizmochina.com/2026/09/08/best-of-ifa-2026/"
-    },
-    {
-      "title": "東京株式市場でAI・半導体関連株が上昇に転じる、ソフトバンクGなど",
-      "summary": "9月8日の東京株式市場で、朝安の後にソフトバンクグループ、東京エレクトロン、キオクシアなどAI・半導体関連株が上昇に転じ、日経平均の下支え要因となった。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOFL080VO0Y6A900C2000000/"
+      "link": "https://eetimes.itmedia.co.jp/ee/articles/2609/08/news040.html"
     }
   ],
-  "x_trending_tech": []
+  "x_trending_tech": [
+    {
+      "title": "AIが1週間で作った「ゼロクリック」ワームがWeChatを乗っ取り可能に、と記者が報告",
+      "summary": "ジャーナリストのDustin Volz氏が、研究者がAIモデルを使いiOS/Android問わずWeChatアカウントを数秒で完全乗っ取りできるワームを構築したと投稿。AIがサイバーセキュリティの脅威地図を変えつつある事例として反響を呼んだ(9/8夜の投稿)。",
+      "source": "@dnvolz",
+      "link": "https://x.com/dnvolz/status/2097300310813192419"
+    },
+    {
+      "title": "Mistral AI、サムスン主導で30億ユーロ調達を公式発表",
+      "summary": "Mistral AI公式アカウントが、サムスン電子主導のシリーズDで30億ユーロを調達し評価額210億ユーロ超に達したことを発表。欧州テック企業として過去最大の資金調達として大きな話題となった(9/8朝の投稿)。",
+      "source": "@MistralAI",
+      "link": "https://x.com/MistralAI/status/2097188835897586083"
+    }
+  ]
 }
