@@ -1,111 +1,117 @@
 {
-  "run_label": "9/9 07:00",
+  "run_label": "9/9 19:00",
   "politics_economy": [
     {
-      "title": "名古屋で観測史上最大の猛烈な雨、地下鉄・市バス全線一時運転見合わせ",
-      "summary": "9月8日午後、愛知県西部と岐阜県美濃地方で線状降水帯が発生し、名古屋市では1時間に104.5ミリの猛烈な雨を観測(観測史上最大、東海豪雨を上回る)。庄内川・矢田川に氾濫特別警報が発令され、地下鉄・市バスが全線で一時運転を見合わせるなど都市機能が麻痺した。",
-      "source": "毎日新聞(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/7c926c0e3ab102a596a57df99490ab71a6aeffbc"
+      "title": "高市首相、内閣改造は9月16日軸に調整 有村氏・梶山氏の入閣を検討",
+      "summary": "高市早苗首相は9月中下旬に予定する内閣改造・党役員人事について16日を軸に調整に入った。自民党の有村治子総務会長と梶山弘志国対委員長を閣僚起用する案が浮上し、閣外協力する日本維新の会には規制改革担当相のポストを充てる方向で検討している。",
+      "source": "FNNプライムオンライン(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/d29ac70cf5e8337f37416cdca76854637cb3f475"
     },
     {
-      "title": "円相場、154円台に反落 前日の152円台から一転円安",
-      "summary": "9日午前3時時点の東京外国為替市場でドル円は1ドル=154円22〜23銭。前日8日に一時152円台まで急伸した反動で円売りが優勢となり、154円台まで水準を切り下げた。",
-      "source": "共同通信(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/cc090c0c5da11fed1fd20aad61336a24e25ed923"
-    },
-    {
-      "title": "中国の半導体材料規制、官房長官「不当な影響生じないよう対応」",
-      "summary": "中国が日本産の半導体・液晶製造用特殊ガスなどに反ダンピング措置を発動したことを受け、官房長官は9月8日の会見で不当な影響が生じないよう対応する考えを示した。米中対立の余波でレアアース・半導体材料を巡る対中依存リスクが改めて焦点に。",
+      "title": "日経平均、続落126円安 中東情勢の悪化で原油高警戒",
+      "summary": "9日の東京株式市場で日経平均株価は続落し、前日比126円安で取引を終えた。中東情勢の緊迫化を背景とした原油高への警戒が重荷となった一方、非鉄金属など資源関連には買いが入った。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUA081M40Y6A900C2000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOUB090HBTZ00C26A9000000/"
     },
     {
-      "title": "沖縄県知事選、古謝氏とデニー氏が横一線の接戦 投開票13日",
-      "summary": "9月13日投開票の沖縄県知事選は、新人・古謝玄太氏(42)と現職・玉城デニー氏(66)の事実上の一騎打ち。経済・観光・雇用を重視する層は古謝氏、普天間基地問題を重視する層はデニー氏支持に分かれ、直近の情勢調査では両者が横一線と報じられている。",
-      "source": "Yahoo!ニュース(女性自身)",
-      "link": "https://news.yahoo.co.jp/articles/66b3de6f9d33a8e7fab62b994a6a416046e29974"
+      "title": "日銀、9月17-18日会合で追加利上げ観測強まる 確率8割を織り込み",
+      "summary": "日本銀行が9月17〜18日の金融政策決定会合で0.25%ポイントの追加利上げに踏み切るとの観測が強まっている。市場が織り込む利上げ確率は8割程度に達しており、実現すれば政策金利は1.25%程度となる見通し。",
+      "source": "8and.",
+      "link": "https://8and.jp/2026/09/09/%E6%97%A5%E9%8A%80%E3%81%AE9%E6%9C%88%E4%BC%9A%E5%90%88%E3%81%AF17%E3%80%9C18%E6%97%A5%EF%BC%81%E6%94%BF%E7%AD%96%E9%87%91%E5%88%A91-00%EF%BC%85%E3%81%8B%E3%82%89%E3%81%AE%E8%BF%BD%E5%8A%A0%E5%88%A9/"
     },
     {
-      "title": "米国株、レーバーデー明けに続落 イラン情勢悪化で原油高警戒",
-      "summary": "9月8日の米国市場は続落。イラン情勢の悪化を背景に原油高への警戒が強まり、株式相場の重荷となった。今週はCPI・PPIなど物価指標の発表を控え、FOMCでの利上げ観測を巡る神経質な展開が続いている。",
-      "source": "Fisco(Investing.com)",
-      "link": "https://jp.investing.com/news/forex-news/article-1673282"
+      "title": "茂木外相、イラン外相と電話会談 ホルムズ海峡での船舶攻撃に自制要求",
+      "summary": "茂木敏充外相は8日、イランのアラグチ外相と電話会談し、ホルムズ海峡で続くイランによる民間船舶への攻撃に懸念を示し自制を強く求めた。両外相は事態解決に向け緊密に意思疎通することで一致した。",
+      "source": "時事通信",
+      "link": "https://www.jiji.com/jc/article?k=2026090800978&g=pol"
+    },
+    {
+      "title": "沖縄県知事選、古謝氏がデニー氏を逆転 与党側の情勢調査で判明",
+      "summary": "9月13日投開票の沖縄県知事選で、新人・古謝玄太氏が現職・玉城デニー氏を情勢調査で逆転したとの分析が伝えられた。自民・公明の選挙協力の効果で「学会票」を奪還したことが背景とされ、終盤情勢は依然流動的。",
+      "source": "女性自身(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/2aff4aada19faa6fe765e09f6e2f33ee89d2b085"
     }
   ],
   "tech": [
     {
-      "title": "仏Mistral AI、サムスン主導で3500億円超調達 欧州テック最大の資金調達",
-      "summary": "フランスのAIスタートアップMistral AIが9月8日、サムスン電子主導のシリーズDで30億ユーロ(約35億ドル)を調達したと発表。評価額は210億ユーロ超に達し、欧州テック企業として過去最大の資金調達となった。自前データセンター構築に充てる方針。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/"
-    },
-    {
-      "title": "Google、EU規制対応で検索品質「約30年で最大の低下」と表明",
-      "summary": "GoogleはEUのデジタル市場法(DMA)対応のため9月8日に欧州向け検索結果を刷新。旅行・宿泊などの検索機能を削減し、自社は「約29年の検索の歴史で最大の品質低下」になると警告した。約4億5000万人の欧州ユーザーに影響。",
-      "source": "Search Engine Land",
-      "link": "https://searchengineland.com/google-says-dma-changes-in-eu-resulted-in-worse-degradation-of-search-quality-ever-487340"
-    },
-    {
-      "title": "AIが1週間で作成した「ゼロクリック」ワームがWeChatアカウントを乗っ取り",
-      "summary": "セキュリティ企業Califの研究者が、AIを活用してWeChatの通話機能の脆弱性を突く自己増殖型ワーム「WeWorm」を開発したと9月8日公表。着信に応答しなくてもアカウントが乗っ取られる恐れがあり、AIが攻撃開発のハードルを下げている実態を示した。Tencentには7月に報告済みで既に対策済みという。",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/09/wechat-zero-click-worm-took-over.html"
-    },
-    {
-      "title": "ASML・TSMC・サムスン・インテル、次世代EUV露光の大型フォトマスク移行で連携",
-      "summary": "ASMLとTSMCは9月8日、High-NA EUV露光装置向けに現行6インチから12インチの大型フォトマスクへ業界移行を主導する共同イニシアチブを発表。サムスンとインテルも参加し、2031年までにパイロットラインの構築、2033年までの量産対応を目指す。AI向け先端半導体の生産性向上が狙い。",
+      "title": "Qualcomm、Amazonと最大600億ドル規模のAIチップ供給契約 株価急伸",
+      "summary": "QualcommはAmazon(AWS)向けにAI推論用カスタムチップと光インターコネクト技術を共同開発する複数世代にわたる提携を8日発表。AmazonがQualcomm製品を最大600億ドル購入することを条件に2500万株分のワラントを付与し、株価は10%超急伸した。",
       "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/09/08/tsmc-samsung-asml-high-na-euv-machine-ai-chips.html"
+      "link": "https://www.cnbc.com/2026/09/08/qualcomm-amazon-data-center-infrastructure-deal.html"
     },
     {
-      "title": "米商務省、量子企業D-WaveとRigettiに出資 CHIPS法活用で株価急伸",
-      "summary": "米商務省は9月8日、CHIPS法に基づきD-WaveとRigetti Computingにそれぞれ最大1億ドルの助成契約を締結し、少数株主として出資すると発表。超電導量子コンピューター研究開発を加速する狙いで、両社の株価はこの日急伸した。",
-      "source": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/09/08/quantum-stocks-rally-as-commerce-department-takes-equity-stakes-rigetti-surges-6-d-wave-climbs-5/"
+      "title": "マイクロソフト、過去最多966件の脆弱性を修正 ゼロデイ2件含む9月定例更新",
+      "summary": "マイクロソフトは9月の月例セキュリティ更新(パッチチューズデー)で過去最多となる966件の脆弱性を修正した。悪用が確認されているWindowsの権限昇格ゼロデイ2件を含み、緊急度の高いリモートコード実行の脆弱性も105件に上る。",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-patch-tuesday-fixes-966-flaws-2-zero-days/"
     },
     {
-      "title": "シャオミ、自社開発チップ「XRing O3」搭載の折りたたみ機「18 Fold」をIFAで初披露",
-      "summary": "シャオミはドイツ・ベルリンで開催中のIFA 2026で、自社設計SoC「XRing O3」(TSMC 3nmプロセス)を初めて旗艦機に搭載した折りたたみスマートフォン「Xiaomi 18 Fold」を披露。中国では9月7日に発売済みで、自前チップ戦略を本格化させている。",
-      "source": "Android Authority",
-      "link": "https://www.androidauthority.com/xiaomi-18-fold-ifa-2026-showcase-3704608/"
+      "title": "サムスン電子とASML、次世代半導体製造で戦略提携を拡大 DRAMにHigh-NA EUVを初導入へ",
+      "summary": "サムスン電子とASMLは8日、High-NA EUV露光技術などを軸とした戦略提携の拡大を発表。サムスンは2028年までにDRAMの量産ラインへHigh-NA EUVを業界で初めて導入する計画で、次世代12インチフォトマスク移行の業界イニシアチブにも参加する。",
+      "source": "Samsung Newsroom / ASML",
+      "link": "https://news.samsung.com/global/samsung-electronics-and-asml-expand-strategic-collaboration-for-next-generation-semiconductor-manufacturing"
     },
     {
-      "title": "中国、AI計算能力を2030年までに4倍増の9800エクサフロップスへ 5カ年計画公表",
-      "summary": "中国工業情報化省は9月8日、2026〜2030年にAI計算インフラへ累計3.8兆元(約53兆円)を投じ、知能計算能力を現在の約2450エクサフロップスから2030年までに9800エクサフロップスへと4倍以上に引き上げる計画を公表した。",
-      "source": "South China Morning Post",
-      "link": "https://www.scmp.com/tech/policy/article/3366733/china-targets-fourfold-boost-ai-computing-capacity-2030-major-tech-push"
-    },
-    {
-      "title": "アップル「Surprise and Shine」イベント、本日(現地時間9日)開催へ 折りたたみiPhone披露の観測",
-      "summary": "アップルは日本時間10日未明(現地時間9日午前10時)から新製品発表イベントを開催予定。新CEOジョン・ターナス氏就任後初の大型イベントとなり、iPhone 18 Pro/Pro Maxに加え、同社初の折りたたみ式iPhoneの発表が有力視されている。",
+      "title": "アップル、非侵襲型の脳磁気センサー企業Soneraを買収",
+      "summary": "アップルが脳や筋肉からの微弱な磁気信号を非接触で計測できるセンサー技術を持つ新興企業Soneraを買収していたことが8日、欧州委員会への届け出から判明した。買収は今年5月に完了しており、将来のヘルスケアやアクセシビリティ機能への応用が見込まれる。",
       "source": "MacRumors",
-      "link": "https://www.macrumors.com/2026/09/08/what-not-to-expect-apple-sept-9-event/"
+      "link": "https://www.macrumors.com/2026/09/08/apple-acquires-sonera/"
     },
     {
-      "title": "PyTorch Foundation、アリババクラウドとCambriconがプラチナ会員に加入",
-      "summary": "PyTorch Foundationは9月8日、上海で開催中のKubeCon+PyTorch Conference Chinaで、アリババクラウドとCambricon(寒武紀)がプラチナ会員として、Ant Groupがゴールド会員として加入したと発表。中国のAIオープンソースエコシステムとの連携を深める動き。",
-      "source": "Unite.AI",
-      "link": "https://www.unite.ai/alibaba-cloud-cambricon-join-pytorch-foundation-ant-group-takes-gold-seat/"
+      "title": "アップル、iOS 26.6.2を配信 モバイル回線経由の更新不具合を修正",
+      "summary": "アップルは8日、iOS 26.6.2の配信を開始した。モバイル通信回線経由でソフトウェアアップデートをダウンロードできない不具合の修正が主な内容で、大きな新機能は含まれていない。",
+      "source": "MacRumors",
+      "link": "https://www.macrumors.com/2026/09/08/apple-releases-ios-26-6-2/"
     },
     {
-      "title": "ASML、日本の人員体制を4割増強へ ラピダス・TSMC支援で「重要市場」と強調",
-      "summary": "ASMLジャパンの藤原昭一郎社長は9月8日の会見で、日本の従業員数を現在の500人規模から2030年までに約700人へと4割程度増やす方針を表明。ラピダスや熊本のTSMCなど先端半導体投資の拡大を受け、日本を技術革新を支える重要市場と位置付けた。",
-      "source": "EE Times Japan",
-      "link": "https://eetimes.itmedia.co.jp/ee/articles/2609/08/news040.html"
+      "title": "ビットコインのサイドチェーン「Liquid Network」から約320億円相当が流出",
+      "summary": "ビットコインのサイドチェーン「Liquid Network」で検証ソフトの脆弱性を突かれ、約3億1900万ドル相当のビットコインが流出した。攻撃者は「ホワイトハットだ」と主張しオンチェーンで運営元と交渉、翌7日までに約85%にあたる資金を返還した。",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/07/bitcoin-network-used-by-exchanges-hit-by-usd320-million-exploit-hackers-claim-they-re-the-good-guys"
+    },
+    {
+      "title": "「ゼルダの伝説」40周年ダイレクト、Switch2版「時のオカリナ」は11月5日発売",
+      "summary": "任天堂は8日夜、「ゼルダの伝説」40周年記念のNintendo Directを配信。Switch2版「時のオカリナ」が11月5日に発売されることや、40周年記念Switch2本体(10月29日発売)、実写映画の公開(2027年4月30日)などが発表された。",
+      "source": "ファミ通.com",
+      "link": "https://www.famitsu.com/article/202609/87159"
+    },
+    {
+      "title": "経産省GENIAC、採択事業者による事業計画発表会・成果報告会を開催",
+      "summary": "経済産業省は9日、生成AI開発力強化プロジェクト「GENIAC」の採択事業者による事業計画発表会(キックオフ)と中間・成果報告会を開催。新規採択事業者の計画発表に加え、既存採択事業者の開発進捗が共有された。",
+      "source": "経済産業省",
+      "link": "https://www.meti.go.jp/policy/mono_info_service/geniac/geniac_magazine/kickoffevents_5.html"
     }
   ],
   "x_trending_tech": [
     {
-      "title": "AIが1週間で作った「ゼロクリック」ワームがWeChatを乗っ取り可能に、と記者が報告",
-      "summary": "ジャーナリストのDustin Volz氏が、研究者がAIモデルを使いiOS/Android問わずWeChatアカウントを数秒で完全乗っ取りできるワームを構築したと投稿。AIがサイバーセキュリティの脅威地図を変えつつある事例として反響を呼んだ(9/8夜の投稿)。",
-      "source": "@dnvolz",
-      "link": "https://x.com/dnvolz/status/2097300310813192419"
+      "title": "Qualcomm・Amazonの600億ドル規模AIチップ提携にロイターが速報",
+      "summary": "ロイターの公式アカウントが、QualcommがAmazonとAIチップの提携契約を結んだと速報。株価は発表を受け急伸し、AI半導体市場でのQualcommの存在感拡大が話題に(9/9未明の投稿)。",
+      "source": "@Reuters",
+      "link": "https://x.com/Reuters/status/2097363099837747309"
     },
     {
-      "title": "Mistral AI、サムスン主導で30億ユーロ調達を公式発表",
-      "summary": "Mistral AI公式アカウントが、サムスン電子主導のシリーズDで30億ユーロを調達し評価額210億ユーロ超に達したことを発表。欧州テック企業として過去最大の資金調達として大きな話題となった(9/8朝の投稿)。",
-      "source": "@MistralAI",
-      "link": "https://x.com/MistralAI/status/2097188835897586083"
+      "title": "Mistral AI、サムスン主導で3500億円規模の資金調達 評価額3兆円超に",
+      "summary": "ベンチャー投資系アカウントが、仏Mistral AIがサムスン電子主導のシリーズDで30億ユーロを調達し評価額210億ユーロ超に達したと紹介。欧州テック史上最大級の資金調達として反響を呼んだ(9/9未明の投稿)。",
+      "source": "@TradedVC",
+      "link": "https://x.com/TradedVC/status/2097341241683837297"
+    },
+    {
+      "title": "ASMLとTSMC、次世代12インチフォトマスクへの業界移行を主導と話題に",
+      "summary": "市場情報アカウントが、ASMLとTSMCが現行6インチから12インチへとEUV用フォトマスクの規格移行を主導する共同イニシアチブを発表したと投稿。2031年のパイロットライン構築を目指すとして関心を集めた(9/8夜の投稿)。",
+      "source": "@wallstengine",
+      "link": "https://x.com/wallstengine/status/2097268421654360290"
+    },
+    {
+      "title": "ケースメーカーdbrandの自社サイトで「iPhone Fold」が誤って先行公開と話題に",
+      "summary": "アクセサリーメーカーdbrandが自社サイトで折りたたみ式「iPhone Fold」向けケースの画像を発表前に掲載してしまい、その様子を捉えた投稿が拡散。アップル新製品発表会を控え本体デザインの手がかりとして注目された(9/9未明の投稿)。",
+      "source": "@Phonenurd",
+      "link": "https://x.com/Phonenurd/status/2097394568912355334"
+    },
+    {
+      "title": "人気配信者IShowSpeed、アップル新製品発表会に招待されると告知し話題に",
+      "summary": "数千万人のフォロワーを持つ配信者IShowSpeedが、折りたたみiPhone披露が有力視されるアップルの新製品発表イベントに招待され現地から配信予定と告知し、ファンの間で話題になった(9/9未明の投稿)。",
+      "source": "@SpeedUpdates1",
+      "link": "https://x.com/SpeedUpdates1/status/2097381830051946600"
     }
   ]
 }
