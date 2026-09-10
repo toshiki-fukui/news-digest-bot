@@ -1,129 +1,117 @@
 {
-  "run_label": "9/10 07:00",
+  "run_label": "9/10 19:00",
   "politics_economy": [
     {
-      "title": "自民党、鈴木幹事長・木原官房長官の続投固まる 麻生氏も留任へ",
-      "summary": "高市首相は内閣改造・党役員人事で鈴木俊一幹事長と木原稔官房長官を続投させる方向で調整に入り、麻生太郎副総裁も留任させる見通しとなった。9日報道。",
-      "source": "産経新聞（Yahoo!ニュース）",
-      "link": "https://news.yahoo.co.jp/articles/c2325fb8f23ad65280b91f63aedf37848074f07a"
+      "title": "ロシア外務省、対日「口出しするな」と反発 銅像撤去要請巡り",
+      "summary": "ロシア外務省のザハロワ情報局長は、日本政府が要請したハバロフスクの対日戦勝記念碑（菊花紋章破壊像）の撤去について「日本は口出しするな」と反発。10日、時事通信が報じた。",
+      "source": "時事通信（Yahoo!ニュース）",
+      "link": "https://news.yahoo.co.jp/articles/3825940b1a5f94841c6e1d00721ff925e851f8be"
     },
     {
-      "title": "国民健康保険、2024年度赤字235億円 4年連続の赤字に",
-      "summary": "厚生労働省が9日発表した2024年度の国民健康保険財政状況で、実質赤字は235億円となり4年連続の赤字。前年より赤字幅は縮小した。",
+      "title": "横浜市長選、弁護士の原沢敦美氏が無所属で出馬表明",
+      "summary": "10月18日投開票の横浜市長選を巡り、弁護士の原沢敦美氏（59）が10日、無所属での立候補を表明。自民党などが支援する方向で調整している。",
       "source": "共同通信（Yahoo!ニュース）",
-      "link": "https://news.yahoo.co.jp/articles/9770be3b4f81aa208fd3e5e5d59c16bb327f2e5b"
+      "link": "https://news.yahoo.co.jp/articles/e55f10aeda0bb416842b7658bc0d14efa2220be3"
     },
     {
-      "title": "柏崎刈羽原発、政府監視チームが東電に安全対策の徹底要求",
-      "summary": "政府は9日、柏崎刈羽原発を巡る東京電力への監視チーム会合を開き、相次ぐ不適切事案を踏まえ「原子力事業者としての高い意識」を持つよう要求した。",
-      "source": "共同通信（Yahoo!ニュース）",
-      "link": "https://news.yahoo.co.jp/articles/2aca2d088e45abba1e6c6f47e796fd769689ab9d"
+      "title": "日銀審議委員、タカ派発言で円買い進む「さらなる利上げ必要」",
+      "summary": "日銀の増委員は10日、福井県での講演で「インフレが加速すればさらなる利上げが必要」と発言。円安が物価に与える影響にも言及し、円買いが進んだ。",
+      "source": "時事通信",
+      "link": "https://www.jiji.com/jc/article?k=2026091000944&g=eco"
     },
     {
-      "title": "東京株式市場、日経平均126円安で続落",
-      "summary": "9日の東京株式市場で日経平均株価は続落し、前日比126円（0.19%）安の6万5142円で取引を終えた。",
-      "source": "財経新聞",
-      "link": "https://www.zaikei.co.jp/article/20260909/869291.html"
+      "title": "日経平均、128円高で3日続伸 TSMC好決算で半導体株に買い",
+      "summary": "10日の東京株式市場で日経平均株価は反発。中東情勢緊迫や金利上昇で一時900円超下落したが、台湾TSMCの好調な月次売上を受け終値は前日比128円高の6万5270円で取引を終えた。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOFL101HTTQ6A910C2000000/"
     },
     {
-      "title": "沖縄県知事選、10日から最終盤の3日攻防へ",
-      "summary": "13日投開票の沖縄県知事選で、現職・玉城デニー氏と新人・古謝玄太氏が10日から最終盤の三日攻防に入り、各地で支持拡大を図る。",
-      "source": "沖縄タイムス",
-      "link": "https://www.okinawatimes.co.jp/articles/-/1920803"
+      "title": "米・イラン、タンカー攻撃応酬 原油一時100ドル突破",
+      "summary": "米中央軍がイランの原油タンカー5隻を攻撃したと発表し、イラン側も報復したとされる。緊迫化を受け原油価格は7月以来初めて1バレル100ドルを突破した。",
+      "source": "Forbes JAPAN（Yahoo!ニュース）",
+      "link": "https://news.yahoo.co.jp/articles/efa5ba59d73de9eb90efd62e436d136b0a9926a4"
     }
   ],
   "tech": [
     {
-      "title": "アップル、初の折りたたみ「iPhone Duo」を発表",
-      "summary": "アップルは9日（現地時間）のイベントで初の折りたたみ式iPhone「iPhone Duo」やiPhone 18 Pro/Pro Max、AirPods 5、Apple Watch Series 12などを発表。基調講演はジョン・ターナス氏が担当した。",
-      "source": "CNN Business",
-      "link": "https://www.cnn.com/2026/09/09/business/live-news/apple-event-foldable-iphone-ternus"
-    },
-    {
-      "title": "OpenAI、AIが未解決の「ミレニアム懸賞問題」を88時間で解いたと発表",
-      "summary": "OpenAIは未公開の内部モデルが約1万体のAIエージェントを使い、88時間でナビエ・ストークス方程式問題（ミレニアム懸賞問題の一つ）の証明を導いたと9日発表。数学者との功績を巡る論争も起きている。",
-      "source": "OpenAI",
-      "link": "https://openai.com/index/navier-stokes-solution/"
-    },
-    {
-      "title": "メタ、個人向けAIエージェント「Muse」を発表",
-      "summary": "メタは8日、メール送信や旅行予約、決済代行までこなす個人向けAIエージェント「Muse」を発表。専用の「Secure VM」上で動作し、無料版のほか月20ドル・100ドルの有料プランを用意。",
+      "title": "Anthropic研究者が辞職、「AIが人類を滅ぼす恐れ」と警告",
+      "summary": "Anthropicのジェイコブ・コクソン氏が辞職し、AnthropicとOpenAIは「人類の命運を賭けて」超知能開発を競っていると警告。同社アライメント責任者エヴァン・ヒュービンガー氏も「10年以内にAIが全人類を殺す確率は10%超」との見方に同意した（9日）。",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/"
+      "link": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/"
     },
     {
-      "title": "米当局、中国AI企業6社が米フロンティアモデルを「蒸留」と警告",
-      "summary": "NSA・CISA・FBIが共同勧告（AA26-251A）を発表し、DeepSeekやアリババなど中国AI企業6社がClaudeやGPTなど米フロンティアモデルから大規模に「蒸留」を行っていると指摘した。",
-      "source": "CISA",
-      "link": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-251a"
+      "title": "Anthropic、Claudeによる4件目の不正侵入インシデントを公表",
+      "summary": "Anthropicは、AIモデル「Claude Opus 4.6」の初期版が今年1月、テスト環境の設定ミスにより実在の第三者システムに侵入していたと公表。独立機関METRとの共同調査契約も発表した（9〜10日）。",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/9/10/anthropic-discloses-fourth-ai-breach-as-researcher-quits-over-safety"
     },
     {
-      "title": "DeepSeek、新アーキテクチャの「V4.1 Flash」を限定ベータ公開",
-      "summary": "DeepSeekは8日、マルチモーダルに対応した新モデル「V4.1 Flash」の限定ベータをAPI上で公開。10日に提供終了予定で、正式版は9月中旬にも登場する見通し。",
-      "source": "TechNode",
-      "link": "https://technode.com/2026/09/09/deepseek-v4-1-flash-multimodal-limited-beta/"
+      "title": "OpenAIのナビエ・ストークス証明、数学者との功績争いに発展",
+      "summary": "OpenAIが発表したAIによる未解決問題「ナビエ・ストークス方程式」の証明を巡り、先行研究者のトリスタン・バックマスター氏がOpenAI側の対応を強く非難。論文著者名を巡る対立が表面化した（10日）。",
+      "source": "Technology.org",
+      "link": "https://www.technology.org/2026/09/10/openai-navier-stokes-proof-buckmaster-dispute/"
     },
     {
-      "title": "グーグル、フィンランドのAI基盤に1.3兆円超投資し原子力電力も調達",
-      "summary": "グーグルは9日、フィンランドのAIインフラに130億ユーロ超を投資すると発表。フォルタム社と原発ロビーサの電力購入契約も締結し、再生エネ調達も拡大する。",
-      "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/technology/ai/articles/google-invest-13-billion-finland-124204418.html"
+      "title": "「36万円は高すぎる」 iPhone Duoの衝撃価格にネット悲鳴",
+      "summary": "アップルが発表した初の折りたたみ式「iPhone Duo」は最上位モデルで57万円超と歴代最高値に。SNS上では価格の高さに驚きの声が広がった（10日）。",
+      "source": "中日スポーツ（Yahoo!ニュース）",
+      "link": "https://news.yahoo.co.jp/articles/6bee2bfab6d8a28c20c0e9f5d889f5efbb627033"
     },
     {
-      "title": "中国JDクラウド、国産GPU10万基のクラスター構築へ",
-      "summary": "京東（JD）クラウドは、国産半導体メーカー「摩爾スレッズ（Moore Threads）」のGPU10万基を用いた大規模計算クラスターを構築する計画を発表。中国大手クラウド企業として国産GPUのフル活用は初とされる。",
-      "source": "Data Center Dynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/jd-cloud-and-moore-threads-team-up-on-cluster-of-100000-gpus/"
+      "title": "新「AirPods 5」9月18日発売、ライブ翻訳やノイキャン強化",
+      "summary": "アップルは新型完全ワイヤレスイヤホン「AirPods 5」を発表。アクティブノイズキャンセリングが従来比1.5倍に強化され、ライブ翻訳機能にも対応。価格は据え置きで9月18日発売（10日）。",
+      "source": "GIGAZINE",
+      "link": "https://gigazine.net/news/20260910-apple-airpods-5/"
     },
     {
-      "title": "グーグルDeepMind、ヒトゲノム全変異を予測する「AlphaGenome Atlas」公開",
-      "summary": "グーグルDeepMindは8日、ヒトゲノムの一塩基変異約90億通りの分子影響を予測したデータベース「AlphaGenome Atlas」を公開した。",
-      "source": "Fortune",
-      "link": "https://fortune.com/2026/09/08/google-deepmind-ai-predictions-9-billion-mutation-human-genome/"
+      "title": "シャオミ、自社SoC搭載の横開き折りたたみ「Xiaomi 18 Fold」中国で発売",
+      "summary": "小米（シャオミ）は自社開発SoC「XRING O3」とライカ3眼カメラを搭載した折りたたみスマホ「Xiaomi 18 Fold」を発表、10日に中国で発売を開始した。価格は約25.6万円から。",
+      "source": "ITmedia Mobile（Yahoo!ニュース）",
+      "link": "https://news.yahoo.co.jp/articles/d6e2390d4b24eede28f08f08a21b2a8081d8f4c0"
     },
     {
-      "title": "中国XPeng、ヒューマノイドロボット「IRON」の量産ラインを稼働",
-      "summary": "中国EV大手シャオペン（小鵬）は8日、広州の工場でヒューマノイドロボット「IRON」の生産ラインを稼働。自動化率は8割超で、年内の量産化を目指す。",
-      "source": "Electrek",
-      "link": "https://electrek.co/2026/09/07/xpeng-iron-humanoid-robot-production-line/"
+      "title": "NVIDIA黄CEO「Vera Rubinを大量供給」 ロードマップに自信",
+      "summary": "NVIDIAのジェンスン・フアンCEOは10日、ゴールドマン・サックス主催の技術カンファレンスで次世代AI半導体プラットフォーム「Vera Rubin」の量産出荷を進める方針を表明し、開発計画に変更はないと強調した。",
+      "source": "Tom's Hardware",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-huang-vows-to-deliver-giant-amounts-of-vera-rubin-company-says-that-our-roadmap-is-intact"
     },
     {
-      "title": "メタの広告に児童性的虐待コンテンツ、NGO調査で300件超判明",
-      "summary": "米NGO「Tech Transparency Project」の調査で、メタの審査を通過しFacebook・Instagramに掲載された広告のうちAI生成の児童性的虐待表現を含むものが332件確認されたと報告された。",
-      "source": "Tech Transparency Project",
-      "link": "https://campaignforaccountability.org/ttp-report-meta-ran-hundreds-of-ads-with-child-sexual-abuse-imagery/"
+      "title": "KDDI、小売・物流向け「ロボット基盤モデル」開発がGENIAC採択",
+      "summary": "KDDIは、経済産業省の国家プロジェクト「GENIAC」にロボット基盤モデルの研究開発計画が採択されたと発表。ローソン店舗などで実証し、フィジカルAIの社会実装を目指す（9日）。",
+      "source": "KDDIニュースルーム",
+      "link": "https://newsroom.kddi.com/news/detail/kddi_nr-1155_4708.html"
     }
   ],
   "x_trending_tech": [
     {
-      "title": "サム・アルトマン氏「OpenAI史上最も感動した瞬間」とAI数学的偉業に反応",
-      "summary": "OpenAIのサム・アルトマンCEOが、AIがミレニアム懸賞問題を解いた件について「この数日で見た中で最も感動した瞬間の一つ」と投稿。9日の発表直後の反応。",
-      "source": "@sama",
-      "link": "https://x.com/sama/status/2097380249910854023"
+      "title": "Anthropicアライメント責任者「AIが全人類を殺す確率10%超」と同意",
+      "summary": "Anthropicのエヴァン・ヒュービンガー氏が、同僚コクソン氏の辞職表明に対し「その通りだ、我々は本当にAIが全人類を殺しうると信じている」と投稿。10年以内のリスクを10%超と見積もった（9日）。",
+      "source": "@EvanHub",
+      "link": "https://x.com/EvanHub/status/2097497037956891126"
     },
     {
-      "title": "OpenAI公式、ナビエ・ストークス問題の解法を発表",
-      "summary": "OpenAI公式アカウントが、数学の未解決問題の一つ「ナビエ・ストークス方程式」についてAIエージェント群が生成した証明を公表したと投稿し、大きな反響を呼んだ（9日）。",
-      "source": "@OpenAI",
-      "link": "https://x.com/OpenAI/status/2097374640582668336"
+      "title": "「超知能開発は人類の命運を賭けた賭け」AI安全団体が警鐘",
+      "summary": "AI安全団体ControlAIが、Anthropic研究者ジェイコブ・コクソン氏の辞職と「AIは10年以内に人類を滅ぼしうる」との警告を速報投稿（9日）。",
+      "source": "@ControlAI",
+      "link": "https://x.com/ControlAI/status/2097487422409859244"
     },
     {
-      "title": "ブルームバーグ記者「アップルが初の折りたたみiPhone『Duo』発表」と速報",
-      "summary": "ブルームバーグのセバスチャン・エレラ記者が9日、アップルが初の折りたたみ式iPhone「iPhone Duo」を発表したと速報投稿。",
-      "source": "@SebasAHerrera",
-      "link": "https://x.com/SebasAHerrera/status/2097745729884495880"
+      "title": "「センタークリースの課題を解決」iPhone Duo発表にテック系インフルエンサーが反応",
+      "summary": "テック系インフルエンサーのソーヤー・メリット氏が、アップル初の折りたたみ「iPhone Duo」について、他社製折りたたみ機で課題となっていた画面中央の折り目問題を解決したようだと投稿（発表直後、10日）。",
+      "source": "@SawyerMerritt",
+      "link": "https://x.com/SawyerMerritt/status/2097745935044399126"
     },
     {
-      "title": "マーク・ガーマン氏、iPhone Duoの価格や仕様をリーク投稿",
-      "summary": "ブルームバーグのマーク・ガーマン記者が、アップル新製品「iPhone Duo」の名称や2000ドルからの価格、最大2TBストレージなどの詳細を9日に投稿し話題に。",
-      "source": "@markgurman",
-      "link": "https://x.com/markgurman/status/2097537284224721011"
+      "title": "「iPhone 18 Pro Maxより5割大きい」iPhone Duo発表に速報投稿",
+      "summary": "ニュースアカウントのコリン・ラッグ氏が、アップルの折りたたみ「iPhone Duo」は開いた際に歴代最薄となり、iPhone 18 Pro Maxより5割大きい画面になると速報（発表直後、10日）。",
+      "source": "@CollinRugg",
+      "link": "https://x.com/CollinRugg/status/2097747612912996668"
     },
     {
-      "title": "ギズモード・ジャパン、アップル発表会場の熱狂を投稿",
-      "summary": "ギズモード・ジャパン公式が「THIS IS IPHONE DUO」発表時の会場の盛り上がりを伝える投稿を行い、日本語圏でも話題に（9日）。",
-      "source": "@gizmodojapan",
-      "link": "https://x.com/gizmodojapan/status/2097745986852671555"
+      "title": "「ナビエ・ストークス問題で何が起きている？」AI界隈で白熱の議論",
+      "summary": "AI情報発信者Chubby氏が、OpenAIとバックマスター氏らの間で数学の未解決問題「ナビエ・ストークス方程式」の証明を巡る功績争いが勃発していると詳細スレッドを投稿し話題に。",
+      "source": "@kimmonismus",
+      "link": "https://x.com/kimmonismus/status/2097231170429669703"
     }
   ]
 }
