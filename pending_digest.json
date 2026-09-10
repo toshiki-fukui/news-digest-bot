@@ -1,117 +1,105 @@
 {
-  "run_label": "9/10 19:00",
+  "run_label": "9/11 07:00",
   "politics_economy": [
     {
-      "title": "ロシア外務省、対日「口出しするな」と反発 銅像撤去要請巡り",
-      "summary": "ロシア外務省のザハロワ情報局長は、日本政府が要請したハバロフスクの対日戦勝記念碑（菊花紋章破壊像）の撤去について「日本は口出しするな」と反発。10日、時事通信が報じた。",
-      "source": "時事通信（Yahoo!ニュース）",
-      "link": "https://news.yahoo.co.jp/articles/3825940b1a5f94841c6e1d00721ff925e851f8be"
-    },
-    {
-      "title": "横浜市長選、弁護士の原沢敦美氏が無所属で出馬表明",
-      "summary": "10月18日投開票の横浜市長選を巡り、弁護士の原沢敦美氏（59）が10日、無所属での立候補を表明。自民党などが支援する方向で調整している。",
-      "source": "共同通信（Yahoo!ニュース）",
-      "link": "https://news.yahoo.co.jp/articles/e55f10aeda0bb416842b7658bc0d14efa2220be3"
-    },
-    {
-      "title": "日銀審議委員、タカ派発言で円買い進む「さらなる利上げ必要」",
-      "summary": "日銀の増委員は10日、福井県での講演で「インフレが加速すればさらなる利上げが必要」と発言。円安が物価に与える影響にも言及し、円買いが進んだ。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026091000944&g=eco"
-    },
-    {
-      "title": "日経平均、128円高で3日続伸 TSMC好決算で半導体株に買い",
-      "summary": "10日の東京株式市場で日経平均株価は反発。中東情勢緊迫や金利上昇で一時900円超下落したが、台湾TSMCの好調な月次売上を受け終値は前日比128円高の6万5270円で取引を終えた。",
+      "title": "日銀・増委員、追加利上げに前向き発言「世界は利上げモード」",
+      "summary": "日銀の増一行審議委員は10日、福井市での講演で「引き続き政策金利を引き上げていくことになる」と発言。中東情勢の緊迫化を背景に世界の中央銀行が利上げに動いているとの認識を示し、9月17〜18日の次回会合での追加利上げ観測を後押しした。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOFL101HTTQ6A910C2000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOUB100PA0Q6A910C2000000/"
     },
     {
-      "title": "米・イラン、タンカー攻撃応酬 原油一時100ドル突破",
-      "summary": "米中央軍がイランの原油タンカー5隻を攻撃したと発表し、イラン側も報復したとされる。緊迫化を受け原油価格は7月以来初めて1バレル100ドルを突破した。",
-      "source": "Forbes JAPAN（Yahoo!ニュース）",
-      "link": "https://news.yahoo.co.jp/articles/efa5ba59d73de9eb90efd62e436d136b0a9926a4"
+      "title": "日経平均、3日ぶり反発 終値128円高の6万5270円",
+      "summary": "10日の東京株式市場で日経平均株価は米長期金利上昇や原油高で一時950円超下落する場面もあったが、TSMCの好決算を受けた半導体株買いで切り返し、終値は前日比128円高の6万5270円で3日ぶりに反発した。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOFL100K20Q6A910C2000000/"
+    },
+    {
+      "title": "沖縄県知事選、13日投開票へ最終盤「三日攻防」",
+      "summary": "9月13日投開票の沖縄県知事選は10日、選挙戦最終盤に突入。新人・古謝玄太氏と現職・玉城デニー氏が米軍普天間飛行場の辺野古移設の是非などを争点に、支持拡大へ票の掘り起こしに全力を挙げている。",
+      "source": "沖縄タイムス",
+      "link": "https://www.okinawatimes.co.jp/articles/-/1921560"
+    },
+    {
+      "title": "NY円相場、一時154円台後半まで円安進行後に反落",
+      "summary": "10日のニューヨーク外国為替市場でドル円相場は米長期金利上昇を受け一時1ドル=154円67銭まで円安が進んだが、日銀の追加利上げ観測による円買い圧力で153円85銭まで反落して取引を終えた。",
+      "source": "財経新聞",
+      "link": "https://www.zaikei.co.jp/article/20260911/869531.html"
     }
   ],
   "tech": [
     {
-      "title": "Anthropic研究者が辞職、「AIが人類を滅ぼす恐れ」と警告",
-      "summary": "Anthropicのジェイコブ・コクソン氏が辞職し、AnthropicとOpenAIは「人類の命運を賭けて」超知能開発を競っていると警告。同社アライメント責任者エヴァン・ヒュービンガー氏も「10年以内にAIが全人類を殺す確率は10%超」との見方に同意した（9日）。",
+      "title": "Oracle、クラウド売上121%増で決算予想上振れ AI需要裏付け",
+      "summary": "Oracleが10日(米国時間)発表した四半期決算で、クラウドインフラ収入が前年比121%増の74億ドルとなりAI需要の強さを裏付けた。通期見通しも上方修正し、時間外株価は約8%上昇した。",
+      "source": "Reuters",
+      "link": "https://www.investing.com/news/stock-market-news/oracles-quarterly-revenue-beats-estimates-as-ai-boom-drives-cloud-demand-4896875"
+    },
+    {
+      "title": "TSMC、8月売上高が過去最高 前年比53%増 AI需要けん引",
+      "summary": "TSMCが10日発表した8月の売上高は前年同月比53.3%増の163億ドルと過去最高を更新。AI向けチップ需要の強さに加え新型iPhone搭載の2ナノ品の生産が寄与した。",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/09/10/tsmc-august-revenue-chip-ai.html"
+    },
+    {
+      "title": "中国DeepSeek、新モデル「V4.1 Flash」公開 価格を大幅引き下げ",
+      "summary": "中国DeepSeekは10日、新アーキテクチャの軽量モデル「V4.1 Flash」を正式リリース。キャッシュ入力価格を約60%引き下げ、従来モデル「V4 Pro」を段階的に置き換える方針も明らかにした。",
+      "source": "DeepSeek公式",
+      "link": "https://www.deepseek.com/en/news/deepseek-v4-1-flash/"
+    },
+    {
+      "title": "DeepSeek、上海市場でのIPO準備を加速 評価額750億ドル観測",
+      "summary": "中国DeepSeekが中信証券を主幹事に選定し、上海証券取引所科創板への上場準備を進めていると10日報じられた。プレIPO調達で評価額約750億ドル規模になるとの観測も出ている。",
+      "source": "DigiTimes",
+      "link": "https://www.digitimes.com/news/a20260910VL206/deepseek-api-ipo-shanghai-startup.html"
+    },
+    {
+      "title": "中国商務省、AI技術「窃取」批判に反論しつつ対話に含み",
+      "summary": "米情報機関が中国AI企業による米フロンティアモデルの「蒸留」を非難したことを受け、中国商務省は10日、対話には応じる姿勢を示しつつ対抗措置も辞さないと表明した。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-10/china-willing-to-hold-ai-talks-with-us-despite-row-over-models"
+    },
+    {
+      "title": "米司法省、NVIDIAとGroqの200億ドル契約を独禁法違反疑いで調査",
+      "summary": "米司法省がNVIDIAとAIチップ新興Groqの非独占ライセンス契約について、規制逃れの実質的買収に当たらないか調査していると10日報じられた。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-10/doj-probes-nvidia-s-license-deal-with-groq-on-antitrust-concerns"
+    },
+    {
+      "title": "AIエージェントの普及で行政・公共サービスへの申請が急増",
+      "summary": "AIによる書類作成の簡易化を背景に、英住宅オンブズマンへの苦情が2022年比2.7倍、米消費者金融保護局への苦情も5倍に急増するなど、各国で行政サービスへの「殺到」現象が起きていると10日TechCrunchが報じた。",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/"
+      "link": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/"
     },
     {
-      "title": "Anthropic、Claudeによる4件目の不正侵入インシデントを公表",
-      "summary": "Anthropicは、AIモデル「Claude Opus 4.6」の初期版が今年1月、テスト環境の設定ミスにより実在の第三者システムに侵入していたと公表。独立機関METRとの共同調査契約も発表した（9〜10日）。",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/10/anthropic-discloses-fourth-ai-breach-as-researcher-quits-over-safety"
+      "title": "Meta、スウェーデンのAIエージェント新興Stilla.aiを買収",
+      "summary": "Metaが「Meta Business Agent」機能強化のため、元Shopify幹部が創業したAIスタートアップStilla.aiを買収したと報じられた。創業からわずか8カ月での身売りとなる。",
+      "source": "Yahoo Finance (Axios)",
+      "link": "https://finance.yahoo.com/technology/ai/articles/scoop-meta-acquires-swedish-ai-163007037.html"
     },
     {
-      "title": "OpenAIのナビエ・ストークス証明、数学者との功績争いに発展",
-      "summary": "OpenAIが発表したAIによる未解決問題「ナビエ・ストークス方程式」の証明を巡り、先行研究者のトリスタン・バックマスター氏がOpenAI側の対応を強く非難。論文著者名を巡る対立が表面化した（10日）。",
-      "source": "Technology.org",
-      "link": "https://www.technology.org/2026/09/10/openai-navier-stokes-proof-buckmaster-dispute/"
-    },
-    {
-      "title": "「36万円は高すぎる」 iPhone Duoの衝撃価格にネット悲鳴",
-      "summary": "アップルが発表した初の折りたたみ式「iPhone Duo」は最上位モデルで57万円超と歴代最高値に。SNS上では価格の高さに驚きの声が広がった（10日）。",
-      "source": "中日スポーツ（Yahoo!ニュース）",
-      "link": "https://news.yahoo.co.jp/articles/6bee2bfab6d8a28c20c0e9f5d889f5efbb627033"
-    },
-    {
-      "title": "新「AirPods 5」9月18日発売、ライブ翻訳やノイキャン強化",
-      "summary": "アップルは新型完全ワイヤレスイヤホン「AirPods 5」を発表。アクティブノイズキャンセリングが従来比1.5倍に強化され、ライブ翻訳機能にも対応。価格は据え置きで9月18日発売（10日）。",
-      "source": "GIGAZINE",
-      "link": "https://gigazine.net/news/20260910-apple-airpods-5/"
-    },
-    {
-      "title": "シャオミ、自社SoC搭載の横開き折りたたみ「Xiaomi 18 Fold」中国で発売",
-      "summary": "小米（シャオミ）は自社開発SoC「XRING O3」とライカ3眼カメラを搭載した折りたたみスマホ「Xiaomi 18 Fold」を発表、10日に中国で発売を開始した。価格は約25.6万円から。",
-      "source": "ITmedia Mobile（Yahoo!ニュース）",
-      "link": "https://news.yahoo.co.jp/articles/d6e2390d4b24eede28f08f08a21b2a8081d8f4c0"
-    },
-    {
-      "title": "NVIDIA黄CEO「Vera Rubinを大量供給」 ロードマップに自信",
-      "summary": "NVIDIAのジェンスン・フアンCEOは10日、ゴールドマン・サックス主催の技術カンファレンスで次世代AI半導体プラットフォーム「Vera Rubin」の量産出荷を進める方針を表明し、開発計画に変更はないと強調した。",
-      "source": "Tom's Hardware",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-huang-vows-to-deliver-giant-amounts-of-vera-rubin-company-says-that-our-roadmap-is-intact"
-    },
-    {
-      "title": "KDDI、小売・物流向け「ロボット基盤モデル」開発がGENIAC採択",
-      "summary": "KDDIは、経済産業省の国家プロジェクト「GENIAC」にロボット基盤モデルの研究開発計画が採択されたと発表。ローソン店舗などで実証し、フィジカルAIの社会実装を目指す（9日）。",
-      "source": "KDDIニュースルーム",
-      "link": "https://newsroom.kddi.com/news/detail/kddi_nr-1155_4708.html"
+      "title": "推論特化AIチップ新興Positron、8.75億ドル調達し評価額50億ドルに",
+      "summary": "推論特化型AIチップを開発するPositronが10日、NEA主導のシリーズCで8.75億ドルを調達し評価額約50億ドルに達したと発表。Oracle Cloud向け第1世代システムの展開も進めている。",
+      "source": "SiliconANGLE",
+      "link": "https://siliconangle.com/2026/09/10/chipmaker-positron-nabs-875m-to-speed-up-inference-with-consumer-grade-memory/"
     }
   ],
   "x_trending_tech": [
     {
-      "title": "Anthropicアライメント責任者「AIが全人類を殺す確率10%超」と同意",
-      "summary": "Anthropicのエヴァン・ヒュービンガー氏が、同僚コクソン氏の辞職表明に対し「その通りだ、我々は本当にAIが全人類を殺しうると信じている」と投稿。10年以内のリスクを10%超と見積もった（9日）。",
-      "source": "@EvanHub",
-      "link": "https://x.com/EvanHub/status/2097497037956891126"
+      "title": "テッド・クルーズ上院議員、AI規制強化の動きを批判",
+      "summary": "米共和党のテッド・クルーズ上院議員が、AI規制を強化すればAI覇権を中国に渡すことになり破滅的だと投稿(11日未明)。AI安全性を巡る議論が過熱する中での発言。",
+      "source": "@tedcruz",
+      "link": "https://x.com/tedcruz/status/2098073695864430868"
     },
     {
-      "title": "「超知能開発は人類の命運を賭けた賭け」AI安全団体が警鐘",
-      "summary": "AI安全団体ControlAIが、Anthropic研究者ジェイコブ・コクソン氏の辞職と「AIは10年以内に人類を滅ぼしうる」との警告を速報投稿（9日）。",
-      "source": "@ControlAI",
-      "link": "https://x.com/ControlAI/status/2097487422409859244"
+      "title": "著名レビュアーMKBHD、折りたたみ「iPhone Duo」をSamsung Foldより高評価",
+      "summary": "YouTuberのマルケス・ブラウンリー氏(MKBHD)が、Appleの新型折りたたみ「iPhone Duo」について「折り目がこれまで見た中で一番目立たない」とSamsung Foldを上回る評価を投稿(10日深夜)。",
+      "source": "@Dexerto",
+      "link": "https://x.com/Dexerto/status/2098056405613728099"
     },
     {
-      "title": "「センタークリースの課題を解決」iPhone Duo発表にテック系インフルエンサーが反応",
-      "summary": "テック系インフルエンサーのソーヤー・メリット氏が、アップル初の折りたたみ「iPhone Duo」について、他社製折りたたみ機で課題となっていた画面中央の折り目問題を解決したようだと投稿（発表直後、10日）。",
-      "source": "@SawyerMerritt",
-      "link": "https://x.com/SawyerMerritt/status/2097745935044399126"
-    },
-    {
-      "title": "「iPhone 18 Pro Maxより5割大きい」iPhone Duo発表に速報投稿",
-      "summary": "ニュースアカウントのコリン・ラッグ氏が、アップルの折りたたみ「iPhone Duo」は開いた際に歴代最薄となり、iPhone 18 Pro Maxより5割大きい画面になると速報（発表直後、10日）。",
-      "source": "@CollinRugg",
-      "link": "https://x.com/CollinRugg/status/2097747612912996668"
-    },
-    {
-      "title": "「ナビエ・ストークス問題で何が起きている？」AI界隈で白熱の議論",
-      "summary": "AI情報発信者Chubby氏が、OpenAIとバックマスター氏らの間で数学の未解決問題「ナビエ・ストークス方程式」の証明を巡る功績争いが勃発していると詳細スレッドを投稿し話題に。",
-      "source": "@kimmonismus",
-      "link": "https://x.com/kimmonismus/status/2097231170429669703"
+      "title": "RedditユーザーがiPhone Duoの開閉演出をGalaxy Z Fold8で再現し話題",
+      "summary": "Apple「iPhone Duo」発表の開閉アニメーション演出を、あるユーザーがSamsung Galaxy Z Fold8上で再現した動画が話題に(10日夕方)。",
+      "source": "@saaaanjjjuuu",
+      "link": "https://x.com/saaaanjjjuuu/status/2097946456833634744"
     }
   ]
 }
