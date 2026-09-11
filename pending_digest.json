@@ -1,105 +1,99 @@
 {
-  "run_label": "9/11 07:00",
+  "run_label": "9/11 19:00",
   "politics_economy": [
     {
-      "title": "日銀・増委員、追加利上げに前向き発言「世界は利上げモード」",
-      "summary": "日銀の増一行審議委員は10日、福井市での講演で「引き続き政策金利を引き上げていくことになる」と発言。中東情勢の緊迫化を背景に世界の中央銀行が利上げに動いているとの認識を示し、9月17〜18日の次回会合での追加利上げ観測を後押しした。",
+      "title": "日経平均が大幅反落、終値1259円安の6万4011円 原油高・金利上昇を警戒",
+      "summary": "9/11の東京株式市場で日経平均株価は前日比1259円61銭(1.93%)安の6万4011円34銭で終え、約1カ月ぶりの安値水準となった。中東情勢の緊迫化でWTI原油先物が1バレル100ドルを突破し、米長期金利の上昇も重なって投資家のリスク回避姿勢が強まった。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUB100PA0Q6A910C2000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOFL115480R10C26A9000000/"
     },
     {
-      "title": "日経平均、3日ぶり反発 終値128円高の6万5270円",
-      "summary": "10日の東京株式市場で日経平均株価は米長期金利上昇や原油高で一時950円超下落する場面もあったが、TSMCの好決算を受けた半導体株買いで切り返し、終値は前日比128円高の6万5270円で3日ぶりに反発した。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOFL100K20Q6A910C2000000/"
+      "title": "内閣改造、維新から初入閣へ 17日にも実施 高市政権のタカ派色加速",
+      "summary": "高市早苗首相が17日にも内閣改造を行い、日本維新の会から馬場伸幸前代表らが初入閣する見通しであることが9/11報じられた。連立の枠組みが外部協力から閣内協力へと移行し、政権のタカ派色が強まるとの見方が出ている一方、党内外に懸念の声もある。",
+      "source": "東京新聞デジタル",
+      "link": "https://www.tokyo-np.co.jp/article/514735"
     },
     {
-      "title": "沖縄県知事選、13日投開票へ最終盤「三日攻防」",
-      "summary": "9月13日投開票の沖縄県知事選は10日、選挙戦最終盤に突入。新人・古謝玄太氏と現職・玉城デニー氏が米軍普天間飛行場の辺野古移設の是非などを争点に、支持拡大へ票の掘り起こしに全力を挙げている。",
-      "source": "沖縄タイムス",
-      "link": "https://www.okinawatimes.co.jp/articles/-/1921560"
+      "title": "ドル円、154円40銭前後まで円安進行 前日比1円超のドル高",
+      "summary": "9/11午後1時時点の東京外国為替市場でドル円は1ドル=154円40銭前後と、前日午後5時比で1円01銭のドル高・円安水準で推移。米長期金利の高止まりが背景にある一方、国内金利上昇や株安を受けた円買いも交錯し、方向感の乏しい展開となった。",
+      "source": "株探(kabutan)",
+      "link": "https://s.kabutan.jp/news/n202609110615/"
     },
     {
-      "title": "NY円相場、一時154円台後半まで円安進行後に反落",
-      "summary": "10日のニューヨーク外国為替市場でドル円相場は米長期金利上昇を受け一時1ドル=154円67銭まで円安が進んだが、日銀の追加利上げ観測による円買い圧力で153円85銭まで反落して取引を終えた。",
-      "source": "財経新聞",
-      "link": "https://www.zaikei.co.jp/article/20260911/869531.html"
+      "title": "沖縄県知事選、朝日新聞情勢調査で新人・古謝氏がやや先行、現職・玉城氏が激しく追う",
+      "summary": "9/13投開票の沖縄県知事選をめぐり朝日新聞社が実施した情勢調査で、辺野古移設を容認する新人の古謝玄太氏がやや先行し、移設反対の現職・玉城デニー氏が激しく追う展開であることが9/11までに判明。有権者の約4割が投票先を未定としている。",
+      "source": "朝日新聞(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/48d6289891baa4f6b6f5d6ec3a597da2aefa5b23"
+    },
+    {
+      "title": "上川元外相ら、ICC支援継続を政府に要請 法の支配実現訴え",
+      "summary": "超党派の司法外交推進議員連盟の上川陽子元外相らが9/11、外務省の堀井巌副大臣にICC(国際刑事裁判所)への支援継続を求める提言を提出。米国がICC所長を制裁対象に指定したことを受け、日本政府に対し法の支配の実現へ米国との粘り強い対話を求めた。",
+      "source": "時事通信",
+      "link": "https://www.jiji.com/jc/article?k=2026091100721&g=pol"
     }
   ],
   "tech": [
     {
-      "title": "Oracle、クラウド売上121%増で決算予想上振れ AI需要裏付け",
-      "summary": "Oracleが10日(米国時間)発表した四半期決算で、クラウドインフラ収入が前年比121%増の74億ドルとなりAI需要の強さを裏付けた。通期見通しも上方修正し、時間外株価は約8%上昇した。",
-      "source": "Reuters",
-      "link": "https://www.investing.com/news/stock-market-news/oracles-quarterly-revenue-beats-estimates-as-ai-boom-drives-cloud-demand-4896875"
+      "title": "OpenAI、AI開発ペースの減速も検討 アルトマンCEOが社内で表明",
+      "summary": "Bloombergが9/11に報じたところでは、OpenAIのサム・アルトマンCEOは社内ミーティングで、他のAI企業とも協調しながら最先端AI開発のペースを落とす可能性に前向きな姿勢を示した。従業員から高度AIのリスクを懸念する声が相次いでいることを受けた発言とみられる。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-11/openai-is-open-to-slowing-cutting-edge-ai-ceo-sam-altman-tells-staff"
     },
     {
-      "title": "TSMC、8月売上高が過去最高 前年比53%増 AI需要けん引",
-      "summary": "TSMCが10日発表した8月の売上高は前年同月比53.3%増の163億ドルと過去最高を更新。AI向けチップ需要の強さに加え新型iPhone搭載の2ナノ品の生産が寄与した。",
+      "title": "OpenAI、開発者向け「Agents API」をパブリックベータ公開",
+      "summary": "OpenAIは9/10、コーディングエージェント「Codex」を支える基盤をAPI経由で利用できる「Agents API」のパブリックベータを発表。セッション管理やコンテキスト圧縮などをOpenAI側が担い、開発者はツール接続と実行環境の選択に集中できるようになる。",
+      "source": "OpenAI",
+      "link": "https://openai.com/index/introducing-the-agents-api/"
+    },
+    {
+      "title": "インテル出資のAltera、2026年にも新規株式公開へ 20億ドル超調達目指す",
+      "summary": "ロイターの9/11報道によると、シルバーレイクとインテルが出資するプログラマブル半導体大手Alteraが、早ければ2026年中に20億ドル超を調達するIPOを準備中。主幹事にはバークレイズやJPモルガンなどが起用される見通し。",
+      "source": "Reuters (The Star)",
+      "link": "https://www.thestar.com.my/tech/tech-news/2026/09/11/exclusive-silver-lake-intel-backed-altera-prepares-ipo-that-could-raise-over-2-billion-as-early-as-2026-sources-say"
+    },
+    {
+      "title": "アンソロピック、中国AI大手による『Claude』不正蒸留を報告",
+      "summary": "CNBCが9/11に報じたところでは、アンソロピックは脅威インテリジェンスレポートで、アリババ、Moonshot AI、DeepSeekなどの中国AI企業が大規模かつ無許可でClaudeの出力を使い自社モデルを訓練していたと指摘。アリババ関連だけで5〜7月に1.5億件超のやり取りが確認されたという。",
       "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/09/10/tsmc-august-revenue-chip-ai.html"
+      "link": "https://www.cnbc.com/2026/09/11/chinese-ai-labs-moonshot-deepseek-alibaba-anthropic.html"
     },
     {
-      "title": "中国DeepSeek、新モデル「V4.1 Flash」公開 価格を大幅引き下げ",
-      "summary": "中国DeepSeekは10日、新アーキテクチャの軽量モデル「V4.1 Flash」を正式リリース。キャッシュ入力価格を約60%引き下げ、従来モデル「V4 Pro」を段階的に置き換える方針も明らかにした。",
-      "source": "DeepSeek公式",
-      "link": "https://www.deepseek.com/en/news/deepseek-v4-1-flash/"
+      "title": "アドビ、増収増益も来期見通しが市場予想届かずAI競争懸念再燃",
+      "summary": "9/10発表の第3四半期決算は売上・利益とも市場予想を上回ったが、第4四半期の売上見通しがわずかに市場予想を下回り、生成AIスタートアップとの競争激化懸念から株価は時間外で下落。AI関連の年間経常収益は前年比150%超増加した。",
+      "source": "Bloomberg(Yahoo Finance転載)",
+      "link": "https://finance.yahoo.com/technology/ai/articles/adobe-forecast-misses-estimates-renewing-201136315.html"
     },
     {
-      "title": "DeepSeek、上海市場でのIPO準備を加速 評価額750億ドル観測",
-      "summary": "中国DeepSeekが中信証券を主幹事に選定し、上海証券取引所科創板への上場準備を進めていると10日報じられた。プレIPO調達で評価額約750億ドル規模になるとの観測も出ている。",
+      "title": "アップル初の折りたたみiPhone、台湾サプライチェーンは既に次の成長分野へ",
+      "summary": "DigiTimesが9/11に報じたところでは、アップルが発表した折りたたみ型「iPhone Duo」は部品需要拡大への期待を集める一方、台湾の部品サプライヤーの間では折りたたみ機がもはや成長の主軸ではなくなりつつあるという。",
       "source": "DigiTimes",
-      "link": "https://www.digitimes.com/news/a20260910VL206/deepseek-api-ipo-shanghai-startup.html"
+      "link": "https://www.digitimes.com/news/a20260911PD210/apple-iphone-component-taiwan-foldable.html"
     },
     {
-      "title": "中国商務省、AI技術「窃取」批判に反論しつつ対話に含み",
-      "summary": "米情報機関が中国AI企業による米フロンティアモデルの「蒸留」を非難したことを受け、中国商務省は10日、対話には応じる姿勢を示しつつ対抗措置も辞さないと表明した。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-10/china-willing-to-hold-ai-talks-with-us-despite-row-over-models"
-    },
-    {
-      "title": "米司法省、NVIDIAとGroqの200億ドル契約を独禁法違反疑いで調査",
-      "summary": "米司法省がNVIDIAとAIチップ新興Groqの非独占ライセンス契約について、規制逃れの実質的買収に当たらないか調査していると10日報じられた。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-10/doj-probes-nvidia-s-license-deal-with-groq-on-antitrust-concerns"
-    },
-    {
-      "title": "AIエージェントの普及で行政・公共サービスへの申請が急増",
-      "summary": "AIによる書類作成の簡易化を背景に、英住宅オンブズマンへの苦情が2022年比2.7倍、米消費者金融保護局への苦情も5倍に急増するなど、各国で行政サービスへの「殺到」現象が起きていると10日TechCrunchが報じた。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/"
-    },
-    {
-      "title": "Meta、スウェーデンのAIエージェント新興Stilla.aiを買収",
-      "summary": "Metaが「Meta Business Agent」機能強化のため、元Shopify幹部が創業したAIスタートアップStilla.aiを買収したと報じられた。創業からわずか8カ月での身売りとなる。",
-      "source": "Yahoo Finance (Axios)",
-      "link": "https://finance.yahoo.com/technology/ai/articles/scoop-meta-acquires-swedish-ai-163007037.html"
-    },
-    {
-      "title": "推論特化AIチップ新興Positron、8.75億ドル調達し評価額50億ドルに",
-      "summary": "推論特化型AIチップを開発するPositronが10日、NEA主導のシリーズCで8.75億ドルを調達し評価額約50億ドルに達したと発表。Oracle Cloud向け第1世代システムの展開も進めている。",
-      "source": "SiliconANGLE",
-      "link": "https://siliconangle.com/2026/09/10/chipmaker-positron-nabs-875m-to-speed-up-inference-with-consumer-grade-memory/"
+      "title": "アマゾン広告とOpenAI、ChatGPT上での広告配信で提携パイロット開始",
+      "summary": "9/10、アマゾンとOpenAIはアマゾンDSPで運用中の広告キャンペーンをChatGPT上にも拡張できる試験提携を開始したと発表。第1弾の広告主としてデルタ・バケーションズが名を連ねた。",
+      "source": "Search Engine Land",
+      "link": "https://searchengineland.com/amazon-pilots-chatgpt-ads-through-its-dsp-488026"
     }
   ],
   "x_trending_tech": [
     {
-      "title": "テッド・クルーズ上院議員、AI規制強化の動きを批判",
-      "summary": "米共和党のテッド・クルーズ上院議員が、AI規制を強化すればAI覇権を中国に渡すことになり破滅的だと投稿(11日未明)。AI安全性を巡る議論が過熱する中での発言。",
-      "source": "@tedcruz",
-      "link": "https://x.com/tedcruz/status/2098073695864430868"
+      "title": "Anthropicが最新の脅威インテリジェンスレポートを公開",
+      "summary": "AnthropicがClaudeの悪用事例(サイバー攻撃・監視・生物兵器開発など)とその阻止策をまとめた過去最も詳細な脅威レポートを公式アカウントから発表。9/11未明2:13頃の投稿で大きな反響を呼んでいる。",
+      "source": "@AnthropicAI",
+      "link": "https://x.com/AnthropicAI/status/2098097512544444447"
     },
     {
-      "title": "著名レビュアーMKBHD、折りたたみ「iPhone Duo」をSamsung Foldより高評価",
-      "summary": "YouTuberのマルケス・ブラウンリー氏(MKBHD)が、Appleの新型折りたたみ「iPhone Duo」について「折り目がこれまで見た中で一番目立たない」とSamsung Foldを上回る評価を投稿(10日深夜)。",
-      "source": "@Dexerto",
-      "link": "https://x.com/Dexerto/status/2098056405613728099"
+      "title": "「iPhone Duoを3ヶ月使ってる」ジョーク投稿が拡散",
+      "summary": "発売前のApple新型折りたたみiPhone「iPhone Duo」について「3ヶ月使っている」と冗談を投稿し、実際にはまだ誰も購入できないことへの皮肉として話題に。9/11未明4:34頃の投稿。",
+      "source": "@waltify",
+      "link": "https://x.com/waltify/status/2098133062768898063"
     },
     {
-      "title": "RedditユーザーがiPhone Duoの開閉演出をGalaxy Z Fold8で再現し話題",
-      "summary": "Apple「iPhone Duo」発表の開閉アニメーション演出を、あるユーザーがSamsung Galaxy Z Fold8上で再現した動画が話題に(10日夕方)。",
-      "source": "@saaaanjjjuuu",
-      "link": "https://x.com/saaaanjjjuuu/status/2097946456833634744"
+      "title": "Anthropicの脅威レポートに「必読」の声が拡散",
+      "summary": "上記Anthropicの脅威インテリジェンスレポートを「衝撃的な内容、みんな読むべき」と紹介した投稿が急速に拡散。9/11早朝5:19頃の投稿。",
+      "source": "@ns123abc",
+      "link": "https://x.com/ns123abc/status/2098144432570630380"
     }
   ]
 }
