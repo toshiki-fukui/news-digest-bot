@@ -1,74 +1,93 @@
 {
-  "run_label": "9/12 19:00",
+  "run_label": "9/13 07:00",
   "politics_economy": [
     {
-      "title": "高市首相、「不記載議員」の閣僚起用を排除せず 17日にも内閣改造",
-      "summary": "高市早苗首相は9/12、自民党派閥の政治資金不記載問題に関与した議員の閣僚起用を排除しない考えを示し、17日にも就任後初の内閣改造に踏み切る方針。野党側は起用に反発を強めている。",
+      "title": "沖縄県知事選、13日投開票 古謝・玉城両氏が最終盤の訴え",
+      "summary": "米軍普天間飛行場の辺野古移設や物価高対策を争点に新人・古謝玄太氏と現職・玉城デニー氏が事実上の一騎打ちとなった沖縄県知事選は、9/12夜に17日間の選挙戦を終え、13日午前7時から投票が始まる。即日開票され、13日夜には大勢が判明する見通し。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUA114QJ0R10C26A9000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOJC118760R10C26A9000000/"
     },
     {
-      "title": "沖縄県知事選あす投開票、最終盤で偽情報拡散も",
-      "summary": "米軍普天間飛行場の辺野古移設が争点の沖縄県知事選は13日投開票、現職・玉城デニー氏と新人・古謝玄太氏の事実上の一騎打ち。9/12の選挙戦最終日には「高市首相が応援に入る」との情報が一時流れたほか、両陣営を巡るデマ・偽画像の拡散も報告された。",
-      "source": "日刊スポーツ(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/a4c1e24a3dcc9d5a31aa0eb57bdc414c1bf9b805"
+      "title": "日経平均、3日ぶり反発 324円高の6万2742円で終値",
+      "summary": "9/12の東京株式市場で日経平均株価は3営業日ぶりに反発し、前日比324円69銭高の6万2742円57銭で取引を終えた。好決算のAI・半導体関連株に買いが入った一方、中東情勢を背景とした原油高への警戒感も残った。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOFL120MA0S6A510C2000000/"
     },
     {
-      "title": "解散の「中道改革連合」、政党交付金11億7000万円受領へ 党内外から批判",
-      "summary": "分裂・解散を決めた中道改革連合が衆院議員1人を残して存続し、未交付分の政党交付金約11億7000万円を受け取る方針であることが9/12までに判明。税金を原資とする交付金だけに批判が噴出している。",
+      "title": "北朝鮮が弾道ミサイル数発発射、日本海へ約250キロ飛行",
+      "summary": "韓国軍合同参謀本部は9/12午前5時20分ごろ、北朝鮮が元山一帯から東海(日本海)に向け弾道ミサイル数発を発射し、約250キロ飛行したと発表。日米韓が9/7〜11に実施した共同訓練への反発とみられ、日米韓は同日中に強く非難した。",
+      "source": "共同通信(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/10f8d9b1e1d3cb674639336e9d0a471201f0b70e"
+    },
+    {
+      "title": "高市首相、体調不良からの公務再開も足取り重く",
+      "summary": "高市早苗首相は9/12、衆院予算委員会での答弁後に体調不良を訴えて診察を受け、夜の外交日程を取りやめた。木原官房長官は9/13、「風邪の疑いで念のため休養した。既に回復している」と説明し、首相は13日朝から公務を再開した。",
       "source": "時事通信(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/4bf47c7717dd7a5bd97b79e3a6158ea3fe5c3343"
-    },
-    {
-      "title": "北朝鮮が弾道ミサイル数発発射、日本海へ 日米韓が非難",
-      "summary": "北朝鮮は9/12朝、日本海に向けて弾道ミサイル数発を発射し約250キロ飛行、日本政府は「日本への影響はない」とする一方、日米韓3カ国は安保理決議違反だとして強く非難した。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026091200134&g=soc"
-    },
-    {
-      "title": "コメ平均価格、13週ぶり4000円台に 1週で264円の過去最大上昇",
-      "summary": "農林水産省は9/12、全国のコメ5キロ当たり平均価格(9/1〜7販売分)が前週比264円高の4155円となり、13週ぶりに4000円台へ上昇したと発表。新米販売の拡大や備蓄米比率の低下が要因という。",
-      "source": "ABEMA TIMES(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/703c2dbdfc9bc441bf21ebc078487deb37c3b281"
+      "link": "https://news.yahoo.co.jp/articles/bdbbb8c441c384a096c71e4a647a4b0e4ee3ac2b"
     }
   ],
   "tech": [
     {
-      "title": "DeepSeekの新モデルが半導体使用量を大幅削減、サムスン・SKハイニックス株が急落",
-      "summary": "中国DeepSeekは9/10(現地時間)、HBM(広帯域メモリー)使用量を従来比75%、SSD使用量を87.5%削減したとする新モデル「V4.1 Flash」を発表。AIメモリー需要への懸念から翌11日にソウル市場でサムスン電子・SKハイニックス株が3%超下落した。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-11/deepseek-hands-memory-stock-investors-fresh-reason-for-caution"
+      "title": "アンソロピックCEOがAI開発の減速を提言する新エッセイを公表",
+      "summary": "アンソロピックのダリオ・アモデイCEOは9/12(現地時間)、「We Must Pace the Frontier」と題した新エッセイを公開し、AIの自己改善加速などを理由に業界全体で開発ペースを意図的に落とすべきだと提言。第三者評価者に社員並みの常時アクセス権を付与する方針も一方的に表明した。",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html"
     },
     {
-      "title": "サムスン電子とOpenAIの半導体協業報道、OpenAI「新たな発表はない」と火消し",
-      "summary": "9/11、サムスン電子幹部の発言を受け次世代半導体での協業拡大が報じられたが、OpenAI韓国法人は同日「既存の協業(ChatGPT導入や昨年10月のLOI)を指したもので新規契約はない」と説明。サムスン株は同日3.5%下落した。",
-      "source": "The Korea Times",
-      "link": "https://www.koreatimes.co.kr/business/companies/20260911/nothing-new-to-announce-on-possible-chip-collaboration-with-samsung-openai"
-    },
-    {
-      "title": "米国防総省、AIクラウド新興Fluidstackに50億ドル融資を協議",
-      "summary": "米ペンタゴンの戦略資本室が、AIデータセンター事業者Fluidstackに対し最大50億ドルの融資を検討していると9/11(現地)判明。米国内のデータセンター関連サプライチェーン強化が目的で、実現すれば同室最大の融資となる。",
-      "source": "Reuters(The Star報道)",
-      "link": "https://www.thestar.com.my/tech/tech-news/2026/09/11/pentagon-in-talks-to-lend-5-billion-to-ai-cloud-startup-fluidstack-wsj-reports"
-    },
-    {
-      "title": "「iPhone 18 Pro」「Pro Max」、日本時間9/12夜に予約開始",
-      "summary": "アップルは9/18発売の「iPhone 18 Pro」「iPhone 18 Pro Max」の予約を、日本時間で9/12午後9時から開始すると発表。Apple Storeおよび主要4キャリアで同時受付となる。",
-      "source": "iPhone Mania",
-      "link": "https://iphone-mania.jp/iphone18-reserve/"
-    },
-    {
-      "title": "Roblox、開発者会議でAIによるゲーム制作を強化しRoblox外でもプレイ可能に",
-      "summary": "Robloxは9/11(米国時間)に開催した開発者会議(RDC 2026)で、クリエイターが作ったゲームをスタンドアロンアプリやブラウザ経由でRoblox外でも配信できる新機能を発表。年内にChromeでのダウンロード不要プレイにも対応する。",
+      "title": "オープンAIのアルトマンCEO「2026年中の上場は時期尚早」",
+      "summary": "オープンAIは非公開でIPO申請を行ったと報じられる中、サム・アルトマンCEOは9/12、AI安全性への懸念が高まる今「上場するのは賢明ではない」と述べ、2026年中の新規株式公開を事実上否定した。",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/"
+      "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/"
     },
     {
-      "title": "LINEヤフー、AIエージェント「Agent i」にタスク機能追加",
-      "summary": "LINEヤフーは9/11、AIエージェント「Agent i」に、登録したキーワードのニュースや商品の値下がりなどを自律的に収集しLINE/Yahoo!アプリで通知する「タスク機能」の提供を開始したと発表。",
-      "source": "Impress Watch",
-      "link": "https://www.watch.impress.co.jp/docs/news/2140163.html"
+      "title": "オラクルのエリソン氏、75億ドル相当の自社株売却計画を撤回",
+      "summary": "オラクル共同創業者ラリー・エリソン氏は9/12、最大5000万株(約75億ドル相当)を売却する計画を撤回したと発表。売却計画の開示からわずか1日後の撤回で、同計画下では株式は一切売却されていなかったとしている。",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/09/12/larry-ellison-nixes-plan-to-offload-up-to-7point5-billion-worth-of-oracle-stock-.html"
+    },
+    {
+      "title": "アンソロピックの安全性研究者が退社、AI業界の「隠蔽」に警鐘",
+      "summary": "アンソロピックの安全性研究者ジョー・ベントン氏が退社し、AI各社が安全対策への投資を欠いたまま人間を超える能力のシステム開発を競っていると警告した。9/9のジェイコブ・コクソン氏の退社表明に続き、2日連続での同社研究者の離脱表明となった。",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/technology/tech-news/another-anthropic-researcher-warns-of-ai-race-risks-after-quitting-126091200407_1.html"
+    },
+    {
+      "title": "ラピダス社長、2040年ごろ「月面に半導体工場」構想を表明",
+      "summary": "次世代半導体メーカー・ラピダスの小池淳義社長は米国での講演で、2040年ごろをめどに月面へ半導体工場を建設する構想を明らかにし、「冗談ではなく真剣な計画だ」と強調。共同通信が9/12付で報じた。",
+      "source": "共同通信(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/11a3f43b780f224e6e8cbaeabfe8d1c2e49f0a77"
+    },
+    {
+      "title": "富士通がAI半導体を輸出、スパコン技術活用し米国・アジアの需要開拓",
+      "summary": "富士通は、スーパーコンピューター「富岳」の技術を応用した演算用ロジック半導体「MONAKA」について、国内向けに加え米国・アジア向けにも本格輸出する方針であることが9/12付で報じられた。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUC089IZ0Y6A900C2000000/"
     }
   ],
-  "x_trending_tech": []
+  "x_trending_tech": [
+    {
+      "title": "アモデイ氏「AI開発の速度を落とすべき」　新エッセイでフロンティア企業に提言",
+      "summary": "アンソロピックCEOダリオ・アモデイ氏が9/12(現地時間)、「We Must Pace the Frontier」と題したエッセイをXに投稿し反響を呼んだ。自己改善AIのリスクなどを挙げ、業界全体での意図的な減速を提案している。",
+      "source": "@DarioAmodei",
+      "link": "https://x.com/DarioAmodei/status/2098773920774074715"
+    },
+    {
+      "title": "イーロン・マスク氏「ダリオは正しい」とアモデイ提言に即座に賛同",
+      "summary": "アモデイ氏の投稿から約1時間後、イーロン・マスク氏が「Dario is right」と一言で賛同する引用ポストを行い、大きな反響を呼んだ。9/12(現地時間)の投稿。",
+      "source": "@elonmusk",
+      "link": "https://x.com/elonmusk/status/2098789109980332057"
+    },
+    {
+      "title": "サム・アルトマンCEOもアモデイ氏の「減速」提言に同意",
+      "summary": "オープンAIのサム・アルトマンCEOは9/12(現地時間)、「Dario の言う通りフロンティアの速度を落とす必要がある」と投稿し、OpenAIも第三者評価者への同様のアクセス付与を検討する意向を示した。",
+      "source": "@sama",
+      "link": "https://x.com/sama/status/2098811563415150910"
+    },
+    {
+      "title": "投資家チャマス氏、アモデイ氏の提言に「権力集中狙い」と批判",
+      "summary": "投資家チャマス・パリハピティヤ氏は9/12(現地時間)、アモデイ氏の提言はオープンソース開発の停止とアンソロピックへの権力集中を狙ったものだと批判する引用ポストを投稿した。",
+      "source": "@chamath",
+      "link": "https://x.com/chamath/status/2098780471966802037"
+    }
+  ]
 }
