@@ -1,111 +1,74 @@
 {
-  "run_label": "9/12 07:00",
+  "run_label": "9/12 19:00",
   "politics_economy": [
     {
-      "title": "自民・維新、食品消費税減税の大綱案を了承 「臨時的に2年」明記、政府は15日に閣議決定へ",
-      "summary": "自民党と日本維新の会は9/11、食料品の消費税率を2027年4月から2年間、8%から1%に引き下げる税制改正大綱案を了承した。財源約10兆円は赤字国債に頼らず確保するとしており、政府は15日に閣議決定する見通し。",
-      "source": "産経新聞(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/f345573815c500ae4360f14e3b1949a966722dcc"
-    },
-    {
-      "title": "日銀、9月会合で追加利上げへ 政策金利1.25%程度、31年ぶり高水準に",
-      "summary": "日銀が17〜18日に開く金融政策決定会合で、政策金利を現在の1.0%から1.25%程度に引き上げる方針を固めたことが9/11分かった。原油高や円安による物価上振れリスクを抑える狙いで、実現すれば1995年以来31年ぶりの高水準となる。",
+      "title": "高市首相、「不記載議員」の閣僚起用を排除せず 17日にも内閣改造",
+      "summary": "高市早苗首相は9/12、自民党派閥の政治資金不記載問題に関与した議員の閣僚起用を排除しない考えを示し、17日にも就任後初の内閣改造に踏み切る方針。野党側は起用に反発を強めている。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUB10B710Q6A910C2000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOUA114QJ0R10C26A9000000/"
     },
     {
-      "title": "NYダウ5営業日ぶり反発、509ドル高 米CPIが利下げ観測後押し",
-      "summary": "11日のニューヨーク株式市場でダウ工業株30種平均は5営業日ぶりに反発し、前日比509.19ドル高の52573.29ドルで取引を終えた。8月の米消費者物価指数が市場予想通りとなり利下げ観測が強まったほか、原油価格の下落も追い風となった。",
-      "source": "共同通信(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/9c31bce0db12fbd9d9c775adc6a6523f214ba353"
+      "title": "沖縄県知事選あす投開票、最終盤で偽情報拡散も",
+      "summary": "米軍普天間飛行場の辺野古移設が争点の沖縄県知事選は13日投開票、現職・玉城デニー氏と新人・古謝玄太氏の事実上の一騎打ち。9/12の選挙戦最終日には「高市首相が応援に入る」との情報が一時流れたほか、両陣営を巡るデマ・偽画像の拡散も報告された。",
+      "source": "日刊スポーツ(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/a4c1e24a3dcc9d5a31aa0eb57bdc414c1bf9b805"
     },
     {
-      "title": "沖縄県知事選あす投開票、古謝・玉城両氏が最終盤の訴え 那覇で舌戦",
-      "summary": "13日投開票の沖縄県知事選で、事実上の一騎打ちとなっている新人の古謝玄太氏と現職の玉城デニー氏は11日、最大の票田である那覇市を中心に街頭演説を重ね、経済政策や米軍普天間飛行場の移設問題を巡り最後の訴えを行った。",
-      "source": "沖縄タイムス",
-      "link": "https://www.okinawatimes.co.jp/articles/-/1922342"
+      "title": "解散の「中道改革連合」、政党交付金11億7000万円受領へ 党内外から批判",
+      "summary": "分裂・解散を決めた中道改革連合が衆院議員1人を残して存続し、未交付分の政党交付金約11億7000万円を受け取る方針であることが9/12までに判明。税金を原資とする交付金だけに批判が噴出している。",
+      "source": "時事通信(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/4bf47c7717dd7a5bd97b79e3a6158ea3fe5c3343"
     },
     {
-      "title": "高市首相、内閣改造前に閣僚と初の一斉会食 「発足以来の労をねぎらう」",
-      "summary": "高市早苗首相は11日夜、17日に予定する内閣改造を前に、海外出張中の2閣僚を除く16閣僚を首相公邸に招いて会食した。発足以来一人も交代がなかった閣僚らをねぎらう狙いとみられ、全閣僚を一堂に招いての会食は初めて。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUA116CG0R10C26A9000000/"
+      "title": "北朝鮮が弾道ミサイル数発発射、日本海へ 日米韓が非難",
+      "summary": "北朝鮮は9/12朝、日本海に向けて弾道ミサイル数発を発射し約250キロ飛行、日本政府は「日本への影響はない」とする一方、日米韓3カ国は安保理決議違反だとして強く非難した。",
+      "source": "時事通信",
+      "link": "https://www.jiji.com/jc/article?k=2026091200134&g=soc"
+    },
+    {
+      "title": "コメ平均価格、13週ぶり4000円台に 1週で264円の過去最大上昇",
+      "summary": "農林水産省は9/12、全国のコメ5キロ当たり平均価格(9/1〜7販売分)が前週比264円高の4155円となり、13週ぶりに4000円台へ上昇したと発表。新米販売の拡大や備蓄米比率の低下が要因という。",
+      "source": "ABEMA TIMES(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/703c2dbdfc9bc441bf21ebc078487deb37c3b281"
     }
   ],
   "tech": [
     {
-      "title": "Microsoft、2032年までにデータセンター容量を38ギガワットへ 現状の3倍以上に拡大",
-      "summary": "Microsoftは2032年までにデータセンター容量を現在の約12ギガワットから38ギガワットへと3倍以上に拡大する計画であることが9/10〜11報じられた。AI・クラウド需要の急増で顧客を断らざるを得ない状況が続いていることが背景。",
+      "title": "DeepSeekの新モデルが半導体使用量を大幅削減、サムスン・SKハイニックス株が急落",
+      "summary": "中国DeepSeekは9/10(現地時間)、HBM(広帯域メモリー)使用量を従来比75%、SSD使用量を87.5%削減したとする新モデル「V4.1 Flash」を発表。AIメモリー需要への懸念から翌11日にソウル市場でサムスン電子・SKハイニックス株が3%超下落した。",
       "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/newsletters/2026-09-11/inside-microsoft-s-plans-to-massively-expand-computing-power"
+      "link": "https://www.bloomberg.com/news/articles/2026-09-11/deepseek-hands-memory-stock-investors-fresh-reason-for-caution"
     },
     {
-      "title": "OpenAI、最上位プラン「ChatGPT Pro」の新規登録を一時停止 新モデルAstraへ「前例のない需要」",
-      "summary": "OpenAIは月額200ドルの最上位プラン「ChatGPT Pro」の新規登録・アップグレードを一時停止すると9/10発表した。新モデル「Astra」への需要が「前例のない」水準に達しシステムに負荷がかかっているためで、既存ユーザーへの影響はないという。",
+      "title": "サムスン電子とOpenAIの半導体協業報道、OpenAI「新たな発表はない」と火消し",
+      "summary": "9/11、サムスン電子幹部の発言を受け次世代半導体での協業拡大が報じられたが、OpenAI韓国法人は同日「既存の協業(ChatGPT導入や昨年10月のLOI)を指したもので新規契約はない」と説明。サムスン株は同日3.5%下落した。",
+      "source": "The Korea Times",
+      "link": "https://www.koreatimes.co.kr/business/companies/20260911/nothing-new-to-announce-on-possible-chip-collaboration-with-samsung-openai"
+    },
+    {
+      "title": "米国防総省、AIクラウド新興Fluidstackに50億ドル融資を協議",
+      "summary": "米ペンタゴンの戦略資本室が、AIデータセンター事業者Fluidstackに対し最大50億ドルの融資を検討していると9/11(現地)判明。米国内のデータセンター関連サプライチェーン強化が目的で、実現すれば同室最大の融資となる。",
+      "source": "Reuters(The Star報道)",
+      "link": "https://www.thestar.com.my/tech/tech-news/2026/09/11/pentagon-in-talks-to-lend-5-billion-to-ai-cloud-startup-fluidstack-wsj-reports"
+    },
+    {
+      "title": "「iPhone 18 Pro」「Pro Max」、日本時間9/12夜に予約開始",
+      "summary": "アップルは9/18発売の「iPhone 18 Pro」「iPhone 18 Pro Max」の予約を、日本時間で9/12午後9時から開始すると発表。Apple Storeおよび主要4キャリアで同時受付となる。",
+      "source": "iPhone Mania",
+      "link": "https://iphone-mania.jp/iphone18-reserve/"
+    },
+    {
+      "title": "Roblox、開発者会議でAIによるゲーム制作を強化しRoblox外でもプレイ可能に",
+      "summary": "Robloxは9/11(米国時間)に開催した開発者会議(RDC 2026)で、クリエイターが作ったゲームをスタンドアロンアプリやブラウザ経由でRoblox外でも配信できる新機能を発表。年内にChromeでのダウンロード不要プレイにも対応する。",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/"
+      "link": "https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/"
     },
     {
-      "title": "中国Moonshot AI、「Kimi」年間売上高2000万ドル台へ 目標20億ドルと急拡大",
-      "summary": "中国のAIスタートアップMoonshot AIは、看板モデル「Kimi K3」の成功を追い風に、年間経常収益(ARR)を年内に20億ドルまで引き上げる目標を9/11示した。8月時点のARRは10億ドルを突破し、4月の2億ドルから急拡大している。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/"
-    },
-    {
-      "title": "Google、Windows向け「Gemini」専用アプリ提供開始 Alt+Spaceで即座に呼び出し",
-      "summary": "GoogleはWindows 10/11向けにGeminiの専用デスクトップアプリを提供開始した。「Alt+Space」キーで画面上に浮遊するGeminiのオーバーレイを即座に呼び出せるのが特徴で、Gmail・Driveとの連携や画像・動画生成機能も利用できる。",
-      "source": "9to5Google",
-      "link": "https://9to5google.com/2026/09/10/gemini-windows-app/"
-    },
-    {
-      "title": "サウジPIF、EAとサビー・ゲームズの統合を検討 実現なら業界最大級の巨大企業に",
-      "summary": "サウジアラビア公的投資基金(PIF)が、傘下のエレクトロニック・アーツ(EA)とゲーム部門サビー・ゲームズ・グループの統合を検討していることがBloombergの報道で9/10〜11明らかになった。実現すれば「マッデンNFL」やポケモンGOなどを傘下に持つ巨大企業が誕生するが、正式決定はしていない。",
-      "source": "Bloomberg(gHacks)",
-      "link": "https://www.ghacks.net/2026/09/11/saudi-arabias-pif-reportedly-considers-merging-ea-with-savvy-games-group/"
-    },
-    {
-      "title": "顔認証大手Clearview AI、xAI「Grok」搭載の新ツール「InquiryIQ」を密かにテスト",
-      "summary": "顔認証企業Clearview AIが、xAIのGrokモデルを活用し顔認証結果から別名・住所・勤務先・SNSアカウントなど個人情報を横断的にまとめる新ツール「InquiryIQ」を公表なしにテストしていたことが10日、WIRED報道で判明した。プライバシー上の懸念が指摘されている。",
-      "source": "Biometric Update(WIRED報道)",
-      "link": "https://www.biometricupdate.com/202609/clearview-ai-prototype-points-to-next-phase-of-facial-recognition-identity-intelligence"
-    },
-    {
-      "title": "中国AI半導体、HBM不足で価格急騰 ファーウェイ「Ascend」は最大5割高に",
-      "summary": "高帯域幅メモリー(HBM)の供給不足を背景に、中国のAI半導体メーカーが相次いで値上げしていることがReuters報道で明らかになった。ファーウェイの「Ascend 950DT」は2カ月前の見積もりから2〜5割高い25万元超となっており、国産AI半導体の自立を目指す中国の戦略に新たな制約となっている。",
-      "source": "Reuters(Investing.com)",
-      "link": "https://www.investing.com/news/stock-market-news/china-ai-chipmakers-hike-prices-as-hbm-shortage-hits-domestic-push--reuters-4894976"
-    },
-    {
-      "title": "世界の大手テック企業でレイオフ再加速、2026年の削減数が過去最多に",
-      "summary": "OracleやAmazon、Dell、Uberなど大手テック企業で2026年に入り人員削減の波が続いており、世界で12万8000人超のIT関連職が削減され、既に前年の年間実績を上回ったことが11日までに報じられた。AI投資拡大に伴う組織再編が背景にある。",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/industry/news/global-tech-layoffs-2026-oracle-amazon-dell-uber-paypal-it-sector-job-cuts-126091100188_1.html"
-    },
-    {
-      "title": "日本のAIスタートアップ「nocall」、シリーズAで約8億円調達 電話業務のAI自動化を加速",
-      "summary": "生成AIで企業の電話応対を自動化する「nocall.ai」を手がけるnocall株式会社は11日、シリーズAラウンドで約8億円の資金調達を実施したと発表した。JAFCOとArchetype Venturesが共同でリード投資家を務め、累計調達額は10億円を超えた。",
-      "source": "STARTUP LOG/PR TIMES",
-      "link": "https://prtimes.jp/main/html/rd/p/000000034.000076585.html"
-    },
-    {
-      "title": "Sakana AI、新モデル「Fugu Ultra v2」「Fugu Max」を発表 複数AI指揮で低コスト化",
-      "summary": "日本のAIスタートアップSakana AIは11日、複数のAIモデルを動的に調整・指揮する「オーケストレーション」方式を採用した新モデル「Fugu Ultra v2.0」と「Fugu Max v1.0」を発表した。単一の巨大モデルに頼らずコストを抑えつつ高い性能を狙う設計が特徴。",
-      "source": "MarkTechPost",
-      "link": "https://www.marktechpost.com/2026/09/10/sakana-ai-launches-fugu-max-and-fugu-ultra-v2-for-cheaper-stronger-multi-agent-orchestration/"
+      "title": "LINEヤフー、AIエージェント「Agent i」にタスク機能追加",
+      "summary": "LINEヤフーは9/11、AIエージェント「Agent i」に、登録したキーワードのニュースや商品の値下がりなどを自律的に収集しLINE/Yahoo!アプリで通知する「タスク機能」の提供を開始したと発表。",
+      "source": "Impress Watch",
+      "link": "https://www.watch.impress.co.jp/docs/news/2140163.html"
     }
   ],
-  "x_trending_tech": [
-    {
-      "title": "イーロン・マスク氏、「Grok 4.7」リリースを数日延期と投稿 「難問で早期に諦める傾向を調整中」",
-      "summary": "9/11、イーロン・マスク氏はX上で新AIモデル「Grok 4.7」について「もう数日調整が必要」と投稿した。強化学習で回答の長さを抑制しすぎた結果、解けるはずの難問で早期に諦めてしまう課題があると説明している。",
-      "source": "@elonmusk",
-      "link": "https://x.com/elonmusk/status/2098462085973741960"
-    },
-    {
-      "title": "OpenAI製品責任者、ChatGPT Pro新規登録の一時停止をXで発表 「Astraへの需要は前例のない水準」",
-      "summary": "OpenAIでChatGPTなどを統括するティボ・ソティオー氏は9/10、新モデル「Astra」への需要が急増しシステムに負荷がかかっているとして、月額200ドルの「Pro」プランの新規登録を一時停止すると自身のXアカウントで発表した。",
-      "source": "@thsottiaux",
-      "link": "https://x.com/thsottiaux/status/2098113585683808624"
-    }
-  ]
+  "x_trending_tech": []
 }
