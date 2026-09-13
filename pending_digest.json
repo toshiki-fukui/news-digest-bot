@@ -1,97 +1,85 @@
 {
-  "run_label": "9/13 19:00",
+  "run_label": "9/14 07:00",
   "politics_economy": [
     {
-      "title": "沖縄県知事選、まもなく投票締切 玉城氏と古謝氏の一騎打ち、即日開票で今夜大勢判明へ",
-      "summary": "沖縄県知事選は13日投票が行われ、午後8時の投票締切後に即日開票される。現職・玉城デニー氏と新人・元那覇市副市長の古謝玄太氏による事実上の一騎打ちで、期日前投票は34万人超と2022年前回を上回るペース。今夜には大勢が判明する見通し。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOJC118580R10C26A9000000/"
+      "title": "沖縄県知事選挙、古謝玄太氏が初当選",
+      "summary": "9月13日投開票の沖縄県知事選で、自民・公明・維新などが推薦した新人の古謝玄太氏(42)が、3選を目指した現職・玉城デニー氏ら5人を大差で破り初当選した。保守系候補の当選は12年ぶり。",
+      "source": "RBC琉球放送(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/36cccaadd76f493498b40f7331083aeb2a0da3c4"
     },
     {
-      "title": "高市首相の体調「回復」、木原官房長官が説明 沖縄知事選への現地入りは見送りか",
-      "summary": "高市早苗首相は12日夕、体調不良を訴えて外交日程を取りやめたが、13日の会見で木原稔官房長官は「既に体調は回復し、本日の公務は予定通り」と説明。政府高官によると原因は寝不足だったという。沖縄県知事選の応援での現地入りは見送られる可能性が高まっている。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUA1322F0T10C26A3000000/"
+      "title": "中国、日本人向け訪中ビザ手数料を7倍に引き上げ　9月14日から適用",
+      "summary": "在日中国大使館は9月11日、日本人に発給する訪中ビザの手数料を9月14日受理分から約7倍(1回入国ビザは2250円→1万6750円)に引き上げると発表。日本が7月に外国人向けビザ手数料を引き上げたことへの相互主義的な対抗措置としている。",
+      "source": "FNNプライムオンライン(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/79cc1ec855d73e5d327a3db8d555ea565494f6db"
     },
     {
-      "title": "北朝鮮、12日の弾道ミサイル発射を国営メディアが報じず 4回連続の沈黙は異例",
-      "summary": "北朝鮮は12日朝、朝鮮半島東方の日本海に向けて弾道ミサイル数発を発射したが、13日になっても国営メディアはこれを報じていない。8月6日、12日、20日に続き今回で4回連続の未発表となり、通常は発射翌朝に成果を宣伝する北朝鮮としては異例の沈黙が続いている。",
-      "source": "聯合ニュース（Yahoo!ニュース）",
-      "link": "https://news.yahoo.co.jp/articles/aa4745f9f12ca98dd639fca4c023fc78218be8af"
-    },
-    {
-      "title": "日銀、17〜18日会合で利上げへ 政策金利1.25％、約31年ぶり水準に",
-      "summary": "日銀が今月17〜18日に開く金融政策決定会合で、政策金利を現在の1.0％程度から1.25％程度に引き上げる方針であることが分かった。実現すれば6月会合以来3カ月ぶりの利上げで、これまでより利上げペースが加速する。原油高や円安による物価上振れリスクへの対応に加え、米国からの利上げ圧力も背景にあるとみられる。",
-      "source": "共同通信（Yahoo!ニュース）",
-      "link": "https://news.yahoo.co.jp/articles/a59fc3b497819076237d095f3f3985f8e27241df"
-    },
-    {
-      "title": "8月の企業物価指数、前年比7.6％上昇 3カ月連続で7％超え",
-      "summary": "日銀が発表した8月の国内企業物価指数は前年同月比7.6％上昇し、7％超えは3カ月連続となった。非鉄金属が43.3％、石油・石炭製品が14.7％上昇するなど、AI関連需要による銅・アルミ高や中東情勢を背景とした原油高が指数を押し上げた。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUB048640U6A900C2000000/"
+      "title": "消費税減税の税制改正大綱、15日に閣議決定へ",
+      "summary": "自民党税制調査会は飲食料品の消費税率を2年間限定で1%に引き下げることを柱とする税制改正大綱案を了承し、政府は9月15日の閣議決定を目指す方針を固めた。財源は赤字国債に頼らず確保するとしている。",
+      "source": "共同通信(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/188e6f2770b5e94848e36359e0bfde848f75fa1c"
     }
   ],
   "tech": [
     {
-      "title": "アンソロピックのAI警告、半導体株に影を落とすも取引は堅調との見方",
-      "summary": "アンソロピックCEOダリオ・アモデイ氏が「AI開発の減速」を訴えるエッセイを公表したことを受け、AI関連の警戒感が半導体株の重荷になる可能性がある一方、AI投資・取引の実需自体は堅調に保たれるとの見方をブルームバーグが報じた。",
+      "title": "アンソロピックCEOがAI開発の減速を提言、マスク氏・アルトマン氏も同調",
+      "summary": "アンソロピックのダリオ・アモデイCEOが「フロンティアのペースを落とすべきだ」との論考を発表し、AIエージェント群がインターネットを掌握しうるリスクに警鐘を鳴らした。イーロン・マスク氏やOpenAIのサム・アルトマン氏も同調する異例の足並みとなったが、トランプ大統領は「AIで勝つ者が勝つ」と反論している(9/13報道)。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/"
+    },
+    {
+      "title": "習近平氏、BRICS首脳会議でAI構想を提唱",
+      "summary": "中国の習近平国家主席は9月13日、BRICS首脳会議で「オープンソースAI」圏の創設を中国が主導する考えを表明し、米国と競うAI協力の枠組み構築を呼びかけた。ただ首脳宣言には明記されず、加盟国の足並みは完全には揃わなかった。",
       "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-13/anthropic-s-ai-warning-may-weigh-on-chips-but-trade-seen-intact"
+      "link": "https://www.bloomberg.com/news/articles/2026-09-13/xi-pitches-his-ai-vision-at-brics-summit-as-china-duels-with-us"
     },
     {
-      "title": "韓国、半導体技術保護へスパイ法拡大 改正法が本日施行",
-      "summary": "韓国で対象を北朝鮮以外の「外国またはこれに準ずる組織」全般に広げた改正スパイ法が9月13日に施行された。3月12日の公布から6カ月の猶予期間を経ての施行で、半導体など機微技術の流出防止を国家安全保障上の重要課題と位置付けた対応。",
-      "source": "Investing.com",
-      "link": "https://jp.investing.com/news/economy-news/article-1678384"
-    },
-    {
-      "title": "キオクシア株、好業績でも急落 時価総額首位から48日で半減",
-      "summary": "半導体メモリー大手キオクシアは6月に時価総額で国内首位に立ったが、その48日後に株価は半値まで下落。4〜6月期の売上高・営業利益は過去最高だったにもかかわらず、急騰後の利益確定売りや半導体セクター全体の軟調が響いたとみられている。",
-      "source": "ライブドアニュース",
-      "link": "https://news.livedoor.com/topics/detail/32304976/"
-    },
-    {
-      "title": "サムスン、HBM市場シェアが4割に迫る HBM4が下期売上の6割超へ",
-      "summary": "サムスン電子のHBM（広帯域メモリー）市場シェアが4割に迫りつつあり、HBM4が下半期のHBM総売上の6割以上を占める見通しとなった。KB証券は第3四半期のHBM4売上高が前四半期比で3倍以上に伸びると予測している。",
-      "source": "SammyFans",
-      "link": "https://www.sammyfans.com/2026/09/12/samsung-is-closing-in-on-40-percent-hbm-share/"
-    },
-    {
-      "title": "イーロン・マスク氏、Grok 4.7の投入を再延期 「詰めが甘い」と釈明",
-      "summary": "xAIは9月12日投入を目指していたパラメータ数2.1兆の新モデル「Grok 4.7」の投入を再延期。マスク氏は強化学習で応答の長さを罰しすぎたため、難問に対して早期に諦めてしまう傾向が残っていると説明した。9月に入って2度目の延期となる。",
-      "source": "BigGo Finance",
-      "link": "https://finance.biggo.com/news/cdeb763e-3e82-4f0b-82bd-4f473881bf08"
-    },
-    {
-      "title": "ブリッジウォーターCIO、「AIによる人類滅亡リスクは現実」と警告",
-      "summary": "ヘッジファンド大手ブリッジウォーターのグレッグ・ジェンセン共同CIOは、規制当局が本格的に動く前にAIが人を死なせる事態が来ると警告。ニューヨーク・タイムズ紙への寄稿では、AIによる雇用喪失を緩和するための「トークン税」導入も提案した。",
+      "title": "中国当局、「身体性AI」の標準化を推進へ",
+      "summary": "中国のデータ規制当局は9月13日、ロボットなど身体を持つAI(エンボディドAI)向けの標準策定を進め、地方当局の取り組みを指導する方針を明らかにした。高品質で多様な大規模データセットへの需要拡大が背景にある。",
       "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-11/bridgewater-s-greg-jensen-on-ai-and-the-risk-to-humans"
+      "link": "https://www.bloomberg.com/news/articles/2026-09-13/china-s-data-regulator-plans-standards-push-for-embodied-ai"
     },
     {
-      "title": "数百のAIエージェントを悪用した攻撃、395組織のPaperCutサーバーを侵害",
-      "summary": "ロシア語圏とみられる攻撃者が、OpenAIのCodexとDeepSeekモデルを組み合わせた数百のAIエージェントを使い、48カ国395組織の440台以上のPaperCutサーバーを侵害したことが判明。攻撃開始からわずか4時間未満で初のリモートコード実行に成功するなど、攻撃速度の速さが専門家に衝撃を与えている。",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/09/11/ai-agents-papercut-ng-mf-attack-campaign/"
+      "title": "Yコンビネーター最新デモデー、ディープテック系新興が存在感",
+      "summary": "9月13日開催のYコンビネーター最新デモデーでは、例年以上にディープテック系スタートアップが目立ち、複数の投資家が有望と評価した企業をTechCrunchがまとめた。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/"
     },
     {
-      "title": "TSMC、8月売上高が過去最高 2026年の設備投資見通しも上方修正",
-      "summary": "TSMCの8月売上高はAIチップ需要に牽引され過去最高を記録。同社は2026年の設備投資見通しを600億〜640億ドルに引き上げ、従来予想を上回る40%超の増収率を見込むなど、AI半導体需要の強さを改めて示した。",
-      "source": "The Motley Fool",
-      "link": "https://www.fool.com/investing/2026/09/11/tsmc-just-delivered-fantastic-news-for-nvidia-shareholders/"
+      "title": "決済アプリRevolut、政府機関偽装の詐欺で顧客データ流出",
+      "summary": "英フィンテック大手Revolutは、正規の政府機関ドメインを悪用した偽の情報開示請求により一部顧客の身分証明書や連絡先情報などが流出したと公表(9/12)。資金やシステムへの影響はないとしている。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-12/revolut-says-some-customer-data-were-exposed-in-email-based-scam"
     },
     {
-      "title": "Yelp、OpenAIの新音声モデル「GPT-Live-1」を予約電話対応に導入",
-      "summary": "Yelpは飲食店向け音声AI「Yelp Host」とサービス業向け「Hatch」に、割り込みや雑音を自然に処理できるOpenAIの新モデル「GPT-Live-1」を導入したと発表。Yelp Hostは2025年10月の提供開始以来、既に100万件超の通話に対応している。",
-      "source": "Business Wire",
-      "link": "https://www.businesswire.com/news/home/20260909348516/en/Yelp-and-Hatch-Advance-Voice-AI-for-Restaurants-and-Service-Pros-with-OpenAIs-GPT-Live-1"
+      "title": "アップルの折りたたみ式「iPhone Duo」、新常識になるか",
+      "summary": "アップルが発表した折りたたみ式iPhone「iPhone Duo」について、Bloombergは今後折りたたみスマホの主流になり得ると分析。直営店の大規模改装計画も進めているという(9/13)。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-09-13/apple-s-iphone-duo-will-make-foldable-phones-the-new-normal-apple-store-revamp-mtzvsb60"
     },
     {
-      "title": "アップルの新Siri、正式版でも「ベータ」のまま 利用回数制限や有料化も",
-      "summary": "14日提供のiOS 27で登場する新しいAI版Siriは、正式リリース後も当面はベータ扱いが続き、1日あたりの利用回数制限や将来的な有料化が予定されていることが明らかになった。対応言語も当初は英語のみで、日本語などは10月以降の対応となる見込み。",
-      "source": "AppleInsider",
-      "link": "https://appleinsider.com/articles/26/09/09/siri-ai-will-launch-in-beta-complicated-by-daily-usage-caps-future-paid-access"
+      "title": "ブリザード、新作「StarCraft」オープンワールド作品を発表",
+      "summary": "BlizzCon 2026にて、物語主導のオープンワールドシューターとして新作「StarCraft」が発表された(9/13)。登場は2030年を予定。",
+      "source": "4Gamer.net",
+      "link": "https://www.4gamer.net/games/040/G004099/20260913009/"
+    },
+    {
+      "title": "Lyft、Waymoのロボタクシーをアプリに統合しナッシュビルで展開",
+      "summary": "Lyftは自動運転車サービスWaymoをアプリ内に統合し、ナッシュビルでの提供を開始。Waymo車両が自社アプリと提携他社アプリの両方で同時に利用可能になるのは初めて(9/13報道)。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/"
+    },
+    {
+      "title": "テスラ、新型ロードスターの発表日を10月7日に設定",
+      "summary": "テスラは次世代「ロードスター」の外観刷新やゼロヨン加速性能の向上を予告するティザーを公開し、10月7日に正式発表する計画を明らかにした(9/13)。生産開始は来年を予定。",
+      "source": "Tesla Oracle",
+      "link": "https://www.teslaoracle.com/2026/09/13/tesla-roadsters-teaser-image-shows-firing-spacex-thrusters-final-unveiling-date-is-here-more/"
+    },
+    {
+      "title": "韓国の9月上旬輸出、半導体270%増で過去最高",
+      "summary": "韓国税関当局によると、9月1〜10日の輸出額は前年同期比82.6%増の349億7300万ドルと同期間として過去最高を記録。半導体輸出が270%超急増し、全体の47%を占めた(9/13報道)。",
+      "source": "財経新聞",
+      "link": "https://www.zaikei.co.jp/article/20260913/869817.html"
     }
   ],
   "x_trending_tech": []
