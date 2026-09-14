@@ -1,105 +1,99 @@
 {
-  "run_label": "9/14 19:00",
+  "run_label": "9/15 07:00",
   "politics_economy": [
     {
-      "title": "自民国対委員長に村井氏起用へ、維新・中司幹事長は入閣調整　内閣改造16日にも",
-      "summary": "高市首相は自民党の国会対策委員長に村井英樹氏を起用する方向で調整に入った。連立を組む日本維新の会からは中司宏幹事長の入閣も調整されており、内閣改造は9月16日にも行われる見通し(9/14報道)。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026091400332&g=pol"
+      "title": "高市首相、15日に自民党役員人事の一任取り付けへ　16日に内閣改造の見通し",
+      "summary": "高市早苗首相は15日に自民党役員人事の一任を取り付ける方針を固め、早ければ16日にも党役員人事、17日に内閣改造を行う方向で調整が進んでいる。鈴木幹事長・麻生副総裁ら「政権の骨格」は留任させる意向(9/15報道)。",
+      "source": "ANNニュース(名古屋テレビ)",
+      "link": "https://www.nagoyatv.com/news/seiji.html?id=000531692"
     },
     {
-      "title": "自民・維新、消費税1%への減税大綱を了承　15日に閣議決定へ",
-      "summary": "自民党と日本維新の会は14日、税制の政策責任者による協議会で、飲食料品の消費税率を2027年4月から2年間、8%から1%に引き下げる税制改正大綱案を了承した。政府は15日に閣議決定する予定。",
+      "title": "消費税減税を含む税制改正大綱、15日に閣議決定へ",
+      "summary": "自民党と日本維新の会が了承した、飲食料品の消費税率を2027年4月から2年間8%→1%に引き下げる税制改正大綱を、政府が15日に閣議決定する。財源約10兆円は赤字国債に頼らない方針(9/14報道)。",
       "source": "共同通信(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/b5205bbb5b85cfac78cf42f69a06f7a9e2799200"
+      "link": "https://news.yahoo.co.jp/articles/a3fe53dc168cd09219cabeee6d20fea16753ff1c"
     },
     {
-      "title": "ソフトバンクグループ株が急落、OpenAI上場見送り報道で一時13%安",
-      "summary": "14日の東京株式市場でソフトバンクグループ株が急落し、前営業日比で一時13%安となった。出資先のOpenAIが年内のIPOを見送ると報じられたことに加え、AI開発減速への懸念が投資家心理を冷やした。",
-      "source": "Bloomberg(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/52c5de511128d8585e6c5f718656bd7751093a20"
+      "title": "沖縄県知事選、古謝玄太氏が初当選　12年ぶり保守県政に転換",
+      "summary": "13日投開票の沖縄県知事選で無所属新人の古謝玄太氏(42)が過去最多の42万3千票を獲得し、現職の玉城デニー氏ら5人を破り初当選。辺野古移設を容認する立場で、2014年以来続いた反対派知事から12年ぶりの保守系県政となる。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOJC011YC0R00C26A9000000/"
     },
     {
-      "title": "日経平均、続落しAI・半導体関連株が指数押し下げ",
-      "summary": "14日の日経平均株価は前週末比518円35銭(0.81%)安の63,492円99銭で続落。日米の利上げ観測や原油高に加え、AI開発減速懸念からAI・半導体関連の主力銘柄が売られた。",
-      "source": "株探",
-      "link": "https://kabutan.jp/news/marketnews/?b=n202609140899"
+      "title": "ソフトバンクG、OpenAI向け118.7億ドルの融資枠を確保　株価急落の直後",
+      "summary": "ソフトバンクグループは約20行から118.7億ドル(当初目標100億ドルから増額)の2年物融資枠を確保したと発表。OpenAIへの出資は10月までに総額約650億ドルに達する見通し。株価が一時13%急落した直後の資金調達となった(9/14)。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-14/softbank-gets-upsized-11-9-billion-loan-in-openai-funding-push"
     },
     {
-      "title": "日銀、9月会合で追加利上げへ　政策金利1.25%程度に",
-      "summary": "日銀は17〜18日の金融政策決定会合で、政策金利を1.0%から1.25%程度に引き上げる方向で検討していることが分かった。前回6月の利上げから3カ月というこれまでで最短の間隔での利上げとなる見通し(9/14報道)。",
-      "source": "毎日新聞(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/192ea14e21239dc29d6cd678a487bf4e35b5205c"
+      "title": "9月FOMCの利上げ確率60.4%に上昇　16〜17日開催、日本時間17日未明に結果判明",
+      "summary": "9月15〜16日(米国時間)開催のFOMCで0.25%の利上げを予想する市場確率が60.4%に上昇、据え置き予想は39.6%に低下した。結果は日本時間17日午前3時ごろ判明予定で、日銀の金融政策決定会合(17〜18日)とも重なり日本市場の警戒感が高まっている。",
+      "source": "トレーダーズ・ウェブ(Yahoo!ファイナンス)",
+      "link": "https://finance.yahoo.co.jp/news/detail/eadaa51e3e937a2345140308cd5faa5af2e03589"
     }
   ],
   "tech": [
     {
-      "title": "アンソロピックCEOのAI減速論、マスク・アルトマン・ハサビス氏も賛同",
-      "summary": "AnthropicのダリオCEOが「AIが6〜12カ月以内にインターネットを乗っ取る可能性がある」としてAI開発の減速を訴えるエッセイを発表。イーロン・マスク氏、OpenAIのサム・アルトマン氏、Google DeepMindのデミス・ハサビス氏らも同調する異例の展開に(9/14)。",
-      "source": "GIGAZINE",
-      "link": "https://gigazine.net/news/20260914-ai-pace-slow-down/"
+      "title": "トランプ大統領、AI開発減速論を一蹴　「勝った者がAIを制する」とアモデイ氏を批判",
+      "summary": "Anthropic・OpenAI・Google DeepMindが7月からAI安全基準の業界団体設立を協議していたことが判明する一方、トランプ大統領はAI開発減速の呼びかけを明確に拒否し、米国の技術的優位を手放せないと主張(9/14)。",
+      "source": "The Washington Post",
+      "link": "https://www.washingtonpost.com/technology/2026/09/14/anthropic-openai-google-discussed-creating-new-ai-safety-body/"
     },
     {
-      "title": "サム・アルトマン氏、AI減速の具体策を説明「制御を失う恐れがある」",
-      "summary": "OpenAIのサム・アルトマンCEOが、AI業界がなぜ・どのように開発ペースを落とすべきかについて詳細なコメントを発表。「ペーシングは停止を意味しない」としつつ、連邦レベルでの安全基準の必要性を訴えた(9/14)。",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/09/14/sam-altman-ai-slowdown-anthropic-amodei-musk.html"
+      "title": "マイクロソフト、37ページの「人間中心AI行動規範」草案を公表",
+      "summary": "マイクロソフトは自社AIモデル「MAI」向けに、シャットダウン指示への抵抗禁止や推論過程の隠蔽禁止などを定めた37ページの行動規範草案を公表しパブリックコメントを開始。AI減速論議のさなかの発表となった(9/14)。",
+      "source": "GeekWire",
+      "link": "https://www.geekwire.com/2026/microsoft-floats-rules-for-its-own-ai-models-as-industry-debates-a-slowdown/"
     },
     {
-      "title": "AI大手のトップら、安全性巡りウォール街・トランプ氏と対立のリスク",
-      "summary": "AI開発の減速を訴えるAnthropicやOpenAIなどのトップの動きが、成長を期待する株式市場やトランプ政権との摩擦を招く可能性があるとBloombergが分析(9/14)。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-14/ai-bosses-risk-clash-with-wall-street-and-trump-over-safety-call"
+      "title": "メタ・アルファベット・MS株上昇、エヌビディアは急落　AI減速表明で明暗",
+      "summary": "AI大手トップの開発減速呼びかけを受け、市場ではAI半導体からソフトウェア企業へ資金が回転。メタが週間7%超上昇する一方、エヌビディアは同8%超下落した(9/14)。",
+      "source": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/09/14/meta-alphabet-and-microsoft-rise-while-nvidia-falls-after-three-ai-chiefs-call-for-slowing-down-frontier-models/"
     },
     {
-      "title": "Anthropic・OpenAI・Google、AI業界標準団体の設立を検討",
-      "summary": "ライバル関係にあるAnthropic、OpenAI、Google DeepMindの3社が7月から作業部会を重ね、AIの安全性を審査する業界主導の標準化団体設立に向け協議していることが判明(9/14)。",
-      "source": "Seoul Economic Daily",
-      "link": "https://en.sedaily.com/international/2026/09/14/rivals-unite-anthropic-openai-google-push-ai-standards-body"
+      "title": "Anthropic、Claude Codeの週間上限を「25%増」と発表も実質17%減との指摘",
+      "summary": "Anthropicは9月14日付でClaude Codeの週間標準利用上限を恒久的に25%引き上げると発表したが、5月から続いた一時的な50%上乗せ措置が前日13日に終了したため、実質的には現行水準から17%減少するとの指摘がユーザーから相次いでいる。",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-cutting-claude-codes-current-weekly-limits-by-17-percent/"
     },
     {
-      "title": "マイクロソフトのナデラCEO、AI開発の「意図的なペース調整」を支持",
-      "summary": "マイクロソフトのサティア・ナデラCEOは、AI開発における「組み込み評価者」の必要性を支持し、人類の役に立ち人間の制御下にないAIを追求する価値はないと表明(9/14)。",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/technology/artificial-intelligence/ai-must-help-humanity-or-it-s-not-worth-pursuing-microsoft-ceo-nadella-126091400095_1.html"
+      "title": "アップル「iOS 27」一般提供開始　新Siri AIは当面英語ベータのみ",
+      "summary": "アップルはiPhone/iPad向け新OS「iOS 27」の一般提供を開始。生成AIベースの新Siri AIが目玉だが日本語対応は年内予定で、当面は英語ベータ版としての提供となる(9/14〜15)。",
+      "source": "窓の杜(Impress)",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2140863.html"
     },
     {
-      "title": "Anthropic、2兆ドル評価額でのナスダック上場目指しつつAI減速も提唱",
-      "summary": "Anthropicは最大2兆ドルの評価額でのナスダック上場を目指す一方、自らAI開発の減速を訴えるという綱渡りの立場に立たされていると報じられた(9/14)。",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/09/14/anthropic-walks-tightrope-to-nasdaq-pushing-slowdown-and-pursuing-ipo.html"
+      "title": "英宇宙スタートアップOpen Cosmos、3億ユーロを調達",
+      "summary": "英オックスフォード拠点の衛星スタートアップOpen Cosmosが、欧州投資家主導のラウンドで3億ユーロを調達したと発表。政府・企業による宇宙関連投資拡大を背景に、衛星製造能力とリアルタイム通信サービスの拡充を図る(9/14)。",
+      "source": "Tech.eu",
+      "link": "https://tech.eu/2026/09/14/open-cosmos-secures-eur300m-to-expand-satellite-intelligence-and-connectivity"
     },
     {
-      "title": "Anthropic、2四半期連続の黒字化へ　IPO前に売上115億ドル",
-      "summary": "AnthropicはIPOを控え、2026年第2四半期の売上高が115億ドルに達し、2四半期連続の調整後黒字を見込んでいると投資家に説明したと報じられた(9/14)。",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/technology/tech-news/anthropic-expects-profit-this-quarter-ahead-of-potential-2-trillion-ipo-126091400290_1.html"
+      "title": "B2B向けAIマーケットプレイスのHighstock、a16z主導でシリーズA 3000万ドル調達",
+      "summary": "AI活用のB2Bマーケットプレイス「Highstock」がAndreessen Horowitz主導のシリーズAラウンドで3000万ドルを調達したと発表。Greylock PartnersやAbstractなども参加した(9/14)。",
+      "source": "Tech Startups",
+      "link": "https://techstartups.com/2026/09/14/startup-funding-news-today-september-14-2026-chift-qupital-tandem-health-fortaegis-more/"
     },
     {
-      "title": "アジアのハイテク・半導体株が急落、FRBと日銀の決定を前に警戒感",
-      "summary": "AI開発減速への懸念に加え、今週のFRBと日銀の金融政策決定を控え、アジアのハイテク・半導体株が軒並み急落した(9/14)。",
-      "source": "Investing.com",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1678521"
-    },
-    {
-      "title": "米国でもAI関連株が急落、ソフトバンク孫会長の資産も80億ドル減少",
-      "summary": "AI開発減速を求める動きを受け、米株式市場でもエヌビディアやAMD、マイクロンなど半導体関連株が寄り付き前に軒並み下落。ソフトバンクグループ孫正義会長の資産評価額も1日で80億ドル減少した(9/14)。",
-      "source": "Forbes",
-      "link": "https://www.forbes.com/sites/siladityaray/2026/09/14/ai-stocks-plummet-amid-calls-for-slowdown-softbank-chiefs-fortune-drops-by-8-billion/"
-    },
-    {
-      "title": "アップル、「iOS 27」を配信開始　刷新Siriや新デザイン「Liquid Glass」搭載",
-      "summary": "アップルはiPhone向け新OS「iOS 27」の配信を米国時間9月14日に開始。Google技術も活用した刷新版Siriや新デザイン「Liquid Glass」などが目玉機能となっている。",
-      "source": "tech-ish",
-      "link": "https://tech-ish.com/2026/09/14/ios-27-arrives-today-and-it-makes-old-iphones-much-faster/"
+      "title": "ポケモンのゲームフリーク、完全新作モバイルゲーム「雨のちハレ女」を発表",
+      "summary": "ゲームフリークは9月14日、現実の天気情報と連動する基本無料のスマホ向け新作「雨のちハレ女」を発表。ディレクターは「ポケットモンスター」シリーズを手がける大森滋氏で、今冬配信予定。",
+      "source": "ファミ通.com",
+      "link": "https://www.famitsu.com/article/202609/87832"
     }
   ],
   "x_trending_tech": [
     {
-      "title": "マイクロソフトのナデラCEO「人類の役に立ち人間の制御下にないAIを追求する価値はない」",
-      "summary": "マイクロソフトのサティア・ナデラCEOがXに投稿。超知能の追求は人類に役立ち人間の制御下にあることが大前提だと述べ、AI開発の「意図的なペース調整」への支持を表明(9/14朝の投稿、投稿から約15時間経過)。",
-      "source": "@satyanadella",
-      "link": "https://x.com/satyanadella/status/2099220712024408084"
+      "title": "サム・アルトマン氏、AI進歩が「二つの形で悪化しうる」と警告",
+      "summary": "OpenAIのサム・アルトマンCEOがXに投稿し、AIによる人類の制御喪失と、強力なAIが一者・一企業に権力集中する事態の両方を避けねばならないと主張。「我々は変わらずTeam Humanity側にいる」と表明(9/14午後の投稿)。",
+      "source": "@sama",
+      "link": "https://x.com/sama/status/2099352016988614852"
+    },
+    {
+      "title": "イーロン・マスク氏、xAIの新モデル「Grok 4.8」が今週学習完了と表明",
+      "summary": "イーロン・マスク氏がXで、2.5兆パラメータの新モデル「Grok 4.8」が新しいC++ソフトウェアスタックで学習を今週中に完了しRL(強化学習)段階に入ると投稿。Grok 5についてはAGI級の可能性にも言及(9/14の投稿)。",
+      "source": "@elonmusk",
+      "link": "https://x.com/elonmusk/status/2099308197802631191"
     }
   ]
 }
