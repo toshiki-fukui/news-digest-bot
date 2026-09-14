@@ -1,86 +1,105 @@
 {
-  "run_label": "9/14 07:00",
+  "run_label": "9/14 19:00",
   "politics_economy": [
     {
-      "title": "沖縄県知事選挙、古謝玄太氏が初当選",
-      "summary": "9月13日投開票の沖縄県知事選で、自民・公明・維新などが推薦した新人の古謝玄太氏(42)が、3選を目指した現職・玉城デニー氏ら5人を大差で破り初当選した。保守系候補の当選は12年ぶり。",
-      "source": "RBC琉球放送(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/36cccaadd76f493498b40f7331083aeb2a0da3c4"
+      "title": "自民国対委員長に村井氏起用へ、維新・中司幹事長は入閣調整　内閣改造16日にも",
+      "summary": "高市首相は自民党の国会対策委員長に村井英樹氏を起用する方向で調整に入った。連立を組む日本維新の会からは中司宏幹事長の入閣も調整されており、内閣改造は9月16日にも行われる見通し(9/14報道)。",
+      "source": "時事通信",
+      "link": "https://www.jiji.com/jc/article?k=2026091400332&g=pol"
     },
     {
-      "title": "中国、日本人向け訪中ビザ手数料を7倍に引き上げ　9月14日から適用",
-      "summary": "在日中国大使館は9月11日、日本人に発給する訪中ビザの手数料を9月14日受理分から約7倍(1回入国ビザは2250円→1万6750円)に引き上げると発表。日本が7月に外国人向けビザ手数料を引き上げたことへの相互主義的な対抗措置としている。",
-      "source": "FNNプライムオンライン(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/79cc1ec855d73e5d327a3db8d555ea565494f6db"
-    },
-    {
-      "title": "消費税減税の税制改正大綱、15日に閣議決定へ",
-      "summary": "自民党税制調査会は飲食料品の消費税率を2年間限定で1%に引き下げることを柱とする税制改正大綱案を了承し、政府は9月15日の閣議決定を目指す方針を固めた。財源は赤字国債に頼らず確保するとしている。",
+      "title": "自民・維新、消費税1%への減税大綱を了承　15日に閣議決定へ",
+      "summary": "自民党と日本維新の会は14日、税制の政策責任者による協議会で、飲食料品の消費税率を2027年4月から2年間、8%から1%に引き下げる税制改正大綱案を了承した。政府は15日に閣議決定する予定。",
       "source": "共同通信(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/188e6f2770b5e94848e36359e0bfde848f75fa1c"
+      "link": "https://news.yahoo.co.jp/articles/b5205bbb5b85cfac78cf42f69a06f7a9e2799200"
+    },
+    {
+      "title": "ソフトバンクグループ株が急落、OpenAI上場見送り報道で一時13%安",
+      "summary": "14日の東京株式市場でソフトバンクグループ株が急落し、前営業日比で一時13%安となった。出資先のOpenAIが年内のIPOを見送ると報じられたことに加え、AI開発減速への懸念が投資家心理を冷やした。",
+      "source": "Bloomberg(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/52c5de511128d8585e6c5f718656bd7751093a20"
+    },
+    {
+      "title": "日経平均、続落しAI・半導体関連株が指数押し下げ",
+      "summary": "14日の日経平均株価は前週末比518円35銭(0.81%)安の63,492円99銭で続落。日米の利上げ観測や原油高に加え、AI開発減速懸念からAI・半導体関連の主力銘柄が売られた。",
+      "source": "株探",
+      "link": "https://kabutan.jp/news/marketnews/?b=n202609140899"
+    },
+    {
+      "title": "日銀、9月会合で追加利上げへ　政策金利1.25%程度に",
+      "summary": "日銀は17〜18日の金融政策決定会合で、政策金利を1.0%から1.25%程度に引き上げる方向で検討していることが分かった。前回6月の利上げから3カ月というこれまでで最短の間隔での利上げとなる見通し(9/14報道)。",
+      "source": "毎日新聞(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/192ea14e21239dc29d6cd678a487bf4e35b5205c"
     }
   ],
   "tech": [
     {
-      "title": "アンソロピックCEOがAI開発の減速を提言、マスク氏・アルトマン氏も同調",
-      "summary": "アンソロピックのダリオ・アモデイCEOが「フロンティアのペースを落とすべきだ」との論考を発表し、AIエージェント群がインターネットを掌握しうるリスクに警鐘を鳴らした。イーロン・マスク氏やOpenAIのサム・アルトマン氏も同調する異例の足並みとなったが、トランプ大統領は「AIで勝つ者が勝つ」と反論している(9/13報道)。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/"
+      "title": "アンソロピックCEOのAI減速論、マスク・アルトマン・ハサビス氏も賛同",
+      "summary": "AnthropicのダリオCEOが「AIが6〜12カ月以内にインターネットを乗っ取る可能性がある」としてAI開発の減速を訴えるエッセイを発表。イーロン・マスク氏、OpenAIのサム・アルトマン氏、Google DeepMindのデミス・ハサビス氏らも同調する異例の展開に(9/14)。",
+      "source": "GIGAZINE",
+      "link": "https://gigazine.net/news/20260914-ai-pace-slow-down/"
     },
     {
-      "title": "習近平氏、BRICS首脳会議でAI構想を提唱",
-      "summary": "中国の習近平国家主席は9月13日、BRICS首脳会議で「オープンソースAI」圏の創設を中国が主導する考えを表明し、米国と競うAI協力の枠組み構築を呼びかけた。ただ首脳宣言には明記されず、加盟国の足並みは完全には揃わなかった。",
+      "title": "サム・アルトマン氏、AI減速の具体策を説明「制御を失う恐れがある」",
+      "summary": "OpenAIのサム・アルトマンCEOが、AI業界がなぜ・どのように開発ペースを落とすべきかについて詳細なコメントを発表。「ペーシングは停止を意味しない」としつつ、連邦レベルでの安全基準の必要性を訴えた(9/14)。",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/09/14/sam-altman-ai-slowdown-anthropic-amodei-musk.html"
+    },
+    {
+      "title": "AI大手のトップら、安全性巡りウォール街・トランプ氏と対立のリスク",
+      "summary": "AI開発の減速を訴えるAnthropicやOpenAIなどのトップの動きが、成長を期待する株式市場やトランプ政権との摩擦を招く可能性があるとBloombergが分析(9/14)。",
       "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-13/xi-pitches-his-ai-vision-at-brics-summit-as-china-duels-with-us"
+      "link": "https://www.bloomberg.com/news/articles/2026-09-14/ai-bosses-risk-clash-with-wall-street-and-trump-over-safety-call"
     },
     {
-      "title": "中国当局、「身体性AI」の標準化を推進へ",
-      "summary": "中国のデータ規制当局は9月13日、ロボットなど身体を持つAI(エンボディドAI)向けの標準策定を進め、地方当局の取り組みを指導する方針を明らかにした。高品質で多様な大規模データセットへの需要拡大が背景にある。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-13/china-s-data-regulator-plans-standards-push-for-embodied-ai"
+      "title": "Anthropic・OpenAI・Google、AI業界標準団体の設立を検討",
+      "summary": "ライバル関係にあるAnthropic、OpenAI、Google DeepMindの3社が7月から作業部会を重ね、AIの安全性を審査する業界主導の標準化団体設立に向け協議していることが判明(9/14)。",
+      "source": "Seoul Economic Daily",
+      "link": "https://en.sedaily.com/international/2026/09/14/rivals-unite-anthropic-openai-google-push-ai-standards-body"
     },
     {
-      "title": "Yコンビネーター最新デモデー、ディープテック系新興が存在感",
-      "summary": "9月13日開催のYコンビネーター最新デモデーでは、例年以上にディープテック系スタートアップが目立ち、複数の投資家が有望と評価した企業をTechCrunchがまとめた。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/"
+      "title": "マイクロソフトのナデラCEO、AI開発の「意図的なペース調整」を支持",
+      "summary": "マイクロソフトのサティア・ナデラCEOは、AI開発における「組み込み評価者」の必要性を支持し、人類の役に立ち人間の制御下にないAIを追求する価値はないと表明(9/14)。",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/technology/artificial-intelligence/ai-must-help-humanity-or-it-s-not-worth-pursuing-microsoft-ceo-nadella-126091400095_1.html"
     },
     {
-      "title": "決済アプリRevolut、政府機関偽装の詐欺で顧客データ流出",
-      "summary": "英フィンテック大手Revolutは、正規の政府機関ドメインを悪用した偽の情報開示請求により一部顧客の身分証明書や連絡先情報などが流出したと公表(9/12)。資金やシステムへの影響はないとしている。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-12/revolut-says-some-customer-data-were-exposed-in-email-based-scam"
+      "title": "Anthropic、2兆ドル評価額でのナスダック上場目指しつつAI減速も提唱",
+      "summary": "Anthropicは最大2兆ドルの評価額でのナスダック上場を目指す一方、自らAI開発の減速を訴えるという綱渡りの立場に立たされていると報じられた(9/14)。",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/09/14/anthropic-walks-tightrope-to-nasdaq-pushing-slowdown-and-pursuing-ipo.html"
     },
     {
-      "title": "アップルの折りたたみ式「iPhone Duo」、新常識になるか",
-      "summary": "アップルが発表した折りたたみ式iPhone「iPhone Duo」について、Bloombergは今後折りたたみスマホの主流になり得ると分析。直営店の大規模改装計画も進めているという(9/13)。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/newsletters/2026-09-13/apple-s-iphone-duo-will-make-foldable-phones-the-new-normal-apple-store-revamp-mtzvsb60"
+      "title": "Anthropic、2四半期連続の黒字化へ　IPO前に売上115億ドル",
+      "summary": "AnthropicはIPOを控え、2026年第2四半期の売上高が115億ドルに達し、2四半期連続の調整後黒字を見込んでいると投資家に説明したと報じられた(9/14)。",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/technology/tech-news/anthropic-expects-profit-this-quarter-ahead-of-potential-2-trillion-ipo-126091400290_1.html"
     },
     {
-      "title": "ブリザード、新作「StarCraft」オープンワールド作品を発表",
-      "summary": "BlizzCon 2026にて、物語主導のオープンワールドシューターとして新作「StarCraft」が発表された(9/13)。登場は2030年を予定。",
-      "source": "4Gamer.net",
-      "link": "https://www.4gamer.net/games/040/G004099/20260913009/"
+      "title": "アジアのハイテク・半導体株が急落、FRBと日銀の決定を前に警戒感",
+      "summary": "AI開発減速への懸念に加え、今週のFRBと日銀の金融政策決定を控え、アジアのハイテク・半導体株が軒並み急落した(9/14)。",
+      "source": "Investing.com",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1678521"
     },
     {
-      "title": "Lyft、Waymoのロボタクシーをアプリに統合しナッシュビルで展開",
-      "summary": "Lyftは自動運転車サービスWaymoをアプリ内に統合し、ナッシュビルでの提供を開始。Waymo車両が自社アプリと提携他社アプリの両方で同時に利用可能になるのは初めて(9/13報道)。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/"
+      "title": "米国でもAI関連株が急落、ソフトバンク孫会長の資産も80億ドル減少",
+      "summary": "AI開発減速を求める動きを受け、米株式市場でもエヌビディアやAMD、マイクロンなど半導体関連株が寄り付き前に軒並み下落。ソフトバンクグループ孫正義会長の資産評価額も1日で80億ドル減少した(9/14)。",
+      "source": "Forbes",
+      "link": "https://www.forbes.com/sites/siladityaray/2026/09/14/ai-stocks-plummet-amid-calls-for-slowdown-softbank-chiefs-fortune-drops-by-8-billion/"
     },
     {
-      "title": "テスラ、新型ロードスターの発表日を10月7日に設定",
-      "summary": "テスラは次世代「ロードスター」の外観刷新やゼロヨン加速性能の向上を予告するティザーを公開し、10月7日に正式発表する計画を明らかにした(9/13)。生産開始は来年を予定。",
-      "source": "Tesla Oracle",
-      "link": "https://www.teslaoracle.com/2026/09/13/tesla-roadsters-teaser-image-shows-firing-spacex-thrusters-final-unveiling-date-is-here-more/"
-    },
-    {
-      "title": "韓国の9月上旬輸出、半導体270%増で過去最高",
-      "summary": "韓国税関当局によると、9月1〜10日の輸出額は前年同期比82.6%増の349億7300万ドルと同期間として過去最高を記録。半導体輸出が270%超急増し、全体の47%を占めた(9/13報道)。",
-      "source": "財経新聞",
-      "link": "https://www.zaikei.co.jp/article/20260913/869817.html"
+      "title": "アップル、「iOS 27」を配信開始　刷新Siriや新デザイン「Liquid Glass」搭載",
+      "summary": "アップルはiPhone向け新OS「iOS 27」の配信を米国時間9月14日に開始。Google技術も活用した刷新版Siriや新デザイン「Liquid Glass」などが目玉機能となっている。",
+      "source": "tech-ish",
+      "link": "https://tech-ish.com/2026/09/14/ios-27-arrives-today-and-it-makes-old-iphones-much-faster/"
     }
   ],
-  "x_trending_tech": []
+  "x_trending_tech": [
+    {
+      "title": "マイクロソフトのナデラCEO「人類の役に立ち人間の制御下にないAIを追求する価値はない」",
+      "summary": "マイクロソフトのサティア・ナデラCEOがXに投稿。超知能の追求は人類に役立ち人間の制御下にあることが大前提だと述べ、AI開発の「意図的なペース調整」への支持を表明(9/14朝の投稿、投稿から約15時間経過)。",
+      "source": "@satyanadella",
+      "link": "https://x.com/satyanadella/status/2099220712024408084"
+    }
+  ]
 }
