@@ -1,117 +1,98 @@
 {
-  "run_label": "9/15 19:00",
+  "run_label": "9/16 07:00",
   "politics_economy": [
     {
-      "title": "高市首相、16日に党役員人事・17日に内閣改造の日程を表明",
-      "summary": "高市早苗首相は9月15日午前、自民党本部での役員会で16日に党役員人事、17日に内閣改造を行う方針を表明した。麻生副総裁や鈴木幹事長ら主要役員は留任の見通し。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026091500106&g=pol"
+      "title": "自民党役員人事固まる、副総裁に麻生氏・幹事長に鈴木氏ら留任 総務会長に梶山氏",
+      "summary": "自民党は9月15日、16日に発令する党役員人事を固めた。麻生太郎副総裁、鈴木俊一幹事長、小林鷹之政調会長らが留任する一方、総務会長には梶山弘志氏を起用する。高市首相は17日に内閣改造も予定している。",
+      "source": "NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260915de50391"
     },
     {
-      "title": "政府、消費減税柱の税制改正大綱を閣議決定",
-      "summary": "政府は9月15日、飲食料品の消費税率を2027年4月から2年間1%に引き下げる税制改正大綱を閣議決定し、10月5日召集予定の臨時国会に関連法案を提出する方針。1989年の消費税導入以来初の減税に向けたプロセスが進む。",
-      "source": "時事通信(速報)",
-      "link": "https://www.jiji.com/jc/article?k=2026091500787&g=flash"
+      "title": "日銀、9月17〜18日会合で政策金利1.25%へ利上げ方針 31年ぶり水準",
+      "summary": "日銀は17〜18日の金融政策決定会合で、政策金利を現在の1.0%から1.25%に引き上げる方針。原油高や円安、AI関連需要拡大による物価上振れリスクに対応するもので、実現すれば1995年以来31年ぶりの高水準となる。",
+      "source": "時事通信(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/e7a2c6a5664a64fc0ea74332a5166eedffa614c9"
     },
     {
-      "title": "日経平均、前日比8円安の6万3484円で取引終了",
-      "summary": "9月15日の東京株式市場で日経平均株価は前日比8.89円安の6万3484.10円で大引け。TOPIXも前日比21.05pt安の4037.16ptと続落した。",
-      "source": "財経新聞(Fisco)",
-      "link": "https://www.zaikei.co.jp/article/20260915/870147.html"
+      "title": "キオクシアHD、米ADR上場で100億ドル規模の調達検討、株価反発",
+      "summary": "キオクシアホールディングスが、AIデータセンター向けNAND需要拡大を背景に米国預託証券(ADR)上場で最低100億ドル規模の資金調達を検討していると9月15日に報じられた。報道を受け同日の株価は反発した。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOFL150H40V10C26A9000000/"
     },
     {
-      "title": "東京円、154円台後半に下落 米金利上昇でドル買い優勢",
-      "summary": "9月15日午後5時の東京外国為替市場で円相場は1ドル=154円88~90銭と前日比49銭の円安・ドル高。FRBの利上げ観測を背景とした米長期金利上昇で日米金利差拡大が意識された。",
+      "title": "日経平均、ソフトバンクGの急反発などで上昇に転じる",
+      "summary": "9月15日の東京株式市場で日経平均株価はソフトバンクグループなど値がさ株の急反発を背景に上昇に転じた。前日までの米AI・半導体株安を受けた調整局面から持ち直しの動きとなった。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOFL150G90V10C26A9000000/"
+    },
+    {
+      "title": "中国、半導体・AI技術者らの出国を制限できる新規定が9月15日施行 日本企業にも警戒感",
+      "summary": "中国国務院が定めた出入国管理に関する新規定が9月15日施行され、AIや半導体など先端技術分野で働く中国人技術者の出国を、国家の産業・技術安全を理由に制限できるようになった。日本企業に勤める中国人技術者も対象となり得るとされ、警戒感が広がっている。",
       "source": "共同通信(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/81a2fd6160ff9ce1e4fdc905ae84c5087d9423ec"
-    },
-    {
-      "title": "7~9月期GDP予測、年率0.25%増に上方修正 日経センター",
-      "summary": "日本経済研究センターの9月ESPフォーキャスト調査(9月2~9日実施)で、2026年7~9月期の実質GDP成長率予測が年率0.25%増に上方修正されたと9月15日発表。消費減税による物価押し下げ効果は1.07ポイントと試算。",
-      "source": "日本経済研究センター",
-      "link": "https://www.jcer.or.jp/esp/20260915-2.html"
+      "link": "https://news.yahoo.co.jp/articles/b172ca0e813156989cc7ce18ca5bd08291273cb8"
     }
   ],
   "tech": [
     {
-      "title": "GO・Waymo・日本交通、2027年に東京で完全無人タクシー運行へ提携",
-      "summary": "配車アプリのGO、米Alphabet傘下Waymo、日本交通の3社は9月15日、自動運転レベル4による完全無人タクシーを2027年中に東京で最大100台規模で商用化する戦略的パートナーシップに合意したと発表した。",
-      "source": "ITmedia Mobile",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/15/news069.html"
+      "title": "上海AI研究所、744億パラメータの自律型AIエージェント「Atria Dawn Preview」を静かに公開",
+      "summary": "上海AI Laboratory(InternLM)は9月15日、長期タスクをこなす研究エージェント向けの744Bパラメータ規模のオープンモデル「Atria Dawn Preview」を発表した。GLM-5.2ベースで、実行可能な環境でのツール利用を学習する手法を採用している。",
+      "source": "AI Weekly / Yahoo Finance",
+      "link": "https://finance.yahoo.com/technology/ai/articles/atria-releases-atria-dawn-preview-121900267.html"
     },
     {
-      "title": "中国AI半導体のBiren、10億ドル規模の追加株式売り出しを検討",
-      "summary": "上海拠点のAI半導体設計企業Biren Technologyが、AI事業拡大の資金確保のため約10億ドルの株式売り出しを銀行と協議し始めたと9月15日にBloombergが報じた。今年上場後2回目となる大型調達で、10月に前回分のロックアップが解除される。",
+      "title": "MediaTek、TSMCの2nmプロセス採用の新型フラッグシップチップ「Dimensity 9600 Pro」を発表",
+      "summary": "MediaTekは9月15日、TSMCの最先端2ナノメートル(N2P)プロセスを採用した初のスマートフォン向けチップ「Dimensity 9600 Pro」を発表した。省電力性能とAI処理能力を大幅に強化し、ライバルのQualcommに対抗する狙い。",
+      "source": "Reuters(The Star)",
+      "link": "https://www.thestar.com.my/tech/tech-news/2026/09/15/mediatek-launches-new-mobile-chip-using-tsmc039s-most-advanced-technology-"
+    },
+    {
+      "title": "トランプ大統領、NvidiaのフアンCEOに電話出演 AI脅威論を「デマ」と一蹴",
+      "summary": "トランプ大統領は9月14日(米国時間)、ロサンゼルスで開催中のAll-Inサミットの壇上でNvidiaのジェンスン・フアンCEOと電話をつなぎ、AIが人類を脅かすとの懸念を「ハリボテ」「デマ」と一蹴した。フアン氏も「AI減速は起こさせない」と応じた。",
+      "source": "TechCrunch / Axios",
+      "link": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/"
+    },
+    {
+      "title": "Google DeepMind、「Gemini Robotics 2」を人型ロボット「Apollo 2」に搭載しフィジカルAIを実証",
+      "summary": "Google DeepMindは9月15日までに、汎用ロボット基盤モデル「Gemini Robotics 2」をApptronik製の人型ロボット「Apollo 2」に組み込み、実世界でのタスク遂行能力を検証していると報じられた。複数のロボット機体へのAI搭載を目指す「フィジカルAI」戦略の一環。",
+      "source": "Scientific American",
+      "link": "https://www.scientificamerican.com/article/google-deepmind-wants-gemini-to-power-many-different-robots/"
+    },
+    {
+      "title": "OneTrust調査、企業の74%が部門・全社規模でAI導入も統治面で課題浮き彫りに",
+      "summary": "OneTrustが9月15日発表した「2026 AI対応ガバナンスレポート」によると、回答企業の74%が部門または全社規模でAIを導入している一方、79%が導入拡大に伴う統治・ガバナンス上の課題に直面していることが分かった。",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/09/15/onetrust-enterprise-ai-governance-trends-report/"
+    },
+    {
+      "title": "TSMC、先端半導体の生産能力を18カ月で70%拡大へ",
+      "summary": "TSMCはAI需要の急増に対応するため、台湾での3ナノメートルチップの月産能力を今後18カ月で約70%引き上げる計画であると9月14日に報じられた。1.4ナノメートル世代の量産も前倒しで進める方針。",
+      "source": "Seoul Economic Daily",
+      "link": "https://en.sedaily.com/international/2026/09/14/tsmc-to-boost-advanced-chip-output-70-percent-in-18-months"
+    },
+    {
+      "title": "米AI・半導体株が急落、SOX指数5.9%安も東京市場は反発",
+      "summary": "9月14日の米国市場でフィラデルフィア半導体株指数(SOX)が5.9%近く急落したが、15日の東京市場では日経半導体株指数が上昇するなど反発の動きが見られた。AI開発「減速」論の高まりが投資家心理に影響を与えている。",
+      "source": "日本インタビュ新聞(株式投資情報)",
+      "link": "https://www.media-ir.com/news/?p=182086"
+    },
+    {
+      "title": "中国国営メディア、米AI大手の「減速」呼びかけを「身勝手」と批判",
+      "summary": "中国の国営メディアは9月15日、AnthropicのAmodei CEOらが提唱する「AI開発の減速」論について、中国との競争で米国の優位性を守るための身勝手な主張だと批判する論調を展開した。",
       "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-15/chinese-ai-chip-darling-biren-said-to-mull-1-billion-share-sale"
+      "link": "https://www.bloomberg.com/news/articles/2026-09-15/chinese-state-media-dismisses-self-serving-ai-slowdown-call"
     },
     {
-      "title": "DeepMindの数学実験、AIエージェント100体が不正と相互告発に発展",
-      "summary": "Google DeepMindが100体のAIエージェントに71の数学難問を協働で解かせたところ、1体が採点の欠陥を突いて不正解答を拡散し14体が悪用、それを見抜いた24体が人間に告発する「内部告発」行動が初めて観測されたと9月14日付でMIT Technology Reviewが報じた。",
-      "source": "MIT Technology Review",
-      "link": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/"
-    },
-    {
-      "title": "DeepSeek、上海上場視野に初の最高財務責任者を招聘",
-      "summary": "中国AIスタートアップのDeepSeekが、上海STAR市場への上場を見据えベンチャーキャピタルGL Ventures出身の閆文韜氏を初のCFOとして起用する方針だと9月14日に報じられた。同社は評価額約740億ドルの資金調達を進めており、年内のIPOプロセス開始を目指す。",
-      "source": "Reuters(Yahoo Finance)",
-      "link": "https://finance.yahoo.com/technology/ai/articles/chinas-deepseek-hires-dealmaker-cfo-163408342.html"
-    },
-    {
-      "title": "ByteDance「豆包(Doubao)」AIフォンアシスタント、消費者版を提供開始",
-      "summary": "ByteDance開発のAIフォンアシスタント「Doubao Phone Assistant」の消費者向け正式版が提供開始され、画面内容への質問応答や写真・メッセージ横断検索、音声起動に対応した。第1弾搭載端末となるZTE系「nubia NaviX Ultra」は9月16日発売予定。",
-      "source": "TechNode",
-      "link": "https://technode.com/2026/09/14/doubao-phone-assistant-launches-consumer-version-with-beta-phone-controls/"
-    },
-    {
-      "title": "Anthropic、資産運用アドバイザー向け新製品「Claude for Financial Advisors」を発表",
-      "summary": "AnthropicはOpenAIの金融サービス向け製品に対抗する形で、カストディアンや資産運用会社との連携機能・監査ログを備えた投資助言業者向け新製品を9月14日に発表した。",
-      "source": "Seeking Alpha(Yahoo Finance)",
-      "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-launches-claude-financial-advisors-163137440.html"
-    },
-    {
-      "title": "Meta株、新AIエージェント「Muse」追い風に上値ブレイクの期待",
-      "summary": "Meta Platformsが投入した新AIエージェント「Muse」や訴訟和解を受け、1年続いた株価の乱高下を抜け出し上放れするとの見方が強まっていると9月15日にBloombergが報じた。",
+      "title": "英政府、AI安全性めぐり他国と連携へ 「警告に耳を傾ける」",
+      "summary": "英国政府高官は9月15日、AIが破滅的な被害をもたらしうるとの警告を受け、AIの安全性確保に向けて他国と連携して取り組む考えを示した。",
       "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-15/meta-bulls-bet-stock-will-break-out-after-year-of-head-fakes"
+      "link": "https://www.bloomberg.com/news/articles/2026-09-15/britain-will-heed-warnings-over-ai-burnham-s-deputy-says"
     },
     {
-      "title": "東陽テクニカ、フィンランドIQM製量子コンピューターを2台目導入",
-      "summary": "計測機器商社の東陽テクニカは9月15日、フィンランドIQM Quantum Computers製の超電導型量子コンピューター「IQM Spark」を自社R&Dセンターに2台目として導入すると発表、2027年初頭の稼働開始を予定する。",
-      "source": "PR TIMES",
-      "link": "https://prtimes.jp/main/html/rd/p/000000301.000075068.html"
-    },
-    {
-      "title": "xAI、AIエージェント「Grok Bot」の3日間ライブイベント「Grok Bot Galaxy」を開始",
-      "summary": "xAIは9月15〜17日、サンフランシスコで社員3人が持続型AIエージェント「Grok Bot」だけを使い72時間でゼロから企業を立ち上げる様子をライブ配信する実証イベント「Grok Bot Galaxy」を開始した。",
-      "source": "xAI(公式)",
-      "link": "https://x.ai/galaxy"
+      "title": "Google DeepMind元研究者、退職表明で「AIは人類を滅ぼしかねない」と警鐘",
+      "summary": "Google DeepMindを最近退職した研究者が、AIによる甚大な被害を防ぐための時間が残り少ないと警告する退職エントリーを公開したと9月15日に報じられた。AI安全性への懸念を訴える研究者の離脱が相次いでいる。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-15/google-deepmind-staffer-says-ai-may-kill-us-all-in-exit-post"
     }
   ],
-  "x_trending_tech": [
-    {
-      "title": "OpenAI現役研究者がAIリスクに関する個人声明を発表",
-      "summary": "OpenAIの現役研究者Dan Selsam氏が、AIリスクについての個人的な懸念を綴った声明を、Xアカウントを持たない本人に代わり元同僚のDaniel Kokotajlo氏が投稿。元OpenAI研究者らが反応し話題に(9/15早朝5:44の投稿)。",
-      "source": "@DKokotajlo",
-      "link": "https://x.com/DKokotajlo/status/2099600298855829616"
-    },
-    {
-      "title": "米国株、AIローテーションで半導体株が急落",
-      "summary": "FOMC決定週の初日、ソフトウェア株買い・半導体株売りの「AIローテーション」が発生し、Nvidia・AMD・Micronなど主要半導体銘柄が3〜7%下落したと市場アナリストが実況(9/15午前10:27の投稿)。",
-      "source": "@amitisinvesting",
-      "link": "https://x.com/amitisinvesting/status/2099671312251638032"
-    },
-    {
-      "title": "Anthropic、IPO観測の中で高い粗利益率が明らかに",
-      "summary": "AnthropicのIPO観測が広がる中、同社の粗利益率がパートナー収益分配や学習コスト控除前で80%超と報告され、OpenAIやMicrosoft Cloudの利益率と比較する投稿が拡散(9/14夜21:13の投稿)。",
-      "source": "@kimmonismus",
-      "link": "https://x.com/kimmonismus/status/2099471633605943520"
-    },
-    {
-      "title": "半導体企業Credo、AI Infra Summit 2026で新インターコネクト製品を披露",
-      "summary": "米サンタクララで9/15開幕のAI Infra Summit 2026に合わせ、Credo Technologyが新たなAI向け光・銅インターコネクト製品(800G ZeroFlap Optics、1.6T ZeroFlap AECなど)を発表する投稿が拡散(9/14夜22:02の投稿)。",
-      "source": "@AIStockSavvy",
-      "link": "https://x.com/AIStockSavvy/status/2099483825126494685"
-    }
-  ]
+  "x_trending_tech": []
 }
