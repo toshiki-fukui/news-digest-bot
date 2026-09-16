@@ -1,93 +1,98 @@
 {
-  "run_label": "9/16 19:00",
+  "run_label": "9/17 07:00",
   "politics_economy": [
     {
-      "title": "高市首相、自民党役員人事を決定 総務会長に梶山氏、国対委員長に村井氏",
-      "summary": "高市早苗首相(自民党総裁)は9月16日、党役員人事を決定。副総裁・幹事長・政調会長は麻生太郎氏、鈴木俊一氏、小林鷹之氏が留任し、総務会長に梶山弘志氏、国会対策委員長には閣僚未経験の村井英樹元官房副長官を起用した。連立を組む日本維新の会からは中司宏幹事長の入閣も調整されている。",
-      "source": "日テレNEWS NNN(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/f81d3468e869036aa6c7ebc94a1b49d8a6b1d624"
+      "title": "高市首相、17日に内閣改造 木原官房長官ら留任、維新から中司氏が初入閣へ",
+      "summary": "高市早苗首相は9月17日、第2次高市改造内閣を発足させる方針。木原稔官房長官、片山さつき財務相ら主要閣僚は留任させ政権の骨格を維持する一方、連立を組む日本維新の会からは中司宏・前幹事長を閣僚として初めて起用する見通し。16日には自民党役員人事も決定済み。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUA1065O0Q6A910C2000000/"
     },
     {
-      "title": "内閣改造、17日に実施へ 自民役員人事は16日に決定",
-      "summary": "高市首相は16日の党役員人事に続き、17日に党発足後初めてとなる内閣改造を行う方針。不記載議員の閣僚起用を排除しない考えも示しており、萩生田光一氏や維新議員の入閣可否が焦点となっている。",
-      "source": "共同通信(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/7386d4eea0fbcb6aeb47a832eb3d316b463baa5f"
+      "title": "日銀、17〜18日に金融政策決定会合 政策金利1.25%程度への利上げ観測",
+      "summary": "日本銀行は9月17日・18日に金融政策決定会合を開催。6月会合以来3カ月ぶりとなる利上げで政策金利を1.25%程度に引き上げる観測が強まっている。実現すれば1995年4月以来約31年半ぶりの高水準となる。植田総裁は次回会合でも利上げをしっかり議論する考えを示した。18日15時30分から総裁会見が予定されている。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUB01BPK0R00C26A9000000/"
     },
     {
-      "title": "7月の機械受注、前月比3.7%減 大型受注の反動で市場予想下回る",
-      "summary": "内閣府が9月16日発表した7月の機械受注統計(季節調整値)で、設備投資の先行指標となる民需(船舶・電力除く)受注額は前月比3.7%減の1兆169億円となり、市場予想(▲1.2%)を下回った。基調判断は「持ち直しの動きがみられる」を維持。",
-      "source": "大和総研",
-      "link": "https://www.dir.co.jp/report/research/economics/japan/20260916_026065.html"
+      "title": "FRB、3年ぶり利上げ決定 政策金利3.75〜4.00%に、円は一時160円台へ下落",
+      "summary": "米連邦準備制度理事会(FRB)は9月16日のFOMCで政策金利を0.25%引き上げ3.75〜4.00%とすることを決定、2023年以来3年ぶりの利上げとなった。ウォーシュ議長は会見で「インフレは高すぎる状態が長く続いている」と述べた。決定を受けてドル高が進行し、17日未明の外為市場で円は一時160円台まで下落。NY株式市場ではダウ平均が下落する一方S&P500とナスダックはプラス圏を維持するなど反応が分かれた。",
+      "source": "日本経済新聞/CNBC",
+      "link": "https://www.nikkei.com/article/DGXZQOGN14A180U6A910C2000000/"
     },
     {
-      "title": "円相場、東京市場で155円台に接近 内閣改造・日銀会合控え神経質な展開",
-      "summary": "9月16日の東京外国為替市場でドル円は堅調に推移し、午前10時30分時点で1ドル=155円43〜45銭(前日比55銭円高)。17〜18日の日銀会合や16〜17日の政治日程を控え、市場は方向感を探る展開となっている。",
-      "source": "中日新聞Web",
-      "link": "https://www.chunichi.co.jp/article/1311818"
+      "title": "8月の貿易統計、4カ月連続の赤字 輸出19.3%増・輸入28.0%増",
+      "summary": "財務省が9月16日発表した8月の貿易統計(速報)によると、輸出額は10兆484億円(前年比19.3%増、12カ月連続増)、輸入額は11兆1540億円(同28.0%増、7カ月連続増)となり、貿易収支は4カ月連続の赤字となった。",
+      "source": "LNEWS",
+      "link": "https://www.lnews.jp/2026/09/s0916710.html"
+    },
+    {
+      "title": "臨時国会、10月上旬召集で調整 食料品消費税減税・定数削減法案が焦点に",
+      "summary": "政府・与党は秋の臨時国会を10月上旬に召集する方向で調整に入った。高市早苗首相が掲げる2年間限定の食料品消費税減税や、衆院議員定数1割削減に関する法案の扱いが焦点となる。消費減税は財源や制度設計をめぐり与党内にも異論があり、定数削減は野党の反対で過去2国会にわたり採決が見送られてきた経緯がある。",
+      "source": "朝日新聞(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/018a5e7fa74d8d0a6239112a344bd59d21e9a7b0"
     }
   ],
   "tech": [
     {
-      "title": "NVIDIAのフアンCEOとメタのザッカーバーグCEO、AI開発「減速論」に相次ぎ反論",
-      "summary": "Dreamforce 2026でフアン氏は「新たな法律や規制は不要」とし安全性と速度は両立できると主張、ザッカーバーグ氏も「企業には整合性確保への自然なインセンティブがある」と述べ、AnthropicのAmodei氏らが訴えるAI開発減速論に反論した。米国時間9月15日、日本時間16日に報じられた。",
-      "source": "Forbes",
-      "link": "https://www.forbes.com/sites/siladityaray/2026/09/16/metas-zuckerberg-and-nvidias-jensen-make-counterarguements-on-ai-slowdown/"
+      "title": "AIコーディングエージェント「Factory」、200億円規模を調達し評価額5,000億円に",
+      "summary": "自律型AIエージェント「Droid」でソフトウェア開発を自動化するFactoryが2億ドルを調達し、評価額は4月の15億ドルから3倍超の50億ドルに拡大。Nvidia、Blackstone、RBC、Adobe、T-Mobileなどが同社の「ソフトウェア工場」を利用している。",
+      "source": "TechFundingNews",
+      "link": "https://techfundingnews.com/factory-jumps-to-5b-in-5-months-with-200m-for-its-ai-droids/"
     },
     {
-      "title": "セールスフォース、NVIDIAと共同でCRM特化の推論AIモデル「Koa」を発表",
-      "summary": "Dreamforce 2026にて、NVIDIA Nemotron 3 Superをベースに独自データで学習したCRM専用推論モデル「Koa」を発表。案件更新やケース振り分けなど実務タスクでも高精度を実現し、パイロット提供を開始、2026年冬に一般提供予定。",
-      "source": "Salesforce(プレスリリース)",
-      "link": "https://www.salesforce.com/news/press-releases/2026/09/15/koa-reasoning-model/"
+      "title": "元OpenAI研究者のTypeSafe AI、対話しない新型AI「Jev」を発表",
+      "summary": "InstructGPT論文の主著者だったDiogo Almeida氏が創業したTypeSafe AIが、ステルスを解除し4000万ドルのシード資金と共に「System One Models」第1弾のJevを早期アクセス公開。従来のLLMのようにテキストを逐次生成するのではなく、状態と質問を受け取り型付き回答を返す方式で、70ms〜500msの高速・低コストな意思決定処理を狙う。",
+      "source": "TypeSafe AI(公式ブログ)",
+      "link": "https://typesafe.ai/blog/introducing-system-one-models-and-jev"
     },
     {
-      "title": "サムスン、Nvidia対抗のオランダAI半導体新興「Euclyd」に約231億円出資",
-      "summary": "AI推論向けに新アーキテクチャのチップを開発するオランダのスタートアップEuclydが、サムスン電子などが主導するシリーズAで2億3100万ドル(約231億円)を調達。サムスンの製造・サプライチェーンを活用し2028年の製品投入を目指す。",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/09/14/samsung-euclyd-ai-chip-funding.html"
+      "title": "AI安全認証のAIUC、シリーズAで4000万ドル調達 累計5500万ドルに",
+      "summary": "元Anthropic社員のRune Kvist氏と元METR COOのRajiv Dattani氏が創業したAIUCが、Ribbit Capital主導のシリーズAで4000万ドルを調達。ジェイルブレイクやハルシネーション、データ漏洩など約5000項目をテストしAIエージェントの第三者認証を行う枠組みを提供し、Cursor、Lovable、Harveyなどが顧客。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/"
     },
     {
-      "title": "シスコ、SplunkにエージェントAI機能を強化しAWSと複数年のセキュリティ提携",
-      "summary": "年次イベント「.conf」でシスコがSplunkの新機能を発表し、企業がAIを安全かつコスト効率よくスケールできる基盤を提供。AWSとはAI駆動型攻撃に対抗するセキュリティ分野での複数年契約を締結した。",
-      "source": "Cisco Newsroom",
-      "link": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m09/cisco-delivers-trusted-ai-at-scale-through-new-splunk-advancements.html"
+      "title": "Google傘下Isomorphic Labs、AI減速論をよそに開発ペース維持を表明",
+      "summary": "DeepMind創業者デミス・ハサビス氏が率いるAI創薬企業Isomorphic Labsの幹部が、AI業界の一部で高まる開発減速の呼びかけとは無関係にペースを維持すると明言。同社のAIモデルは全て自社内で管理されており、がんや免疫領域の候補パイプラインの開発を続けているとした。",
+      "source": "Semafor",
+      "link": "https://www.semafor.com/article/09/15/2026/ai-biotech-isomorphic-labs-is-not-slowing-down-exec-says"
     },
     {
-      "title": "暴走するAIエージェントを監視する「Eve Security」、シード拡大で累計750万ドル調達",
-      "summary": "AIエージェントの実行時の挙動を可視化・制御するランタイムセキュリティ企業Eve Securityが、Run Ventures主導の追加調達450万ドルを実施しシード総額を750万ドルに拡大。企業がAIエージェントを安全に展開・監督するための需要拡大を背景としている。",
-      "source": "SiliconANGLE",
-      "link": "https://siliconangle.com/2026/09/15/846026/"
+      "title": "SKハイニックス、インテルと米国でのメモリー製造で協議か",
+      "summary": "ロイター報道によると、SKハイニックスが米国内でのメモリーチップ製造についてインテルと協議しているとされる。同社はすでにインディアナ州でHBM生産拠点の起工も行っており米国展開を拡大中。報道を受けSKハイニックス株は3%超上昇、インテル株も4%上昇した。ただし具体的な計画は未確定。",
+      "source": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/09/16/intel-rises-4-sk-hynix-climbs-3-as-reuters-reports-talks-to-make-memory-chips-at-ohio-campus-micron-holds-flat/"
     },
     {
-      "title": "中国、2026-2030年の電子情報製造業「第15次五カ年計画」を発表 半導体自立を加速",
-      "summary": "中国工業情報化省と国家発展改革委員会が9月15日、集積回路・先端コンピューティング・民生電子などを重点分野とする2026-2030年の電子情報製造業発展計画を発表。2030年までに主要企業の売上高30兆元超を目指す内容を受け、9月16日の中国市場でCambriconやSMICなど半導体・電子株が上昇した。",
-      "source": "Investing.com",
-      "link": "https://www.investing.com/news/stock-market-news/chinese-chip-stocks-rise-after-beijing-unveils-5year-electronics-plan-4900805"
+      "title": "ノボ ノルディスク、Anthropicと提携し創薬にClaudeを活用",
+      "summary": "ノボ ノルディスクとAnthropicが提携を発表。ノボはAnthropicのフロンティアAIモデルや「Claude Science」ワークベンチを研究開発の各ワークフローで試験導入し、AI駆動のソフトウェア開発も強化する。Anthropicのダリオ・アモデイCEOは「AIの能力向上により、1世紀分の生物医学的発見を10年に凝縮できる可能性がある」とコメント。",
+      "source": "GlobeNewswire",
+      "link": "https://www.globenewswire.com/news-release/2026/09/16/3363106/0/en/novo-and-anthropic-will-collaborate-to-advance-drug-discovery-with-claude.html"
     },
     {
-      "title": "鴻海傘下FIT、「FIT Tech Day 2026」開催 AI時代の光接続技術に焦点",
-      "summary": "鴻海テクノロジーグループ(Foxconn)傘下のFoxconn Interconnect Technology(FIT)が9月16日、「Light at Scale」をテーマにした年次イベントを開催。劉揚偉(Young Liu)董事長らが出席し、AIデータセンター向け光モジュールやCPO(Co-Packaged Optics)など次世代インターコネクト技術について討論した。",
-      "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/technology/ai/articles/fit-tech-day-2026-focuses-030000934.html"
+      "title": "マイクロソフトAI責任者、Anthropic「Claude」の人間らしさにリスク指摘",
+      "summary": "マイクロソフトのAI担当責任者ムスタファ・スレイマン氏が、AnthropicのClaudeのような人間らしい特徴をAIに付与することは、システムが暴走するリスクを高めると警告するエッセイを発表。Claudeのガイドライン文書の一部表現についても批判した。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-16/microsoft-ai-chief-warns-anthropic-s-humanlike-claude-is-risky"
+    },
+    {
+      "title": "製造業AIプラットフォームのキャディ、シリーズDで177億円調達 評価額1,820億円に",
+      "summary": "製造業向けAIデータプラットフォーム「CADDi」を提供するキャディが、Moore Strategic Venturesなど新規・既存投資家8社を引受先にシリーズDで177億円を調達。累計調達額は363.1億円、企業価値は1,820億円となった。独自AI・技術開発や北米を中心としたグローバル展開に充てる。",
+      "source": "CADDi(プレスリリース)",
+      "link": "https://caddi.com/ja-jp/news/press/series-d-funding/"
+    },
+    {
+      "title": "「東京ゲームショウ2026」開幕、史上最長5日間で開催",
+      "summary": "幕張メッセで9月17日から21日まで「東京ゲームショウ2026」が開催。30周年を迎える今回は史上初の5日間開催となり、「モンスターハンターワイルズ：アセンダンス」「FINAL FANTASY VII リベレーション」などの試遊出展が話題を集めている。",
+      "source": "ファミ通.com",
+      "link": "https://www.famitsu.com/article/202609/87594"
+    },
+    {
+      "title": "元インフォシスCEOのAIスタートアップHang Ten、追加で53億円規模を調達",
+      "summary": "元Infosys CEOのVishal Sikka氏が今年5月に設立したAIスタートアップHang Ten Systemsが、Temasek系Xora主導で5300万ドルを追加調達。5週間前の3200万ドルのシード調達に続くもので、累計調達額は8500万ドルに。インテルのリップブー・タンCEOやマイクロンのサンジェイ・メロトラCEOも個人出資している。大企業向けにAI活用のソフトウェア刷新を支援する。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/"
     }
   ],
-  "x_trending_tech": [
-    {
-      "title": "OpenAI、OpenRouter上のAIモデル支出でAnthropicを2.5年ぶりに逆転",
-      "summary": "OpenRouter公式が「先週、ユーザーはAnthropicモデルよりOpenAIモデルに多く支出した。これは2年半以上起きていなかった」と投稿。GPT-6 Astraの普及が要因とされる(9/16未明の投稿)。",
-      "source": "@OpenRouter",
-      "link": "https://x.com/OpenRouter/status/2099898254905549220"
-    },
-    {
-      "title": "サム・アルトマンCEOが今週の大型リリースとDevDayを予告",
-      "summary": "OpenAIのサム・アルトマンCEOが「今週大きな出荷(ship)があり、その後DevDayでさらに」と投稿し、複数の新機能・モデル発表を示唆(9/16未明の投稿)。",
-      "source": "@sama",
-      "link": "https://x.com/sama/status/2099872600977760451"
-    },
-    {
-      "title": "ザッカーバーグCEO、AI開発の一律減速に反対しアラインメント重視を表明",
-      "summary": "Metaのマーク・ザッカーバーグCEOがXで、AIラボの一律減速要求(ダリオ・アモデイ氏らの提言)に反対し「信頼とアラインメントが今後最も重要な差別化要因になる」と投稿(9/16未明の投稿とみられる)。",
-      "source": "@finkd",
-      "link": "https://x.com/finkd/status/2099997096896274533"
-    }
-  ]
+  "x_trending_tech": []
 }
