@@ -1,98 +1,93 @@
 {
-  "run_label": "9/16 07:00",
+  "run_label": "9/16 19:00",
   "politics_economy": [
     {
-      "title": "自民党役員人事固まる、副総裁に麻生氏・幹事長に鈴木氏ら留任 総務会長に梶山氏",
-      "summary": "自民党は9月15日、16日に発令する党役員人事を固めた。麻生太郎副総裁、鈴木俊一幹事長、小林鷹之政調会長らが留任する一方、総務会長には梶山弘志氏を起用する。高市首相は17日に内閣改造も予定している。",
-      "source": "NHKニュース",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260915de50391"
+      "title": "高市首相、自民党役員人事を決定 総務会長に梶山氏、国対委員長に村井氏",
+      "summary": "高市早苗首相(自民党総裁)は9月16日、党役員人事を決定。副総裁・幹事長・政調会長は麻生太郎氏、鈴木俊一氏、小林鷹之氏が留任し、総務会長に梶山弘志氏、国会対策委員長には閣僚未経験の村井英樹元官房副長官を起用した。連立を組む日本維新の会からは中司宏幹事長の入閣も調整されている。",
+      "source": "日テレNEWS NNN(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/f81d3468e869036aa6c7ebc94a1b49d8a6b1d624"
     },
     {
-      "title": "日銀、9月17〜18日会合で政策金利1.25%へ利上げ方針 31年ぶり水準",
-      "summary": "日銀は17〜18日の金融政策決定会合で、政策金利を現在の1.0%から1.25%に引き上げる方針。原油高や円安、AI関連需要拡大による物価上振れリスクに対応するもので、実現すれば1995年以来31年ぶりの高水準となる。",
-      "source": "時事通信(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/e7a2c6a5664a64fc0ea74332a5166eedffa614c9"
-    },
-    {
-      "title": "キオクシアHD、米ADR上場で100億ドル規模の調達検討、株価反発",
-      "summary": "キオクシアホールディングスが、AIデータセンター向けNAND需要拡大を背景に米国預託証券(ADR)上場で最低100億ドル規模の資金調達を検討していると9月15日に報じられた。報道を受け同日の株価は反発した。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOFL150H40V10C26A9000000/"
-    },
-    {
-      "title": "日経平均、ソフトバンクGの急反発などで上昇に転じる",
-      "summary": "9月15日の東京株式市場で日経平均株価はソフトバンクグループなど値がさ株の急反発を背景に上昇に転じた。前日までの米AI・半導体株安を受けた調整局面から持ち直しの動きとなった。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOFL150G90V10C26A9000000/"
-    },
-    {
-      "title": "中国、半導体・AI技術者らの出国を制限できる新規定が9月15日施行 日本企業にも警戒感",
-      "summary": "中国国務院が定めた出入国管理に関する新規定が9月15日施行され、AIや半導体など先端技術分野で働く中国人技術者の出国を、国家の産業・技術安全を理由に制限できるようになった。日本企業に勤める中国人技術者も対象となり得るとされ、警戒感が広がっている。",
+      "title": "内閣改造、17日に実施へ 自民役員人事は16日に決定",
+      "summary": "高市首相は16日の党役員人事に続き、17日に党発足後初めてとなる内閣改造を行う方針。不記載議員の閣僚起用を排除しない考えも示しており、萩生田光一氏や維新議員の入閣可否が焦点となっている。",
       "source": "共同通信(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/b172ca0e813156989cc7ce18ca5bd08291273cb8"
+      "link": "https://news.yahoo.co.jp/articles/7386d4eea0fbcb6aeb47a832eb3d316b463baa5f"
+    },
+    {
+      "title": "7月の機械受注、前月比3.7%減 大型受注の反動で市場予想下回る",
+      "summary": "内閣府が9月16日発表した7月の機械受注統計(季節調整値)で、設備投資の先行指標となる民需(船舶・電力除く)受注額は前月比3.7%減の1兆169億円となり、市場予想(▲1.2%)を下回った。基調判断は「持ち直しの動きがみられる」を維持。",
+      "source": "大和総研",
+      "link": "https://www.dir.co.jp/report/research/economics/japan/20260916_026065.html"
+    },
+    {
+      "title": "円相場、東京市場で155円台に接近 内閣改造・日銀会合控え神経質な展開",
+      "summary": "9月16日の東京外国為替市場でドル円は堅調に推移し、午前10時30分時点で1ドル=155円43〜45銭(前日比55銭円高)。17〜18日の日銀会合や16〜17日の政治日程を控え、市場は方向感を探る展開となっている。",
+      "source": "中日新聞Web",
+      "link": "https://www.chunichi.co.jp/article/1311818"
     }
   ],
   "tech": [
     {
-      "title": "上海AI研究所、744億パラメータの自律型AIエージェント「Atria Dawn Preview」を静かに公開",
-      "summary": "上海AI Laboratory(InternLM)は9月15日、長期タスクをこなす研究エージェント向けの744Bパラメータ規模のオープンモデル「Atria Dawn Preview」を発表した。GLM-5.2ベースで、実行可能な環境でのツール利用を学習する手法を採用している。",
-      "source": "AI Weekly / Yahoo Finance",
-      "link": "https://finance.yahoo.com/technology/ai/articles/atria-releases-atria-dawn-preview-121900267.html"
+      "title": "NVIDIAのフアンCEOとメタのザッカーバーグCEO、AI開発「減速論」に相次ぎ反論",
+      "summary": "Dreamforce 2026でフアン氏は「新たな法律や規制は不要」とし安全性と速度は両立できると主張、ザッカーバーグ氏も「企業には整合性確保への自然なインセンティブがある」と述べ、AnthropicのAmodei氏らが訴えるAI開発減速論に反論した。米国時間9月15日、日本時間16日に報じられた。",
+      "source": "Forbes",
+      "link": "https://www.forbes.com/sites/siladityaray/2026/09/16/metas-zuckerberg-and-nvidias-jensen-make-counterarguements-on-ai-slowdown/"
     },
     {
-      "title": "MediaTek、TSMCの2nmプロセス採用の新型フラッグシップチップ「Dimensity 9600 Pro」を発表",
-      "summary": "MediaTekは9月15日、TSMCの最先端2ナノメートル(N2P)プロセスを採用した初のスマートフォン向けチップ「Dimensity 9600 Pro」を発表した。省電力性能とAI処理能力を大幅に強化し、ライバルのQualcommに対抗する狙い。",
-      "source": "Reuters(The Star)",
-      "link": "https://www.thestar.com.my/tech/tech-news/2026/09/15/mediatek-launches-new-mobile-chip-using-tsmc039s-most-advanced-technology-"
+      "title": "セールスフォース、NVIDIAと共同でCRM特化の推論AIモデル「Koa」を発表",
+      "summary": "Dreamforce 2026にて、NVIDIA Nemotron 3 Superをベースに独自データで学習したCRM専用推論モデル「Koa」を発表。案件更新やケース振り分けなど実務タスクでも高精度を実現し、パイロット提供を開始、2026年冬に一般提供予定。",
+      "source": "Salesforce(プレスリリース)",
+      "link": "https://www.salesforce.com/news/press-releases/2026/09/15/koa-reasoning-model/"
     },
     {
-      "title": "トランプ大統領、NvidiaのフアンCEOに電話出演 AI脅威論を「デマ」と一蹴",
-      "summary": "トランプ大統領は9月14日(米国時間)、ロサンゼルスで開催中のAll-Inサミットの壇上でNvidiaのジェンスン・フアンCEOと電話をつなぎ、AIが人類を脅かすとの懸念を「ハリボテ」「デマ」と一蹴した。フアン氏も「AI減速は起こさせない」と応じた。",
-      "source": "TechCrunch / Axios",
-      "link": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/"
+      "title": "サムスン、Nvidia対抗のオランダAI半導体新興「Euclyd」に約231億円出資",
+      "summary": "AI推論向けに新アーキテクチャのチップを開発するオランダのスタートアップEuclydが、サムスン電子などが主導するシリーズAで2億3100万ドル(約231億円)を調達。サムスンの製造・サプライチェーンを活用し2028年の製品投入を目指す。",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/09/14/samsung-euclyd-ai-chip-funding.html"
     },
     {
-      "title": "Google DeepMind、「Gemini Robotics 2」を人型ロボット「Apollo 2」に搭載しフィジカルAIを実証",
-      "summary": "Google DeepMindは9月15日までに、汎用ロボット基盤モデル「Gemini Robotics 2」をApptronik製の人型ロボット「Apollo 2」に組み込み、実世界でのタスク遂行能力を検証していると報じられた。複数のロボット機体へのAI搭載を目指す「フィジカルAI」戦略の一環。",
-      "source": "Scientific American",
-      "link": "https://www.scientificamerican.com/article/google-deepmind-wants-gemini-to-power-many-different-robots/"
+      "title": "シスコ、SplunkにエージェントAI機能を強化しAWSと複数年のセキュリティ提携",
+      "summary": "年次イベント「.conf」でシスコがSplunkの新機能を発表し、企業がAIを安全かつコスト効率よくスケールできる基盤を提供。AWSとはAI駆動型攻撃に対抗するセキュリティ分野での複数年契約を締結した。",
+      "source": "Cisco Newsroom",
+      "link": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m09/cisco-delivers-trusted-ai-at-scale-through-new-splunk-advancements.html"
     },
     {
-      "title": "OneTrust調査、企業の74%が部門・全社規模でAI導入も統治面で課題浮き彫りに",
-      "summary": "OneTrustが9月15日発表した「2026 AI対応ガバナンスレポート」によると、回答企業の74%が部門または全社規模でAIを導入している一方、79%が導入拡大に伴う統治・ガバナンス上の課題に直面していることが分かった。",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/09/15/onetrust-enterprise-ai-governance-trends-report/"
+      "title": "暴走するAIエージェントを監視する「Eve Security」、シード拡大で累計750万ドル調達",
+      "summary": "AIエージェントの実行時の挙動を可視化・制御するランタイムセキュリティ企業Eve Securityが、Run Ventures主導の追加調達450万ドルを実施しシード総額を750万ドルに拡大。企業がAIエージェントを安全に展開・監督するための需要拡大を背景としている。",
+      "source": "SiliconANGLE",
+      "link": "https://siliconangle.com/2026/09/15/846026/"
     },
     {
-      "title": "TSMC、先端半導体の生産能力を18カ月で70%拡大へ",
-      "summary": "TSMCはAI需要の急増に対応するため、台湾での3ナノメートルチップの月産能力を今後18カ月で約70%引き上げる計画であると9月14日に報じられた。1.4ナノメートル世代の量産も前倒しで進める方針。",
-      "source": "Seoul Economic Daily",
-      "link": "https://en.sedaily.com/international/2026/09/14/tsmc-to-boost-advanced-chip-output-70-percent-in-18-months"
+      "title": "中国、2026-2030年の電子情報製造業「第15次五カ年計画」を発表 半導体自立を加速",
+      "summary": "中国工業情報化省と国家発展改革委員会が9月15日、集積回路・先端コンピューティング・民生電子などを重点分野とする2026-2030年の電子情報製造業発展計画を発表。2030年までに主要企業の売上高30兆元超を目指す内容を受け、9月16日の中国市場でCambriconやSMICなど半導体・電子株が上昇した。",
+      "source": "Investing.com",
+      "link": "https://www.investing.com/news/stock-market-news/chinese-chip-stocks-rise-after-beijing-unveils-5year-electronics-plan-4900805"
     },
     {
-      "title": "米AI・半導体株が急落、SOX指数5.9%安も東京市場は反発",
-      "summary": "9月14日の米国市場でフィラデルフィア半導体株指数(SOX)が5.9%近く急落したが、15日の東京市場では日経半導体株指数が上昇するなど反発の動きが見られた。AI開発「減速」論の高まりが投資家心理に影響を与えている。",
-      "source": "日本インタビュ新聞(株式投資情報)",
-      "link": "https://www.media-ir.com/news/?p=182086"
-    },
-    {
-      "title": "中国国営メディア、米AI大手の「減速」呼びかけを「身勝手」と批判",
-      "summary": "中国の国営メディアは9月15日、AnthropicのAmodei CEOらが提唱する「AI開発の減速」論について、中国との競争で米国の優位性を守るための身勝手な主張だと批判する論調を展開した。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-15/chinese-state-media-dismisses-self-serving-ai-slowdown-call"
-    },
-    {
-      "title": "英政府、AI安全性めぐり他国と連携へ 「警告に耳を傾ける」",
-      "summary": "英国政府高官は9月15日、AIが破滅的な被害をもたらしうるとの警告を受け、AIの安全性確保に向けて他国と連携して取り組む考えを示した。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-15/britain-will-heed-warnings-over-ai-burnham-s-deputy-says"
-    },
-    {
-      "title": "Google DeepMind元研究者、退職表明で「AIは人類を滅ぼしかねない」と警鐘",
-      "summary": "Google DeepMindを最近退職した研究者が、AIによる甚大な被害を防ぐための時間が残り少ないと警告する退職エントリーを公開したと9月15日に報じられた。AI安全性への懸念を訴える研究者の離脱が相次いでいる。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-15/google-deepmind-staffer-says-ai-may-kill-us-all-in-exit-post"
+      "title": "鴻海傘下FIT、「FIT Tech Day 2026」開催 AI時代の光接続技術に焦点",
+      "summary": "鴻海テクノロジーグループ(Foxconn)傘下のFoxconn Interconnect Technology(FIT)が9月16日、「Light at Scale」をテーマにした年次イベントを開催。劉揚偉(Young Liu)董事長らが出席し、AIデータセンター向け光モジュールやCPO(Co-Packaged Optics)など次世代インターコネクト技術について討論した。",
+      "source": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/technology/ai/articles/fit-tech-day-2026-focuses-030000934.html"
     }
   ],
-  "x_trending_tech": []
+  "x_trending_tech": [
+    {
+      "title": "OpenAI、OpenRouter上のAIモデル支出でAnthropicを2.5年ぶりに逆転",
+      "summary": "OpenRouter公式が「先週、ユーザーはAnthropicモデルよりOpenAIモデルに多く支出した。これは2年半以上起きていなかった」と投稿。GPT-6 Astraの普及が要因とされる(9/16未明の投稿)。",
+      "source": "@OpenRouter",
+      "link": "https://x.com/OpenRouter/status/2099898254905549220"
+    },
+    {
+      "title": "サム・アルトマンCEOが今週の大型リリースとDevDayを予告",
+      "summary": "OpenAIのサム・アルトマンCEOが「今週大きな出荷(ship)があり、その後DevDayでさらに」と投稿し、複数の新機能・モデル発表を示唆(9/16未明の投稿)。",
+      "source": "@sama",
+      "link": "https://x.com/sama/status/2099872600977760451"
+    },
+    {
+      "title": "ザッカーバーグCEO、AI開発の一律減速に反対しアラインメント重視を表明",
+      "summary": "Metaのマーク・ザッカーバーグCEOがXで、AIラボの一律減速要求(ダリオ・アモデイ氏らの提言)に反対し「信頼とアラインメントが今後最も重要な差別化要因になる」と投稿(9/16未明の投稿とみられる)。",
+      "source": "@finkd",
+      "link": "https://x.com/finkd/status/2099997096896274533"
+    }
+  ]
 }
