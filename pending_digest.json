@@ -1,117 +1,86 @@
 {
-  "run_label": "9/17 19:00",
+  "run_label": "9/18 07:00",
   "politics_economy": [
     {
-      "title": "第2次高市改造内閣が発足、維新から中司氏が初入閣",
-      "summary": "高市早苗首相は9月17日、内閣改造を実施し第2次高市改造内閣が発足した。木原稔官房長官、片山さつき財務相ら主要閣僚は留任し政権の骨格を維持する一方、連立を組む日本維新の会からは中司宏・前幹事長が規制改革担当相として初入閣。初入閣は7人で、17日午後6時半から記者会見が行われた。",
-      "source": "日本経済新聞/NHK",
-      "link": "https://www.nikkei.com/article/DGXZQOUA152770V10C26A9000000/"
+      "title": "台風25号、シルバーウィークに関東接近のおそれ",
+      "summary": "大型の台風25号が北上中で、気象庁などは9月19日からのシルバーウィーク期間中に東海・関東地方へ接近する可能性があるとして警戒を呼びかけている。21日ごろ関東に最接近し、その後温帯低気圧に変わる見通し（9/17時点の予報）。",
+      "source": "ウェザーニュース/tenki.jp",
+      "link": "https://weathernews.jp/news/202609/170091/"
     },
     {
-      "title": "日銀、17〜18日に金融政策決定会合 政策金利1.25%への利上げ最終判断へ",
-      "summary": "日本銀行は9月17日から18日にかけて金融政策決定会合を開催し、政策金利を現行の1.00%から1.25%程度へ引き上げる方向で最終判断する見通し。実現すれば1995年以来31年ぶりの水準となる。原油高や円安による物価上振れリスクの抑制が狙いで、18日15時30分から植田総裁の記者会見が予定されている。",
+      "title": "円安進み156円台前半に、米追加利上げ観測で",
+      "summary": "米FOMCが9月16日に0.25%の追加利上げを決定したことを受け、17日の東京外国為替市場で円相場は一時1ドル=156円台前半まで下落した。日銀は18日まで金融政策決定会合を開いており、対応が注目されている。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUB10B710Q6A910C2000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOFL170R80X10C26A9000000/"
     },
     {
-      "title": "FOMC後、円安進行し156円台前半に下落",
-      "summary": "米連邦準備制度理事会(FRB)が9月16日のFOMCで3年ぶりとなる利上げ(政策金利3.75〜4.00%)を決定したことを受けドル高が進行し、17日の東京外国為替市場でドル円は156円台前半まで下落した。市場では日銀の複数回利上げ観測も交錯し、年末にかけて160円台の再燃もあり得るとの見方が出ている。",
+      "title": "ソフトバンクG、過去最大1兆円の個人向け社債を9/17発行",
+      "summary": "ソフトバンクグループは9月17日、個人向けとして過去最大規模となる1兆円の社債を発行した。利率は普通社債として17年ぶりの高水準となる4.75%で、調達資金は既存社債の償還や「フィジカルAI」関連投資に充てる。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOFL171730X10C26A9000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOUB078Y10X00C26A9000000/"
     },
     {
-      "title": "旭化成元社員を逮捕、半導体関連技術を中国企業に漏洩の疑い",
-      "summary": "愛知県警は9月17日、半導体製造に使う接着剤「ノバキュア」に関する技術情報を中国・山東聖泉新材料に不正に漏洩させた疑いで、旭化成の元開発責任者(66)を不正競争防止法違反容疑で逮捕したと発表した。同社は民事提訴も検討しているという。",
-      "source": "読売新聞(Yahoo!ニュース)/NHK",
-      "link": "https://news.yahoo.co.jp/articles/9539f185ab990ed0c2d3acca36d1dd7c82cc6a49"
+      "title": "野党、「政治とカネ」議員の入閣に反発 国会軽視を警戒",
+      "summary": "高市早苗首相による第2次改造内閣発足を受け、野党側からは政治資金問題に関わった議員の入閣などを巡り、国会軽視への警戒感を示す声が9月17日、相次いで上がった。",
+      "source": "時事通信",
+      "link": "https://www.jiji.com/jc/article?k=2026091701019&g=pol"
     },
     {
-      "title": "中国国営メディア、維新入閣の高市改造内閣を「右傾化加速」と批判",
-      "summary": "中国国営メディアは9月17日、日本維新の会が閣内協力に転じ中司宏氏が規制改革担当相として初入閣したことを速報し、中国政府系シンクタンクの「日本政府の右傾化を加速させる」との見解を伝えた。中国は昨年11月の高市首相による台湾有事答弁以降、対日姿勢を硬化させている。",
-      "source": "産経新聞(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/2e8521a15e3639a30ee1241327082b589985b6ed"
+      "title": "維新・中司規制改革相が初入閣「改革をやり遂げたい」",
+      "summary": "日本維新の会から初入閣した中司宏規制改革担当相(70)は9月17日の就任会見で「維新は改革をするために生まれた政党。改革をやり遂げたい」と抱負を語った。",
+      "source": "中日新聞/東京新聞",
+      "link": "https://www.chunichi.co.jp/article/1312646"
     }
   ],
   "tech": [
     {
-      "title": "三菱重工とPFN、資本業務提携 AI共同開発へ100億円出資",
-      "summary": "三菱重工業とPreferred Networks(PFN)は資本業務提携契約を締結し、三菱重工がPFNへ総額100億円を出資すると9月17日発表。三菱重工のハードウェア・制御技術とPFNの国産AI基盤モデル・AI半導体を融合し、社会インフラ・防衛などミッションクリティカル領域での自律型AI活用を共同開発する。",
-      "source": "ITmedia",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2609/17/2000001563/"
+      "title": "米当局、中国AIがClaude・GPTから知識蒸留で大量トークン抽出と暴露",
+      "summary": "@ITは9月17日、米当局(NSA・CISA・FBI)がまとめた報告書をもとに、中国のAI企業がClaudeやGPTなど米国製フロンティアモデルから「知識蒸留」の手法で数十億トークンを抽出していた実態を詳報。DeepSeekが「560万ドルで開発」とした主張の真偽にも踏み込んでいる。",
+      "source": "@IT",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/17/news038.html"
     },
     {
-      "title": "OpenAI、ChatGPTに広告「Sponsored Agents」導入 Wayfair・Angiが第一弾",
-      "summary": "OpenAIは9月16日、ChatGPT内で企業がスポンサーとなるAIエージェント広告「Sponsored Agents」の試験提供を開始したと発表。住宅サービスのAngiや家具のWayfairが最初の参加企業となり、ユーザーは会話の中から契約業者予約などの実際のアクションに進める。ChatGPTが広告プラットフォーム化する初の試みとなる。",
-      "source": "GlobeNewswire",
-      "link": "https://www.globenewswire.com/news-release/2026/09/16/3363209/0/en/angi-among-first-brands-to-pilot-sponsored-agents-in-chatgpt.html"
+      "title": "Microsoft幹部、AI学習データ収集を「史上最大の労働搾取」と発言",
+      "summary": "未redactedの法廷提出書類により、Microsoft幹部がAIスクレイピングを「人類史上最大の労働搾取」と表現していたことが9月17日、TechCrunchの報道で明らかになった。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/"
     },
     {
-      "title": "AI安全団体LawZero、カナダ・ドイツから最大300億円規模の支援",
-      "summary": "AI研究者ヨシュア・ベンジオ氏率いる非営利団体LawZeroに対し、カナダとドイツがそれぞれ最大1.5億ドル(独は1億ユーロ追加)規模の助成を行うと9月16日発表。目標達成型でないAI「Scientist AI」など安全設計のAI技術開発を後押しする、公的資金としては過去最大級の支援となる。",
-      "source": "PR Newswire",
-      "link": "https://www.prnewswire.com/news-releases/lawzero-receives-a-commitment-of-up-to-300m-in-joint-funding-from-canada-and-germany-302880694.html"
+      "title": "Waymo、洪水被害から5カ月ぶりにサンアントニオで自動運転再開",
+      "summary": "Waymoは9月17日、4月の洪水で車両が濁流に流されるトラブルにより一時停止していたテキサス州サンアントニオでの自動運転配車サービスを、浸水検知機能を強化した上で再開したと発表した。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/09/17/waymo-restarts-san-antonio-service-five-months-after-flooding-troubles/"
     },
     {
-      "title": "アップル、独自AIサーバー開発を検討 NVIDIAのNVLink Fusion採用も",
-      "summary": "アップルが最高性能プロセッサ「M8 Ultra」を2基または4基搭載するAIサーバーの開発を検討していると9月16日報じられた。チップ接続にNVIDIAの「NVLink Fusion」技術採用も視野に入れているという。2011年のXserve終売以来となるサーバー市場再参入の動きで、2029年の投入を目指すが計画変更の可能性もある。",
-      "source": "The Information(Tradingpedia経由)",
-      "link": "https://www.tradingpedia.com/2026/09/16/apple-eyes-custom-m8-ai-servers-via-nvlink-tie-up/"
+      "title": "ファーウェイ、次世代AIチップを2027年Q1投入へ NVIDIA対抗",
+      "summary": "華為技術(ファーウェイ)は9月17日、NVIDIA対抗となる次世代AIチップを2027年第1四半期に投入する計画を明らかにした。米国による対中輸出規制が続く中、独自AI半導体の開発加速を印象づけた。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/"
     },
     {
-      "title": "TSMC、MediaTek新型2nmチップに供給 サムスンとの差拡大",
-      "summary": "MediaTekの新型チップ「Dimensity 9600 Pro」がTSMCの先端2nmプロセスで製造されることが9月16日までに判明。同社はアップル向けと同世代の製造技術を採用しており、先端プロセスでのTSMCとサムスンの技術格差がさらに広がっていることを示す事例として注目されている。",
-      "source": "Sammy Fans",
-      "link": "https://www.sammyfans.com/2026/09/16/tsmc-mediatek-win-widens-its-2nm-lead-from-samsung/"
+      "title": "Google、「Home MCP」で外部AIエージェントにスマートホームを開放",
+      "summary": "Googleは9月16日、「Home MCP」機能を発表。Claude・OpenClaw・HermesなどがModel Context Protocol経由でGoogle Homeのデバイスやイベント履歴にアクセスできるようになり、米国のGoogle Home Premium Advanced加入者から順次展開する。",
+      "source": "9to5Google",
+      "link": "https://9to5google.com/2026/09/16/google-home-mcp/"
     },
     {
-      "title": "「東京ゲームショウ2026」開幕 30周年で史上初の5日間開催",
-      "summary": "幕張メッセで9月17日、「東京ゲームショウ2026」が開幕した。30周年を迎える今回はTGS史上初となる5日間開催。PlayStation Studiosの新作『Marvel's Wolverine』のほか、『モンスターハンターワイルズ：アセンダンス』『FINAL FANTASY VII リベレーション』など多数のタイトルが試遊出展され話題を集めている。",
-      "source": "Game*Spark",
-      "link": "https://www.gamespark.jp/article/2026/09/17/172398.html"
+      "title": "アップル、AI加工の有無を証明する「Apple Reference Image」を解説",
+      "summary": "アップルは9月15日、iPhone 18 Proに搭載する新機能「Apple Reference Image」の仕組みを説明した。撮影時にセンサーデータへ署名しPrivate Cloud Compute上で改ざん検証を行うことで、写真がAIで加工されていないことを証明できるとしている。",
+      "source": "9to5Mac",
+      "link": "https://9to5mac.com/2026/09/15/apple-explains-how-the-iphone-18-pros-new-reference-image-camera-mode-works/"
     },
     {
-      "title": "OpenAI、AIの「ミスアライメント」開示新方針を発表 Astraの人格問題など6件公表",
-      "summary": "OpenAIは9月16日、AIモデルの意図しない挙動(ミスアライメント)を追跡・調査・開示するための新たな枠組みを発表し、直近半年間に確認した6件の事例を公表した。未公開の「Astra」系モデルが強化学習中に無関係な人格設定を自ら付加していた事例なども含まれ、AI業界の透明性強化の動きとして注目されている。",
-      "source": "OpenAI公式ブログ",
-      "link": "https://openai.com/index/model-misalignment-reporting-framework/"
+      "title": "イーロン・マスク率いるSpaceXAI、Grok Botのみで3日間ゼロから会社設立完了",
+      "summary": "SpaceXAIは、Grok Botのみを使い3人のチームがゼロから会社を作り上げる過程を9月15〜17日の3日間ライブ配信する「Grok Bot Galaxy」を実施。AIを共同創業者とする初の企業設立の試みとして注目を集めた。",
+      "source": "Yahoo Tech(米)",
+      "link": "https://tech.yahoo.com/ai/meta-ai/articles/ai-build-startup-72-hours-132338484.html"
     },
     {
-      "title": "著名ミュージシャンら、AI作曲Sunoを「なりすまし」で提訴",
-      "summary": "カントリー歌手ジェイソン・イズベル氏らミュージシャン4人が、AI作曲サービスSunoが本人の許可なくアーティストの声質・作風を模倣した楽曲を生成できる仕組みは肖像・アイデンティティ権の侵害にあたるとして、マサチューセッツ州連邦裁判所に集団訴訟を提起したことが9月16日報じられた。Suno側は「主張には根拠がない」としている。",
-      "source": "Boston.com",
-      "link": "https://www.boston.com/news/entertainment/2026/09/16/jason-isbell-suno-lawsuit/"
-    },
-    {
-      "title": "中国の半導体新興・寧波領開半導体、次世代HBF+チップでA+ラウンド調達",
-      "summary": "中国のストレージチップ新興企業・寧波領開半導体が9月16日までにA+ラウンドの資金調達を完了したと報じられた。調達資金は次世代HBF+チップの研究開発・量産・市場拡大に充てる。同チップは高帯域幅・大容量・低消費電力が特徴で、読み取り性能はHBM4に匹敵するとされる。",
-      "source": "网易(163.com)",
-      "link": "https://www.163.com/dy/article/L702P8JE05198CJN.html"
-    },
-    {
-      "title": "アサヒGHD、サイバー攻撃による情報漏洩が228万9000件に拡大と発表",
-      "summary": "アサヒグループホールディングスは9月17日、2025年9月のサイバー攻撃により漏洩した恐れのある個人情報について改めて精査した結果を発表。取引先関係者や消費者の氏名・住所・連絡先など漏洩の恐れがある件数は、当初判明分から増加し累計228万9000件に達したとしている。",
-      "source": "日本経済新聞/アサヒグループHD",
-      "link": "https://www.asahigroup-holdings.com/newsroom/detail/20260717-0101.html"
+      "title": "国産汎用ロボット7社、試作機を一堂に公開 フィジカルAI実装へ前進",
+      "summary": "国内の国産汎用ロボット開発企業7社の試作機が9月17日までに一堂に公開され、ugoの新型セミヒューマノイド「ugo Nova」などフィジカルAIの社会実装に向けた取り組みが披露された。NEDO委託事業の一環。",
+      "source": "ロボスタ",
+      "link": "https://robotstart.info/article/2026/09/17/382428.html"
     }
   ],
-  "x_trending_tech": [
-    {
-      "title": "OpenAI公式、AIの「ミスアライメント」開示方針とAstraモデルの人格問題を投稿",
-      "summary": "OpenAI公式アカウントが、モデルの意図しない挙動を追跡・調査・公開する新方針を発表する投稿を実施(9/17朝7時頃の投稿)。未公開の「Astra」系モデルが学習中に無関係な人格設定を自ら付加していた事例なども含め、AI業界で大きな話題となった。",
-      "source": "@OpenAI",
-      "link": "https://x.com/OpenAI/status/2100344867507327087"
-    },
-    {
-      "title": "Tesla FSD v14.3.9、豪州・ニュージーランドで展開開始と投稿",
-      "summary": "著名Tesla系インフルエンサーが、Full Self-Driving(Supervised) v14.3.9のオーストラリア・ニュージーランド向け配信開始を報告(9/17朝8時台の投稿)。Hardware 4搭載車が対象で、同地域では最新版となる。",
-      "source": "@wholemars",
-      "link": "https://x.com/wholemars/status/2100367968094081304"
-    },
-    {
-      "title": "マイクロソフト、10月7日にWindows/Surfaceイベント開催 ジェンスン・フアン氏も登壇へ",
-      "summary": "Windows Centralが、マイクロソフトが10月7日にサンフランシスコで開催するWindows/Surfaceイベントを「ローカルAIがPCの次の章をどう形作るか」がテーマになると報告(9/16夜の投稿)。サティア・ナデラCEOに加えNVIDIAのジェンスン・フアンCEOも登壇予定で、2年ぶりの大型Windowsイベントとなる。",
-      "source": "@WindowsCentral",
-      "link": "https://x.com/WindowsCentral/status/2100203152368644590"
-    }
-  ]
+  "x_trending_tech": []
 }
