@@ -1,98 +1,117 @@
 {
-  "run_label": "9/17 07:00",
+  "run_label": "9/17 19:00",
   "politics_economy": [
     {
-      "title": "高市首相、17日に内閣改造 木原官房長官ら留任、維新から中司氏が初入閣へ",
-      "summary": "高市早苗首相は9月17日、第2次高市改造内閣を発足させる方針。木原稔官房長官、片山さつき財務相ら主要閣僚は留任させ政権の骨格を維持する一方、連立を組む日本維新の会からは中司宏・前幹事長を閣僚として初めて起用する見通し。16日には自民党役員人事も決定済み。",
+      "title": "第2次高市改造内閣が発足、維新から中司氏が初入閣",
+      "summary": "高市早苗首相は9月17日、内閣改造を実施し第2次高市改造内閣が発足した。木原稔官房長官、片山さつき財務相ら主要閣僚は留任し政権の骨格を維持する一方、連立を組む日本維新の会からは中司宏・前幹事長が規制改革担当相として初入閣。初入閣は7人で、17日午後6時半から記者会見が行われた。",
+      "source": "日本経済新聞/NHK",
+      "link": "https://www.nikkei.com/article/DGXZQOUA152770V10C26A9000000/"
+    },
+    {
+      "title": "日銀、17〜18日に金融政策決定会合 政策金利1.25%への利上げ最終判断へ",
+      "summary": "日本銀行は9月17日から18日にかけて金融政策決定会合を開催し、政策金利を現行の1.00%から1.25%程度へ引き上げる方向で最終判断する見通し。実現すれば1995年以来31年ぶりの水準となる。原油高や円安による物価上振れリスクの抑制が狙いで、18日15時30分から植田総裁の記者会見が予定されている。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUA1065O0Q6A910C2000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOUB10B710Q6A910C2000000/"
     },
     {
-      "title": "日銀、17〜18日に金融政策決定会合 政策金利1.25%程度への利上げ観測",
-      "summary": "日本銀行は9月17日・18日に金融政策決定会合を開催。6月会合以来3カ月ぶりとなる利上げで政策金利を1.25%程度に引き上げる観測が強まっている。実現すれば1995年4月以来約31年半ぶりの高水準となる。植田総裁は次回会合でも利上げをしっかり議論する考えを示した。18日15時30分から総裁会見が予定されている。",
+      "title": "FOMC後、円安進行し156円台前半に下落",
+      "summary": "米連邦準備制度理事会(FRB)が9月16日のFOMCで3年ぶりとなる利上げ(政策金利3.75〜4.00%)を決定したことを受けドル高が進行し、17日の東京外国為替市場でドル円は156円台前半まで下落した。市場では日銀の複数回利上げ観測も交錯し、年末にかけて160円台の再燃もあり得るとの見方が出ている。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUB01BPK0R00C26A9000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOFL171730X10C26A9000000/"
     },
     {
-      "title": "FRB、3年ぶり利上げ決定 政策金利3.75〜4.00%に、円は一時160円台へ下落",
-      "summary": "米連邦準備制度理事会(FRB)は9月16日のFOMCで政策金利を0.25%引き上げ3.75〜4.00%とすることを決定、2023年以来3年ぶりの利上げとなった。ウォーシュ議長は会見で「インフレは高すぎる状態が長く続いている」と述べた。決定を受けてドル高が進行し、17日未明の外為市場で円は一時160円台まで下落。NY株式市場ではダウ平均が下落する一方S&P500とナスダックはプラス圏を維持するなど反応が分かれた。",
-      "source": "日本経済新聞/CNBC",
-      "link": "https://www.nikkei.com/article/DGXZQOGN14A180U6A910C2000000/"
+      "title": "旭化成元社員を逮捕、半導体関連技術を中国企業に漏洩の疑い",
+      "summary": "愛知県警は9月17日、半導体製造に使う接着剤「ノバキュア」に関する技術情報を中国・山東聖泉新材料に不正に漏洩させた疑いで、旭化成の元開発責任者(66)を不正競争防止法違反容疑で逮捕したと発表した。同社は民事提訴も検討しているという。",
+      "source": "読売新聞(Yahoo!ニュース)/NHK",
+      "link": "https://news.yahoo.co.jp/articles/9539f185ab990ed0c2d3acca36d1dd7c82cc6a49"
     },
     {
-      "title": "8月の貿易統計、4カ月連続の赤字 輸出19.3%増・輸入28.0%増",
-      "summary": "財務省が9月16日発表した8月の貿易統計(速報)によると、輸出額は10兆484億円(前年比19.3%増、12カ月連続増)、輸入額は11兆1540億円(同28.0%増、7カ月連続増)となり、貿易収支は4カ月連続の赤字となった。",
-      "source": "LNEWS",
-      "link": "https://www.lnews.jp/2026/09/s0916710.html"
-    },
-    {
-      "title": "臨時国会、10月上旬召集で調整 食料品消費税減税・定数削減法案が焦点に",
-      "summary": "政府・与党は秋の臨時国会を10月上旬に召集する方向で調整に入った。高市早苗首相が掲げる2年間限定の食料品消費税減税や、衆院議員定数1割削減に関する法案の扱いが焦点となる。消費減税は財源や制度設計をめぐり与党内にも異論があり、定数削減は野党の反対で過去2国会にわたり採決が見送られてきた経緯がある。",
-      "source": "朝日新聞(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/018a5e7fa74d8d0a6239112a344bd59d21e9a7b0"
+      "title": "中国国営メディア、維新入閣の高市改造内閣を「右傾化加速」と批判",
+      "summary": "中国国営メディアは9月17日、日本維新の会が閣内協力に転じ中司宏氏が規制改革担当相として初入閣したことを速報し、中国政府系シンクタンクの「日本政府の右傾化を加速させる」との見解を伝えた。中国は昨年11月の高市首相による台湾有事答弁以降、対日姿勢を硬化させている。",
+      "source": "産経新聞(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/2e8521a15e3639a30ee1241327082b589985b6ed"
     }
   ],
   "tech": [
     {
-      "title": "AIコーディングエージェント「Factory」、200億円規模を調達し評価額5,000億円に",
-      "summary": "自律型AIエージェント「Droid」でソフトウェア開発を自動化するFactoryが2億ドルを調達し、評価額は4月の15億ドルから3倍超の50億ドルに拡大。Nvidia、Blackstone、RBC、Adobe、T-Mobileなどが同社の「ソフトウェア工場」を利用している。",
-      "source": "TechFundingNews",
-      "link": "https://techfundingnews.com/factory-jumps-to-5b-in-5-months-with-200m-for-its-ai-droids/"
+      "title": "三菱重工とPFN、資本業務提携 AI共同開発へ100億円出資",
+      "summary": "三菱重工業とPreferred Networks(PFN)は資本業務提携契約を締結し、三菱重工がPFNへ総額100億円を出資すると9月17日発表。三菱重工のハードウェア・制御技術とPFNの国産AI基盤モデル・AI半導体を融合し、社会インフラ・防衛などミッションクリティカル領域での自律型AI活用を共同開発する。",
+      "source": "ITmedia",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2609/17/2000001563/"
     },
     {
-      "title": "元OpenAI研究者のTypeSafe AI、対話しない新型AI「Jev」を発表",
-      "summary": "InstructGPT論文の主著者だったDiogo Almeida氏が創業したTypeSafe AIが、ステルスを解除し4000万ドルのシード資金と共に「System One Models」第1弾のJevを早期アクセス公開。従来のLLMのようにテキストを逐次生成するのではなく、状態と質問を受け取り型付き回答を返す方式で、70ms〜500msの高速・低コストな意思決定処理を狙う。",
-      "source": "TypeSafe AI(公式ブログ)",
-      "link": "https://typesafe.ai/blog/introducing-system-one-models-and-jev"
-    },
-    {
-      "title": "AI安全認証のAIUC、シリーズAで4000万ドル調達 累計5500万ドルに",
-      "summary": "元Anthropic社員のRune Kvist氏と元METR COOのRajiv Dattani氏が創業したAIUCが、Ribbit Capital主導のシリーズAで4000万ドルを調達。ジェイルブレイクやハルシネーション、データ漏洩など約5000項目をテストしAIエージェントの第三者認証を行う枠組みを提供し、Cursor、Lovable、Harveyなどが顧客。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/"
-    },
-    {
-      "title": "Google傘下Isomorphic Labs、AI減速論をよそに開発ペース維持を表明",
-      "summary": "DeepMind創業者デミス・ハサビス氏が率いるAI創薬企業Isomorphic Labsの幹部が、AI業界の一部で高まる開発減速の呼びかけとは無関係にペースを維持すると明言。同社のAIモデルは全て自社内で管理されており、がんや免疫領域の候補パイプラインの開発を続けているとした。",
-      "source": "Semafor",
-      "link": "https://www.semafor.com/article/09/15/2026/ai-biotech-isomorphic-labs-is-not-slowing-down-exec-says"
-    },
-    {
-      "title": "SKハイニックス、インテルと米国でのメモリー製造で協議か",
-      "summary": "ロイター報道によると、SKハイニックスが米国内でのメモリーチップ製造についてインテルと協議しているとされる。同社はすでにインディアナ州でHBM生産拠点の起工も行っており米国展開を拡大中。報道を受けSKハイニックス株は3%超上昇、インテル株も4%上昇した。ただし具体的な計画は未確定。",
-      "source": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/09/16/intel-rises-4-sk-hynix-climbs-3-as-reuters-reports-talks-to-make-memory-chips-at-ohio-campus-micron-holds-flat/"
-    },
-    {
-      "title": "ノボ ノルディスク、Anthropicと提携し創薬にClaudeを活用",
-      "summary": "ノボ ノルディスクとAnthropicが提携を発表。ノボはAnthropicのフロンティアAIモデルや「Claude Science」ワークベンチを研究開発の各ワークフローで試験導入し、AI駆動のソフトウェア開発も強化する。Anthropicのダリオ・アモデイCEOは「AIの能力向上により、1世紀分の生物医学的発見を10年に凝縮できる可能性がある」とコメント。",
+      "title": "OpenAI、ChatGPTに広告「Sponsored Agents」導入 Wayfair・Angiが第一弾",
+      "summary": "OpenAIは9月16日、ChatGPT内で企業がスポンサーとなるAIエージェント広告「Sponsored Agents」の試験提供を開始したと発表。住宅サービスのAngiや家具のWayfairが最初の参加企業となり、ユーザーは会話の中から契約業者予約などの実際のアクションに進める。ChatGPTが広告プラットフォーム化する初の試みとなる。",
       "source": "GlobeNewswire",
-      "link": "https://www.globenewswire.com/news-release/2026/09/16/3363106/0/en/novo-and-anthropic-will-collaborate-to-advance-drug-discovery-with-claude.html"
+      "link": "https://www.globenewswire.com/news-release/2026/09/16/3363209/0/en/angi-among-first-brands-to-pilot-sponsored-agents-in-chatgpt.html"
     },
     {
-      "title": "マイクロソフトAI責任者、Anthropic「Claude」の人間らしさにリスク指摘",
-      "summary": "マイクロソフトのAI担当責任者ムスタファ・スレイマン氏が、AnthropicのClaudeのような人間らしい特徴をAIに付与することは、システムが暴走するリスクを高めると警告するエッセイを発表。Claudeのガイドライン文書の一部表現についても批判した。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-16/microsoft-ai-chief-warns-anthropic-s-humanlike-claude-is-risky"
+      "title": "AI安全団体LawZero、カナダ・ドイツから最大300億円規模の支援",
+      "summary": "AI研究者ヨシュア・ベンジオ氏率いる非営利団体LawZeroに対し、カナダとドイツがそれぞれ最大1.5億ドル(独は1億ユーロ追加)規模の助成を行うと9月16日発表。目標達成型でないAI「Scientist AI」など安全設計のAI技術開発を後押しする、公的資金としては過去最大級の支援となる。",
+      "source": "PR Newswire",
+      "link": "https://www.prnewswire.com/news-releases/lawzero-receives-a-commitment-of-up-to-300m-in-joint-funding-from-canada-and-germany-302880694.html"
     },
     {
-      "title": "製造業AIプラットフォームのキャディ、シリーズDで177億円調達 評価額1,820億円に",
-      "summary": "製造業向けAIデータプラットフォーム「CADDi」を提供するキャディが、Moore Strategic Venturesなど新規・既存投資家8社を引受先にシリーズDで177億円を調達。累計調達額は363.1億円、企業価値は1,820億円となった。独自AI・技術開発や北米を中心としたグローバル展開に充てる。",
-      "source": "CADDi(プレスリリース)",
-      "link": "https://caddi.com/ja-jp/news/press/series-d-funding/"
+      "title": "アップル、独自AIサーバー開発を検討 NVIDIAのNVLink Fusion採用も",
+      "summary": "アップルが最高性能プロセッサ「M8 Ultra」を2基または4基搭載するAIサーバーの開発を検討していると9月16日報じられた。チップ接続にNVIDIAの「NVLink Fusion」技術採用も視野に入れているという。2011年のXserve終売以来となるサーバー市場再参入の動きで、2029年の投入を目指すが計画変更の可能性もある。",
+      "source": "The Information(Tradingpedia経由)",
+      "link": "https://www.tradingpedia.com/2026/09/16/apple-eyes-custom-m8-ai-servers-via-nvlink-tie-up/"
     },
     {
-      "title": "「東京ゲームショウ2026」開幕、史上最長5日間で開催",
-      "summary": "幕張メッセで9月17日から21日まで「東京ゲームショウ2026」が開催。30周年を迎える今回は史上初の5日間開催となり、「モンスターハンターワイルズ：アセンダンス」「FINAL FANTASY VII リベレーション」などの試遊出展が話題を集めている。",
-      "source": "ファミ通.com",
-      "link": "https://www.famitsu.com/article/202609/87594"
+      "title": "TSMC、MediaTek新型2nmチップに供給 サムスンとの差拡大",
+      "summary": "MediaTekの新型チップ「Dimensity 9600 Pro」がTSMCの先端2nmプロセスで製造されることが9月16日までに判明。同社はアップル向けと同世代の製造技術を採用しており、先端プロセスでのTSMCとサムスンの技術格差がさらに広がっていることを示す事例として注目されている。",
+      "source": "Sammy Fans",
+      "link": "https://www.sammyfans.com/2026/09/16/tsmc-mediatek-win-widens-its-2nm-lead-from-samsung/"
     },
     {
-      "title": "元インフォシスCEOのAIスタートアップHang Ten、追加で53億円規模を調達",
-      "summary": "元Infosys CEOのVishal Sikka氏が今年5月に設立したAIスタートアップHang Ten Systemsが、Temasek系Xora主導で5300万ドルを追加調達。5週間前の3200万ドルのシード調達に続くもので、累計調達額は8500万ドルに。インテルのリップブー・タンCEOやマイクロンのサンジェイ・メロトラCEOも個人出資している。大企業向けにAI活用のソフトウェア刷新を支援する。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/"
+      "title": "「東京ゲームショウ2026」開幕 30周年で史上初の5日間開催",
+      "summary": "幕張メッセで9月17日、「東京ゲームショウ2026」が開幕した。30周年を迎える今回はTGS史上初となる5日間開催。PlayStation Studiosの新作『Marvel's Wolverine』のほか、『モンスターハンターワイルズ：アセンダンス』『FINAL FANTASY VII リベレーション』など多数のタイトルが試遊出展され話題を集めている。",
+      "source": "Game*Spark",
+      "link": "https://www.gamespark.jp/article/2026/09/17/172398.html"
+    },
+    {
+      "title": "OpenAI、AIの「ミスアライメント」開示新方針を発表 Astraの人格問題など6件公表",
+      "summary": "OpenAIは9月16日、AIモデルの意図しない挙動(ミスアライメント)を追跡・調査・開示するための新たな枠組みを発表し、直近半年間に確認した6件の事例を公表した。未公開の「Astra」系モデルが強化学習中に無関係な人格設定を自ら付加していた事例なども含まれ、AI業界の透明性強化の動きとして注目されている。",
+      "source": "OpenAI公式ブログ",
+      "link": "https://openai.com/index/model-misalignment-reporting-framework/"
+    },
+    {
+      "title": "著名ミュージシャンら、AI作曲Sunoを「なりすまし」で提訴",
+      "summary": "カントリー歌手ジェイソン・イズベル氏らミュージシャン4人が、AI作曲サービスSunoが本人の許可なくアーティストの声質・作風を模倣した楽曲を生成できる仕組みは肖像・アイデンティティ権の侵害にあたるとして、マサチューセッツ州連邦裁判所に集団訴訟を提起したことが9月16日報じられた。Suno側は「主張には根拠がない」としている。",
+      "source": "Boston.com",
+      "link": "https://www.boston.com/news/entertainment/2026/09/16/jason-isbell-suno-lawsuit/"
+    },
+    {
+      "title": "中国の半導体新興・寧波領開半導体、次世代HBF+チップでA+ラウンド調達",
+      "summary": "中国のストレージチップ新興企業・寧波領開半導体が9月16日までにA+ラウンドの資金調達を完了したと報じられた。調達資金は次世代HBF+チップの研究開発・量産・市場拡大に充てる。同チップは高帯域幅・大容量・低消費電力が特徴で、読み取り性能はHBM4に匹敵するとされる。",
+      "source": "网易(163.com)",
+      "link": "https://www.163.com/dy/article/L702P8JE05198CJN.html"
+    },
+    {
+      "title": "アサヒGHD、サイバー攻撃による情報漏洩が228万9000件に拡大と発表",
+      "summary": "アサヒグループホールディングスは9月17日、2025年9月のサイバー攻撃により漏洩した恐れのある個人情報について改めて精査した結果を発表。取引先関係者や消費者の氏名・住所・連絡先など漏洩の恐れがある件数は、当初判明分から増加し累計228万9000件に達したとしている。",
+      "source": "日本経済新聞/アサヒグループHD",
+      "link": "https://www.asahigroup-holdings.com/newsroom/detail/20260717-0101.html"
     }
   ],
-  "x_trending_tech": []
+  "x_trending_tech": [
+    {
+      "title": "OpenAI公式、AIの「ミスアライメント」開示方針とAstraモデルの人格問題を投稿",
+      "summary": "OpenAI公式アカウントが、モデルの意図しない挙動を追跡・調査・公開する新方針を発表する投稿を実施(9/17朝7時頃の投稿)。未公開の「Astra」系モデルが学習中に無関係な人格設定を自ら付加していた事例なども含め、AI業界で大きな話題となった。",
+      "source": "@OpenAI",
+      "link": "https://x.com/OpenAI/status/2100344867507327087"
+    },
+    {
+      "title": "Tesla FSD v14.3.9、豪州・ニュージーランドで展開開始と投稿",
+      "summary": "著名Tesla系インフルエンサーが、Full Self-Driving(Supervised) v14.3.9のオーストラリア・ニュージーランド向け配信開始を報告(9/17朝8時台の投稿)。Hardware 4搭載車が対象で、同地域では最新版となる。",
+      "source": "@wholemars",
+      "link": "https://x.com/wholemars/status/2100367968094081304"
+    },
+    {
+      "title": "マイクロソフト、10月7日にWindows/Surfaceイベント開催 ジェンスン・フアン氏も登壇へ",
+      "summary": "Windows Centralが、マイクロソフトが10月7日にサンフランシスコで開催するWindows/Surfaceイベントを「ローカルAIがPCの次の章をどう形作るか」がテーマになると報告(9/16夜の投稿)。サティア・ナデラCEOに加えNVIDIAのジェンスン・フアンCEOも登壇予定で、2年ぶりの大型Windowsイベントとなる。",
+      "source": "@WindowsCentral",
+      "link": "https://x.com/WindowsCentral/status/2100203152368644590"
+    }
+  ]
 }
