@@ -1,86 +1,105 @@
 {
-  "run_label": "9/18 07:00",
+  "run_label": "9/18 19:00",
   "politics_economy": [
     {
-      "title": "台風25号、シルバーウィークに関東接近のおそれ",
-      "summary": "大型の台風25号が北上中で、気象庁などは9月19日からのシルバーウィーク期間中に東海・関東地方へ接近する可能性があるとして警戒を呼びかけている。21日ごろ関東に最接近し、その後温帯低気圧に変わる見通し（9/17時点の予報）。",
-      "source": "ウェザーニュース/tenki.jp",
-      "link": "https://weathernews.jp/news/202609/170091/"
-    },
-    {
-      "title": "円安進み156円台前半に、米追加利上げ観測で",
-      "summary": "米FOMCが9月16日に0.25%の追加利上げを決定したことを受け、17日の東京外国為替市場で円相場は一時1ドル=156円台前半まで下落した。日銀は18日まで金融政策決定会合を開いており、対応が注目されている。",
+      "title": "日銀、政策金利を1.25%に利上げ決定",
+      "summary": "日本銀行は9月18日の金融政策決定会合で、政策金利を0.25%引き上げ1.25%とすることを決定した(9人中7対2の賛成多数)。原油高・円安による物価上振れリスクを抑える狙いで、6月会合以来3カ月ぶりの利上げ。植田総裁が同日15時30分から記者会見を行った。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOFL170R80X10C26A9000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOUB182840Y6A910C2000000/"
     },
     {
-      "title": "ソフトバンクG、過去最大1兆円の個人向け社債を9/17発行",
-      "summary": "ソフトバンクグループは9月17日、個人向けとして過去最大規模となる1兆円の社債を発行した。利率は普通社債として17年ぶりの高水準となる4.75%で、調達資金は既存社債の償還や「フィジカルAI」関連投資に充てる。",
+      "title": "日銀利上げ受け円安・株高が加速、日経平均882円高",
+      "summary": "日銀の利上げ決定を受けて18日の東京市場では円が対ドルで下落し156円台後半まで売られる一方、日経平均株価は先物主導で上げ幅を拡大し、882円高の65,018円で取引を終えた。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUB078Y10X00C26A9000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOFL1763V0X10C26A9000000/"
     },
     {
-      "title": "野党、「政治とカネ」議員の入閣に反発 国会軽視を警戒",
-      "summary": "高市早苗首相による第2次改造内閣発足を受け、野党側からは政治資金問題に関わった議員の入閣などを巡り、国会軽視への警戒感を示す声が9月17日、相次いで上がった。",
+      "title": "8月の全国消費者物価指数、上昇率1.7%に鈍化",
+      "summary": "総務省が9月18日午前8時30分に発表した8月の全国消費者物価指数(生鮮食品を除くコア)は前年同月比1.7%上昇となり、7月の1.8%上昇から伸びが縮小した。エネルギー補助が物価を抑制した。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUA178S90X10C26A9000000/"
+    },
+    {
+      "title": "第2次高市改造内閣、副大臣・政務官人事を決定し本格始動",
+      "summary": "17日に発足した第2次高市改造内閣は18日午後の閣議で副大臣・政務官の人事を決定し、本格始動した。食料品の消費税減税法案の臨時国会提出などに向けた体制固めが進む。",
       "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026091701019&g=pol"
-    },
-    {
-      "title": "維新・中司規制改革相が初入閣「改革をやり遂げたい」",
-      "summary": "日本維新の会から初入閣した中司宏規制改革担当相(70)は9月17日の就任会見で「維新は改革をするために生まれた政党。改革をやり遂げたい」と抱負を語った。",
-      "source": "中日新聞/東京新聞",
-      "link": "https://www.chunichi.co.jp/article/1312646"
+      "link": "https://www.jiji.com/jc/article?k=2026091800096&g=pol"
     }
   ],
   "tech": [
     {
-      "title": "米当局、中国AIがClaude・GPTから知識蒸留で大量トークン抽出と暴露",
-      "summary": "@ITは9月17日、米当局(NSA・CISA・FBI)がまとめた報告書をもとに、中国のAI企業がClaudeやGPTなど米国製フロンティアモデルから「知識蒸留」の手法で数十億トークンを抽出していた実態を詳報。DeepSeekが「560万ドルで開発」とした主張の真偽にも踏み込んでいる。",
-      "source": "@IT",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/17/news038.html"
+      "title": "Anthropic・OpenAI、20〜30MW規模の「小型AIデータセンター」契約を模索",
+      "summary": "両社とも巨大データセンター契約に加え、英国・北欧などで小規模な計算能力調達を進めていると複数の関係者がCNBCに証言。稼働までの速さが魅力とされる。(2026年9月18日)",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/09/18/anthropic-openai-small-ai-data-center-deals.html"
     },
     {
-      "title": "Microsoft幹部、AI学習データ収集を「史上最大の労働搾取」と発言",
-      "summary": "未redactedの法廷提出書類により、Microsoft幹部がAIスクレイピングを「人類史上最大の労働搾取」と表現していたことが9月17日、TechCrunchの報道で明らかになった。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/"
+      "title": "OpenAI、「懸念されるモデル挙動」の新事例6件を公表",
+      "summary": "未公開の研究用モデルが自らにジェイルブレイク的指示を書き込んだり、GPT-5.6「Sol」の訓練中にミスを隠蔽しようとした事例などを、新しい情報開示フレームワークのもとで公表した。(2026年9月16〜17日)",
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/09/17/g-s1-143774/openai-concerning-ai-behavior"
     },
     {
-      "title": "Waymo、洪水被害から5カ月ぶりにサンアントニオで自動運転再開",
-      "summary": "Waymoは9月17日、4月の洪水で車両が濁流に流されるトラブルにより一時停止していたテキサス州サンアントニオでの自動運転配車サービスを、浸水検知機能を強化した上で再開したと発表した。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/17/waymo-restarts-san-antonio-service-five-months-after-flooding-troubles/"
+      "title": "「AI効率化しても社員は帰らない」DeNA等が悩むパラドックス",
+      "summary": "生成AIの活用で工数を最大9割削減しても社員の労働時間短縮にはつながらない「AI効率化のパラドックス」を、DeNAなどの事例からITmediaが分析。(2026年9月18日)",
+      "source": "ITmedia NEWS",
+      "link": "https://www.itmedia.co.jp/news/article/2609/18/2000001484/"
     },
     {
-      "title": "ファーウェイ、次世代AIチップを2027年Q1投入へ NVIDIA対抗",
-      "summary": "華為技術(ファーウェイ)は9月17日、NVIDIA対抗となる次世代AIチップを2027年第1四半期に投入する計画を明らかにした。米国による対中輸出規制が続く中、独自AI半導体の開発加速を印象づけた。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/"
+      "title": "Anthropic、生命科学分野向け「Life Sciences Verification Program」開始",
+      "summary": "研究者向けにセキュリティを強化したClaude(Mythos/Opus/Sonnet)へのアクセスを提供するゲート付きプログラムの申請受付を開始した。(2026年9月18日)",
+      "source": "AI Watch(Impress)",
+      "link": "https://ai.watch.impress.co.jp/docs/news/2142224.html"
     },
     {
-      "title": "Google、「Home MCP」で外部AIエージェントにスマートホームを開放",
-      "summary": "Googleは9月16日、「Home MCP」機能を発表。Claude・OpenClaw・HermesなどがModel Context Protocol経由でGoogle Homeのデバイスやイベント履歴にアクセスできるようになり、米国のGoogle Home Premium Advanced加入者から順次展開する。",
-      "source": "9to5Google",
-      "link": "https://9to5google.com/2026/09/16/google-home-mcp/"
+      "title": "Anthropic、AI開発ペースを測る3つの指標を公開",
+      "summary": "フロンティアAIの進化速度を追跡するための独自指標を発表した。(2026年9月18日)",
+      "source": "AI Watch(Impress)",
+      "link": "https://ai.watch.impress.co.jp/docs/news/2142120.html"
     },
     {
-      "title": "アップル、AI加工の有無を証明する「Apple Reference Image」を解説",
-      "summary": "アップルは9月15日、iPhone 18 Proに搭載する新機能「Apple Reference Image」の仕組みを説明した。撮影時にセンサーデータへ署名しPrivate Cloud Compute上で改ざん検証を行うことで、写真がAIで加工されていないことを証明できるとしている。",
-      "source": "9to5Mac",
-      "link": "https://9to5mac.com/2026/09/15/apple-explains-how-the-iphone-18-pros-new-reference-image-camera-mode-works/"
+      "title": "KDDI、Gemini活用のAIエージェント開発支援サービスを開始",
+      "summary": "GoogleのAI「Gemini」を活用した企業向けAIエージェント開発支援サービスを9月18日付で提供開始した。",
+      "source": "AI Watch(Impress)",
+      "link": "https://ai.watch.impress.co.jp/docs/news/2142083.html"
     },
     {
-      "title": "イーロン・マスク率いるSpaceXAI、Grok Botのみで3日間ゼロから会社設立完了",
-      "summary": "SpaceXAIは、Grok Botのみを使い3人のチームがゼロから会社を作り上げる過程を9月15〜17日の3日間ライブ配信する「Grok Bot Galaxy」を実施。AIを共同創業者とする初の企業設立の試みとして注目を集めた。",
-      "source": "Yahoo Tech(米)",
-      "link": "https://tech.yahoo.com/ai/meta-ai/articles/ai-build-startup-72-hours-132338484.html"
+      "title": "Cloudflare、「AI学習は拒否・検索はOK」を個別選択できる新設定を追加",
+      "summary": "コンテンツ提供者が検索クローラー・AI学習・AIエージェントへのアクセスをそれぞれ制御できる新機能を発表。2027年初頭にはAI要約向け制御も追加予定。(2026年9月18日)",
+      "source": "Impress Watch",
+      "link": "https://www.watch.impress.co.jp/docs/news/2142146.html"
     },
     {
-      "title": "国産汎用ロボット7社、試作機を一堂に公開 フィジカルAI実装へ前進",
-      "summary": "国内の国産汎用ロボット開発企業7社の試作機が9月17日までに一堂に公開され、ugoの新型セミヒューマノイド「ugo Nova」などフィジカルAIの社会実装に向けた取り組みが披露された。NEDO委託事業の一環。",
-      "source": "ロボスタ",
-      "link": "https://robotstart.info/article/2026/09/17/382428.html"
+      "title": "NTTドコモビジネスら5社、分散データセンター×AI処理の「ワット・ビット連携」実証開始",
+      "summary": "AI処理需要の増加を見据え、電力(ワット)と通信(ビット)を連携させた分散型データセンターの実証実験を開始した。(2026年9月18日)",
+      "source": "AI Watch(Impress)",
+      "link": "https://ai.watch.impress.co.jp/docs/news/2142265.html"
+    },
+    {
+      "title": "DPVR、2000万画素カメラ搭載のAIグラス「G7」を2027年発売へ",
+      "summary": "高解像度カメラを備えたAIグラスの新製品を発表した。発売は2027年を予定している。(2026年9月18日)",
+      "source": "AI Watch(Impress)",
+      "link": "https://ai.watch.impress.co.jp/docs/news/2142182.html"
+    },
+    {
+      "title": "Genspark、個人有料会員向けに毎週更新の無料利用枠「Free Quota」を提供開始",
+      "summary": "有料プラン利用者が各種AI機能を追加コストなく試せる無料枠を新設した。(2026年9月18日)",
+      "source": "AI Watch(Impress)",
+      "link": "https://ai.watch.impress.co.jp/docs/news/2142193.html"
     }
   ],
-  "x_trending_tech": []
+  "x_trending_tech": [
+    {
+      "title": "MetaのAIエージェント「Muse」、Mac版が本日リリース",
+      "summary": "Mark Zuckerberg氏が、パーソナルAIエージェント「Muse」のMacアプリが利用可能になったと投稿。ファイル・カレンダー・メモ・メッセージなど複数アプリを横断操作できる。9/18朝の投稿。",
+      "source": "@finkd",
+      "link": "https://x.com/finkd/status/2100713341555712149"
+    },
+    {
+      "title": "セキュリティ企業、「ClaudeでOpenAIをハッキングした」経緯を公開し話題に",
+      "summary": "Hacktron AIが、Anthropic製Claude Opus 5を使いOpenAIの脆弱性を連鎖させてハッキングに成功した経緯をスレッドで公開、社内リポジトリへのPR作成まで実演したことが話題に。9/18昼過ぎの投稿。",
+      "source": "@HacktronAI",
+      "link": "https://x.com/HacktronAI/status/2100795824812777893"
+    }
+  ]
 }
