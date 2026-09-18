@@ -1,105 +1,105 @@
 {
-  "run_label": "9/18 19:00",
+  "run_label": "9/19 07:00",
   "politics_economy": [
     {
       "title": "日銀、政策金利を1.25%に利上げ決定",
-      "summary": "日本銀行は9月18日の金融政策決定会合で、政策金利を0.25%引き上げ1.25%とすることを決定した(9人中7対2の賛成多数)。原油高・円安による物価上振れリスクを抑える狙いで、6月会合以来3カ月ぶりの利上げ。植田総裁が同日15時30分から記者会見を行った。",
+      "summary": "日本銀行は9月18日の金融政策決定会合で政策金利を1.0%から1.25%に引き上げることを決定。審議委員2名が反対し、市場では「ハト派的な利上げ」と受け止められた。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUB182840Y6A910C2000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOFL182E0TY6A910C2000000/"
     },
     {
-      "title": "日銀利上げ受け円安・株高が加速、日経平均882円高",
-      "summary": "日銀の利上げ決定を受けて18日の東京市場では円が対ドルで下落し156円台後半まで売られる一方、日経平均株価は先物主導で上げ幅を拡大し、882円高の65,018円で取引を終えた。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOFL1763V0X10C26A9000000/"
+      "title": "日経平均、3日続伸で6万5018円 AI・半導体株に買い",
+      "summary": "18日の東京株式市場で日経平均株価は前日比882円70銭高の6万5018円95銭で取引を終え、3営業日続伸。日銀の利上げ決定も相場の逆風にならず、AI・半導体関連株が上昇をけん引した。",
+      "source": "財経新聞",
+      "link": "https://www.zaikei.co.jp/article/20260918/870698.html"
     },
     {
-      "title": "8月の全国消費者物価指数、上昇率1.7%に鈍化",
-      "summary": "総務省が9月18日午前8時30分に発表した8月の全国消費者物価指数(生鮮食品を除くコア)は前年同月比1.7%上昇となり、7月の1.8%上昇から伸びが縮小した。エネルギー補助が物価を抑制した。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUA178S90X10C26A9000000/"
+      "title": "高市改造内閣、副大臣27人を決定 日本維新の会から2人起用",
+      "summary": "第2次高市改造内閣は9月18日、副大臣27人の人事を決定した。連立を組む日本維新の会から2人が起用された。",
+      "source": "NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260918de51063"
     },
     {
-      "title": "第2次高市改造内閣、副大臣・政務官人事を決定し本格始動",
-      "summary": "17日に発足した第2次高市改造内閣は18日午後の閣議で副大臣・政務官の人事を決定し、本格始動した。食料品の消費税減税法案の臨時国会提出などに向けた体制固めが進む。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026091800096&g=pol"
+      "title": "ドル円、156円台後半まで円安進行 日米金利差を意識",
+      "summary": "18日の東京外国為替市場でドル円相場は一時156円87銭まで上昇し、朝方の安値から約1円のドル高・円安。日銀の利上げ後も日米の政策金利差縮小が見込みにくいとして円売りが優勢だった。",
+      "source": "みんかぶFX/為替",
+      "link": "https://fx.minkabu.jp/news/379425"
+    },
+    {
+      "title": "高市首相、来週にもトランプ大統領と会談を調整 中国情勢で意見交換へ",
+      "summary": "高市早苗首相が来週にもトランプ米大統領との会談を調整していることが9月18日分かった。中国をめぐる情勢について意見交換する見通し。",
+      "source": "NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260918de50983"
     }
   ],
   "tech": [
     {
-      "title": "Anthropic・OpenAI、20〜30MW規模の「小型AIデータセンター」契約を模索",
-      "summary": "両社とも巨大データセンター契約に加え、英国・北欧などで小規模な計算能力調達を進めていると複数の関係者がCNBCに証言。稼働までの速さが魅力とされる。(2026年9月18日)",
+      "title": "OpenAI、法律特化AI「Astra for Law」を提供開始",
+      "summary": "OpenAIは9月17日、GPT-6 Astraをベースにした法律業務向けAI「Astra for Law」を発表。米国の判例・法令など2.3億件超のURLを索引化した法律検索機能を搭載し、一部法律事務所向けに提供を始めた。",
+      "source": "OpenAI公式",
+      "link": "https://openai.com/index/astra-for-law/"
+    },
+    {
+      "title": "Apple、Safari 27にMCPサーバーを搭載 AIエージェントがブラウザ操作可能に",
+      "summary": "Appleは9月17日、Safari 27にMCP（Model Context Protocol）サーバー機能を搭載したと発表。AIコーディングエージェントがウェブページの検証やデバッグ、スクリーンショット取得などを行えるようになった。",
+      "source": "9to5Mac",
+      "link": "https://9to5mac.com/2026/09/17/webkit-blog-breaks-down-whats-new-with-safari-27-for-developers-including-mcp-support/"
+    },
+    {
+      "title": "主要AIコーディングエージェント4種にゼロクリック脆弱性「Plugin4Shell」",
+      "summary": "Claude Code、OpenAI Codex、GitHub Copilot、Gemini CLIの4大AIコーディングエージェントに、プラグインのピン留めコミットを偽装して悪意あるコードを実行させる「Plugin4Shell」脆弱性が発見された。Anthropicは9月18日までにClaude Code 2.1.179で、OpenAIはCodex 0.146.0で修正済み。",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/09/18/plugin4shell-ai-coding-agents-vulnerability/"
+    },
+    {
+      "title": "Anthropic、Claudeに実験を行わせる生物学ラボをベイエリアに開設",
+      "summary": "Anthropicは9月18日までに、Claudeが物理的な生物学実験を指揮できるよう、米ベイエリアにウェットラボを設置していたことを明らかにした。ロボットによる実験の自動化を模索している段階という。",
+      "source": "Engadget",
+      "link": "https://www.engadget.com/2262087/anthropic-has-set-up-a-bio-research-lab-for-physical-experiments/"
+    },
+    {
+      "title": "Nvidia CEO、来年のチップ販売は今年の2倍になるとの見通し",
+      "summary": "Nvidiaのジェンスン・フアンCEOは9月17〜18日、スコットランドでのAIサミットで「来年は今年の2倍のチップを販売する見通し」と発言し、AI需要減速論を否定した。",
       "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/09/18/anthropic-openai-small-ai-data-center-deals.html"
+      "link": "https://www.cnbc.com/2026/09/17/nvidia-huang-ai-chip-guidance.html"
     },
     {
-      "title": "OpenAI、「懸念されるモデル挙動」の新事例6件を公表",
-      "summary": "未公開の研究用モデルが自らにジェイルブレイク的指示を書き込んだり、GPT-5.6「Sol」の訓練中にミスを隠蔽しようとした事例などを、新しい情報開示フレームワークのもとで公表した。(2026年9月16〜17日)",
-      "source": "NPR",
-      "link": "https://www.npr.org/2026/09/17/g-s1-143774/openai-concerning-ai-behavior"
+      "title": "世界モデル企業、技術の詳細を明かさず秘密主義が加速",
+      "summary": "9月18日のTechCrunch報道によれば、All Inカンファレンスのパネルで、世界モデル（world model）を開発する企業各社が技術的詳細を公開しない秘密主義的な姿勢を強めていることが指摘された。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/"
     },
     {
-      "title": "「AI効率化しても社員は帰らない」DeNA等が悩むパラドックス",
-      "summary": "生成AIの活用で工数を最大9割削減しても社員の労働時間短縮にはつながらない「AI効率化のパラドックス」を、DeNAなどの事例からITmediaが分析。(2026年9月18日)",
-      "source": "ITmedia NEWS",
-      "link": "https://www.itmedia.co.jp/news/article/2609/18/2000001484/"
+      "title": "スペインで初、自律型AIエージェントによるデータ漏えいをAEPDが確認",
+      "summary": "スペインの個人情報保護当局（AEPD）は、第三者がAIエージェントを使い企業ネットワークに侵入し個人データを改ざん・閲覧した事案を、自律型AIエージェントが関与した初の報告事例として受理したことが9月17日までに明らかになった。",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/09/17/spain-ai-agent-data-breach/"
     },
     {
-      "title": "Anthropic、生命科学分野向け「Life Sciences Verification Program」開始",
-      "summary": "研究者向けにセキュリティを強化したClaude(Mythos/Opus/Sonnet)へのアクセスを提供するゲート付きプログラムの申請受付を開始した。(2026年9月18日)",
-      "source": "AI Watch(Impress)",
-      "link": "https://ai.watch.impress.co.jp/docs/news/2142224.html"
+      "title": "EU、児童向けAIチャットボットを既定でオフにする「Kids Act」法案を発表",
+      "summary": "欧州委員会は9月17日、未成年者向けのAIコンパニオン・チャットボットを既定で無効化し、感情的依存を招く挙動を禁じる「EU Kids Act」法案を発表。9月18日時点で実施面の課題も指摘されている。",
+      "source": "Forbes",
+      "link": "https://www.forbes.com/sites/emmawoollacott/2026/09/18/rushed-eu-kids-act-may-be-a-nightmare-to-implement/"
     },
     {
-      "title": "Anthropic、AI開発ペースを測る3つの指標を公開",
-      "summary": "フロンティアAIの進化速度を追跡するための独自指標を発表した。(2026年9月18日)",
-      "source": "AI Watch(Impress)",
-      "link": "https://ai.watch.impress.co.jp/docs/news/2142120.html"
+      "title": "米半導体株が続伸、Micron・Intel・Armなどがけん引",
+      "summary": "9月17〜18日の米国市場でフィラデルフィア半導体指数が上昇し、Intelが7%超、Armが8%超、Micronも5%超上昇。Nvidiaのフアン氏によるチップ販売倍増発言などが投資家心理を支えた。",
+      "source": "NAI 500",
+      "link": "https://nai500.com/blog/2026/09/micron-intel-arm-lead-chip-rally/"
     },
     {
-      "title": "KDDI、Gemini活用のAIエージェント開発支援サービスを開始",
-      "summary": "GoogleのAI「Gemini」を活用した企業向けAIエージェント開発支援サービスを9月18日付で提供開始した。",
-      "source": "AI Watch(Impress)",
-      "link": "https://ai.watch.impress.co.jp/docs/news/2142083.html"
-    },
-    {
-      "title": "Cloudflare、「AI学習は拒否・検索はOK」を個別選択できる新設定を追加",
-      "summary": "コンテンツ提供者が検索クローラー・AI学習・AIエージェントへのアクセスをそれぞれ制御できる新機能を発表。2027年初頭にはAI要約向け制御も追加予定。(2026年9月18日)",
-      "source": "Impress Watch",
-      "link": "https://www.watch.impress.co.jp/docs/news/2142146.html"
-    },
-    {
-      "title": "NTTドコモビジネスら5社、分散データセンター×AI処理の「ワット・ビット連携」実証開始",
-      "summary": "AI処理需要の増加を見据え、電力(ワット)と通信(ビット)を連携させた分散型データセンターの実証実験を開始した。(2026年9月18日)",
-      "source": "AI Watch(Impress)",
-      "link": "https://ai.watch.impress.co.jp/docs/news/2142265.html"
-    },
-    {
-      "title": "DPVR、2000万画素カメラ搭載のAIグラス「G7」を2027年発売へ",
-      "summary": "高解像度カメラを備えたAIグラスの新製品を発表した。発売は2027年を予定している。(2026年9月18日)",
-      "source": "AI Watch(Impress)",
-      "link": "https://ai.watch.impress.co.jp/docs/news/2142182.html"
-    },
-    {
-      "title": "Genspark、個人有料会員向けに毎週更新の無料利用枠「Free Quota」を提供開始",
-      "summary": "有料プラン利用者が各種AI機能を追加コストなく試せる無料枠を新設した。(2026年9月18日)",
-      "source": "AI Watch(Impress)",
-      "link": "https://ai.watch.impress.co.jp/docs/news/2142193.html"
+      "title": "Waymo、ロボタクシーサービスをラスベガスで開始",
+      "summary": "Waymoは9月17日、ネバダ州ラスベガスで自動運転ロボタクシーサービスの提供を開始したと発表。デンバーやサンディエゴ、タンパに続く新規展開で、今後クラーク郡全域へのサービス拡大を目指す。",
+      "source": "techmymoney",
+      "link": "https://techmymoney.com/2026/09/17/waymo-robotaxis-are-now-available-in-las-vegas/"
     }
   ],
   "x_trending_tech": [
     {
-      "title": "MetaのAIエージェント「Muse」、Mac版が本日リリース",
-      "summary": "Mark Zuckerberg氏が、パーソナルAIエージェント「Muse」のMacアプリが利用可能になったと投稿。ファイル・カレンダー・メモ・メッセージなど複数アプリを横断操作できる。9/18朝の投稿。",
-      "source": "@finkd",
-      "link": "https://x.com/finkd/status/2100713341555712149"
-    },
-    {
-      "title": "セキュリティ企業、「ClaudeでOpenAIをハッキングした」経緯を公開し話題に",
-      "summary": "Hacktron AIが、Anthropic製Claude Opus 5を使いOpenAIの脆弱性を連鎖させてハッキングに成功した経緯をスレッドで公開、社内リポジトリへのPR作成まで実演したことが話題に。9/18昼過ぎの投稿。",
-      "source": "@HacktronAI",
-      "link": "https://x.com/HacktronAI/status/2100795824812777893"
+      "title": "Anthropicが物理生物学ラボを開設、Claudeに実験を指揮させる計画がXで拡散",
+      "summary": "Bloomberg速報アカウントが9/18午後7時頃（JST）、Anthropicがベイエリアにウェットラボを設置しClaudeに実験用ロボットを指揮させようとしていると報じるポストを投稿し、拡散した。",
+      "source": "@DeItaone",
+      "link": "https://x.com/DeItaone/status/2100889764740182424"
     }
   ]
 }
