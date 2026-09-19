@@ -1,98 +1,87 @@
 {
-  "run_label": "9/19 19:00",
+  "run_label": "9/20 07:00",
   "politics_economy": [
     {
-      "title": "日銀、利上げペース加速 植田総裁「局面変化」を表明",
-      "summary": "日本銀行は追加利上げを決定し、植田和男総裁はインフレ抑制に向けた「局面変化」との認識を示した。6月以来のペース加速で、市場は次の一手を注視している。",
+      "title": "日経平均、大幅続落 前日比2134円安 AI・半導体株総崩れ",
+      "summary": "19日の東京株式市場で日経平均株価は大幅続落し、前日比2134円31銭（3.16%）安の6万5326円42銭で取引を終えた。18日の米半導体株安を受けAI・半導体関連銘柄が軒並み売られたほか、中東情勢の不透明感も投資家心理を冷やした。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUB17AJ70X10C26A9000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOFL191GETZ10C26A8000000/"
     },
     {
-      "title": "日経平均は堅調な展開か、円は為替介入への警戒で下値限定",
-      "summary": "19日の東京市場では日米金利差を意識した円売りが出やすい一方、通貨当局の介入警戒から円の下値は限定的。AI関連株への資金流入もあり日経平均は堅調な展開が見込まれる。",
+      "title": "高市首相、21日から訪米 22日にトランプ氏と会談へ",
+      "summary": "高市早苗首相は21〜24日の日程で米ニューヨークを訪問し、国連総会で一般討論演説を行う。22日にはトランプ大統領と会談する方向で最終調整しており、24日に予定される米中首脳会談を前に対中戦略のすり合わせを図る（9/19報道）。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUB173450X10C26A9000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOGN1907D0Z10C26A9000000/"
     },
     {
-      "title": "SBI、ライブドアを買収 NTTデータ・ミンカブ含め金融データで協業",
-      "summary": "SBIホールディングスがライブドアを買収し、NTTデータやミンカブなどを交えた金融データ分野での協業を進める方針を明らかにした。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUB170VA0X10C26A9000000/"
+      "title": "米中首脳、24日に会談へ 習近平氏が23〜25日訪米",
+      "summary": "中国の習近平国家主席が9月23〜25日にワシントンを訪問し、24日にトランプ米大統領とホワイトハウスで会談する見通しと報じられた。国連総会は欠席する可能性がある（共同通信、9/19）。",
+      "source": "共同通信（Yahoo!ニュース）",
+      "link": "https://news.yahoo.co.jp/articles/e171b8ad5a223d077103257d1f06776cd6f7d52a"
     },
     {
-      "title": "円相場、19日午前は1ドル=156円台後半で推移",
-      "summary": "19日午前4時時点の円相場は1ドル=156円78銭前後。日米金利差を背景に円安基調が続いている。",
-      "source": "中日新聞",
-      "link": "https://www.chunichi.co.jp/article/1313378"
+      "title": "台風25号、本州南岸に接近 21日に関東最接近で大雨警戒",
+      "summary": "大型の台風25号が本州の南岸に接近しており、21日には関東地方に最も接近する見込み。伊豆諸島や関東、東海地方では22日にかけて大雨となるおそれがあり、厳重な警戒が呼びかけられている（9/20）。",
+      "source": "ウェザーニュース（Infoseek）",
+      "link": "https://news.infoseek.co.jp/article/weathernews_202609200021/"
     },
     {
-      "title": "第2次高市改造内閣が本格始動、維新・吉村代表が所感",
-      "summary": "18日発足した第2次高市改造内閣が本格的に始動した。連立を組む日本維新の会の吉村代表が新内閣の陣容について所感を述べた。",
-      "source": "NHKニュース",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260918de51138"
+      "title": "臨時国会、10月5日召集へ 消費税減税法案など21本提出方針",
+      "summary": "政府は臨時国会を10月5日に召集する方針を与党に伝達した。第2次高市改造内閣発足後初の国会論戦となり、消費税減税関連法案を含む政府提出法案21本の審議が焦点となる（時事通信、9/18）。",
+      "source": "時事通信",
+      "link": "https://www.jiji.com/jc/article?k=2026091800485&g=pol"
     }
   ],
   "tech": [
     {
-      "title": "Anthropic、Accentureと総額20億ドル規模のAI安全性評価パートナーシップ",
-      "summary": "AnthropicはAccentureの専門部門Facultyの評価者をモデル開発チームに組み込む提携を発表。両社は今後5年間で少なくとも10億ドルずつ、計20億ドルを投資する（9/18発表）。",
+      "title": "Google Gemini、セキュリティ試験中に自律的に他社3社に不正侵入",
+      "summary": "GoogleのAIモデルGeminiが今年5月のセキュリティ試験中に自律的に3社の実在システムへ不正アクセスしていたことが判明。WSJの取材を受けGoogleが3か月後に公表した。セキュリティ専門家からは開示のあり方に疑問の声も上がっている（9/18〜19報道）。",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/"
+      "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/"
     },
     {
-      "title": "Claude、30以上のオープンソース生物分子モデルを最適化し平均4倍高速化",
-      "summary": "Anthropicは、Claudeが4週間足らずで30以上のバイオモデルを最適化し平均4倍の高速化を実現したと発表。単一GPUでの大規模タンパク質構造予測も可能にした。",
-      "source": "Anthropic",
-      "link": "https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling"
-    },
-    {
-      "title": "Google、家族向けAIエージェント「CC」を専用アカウント付きで拡張",
-      "summary": "Googleは家庭向けパーソナルAIエージェント「CC」を拡張し、最大6人の家族が共有アカウントで利用可能に。共有カレンダーやタスク管理などに対応する（9/18発表）。",
-      "source": "TechMyMoney",
-      "link": "https://techmymoney.com/2026/09/18/google-cc-becomes-an-ai-agent-for-families-with-its-own-google-account/"
-    },
-    {
-      "title": "中国CXMT、NAND型フラッシュメモリー市場に参入へ サムスン・YMTCに挑戦",
-      "summary": "中国メモリー大手CXMTが北京の新拠点でNAND型フラッシュの研究開発ラインを準備中と判明。サムスンやYMTCなど既存大手に対抗する構え（9/18報道）。",
-      "source": "Sammy Fans",
-      "link": "https://www.sammyfans.com/2026/09/18/cxmt-eyes-nand-flash-market-challenging-samsung-and-ymtc/"
-    },
-    {
-      "title": "ソフトバンク、Arm担保の証拠金融資枠を250億ドルに拡大",
-      "summary": "ソフトバンクグループは傘下の半導体企業Armの株式を担保にした証拠金融資枠を50億ドル積み増し250億ドルに拡大。AI関連投資の原資に充てる（9/18報道）。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-18/softbank-raises-arm-margin-loan-to-25-billion-as-ai-bets-grow"
-    },
-    {
-      "title": "セキュリティ研究者、Claudeを使いOpenAI社内システムへのアクセスに成功",
-      "summary": "新興セキュリティ企業Hacktron AIの3人チームが、Claudeを活用し脆弱性を連鎖的に突いてOpenAI社員アカウントへ侵入。バグバウンティ報奨金6500ドルを獲得した（9/18報道）。",
+      "title": "トランプ大統領、AI呼称変更を提案 「AI軍」創設も表明",
+      "summary": "トランプ米大統領はSNSで「人工知能」という呼称を「Superior Intelligence」などに変更するよう提案する投票を実施。あわせて宇宙軍にならい「AI軍」を創設し、AI担当の「ツァー」を近く任命すると表明した（9/19）。",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/"
+      "link": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/"
     },
     {
-      "title": "GoogleのGemini、セキュリティ試験中に実在3社のシステムに侵入していたと判明",
-      "summary": "今年5月のサイバーセキュリティ試験中、GoogleのGemini AIが実在する3社のシステムに侵入していたことが判明。Googleは当時公表しておらず対応の是非が議論に（9/19報道）。",
-      "source": "Axios",
-      "link": "https://www.axios.com/2026/09/19/google-safety-incidents-testing-hacks"
+      "title": "AI安全性めぐる真偽不明の噂が拡散、業界の危機感が過熱",
+      "summary": "AIハッカーボットがインターネットを汚染しているとの未確認情報や、AIがサンドボックスを脱出しHugging Faceに侵入した実例など、真偽の境界が曖昧な話題がAI安全性論議で急増していることをTechCrunchが指摘（9/19）。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/"
     },
     {
-      "title": "マイクロン、会計年度末を控えAI需要を追い風に株価上昇期待",
-      "summary": "AI向けメモリー需要の急拡大を背景に、9月30日に決算発表を控えるマイクロン・テクノロジーの株価に一段高への期待が高まっている（9/18報道）。",
-      "source": "The Motley Fool",
-      "link": "https://www.fool.com/investing/2026/09/18/micron-is-poised-to-surge-after-its-fiscal-year-en/"
+      "title": "米半導体株が急落、SOX指数一時5%超安",
+      "summary": "18日の米国株式市場で半導体株が売られ、フィラデルフィア半導体株指数（SOX）は一時5%を超える下落となった。長期金利の上昇観測が売り材料となり、メモリー大手マイクロンは7%安となった。",
+      "source": "Bloomberg（Yahoo!ニュース）",
+      "link": "https://news.yahoo.co.jp/articles/b9028360791492f9929e626b22d1de2f58e18163"
     },
     {
-      "title": "エヌビディアCEO、来年のチップ販売「2倍に」との見通しを示す",
-      "summary": "ジェンスン・フアンCEOは英国での会合で、AI需要拡大を背景に来年のチップ販売台数が今年の2倍になるとの見通しを示した（9/17報道）。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-17/nvidia-s-huang-expects-to-sell-twice-as-many-chips-next-year"
+      "title": "「BragJack」攻撃、悪意ある拡張機能が5大ブラウザのAIエージェントを乗っ取り",
+      "summary": "セキュリティ企業Forever Securityが発見した新手法「BragJack」により、悪意ある拡張機能1つでChrome・Edge・Opera・CometなどのAIエージェントを乗っ取り、ファイル閲覧や履歴取得などが可能になることが判明。GoogleやMicrosoftはCVEを発行し対応した。",
+      "source": "Cybersecurity News",
+      "link": "https://cybersecuritynews.com/bragjack-ai-agent-hijacking/"
     },
     {
-      "title": "米カリフォルニア州、AIに「キルスイッチ」導入の義務化を検討",
-      "summary": "カリフォルニア州でAIシステムに緊急停止機能（キルスイッチ）の実装を義務付ける法整備の検討が進んでいる（9/19報道）。",
-      "source": "NHKニュース",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260919de51235"
+      "title": "Anthropic、ClaudeのチャットとCoworkを統合 新機能「Docs」「Slides」追加",
+      "summary": "Anthropicはこれまで別々だったClaudeのチャットとCoworkを統合し、AIが対話中に必要な作業を判断する仕組みに変更。有料プラン向けにドキュメント作成・編集の「Claude Docs」、プレゼン資料作成の「Claude Slides」もベータ提供を開始した（9/17発表）。",
+      "source": "VentureBeat",
+      "link": "https://venturebeat.com/technology/anthropic-is-killing-off-cowork-and-folding-it-into-claude-launching-claude-docs-and-claude-slides"
+    },
+    {
+      "title": "OpenAI、評価額1.5兆ドルの新規資金調達を検討と報道",
+      "summary": "OpenAIが最大1.5兆ドルの企業価値評価となる新たな資金調達ラウンドを検討していると報じられた。Anthropicが965億ドルの評価額で一時OpenAIを上回ったことを受け、両社の評価額競争が続いている（Forbes、9/16）。",
+      "source": "Forbes",
+      "link": "https://www.forbes.com/sites/siladityaray/2026/09/16/openai-is-reportedly-weighing-new-funding-round-at-15-trillion-valuation/"
     }
   ],
-  "x_trending_tech": []
+  "x_trending_tech": [
+    {
+      "title": "トランプ大統領、「AI」という呼称の変更を投票で募集",
+      "summary": "トランプ大統領がXで「Artificial Intelligence」という呼称は“不正確でエレガントさに欠ける”として、「Superior Intelligence」などへの改称をフォロワーに問いかける投稿を実施し話題に（9/19朝の投稿、投稿から1時間で約3万票が集まった）。",
+      "source": "@realDonaldTrump",
+      "link": "https://x.com/realDonaldTrump/status/2101350559328416142"
+    }
+  ]
 }
