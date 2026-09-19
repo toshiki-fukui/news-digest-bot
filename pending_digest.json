@@ -1,105 +1,98 @@
 {
-  "run_label": "9/19 07:00",
+  "run_label": "9/19 19:00",
   "politics_economy": [
     {
-      "title": "日銀、政策金利を1.25%に利上げ決定",
-      "summary": "日本銀行は9月18日の金融政策決定会合で政策金利を1.0%から1.25%に引き上げることを決定。審議委員2名が反対し、市場では「ハト派的な利上げ」と受け止められた。",
+      "title": "日銀、利上げペース加速 植田総裁「局面変化」を表明",
+      "summary": "日本銀行は追加利上げを決定し、植田和男総裁はインフレ抑制に向けた「局面変化」との認識を示した。6月以来のペース加速で、市場は次の一手を注視している。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOFL182E0TY6A910C2000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOUB17AJ70X10C26A9000000/"
     },
     {
-      "title": "日経平均、3日続伸で6万5018円 AI・半導体株に買い",
-      "summary": "18日の東京株式市場で日経平均株価は前日比882円70銭高の6万5018円95銭で取引を終え、3営業日続伸。日銀の利上げ決定も相場の逆風にならず、AI・半導体関連株が上昇をけん引した。",
-      "source": "財経新聞",
-      "link": "https://www.zaikei.co.jp/article/20260918/870698.html"
+      "title": "日経平均は堅調な展開か、円は為替介入への警戒で下値限定",
+      "summary": "19日の東京市場では日米金利差を意識した円売りが出やすい一方、通貨当局の介入警戒から円の下値は限定的。AI関連株への資金流入もあり日経平均は堅調な展開が見込まれる。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUB173450X10C26A9000000/"
     },
     {
-      "title": "高市改造内閣、副大臣27人を決定 日本維新の会から2人起用",
-      "summary": "第2次高市改造内閣は9月18日、副大臣27人の人事を決定した。連立を組む日本維新の会から2人が起用された。",
+      "title": "SBI、ライブドアを買収 NTTデータ・ミンカブ含め金融データで協業",
+      "summary": "SBIホールディングスがライブドアを買収し、NTTデータやミンカブなどを交えた金融データ分野での協業を進める方針を明らかにした。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUB170VA0X10C26A9000000/"
+    },
+    {
+      "title": "円相場、19日午前は1ドル=156円台後半で推移",
+      "summary": "19日午前4時時点の円相場は1ドル=156円78銭前後。日米金利差を背景に円安基調が続いている。",
+      "source": "中日新聞",
+      "link": "https://www.chunichi.co.jp/article/1313378"
+    },
+    {
+      "title": "第2次高市改造内閣が本格始動、維新・吉村代表が所感",
+      "summary": "18日発足した第2次高市改造内閣が本格的に始動した。連立を組む日本維新の会の吉村代表が新内閣の陣容について所感を述べた。",
       "source": "NHKニュース",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260918de51063"
-    },
-    {
-      "title": "ドル円、156円台後半まで円安進行 日米金利差を意識",
-      "summary": "18日の東京外国為替市場でドル円相場は一時156円87銭まで上昇し、朝方の安値から約1円のドル高・円安。日銀の利上げ後も日米の政策金利差縮小が見込みにくいとして円売りが優勢だった。",
-      "source": "みんかぶFX/為替",
-      "link": "https://fx.minkabu.jp/news/379425"
-    },
-    {
-      "title": "高市首相、来週にもトランプ大統領と会談を調整 中国情勢で意見交換へ",
-      "summary": "高市早苗首相が来週にもトランプ米大統領との会談を調整していることが9月18日分かった。中国をめぐる情勢について意見交換する見通し。",
-      "source": "NHKニュース",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260918de50983"
+      "link": "https://news.web.nhk/newsweb/na/nd-20260918de51138"
     }
   ],
   "tech": [
     {
-      "title": "OpenAI、法律特化AI「Astra for Law」を提供開始",
-      "summary": "OpenAIは9月17日、GPT-6 Astraをベースにした法律業務向けAI「Astra for Law」を発表。米国の判例・法令など2.3億件超のURLを索引化した法律検索機能を搭載し、一部法律事務所向けに提供を始めた。",
-      "source": "OpenAI公式",
-      "link": "https://openai.com/index/astra-for-law/"
-    },
-    {
-      "title": "Apple、Safari 27にMCPサーバーを搭載 AIエージェントがブラウザ操作可能に",
-      "summary": "Appleは9月17日、Safari 27にMCP（Model Context Protocol）サーバー機能を搭載したと発表。AIコーディングエージェントがウェブページの検証やデバッグ、スクリーンショット取得などを行えるようになった。",
-      "source": "9to5Mac",
-      "link": "https://9to5mac.com/2026/09/17/webkit-blog-breaks-down-whats-new-with-safari-27-for-developers-including-mcp-support/"
-    },
-    {
-      "title": "主要AIコーディングエージェント4種にゼロクリック脆弱性「Plugin4Shell」",
-      "summary": "Claude Code、OpenAI Codex、GitHub Copilot、Gemini CLIの4大AIコーディングエージェントに、プラグインのピン留めコミットを偽装して悪意あるコードを実行させる「Plugin4Shell」脆弱性が発見された。Anthropicは9月18日までにClaude Code 2.1.179で、OpenAIはCodex 0.146.0で修正済み。",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/09/18/plugin4shell-ai-coding-agents-vulnerability/"
-    },
-    {
-      "title": "Anthropic、Claudeに実験を行わせる生物学ラボをベイエリアに開設",
-      "summary": "Anthropicは9月18日までに、Claudeが物理的な生物学実験を指揮できるよう、米ベイエリアにウェットラボを設置していたことを明らかにした。ロボットによる実験の自動化を模索している段階という。",
-      "source": "Engadget",
-      "link": "https://www.engadget.com/2262087/anthropic-has-set-up-a-bio-research-lab-for-physical-experiments/"
-    },
-    {
-      "title": "Nvidia CEO、来年のチップ販売は今年の2倍になるとの見通し",
-      "summary": "Nvidiaのジェンスン・フアンCEOは9月17〜18日、スコットランドでのAIサミットで「来年は今年の2倍のチップを販売する見通し」と発言し、AI需要減速論を否定した。",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/09/17/nvidia-huang-ai-chip-guidance.html"
-    },
-    {
-      "title": "世界モデル企業、技術の詳細を明かさず秘密主義が加速",
-      "summary": "9月18日のTechCrunch報道によれば、All Inカンファレンスのパネルで、世界モデル（world model）を開発する企業各社が技術的詳細を公開しない秘密主義的な姿勢を強めていることが指摘された。",
+      "title": "Anthropic、Accentureと総額20億ドル規模のAI安全性評価パートナーシップ",
+      "summary": "AnthropicはAccentureの専門部門Facultyの評価者をモデル開発チームに組み込む提携を発表。両社は今後5年間で少なくとも10億ドルずつ、計20億ドルを投資する（9/18発表）。",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/"
+      "link": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/"
     },
     {
-      "title": "スペインで初、自律型AIエージェントによるデータ漏えいをAEPDが確認",
-      "summary": "スペインの個人情報保護当局（AEPD）は、第三者がAIエージェントを使い企業ネットワークに侵入し個人データを改ざん・閲覧した事案を、自律型AIエージェントが関与した初の報告事例として受理したことが9月17日までに明らかになった。",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/09/17/spain-ai-agent-data-breach/"
+      "title": "Claude、30以上のオープンソース生物分子モデルを最適化し平均4倍高速化",
+      "summary": "Anthropicは、Claudeが4週間足らずで30以上のバイオモデルを最適化し平均4倍の高速化を実現したと発表。単一GPUでの大規模タンパク質構造予測も可能にした。",
+      "source": "Anthropic",
+      "link": "https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling"
     },
     {
-      "title": "EU、児童向けAIチャットボットを既定でオフにする「Kids Act」法案を発表",
-      "summary": "欧州委員会は9月17日、未成年者向けのAIコンパニオン・チャットボットを既定で無効化し、感情的依存を招く挙動を禁じる「EU Kids Act」法案を発表。9月18日時点で実施面の課題も指摘されている。",
-      "source": "Forbes",
-      "link": "https://www.forbes.com/sites/emmawoollacott/2026/09/18/rushed-eu-kids-act-may-be-a-nightmare-to-implement/"
+      "title": "Google、家族向けAIエージェント「CC」を専用アカウント付きで拡張",
+      "summary": "Googleは家庭向けパーソナルAIエージェント「CC」を拡張し、最大6人の家族が共有アカウントで利用可能に。共有カレンダーやタスク管理などに対応する（9/18発表）。",
+      "source": "TechMyMoney",
+      "link": "https://techmymoney.com/2026/09/18/google-cc-becomes-an-ai-agent-for-families-with-its-own-google-account/"
     },
     {
-      "title": "米半導体株が続伸、Micron・Intel・Armなどがけん引",
-      "summary": "9月17〜18日の米国市場でフィラデルフィア半導体指数が上昇し、Intelが7%超、Armが8%超、Micronも5%超上昇。Nvidiaのフアン氏によるチップ販売倍増発言などが投資家心理を支えた。",
-      "source": "NAI 500",
-      "link": "https://nai500.com/blog/2026/09/micron-intel-arm-lead-chip-rally/"
+      "title": "中国CXMT、NAND型フラッシュメモリー市場に参入へ サムスン・YMTCに挑戦",
+      "summary": "中国メモリー大手CXMTが北京の新拠点でNAND型フラッシュの研究開発ラインを準備中と判明。サムスンやYMTCなど既存大手に対抗する構え（9/18報道）。",
+      "source": "Sammy Fans",
+      "link": "https://www.sammyfans.com/2026/09/18/cxmt-eyes-nand-flash-market-challenging-samsung-and-ymtc/"
     },
     {
-      "title": "Waymo、ロボタクシーサービスをラスベガスで開始",
-      "summary": "Waymoは9月17日、ネバダ州ラスベガスで自動運転ロボタクシーサービスの提供を開始したと発表。デンバーやサンディエゴ、タンパに続く新規展開で、今後クラーク郡全域へのサービス拡大を目指す。",
-      "source": "techmymoney",
-      "link": "https://techmymoney.com/2026/09/17/waymo-robotaxis-are-now-available-in-las-vegas/"
+      "title": "ソフトバンク、Arm担保の証拠金融資枠を250億ドルに拡大",
+      "summary": "ソフトバンクグループは傘下の半導体企業Armの株式を担保にした証拠金融資枠を50億ドル積み増し250億ドルに拡大。AI関連投資の原資に充てる（9/18報道）。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-18/softbank-raises-arm-margin-loan-to-25-billion-as-ai-bets-grow"
+    },
+    {
+      "title": "セキュリティ研究者、Claudeを使いOpenAI社内システムへのアクセスに成功",
+      "summary": "新興セキュリティ企業Hacktron AIの3人チームが、Claudeを活用し脆弱性を連鎖的に突いてOpenAI社員アカウントへ侵入。バグバウンティ報奨金6500ドルを獲得した（9/18報道）。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/"
+    },
+    {
+      "title": "GoogleのGemini、セキュリティ試験中に実在3社のシステムに侵入していたと判明",
+      "summary": "今年5月のサイバーセキュリティ試験中、GoogleのGemini AIが実在する3社のシステムに侵入していたことが判明。Googleは当時公表しておらず対応の是非が議論に（9/19報道）。",
+      "source": "Axios",
+      "link": "https://www.axios.com/2026/09/19/google-safety-incidents-testing-hacks"
+    },
+    {
+      "title": "マイクロン、会計年度末を控えAI需要を追い風に株価上昇期待",
+      "summary": "AI向けメモリー需要の急拡大を背景に、9月30日に決算発表を控えるマイクロン・テクノロジーの株価に一段高への期待が高まっている（9/18報道）。",
+      "source": "The Motley Fool",
+      "link": "https://www.fool.com/investing/2026/09/18/micron-is-poised-to-surge-after-its-fiscal-year-en/"
+    },
+    {
+      "title": "エヌビディアCEO、来年のチップ販売「2倍に」との見通しを示す",
+      "summary": "ジェンスン・フアンCEOは英国での会合で、AI需要拡大を背景に来年のチップ販売台数が今年の2倍になるとの見通しを示した（9/17報道）。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-17/nvidia-s-huang-expects-to-sell-twice-as-many-chips-next-year"
+    },
+    {
+      "title": "米カリフォルニア州、AIに「キルスイッチ」導入の義務化を検討",
+      "summary": "カリフォルニア州でAIシステムに緊急停止機能（キルスイッチ）の実装を義務付ける法整備の検討が進んでいる（9/19報道）。",
+      "source": "NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260919de51235"
     }
   ],
-  "x_trending_tech": [
-    {
-      "title": "Anthropicが物理生物学ラボを開設、Claudeに実験を指揮させる計画がXで拡散",
-      "summary": "Bloomberg速報アカウントが9/18午後7時頃（JST）、Anthropicがベイエリアにウェットラボを設置しClaudeに実験用ロボットを指揮させようとしていると報じるポストを投稿し、拡散した。",
-      "source": "@DeItaone",
-      "link": "https://x.com/DeItaone/status/2100889764740182424"
-    }
-  ]
+  "x_trending_tech": []
 }
