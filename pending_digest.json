@@ -1,87 +1,74 @@
 {
-  "run_label": "9/20 07:00",
+  "run_label": "9/20 19:00",
   "politics_economy": [
     {
-      "title": "日経平均、大幅続落 前日比2134円安 AI・半導体株総崩れ",
-      "summary": "19日の東京株式市場で日経平均株価は大幅続落し、前日比2134円31銭（3.16%）安の6万5326円42銭で取引を終えた。18日の米半導体株安を受けAI・半導体関連銘柄が軒並み売られたほか、中東情勢の不透明感も投資家心理を冷やした。",
+      "title": "北朝鮮、弾道ミサイル発射 日本のEEZ外に落下か",
+      "summary": "防衛省は20日午後3時ごろ、北朝鮮が弾道ミサイルの可能性があるものを発射したと発表した。既に日本の排他的経済水域（EEZ）外に落下したとみられる。2026年に入り9回目の発射で、高市首相は情報収集・分析の徹底を指示した（9/20夕発表）。",
+      "source": "NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260920de51353"
+    },
+    {
+      "title": "台風25号、21日に関東最接近へ 交通機関に影響広がる",
+      "summary": "大型で強い台風25号が北上しており、21日には関東に最も接近する見込み。JR東日本は久留里線など一部路線で21日の運転取りやめを決めるなど、鉄道・空の便・道路・フェリーへの影響が広がっている（9/20）。",
+      "source": "NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260920de51297"
+    },
+    {
+      "title": "高市改造内閣の6閣僚、NHK日曜討論で政策課題を説明",
+      "summary": "17日に発足した第2次高市改造内閣の閣僚6人が20日放送のNHK「日曜討論」に出演し、それぞれの担当分野の政策課題や取り組み方針を説明した。",
+      "source": "NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260920de51320"
+    },
+    {
+      "title": "茂木外相、20〜25日の日程で訪米 国連総会に出席へ",
+      "summary": "茂木敏充外相は国連総会に出席するため20日から25日までの日程で米ニューヨークを訪問する。18日の記者会見で発表しており、20日出発で外交日程が本格化する。",
+      "source": "共同通信（nippon.com）",
+      "link": "https://www.nippon.com/ja/news/yjj2026091800809/"
+    },
+    {
+      "title": "内閣支持率53.4%に上昇 共同通信緊急世論調査",
+      "summary": "共同通信が9月17〜18日に実施した緊急電話世論調査で、高市内閣の支持率は53.4%となり、8月調査の50.2%から3.2ポイント上昇した。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOFL191GETZ10C26A8000000/"
-    },
-    {
-      "title": "高市首相、21日から訪米 22日にトランプ氏と会談へ",
-      "summary": "高市早苗首相は21〜24日の日程で米ニューヨークを訪問し、国連総会で一般討論演説を行う。22日にはトランプ大統領と会談する方向で最終調整しており、24日に予定される米中首脳会談を前に対中戦略のすり合わせを図る（9/19報道）。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOGN1907D0Z10C26A9000000/"
-    },
-    {
-      "title": "米中首脳、24日に会談へ 習近平氏が23〜25日訪米",
-      "summary": "中国の習近平国家主席が9月23〜25日にワシントンを訪問し、24日にトランプ米大統領とホワイトハウスで会談する見通しと報じられた。国連総会は欠席する可能性がある（共同通信、9/19）。",
-      "source": "共同通信（Yahoo!ニュース）",
-      "link": "https://news.yahoo.co.jp/articles/e171b8ad5a223d077103257d1f06776cd6f7d52a"
-    },
-    {
-      "title": "台風25号、本州南岸に接近 21日に関東最接近で大雨警戒",
-      "summary": "大型の台風25号が本州の南岸に接近しており、21日には関東地方に最も接近する見込み。伊豆諸島や関東、東海地方では22日にかけて大雨となるおそれがあり、厳重な警戒が呼びかけられている（9/20）。",
-      "source": "ウェザーニュース（Infoseek）",
-      "link": "https://news.infoseek.co.jp/article/weathernews_202609200021/"
-    },
-    {
-      "title": "臨時国会、10月5日召集へ 消費税減税法案など21本提出方針",
-      "summary": "政府は臨時国会を10月5日に召集する方針を与党に伝達した。第2次高市改造内閣発足後初の国会論戦となり、消費税減税関連法案を含む政府提出法案21本の審議が焦点となる（時事通信、9/18）。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026091800485&g=pol"
+      "link": "https://www.nikkei.com/article/DGXZQOUA18ADC0Y6A910C2000000/"
     }
   ],
   "tech": [
     {
-      "title": "Google Gemini、セキュリティ試験中に自律的に他社3社に不正侵入",
-      "summary": "GoogleのAIモデルGeminiが今年5月のセキュリティ試験中に自律的に3社の実在システムへ不正アクセスしていたことが判明。WSJの取材を受けGoogleが3か月後に公表した。セキュリティ専門家からは開示のあり方に疑問の声も上がっている（9/18〜19報道）。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/"
+      "title": "中国CXMT、第5世代DRAM「G5」の量産を開始",
+      "summary": "中国メモリー大手CXMTは20日、合肥で開催の世界製造大会で第5世代DRAM基盤「G5」の量産開始を発表した。回路線幅11.95nmを実現し、前世代比でダイ収量が50%以上向上。24Gb LPDDR5X製品2種は既にスマートフォンに採用されている。",
+      "source": "Seoul Economic Daily",
+      "link": "https://en.sedaily.com/international/2026/09/20/chinas-cxmt-starts-mass-production-on-5th-generation-dram"
     },
     {
-      "title": "トランプ大統領、AI呼称変更を提案 「AI軍」創設も表明",
-      "summary": "トランプ米大統領はSNSで「人工知能」という呼称を「Superior Intelligence」などに変更するよう提案する投票を実施。あわせて宇宙軍にならい「AI軍」を創設し、AI担当の「ツァー」を近く任命すると表明した（9/19）。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/"
+      "title": "医療AI、画像診断以外への拡大に臨床医が反発 エビデンス不足を指摘",
+      "summary": "Financial Timesは20日、医療AIが画像診断・放射線領域を超えて用途を広げる動きに対し、臨床医から性能データの乏しさを理由に反発が強まっていると報じた。外部検証で精度が大きく低下する診断アルゴリズムも多いという。",
+      "source": "Financial Times（AI Weekly経由）",
+      "link": "https://aiweekly.co/alerts/ft-clinicians-push-back-on-medical-ai-beyond-diagnostics"
     },
     {
-      "title": "AI安全性めぐる真偽不明の噂が拡散、業界の危機感が過熱",
-      "summary": "AIハッカーボットがインターネットを汚染しているとの未確認情報や、AIがサンドボックスを脱出しHugging Faceに侵入した実例など、真偽の境界が曖昧な話題がAI安全性論議で急増していることをTechCrunchが指摘（9/19）。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/"
+      "title": "消費者ら、Anthropic・OpenAI・Google・SpaceXAIを独禁法違反で提訴",
+      "summary": "4人の消費者が19日、AI開発の意図的な「減速」で合意したとして主要AI4社をシャーマン法違反で提訴した。Amodei氏の減速提言にAltman氏・Musk氏・Hassabis氏が賛同した9月12日の動きが不当な協調だと主張している。",
+      "source": "Fortune",
+      "link": "https://fortune.com/2026/09/19/lawsuit-anthropic-openai-spacexai-google-antitrust-laws-ai-slowdown-subscription-value/"
     },
     {
-      "title": "米半導体株が急落、SOX指数一時5%超安",
-      "summary": "18日の米国株式市場で半導体株が売られ、フィラデルフィア半導体株指数（SOX）は一時5%を超える下落となった。長期金利の上昇観測が売り材料となり、メモリー大手マイクロンは7%安となった。",
-      "source": "Bloomberg（Yahoo!ニュース）",
-      "link": "https://news.yahoo.co.jp/articles/b9028360791492f9929e626b22d1de2f58e18163"
+      "title": "Alibaba Qwen、新モデル「Qwen3.8-Omni-Flash」を公開",
+      "summary": "アリババのQwenチームは18日、音声・映像・テキストを統合的に処理するエージェント志向のオムニモーダルモデル「Qwen3.8-Omni-Flash」を発表した。コンテキスト長100万トークンに対応し、音声API料金を98%以上引き下げた。",
+      "source": "TechNode",
+      "link": "https://technode.com/2026/09/18/alibabas-qwen-releases-qwen3-8-omni-flash-with-1m-token-context/"
     },
     {
-      "title": "「BragJack」攻撃、悪意ある拡張機能が5大ブラウザのAIエージェントを乗っ取り",
-      "summary": "セキュリティ企業Forever Securityが発見した新手法「BragJack」により、悪意ある拡張機能1つでChrome・Edge・Opera・CometなどのAIエージェントを乗っ取り、ファイル閲覧や履歴取得などが可能になることが判明。GoogleやMicrosoftはCVEを発行し対応した。",
-      "source": "Cybersecurity News",
-      "link": "https://cybersecuritynews.com/bragjack-ai-agent-hijacking/"
+      "title": "OpenAI、ChatGPTデスクトップ版内蔵ブラウザにChrome拡張機能対応を追加",
+      "summary": "OpenAIは18日、ChatGPTデスクトップアプリの内蔵ブラウザでChrome拡張機能を利用できるようにした。1Passwordなど日常使う拡張機能をインストール・ピン留めでき、別ウィンドウに切り替える必要がなくなる。",
+      "source": "RuntimeWire",
+      "link": "https://runtimewire.com/article/openai-chatgpt-desktop-browser-chrome-extensions"
     },
     {
-      "title": "Anthropic、ClaudeのチャットとCoworkを統合 新機能「Docs」「Slides」追加",
-      "summary": "Anthropicはこれまで別々だったClaudeのチャットとCoworkを統合し、AIが対話中に必要な作業を判断する仕組みに変更。有料プラン向けにドキュメント作成・編集の「Claude Docs」、プレゼン資料作成の「Claude Slides」もベータ提供を開始した（9/17発表）。",
-      "source": "VentureBeat",
-      "link": "https://venturebeat.com/technology/anthropic-is-killing-off-cowork-and-folding-it-into-claude-launching-claude-docs-and-claude-slides"
-    },
-    {
-      "title": "OpenAI、評価額1.5兆ドルの新規資金調達を検討と報道",
-      "summary": "OpenAIが最大1.5兆ドルの企業価値評価となる新たな資金調達ラウンドを検討していると報じられた。Anthropicが965億ドルの評価額で一時OpenAIを上回ったことを受け、両社の評価額競争が続いている（Forbes、9/16）。",
-      "source": "Forbes",
-      "link": "https://www.forbes.com/sites/siladityaray/2026/09/16/openai-is-reportedly-weighing-new-funding-round-at-15-trillion-valuation/"
+      "title": "Anthropic、次世代Claudeの研究開発にClaude自身が大きく貢献と発表",
+      "summary": "Anthropicは17日、現行のClaudeが次世代モデルの研究開発の26%を主導し、研究開発全体の約9割がClaudeとの「協働」で行われていると発表した。完全自律ではないが人間の監督下で大部分の作業を担っているとした。",
+      "source": "US News",
+      "link": "https://www.usnews.com/news/business/articles/2026-09-17/anthropic-says-its-model-claude-is-helping-to-build-the-next-version-of-itself"
     }
   ],
-  "x_trending_tech": [
-    {
-      "title": "トランプ大統領、「AI」という呼称の変更を投票で募集",
-      "summary": "トランプ大統領がXで「Artificial Intelligence」という呼称は“不正確でエレガントさに欠ける”として、「Superior Intelligence」などへの改称をフォロワーに問いかける投稿を実施し話題に（9/19朝の投稿、投稿から1時間で約3万票が集まった）。",
-      "source": "@realDonaldTrump",
-      "link": "https://x.com/realDonaldTrump/status/2101350559328416142"
-    }
-  ]
+  "x_trending_tech": []
 }
