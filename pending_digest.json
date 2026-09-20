@@ -1,74 +1,87 @@
 {
-  "run_label": "9/20 19:00",
+  "run_label": "9/21 07:00",
   "politics_economy": [
     {
-      "title": "北朝鮮、弾道ミサイル発射 日本のEEZ外に落下か",
-      "summary": "防衛省は20日午後3時ごろ、北朝鮮が弾道ミサイルの可能性があるものを発射したと発表した。既に日本の排他的経済水域（EEZ）外に落下したとみられる。2026年に入り9回目の発射で、高市首相は情報収集・分析の徹底を指示した（9/20夕発表）。",
+      "title": "高市首相、国連総会演説で中東エネルギー協力計画の策定を表明へ",
+      "summary": "高市早苗首相は21日から24日の日程で訪米し、22日夜(日本時間23日昼)の国連総会一般討論演説で、中東情勢を踏まえ湾岸諸国のエネルギー強靱化に向けた協力計画の策定を表明する見通し(9/20夜〜9/21朝報道)。",
       "source": "NHKニュース",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260920de51353"
+      "link": "https://news.web.nhk/newsweb/na/nd-20260921de51459"
     },
     {
-      "title": "台風25号、21日に関東最接近へ 交通機関に影響広がる",
-      "summary": "大型で強い台風25号が北上しており、21日には関東に最も接近する見込み。JR東日本は久留里線など一部路線で21日の運転取りやめを決めるなど、鉄道・空の便・道路・フェリーへの影響が広がっている（9/20）。",
-      "source": "NHKニュース",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260920de51297"
-    },
-    {
-      "title": "高市改造内閣の6閣僚、NHK日曜討論で政策課題を説明",
-      "summary": "17日に発足した第2次高市改造内閣の閣僚6人が20日放送のNHK「日曜討論」に出演し、それぞれの担当分野の政策課題や取り組み方針を説明した。",
-      "source": "NHKニュース",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260920de51320"
-    },
-    {
-      "title": "茂木外相、20〜25日の日程で訪米 国連総会に出席へ",
-      "summary": "茂木敏充外相は国連総会に出席するため20日から25日までの日程で米ニューヨークを訪問する。18日の記者会見で発表しており、20日出発で外交日程が本格化する。",
-      "source": "共同通信（nippon.com）",
-      "link": "https://www.nippon.com/ja/news/yjj2026091800809/"
-    },
-    {
-      "title": "内閣支持率53.4%に上昇 共同通信緊急世論調査",
-      "summary": "共同通信が9月17〜18日に実施した緊急電話世論調査で、高市内閣の支持率は53.4%となり、8月調査の50.2%から3.2ポイント上昇した。",
+      "title": "日米首脳、22日軸に会談調整 米中会談前に対中政策すり合わせ",
+      "summary": "日米両政府は高市首相とトランプ大統領の会談をニューヨークで22日に開く方向で調整しており、24日の米中首脳会談を前に対中認識のすり合わせを図る狙いがある(9/20報道)。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUA18ADC0Y6A910C2000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOUA184AJ0Y6A910C2000000/"
+    },
+    {
+      "title": "農相、備蓄米を早期に追加買い戻し「需給調整ではない」",
+      "summary": "簗和生農相は9/20、食料安全保障の観点から政府備蓄米を早期に追加で買い戻す方針を表明し、米需給の直接調整が目的ではないと強調した。",
+      "source": "共同通信(中日新聞)",
+      "link": "https://www.chunichi.co.jp/article/1313983"
+    },
+    {
+      "title": "対日レアアース磁石輸出、8月は前年比17%減も200トン台に回復",
+      "summary": "中国税関総署が9/20公表した貿易統計によると、8月の対日レアアース磁石輸出は前年同月比17.1%減の212トンで、7月の52.2%減から減少幅が大幅縮小し6カ月ぶりに200トン台を回復した。",
+      "source": "中日新聞(共同通信)",
+      "link": "https://www.chunichi.co.jp/article/1314054"
+    },
+    {
+      "title": "損保ジャパン、望まない転勤を廃止へ 人事制度見直し",
+      "summary": "損害保険ジャパンは9/20、社員の望まない全国転勤を前提とした人事制度を見直し、転勤の可否を毎年選べる仕組みに改める方針を明らかにした。優秀な人材確保が狙いで、東京海上日動や第一生命など大手にも同様の動きが広がっている。",
+      "source": "共同通信(中日新聞)",
+      "link": "https://www.chunichi.co.jp/article/1313953"
     }
   ],
   "tech": [
     {
-      "title": "中国CXMT、第5世代DRAM「G5」の量産を開始",
-      "summary": "中国メモリー大手CXMTは20日、合肥で開催の世界製造大会で第5世代DRAM基盤「G5」の量産開始を発表した。回路線幅11.95nmを実現し、前世代比でダイ収量が50%以上向上。24Gb LPDDR5X製品2種は既にスマートフォンに採用されている。",
-      "source": "Seoul Economic Daily",
-      "link": "https://en.sedaily.com/international/2026/09/20/chinas-cxmt-starts-mass-production-on-5th-generation-dram"
+      "title": "AI業界は本当に開発ペースを落とす準備ができているのか、TechCrunchが検証",
+      "summary": "2026年9月20日付のTechCrunch記事。AnthropicのアモデイCEOが提唱する「フロンティアのペース配分」に業界の賛同が急速に広がる一方、詳細の乏しさや競争・利益動機、トランプ政権の反対など、協調減速の実現には障害が多いと指摘。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/"
     },
     {
-      "title": "医療AI、画像診断以外への拡大に臨床医が反発 エビデンス不足を指摘",
-      "summary": "Financial Timesは20日、医療AIが画像診断・放射線領域を超えて用途を広げる動きに対し、臨床医から性能データの乏しさを理由に反発が強まっていると報じた。外部検証で精度が大きく低下する診断アルゴリズムも多いという。",
-      "source": "Financial Times（AI Weekly経由）",
-      "link": "https://aiweekly.co/alerts/ft-clinicians-push-back-on-medical-ai-beyond-diagnostics"
+      "title": "マイクロソフトAI責任者、「中国への対抗」を規制回避の口実にすべきでないと発言",
+      "summary": "2026年9月20日、MicrosoftのAI責任者ムスタファ・スレイマン氏がCNNのインタビューで、中国のAI進展への懸念を自国の安全対策軽視の言い訳にすべきではないと発言。トランプ政権の規制不要論と対照的な立場を示した。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-20/microsoft-ai-chief-says-china-isn-t-excuse-to-forego-regulation"
     },
     {
-      "title": "消費者ら、Anthropic・OpenAI・Google・SpaceXAIを独禁法違反で提訴",
-      "summary": "4人の消費者が19日、AI開発の意図的な「減速」で合意したとして主要AI4社をシャーマン法違反で提訴した。Amodei氏の減速提言にAltman氏・Musk氏・Hassabis氏が賛同した9月12日の動きが不当な協調だと主張している。",
-      "source": "Fortune",
-      "link": "https://fortune.com/2026/09/19/lawsuit-anthropic-openai-spacexai-google-antitrust-laws-ai-slowdown-subscription-value/"
+      "title": "中国StepFun、600億パラメータ超のMoEモデル「Step 5 Preview」を発表",
+      "summary": "2026年9月20日、中国のAIスタートアップStepFunが総パラメータ600B(アクティブ27B)、コンテキスト長100万トークンの新フラッグシップモデル「Step 5 Preview」のAPIを公開。ソフトウエア開発や金融分野に強く、10月15日には重みを公開予定。",
+      "source": "Pandaily",
+      "link": "https://pandaily.com/stepfun-step-5-preview-600b-moe-1m-context"
     },
     {
-      "title": "Alibaba Qwen、新モデル「Qwen3.8-Omni-Flash」を公開",
-      "summary": "アリババのQwenチームは18日、音声・映像・テキストを統合的に処理するエージェント志向のオムニモーダルモデル「Qwen3.8-Omni-Flash」を発表した。コンテキスト長100万トークンに対応し、音声API料金を98%以上引き下げた。",
-      "source": "TechNode",
-      "link": "https://technode.com/2026/09/18/alibabas-qwen-releases-qwen3-8-omni-flash-with-1m-token-context/"
+      "title": "エヌビディアCEO、AIによる人類滅亡リスクを「可能性ゼロ」と完全否定",
+      "summary": "エヌビディアのジェンスン・フアンCEOが「世界の終わりになる可能性は0%」と発言し、AI安全論者の悲観論に反論。元Anthropic研究者の警告をきっかけに広がったAI脅威論に業界内で温度差があることを示した(9月19〜20日報道)。",
+      "source": "東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/958752"
     },
     {
-      "title": "OpenAI、ChatGPTデスクトップ版内蔵ブラウザにChrome拡張機能対応を追加",
-      "summary": "OpenAIは18日、ChatGPTデスクトップアプリの内蔵ブラウザでChrome拡張機能を利用できるようにした。1Passwordなど日常使う拡張機能をインストール・ピン留めでき、別ウィンドウに切り替える必要がなくなる。",
-      "source": "RuntimeWire",
-      "link": "https://runtimewire.com/article/openai-chatgpt-desktop-browser-chrome-extensions"
+      "title": "日本生命、米国データセンター向けに2兆円融資へ 日本マネーがAI開発を支える構図に",
+      "summary": "日本生命保険が人工知能(AI)向けデータセンター建設などのプロジェクトファイナンスに投融資残高を2兆円規模まで拡大する方針。三菱UFJ銀行も4兆円超のAIインフラ投資ファンドに出資しており、日本の金融機関が米国のAI開発を支える構図が鮮明に(9月19〜20日報道)。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUB076LF0X00C26A9000000/"
     },
     {
-      "title": "Anthropic、次世代Claudeの研究開発にClaude自身が大きく貢献と発表",
-      "summary": "Anthropicは17日、現行のClaudeが次世代モデルの研究開発の26%を主導し、研究開発全体の約9割がClaudeとの「協働」で行われていると発表した。完全自律ではないが人間の監督下で大部分の作業を担っているとした。",
-      "source": "US News",
-      "link": "https://www.usnews.com/news/business/articles/2026-09-17/anthropic-says-its-model-claude-is-helping-to-build-the-next-version-of-itself"
+      "title": "テキストAIの電子透かしは「実装が難しく、削除も容易」と判明",
+      "summary": "2026年9月19日、GIGAZINEが報道。EUが8月からAI生成テキストへの電子透かし埋め込みを事実上義務化する中、透かしを人間に気づかれず埋め込むことの技術的困難さと、悪意ある相手には簡単に外されてしまう問題点を解説。",
+      "source": "GIGAZINE",
+      "link": "https://gigazine.net/news/20260919-text-ai-watermarks/"
+    },
+    {
+      "title": "音楽生成AI「YuE2」無料公開やソニー製発見支援AI「Hakken」など、生成AI技術5選",
+      "summary": "2026年9月20日、テクノエッジの「生成AIウィークリー」で、Suno 5に迫る性能を無料で使える音楽生成AI「YuE2」や、膨大な論文から未知の科学的関係を予測するソニー製AI「Hakken」など、直近の注目生成AI技術5つを紹介。",
+      "source": "テクノエッジ",
+      "link": "https://www.techno-edge.net/article/2026/09/20/5509.html"
     }
   ],
-  "x_trending_tech": []
+  "x_trending_tech": [
+    {
+      "title": "中国StepFunが新フラグシップAI「Step 5 Preview」を発表",
+      "summary": "600Bパラメータ(アクティブ27B)のMoEモデルで100万トークンのコンテキストに対応、エージェント業務やソフトウェア開発に強みを持つと発表。9/20昼過ぎ(日本時間12時15分頃)の投稿で、オープンウェイトは10/15公開予定。",
+      "source": "@StepFun_ai",
+      "link": "https://x.com/StepFun_ai/status/2101510462685003786"
+    }
+  ]
 }
