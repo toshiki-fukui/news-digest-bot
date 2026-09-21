@@ -1,87 +1,74 @@
 {
-  "run_label": "9/21 07:00",
+  "run_label": "9/21 19:00",
   "politics_economy": [
     {
-      "title": "高市首相、国連総会演説で中東エネルギー協力計画の策定を表明へ",
-      "summary": "高市早苗首相は21日から24日の日程で訪米し、22日夜(日本時間23日昼)の国連総会一般討論演説で、中東情勢を踏まえ湾岸諸国のエネルギー強靱化に向けた協力計画の策定を表明する見通し(9/20夜〜9/21朝報道)。",
-      "source": "NHKニュース",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260921de51459"
+      "title": "高市首相、台風25号の影響で訪米出発を延期 22日にトランプ氏と会談へ",
+      "summary": "政府は21日、国連総会出席のため訪米する高市早苗首相の羽田空港出発予定を台風25号の影響で午後7時から午後11時に延期したと発表。24日の米中首脳会談を前に22日にトランプ大統領と会談し対中連携を確認する見通し(9/21報道)。",
+      "source": "時事通信",
+      "link": "https://www.jiji.com/jc/article?k=2026092100250&g=pol"
     },
     {
-      "title": "日米首脳、22日軸に会談調整 米中会談前に対中政策すり合わせ",
-      "summary": "日米両政府は高市首相とトランプ大統領の会談をニューヨークで22日に開く方向で調整しており、24日の米中首脳会談を前に対中認識のすり合わせを図る狙いがある(9/20報道)。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUA184AJ0Y6A910C2000000/"
+      "title": "円相場、156円台でもみ合い 日銀のレートチェック報道で介入警戒感",
+      "summary": "21日の東京外国為替市場でドル円は156円台後半でもみ合う展開。日銀のレートチェック観測が伝わり、政府・日銀による円買い介入への警戒感が強まっている(9/21報道)。",
+      "source": "財経新聞",
+      "link": "https://www.zaikei.co.jp/article/20260921/870810.html"
     },
     {
-      "title": "農相、備蓄米を早期に追加買い戻し「需給調整ではない」",
-      "summary": "簗和生農相は9/20、食料安全保障の観点から政府備蓄米を早期に追加で買い戻す方針を表明し、米需給の直接調整が目的ではないと強調した。",
-      "source": "共同通信(中日新聞)",
-      "link": "https://www.chunichi.co.jp/article/1313983"
+      "title": "NTTドコモ「つながりにくい」3大キャリアで「ひとり負け」 個人情報無断提供も影",
+      "summary": "NTTドコモが通信品質や料金面で競合2社に見劣りし、大手3キャリアの中で「ひとり負け」の状況にあると指摘。約34万人分の個人情報をアマゾンに無断提供していた問題も信頼低下に拍車をかけている(9/20夜19時半掲載)。",
+      "source": "J-CASTニュース",
+      "link": "https://www.j-cast.com/2026/09/20518058.html"
     },
     {
-      "title": "対日レアアース磁石輸出、8月は前年比17%減も200トン台に回復",
-      "summary": "中国税関総署が9/20公表した貿易統計によると、8月の対日レアアース磁石輸出は前年同月比17.1%減の212トンで、7月の52.2%減から減少幅が大幅縮小し6カ月ぶりに200トン台を回復した。",
-      "source": "中日新聞(共同通信)",
-      "link": "https://www.chunichi.co.jp/article/1314054"
+      "title": "台風25号が関東接近、新幹線に遅れ・運休 シルバーウィークの交通に打撃",
+      "summary": "強い台風25号が21日午後から夜にかけて関東地方に接近し、東海道新幹線やJR東日本の在来線各線で遅延・計画運休が発生。連休中の交通機関に影響が広がっている(9/21報道)。",
+      "source": "NHK",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260921de51512"
     },
     {
-      "title": "損保ジャパン、望まない転勤を廃止へ 人事制度見直し",
-      "summary": "損害保険ジャパンは9/20、社員の望まない全国転勤を前提とした人事制度を見直し、転勤の可否を毎年選べる仕組みに改める方針を明らかにした。優秀な人材確保が狙いで、東京海上日動や第一生命など大手にも同様の動きが広がっている。",
-      "source": "共同通信(中日新聞)",
-      "link": "https://www.chunichi.co.jp/article/1313953"
+      "title": "ANN世論調査、高市改造内閣の支持率58.3%に上昇 「不記載議員」入閣は問題56%",
+      "summary": "テレビ朝日系ANNが9/19〜20実施した世論調査で高市改造内閣の支持率は58.3%となり、改造前から約3ポイント上昇。一方で政治資金の不記載があった議員の入閣について「問題」と答えた人は56%に上った(9/21発表)。",
+      "source": "テレビ朝日系(ANN)",
+      "link": "https://news.yahoo.co.jp/articles/6287424ac8bf93092f157d130a039b0626e15eca"
     }
   ],
   "tech": [
     {
-      "title": "AI業界は本当に開発ペースを落とす準備ができているのか、TechCrunchが検証",
-      "summary": "2026年9月20日付のTechCrunch記事。AnthropicのアモデイCEOが提唱する「フロンティアのペース配分」に業界の賛同が急速に広がる一方、詳細の乏しさや競争・利益動機、トランプ政権の反対など、協調減速の実現には障害が多いと指摘。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/"
+      "title": "ソフトバンク、OpenAI投資向けに110億ドル超のジャンク債発行",
+      "summary": "ソフトバンクグループは、10月1日決済予定のOpenAIへの100億ドル追加出資を賄うためドル建て・ユーロ建てで合計110億ドル超の投資不適格債(ジャンク債)を発行すると発表。史上最大級の高利回り債取引の一つとなる見通し(9/21報道)。",
+      "source": "Bloomberg / The Japan Times",
+      "link": "https://www.japantimes.co.jp/business/2026/09/21/companies/softbank-11-billion-junk-bonds-openai-bet/"
     },
     {
-      "title": "マイクロソフトAI責任者、「中国への対抗」を規制回避の口実にすべきでないと発言",
-      "summary": "2026年9月20日、MicrosoftのAI責任者ムスタファ・スレイマン氏がCNNのインタビューで、中国のAI進展への懸念を自国の安全対策軽視の言い訳にすべきではないと発言。トランプ政権の規制不要論と対照的な立場を示した。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-20/microsoft-ai-chief-says-china-isn-t-excuse-to-forego-regulation"
+      "title": "米中、AIリスクに関する対話チャネル創設で合意 トランプ・習近平会談を前に",
+      "summary": "ベッセント米財務長官と中国の何立峰副首相らがニューヨークで約8時間に及ぶ協議を実施し、AI関連インシデントを互いに通報し合う新たな「米中AI対話」の枠組み構築で合意。今週予定のトランプ・習近平首脳会談への地ならしとなった(9/21報道)。",
+      "source": "Bloomberg / The Japan Times",
+      "link": "https://www.japantimes.co.jp/business/2026/09/21/bessent-china-talks-ai-trade/"
     },
     {
-      "title": "中国StepFun、600億パラメータ超のMoEモデル「Step 5 Preview」を発表",
-      "summary": "2026年9月20日、中国のAIスタートアップStepFunが総パラメータ600B(アクティブ27B)、コンテキスト長100万トークンの新フラッグシップモデル「Step 5 Preview」のAPIを公開。ソフトウエア開発や金融分野に強く、10月15日には重みを公開予定。",
-      "source": "Pandaily",
-      "link": "https://pandaily.com/stepfun-step-5-preview-600b-moe-1m-context"
+      "title": "サムスン電子、HBM市場シェアでSKハイニックスとの差を17ポイントに縮小",
+      "summary": "サムスン電子は次世代HBM4の歩留まりが約80%まで改善したことを背景に、AIサーバー向け高帯域幅メモリー(HBM)市場でSKハイニックスとのシェア差を17ポイントまで縮めたと報道(9/21)。",
+      "source": "Seoul Economic Daily",
+      "link": "https://en.sedaily.com/finance/2026/09/21/samsung-narrows-hbm-gap-with-sk-hynix-to-17-points"
     },
     {
-      "title": "エヌビディアCEO、AIによる人類滅亡リスクを「可能性ゼロ」と完全否定",
-      "summary": "エヌビディアのジェンスン・フアンCEOが「世界の終わりになる可能性は0%」と発言し、AI安全論者の悲観論に反論。元Anthropic研究者の警告をきっかけに広がったAI脅威論に業界内で温度差があることを示した(9月19〜20日報道)。",
-      "source": "東洋経済オンライン",
-      "link": "https://toyokeizai.net/articles/-/958752"
+      "title": "Tower Semiconductor、日本を光通信半導体の最大拠点に 大規模投資を発表",
+      "summary": "イスラエルのTower Semiconductorは富山・新潟の拠点でシリコンフォトニクスなど光通信向け半導体の生産能力を拡張し、日本を自社最大の製造拠点にする計画を発表。日本の経済産業省も大規模な助成を行う(9/21報道)。",
+      "source": "Digitimes",
+      "link": "https://www.digitimes.com/news/a20260921VL217/tower-semiconductor-production-communications-silicon-manufacturing.html"
     },
     {
-      "title": "日本生命、米国データセンター向けに2兆円融資へ 日本マネーがAI開発を支える構図に",
-      "summary": "日本生命保険が人工知能(AI)向けデータセンター建設などのプロジェクトファイナンスに投融資残高を2兆円規模まで拡大する方針。三菱UFJ銀行も4兆円超のAIインフラ投資ファンドに出資しており、日本の金融機関が米国のAI開発を支える構図が鮮明に(9月19〜20日報道)。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUB076LF0X00C26A9000000/"
+      "title": "アップル・シャオミ・クアルコム、エッジAI推論市場で覇権競争",
+      "summary": "スマートフォンやサーバー向けオンデバイスAI推論市場をめぐり、アップル、シャオミ、クアルコムがそれぞれ異なる戦略でエコシステム拡大を狙っていると分析。NPU搭載端末の拡大が背景にある(9/21付)。",
+      "source": "Digitimes",
+      "link": "https://www.digitimes.com/news/a20260921PD210/apple-xiaomi-qualcomm-ai-inference-market.html"
     },
     {
-      "title": "テキストAIの電子透かしは「実装が難しく、削除も容易」と判明",
-      "summary": "2026年9月19日、GIGAZINEが報道。EUが8月からAI生成テキストへの電子透かし埋め込みを事実上義務化する中、透かしを人間に気づかれず埋め込むことの技術的困難さと、悪意ある相手には簡単に外されてしまう問題点を解説。",
-      "source": "GIGAZINE",
-      "link": "https://gigazine.net/news/20260919-text-ai-watermarks/"
-    },
-    {
-      "title": "音楽生成AI「YuE2」無料公開やソニー製発見支援AI「Hakken」など、生成AI技術5選",
-      "summary": "2026年9月20日、テクノエッジの「生成AIウィークリー」で、Suno 5に迫る性能を無料で使える音楽生成AI「YuE2」や、膨大な論文から未知の科学的関係を予測するソニー製AI「Hakken」など、直近の注目生成AI技術5つを紹介。",
-      "source": "テクノエッジ",
-      "link": "https://www.techno-edge.net/article/2026/09/20/5509.html"
+      "title": "韓国の半導体装置・パッケージング関連株が急騰",
+      "summary": "主要メモリーメーカーの設備投資拡大観測を背景に、21日の韓国市場でハナマイクロンが前日比14%超、SFAセミコンが20%超上昇するなど半導体装置・後工程関連株が軒並み急騰(9/21報道)。",
+      "source": "Seoul Economic Daily",
+      "link": "https://en.sedaily.com/finance/2026/09/21/korean-chip-equipment-and-packaging-stocks-surge-as-us"
     }
   ],
-  "x_trending_tech": [
-    {
-      "title": "中国StepFunが新フラグシップAI「Step 5 Preview」を発表",
-      "summary": "600Bパラメータ(アクティブ27B)のMoEモデルで100万トークンのコンテキストに対応、エージェント業務やソフトウェア開発に強みを持つと発表。9/20昼過ぎ(日本時間12時15分頃)の投稿で、オープンウェイトは10/15公開予定。",
-      "source": "@StepFun_ai",
-      "link": "https://x.com/StepFun_ai/status/2101510462685003786"
-    }
-  ]
+  "x_trending_tech": []
 }
