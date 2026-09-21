@@ -1,74 +1,111 @@
 {
-  "run_label": "9/21 19:00",
+  "run_label": "9/22 07:00",
   "politics_economy": [
     {
-      "title": "高市首相、台風25号の影響で訪米出発を延期 22日にトランプ氏と会談へ",
-      "summary": "政府は21日、国連総会出席のため訪米する高市早苗首相の羽田空港出発予定を台風25号の影響で午後7時から午後11時に延期したと発表。24日の米中首脳会談を前に22日にトランプ大統領と会談し対中連携を確認する見通し(9/21報道)。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026092100250&g=pol"
+      "title": "台風25号による土砂崩れ、関東・東海で190万人超に避難指示 神奈川で心肺停止者も",
+      "summary": "台風25号の影響で神奈川県横須賀市・三浦市などで土砂崩れが発生し、消防庁によると横須賀市内の1人が心肺停止、複数人が負傷。関東・東海の6県で190万人超に避難指示が出された(9/21夜報道)。",
+      "source": "毎日新聞",
+      "link": "https://news.yahoo.co.jp/articles/250debe36687b76836de2b5f9f3fecd98f1f29ff"
     },
     {
-      "title": "円相場、156円台でもみ合い 日銀のレートチェック報道で介入警戒感",
-      "summary": "21日の東京外国為替市場でドル円は156円台後半でもみ合う展開。日銀のレートチェック観測が伝わり、政府・日銀による円買い介入への警戒感が強まっている(9/21報道)。",
-      "source": "財経新聞",
-      "link": "https://www.zaikei.co.jp/article/20260921/870810.html"
+      "title": "高市首相、22日に日米首脳会談・国連総会で一般討論演説へ",
+      "summary": "高市早苗首相は21日夜に訪米、24日の米中首脳会談を前に22日(現地時間)にトランプ大統領と会談し対中連携を確認する見通し。同日夜には国連総会で一般討論演説も行う(9/21報道)。",
+      "source": "産経新聞/Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/articles/138b743635f4e6ca87921ac10a920cb09db6fd83"
     },
     {
-      "title": "NTTドコモ「つながりにくい」3大キャリアで「ひとり負け」 個人情報無断提供も影",
-      "summary": "NTTドコモが通信品質や料金面で競合2社に見劣りし、大手3キャリアの中で「ひとり負け」の状況にあると指摘。約34万人分の個人情報をアマゾンに無断提供していた問題も信頼低下に拍車をかけている(9/20夜19時半掲載)。",
+      "title": "中国、習近平氏の訪米日程を発表 24日に米中首脳会談、AI・台湾問題協議へ",
+      "summary": "中国外務省は21日、習近平国家主席が23〜25日に国賓待遇で訪米すると発表。24日にトランプ大統領とホワイトハウスで会談し、AIや関税、台湾問題などを協議する見通し(9/21報道)。",
+      "source": "中日新聞",
+      "link": "https://www.chunichi.co.jp/article/1314455"
+    },
+    {
+      "title": "日経平均が急反発、半導体関連株中心に買われ最高値を更新",
+      "summary": "22日の東京株式市場で日経平均株価は前週末の米国株高を受けて急反発し、2営業日ぶりに最高値を更新。アドバンテストなど半導体関連株や電子部品株に買いが集まった。",
+      "source": "株探/Yahoo!ファイナンス",
+      "link": "https://finance.yahoo.co.jp/news/detail/2a5ec59c96c0e773315623666e26e424f58e9274"
+    },
+    {
+      "title": "日テレ「ZIP!」、小泉氏に続き小野田氏についても人事アンケート報道で重ねて謝罪",
+      "summary": "日本テレビは小泉進次郎防衛相の人事希望アンケートに関する誤報道に続き、小野田紀美氏についても「アンケートを提出していない」とする事実誤認があったとして「ZIP!」で謝罪した(9/21報道)。",
       "source": "J-CASTニュース",
-      "link": "https://www.j-cast.com/2026/09/20518058.html"
-    },
-    {
-      "title": "台風25号が関東接近、新幹線に遅れ・運休 シルバーウィークの交通に打撃",
-      "summary": "強い台風25号が21日午後から夜にかけて関東地方に接近し、東海道新幹線やJR東日本の在来線各線で遅延・計画運休が発生。連休中の交通機関に影響が広がっている(9/21報道)。",
-      "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260921de51512"
-    },
-    {
-      "title": "ANN世論調査、高市改造内閣の支持率58.3%に上昇 「不記載議員」入閣は問題56%",
-      "summary": "テレビ朝日系ANNが9/19〜20実施した世論調査で高市改造内閣の支持率は58.3%となり、改造前から約3ポイント上昇。一方で政治資金の不記載があった議員の入閣について「問題」と答えた人は56%に上った(9/21発表)。",
-      "source": "テレビ朝日系(ANN)",
-      "link": "https://news.yahoo.co.jp/articles/6287424ac8bf93092f157d130a039b0626e15eca"
+      "link": "https://www.j-cast.com/2026/09/21518004.html?p=all"
     }
   ],
   "tech": [
     {
-      "title": "ソフトバンク、OpenAI投資向けに110億ドル超のジャンク債発行",
-      "summary": "ソフトバンクグループは、10月1日決済予定のOpenAIへの100億ドル追加出資を賄うためドル建て・ユーロ建てで合計110億ドル超の投資不適格債(ジャンク債)を発行すると発表。史上最大級の高利回り債取引の一つとなる見通し(9/21報道)。",
-      "source": "Bloomberg / The Japan Times",
-      "link": "https://www.japantimes.co.jp/business/2026/09/21/companies/softbank-11-billion-junk-bonds-openai-bet/"
+      "title": "OpenAI、数学諮問グループを新設 自社AIが100件超の未解決問題を解決",
+      "summary": "OpenAIは、自社AIが数学の未解決問題を100件超解決したことを受け、プリンストン高等研究所を拠点とする独立の「数学・AI諮問グループ」を新設したと発表(9/21)。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/"
     },
     {
-      "title": "米中、AIリスクに関する対話チャネル創設で合意 トランプ・習近平会談を前に",
-      "summary": "ベッセント米財務長官と中国の何立峰副首相らがニューヨークで約8時間に及ぶ協議を実施し、AI関連インシデントを互いに通報し合う新たな「米中AI対話」の枠組み構築で合意。今週予定のトランプ・習近平首脳会談への地ならしとなった(9/21報道)。",
-      "source": "Bloomberg / The Japan Times",
-      "link": "https://www.japantimes.co.jp/business/2026/09/21/bessent-china-talks-ai-trade/"
+      "title": "スマートリング大手Oura、22億ドル規模のIPOを申請 調達額の大半は既存株主へ",
+      "summary": "健康トラッカー「Oura」を手がける同社がIPOを申請、最大22億ドルを調達する見通し。ただし調達額の大半は既存株主の売り出し分に充てられる(9/21)。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/09/21/ouras-2-2b-ipo-is-mostly-a-payday-for-existing-shareholders/"
     },
     {
-      "title": "サムスン電子、HBM市場シェアでSKハイニックスとの差を17ポイントに縮小",
-      "summary": "サムスン電子は次世代HBM4の歩留まりが約80%まで改善したことを背景に、AIサーバー向け高帯域幅メモリー(HBM)市場でSKハイニックスとのシェア差を17ポイントまで縮めたと報道(9/21)。",
-      "source": "Seoul Economic Daily",
-      "link": "https://en.sedaily.com/finance/2026/09/21/samsung-narrows-hbm-gap-with-sk-hynix-to-17-points"
+      "title": "グーグル、899ドルの「Googlebook」ノートPCを発表 Gemini前提の新ハード戦略",
+      "summary": "グーグルはGemini AIの利用を前提とした899ドルのノートPC「Googlebook」を発表。買い替え需要を狙った新たなハードウェア戦略とみられる(9/21)。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/"
     },
     {
-      "title": "Tower Semiconductor、日本を光通信半導体の最大拠点に 大規模投資を発表",
-      "summary": "イスラエルのTower Semiconductorは富山・新潟の拠点でシリコンフォトニクスなど光通信向け半導体の生産能力を拡張し、日本を自社最大の製造拠点にする計画を発表。日本の経済産業省も大規模な助成を行う(9/21報道)。",
-      "source": "Digitimes",
-      "link": "https://www.digitimes.com/news/a20260921VL217/tower-semiconductor-production-communications-silicon-manufacturing.html"
+      "title": "X、政府の要請で投稿を制限した際にユーザーへ通知する機能を追加",
+      "summary": "X(旧Twitter)は、各国政府の要請によって投稿の閲覧が制限された場合、ユーザーにその旨を通知する透明性機能を導入すると発表(9/21)。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/09/21/x-will-now-tell-users-when-governments-have-forced-it-to-limit-their-posts/"
     },
     {
-      "title": "アップル・シャオミ・クアルコム、エッジAI推論市場で覇権競争",
-      "summary": "スマートフォンやサーバー向けオンデバイスAI推論市場をめぐり、アップル、シャオミ、クアルコムがそれぞれ異なる戦略でエコシステム拡大を狙っていると分析。NPU搭載端末の拡大が背景にある(9/21付)。",
-      "source": "Digitimes",
-      "link": "https://www.digitimes.com/news/a20260921PD210/apple-xiaomi-qualcomm-ai-inference-market.html"
+      "title": "MetaのAIエージェント「Muse」、Amazon.comへのアクセスをブロックされる",
+      "summary": "Meta製AIエージェント「Muse」がAmazon経由で買い物をしようとした際、「未承認のAIエージェントによる継続的なアクセスはAmazon利用規約違反」とのエラーが表示された(9/21)。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/"
     },
     {
-      "title": "韓国の半導体装置・パッケージング関連株が急騰",
-      "summary": "主要メモリーメーカーの設備投資拡大観測を背景に、21日の韓国市場でハナマイクロンが前日比14%超、SFAセミコンが20%超上昇するなど半導体装置・後工程関連株が軒並み急騰(9/21報道)。",
-      "source": "Seoul Economic Daily",
-      "link": "https://en.sedaily.com/finance/2026/09/21/korean-chip-equipment-and-packaging-stocks-surge-as-us"
+      "title": "MetaのAIエージェント「Muse」、許可なくメッセージを読んでいるとの指摘",
+      "summary": "Meta「Muse」が、ユーザーが許可していないはずのメッセージ内容を把握しているとの指摘がユーザーから相次いでいる(9/21)。",
+      "source": "GIGAZINE",
+      "link": "https://gigazine.net/news/20260921-meta-muse-ai-agent-read-private-messages/"
+    },
+    {
+      "title": "Gemini搭載スマートウォッチ「Google Pixel Watch 5」を使ってみた",
+      "summary": "GoogleのAIアシスタントGeminiを搭載した新型スマートウォッチ「Pixel Watch 5」の使用感をレビュー(9/21)。",
+      "source": "GIGAZINE",
+      "link": "https://gigazine.net/news/20260921-google-pixel-watch-review/"
+    },
+    {
+      "title": "iPhone内蔵AI「Apple Foundation Models」とローカルでチャットする方法",
+      "summary": "無料アプリを使い、iPhoneに搭載されたApple製オンデバイスAI「Apple Foundation Models」のローカル処理能力を試す方法を紹介(9/21)。",
+      "source": "GIGAZINE",
+      "link": "https://gigazine.net/news/20260921-locally-ai-apple-foundation-models/"
+    },
+    {
+      "title": "アップル、Siri AI関連集団訴訟の和解サイトを公開 対象者に一人約25ドル",
+      "summary": "Siri AIの機能提供遅延を巡る集団訴訟で、アップルは和解サイトを21日開設。対象のiPhone購入者は12月21日まで申請可能で、1人あたり約25ドルが支払われる見通し。",
+      "source": "Axios",
+      "link": "https://www.axios.com/2026/09/21/apple-iphone-siri-ai-settlement-paid-eligibility"
+    },
+    {
+      "title": "MetaのAIエージェント「Muse」急成長で半導体株が急騰、AMDは時価総額1兆ドル目前に",
+      "summary": "Museの好調な滑り出しを受けAI向けチップ需要期待が高まり、21日の米株式市場でAMDが一時10%超上昇し時価総額1兆ドル目前に、インテルも14%超上昇した。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-21/amd-set-to-top-1-trillion-in-market-value-as-chip-stocks-soar"
     }
   ],
-  "x_trending_tech": []
+  "x_trending_tech": [
+    {
+      "title": "Googlebookのファイルアプリ、スマホ版Antigravityとシームレス連携と話題に",
+      "summary": "新型ノートPC「Googlebook」のファイルアプリがスマートフォンやスマホ版Google Antigravityとシームレスに使えると投稿され話題に。Linux環境との連携にも言及(9/22朝の投稿)。",
+      "source": "@pcefancom",
+      "link": "https://x.com/pcefancom/status/2102038505367249224"
+    },
+    {
+      "title": "Android版Google Antigravity、Googlebook OSのLinuxターミナルと連携と話題に",
+      "summary": "Android版のGoogle Antigravityが登場し、Googlebook OS上のLinuxターミナルと連携する仕様であることが投稿され注目を集めた(9/22朝の投稿)。",
+      "source": "@Helen_Tech",
+      "link": "https://x.com/Helen_Tech/status/2102034476268413126"
+    }
+  ]
 }
