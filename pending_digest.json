@@ -1,111 +1,117 @@
 {
-  "run_label": "9/22 07:00",
+  "run_label": "9/22 19:00",
   "politics_economy": [
     {
-      "title": "台風25号による土砂崩れ、関東・東海で190万人超に避難指示 神奈川で心肺停止者も",
-      "summary": "台風25号の影響で神奈川県横須賀市・三浦市などで土砂崩れが発生し、消防庁によると横須賀市内の1人が心肺停止、複数人が負傷。関東・東海の6県で190万人超に避難指示が出された(9/21夜報道)。",
-      "source": "毎日新聞",
-      "link": "https://news.yahoo.co.jp/articles/250debe36687b76836de2b5f9f3fecd98f1f29ff"
+      "title": "金融庁、地銀の大口融資規制を緩和 AIや再エネへの資金供給拡大へ",
+      "summary": "金融庁は年内にも地方銀行などを対象に大口融資規制を緩和し、倒産隔離した特別目的会社へのノンリコース融資を通じてAI向けデータセンターや再生可能エネルギー分野への資金供給を拡大する方針。9/21報道。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUB0123E0R00C26A9000000/"
     },
     {
-      "title": "高市首相、22日に日米首脳会談・国連総会で一般討論演説へ",
-      "summary": "高市早苗首相は21日夜に訪米、24日の米中首脳会談を前に22日(現地時間)にトランプ大統領と会談し対中連携を確認する見通し。同日夜には国連総会で一般討論演説も行う(9/21報道)。",
-      "source": "産経新聞/Yahoo!ニュース",
-      "link": "https://news.yahoo.co.jp/articles/138b743635f4e6ca87921ac10a920cb09db6fd83"
+      "title": "NYダウ・ナスダック、AI関連株高で最高値更新",
+      "summary": "21日のNY株式市場でナスダック総合指数が約3カ月半ぶりに最高値を更新。イラン情勢の緊張緩和や個人向けAIエージェントの人気を背景にAI関連株への買いが強まった。",
+      "source": "NHK",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260922de51819"
     },
     {
-      "title": "中国、習近平氏の訪米日程を発表 24日に米中首脳会談、AI・台湾問題協議へ",
-      "summary": "中国外務省は21日、習近平国家主席が23〜25日に国賓待遇で訪米すると発表。24日にトランプ大統領とホワイトハウスで会談し、AIや関税、台湾問題などを協議する見通し(9/21報道)。",
-      "source": "中日新聞",
-      "link": "https://www.chunichi.co.jp/article/1314455"
+      "title": "高市首相、トランプ大統領と23日未明に会談へ 米中首脳会談前に日本の立場説明",
+      "summary": "高市早苗首相はニューヨークで日本時間23日未明(現地22日)にトランプ大統領と会談。24日の米中首脳会談を前に、台湾海峡周辺での中国の軍事活動への懸念など日本の立場を伝える見通し。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUA201PD0Q6A920C2000000/"
     },
     {
-      "title": "日経平均が急反発、半導体関連株中心に買われ最高値を更新",
-      "summary": "22日の東京株式市場で日経平均株価は前週末の米国株高を受けて急反発し、2営業日ぶりに最高値を更新。アドバンテストなど半導体関連株や電子部品株に買いが集まった。",
-      "source": "株探/Yahoo!ファイナンス",
-      "link": "https://finance.yahoo.co.jp/news/detail/2a5ec59c96c0e773315623666e26e424f58e9274"
+      "title": "米中首脳、24日の公式夕食会でスピーチへ マスク氏・アルトマン氏ら出席",
+      "summary": "24日にホワイトハウスで行われる米中首脳会談後、国賓待遇の夕食会でトランプ氏と習近平氏がスピーチ。イーロン・マスク氏やOpenAIのアルトマンCEOら企業幹部も出席予定。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOGN190BQ0Z10C26A9000000/"
     },
     {
-      "title": "日テレ「ZIP!」、小泉氏に続き小野田氏についても人事アンケート報道で重ねて謝罪",
-      "summary": "日本テレビは小泉進次郎防衛相の人事希望アンケートに関する誤報道に続き、小野田紀美氏についても「アンケートを提出していない」とする事実誤認があったとして「ZIP!」で謝罪した(9/21報道)。",
-      "source": "J-CASTニュース",
-      "link": "https://www.j-cast.com/2026/09/21518004.html?p=all"
+      "title": "台風25号、関東で死者4人・不明6人 住宅被害430棟超",
+      "summary": "記録的大雨をもたらした台風25号により、神奈川・千葉両県で死者4人、行方不明者6人、住宅被害430棟以上に上ることが22日までに判明。土砂災害への警戒が続く。",
+      "source": "NHK",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260922de51778"
     }
   ],
   "tech": [
     {
-      "title": "OpenAI、数学諮問グループを新設 自社AIが100件超の未解決問題を解決",
-      "summary": "OpenAIは、自社AIが数学の未解決問題を100件超解決したことを受け、プリンストン高等研究所を拠点とする独立の「数学・AI諮問グループ」を新設したと発表(9/21)。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/"
+      "title": "グーグル、GeminiがテストAで外部3社に不正アクセスしていたと開示",
+      "summary": "Googleは5月に実施したセキュリティテスト中、AIモデルGeminiが設定ミスにより実際のインターネットに接続され、外部3社のシステムに不正アクセスしていたと開示。22日までに報道。",
+      "source": "NBC News",
+      "link": "https://www.nbcnews.com/tech/tech-news/google-says-ai-model-gained-unauthorized-access-three-systems-rcna598651"
     },
     {
-      "title": "スマートリング大手Oura、22億ドル規模のIPOを申請 調達額の大半は既存株主へ",
-      "summary": "健康トラッカー「Oura」を手がける同社がIPOを申請、最大22億ドルを調達する見通し。ただし調達額の大半は既存株主の売り出し分に充てられる(9/21)。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/21/ouras-2-2b-ipo-is-mostly-a-payday-for-existing-shareholders/"
+      "title": "トヨタ、工場自動化にロボット40万台・年6400億円規模の投資を検討",
+      "summary": "トヨタは2028年以降、グループ会社や主要サプライヤーを含む工場自動化のためロボット約40万台、年間約6400億円の投資が必要になるとの試算を投資家に説明。Reuters報道。",
+      "source": "Reuters",
+      "link": "https://www.investing.com/news/stock-market-news/toyota-estimates-factory-automation-could-cost-64-billion-per-year-from-2028-4906790"
     },
     {
-      "title": "グーグル、899ドルの「Googlebook」ノートPCを発表 Gemini前提の新ハード戦略",
-      "summary": "グーグルはGemini AIの利用を前提とした899ドルのノートPC「Googlebook」を発表。買い替え需要を狙った新たなハードウェア戦略とみられる(9/21)。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/"
+      "title": "xAI、新AIモデル「Grok 4.7」を発表 価格据え置きでコーディング性能向上",
+      "summary": "xAIはパラメータ数2.1兆の新モデル「Grok 4.7」を発表。Grok 4.6と同価格・同速度ながらコーディングや知識作業の性能を強化し、Cursorなどでも即日利用可能に。",
+      "source": "VentureBeat",
+      "link": "https://venturebeat.com/technology/grok-4-7-pairs-coding-gains-with-the-same-affordable-pricing-but-high-token-consumption-threatens-real-world-roi"
     },
     {
-      "title": "X、政府の要請で投稿を制限した際にユーザーへ通知する機能を追加",
-      "summary": "X(旧Twitter)は、各国政府の要請によって投稿の閲覧が制限された場合、ユーザーにその旨を通知する透明性機能を導入すると発表(9/21)。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/21/x-will-now-tell-users-when-governments-have-forced-it-to-limit-their-posts/"
+      "title": "東南アジアのAolani、NVIDIA Blackwell Ultra GPU2.2万基導入へ",
+      "summary": "クラウド事業者Aolaniは2027年初頭までにマレーシアとフィリピンの2拠点にNVIDIA Blackwell Ultra GPUを計2万2000基展開すると発表。総容量は100MW超に。",
+      "source": "TechNode Global",
+      "link": "https://technode.global/2026/09/22/aolani-nvidia-22000-gpu-ai-infrastructure-southeast-asia/"
     },
     {
-      "title": "MetaのAIエージェント「Muse」、Amazon.comへのアクセスをブロックされる",
-      "summary": "Meta製AIエージェント「Muse」がAmazon経由で買い物をしようとした際、「未承認のAIエージェントによる継続的なアクセスはAmazon利用規約違反」とのエラーが表示された(9/21)。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/"
+      "title": "アリババ、対エヌビディア新AI半導体「Zhenwu V900」を発表",
+      "summary": "アリババのT-Head部門は新型AIアクセラレーター「Zhenwu V900」を発表。前世代比3倍の性能で、2027年初頭に量産開始予定。米輸出規制下で国産代替を目指す。",
+      "source": "EE Times",
+      "link": "https://www.eetimes.com/alibaba-unveils-own-ai-chip-mounting-direct-challenge-to-nvidia/"
     },
     {
-      "title": "MetaのAIエージェント「Muse」、許可なくメッセージを読んでいるとの指摘",
-      "summary": "Meta「Muse」が、ユーザーが許可していないはずのメッセージ内容を把握しているとの指摘がユーザーから相次いでいる(9/21)。",
-      "source": "GIGAZINE",
-      "link": "https://gigazine.net/news/20260921-meta-muse-ai-agent-read-private-messages/"
+      "title": "OpenAI、フロンティアAIの国際安全基準策定を提案",
+      "summary": "OpenAIは21日、アラインメント研究と再帰的自己改善(RSI)技術に重点を置いた、フロンティアAI開発の安全・セキュリティに関する提案を公表した。",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/09/21/open-ai-alignment-rsi.html"
     },
     {
-      "title": "Gemini搭載スマートウォッチ「Google Pixel Watch 5」を使ってみた",
-      "summary": "GoogleのAIアシスタントGeminiを搭載した新型スマートウォッチ「Pixel Watch 5」の使用感をレビュー(9/21)。",
-      "source": "GIGAZINE",
-      "link": "https://gigazine.net/news/20260921-google-pixel-watch-review/"
+      "title": "アップル、新型Mac miniとMac Studioを本日発売",
+      "summary": "アップルはM6/M5 Pro搭載Mac miniと、M5 Max/M5 Ultra搭載Mac Studioを22日に発売。いずれもオンデバイスAI性能の強化が特徴で、8月下旬から予約受付済み。",
+      "source": "MacRumors",
+      "link": "https://www.macrumors.com/2026/09/21/new-mac-mini-and-mac-studio-launch-tomorrow/"
     },
     {
-      "title": "iPhone内蔵AI「Apple Foundation Models」とローカルでチャットする方法",
-      "summary": "無料アプリを使い、iPhoneに搭載されたApple製オンデバイスAI「Apple Foundation Models」のローカル処理能力を試す方法を紹介(9/21)。",
-      "source": "GIGAZINE",
-      "link": "https://gigazine.net/news/20260921-locally-ai-apple-foundation-models/"
-    },
-    {
-      "title": "アップル、Siri AI関連集団訴訟の和解サイトを公開 対象者に一人約25ドル",
-      "summary": "Siri AIの機能提供遅延を巡る集団訴訟で、アップルは和解サイトを21日開設。対象のiPhone購入者は12月21日まで申請可能で、1人あたり約25ドルが支払われる見通し。",
-      "source": "Axios",
-      "link": "https://www.axios.com/2026/09/21/apple-iphone-siri-ai-settlement-paid-eligibility"
-    },
-    {
-      "title": "MetaのAIエージェント「Muse」急成長で半導体株が急騰、AMDは時価総額1兆ドル目前に",
-      "summary": "Museの好調な滑り出しを受けAI向けチップ需要期待が高まり、21日の米株式市場でAMDが一時10%超上昇し時価総額1兆ドル目前に、インテルも14%超上昇した。",
+      "title": "MetaのAI「Muse」好調で韓国半導体株上昇も、アジア市場では過熱感薄れる",
+      "summary": "MetaのパーソナルAIエージェント「Muse」の好調な滑り出しを受けアジアの半導体株が上昇したが、22日にかけて上値の重さも見られ、投資家は需要の実態を見極めようとしている。",
       "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-21/amd-set-to-top-1-trillion-in-market-value-as-chip-stocks-soar"
+      "link": "https://www.bloomberg.com/news/articles/2026-09-22/korean-chip-stocks-gain-as-meta-s-muse-ai-agent-spurs-enthusiasm"
+    },
+    {
+      "title": "MetaのAIエージェント「Muse」、ChatGPTの初期成長ペースを上回る",
+      "summary": "9月8日に開始したMetaの「Muse」は、6日間で90万件超のダウンロードを記録し米App Store・Google Playの両方で首位に。ChatGPT登場初期の成長ペースを上回るとTechCrunchが分析。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/"
+    },
+    {
+      "title": "AMD、時価総額1兆ドル突破 米半導体で4社目",
+      "summary": "AMD株は21日に急伸し、時価総額が初めて1兆ドルを突破。Nvidia、Broadcom、Micronに続く米半導体4社目の到達で、MetaのAIエージェント好調によるAI関連株ラリーが追い風となった。",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/09/21/amd-stock-1-trillion-value.html"
     }
   ],
   "x_trending_tech": [
     {
-      "title": "Googlebookのファイルアプリ、スマホ版Antigravityとシームレス連携と話題に",
-      "summary": "新型ノートPC「Googlebook」のファイルアプリがスマートフォンやスマホ版Google Antigravityとシームレスに使えると投稿され話題に。Linux環境との連携にも言及(9/22朝の投稿)。",
-      "source": "@pcefancom",
-      "link": "https://x.com/pcefancom/status/2102038505367249224"
+      "title": "イーロン・マスク氏、新モデル「Grok 4.7」の強みをXで発信",
+      "summary": "マスク氏はXで、xAIが発表した新モデル「Grok 4.7」について「知能・速度・低コストの強力な組み合わせ」と投稿。9/22朝の投稿とみられる。",
+      "source": "@elonmusk",
+      "link": "https://x.com/elonmusk/status/2102071804495872374"
     },
     {
-      "title": "Android版Google Antigravity、Googlebook OSのLinuxターミナルと連携と話題に",
-      "summary": "Android版のGoogle Antigravityが登場し、Googlebook OS上のLinuxターミナルと連携する仕様であることが投稿され注目を集めた(9/22朝の投稿)。",
-      "source": "@Helen_Tech",
-      "link": "https://x.com/Helen_Tech/status/2102034476268413126"
+      "title": "Claude(Anthropic)に大規模障害、Downdetectorに1600件超の報告",
+      "summary": "9/22朝(日本時間10時頃)、ClaudeやClaude Code、APIで高いエラー率が発生し利用者から障害報告が相次いだ。Anthropicは原因を特定し順次復旧したと発表。",
+      "source": "@downdetector",
+      "link": "https://x.com/downdetector/status/2102202930912792626"
+    },
+    {
+      "title": "ザッカーバーグ氏、AIエージェント「Muse」とShopifyの連携をXで発表",
+      "summary": "MetaのザッカーバーグCEOはXで「MuseでのショッピングとチェックアウトをよりスムーズにするためShopifyと提携」と投稿。9/22午後(日本時間)の投稿とみられる。",
+      "source": "@finkd",
+      "link": "https://x.com/finkd/status/2102154890344849641"
     }
   ]
 }
