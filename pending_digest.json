@@ -1,99 +1,105 @@
 {
-  "run_label": "9/23 19:00",
+  "run_label": "9/24 07:00",
   "politics_economy": [
     {
-      "title": "高市首相、国連総会で初の一般討論演説 ICC「一貫して支持」を表明",
-      "summary": "高市早苗首相は9月23日、国連総会で就任後初の一般討論演説を行い、国際刑事裁判所（ICC）への支持を改めて強調。北朝鮮による拉致問題の早期解決や法の支配に基づく国際秩序への貢献にも言及した。",
+      "title": "米中首脳、24日ワシントンで会談へ 習主席が11年ぶり訪米",
+      "summary": "中国の習近平国家主席が9月23日夜、ワシントン近郊のアンドルーズ空軍基地に到着。トランプ大統領自らが出迎える異例の対応を取り、24日にホワイトハウスで首脳会談、続いて公式晩さん会に臨む。貿易摩擦の休戦延長やAI、台湾問題などが議題となる見通し。",
       "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026092300155&g=pol"
+      "link": "https://news.yahoo.co.jp/articles/0ef8106f992f1778a849b02ae6a3ee2f9171509e"
     },
     {
-      "title": "高市首相、トランプ大統領とNYで会談 対中連携を確認",
-      "summary": "高市首相は9月23日朝（日本時間）、国連本部でトランプ米大統領と会談。24日に予定される米中首脳会談を前に、経済安全保障を含む対中課題での日米連携を確認した。",
-      "source": "日本テレビ系(NNN)/Infoseekニュース",
-      "link": "https://news.infoseek.co.jp/article/ntv_2026092301517934/"
+      "title": "高市首相、国連日程終え帰国へ 臨時国会は10月5日召集、食品消費税減税法案を提出方針",
+      "summary": "高市早苗首相は国連総会出席や日米首脳会談などの日程を終え、9月23日に帰国の途に就いた。10月5日召集予定の臨時国会に、来年4月からの食料品消費税率引き下げ法案を提出する方針で、「多くの政党に賛同してもらえるよう丁寧に審議に臨む」と述べた。",
+      "source": "NHKニュース/KSB瀬戸内海放送",
+      "link": "https://news.ksb.co.jp/ann/article/16909826"
     },
     {
-      "title": "OECD、2027年の世界インフレ率予測を3.6%に上方修正",
-      "summary": "OECDは9月23日発表の経済見通しで、資源価格の再上昇を反映し2027年の世界物価上昇率予測を3.6%に引き上げた。エネルギー輸入依存度の高い日本のインフレ率も27年に加速するとの見通しを示した。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOGR222BN0S6A920C2000000/"
-    },
-    {
-      "title": "東京外為市場、ドル円157円台後半でじり高",
-      "summary": "9月23日の東京外国為替市場でドル・円は157円台後半までじり高となった。米金利先高観によるドル高が背景で、財政運営への懸念から円売りも続いている。",
+      "title": "NY外為市場、米PMI予想外の上昇でドル買い加速 円は157円台後半",
+      "summary": "9月23日のニューヨーク外国為替市場で、米9月PMI速報値が予想外に上昇し2023年以来の高水準となったことを受けドル買いが加速。ドル・円は157円台前半から158円台まで上昇したが、当局の円安是正介入への警戒感から伸び悩んだ。",
       "source": "財経新聞",
-      "link": "https://www.zaikei.co.jp/article/20260923/870883.html"
+      "link": "https://www.zaikei.co.jp/article/20260924/870922.html"
+    },
+    {
+      "title": "2026年アジア成長率、内需堅調で5.0%に上方修正 ADB発表",
+      "summary": "アジア開発銀行(ADB)は9月23日、日本など一部先進国を除くアジア太平洋地域の2026年の経済成長率見通しを5.0%とし、7月時点の予測から0.1ポイント上方修正したと発表した。インドは7.0%に引き上げられた一方、エルニーニョ現象による異常気象などをリスク要因に挙げた。",
+      "source": "共同通信",
+      "link": "https://news.yahoo.co.jp/articles/6b93d8f645ef96ce268fd790395dd386fd432390"
+    },
+    {
+      "title": "ジャングリア沖縄の親会社、開業後初の決算で173億円の最終赤字",
+      "summary": "沖縄の大型テーマパーク「ジャングリア沖縄」を運営する会社の親会社が、開業後初となる決算で173億円余りの最終赤字を計上したことが9月23日、明らかになった。沖縄経済の起爆剤として期待される中、厳しい経営実態が浮き彫りになった。",
+      "source": "NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260923de52050"
     }
   ],
   "tech": [
     {
-      "title": "国連安保理、AIの国際安全保障巡り異例のハイレベル会合 米中主要AI企業が同席",
-      "summary": "フランス主導で国連安全保障理事会が9月23日、AIと国際安全保障をテーマにした会合を開催。OpenAIやAnthropicに加え中国のDeepSeek、Moonshotの代表も招かれ、米中の主要AI開発企業が安保理の場で顔をそろえるのは初めて。",
-      "source": "Seoul Economic Daily",
-      "link": "https://en.sedaily.com/international/2026/09/23/moonshot-deepseek-to-join-openai-anthropic-at-un-talks"
+      "title": "Anthropic、Claudeエージェント群がバクテリオファージの新規酵素システムを発見",
+      "summary": "Anthropicは9月23日、新設した生物学研究ラボにおいて、約950体のClaudeエージェントが21時間・2.1億トークンを費やす自律研究の末、バクテリオファージのDNAにCRISPRに似た繰り返し配列を伴う未知の酵素システム「ART」を発見したと発表した。同社の生物学ラボによる最初の成果となる。",
+      "source": "Anthropic公式ブログ",
+      "link": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system"
     },
     {
-      "title": "仏Mistral AI、広告制作AIスタートアップPimentoを買収 今年3件目のM&A",
-      "summary": "フランスのMistral AIが9月23日、パリ拠点の広告クリエイティブAIスタートアップPimentoの買収を確認。買収額は非公表で、Pimentoの人員は対話型アシスタント「Vibe」の開発チームに合流する見込み。",
-      "source": "Sifted",
-      "link": "https://sifted.eu/articles/exclusive-mistral-pimento-acquisition"
+      "title": "Meta Connect 2026開幕、カメラなしAIグラス「Luna」やMR新型「Project Phoenix」を発表",
+      "summary": "Meta社は9月23日(現地時間)開幕の年次開発者会議「Meta Connect 2026」の基調講演で、プライバシー懸念に配慮しカメラを搭載しない新型スマートグラス「Luna」、上位モデル「Ray-Ban Meta Gen 3」、コンピュートパック式MRヘッドセット「Project Phoenix」を披露した。",
+      "source": "Tom's Guide",
+      "link": "https://www.tomsguide.com/news/live/meta-connect-2026-live"
     },
     {
-      "title": "OpenAIとAnthropic、「減速」提言からわずか10日で値下げ競争",
-      "summary": "9月22日にOpenAIのGPT-6 Sol/Lunaが、ほぼ同時にAnthropicのClaude Opus 5.5が投入され、いずれも大幅値下げを打ち出した。両社CEOが業界に開発減速を呼びかけたわずか10日後の値下げ合戦だと9月23日付で報じられた。",
-      "source": "DIGITIMES",
-      "link": "https://www.digitimes.com/news/a20260923VL200/anthropic-openai-opus-claude-price.html"
+      "title": "クアルコム、2nmプロセスの新型Snapdragon 8 Elite Gen 6/Extreme Gen 6を発表",
+      "summary": "クアルコムは9月23日開催の「Snapdragon Summit」で、TSMCの2nmプロセスを採用した新フラッグシップチップ「Snapdragon 8 Elite Gen 6」「Extreme Gen 6」を発表。世界初の5GHz動作モバイルCPUを搭載し、端末上で300億パラメータ規模のAIモデルを実行できるという。Xiaomiなどが採用予定。",
+      "source": "Tech Times",
+      "link": "https://www.techtimes.com/articles/327920/20260923/qualcomm-snapdragon-summit-debuts-dual-2nm-chips-extreme-gen-6-runs-30b-ai-models-offline.htm"
     },
     {
-      "title": "Microsoft、Copilot値引き拡大とAI「スーパーアプリ」を同時展開へ",
-      "summary": "The Informationの報道によると、Microsoftは大口契約する法人顧客向けにCopilotの割引率を最大30〜50%に拡大する方針。コーディング支援やAIエージェント機能を統合した新しい「Copilotスーパーアプリ」の10月投入とあわせて、9月23日に伝えられた。",
-      "source": "The Information（GuruFocus経由）",
-      "link": "https://www.gurufocus.com/news/9093058/microsoft-boosts-copilot-subscription-discounts-amid-ai-enhancements"
+      "title": "マイクロソフト、AI悪用のフィッシング詐欺基盤「EvilTokens」を摘発",
+      "summary": "マイクロソフトは9月22日、AIチャットボットを使い盗んだメールを自動分析するフィッシング代行サービス「EvilTokens」を、米連邦裁判所の許可を得てドメイン差し押さえなどにより摘発したと発表。世界1万社以上、1万2000件超のMicrosoft 365アカウントが被害を受けていた。",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html"
     },
     {
-      "title": "NvidiaのGPUレンタル先物、CFTCの審査延長でCME上場延期の公算",
-      "summary": "CMEグループが10月上旬に予定していたNvidia H100/B200のGPUレンタル価格先物の上場について、CFTC(米商品先物取引委員会)が市場の不透明さを理由に審査期間を11月9日まで延長し、予定通りの上場が困難な情勢に。9月23日付で報じられた。",
-      "source": "The Information（GuruFocus経由）",
-      "link": "https://www.gurufocus.com/news/9093051/nvidia-gpu-futures-face-regulatory-delays-amid-growing-ai-infrastructure-demand"
+      "title": "米VC大手ベセマー、AI向け2ファンドで57.5億ドルを調達",
+      "summary": "米ベンチャーキャピタル大手ベセマー・ベンチャー・パートナーズは9月23日、AI関連スタートアップへの投資を目的とした2本の新ファンドで総額57.5億ドルを調達したと発表した。うち17.5億ドルはシード・アーリー期、40億ドルはスケール期の企業に充てられる。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/09/23/vc-firm-bessemer-now-has-another-5-75b-to-invest-in-what-else-ai/"
     },
     {
-      "title": "メタ株、AIエージェント「Muse」への期待でオプション取引が平時の4.5倍に急増",
-      "summary": "Meta株のオプション取引高が9月23日、通常の約4.5倍に急増。AIエージェント「Muse」への投資家の期待の高まりが背景で、同日開幕のMeta Connectでの新発表への思惑も相場を押し上げている。",
-      "source": "財経新聞",
-      "link": "https://www.zaikei.co.jp/article/20260923/870913.html"
+      "title": "ChatGPTモバイルアプリ、音声ベースのエージェント機能を追加",
+      "summary": "OpenAIは9月23日、ChatGPTのモバイルアプリに音声操作でタスクを自律的にこなすエージェント機能を追加したと発表した。音声での指示だけでアプリ内の複数ステップの作業を完結できるようになるという。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/"
     },
     {
-      "title": "AI半導体不足、2030年まで続く見通し CLSA「ピークは2028年」予測に反論",
-      "summary": "証券大手CLSAのアナリストは、GPUやAI専用チップの需要が供給を約73%上回っており、不足は2030年頃まで続くとの見方を示した。「半導体サイクルは2028年にピークを迎える」との市場予想は「完全に誤り」だと指摘している。",
-      "source": "Benzinga",
-      "link": "https://www.benzinga.com/markets/tech/26/09/61939663/ai-chip-boom-peaking-in-2028-analyst-says-thats-utterly-wrong-as-shortage-could-last-until-2030"
+      "title": "AI創薬のEnveda、シリーズEで3.11億ドルを調達 評価額20億ドルに",
+      "summary": "天然由来化合物からAIで新薬候補を発見するバイオ企業Envedaは9月23日、Catalio Capital Management主導のシリーズEで3億1100万ドルを調達したと発表。評価額は約20億ドルとなり、1年前から倍増した。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/"
     },
     {
-      "title": "Cisco、量子鍵配送(QKD)をIOS XRルーターに統合 英KETSと実証",
-      "summary": "Ciscoは英KETS Quantum Securityとの提携で、チップベースの量子鍵配送(QKD)技術をIOS XR対応ルーターに統合したと発表。MACsecを用いた自動鍵交換・暗号化を実証し、量子耐性ネットワークへの移行を後押しする。9月23日付で報じられた。",
-      "source": "The Quantum Insider",
-      "link": "https://thequantuminsider.com/2026/09/23/cisco-kets-integrate-qkd-ios-xr-routers/"
-    },
-    {
-      "title": "「AI俳優」ティリー・ノーウッド、生放送インタビュー中に突然広東語で話し出す",
-      "summary": "生成AIが生み出したバーチャル女優ティリー・ノーウッドが、英国の番組出演中に英語から広東語に突然切り替わるハプニングが発生。制作会社Particle6は誤作動ではなく「広東語の単語を聞き取って反応した」と説明し、話題になっている。",
+      "title": "OpenAI、9月29日のDevDayで新AIエージェント発表へ ソフトウェア株に警戒感",
+      "summary": "OpenAIは米国時間9月29日、サンフランシスコで年次開発者会議「DevDay」を開催し、業務を自律的にこなす新たなAIエージェント関連サービスを発表するとみられる。企業向けソフトウェア株の投資家の間では、再び売りが広がりかねないとの警戒感が出ている。",
       "source": "Forbes JAPAN",
-      "link": "https://forbesjapan.com/articles/detail/105041"
+      "link": "https://forbesjapan.com/articles/detail/105213"
+    },
+    {
+      "title": "NVIDIA、ロボット向けAIエージェント開発基盤「Isaac ROS 5.0」を公開",
+      "summary": "NVIDIAはロボット開発者会議ROSConで、GPUアクセラレーションによるオープンソースのロボット開発プラットフォーム最新版「Isaac ROS 5.0」を公開した。エージェント型ワークフローに対応し、ステレオ知覚や物体追跡向けの再利用可能な「Isaacスキル」を新たに搭載する。",
+      "source": "NVIDIA Blog",
+      "link": "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/"
     }
   ],
   "x_trending_tech": [
     {
-      "title": "OpenAI公式、第三者機関によるAIモデル安全性評価の拡大を発表",
-      "summary": "OpenAI公式アカウントは、訓練・評価・デプロイの全段階で外部の独立評価機関に深いアクセスを提供すると投稿。METRやRedwood Researchなどとの協業も検討中としている。9/23未明(JST)の投稿。",
-      "source": "@OpenAI",
-      "link": "https://x.com/OpenAI/status/2102447425243828347"
+      "title": "Anthropicの新研究ラボ、950体のClaudeエージェントが21時間で新酵素系を発見と話題に",
+      "summary": "AI分野で影響力のあるアカウントが、Anthropicの新設「生物学ラボ」で約950体のClaudeエージェントが自律的に未知の酵素システムを発見したニュースを紹介し、大きな反響を呼んだ。9/23午後(米国時間)の投稿。",
+      "source": "@rohanpaul_ai",
+      "link": "https://x.com/rohanpaul_ai/status/2102827706316710303"
     },
     {
-      "title": "MetaのAIエージェント「Muse」、銀行・保険株の急落を誘発と話題に",
-      "summary": "Bloomberg記事を引用し、Meta「Muse」の台頭で『消費者の惰性』に依存するJPモルガンやウェルズ・ファーゴなど銀行株、保険株、旅行予約株が下落したと投稿。9/23未明(JST)の投稿。",
-      "source": "@cfromhertz",
-      "link": "https://x.com/cfromhertz/status/2102464735463580131"
+      "title": "クアルコム公式、Snapdragon 8 Elite Gen 6発表を投稿 世界初5GHz駆動モバイルCPUと紹介",
+      "summary": "クアルコムの公式アカウントが、Snapdragon Summitで発表した新チップ「Snapdragon 8 Elite Extreme Gen 6」「8 Elite Gen 6」について、エージェント型AI時代に向けた世界初の5GHz駆動モバイルCPUだと投稿し話題になった。9/23の投稿。",
+      "source": "@Snapdragon",
+      "link": "https://x.com/Snapdragon/status/2102489494880497880"
     }
   ]
 }
