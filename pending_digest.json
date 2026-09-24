@@ -1,105 +1,99 @@
 {
-  "run_label": "9/24 07:00",
+  "run_label": "9/24 19:00",
   "politics_economy": [
     {
-      "title": "米中首脳、24日ワシントンで会談へ 習主席が11年ぶり訪米",
-      "summary": "中国の習近平国家主席が9月23日夜、ワシントン近郊のアンドルーズ空軍基地に到着。トランプ大統領自らが出迎える異例の対応を取り、24日にホワイトハウスで首脳会談、続いて公式晩さん会に臨む。貿易摩擦の休戦延長やAI、台湾問題などが議題となる見通し。",
-      "source": "時事通信",
-      "link": "https://news.yahoo.co.jp/articles/0ef8106f992f1778a849b02ae6a3ee2f9171509e"
+      "title": "習近平氏が米国到着、トランプ氏が異例の出迎え 24日に4カ月ぶり米中首脳会談へ",
+      "summary": "中国の習近平国家主席が9月23日午後(日本時間24日午前)、ワシントン郊外のアンドルーズ空軍基地に到着した。トランプ大統領自らが出迎える異例の対応をとり、24日にホワイトハウスで約4カ月ぶりとなる米中首脳会談に臨む。貿易「休戦」の延長やAI、台湾問題などが議題となる見通し。",
+      "source": "テレビ朝日系(ANN)",
+      "link": "https://news.yahoo.co.jp/articles/4507c02b76018e75907c2924fc9967ab36e58f18"
     },
     {
-      "title": "高市首相、国連日程終え帰国へ 臨時国会は10月5日召集、食品消費税減税法案を提出方針",
-      "summary": "高市早苗首相は国連総会出席や日米首脳会談などの日程を終え、9月23日に帰国の途に就いた。10月5日召集予定の臨時国会に、来年4月からの食料品消費税率引き下げ法案を提出する方針で、「多くの政党に賛同してもらえるよう丁寧に審議に臨む」と述べた。",
-      "source": "NHKニュース/KSB瀬戸内海放送",
-      "link": "https://news.ksb.co.jp/ann/article/16909826"
-    },
-    {
-      "title": "NY外為市場、米PMI予想外の上昇でドル買い加速 円は157円台後半",
-      "summary": "9月23日のニューヨーク外国為替市場で、米9月PMI速報値が予想外に上昇し2023年以来の高水準となったことを受けドル買いが加速。ドル・円は157円台前半から158円台まで上昇したが、当局の円安是正介入への警戒感から伸び悩んだ。",
-      "source": "財経新聞",
-      "link": "https://www.zaikei.co.jp/article/20260924/870922.html"
-    },
-    {
-      "title": "2026年アジア成長率、内需堅調で5.0%に上方修正 ADB発表",
-      "summary": "アジア開発銀行(ADB)は9月23日、日本など一部先進国を除くアジア太平洋地域の2026年の経済成長率見通しを5.0%とし、7月時点の予測から0.1ポイント上方修正したと発表した。インドは7.0%に引き上げられた一方、エルニーニョ現象による異常気象などをリスク要因に挙げた。",
-      "source": "共同通信",
-      "link": "https://news.yahoo.co.jp/articles/6b93d8f645ef96ce268fd790395dd386fd432390"
-    },
-    {
-      "title": "ジャングリア沖縄の親会社、開業後初の決算で173億円の最終赤字",
-      "summary": "沖縄の大型テーマパーク「ジャングリア沖縄」を運営する会社の親会社が、開業後初となる決算で173億円余りの最終赤字を計上したことが9月23日、明らかになった。沖縄経済の起爆剤として期待される中、厳しい経営実態が浮き彫りになった。",
+      "title": "茂木外相、ホルムズ海峡の安全確保めぐり国際社会での議論の必要性を訴え",
+      "summary": "訪問先のニューヨークで開かれた海洋安全保障に関する外相会合で、茂木敏充外相が9月23日(日本時間24日)、中東情勢に関連しホルムズ海峡のあり方について国際社会全体で議論する必要があると訴えた。",
       "source": "NHKニュース",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260923de52050"
+      "link": "https://news.web.nhk/newsweb/na/nd-20260924de52081"
+    },
+    {
+      "title": "日経平均、4日続伸で495円高の6万5513円 AI・半導体株けん引",
+      "summary": "9月24日の東京株式市場で日経平均株価は4日続伸し、前営業日比495円04銭(0.76%)高の6万5513円99銭で取引を終えた。シルバーウイーク中の米国市場でのAI・半導体株上昇を受け、東京市場でも関連銘柄中心に買いが広がった。",
+      "source": "共同通信",
+      "link": "https://news.yahoo.co.jp/articles/c931db640b85e0435403e57eab721ec939fcc7b5"
+    },
+    {
+      "title": "円相場、8日続落で158円台半ば 米長期金利上昇で3週間ぶり安値",
+      "summary": "9月24日のニューヨーク外国為替市場で円が8営業日連続で下落し、一時1ドル=158円台半ばまで下落、約3週間ぶりの円安水準となった。米9月PMIが予想外に上昇し米長期金利が2007年以来の高水準に上昇したことが背景。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOFL245S80U6A920C2000000/"
+    },
+    {
+      "title": "ソフトバンクグループ、111億ドルの高利回り社債発行を決定 OpenAI追加出資に充当",
+      "summary": "ソフトバンクグループは9月24日、ドル建てとユーロ建てで総額111億ドル相当(約1兆7000億円)のジャンク債発行条件を確定したと発表した。調達資金の大半はOpenAIへの第3弾払込み投資(10月1日期限)に充てられる。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/jp/news/articles/2026-09-23/TLSQ80VTTD0T00"
     }
   ],
   "tech": [
     {
-      "title": "Anthropic、Claudeエージェント群がバクテリオファージの新規酵素システムを発見",
-      "summary": "Anthropicは9月23日、新設した生物学研究ラボにおいて、約950体のClaudeエージェントが21時間・2.1億トークンを費やす自律研究の末、バクテリオファージのDNAにCRISPRに似た繰り返し配列を伴う未知の酵素システム「ART」を発見したと発表した。同社の生物学ラボによる最初の成果となる。",
-      "source": "Anthropic公式ブログ",
-      "link": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system"
+      "title": "Meta Connect 2026が閉幕、開発者向け基調講演でMuse拡張やAIツール群を発表",
+      "summary": "9月24日(現地時間)、Meta Connect 2026の2日目は開発者向けの基調講演が行われ、AIエージェント「Muse」の機能拡張やスマートグラス向け開発者ツールの強化などが発表された。前日にはカメラなし新型スマートグラス「Luna」なども披露されている。",
+      "source": "Meta公式(about.fb.com)",
+      "link": "https://about.fb.com/ja/news/2026/09/meta-connect-2026-everything-we-announced/"
     },
     {
-      "title": "Meta Connect 2026開幕、カメラなしAIグラス「Luna」やMR新型「Project Phoenix」を発表",
-      "summary": "Meta社は9月23日(現地時間)開幕の年次開発者会議「Meta Connect 2026」の基調講演で、プライバシー懸念に配慮しカメラを搭載しない新型スマートグラス「Luna」、上位モデル「Ray-Ban Meta Gen 3」、コンピュートパック式MRヘッドセット「Project Phoenix」を披露した。",
-      "source": "Tom's Guide",
-      "link": "https://www.tomsguide.com/news/live/meta-connect-2026-live"
+      "title": "Tesla、ネバダ州新工場で「Semi」量産開始を記念するイベントを開催",
+      "summary": "Teslaは9月24日、米ネバダ州スパークスの工場で招待制のイベントを開き、電動大型トラック「Semi」の量産ラインを公開した。年産5万台体制を目指す商業生産への移行を示すもので、10月1日のRoadster発表に向けた「30日間連続発表」の一環。",
+      "source": "Basenor",
+      "link": "https://www.basenor.com/blogs/news/tesla-semi-on-display-at-giga-texas-ahead-of-september-24-factory-launch"
     },
     {
-      "title": "クアルコム、2nmプロセスの新型Snapdragon 8 Elite Gen 6/Extreme Gen 6を発表",
-      "summary": "クアルコムは9月23日開催の「Snapdragon Summit」で、TSMCの2nmプロセスを採用した新フラッグシップチップ「Snapdragon 8 Elite Gen 6」「Extreme Gen 6」を発表。世界初の5GHz動作モバイルCPUを搭載し、端末上で300億パラメータ規模のAIモデルを実行できるという。Xiaomiなどが採用予定。",
-      "source": "Tech Times",
-      "link": "https://www.techtimes.com/articles/327920/20260923/qualcomm-snapdragon-summit-debuts-dual-2nm-chips-extreme-gen-6-runs-30b-ai-models-offline.htm"
+      "title": "半導体・メモリー株、NY市場で軒並み下落 SKハイニックスなど2%超安",
+      "summary": "9月23日の米株式市場で主要3指数がそろって下落する中、半導体・メモリーチップ関連株が下げを主導した。SKハイニックス、シーゲイト、ウエスタンデジタルが2%超下落したほか、サンディスク、インテル、ブロードコム、AMDなども軒並み1%超安となった。",
+      "source": "TradingKey",
+      "link": "https://www.tradingkey.com/jp/analysis/stocks/us-stocks/261985800-us-stock-market-close-nasdaq-qqq-philadelphia-semiconductor-micron-spacex-tradingkey"
     },
     {
-      "title": "マイクロソフト、AI悪用のフィッシング詐欺基盤「EvilTokens」を摘発",
-      "summary": "マイクロソフトは9月22日、AIチャットボットを使い盗んだメールを自動分析するフィッシング代行サービス「EvilTokens」を、米連邦裁判所の許可を得てドメイン差し押さえなどにより摘発したと発表。世界1万社以上、1万2000件超のMicrosoft 365アカウントが被害を受けていた。",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html"
+      "title": "Anthropic、データセンター容量1GWの直接リース交渉 Broadcom/Google製TPUとNvidia GPU搭載を検討",
+      "summary": "Anthropicは、Apollo Global Management傘下のStream Data Centersから最大1ギガワット分のデータセンター容量を直接リースする交渉を進めていると報じられた。Google・Broadcom製TPUに加えNvidia GPUの搭載も検討されており、投資額は400億ドル規模になる見通し。",
+      "source": "TipRanks",
+      "link": "https://www.tipranks.com/news/anthropic-eyes-1-gw-data-center-lease-to-house-broadcom-google-and-nvidia-chips"
     },
     {
-      "title": "米VC大手ベセマー、AI向け2ファンドで57.5億ドルを調達",
-      "summary": "米ベンチャーキャピタル大手ベセマー・ベンチャー・パートナーズは9月23日、AI関連スタートアップへの投資を目的とした2本の新ファンドで総額57.5億ドルを調達したと発表した。うち17.5億ドルはシード・アーリー期、40億ドルはスケール期の企業に充てられる。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/23/vc-firm-bessemer-now-has-another-5-75b-to-invest-in-what-else-ai/"
+      "title": "Xiaomi、Snapdragon 8 Elite Gen 6搭載の「Xiaomi 18 Pro/Pro Max」を発表",
+      "summary": "Xiaomiは9月23日、クアルコムの新チップ「Snapdragon 8 Elite Gen 6」「同Extreme Gen 6」を世界で初めて搭載するフラッグシップ機「Xiaomi 18 Pro」「同Pro Max」を中国で発表した。7000mAh超のバッテリーや背面ディスプレイを搭載し、年内に世界展開する方針。",
+      "source": "Gizmochina",
+      "link": "https://www.gizmochina.com/2026/09/23/xiaomi-18-pro-series-global-launch-confirmed/"
     },
     {
-      "title": "ChatGPTモバイルアプリ、音声ベースのエージェント機能を追加",
-      "summary": "OpenAIは9月23日、ChatGPTのモバイルアプリに音声操作でタスクを自律的にこなすエージェント機能を追加したと発表した。音声での指示だけでアプリ内の複数ステップの作業を完結できるようになるという。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/"
+      "title": "Cisco Talos、初の自律型AIマルウェア「CLOSEDQUORUM」を発見",
+      "summary": "Cisco Talosは9月22日、DeepSeek・Qwen・Mistral・Google Geminiの4つのAIモデルに攻撃内容を投票させ、人間の操作なしに次の行動を決定する自律型マルウェア「CLOSEDQUORUM」を初めて確認したと発表した。実際の攻撃での使用は未確認としている。",
+      "source": "Cisco Talos Blog",
+      "link": "https://blog.talosintelligence.com/the-closed-quorum-inside-the-first-reported-autonomous-ai-c2-implant/"
     },
     {
-      "title": "AI創薬のEnveda、シリーズEで3.11億ドルを調達 評価額20億ドルに",
-      "summary": "天然由来化合物からAIで新薬候補を発見するバイオ企業Envedaは9月23日、Catalio Capital Management主導のシリーズEで3億1100万ドルを調達したと発表。評価額は約20億ドルとなり、1年前から倍増した。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/"
+      "title": "国内AIスタートアップFastLabel、丸紅・ソニーベンチャーズなどから3億円調達",
+      "summary": "AI学習データの加工事業を手がけるFastLabelが、丸紅やソニーベンチャーズなどから総額3億円を調達したと発表した。9月24〜27日に発表された国内スタートアップ資金調達の一つで、AI関連の大型案件が資金調達をけん引する流れが続いている。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUC243ZI0U4A920C2000000/"
     },
     {
-      "title": "OpenAI、9月29日のDevDayで新AIエージェント発表へ ソフトウェア株に警戒感",
-      "summary": "OpenAIは米国時間9月29日、サンフランシスコで年次開発者会議「DevDay」を開催し、業務を自律的にこなす新たなAIエージェント関連サービスを発表するとみられる。企業向けソフトウェア株の投資家の間では、再び売りが広がりかねないとの警戒感が出ている。",
-      "source": "Forbes JAPAN",
-      "link": "https://forbesjapan.com/articles/detail/105213"
+      "title": "米中首脳会談の晩さん会にNVIDIAフアンCEOらが出席、中国企業は同行せずと米報道",
+      "summary": "9月24日にホワイトハウスで開かれる米中首脳会談後の晩さん会に、NVIDIAのジェンスン・フアンCEOやゼネラル・モーターズ首脳ら米財界トップが出席する見通しと報じられた。一方、習近平氏に同行するはずだった中国企業幹部団は訪米に同行しないと一転したと伝えられている。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOGN232XC0T20C26A9000000/"
     },
     {
-      "title": "NVIDIA、ロボット向けAIエージェント開発基盤「Isaac ROS 5.0」を公開",
-      "summary": "NVIDIAはロボット開発者会議ROSConで、GPUアクセラレーションによるオープンソースのロボット開発プラットフォーム最新版「Isaac ROS 5.0」を公開した。エージェント型ワークフローに対応し、ステレオ知覚や物体追跡向けの再利用可能な「Isaacスキル」を新たに搭載する。",
-      "source": "NVIDIA Blog",
-      "link": "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/"
+      "title": "xAI「Grok」利用者数が急増、マスク氏「かつてない伸び」と投稿",
+      "summary": "イーロン・マスク氏は9月23日、xAIのチャットボット「Grok」の利用が「これまで見た中で最も速い伸び」を示していると投稿した。音声メッセージや1Passwordボルト連携など新機能も予告しており、週間利用者数は9月14日時点で前週比24%増の41.8万人に達したという。",
+      "source": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/technology/ai/articles/elon-musks-grok-bot-hits-190459564.html"
     }
   ],
   "x_trending_tech": [
     {
-      "title": "Anthropicの新研究ラボ、950体のClaudeエージェントが21時間で新酵素系を発見と話題に",
-      "summary": "AI分野で影響力のあるアカウントが、Anthropicの新設「生物学ラボ」で約950体のClaudeエージェントが自律的に未知の酵素システムを発見したニュースを紹介し、大きな反響を呼んだ。9/23午後(米国時間)の投稿。",
-      "source": "@rohanpaul_ai",
-      "link": "https://x.com/rohanpaul_ai/status/2102827706316710303"
-    },
-    {
-      "title": "クアルコム公式、Snapdragon 8 Elite Gen 6発表を投稿 世界初5GHz駆動モバイルCPUと紹介",
-      "summary": "クアルコムの公式アカウントが、Snapdragon Summitで発表した新チップ「Snapdragon 8 Elite Extreme Gen 6」「8 Elite Gen 6」について、エージェント型AI時代に向けた世界初の5GHz駆動モバイルCPUだと投稿し話題になった。9/23の投稿。",
-      "source": "@Snapdragon",
-      "link": "https://x.com/Snapdragon/status/2102489494880497880"
+      "title": "イーロン・マスク氏、Grokの利用急増を投稿 新機能も予告",
+      "summary": "マスク氏は9月23日、「Grokの利用がこれまでにない速さで伸びている」とXに投稿し話題に。数分後には音声メッセージや1Passwordボルト連携など新機能追加を予告する投稿も行った。",
+      "source": "@elonmusk",
+      "link": "https://x.com/elonmusk/status/2102798608227795393"
     }
   ]
 }
