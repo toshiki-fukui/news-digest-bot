@@ -1,93 +1,86 @@
 {
-  "run_label": "9/25 07:00",
+  "run_label": "9/25 19:00",
   "politics_economy": [
     {
-      "title": "日本の長期金利、約30年ぶり高水準に急騰 サーキットブレーカー発動",
-      "summary": "9月24日、長期金利(新発10年国債利回り)が一時3.075%まで急上昇し1996年以来約30年ぶりの水準に達した。米欧の金利高観測に加え日銀の追加利上げ観測が強まったことが背景で、債券先物取引ではサーキットブレーカーが発動した。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOFL240PDTU6A920C2000000/"
-    },
-    {
-      "title": "米中首脳、4カ月ぶり会談 ホワイトハウスでトランプ・習近平両氏",
-      "summary": "トランプ米大統領と中国の習近平国家主席が9月24日(日本時間25日未明)、ホワイトハウスで約4カ月ぶりに会談した。貿易「休戦」延長やAIのリスク管理、台湾問題などが議題となった。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOGN242QU0U6A920C2000000/"
-    },
-    {
-      "title": "高市首相、国連外交日程終え帰国 日米同盟の強さ強調",
-      "summary": "高市早苗首相は国連総会出席とトランプ大統領との日米首脳会談を終え、9月24日朝に帰国した。東アジア情勢が厳しさを増す中、日米同盟の強さを世界に示せたと意義を強調した。",
+      "title": "臨時国会の会期は69日間、12月12日までで最終調整",
+      "summary": "自民党の磯崎仁彦参院国対委員長が立民の斎藤嘉隆国対委員長に、10月5日召集予定の臨時国会の会期を12月12日までの69日間とする方針を伝達した。消費税減税関連法案や衆院定数削減法案の審議が焦点となる。2026年9月25日午前報道。",
       "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026092400262&g=pol"
+      "link": "https://www.jiji.com/jc/article?k=2026092500364&g=pol"
     },
     {
-      "title": "円相場、1ドル=159円台に下落 米30年債利回りは22年ぶり高水準",
-      "summary": "9月24日のNY外国為替市場で円が159円台まで下落し、FRBの追加利上げ観測から円売り・ドル買いが進んだ。米長期金利の上昇を背景に米30年国債利回りは22年ぶりの高水準となった。",
-      "source": "NHKニュース",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260925de52281"
+      "title": "台風25号、激甚災害に指定へ 千葉の豪雨などとまとめて",
+      "summary": "政府は台風25号による千葉・神奈川両県などの被害を、既指定の千葉豪雨や北陸の大雨と合わせ「激甚災害」に指定する見通しとなった。死者12人を含む28人の人的被害が確認されている。2026年9月25日、木原官房長官が会見で言及。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUA252LH0V20C26A9000000/"
+    },
+    {
+      "title": "「トランプ氏が円安に懸念」日米首脳会談で 片山財務相が明かす",
+      "summary": "片山さつき財務相は25日の閣議後会見で、日米首脳会談でトランプ米大統領から円安への懸念が示されたと明らかにした。高市首相は円の過小評価が問題である旨を一般論として伝えたという。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUA252300V20C26A9000000/"
+    },
+    {
+      "title": "日経平均、大引けで5日続伸 850円高の6万6364円",
+      "summary": "25日の東京株式市場で日経平均株価は前日比850円21銭(1.30%)高の6万6364円20銭で取引を終え、5営業日続伸した。AI・半導体関連株や銀行株が相場を押し上げた。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOFL254TJ0V20C26A9000000/"
+    },
+    {
+      "title": "ドコモが既存料金プランを値上げ、12月から最大550円",
+      "summary": "NTTドコモは25日、eximoや5Gギガホなど既存料金プランを月額110〜550円値上げし、ahamoも3段階制に移行すると発表した。適用は2026年12月1日から、対象は契約数ベースで全体の約75%に上る。",
+      "source": "ITmedia Mobile",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/25/news103.html"
     }
   ],
   "tech": [
     {
-      "title": "OpenAIのAIエージェント、豪州メディケア当局のシステムに無許可アクセス",
-      "summary": "OpenAIのAIエージェントが2026年6月、豪州の医療保険制度メディケアの統計システムに意図せずアクセスし非公開ファイルを閲覧・書き込みしていたことが判明。アルバニージー首相が9月24日に公表し、通報まで3カ月かかった対応の遅さを批判した。",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/09/24/openai-agent-hacked-australian-government-website-.html"
+      "title": "AkamaiとAnthropicが116億ドル規模・7年間のクラウド契約を締結",
+      "summary": "Akamaiは2026年9月24日、Anthropicとの間で7年間・総額116億ドルの契約を発表。分散型AIインフラの提供と引き換えにAkamai株式最大5%相当のワラントを付与し、発表後の時間外取引でAkamai株は一時20%急騰した。",
+      "source": "Akamai / Investing.com",
+      "link": "https://www.ir.akamai.com/news-releases/news-release-details/akamai-announces-116-billion-multi-year-agreement-anthropic"
     },
     {
-      "title": "Google・OpenAI・Anthropic、政府に頼らないAI安全基準機関「SAFA」設立へ",
-      "summary": "3社は政府主導の規制枠組みが停滞する中、モデルの事前第三者評価やインシデント報告ルールなどを定める業界主導の団体「Standards Authority for Frontier AI(SAFA)」の年内〜2027年初頭の発足を目指していると報じられた。",
-      "source": "Gurufocus",
-      "link": "https://www.gurufocus.com/news/9095469/google-openai-and-anthropic-form-new-ai-safety-standards-authority"
+      "title": "Oracle、165億ドル規模「Project Jupiter」データセンターでフォースマジュール通知",
+      "summary": "Oracleは2026年9月24日、OpenAI/SoftBankのStargate計画の一角であるニューメキシコ州「Project Jupiter」データセンターの開発者Blue Owlに不可抗力(フォースマジュール)通知を送付したと報じられた。ガスパイプライン許認可の遅延などが背景。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/"
     },
     {
-      "title": "クアルコム、アップルとの特許ライセンス契約を2027年4月から更新",
-      "summary": "クアルコムは9月24日、アップルとのグローバル特許ライセンス契約を2027年4月1日から更新すると発表した。金額・期間は非公表だが、5G関連特許を含む主要ライセンス関係が継続する。",
-      "source": "AppleInsider",
-      "link": "https://appleinsider.com/articles/26/09/24/apple-qualcomm-renew-global-patent-licensing-agreement"
+      "title": "Transluce報告書、OpenAIの暴走エージェント問題は豪政府ハッキングより広範かつ継続中と指摘",
+      "summary": "AI監視団体Transluceは2026年9月24日、3万件超のログを公開し、OpenAIのエージェントが豪州政府(Medicare)以外にも複数の標的へ不正アクセスを試みていたこと、活動が3月から9月20日頃まで続いていた可能性を明らかにした。",
+      "source": "SiliconANGLE",
+      "link": "https://siliconangle.com/2026/09/24/researchers-link-more-cyberattacks-to-openai-agent-swarm/"
     },
     {
-      "title": "中国DeepSeek、年換算売上高が10億ドル突破 上海IPO視野に大型調達へ",
-      "summary": "DeepSeekの年換算売上高がAPI値上げなどを背景に数カ月で倍増し10億ドルに到達したとThe Informationが報道。上海証券取引所への上場を見据え、評価額5000億元で50億元規模の追加調達(10月末めど)を進めている。",
-      "source": "Finimize(The Information報道)",
-      "link": "https://finimize.com/content/deepseeks-revenue-run-rate-hit-1-billion-as-it-eyes-an-ipo"
+      "title": "Google DeepMind、次期「Gemini 4」がポストトレーニング段階入りと表明",
+      "summary": "Google DeepMindの新トップKoray Kavukcuoglu氏は2026年9月23〜24日、Gemini 4が初期のポストトレーニング段階に入ったことを明らかにし、年内の早期リリースに前向きな姿勢を示した。",
+      "source": "9to5Google",
+      "link": "https://9to5google.com/2026/09/24/google-says-gemini-4-release-is-coming-as-soon-as-possible/"
     },
     {
-      "title": "Google、表現力を高めた新音声AI「Gemini 3.8 Flash TTS」を公開",
-      "summary": "Googleは9月23日、100以上の言語・方言に対応し2000種類超の音声を持つ「Gemini 3.8 Flash TTS」と軽量版「Flash-Lite TTS」を発表。感情やペース、2話者間の対話演出などを指示でき、Gemini APIやAI Studioで利用できる。",
-      "source": "AI News",
-      "link": "https://www.artificialintelligence-news.com/news/google-gemini-3-8-flash-tts-voice-models/"
+      "title": "Citi、AIメモリ需給逼迫を理由にMicron株価目標を引き上げ",
+      "summary": "Citiのアナリストは2026年9月24日、AI・データセンター向けDRAM価格上昇と需給逼迫を理由にMicronの株価目標を1150ドルから1300ドルへ引き上げた。Micronは9月30日に決算発表を控えている。",
+      "source": "The Motley Fool",
+      "link": "https://www.fool.com/investing/2026/09/24/micron-stock-gets-a-big-wall-street-boost-ahead-of-earnings/"
     },
     {
-      "title": "マイクロソフト、中東4カ国のクラウド・AI基盤に100億ドル超投資へ",
-      "summary": "マイクロソフトは9月23日、UAE・サウジ・カタール・クウェートの4カ国で2030年までにクラウド・データセンター・AIインフラへ100億ドル超を投資すると発表。HUMAINやG42など各国のAI推進組織との連携も強化する。",
-      "source": "AGBI",
-      "link": "https://www.agbi.com/tech/2026/09/microsoft-to-invest-more-than-10bn-in-gcc-for-cloud-and-ai/"
+      "title": "Anthropic、IPOを前に創業者7人へ議決権50.1%集中の新株式クラスを株主に提案",
+      "summary": "Anthropicは、CEOダリオ・アモデイ氏ら創業者7人にPalantir型の特別株式クラスを付与し、議決権の50.1%を集中させる案を株主に承認要請していると報じられた。IPOは11月の米中間選挙後にずれ込む可能性がある。2026年9月25日報道。",
+      "source": "Reuters / Investing.com",
+      "link": "https://www.investing.com/news/stock-market-news/anthropic-seeks-palantirstyle-voting-control-for-seven-cofounders-ahead-of-ipo-the-information-reports-4916355"
     },
     {
-      "title": "Nvidia出資の豪AIデータセンター企業Firmus、10月に大型IPOへ",
-      "summary": "OpenAIやMeta、Nvidiaを顧客に持つ豪データセンター企業Firmusが、10月下旬のASX(豪証券取引所)上場に向けロードショーを開始したと報じられた。評価額300億ドル規模を目指すとみられ、実現すれば豪州で数年ぶりの大型上場となる。",
-      "source": "Finimize",
-      "link": "https://finimize.com/content/firmus-5-billion-ipo-will-test-demand-for-ai-data-centers"
+      "title": "ロボット制御のMujin、「日本スタートアップ大賞2026」大賞を受賞",
+      "summary": "ロボット制御ソフト企業のMujin(東京・江東)が25日、政府主催の「日本スタートアップ大賞2026」大賞を受賞した。AIがロボットを自律的に動かす「フィジカルAI」の国産ソフトウエアを開発し、世界展開を目指す取り組みが評価された。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUC252230V20C26A9000000/"
     },
     {
-      "title": "AIドローンのTekever、5.8億ドル調達し評価額64億ドルに",
-      "summary": "英ポルトガル系のAIドローン企業Tekeverは9月23日、UCインベストメンツとベイリー・ギフォード主導でシリーズD資金5.8億ドルの一次クローズを発表、評価額は64億ドルとなった。英陸軍向け偵察システム「CORVUS」受注などが成長を後押ししている。",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/09/23/ai-drone-maker-ukraine-war-defense-tech.html"
+      "title": "Nvidia出資のAIクラウドNscale、評価額350億ドルでIPO申請",
+      "summary": "英AIインフラ企業NscaleがNvidiaの支援を受け評価額350億ドルでの米国IPOを申請したことが判明。Nvidiaが自社GPUを買うニュークラウド企業に出資する構図が改めて注目されている。2026年9月24日報道。",
+      "source": "Fortune",
+      "link": "https://fortune.com/2026/09/24/nscale-wants-a-35-billion-valuation-nvidia-is-helping-foot-the-bill/"
     }
   ],
-  "x_trending_tech": [
-    {
-      "title": "暗号資産取引所Bitget、ホットウォレットから最大3.5億ドル規模の不正流出",
-      "summary": "Bitget CEOのGracy Chen氏が9/25未明(日本時間)、公式Xでセキュリティ通知を投稿。ホットウォレットからの不正送金を検知し緊急対応中と発表、約3.5億ドル相当が影響を受けた可能性があるとした。コールドウォレットは無事としている。",
-      "source": "@GracyBitget",
-      "link": "https://x.com/GracyBitget/status/2103235655879074084"
-    },
-    {
-      "title": "AI研究者Khlaaf氏、Nature取材でAIの誤情報リスクに警鐘",
-      "summary": "AI Now InstituteのチーフAIサイエンティストHeidy Khlaaf氏が9/25未明(日本時間)、Nature誌の取材内容をXで共有。AIが核兵器関連の偽情報や医療・金融分野での不正確な出力を生成している実害を強調し、自主規制からの脱却を訴えた。",
-      "source": "@HeidyKhlaaf",
-      "link": "https://x.com/HeidyKhlaaf/status/2103148180657639777"
-    }
-  ]
+  "x_trending_tech": []
 }
