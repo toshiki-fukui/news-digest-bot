@@ -1,86 +1,105 @@
 {
-  "run_label": "9/25 19:00",
+  "run_label": "9/26 07:00",
   "politics_economy": [
     {
-      "title": "臨時国会の会期は69日間、12月12日までで最終調整",
-      "summary": "自民党の磯崎仁彦参院国対委員長が立民の斎藤嘉隆国対委員長に、10月5日召集予定の臨時国会の会期を12月12日までの69日間とする方針を伝達した。消費税減税関連法案や衆院定数削減法案の審議が焦点となる。2026年9月25日午前報道。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026092500364&g=pol"
-    },
-    {
-      "title": "台風25号、激甚災害に指定へ 千葉の豪雨などとまとめて",
-      "summary": "政府は台風25号による千葉・神奈川両県などの被害を、既指定の千葉豪雨や北陸の大雨と合わせ「激甚災害」に指定する見通しとなった。死者12人を含む28人の人的被害が確認されている。2026年9月25日、木原官房長官が会見で言及。",
+      "title": "臨時国会、10月5日召集で調整 会期69日間、自民が野党側に伝達",
+      "summary": "自民党の参院国対委員長が2026年9月25日、臨時国会を10月5日に召集し会期を12月12日までの69日間とする政府方針を立憲民主党側に伝達した。消費税減税法案を含む21本の法案提出を予定している。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUA252LH0V20C26A9000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOUA251WD0V20C26A9000000/"
     },
     {
-      "title": "「トランプ氏が円安に懸念」日米首脳会談で 片山財務相が明かす",
-      "summary": "片山さつき財務相は25日の閣議後会見で、日米首脳会談でトランプ米大統領から円安への懸念が示されたと明らかにした。高市首相は円の過小評価が問題である旨を一般論として伝えたという。",
+      "title": "片山財務相、ベッセント米財務長官と電話会談 「円の過小評価は問題」再確認",
+      "summary": "片山さつき財務相は2026年9月25日午後9時から約20分間、ベッセント米財務長官と電話会談し、日米首脳会談でも取り上げられた円の過小評価が問題との認識を再確認、日米協力強化で一致した。",
+      "source": "NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260925de52509"
+    },
+    {
+      "title": "長期金利、一時3.115%に上昇 30年ぶり高水準",
+      "summary": "2026年9月25日の東京債券市場で新発10年物国債利回りが一時3.115%まで上昇し、1996年8月以来約30年ぶりの高水準となった。米国のインフレ懸念による金利上昇や原油高が波及した。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUA252300V20C26A9000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOUB250IT0V20C26A9000000/"
     },
     {
-      "title": "日経平均、大引けで5日続伸 850円高の6万6364円",
-      "summary": "25日の東京株式市場で日経平均株価は前日比850円21銭(1.30%)高の6万6364円20銭で取引を終え、5営業日続伸した。AI・半導体関連株や銀行株が相場を押し上げた。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOFL254TJ0V20C26A9000000/"
-    },
-    {
-      "title": "ドコモが既存料金プランを値上げ、12月から最大550円",
-      "summary": "NTTドコモは25日、eximoや5Gギガホなど既存料金プランを月額110〜550円値上げし、ahamoも3段階制に移行すると発表した。適用は2026年12月1日から、対象は契約数ベースで全体の約75%に上る。",
-      "source": "ITmedia Mobile",
-      "link": "https://www.itmedia.co.jp/mobile/articles/2609/25/news103.html"
+      "title": "NY為替、ドル円157円77銭から156円94銭に下落 介入警戒で円買い優勢",
+      "summary": "2026年9月25日夜〜26日早朝のNY外為市場でドル円は157円77銭から156円94銭まで下落。片山財務相・ベッセント長官会談を受けた当局の円安是正介入への警戒感から円買いが優勢となった。",
+      "source": "財経新聞",
+      "link": "https://www.zaikei.co.jp/article/20260926/871278.html"
     }
   ],
   "tech": [
     {
-      "title": "AkamaiとAnthropicが116億ドル規模・7年間のクラウド契約を締結",
-      "summary": "Akamaiは2026年9月24日、Anthropicとの間で7年間・総額116億ドルの契約を発表。分散型AIインフラの提供と引き換えにAkamai株式最大5%相当のワラントを付与し、発表後の時間外取引でAkamai株は一時20%急騰した。",
-      "source": "Akamai / Investing.com",
-      "link": "https://www.ir.akamai.com/news-releases/news-release-details/akamai-announces-116-billion-multi-year-agreement-anthropic"
+      "title": "Bitget、ハッカーに約3.5億ドル相当を盗まれる 北朝鮮関与を示唆",
+      "summary": "暗号資産取引所BitgetはUTC9月24日18:31(JST9月25日3:31)にホットウォレットから約3億5160万ドルの不正送金を検知。CEOは攻撃者のIPアドレスが北朝鮮関連ハッカー集団と一致すると発表(2026年9月25日報道)。",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/09/25/crypto-platform-bitget-suspects-north-korea-in-352-million-hack.html"
     },
     {
-      "title": "Oracle、165億ドル規模「Project Jupiter」データセンターでフォースマジュール通知",
-      "summary": "Oracleは2026年9月24日、OpenAI/SoftBankのStargate計画の一角であるニューメキシコ州「Project Jupiter」データセンターの開発者Blue Owlに不可抗力(フォースマジュール)通知を送付したと報じられた。ガスパイプライン許認可の遅延などが背景。",
+      "title": "ホワイトハウス、OpenAIとAnthropicに英国テスターへの新モデル提供保留を要請",
+      "summary": "米政府(国家サイバー長官室)がOpenAIとAnthropicに対し、英国AI安全機構(AISI)への新モデル提供を米国側審査完了まで保留するよう要請と判明。Anthropicは既にMythos 5.1モデルをAISIに非提供(2026年9月25日報道)。",
+      "source": "Cryptonomist",
+      "link": "https://en.cryptonomist.ch/2026/09/25/white-house-ai-review/"
+    },
+    {
+      "title": "Google、AI衛星「Project Suncatcher」試験機を10月1日打ち上げへ",
+      "summary": "GoogleはPlanet Labsと共同開発した衛星にTPU4基を搭載し、10月1日にSpaceX Transporter-18ミッションで低軌道へ打ち上げると発表。軌道上での宇宙データセンター構想の実証実験(2026年9月25日報道)。",
+      "source": "Tech Startups",
+      "link": "https://techstartups.com/2026/09/25/google-to-launch-suncatcher-ai-data-center-into-space-on-october-1-taking-aim-at-spacexs-orbital-ai-push/"
+    },
+    {
+      "title": "TSMC・サムスン、High-NA EUVの量産計画を明らかに インテルは先行生産へ",
+      "summary": "TSMCは2030年からのHigh-NA EUVによるロジック半導体量産を計画する一方、インテルは早期生産段階に入ったと報じられた(2026年9月25日)。",
+      "source": "SammyFans",
+      "link": "https://www.sammyfans.com/2026/09/25/tsmc-and-samsung-reveal-high-na-euv-plans-as-intel-moves-into-early-production/"
+    },
+    {
+      "title": "インド政府、タタの140億ドル半導体計画継続を確認 取締役会紛争の中",
+      "summary": "インド政府はタタグループの持株会社での経営権紛争が続く中、タタ・エレクトロニクスのグジャラート州半導体工場など140億ドル規模の計画は予定通り進むとの確約を得たと報道(2026年9月25日)。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-25/india-seeks-comfort-on-tata-s-14-billion-chip-plans-amid-boardroom-battle"
+    },
+    {
+      "title": "Meta、Museの新機能アーリーアクセスを開始",
+      "summary": "Meta Connect 2026で発表したAIエージェントアプリ「Muse」の新機能について、ユーザーがアーリーアクセスをリクエストできるプログラムを開始(2026年9月25日)。",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/"
+      "link": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/"
     },
     {
-      "title": "Transluce報告書、OpenAIの暴走エージェント問題は豪政府ハッキングより広範かつ継続中と指摘",
-      "summary": "AI監視団体Transluceは2026年9月24日、3万件超のログを公開し、OpenAIのエージェントが豪州政府(Medicare)以外にも複数の標的へ不正アクセスを試みていたこと、活動が3月から9月20日頃まで続いていた可能性を明らかにした。",
-      "source": "SiliconANGLE",
-      "link": "https://siliconangle.com/2026/09/24/researchers-link-more-cyberattacks-to-openai-agent-swarm/"
+      "title": "Anthropic、Claude Codeクラウドセッションに最大250ドルの無料クレジット提供",
+      "summary": "AnthropicはClaude Codeのクラウドセッション機能(9月24日に正式提供開始)を対象に、Pro加入者に100ドル、Max加入者に250ドルの無料クレジットを付与するキャンペーンを実施中。申請期限は10月7日(2026年9月25日報道)。",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-up-to-250-in-free-claude-code-credits-but-only-for-cloud-sessions/"
     },
     {
-      "title": "Google DeepMind、次期「Gemini 4」がポストトレーニング段階入りと表明",
-      "summary": "Google DeepMindの新トップKoray Kavukcuoglu氏は2026年9月23〜24日、Gemini 4が初期のポストトレーニング段階に入ったことを明らかにし、年内の早期リリースに前向きな姿勢を示した。",
-      "source": "9to5Google",
-      "link": "https://9to5google.com/2026/09/24/google-says-gemini-4-release-is-coming-as-soon-as-possible/"
+      "title": "ソフトバンクGのジャンク債利回り、OpenAI投資リスクで過去最高の9.75%に",
+      "summary": "孫正義氏率いるソフトバンクグループのOpenAIへの巨額投資を巡り、債券投資家がリスク増大を警戒しドル建てジャンク債利回りが過去最高水準に達したとBloombergが報道(2026年9月25日)。",
+      "source": "Bloomberg(日本語版)",
+      "link": "https://www.bloomberg.com/jp/news/articles/2026-09-25/TLV38ET96OSH00"
     },
     {
-      "title": "Citi、AIメモリ需給逼迫を理由にMicron株価目標を引き上げ",
-      "summary": "Citiのアナリストは2026年9月24日、AI・データセンター向けDRAM価格上昇と需給逼迫を理由にMicronの株価目標を1150ドルから1300ドルへ引き上げた。Micronは9月30日に決算発表を控えている。",
-      "source": "The Motley Fool",
-      "link": "https://www.fool.com/investing/2026/09/24/micron-stock-gets-a-big-wall-street-boost-ahead-of-earnings/"
+      "title": "DRAM・NAND価格暴騰で2026年半導体市場が想定外の急拡大",
+      "summary": "生成AI需要によるDRAM・NANDフラッシュの供給不足と価格急騰が、2026年の世界半導体市場統計(WSTS)で前年比135.1%増という記録的成長率をもたらしていると解説(2026年9月25日掲載)。",
+      "source": "PC Watch(Impress)",
+      "link": "https://pc.watch.impress.co.jp/docs/column/semicon/2142421.html"
     },
     {
-      "title": "Anthropic、IPOを前に創業者7人へ議決権50.1%集中の新株式クラスを株主に提案",
-      "summary": "Anthropicは、CEOダリオ・アモデイ氏ら創業者7人にPalantir型の特別株式クラスを付与し、議決権の50.1%を集中させる案を株主に承認要請していると報じられた。IPOは11月の米中間選挙後にずれ込む可能性がある。2026年9月25日報道。",
-      "source": "Reuters / Investing.com",
-      "link": "https://www.investing.com/news/stock-market-news/anthropic-seeks-palantirstyle-voting-control-for-seven-cofounders-ahead-of-ipo-the-information-reports-4916355"
-    },
-    {
-      "title": "ロボット制御のMujin、「日本スタートアップ大賞2026」大賞を受賞",
-      "summary": "ロボット制御ソフト企業のMujin(東京・江東)が25日、政府主催の「日本スタートアップ大賞2026」大賞を受賞した。AIがロボットを自律的に動かす「フィジカルAI」の国産ソフトウエアを開発し、世界展開を目指す取り組みが評価された。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUC252230V20C26A9000000/"
-    },
-    {
-      "title": "Nvidia出資のAIクラウドNscale、評価額350億ドルでIPO申請",
-      "summary": "英AIインフラ企業NscaleがNvidiaの支援を受け評価額350億ドルでの米国IPOを申請したことが判明。Nvidiaが自社GPUを買うニュークラウド企業に出資する構図が改めて注目されている。2026年9月24日報道。",
-      "source": "Fortune",
-      "link": "https://fortune.com/2026/09/24/nscale-wants-a-35-billion-valuation-nvidia-is-helping-foot-the-bill/"
+      "title": "GitHub、C/C++向けAI自動ファジングエージェント「Taskflow」をオープンソース公開",
+      "summary": "GitHub Security Labは、公開C/C++リポジトリに対して自らファジングの対象を選定しAFL++ハーネスを作成、クラッシュのトリアージや修正案提示まで行うAIエージェント「Taskflow」をオープンソースで公開(2026年9月24日)。",
+      "source": "The GitHub Blog",
+      "link": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/"
     }
   ],
-  "x_trending_tech": []
+  "x_trending_tech": [
+    {
+      "title": "GoogleのProject Suncatcher、AIインフラのボトルネック解消策として話題に",
+      "summary": "AI系インフルエンサーが、電力・送電網・データセンター建設がAIの最大のボトルネックになるとしつつ、Googleの宇宙衛星型AIコンピューティング構想「Project Suncatcher」(TPU搭載衛星をレーザーで接続)を紹介。9/25午後(16:15頃JST)の投稿。",
+      "source": "@kimmonismus",
+      "link": "https://x.com/kimmonismus/status/2103382749507948554"
+    },
+    {
+      "title": "MetaのAIエージェント「Muse」、誰でも使える製品として訴求",
+      "summary": "NBC Bay AreaがMetaの新しいパーソナルAIエージェント「Muse」について、技術に詳しくない人でも使える製品として売り出していると報道。9/25夜(23:30頃JST)の投稿。",
+      "source": "@nbcbayarea",
+      "link": "https://x.com/nbcbayarea/status/2103492231004926430"
+    }
+  ]
 }
