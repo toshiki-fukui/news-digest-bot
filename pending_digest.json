@@ -1,105 +1,105 @@
 {
-  "run_label": "9/26 07:00",
+  "run_label": "9/26 19:00",
   "politics_economy": [
     {
-      "title": "臨時国会、10月5日召集で調整 会期69日間、自民が野党側に伝達",
-      "summary": "自民党の参院国対委員長が2026年9月25日、臨時国会を10月5日に召集し会期を12月12日までの69日間とする政府方針を立憲民主党側に伝達した。消費税減税法案を含む21本の法案提出を予定している。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUA251WD0V20C26A9000000/"
-    },
-    {
-      "title": "片山財務相、ベッセント米財務長官と電話会談 「円の過小評価は問題」再確認",
-      "summary": "片山さつき財務相は2026年9月25日午後9時から約20分間、ベッセント米財務長官と電話会談し、日米首脳会談でも取り上げられた円の過小評価が問題との認識を再確認、日米協力強化で一致した。",
+      "title": "習近平氏、訪米日程終え帰国 米中首脳、年内あと2回会談の方針を確認",
+      "summary": "習近平国家主席は11年ぶりとなる米国公式訪問を終え帰国の途に。トランプ大統領との会談では、11月のAPEC(深圳)、12月のG20(フロリダ)での再会談に合意したと伝えられた。(9/26朝、日本時間)",
       "source": "NHKニュース",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260925de52509"
+      "link": "https://news.web.nhk/newsweb/na/nd-20260926de52523"
     },
     {
-      "title": "長期金利、一時3.115%に上昇 30年ぶり高水準",
-      "summary": "2026年9月25日の東京債券市場で新発10年物国債利回りが一時3.115%まで上昇し、1996年8月以来約30年ぶりの高水準となった。米国のインフレ懸念による金利上昇や原油高が波及した。",
+      "title": "東京株式市場、日経平均が続伸 日銀追加利上げ観測で銀行株上昇",
+      "summary": "26日の東京株式市場で日経平均株価は前日比405円高で取引を終えた。日銀の年内追加利上げ観測を背景に銀行株などが買われ、相場を下支えした。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUB250IT0V20C26A9000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOUB260IOTW6A820C2000000/"
     },
     {
-      "title": "NY為替、ドル円157円77銭から156円94銭に下落 介入警戒で円買い優勢",
-      "summary": "2026年9月25日夜〜26日早朝のNY外為市場でドル円は157円77銭から156円94銭まで下落。片山財務相・ベッセント長官会談を受けた当局の円安是正介入への警戒感から円買いが優勢となった。",
+      "title": "台風26号、沖縄地方に接近へ 27日から暴風・高波警戒",
+      "summary": "強い勢力の台風26号が沖縄の南を北上中。27日から29日ごろにかけて沖縄地方に接近する見込みで、動きが遅く影響の長期化が懸念されている。(9/26発表)",
+      "source": "日本気象協会 tenki.jp",
+      "link": "https://tenki.jp/forecaster/t_yoshida/2026/09/26/40754.html"
+    },
+    {
+      "title": "ドル円158円台で推移、介入警戒続く 日米金利差で円安圧力",
+      "summary": "26日の外国為替市場でドル円は158円台で推移。日米の金利差を背景に円安圧力が続く一方、財務省・日銀による円買い介入への警戒感がくすぶっている。",
       "source": "財経新聞",
-      "link": "https://www.zaikei.co.jp/article/20260926/871278.html"
+      "link": "https://www.zaikei.co.jp/article/20260926/871304.html"
+    },
+    {
+      "title": "東京都区部の消費者物価、9月2.5%上昇 コメ類はなお高水準",
+      "summary": "総務省が26日発表した9月の東京都区部消費者物価指数(生鮮食品を除く総合)は前年同月比2.5%上昇し、前月と同水準。コメ類は46.8%高と伸びは縮小したが依然高水準。",
+      "source": "総務省統計局",
+      "link": "https://www.stat.go.jp/data/cpi/sokuhou/tsuki/index-t.html"
     }
   ],
   "tech": [
     {
-      "title": "Bitget、ハッカーに約3.5億ドル相当を盗まれる 北朝鮮関与を示唆",
-      "summary": "暗号資産取引所BitgetはUTC9月24日18:31(JST9月25日3:31)にホットウォレットから約3億5160万ドルの不正送金を検知。CEOは攻撃者のIPアドレスが北朝鮮関連ハッカー集団と一致すると発表(2026年9月25日報道)。",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/09/25/crypto-platform-bitget-suspects-north-korea-in-352-million-hack.html"
-    },
-    {
-      "title": "ホワイトハウス、OpenAIとAnthropicに英国テスターへの新モデル提供保留を要請",
-      "summary": "米政府(国家サイバー長官室)がOpenAIとAnthropicに対し、英国AI安全機構(AISI)への新モデル提供を米国側審査完了まで保留するよう要請と判明。Anthropicは既にMythos 5.1モデルをAISIに非提供(2026年9月25日報道)。",
-      "source": "Cryptonomist",
-      "link": "https://en.cryptonomist.ch/2026/09/25/white-house-ai-review/"
-    },
-    {
-      "title": "Google、AI衛星「Project Suncatcher」試験機を10月1日打ち上げへ",
-      "summary": "GoogleはPlanet Labsと共同開発した衛星にTPU4基を搭載し、10月1日にSpaceX Transporter-18ミッションで低軌道へ打ち上げると発表。軌道上での宇宙データセンター構想の実証実験(2026年9月25日報道)。",
-      "source": "Tech Startups",
-      "link": "https://techstartups.com/2026/09/25/google-to-launch-suncatcher-ai-data-center-into-space-on-october-1-taking-aim-at-spacexs-orbital-ai-push/"
-    },
-    {
-      "title": "TSMC・サムスン、High-NA EUVの量産計画を明らかに インテルは先行生産へ",
-      "summary": "TSMCは2030年からのHigh-NA EUVによるロジック半導体量産を計画する一方、インテルは早期生産段階に入ったと報じられた(2026年9月25日)。",
-      "source": "SammyFans",
-      "link": "https://www.sammyfans.com/2026/09/25/tsmc-and-samsung-reveal-high-na-euv-plans-as-intel-moves-into-early-production/"
-    },
-    {
-      "title": "インド政府、タタの140億ドル半導体計画継続を確認 取締役会紛争の中",
-      "summary": "インド政府はタタグループの持株会社での経営権紛争が続く中、タタ・エレクトロニクスのグジャラート州半導体工場など140億ドル規模の計画は予定通り進むとの確約を得たと報道(2026年9月25日)。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-25/india-seeks-comfort-on-tata-s-14-billion-chip-plans-amid-boardroom-battle"
-    },
-    {
-      "title": "Meta、Museの新機能アーリーアクセスを開始",
-      "summary": "Meta Connect 2026で発表したAIエージェントアプリ「Muse」の新機能について、ユーザーがアーリーアクセスをリクエストできるプログラムを開始(2026年9月25日)。",
+      "title": "AIが自らチップを設計するRicursive Intelligence、TechCrunch Disruptに登壇へ",
+      "summary": "AlphaChipの開発者らが創業したRicursive Intelligenceの共同創業者が、AIとハードウェアの再帰的自己改善ループについて語ると発表。半導体設計の自動化・高速化を目指す。",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/"
+      "link": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/"
     },
     {
-      "title": "Anthropic、Claude Codeクラウドセッションに最大250ドルの無料クレジット提供",
-      "summary": "AnthropicはClaude Codeのクラウドセッション機能(9月24日に正式提供開始)を対象に、Pro加入者に100ドル、Max加入者に250ドルの無料クレジットを付与するキャンペーンを実施中。申請期限は10月7日(2026年9月25日報道)。",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-up-to-250-in-free-claude-code-credits-but-only-for-cloud-sessions/"
+      "title": "マイクロソフト、Copilotを統合する「スーパーアプリ」を発表",
+      "summary": "MicrosoftはCopilotのチャット・コーディング(GitHub Copilot)・自律型エージェント「Autopilot」を1つにまとめた新アプリを発表。ナデラCEOは「仕事の新しいOS」と位置付けた。",
+      "source": "Fortune",
+      "link": "https://fortune.com/2026/09/25/microsoft-unveils-copilot-super-app-targeting-business-users-with-ai-agents/"
     },
     {
-      "title": "ソフトバンクGのジャンク債利回り、OpenAI投資リスクで過去最高の9.75%に",
-      "summary": "孫正義氏率いるソフトバンクグループのOpenAIへの巨額投資を巡り、債券投資家がリスク増大を警戒しドル建てジャンク債利回りが過去最高水準に達したとBloombergが報道(2026年9月25日)。",
-      "source": "Bloomberg(日本語版)",
-      "link": "https://www.bloomberg.com/jp/news/articles/2026-09-25/TLV38ET96OSH00"
+      "title": "Sakana AI、深層学習の先駆者シュミットフーバー氏を「再帰的自己改善」研究所の顧問に招聘",
+      "summary": "日本のAIスタートアップSakana AIが、再帰的自己改善(RSI)の先駆者ユルゲン・シュミットフーバー氏を新設のRSI Labの首席科学顧問に迎えたと発表した。",
+      "source": "Nikkei Asia",
+      "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/ai-pioneer-schmidhuber-to-join-japan-s-sakana-ai-as-science-adviser"
     },
     {
-      "title": "DRAM・NAND価格暴騰で2026年半導体市場が想定外の急拡大",
-      "summary": "生成AI需要によるDRAM・NANDフラッシュの供給不足と価格急騰が、2026年の世界半導体市場統計(WSTS)で前年比135.1%増という記録的成長率をもたらしていると解説(2026年9月25日掲載)。",
-      "source": "PC Watch(Impress)",
-      "link": "https://pc.watch.impress.co.jp/docs/column/semicon/2142421.html"
+      "title": "動画生成AIのHiggsfield、年換算収益10億ドルを突破",
+      "summary": "広告向け動画生成AIスタートアップHiggsfieldは、直近4週間の売上高を年換算した収益(ARR)が10億ドルを突破したと発表。サービス開始から18か月での到達はAnthropicやOpenAIを上回るペースという。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-24/ai-video-startup-higgsfield-eyes-1-billion-in-12-month-sales"
     },
     {
-      "title": "GitHub、C/C++向けAI自動ファジングエージェント「Taskflow」をオープンソース公開",
-      "summary": "GitHub Security Labは、公開C/C++リポジトリに対して自らファジングの対象を選定しAFL++ハーネスを作成、クラッシュのトリアージや修正案提示まで行うAIエージェント「Taskflow」をオープンソースで公開(2026年9月24日)。",
-      "source": "The GitHub Blog",
-      "link": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/"
+      "title": "Perceptron、ロボット向け身体性推論モデル「Mk1.5」を発表",
+      "summary": "動画・画像・音声を統合的に扱う身体性(embodied)推論モデルの新版を公開。ドローンや四脚歩行ロボットの「ゼロショット制御」を、機体ごとの再学習なしで実現するという。",
+      "source": "HuggingNews",
+      "link": "https://huggingnews.com/ai/perceptrons-mk15-model-beats-egocentric-ai-at-25x-lower-cost-cc73b5fb"
+    },
+    {
+      "title": "Liquid AI、視覚言語モデル向け高速化ドラフトモデル「LFM2.5-VL-3B-DSpark」を公開",
+      "summary": "投機的デコーディング技術により、H100で最大2.66倍、Apple Silicon(M5 Max)で最大3.13倍の推論高速化を実現するオープンウェイトモデルを公開した。",
+      "source": "MarkTechPost",
+      "link": "https://www.marktechpost.com/2026/09/25/liquid-ai-releases-lfm2-5-vl-3b-dspark-speculative-decoding-for-vision-language-models-with-up-to-3-13x-faster-decoding/"
+    },
+    {
+      "title": "Google、「Gemini 3.8 Live」に対話型アバター機能を追加し一般提供開始",
+      "summary": "97言語対応のリアルタイム映像アバター機能をGemini Enterpriseに統合し一般提供を開始。高精度なリップシンクでカスタマーサービスなどへの活用拡大を狙う。",
+      "source": "Google Cloud Blog",
+      "link": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-3-8-live-with-live-avatar-is-now-generally-available"
+    },
+    {
+      "title": "OpenAI、ChatGPT回答評価の契約労働者をAI使用の疑いで解雇",
+      "summary": "OpenAIはチャットボットの回答を人手で評価する契約労働者数千人にAIツールの使用を禁じているが、規定違反が発覚した労働者を相次いで解雇していることが明らかになった。",
+      "source": "Cybernews",
+      "link": "https://cybernews.com/tech/openai-fires-contractors/"
+    },
+    {
+      "title": "週間資金調達ランキング、サイバーセキュリティ2社が各4億ドルを調達",
+      "summary": "Crunchbaseがまとめた週間資金調達ランキングでは、サイバーセキュリティ企業IslandとCyeraがそれぞれ4億ドルを調達したほか、AI学習データのSnorkel AIも3.5億ドルのシリーズEを獲得した。",
+      "source": "Crunchbase News",
+      "link": "https://news.crunchbase.com/venture/biggest-funding-rounds-cybersecurity-ai-health-island-cyera/"
+    },
+    {
+      "title": "Micron、9月30日発表の四半期決算を前に注目点を整理 HBM需給が焦点",
+      "summary": "AI向け需要で高騰するメモリー市場を背景に、Micronの四半期決算が9月30日に迫る。HBM4の出荷状況や2027年見通しなど、投資家が注目すべき論点を解説する記事が公開された。",
+      "source": "TradingKey",
+      "link": "https://www.tradingkey.com/analysis/stocks/us-stocks/262184360-mu-q4-micron-dram-skhynix-samsung-hbm-nvda-jay-tradingkey"
     }
   ],
   "x_trending_tech": [
     {
-      "title": "GoogleのProject Suncatcher、AIインフラのボトルネック解消策として話題に",
-      "summary": "AI系インフルエンサーが、電力・送電網・データセンター建設がAIの最大のボトルネックになるとしつつ、Googleの宇宙衛星型AIコンピューティング構想「Project Suncatcher」(TPU搭載衛星をレーザーで接続)を紹介。9/25午後(16:15頃JST)の投稿。",
-      "source": "@kimmonismus",
-      "link": "https://x.com/kimmonismus/status/2103382749507948554"
-    },
-    {
-      "title": "MetaのAIエージェント「Muse」、誰でも使える製品として訴求",
-      "summary": "NBC Bay AreaがMetaの新しいパーソナルAIエージェント「Muse」について、技術に詳しくない人でも使える製品として売り出していると報道。9/25夜(23:30頃JST)の投稿。",
-      "source": "@nbcbayarea",
-      "link": "https://x.com/nbcbayarea/status/2103492231004926430"
+      "title": "The VergeのTom Warren記者、Microsoft Copilot「スーパーアプリ」発表を速報",
+      "summary": "MicrosoftがAIチャット・コーディング・自律型エージェントAutopilotを統合した新Copilotを発表したことを、テック記者Tom WarrenがXで速報し反響を呼んだ。(9/25夕方の投稿)",
+      "source": "@tomwarren",
+      "link": "https://x.com/tomwarren/status/2103454729778946208"
     }
   ]
 }
