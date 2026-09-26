@@ -1,105 +1,105 @@
 {
-  "run_label": "9/26 19:00",
+  "run_label": "9/27 07:00",
   "politics_economy": [
     {
-      "title": "習近平氏、訪米日程終え帰国 米中首脳、年内あと2回会談の方針を確認",
-      "summary": "習近平国家主席は11年ぶりとなる米国公式訪問を終え帰国の途に。トランプ大統領との会談では、11月のAPEC(深圳)、12月のG20(フロリダ)での再会談に合意したと伝えられた。(9/26朝、日本時間)",
-      "source": "NHKニュース",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260926de52523"
+      "title": "高市首相、トランプ大統領と電話会談 米中首脳会談巡り日米連携を確認",
+      "summary": "高市早苗首相は26日午後9時から約20分間、トランプ米大統領と電話会談を実施。トランプ氏から24日の米中首脳会談の内容について説明を受け、経済安全保障を含む対中課題で日米の連携を再確認した。(9/26夜)",
+      "source": "時事通信",
+      "link": "https://www.jiji.com/jc/article?k=2026092600424&g=pol"
     },
     {
-      "title": "東京株式市場、日経平均が続伸 日銀追加利上げ観測で銀行株上昇",
-      "summary": "26日の東京株式市場で日経平均株価は前日比405円高で取引を終えた。日銀の年内追加利上げ観測を背景に銀行株などが買われ、相場を下支えした。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUB260IOTW6A820C2000000/"
+      "title": "台風26号、27日から沖縄接近へ 強い勢力で暴風・高波警戒",
+      "summary": "台風26号は27日から29日ごろにかけて強い勢力を保ったまま沖縄地方に接近する見込み。動きが遅く影響の長期化が懸念され、気象庁が暴風・高波への警戒を呼びかけている。(9/26発表)",
+      "source": "MBC南日本放送(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/46c8a3b1f5cc984bff2f7e5a0e55c2d6101b3311"
     },
     {
-      "title": "台風26号、沖縄地方に接近へ 27日から暴風・高波警戒",
-      "summary": "強い勢力の台風26号が沖縄の南を北上中。27日から29日ごろにかけて沖縄地方に接近する見込みで、動きが遅く影響の長期化が懸念されている。(9/26発表)",
-      "source": "日本気象協会 tenki.jp",
-      "link": "https://tenki.jp/forecaster/t_yoshida/2026/09/26/40754.html"
+      "title": "27日の東京株式市場、堅調な展開か 米半導体株高を好感",
+      "summary": "27日の東京市場は、前週末24日の米半導体株高やナスダック総合指数の最高値更新を受け買い先行の展開が見込まれている。シカゴ日経平均先物も前週末比高で推移。",
+      "source": "株式新聞Web",
+      "link": "https://kabushiki.jp/news/746144"
     },
     {
-      "title": "ドル円158円台で推移、介入警戒続く 日米金利差で円安圧力",
-      "summary": "26日の外国為替市場でドル円は158円台で推移。日米の金利差を背景に円安圧力が続く一方、財務省・日銀による円買い介入への警戒感がくすぶっている。",
-      "source": "財経新聞",
-      "link": "https://www.zaikei.co.jp/article/20260926/871304.html"
+      "title": "飲食料品、10月も値上げラッシュ 3000品目超で家計に負担",
+      "summary": "帝国データバンクの調査で10月に予定される飲食料品の値上げが3033品目に上ることが判明。酒類・飲料が4割超を占め、4人家族で月3000〜4500円程度の負担増が見込まれる。(9/26)",
+      "source": "共同通信(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/6e1f5746e869d8676194d8a36eeac36d887efe73"
     },
     {
-      "title": "東京都区部の消費者物価、9月2.5%上昇 コメ類はなお高水準",
-      "summary": "総務省が26日発表した9月の東京都区部消費者物価指数(生鮮食品を除く総合)は前年同月比2.5%上昇し、前月と同水準。コメ類は46.8%高と伸びは縮小したが依然高水準。",
-      "source": "総務省統計局",
-      "link": "https://www.stat.go.jp/data/cpi/sokuhou/tsuki/index-t.html"
+      "title": "コメ価格6週連続下落、「大盛り」値下げや「おかわり自由」復活の動き",
+      "summary": "農林水産省の発表で、コメ5キロの全国平均価格は前週比37円安の2934円と6週連続の下落。外食・弁当店では大盛りの値下げや食べ放題の復活が広がっている。(9/26)",
+      "source": "読売新聞オンライン(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/e8c159b4461f6010c27ab0807ba8226571883db2"
     }
   ],
   "tech": [
     {
-      "title": "AIが自らチップを設計するRicursive Intelligence、TechCrunch Disruptに登壇へ",
-      "summary": "AlphaChipの開発者らが創業したRicursive Intelligenceの共同創業者が、AIとハードウェアの再帰的自己改善ループについて語ると発表。半導体設計の自動化・高速化を目指す。",
+      "title": "Google・OpenAI・Anthropic、AI安全基準の業界団体「SAFA」設立へ",
+      "summary": "3社が政府の監督を受けない業界主導のAI安全基準団体「Standards Authority for Frontier AI(SAFA)」の設立準備を進めていると報じられた。年内〜2027年初めの発足を目指す。(9/26)",
+      "source": "Rolling Out",
+      "link": "https://rollingout.com/2026/09/26/google-and-openai-join-ai-safety-push/"
+    },
+    {
+      "title": "OpenAIのコーディングAI「Codex」で障害、有料ユーザーの利用上限をリセット",
+      "summary": "「Codex」が26日未明(日本時間8時前後)に約1時間にわたり利用不能となる障害が発生。OpenAIは復旧を発表し、有料ユーザー向けの利用上限をリセットすると表明した。",
+      "source": "ITmedia AI+",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2609/26/2000001774/"
+    },
+    {
+      "title": "保険会社、AIが医療費を押し上げていると指摘",
+      "summary": "米ブルークロス・ブルーシールド協会の分析で、病院が保険請求にAIツールを使うようになったことで過去2年間に医療費が9億4200万ドル増加したと判明。治療内容自体の変化は見られないという。(9/26)",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/"
+      "link": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/"
     },
     {
-      "title": "マイクロソフト、Copilotを統合する「スーパーアプリ」を発表",
-      "summary": "MicrosoftはCopilotのチャット・コーディング(GitHub Copilot)・自律型エージェント「Autopilot」を1つにまとめた新アプリを発表。ナデラCEOは「仕事の新しいOS」と位置付けた。",
-      "source": "Fortune",
-      "link": "https://fortune.com/2026/09/25/microsoft-unveils-copilot-super-app-targeting-business-users-with-ai-agents/"
+      "title": "Supabase上の1.6万超のデータベースがネットに公開状態、個人情報流出の恐れ",
+      "summary": "セキュリティ企業UpGuardの調査で、Supabase上の1万6326件のデータベースが読み取り可能な状態で公開されていたと判明。半数以上に氏名や住所などの個人情報が含まれていた。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/"
     },
     {
-      "title": "Sakana AI、深層学習の先駆者シュミットフーバー氏を「再帰的自己改善」研究所の顧問に招聘",
-      "summary": "日本のAIスタートアップSakana AIが、再帰的自己改善(RSI)の先駆者ユルゲン・シュミットフーバー氏を新設のRSI Labの首席科学顧問に迎えたと発表した。",
-      "source": "Nikkei Asia",
-      "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/ai-pioneer-schmidhuber-to-join-japan-s-sakana-ai-as-science-adviser"
+      "title": "国内AIスタートアップ、週間資金調達まとめ 創薬・量子・建設DXなど",
+      "summary": "週間まとめによると、AI創薬のTres Alchemixが約6.5億円、量子コンピューター関連のNanofiber Quantum Technologiesが約20億円、建設現場管理AIのZen Intelligenceが9億円をそれぞれ調達した。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUC25ALB0V20C26A9000000/"
     },
     {
-      "title": "動画生成AIのHiggsfield、年換算収益10億ドルを突破",
-      "summary": "広告向け動画生成AIスタートアップHiggsfieldは、直近4週間の売上高を年換算した収益(ARR)が10億ドルを突破したと発表。サービス開始から18か月での到達はAnthropicやOpenAIを上回るペースという。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-24/ai-video-startup-higgsfield-eyes-1-billion-in-12-month-sales"
+      "title": "OpenAI、「ChatGPT Ads」を東南アジア・台湾の7市場に拡大",
+      "summary": "インドネシア、マレーシア、フィリピン、シンガポール、タイ、ベトナム、台湾でChatGPT Adsの提供を開始したと発表。広告事業は年換算収益10億ドルのペースに達しているという。",
+      "source": "OpenAI公式ブログ",
+      "link": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan/"
     },
     {
-      "title": "Perceptron、ロボット向け身体性推論モデル「Mk1.5」を発表",
-      "summary": "動画・画像・音声を統合的に扱う身体性(embodied)推論モデルの新版を公開。ドローンや四脚歩行ロボットの「ゼロショット制御」を、機体ごとの再学習なしで実現するという。",
-      "source": "HuggingNews",
-      "link": "https://huggingnews.com/ai/perceptrons-mk15-model-beats-egocentric-ai-at-25x-lower-cost-cc73b5fb"
+      "title": "TikTok、アラバマ州と1億ドル以上で和解 未成年保護策を導入へ",
+      "summary": "安全性について虚偽表示をし子どもを中毒にさせる設計だったとする訴訟について、TikTokが米アラバマ州と少なくとも1億ドルで和解。未成年向けに1日2時間の利用制限などを導入する。(9/26)",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/"
     },
     {
-      "title": "Liquid AI、視覚言語モデル向け高速化ドラフトモデル「LFM2.5-VL-3B-DSpark」を公開",
-      "summary": "投機的デコーディング技術により、H100で最大2.66倍、Apple Silicon(M5 Max)で最大3.13倍の推論高速化を実現するオープンウェイトモデルを公開した。",
-      "source": "MarkTechPost",
-      "link": "https://www.marktechpost.com/2026/09/25/liquid-ai-releases-lfm2-5-vl-3b-dspark-speculative-decoding-for-vision-language-models-with-up-to-3-13x-faster-decoding/"
+      "title": "Salesforceの AIエージェント「Agentforce」に脆弱性、ゼロクリックでデータ窃取の恐れ",
+      "summary": "セキュリティ企業Zenity Labsが「SalesBleed」と呼ぶ3件の脆弱性を発見。Web-to-Leadフォーム経由のプロンプト注入でAIエージェントを乗っ取りCRMデータを窃取される恐れがあった。Salesforceは修正済みと説明。",
+      "source": "Infosecurity Magazine",
+      "link": "https://www.infosecurity-magazine.com/news/vulnerabilities-salesforce-ai/"
     },
     {
-      "title": "Google、「Gemini 3.8 Live」に対話型アバター機能を追加し一般提供開始",
-      "summary": "97言語対応のリアルタイム映像アバター機能をGemini Enterpriseに統合し一般提供を開始。高精度なリップシンクでカスタマーサービスなどへの活用拡大を狙う。",
-      "source": "Google Cloud Blog",
-      "link": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-3-8-live-with-live-avatar-is-now-generally-available"
-    },
-    {
-      "title": "OpenAI、ChatGPT回答評価の契約労働者をAI使用の疑いで解雇",
-      "summary": "OpenAIはチャットボットの回答を人手で評価する契約労働者数千人にAIツールの使用を禁じているが、規定違反が発覚した労働者を相次いで解雇していることが明らかになった。",
-      "source": "Cybernews",
-      "link": "https://cybernews.com/tech/openai-fires-contractors/"
-    },
-    {
-      "title": "週間資金調達ランキング、サイバーセキュリティ2社が各4億ドルを調達",
-      "summary": "Crunchbaseがまとめた週間資金調達ランキングでは、サイバーセキュリティ企業IslandとCyeraがそれぞれ4億ドルを調達したほか、AI学習データのSnorkel AIも3.5億ドルのシリーズEを獲得した。",
-      "source": "Crunchbase News",
-      "link": "https://news.crunchbase.com/venture/biggest-funding-rounds-cybersecurity-ai-health-island-cyera/"
-    },
-    {
-      "title": "Micron、9月30日発表の四半期決算を前に注目点を整理 HBM需給が焦点",
-      "summary": "AI向け需要で高騰するメモリー市場を背景に、Micronの四半期決算が9月30日に迫る。HBM4の出荷状況や2027年見通しなど、投資家が注目すべき論点を解説する記事が公開された。",
-      "source": "TradingKey",
-      "link": "https://www.tradingkey.com/analysis/stocks/us-stocks/262184360-mu-q4-micron-dram-skhynix-samsung-hbm-nvda-jay-tradingkey"
+      "title": "米、東南アジアの半導体メーカーに米国移転を要求 応じなければ関税",
+      "summary": "米通商代表部(USTR)のグリア代表がASEAN閣僚との会合で、半導体メーカーが生産拠点を米国に移さなければ懲罰的関税を科す方針を表明した。",
+      "source": "South China Morning Post",
+      "link": "https://www.scmp.com/week-asia/economics/article/3326886/washington-southeast-asian-chipmakers-shift-production-us-or-face-tariff-solution"
     }
   ],
   "x_trending_tech": [
     {
-      "title": "The VergeのTom Warren記者、Microsoft Copilot「スーパーアプリ」発表を速報",
-      "summary": "MicrosoftがAIチャット・コーディング・自律型エージェントAutopilotを統合した新Copilotを発表したことを、テック記者Tom WarrenがXで速報し反響を呼んだ。(9/25夕方の投稿)",
-      "source": "@tomwarren",
-      "link": "https://x.com/tomwarren/status/2103454729778946208"
+      "title": "OpenAI公式、Codex障害の復旧を報告",
+      "summary": "「本日Codexで障害が発生しましたが、問題は解決しCodexは復旧しました」と公式アカウントが投稿。(9/26早朝、日本時間の投稿)",
+      "source": "@OpenAIDevs",
+      "link": "https://x.com/OpenAIDevs/status/2103650830604030228"
+    },
+    {
+      "title": "Codex障害で「利用上限70%」に妻を起こされた開発者の投稿が話題に",
+      "summary": "OpenAIのCodex障害による利用上限リセットを深夜に妻へ伝えたところ、妻が飛び起きて暗闇の中コーディングを始めたというユーモラスな体験談がXで反響を呼んだ。(9/26未明の投稿)",
+      "source": "@soloinvesting",
+      "link": "https://x.com/soloinvesting/status/2103676049632465267"
     }
   ]
 }
