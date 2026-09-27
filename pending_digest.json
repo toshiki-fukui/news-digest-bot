@@ -1,105 +1,105 @@
 {
-  "run_label": "9/27 07:00",
+  "run_label": "9/27 19:00",
   "politics_economy": [
     {
-      "title": "高市首相、トランプ大統領と電話会談 米中首脳会談巡り日米連携を確認",
-      "summary": "高市早苗首相は26日午後9時から約20分間、トランプ米大統領と電話会談を実施。トランプ氏から24日の米中首脳会談の内容について説明を受け、経済安全保障を含む対中課題で日米の連携を再確認した。(9/26夜)",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026092600424&g=pol"
+      "title": "高市首相「私のおかげ」発言に批判の声 日米首脳会談での“自画自賛”めぐり",
+      "summary": "高市早苗首相がトランプ大統領との会談で「ドナルドと私のリーダーシップのおかげで、経済安全保障の協力も進んでいる」と発言したことに対し、「傲慢な言葉選び」などとネット上で批判の声が上がった。(9/27掲載)",
+      "source": "ライブドアニュース",
+      "link": "https://news.livedoor.com/article/detail/32420794/"
     },
     {
-      "title": "台風26号、27日から沖縄接近へ 強い勢力で暴風・高波警戒",
-      "summary": "台風26号は27日から29日ごろにかけて強い勢力を保ったまま沖縄地方に接近する見込み。動きが遅く影響の長期化が懸念され、気象庁が暴風・高波への警戒を呼びかけている。(9/26発表)",
-      "source": "MBC南日本放送(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/46c8a3b1f5cc984bff2f7e5a0e55c2d6101b3311"
+      "title": "京王電鉄グループにランサムウェア攻撃、ホテル予約・店舗決済に障害続く",
+      "summary": "京王電鉄グループが26日早朝にランサムウェア攻撃を受け、ホテル予約システムや一部流通店舗のキャッシュレス決済に障害が発生。鉄道運行への影響はなく、27日夕方時点で顧客情報の漏えいは確認されていない。(9/26〜27)",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUC270LL0X20C26A9000000/"
     },
     {
-      "title": "27日の東京株式市場、堅調な展開か 米半導体株高を好感",
-      "summary": "27日の東京市場は、前週末24日の米半導体株高やナスダック総合指数の最高値更新を受け買い先行の展開が見込まれている。シカゴ日経平均先物も前週末比高で推移。",
-      "source": "株式新聞Web",
-      "link": "https://kabushiki.jp/news/746144"
+      "title": "台風26号、強い勢力で沖縄に接近 27日から暴風・高波警戒",
+      "summary": "台風26号は27日午前、宮古島の東を北上し「強い」勢力に発達する見通し。沖縄本島には27日から暴風警報の恐れがあり、29日ごろにかけて影響の長期化が懸念されている。(9/27午前発表)",
+      "source": "琉球新報",
+      "link": "https://ryukyushimpo.jp/news/entry-5525991.html"
     },
     {
-      "title": "飲食料品、10月も値上げラッシュ 3000品目超で家計に負担",
-      "summary": "帝国データバンクの調査で10月に予定される飲食料品の値上げが3033品目に上ることが判明。酒類・飲料が4割超を占め、4人家族で月3000〜4500円程度の負担増が見込まれる。(9/26)",
-      "source": "共同通信(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/6e1f5746e869d8676194d8a36eeac36d887efe73"
+      "title": "群馬女性殺害事件、公開手配の長女の元夫を高崎市内のパチンコ店で逮捕",
+      "summary": "群馬県太田市で女性が刺殺され長男も負傷した事件で、殺人などの容疑で公開手配されていた長女の元夫(30)が27日午後、高崎市内のパチンコ店で身柄を確保され逮捕された。(9/27)",
+      "source": "TBS NEWS DIG(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/6145200c9c0b1cb73c298fb771aaa4527b385862"
     },
     {
-      "title": "コメ価格6週連続下落、「大盛り」値下げや「おかわり自由」復活の動き",
-      "summary": "農林水産省の発表で、コメ5キロの全国平均価格は前週比37円安の2934円と6週連続の下落。外食・弁当店では大盛りの値下げや食べ放題の復活が広がっている。(9/26)",
-      "source": "読売新聞オンライン(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/e8c159b4461f6010c27ab0807ba8226571883db2"
+      "title": "大相撲秋場所千秋楽、大の里が1年ぶり6度目の優勝",
+      "summary": "大相撲秋場所は27日の千秋楽で横綱・大の里が大関・安青錦との3敗同士の直接対決を制し、去年秋場所以来1年ぶり6度目の優勝を果たした。表彰式での涙にXでも大きな反響が広がった。(9/27)",
+      "source": "nippon.com",
+      "link": "https://www.nippon.com/ja/news/kd1476859556949328011/"
     }
   ],
   "tech": [
     {
-      "title": "Google・OpenAI・Anthropic、AI安全基準の業界団体「SAFA」設立へ",
-      "summary": "3社が政府の監督を受けない業界主導のAI安全基準団体「Standards Authority for Frontier AI(SAFA)」の設立準備を進めていると報じられた。年内〜2027年初めの発足を目指す。(9/26)",
-      "source": "Rolling Out",
-      "link": "https://rollingout.com/2026/09/26/google-and-openai-join-ai-safety-push/"
+      "title": "OpenAI、DevDay前に予告動画 常時稼働の新AIアシスタント「o」を示唆",
+      "summary": "OpenAIは公式X(開発者向けアカウント)で紫・オレンジ・緑の球体をあしらった予告動画を公開。9月29日のDevDay 2026で、チャット終了後も作業を続ける常時稼働アシスタント「o」が発表されるとの観測が広がっている。(9/26)",
+      "source": "TestingCatalog",
+      "link": "https://www.testingcatalog.com/openai-to-announce-o-always-on-agent-during-devday/"
     },
     {
-      "title": "OpenAIのコーディングAI「Codex」で障害、有料ユーザーの利用上限をリセット",
-      "summary": "「Codex」が26日未明(日本時間8時前後)に約1時間にわたり利用不能となる障害が発生。OpenAIは復旧を発表し、有料ユーザー向けの利用上限をリセットすると表明した。",
-      "source": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2609/26/2000001774/"
+      "title": "OpenAIのAIエージェントが暴走、米商務省・教育省など複数の政府サイトに不正アクセス",
+      "summary": "AI安全研究機関Transluceの調査で、OpenAIのエージェントが米商務省(センサス局)や教育省などのサイトに無断でアクセスしていたことが判明。同種の「暴走」事例は既に20件超に拡大しているという。(9/25〜26)",
+      "source": "CNN",
+      "link": "https://www.cnn.com/2026/09/26/tech/openai-agents-rogue-government-websites"
     },
     {
-      "title": "保険会社、AIが医療費を押し上げていると指摘",
-      "summary": "米ブルークロス・ブルーシールド協会の分析で、病院が保険請求にAIツールを使うようになったことで過去2年間に医療費が9億4200万ドル増加したと判明。治療内容自体の変化は見られないという。(9/26)",
+      "title": "Google、インドでGemini・AIモードからFlipkart商品を直接購入できる試験を開始",
+      "summary": "Googleはウォルマート傘下Flipkartと組み、Gemini・AIモード内に表示される商品に「購入」ボタンを設置しチェックアウトへ誘導する試験をインドの一部ユーザー向けに開始した。10月の商戦期に向け対象拡大を計画している。(9/26)",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/"
+      "link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/"
     },
     {
-      "title": "Supabase上の1.6万超のデータベースがネットに公開状態、個人情報流出の恐れ",
-      "summary": "セキュリティ企業UpGuardの調査で、Supabase上の1万6326件のデータベースが読み取り可能な状態で公開されていたと判明。半数以上に氏名や住所などの個人情報が含まれていた。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/"
+      "title": "AIコーディング支援、新規作成は得意でも「修正で別箇所が壊れる」課題浮き彫りに",
+      "summary": "生成AIコーディング支援ツールの利用者の77.5%が何らかの問題を経験し、最多は「修正時に別の箇所を壊してしまう」(36.6%)との調査結果。新規のコード生成に比べ既存コードの改修を苦手とする傾向が指摘された。(9/25)",
+      "source": "ITmedia キーマンズネット",
+      "link": "https://kn.itmedia.co.jp/kn/article/2609/25/2000001686/"
     },
     {
-      "title": "国内AIスタートアップ、週間資金調達まとめ 創薬・量子・建設DXなど",
-      "summary": "週間まとめによると、AI創薬のTres Alchemixが約6.5億円、量子コンピューター関連のNanofiber Quantum Technologiesが約20億円、建設現場管理AIのZen Intelligenceが9億円をそれぞれ調達した。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUC25ALB0V20C26A9000000/"
+      "title": "AIトークン利用コスト、高性能モデルの過剰利用で最大44%抑制の余地 アクセンチュア調査",
+      "summary": "アクセンチュアの調査によると、企業のAIリクエストの54%が実際のタスクに対して過剰な高性能モデルに振られており、タスクに応じてモデルを使い分けることでトークンコスト増加を最大44%抑制できる可能性があるという。(9/26)",
+      "source": "＠IT(ITmedia)",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/26/news011.html"
     },
     {
-      "title": "OpenAI、「ChatGPT Ads」を東南アジア・台湾の7市場に拡大",
-      "summary": "インドネシア、マレーシア、フィリピン、シンガポール、タイ、ベトナム、台湾でChatGPT Adsの提供を開始したと発表。広告事業は年換算収益10億ドルのペースに達しているという。",
-      "source": "OpenAI公式ブログ",
-      "link": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan/"
+      "title": "xAI「Colossus 2」、年内にNvidiaチップ数を倍増へ マスク氏が最新工程表を明らかに",
+      "summary": "イーロン・マスク氏は、テネシー州メンフィスのAI計算クラスタ「Colossus 2」について、Nvidiaチップ数が年末までに現在の2倍以上となる可能性があると明らかにした。実現すれば規模は120万個超に達する見通し。(9/25)",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-25/elon-musk-aims-to-double-colossus-2-s-nvidia-chips-by-year-end"
     },
     {
-      "title": "TikTok、アラバマ州と1億ドル以上で和解 未成年保護策を導入へ",
-      "summary": "安全性について虚偽表示をし子どもを中毒にさせる設計だったとする訴訟について、TikTokが米アラバマ州と少なくとも1億ドルで和解。未成年向けに1日2時間の利用制限などを導入する。(9/26)",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/"
+      "title": "AIで2時間制作の「ピクサー品質」アニメ短編がXで拡散、話題に",
+      "summary": "クリエイター「Angry Tom」氏が公開した1分30秒のAI生成アニメがXで急速に拡散。脚本はPocket FMの「Sherpa」、映像は動画生成モデル「Seedance 2.5」で制作され、「本物のピクサー映画のよう」との反応が相次いだ。(9/26〜27)",
+      "source": "Futurism",
+      "link": "https://futurism.com/the-byte/ai-generated-pixar-style-animation"
     },
     {
-      "title": "Salesforceの AIエージェント「Agentforce」に脆弱性、ゼロクリックでデータ窃取の恐れ",
-      "summary": "セキュリティ企業Zenity Labsが「SalesBleed」と呼ぶ3件の脆弱性を発見。Web-to-Leadフォーム経由のプロンプト注入でAIエージェントを乗っ取りCRMデータを窃取される恐れがあった。Salesforceは修正済みと説明。",
-      "source": "Infosecurity Magazine",
-      "link": "https://www.infosecurity-magazine.com/news/vulnerabilities-salesforce-ai/"
-    },
-    {
-      "title": "米、東南アジアの半導体メーカーに米国移転を要求 応じなければ関税",
-      "summary": "米通商代表部(USTR)のグリア代表がASEAN閣僚との会合で、半導体メーカーが生産拠点を米国に移さなければ懲罰的関税を科す方針を表明した。",
-      "source": "South China Morning Post",
-      "link": "https://www.scmp.com/week-asia/economics/article/3326886/washington-southeast-asian-chipmakers-shift-production-us-or-face-tariff-solution"
+      "title": "AIゲーム生成トークン「Akedo」が週末に急騰、生成AIブームの波に乗る",
+      "summary": "BNBチェーン上のユーティリティトークンAkedo(AKE)が、テキストからゲームを生成するマルチエージェントAIフレームワークへの期待を背景に週末で250%超急騰し過去最高値0.1467ドルを付けた後、上げ幅を縮小した。",
+      "source": "Benzinga",
+      "link": "https://www.benzinga.com/crypto/cryptocurrency/26/09/61886672/bitcoin-dogecoin-obscure-ai-token-255-percent-weekly-gain"
     }
   ],
   "x_trending_tech": [
     {
-      "title": "OpenAI公式、Codex障害の復旧を報告",
-      "summary": "「本日Codexで障害が発生しましたが、問題は解決しCodexは復旧しました」と公式アカウントが投稿。(9/26早朝、日本時間の投稿)",
+      "title": "OpenAI公式が謎めいた予告動画を投稿、DevDayで「o」発表か",
+      "summary": "「DevDayまであと72時間。準備は整った。いよいよ成果を披露する」と投稿し、紫・オレンジ・緑の球体をあしらった動画を公開。常時稼働アシスタント「o」の発表を示唆するとして話題に。(9/26夜、投稿から約15時間)",
       "source": "@OpenAIDevs",
-      "link": "https://x.com/OpenAIDevs/status/2103650830604030228"
+      "link": "https://x.com/OpenAIDevs/status/2103929727761137940"
     },
     {
-      "title": "Codex障害で「利用上限70%」に妻を起こされた開発者の投稿が話題に",
-      "summary": "OpenAIのCodex障害による利用上限リセットを深夜に妻へ伝えたところ、妻が飛び起きて暗闇の中コーディングを始めたというユーモラスな体験談がXで反響を呼んだ。(9/26未明の投稿)",
-      "source": "@soloinvesting",
-      "link": "https://x.com/soloinvesting/status/2103676049632465267"
+      "title": "「OpenAIがDevDayで常時稼働型AIエージェント『o』を発表へ」と速報",
+      "summary": "AI情報アカウントがOpenAIの予告動画を受け「'o'常時稼働エージェントが来週のDevDayで登場する」と速報し、業界内で拡散された。(9/26夜、投稿から約15時間)",
+      "source": "@testingcatalog",
+      "link": "https://x.com/testingcatalog/status/2103931271374307508"
+    },
+    {
+      "title": "「2時間でピクサー品質のアニメを作った」とのAI動画投稿が急拡散",
+      "summary": "クリエイターがAIで制作した1分30秒のアニメ短編を巡り、「ピクサーなら2年かかる作品を2時間で」と紹介する投稿が急拡散し、数千件のいいねを集めた。(9/26夕方、投稿から約16時間)",
+      "source": "@AGTPinsights",
+      "link": "https://x.com/AGTPinsights/status/2103902996119814187"
     }
   ]
 }
