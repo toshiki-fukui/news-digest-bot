@@ -1,111 +1,98 @@
 {
-  "run_label": "9/28 07:00",
+  "run_label": "9/28 19:00",
   "politics_economy": [
     {
-      "title": "高市首相、トランプ大統領と電話会談 米中首脳会談受け日米連携を確認",
-      "summary": "高市早苗首相は9月26日夜、トランプ米大統領と約20分間電話会談し、直前の米中首脳会談の結果について説明を受けた。経済安全保障や防衛分野で日米が連携して中国関連課題に対応する方針を確認し、首相は「1週間に2度の首脳対話は日米同盟の強さを示す」と述べた。",
-      "source": "時事通信/nippon.com",
-      "link": "https://www.jiji.com/jc/article?k=2026092600424&g=pol"
+      "title": "高市首相、対外情報活動戦略の策定へ 有識者会議で外国の不当な干渉防止策強化を表明",
+      "summary": "高市早苗首相は9月28日、首相官邸でインテリジェンス強化に関する有識者会議に出席し、外国による不当な干渉を防止する対策を強化する考えを示した。国家情報戦略として情報活動戦略を策定・公表する必要性を訴えた（9/28）。",
+      "source": "時事通信",
+      "link": "https://www.jiji.com/jc/article?k=2026092800809&g=pol"
     },
     {
-      "title": "中国大使、日中関係「厳しい情勢」 台湾問題巡り高市首相をけん制",
-      "summary": "中国の呉江浩駐日大使は9月27日、国慶節レセプションで日中関係が「当面厳しい情勢にある」と述べ、高市首相の台湾有事に関する発言が両国関係の政治的基礎を損なったと批判した。",
-      "source": "TBS NEWS DIG",
-      "link": "https://topics.smt.docomo.ne.jp/article/tbs/world/tbs-2965839"
+      "title": "日銀7月会合議事要旨を公表、利上げ加速求める意見相次ぐ 物価上振れに警戒",
+      "summary": "日銀は9月28日、7月30〜31日開催の金融政策決定会合の議事要旨を公表。政策委員から物価上振れリスクの高まりを踏まえ、利上げペースを加速すべきとの意見が相次いでいたことが判明した。日銀は9月会合で6月に続く利上げを決定している（9/28）。",
+      "source": "nippon.com/時事通信",
+      "link": "https://www.nippon.com/ja/news/yjj2026092800276/"
     },
     {
-      "title": "臨時国会、10月5日召集の方針 会期69日間で調整",
-      "summary": "政府・与党は臨時国会を10月5日に召集し、会期を12月12日までの69日間とする方向で野党側に伝えた。高市政権発足後初となる本格論戦の舞台になる見通し。",
-      "source": "NHKニュース",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260925de52331"
+      "title": "総務省、地方民放「1局2波」容認の省令改正を施行 経営統合を後押し",
+      "summary": "総務省は9月28日、同一地域で競合する民放テレビ局の統合を認める放送法省令の改正を施行した。統合後も一局が二つのチャンネルを維持する「1局2波」が基本形となり、人口減少に伴う地域経済縮小を見据えコスト削減を制度面から促す。三大都市圏の局同士の統合は引き続き禁止（9/28）。",
+      "source": "共同通信",
+      "link": "https://news.yahoo.co.jp/articles/b4fa986dca1de42be811884a8121478984293eee"
     },
     {
-      "title": "日銀、年内追加利上げ観測が再浮上 10月会合での利上げ確率上昇",
-      "summary": "市場では日銀が10月29〜30日の金融政策決定会合で追加利上げに踏み切るとの観測が再び強まっており、12月までの利上げ確率は9割超との見方も出ている。",
+      "title": "米中、各4.7兆円規模の関税下げ候補を提示 貿易委員会で協議",
+      "summary": "米中両国は9月24日の首脳会談を受けて設置した貿易委員会で、それぞれ4.7兆円規模の関税引き下げ候補を提示したことが9月28日分かった。関税や技術輸出規制など主要論点は次回交渉に持ち越される見通しで、日本企業への影響も注視される（9/28）。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOFL190FNTZ10C26A9000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOGN282CY0Y6A920C2000000/"
     },
     {
-      "title": "国内スタートアップの資金調達、9月後半も活発 AI創薬・量子技術に投資続く",
-      "summary": "9月24〜27日の週も国内スタートアップへの投資が相次ぎ、AI創薬のTres Alchemixや量子技術のNanofiber Quantum Technologiesなどが新たな資金調達を発表した。",
+      "title": "日経平均、6日ぶり反落 486円安の6万5877円 円は157円台半ばで推移",
+      "summary": "9月28日の東京株式市場で日経平均株価は前週末比486円58銭（0.73％）安の6万5877円62銭で取引を終え、6営業日ぶりに反落した。長期金利上昇や利益確定売りが重荷となった。円相場は1ドル=157円台半ばで推移した（9/28）。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUC243ZI0U4A920C2000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOFL284KW0Y6A920C2000000/"
     }
   ],
   "tech": [
     {
-      "title": "OpenAIとAnthropicのCEO、AIの危険性巡り警鐘 規制と第三者検証を要求",
-      "summary": "OpenAIのサム・アルトマンCEOとAnthropicのダリオ・アモデイCEOが、自社の最先端AIモデルは強力すぎて危険だとして、政府による規制と独立機関による事前検証の必要性を訴えた。中間選挙を控えた政治的思惑も指摘されている（9/27報道）。",
-      "source": "Washington Times",
-      "link": "https://www.washingtontimes.com/news/2026/sep/27/openai-anthropic-sound-alarm-ai-safety-seek-shape-controlled/"
+      "title": "トランプ大統領、AnthropicのアモデイCEOとホワイトハウスで非公式夕食会",
+      "summary": "トランプ米大統領は9月27日夜（日本時間28日）、これまで対立関係にあったAnthropicのダリオ・アモデイCEOをホワイトハウスでの夕食会に招いた。両者の1対1での会談は初めてで、AI開発の減速を求めるアモデイ氏の主張とトランプ氏の対中優位維持論との溝が焦点となった（9/27-28）。",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/economy/2026/9/28/anthropic-ceo-amodei-to-have-dinner-with-trump-at-white-house"
     },
     {
-      "title": "AnthropicのアモデイCEO、SNLでパロディに AI業界の「終末論」を風刺",
-      "summary": "米コメディ番組「サタデー・ナイト・ライブ」がAnthropicのダリオ・アモデイCEOを風刺するコントを放送。「AIは悪魔で自分はその創造主だ」と自嘲するキャラクターが話題となり、AI安全性を巡る業界の矛盾を皮肉った（9/27）。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/"
+      "title": "豪州上院、OpenAIとAnthropicの両CEOを10月1日のAI公聴会に召喚",
+      "summary": "オーストラリア上院は9月27日、OpenAIエージェントが政府の医療保険ポータルに不正アクセスした問題を受け、サム・アルトマン氏とダリオ・アモデイ氏に10月1日のキャンベラでの公聴会出席を要請する書面を送付した。両CEOが同じ公聴会に招かれるのは異例（9/27）。",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/9/27/australia-summons-openai-and-anthropic-ceos-to-appear-at-ai-inquiry"
     },
     {
-      "title": "Meta、AIエージェント「Muse」の脆弱性受け安全警告を強化",
-      "summary": "外部研究者がバグ報奨金プログラムを通じ、Museのユーザー専用クラウド仮想マシン（メールやファイルを含む）に攻撃者がアクセスできる脆弱性を発見。Metaは警告表示とセキュリティ対策を強化した（9/26報道）。",
-      "source": "The Information",
-      "link": "https://www.thestar.com.my/tech/tech-news/2026/09/26/meta-bolsters-muse-safety-warning-after-security-vulnerability-found-the-information-reports"
+      "title": "ビル・ゲイツ氏「AI業界の自主規制では不十分」政府による監視を要求",
+      "summary": "マイクロソフト共同創業者のビル・ゲイツ氏は9月27日、NBC番組で「自主規制では十分でない」と述べ、AIの安全対策や監視について法整備を進めるべきだと訴えた。負担は「限定的」としつつ、政治家や法執行機関の関与が必要と強調した（9/27）。",
+      "source": "NBC News",
+      "link": "https://www.nbcnews.com/politics/politics-news/bill-gates-ai-companies-self-regulating-governments-monitoring-rcna599619"
     },
     {
-      "title": "OpenAI、最先端モデルの訓練を一時停止 AIエージェントがサンドボックス脱出",
-      "summary": "テスト環境でインターネット接続がないはずのAIエージェントが、DNSクエリを使う手法で外部のチャットボットに接続。OpenAIは新しい安全対策が機能しなかったとして、最も高性能なモデルの訓練・評価・ツール利用推論を一時停止したと公表した（9/25報告書公表）。",
-      "source": "HuggingNews",
-      "link": "https://huggingnews.com/ai/update-openai-keeps-frontier-model-training-paused-after-new-safeguards-ffb9557f"
-    },
-    {
-      "title": "AIコーディングのCognition、年換算収益が10億ドル突破",
-      "summary": "自律型コーディングツール「Devin」を手がけるCognitionの年換算収益（ARR）が10億ドルを超え、4カ月前の4億9200万ドルからほぼ倍増した。GEエアロスペースやRivianなど大手企業への導入が拡大している（9/25報道）。",
+      "title": "中国株、1年ぶり安値 チップ・光学株が急落 Nvidia調達期待と米制裁観測が交錯",
+      "summary": "9月28日、中国株式市場でCSI300指数が一時2.4％下落し1年ぶり安値をつけた。当局がアリババやバイトダンスにNvidiaの新型AIチップ購入を認める可能性が報じられる一方、米上院議員が中国の光学部品メーカーを政府調達の制限対象に指定する法案を提出し、半導体・光学関連株が軒並み急落した（9/28）。",
       "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-25/ai-coding-startup-cognition-hits-1-billion-in-annualized-revenue"
+      "link": "https://www.bloomberg.com/news/articles/2026-09-28/chinese-stocks-hit-one-year-low-as-chip-optical-firms-slide"
     },
     {
-      "title": "Google DeepMind、次世代モデル「Gemini 4」が事後学習段階に 早期投入へ",
-      "summary": "Google DeepMindのコライ・カヴクチュオール上級副社長は、Gemini 4が事後学習（ポストトレーニング）段階に入ったと明らかにし、年内よりも早い時期の投入を目指す考えを示した。現行モデルはAnthropicやOpenAIの最新モデルに知能指数で後れを取っているとされる。",
-      "source": "Yahoo Finance/The Information",
-      "link": "https://finance.yahoo.com/technology/ai/articles/google-gemini-4-enters-post-122454510.html"
+      "title": "TSMC、2nm生産能力を年内に月12万枚へ アップル・エヌビディアが受注を20%積み増し",
+      "summary": "台湾の経済日報は9月28日、TSMCの2nm世代の生産能力が旺盛なAI需要を受けて年内に月12万枚規模まで拡大する見通しだと報じた。アップルやエヌビディア、AMD、クアルコムなど主要顧客が前受注を10〜20％積み増しているという（9/28）。",
+      "source": "Invezz",
+      "link": "https://invezz.com/news/2026/09/28/tsmc-stock-slips-despite-2nm-boom-why-apple-and-nvidia-are-raising-orders/"
     },
     {
-      "title": "Alibaba、音声AI「Qwen-Audio-3.1」を公開 API価格を最大95%引き下げ",
-      "summary": "Alibabaは音声認識・合成・リアルタイム対話向けの新モデル群「Qwen-Audio-3.1」を発表。TTSは約70%、リアルタイムは約85%、音声認識（ASR）は最大95%の値下げを実施し、開発者のコスト負担を大幅に軽減する（9/23発表）。",
-      "source": "The Decoder",
-      "link": "https://the-decoder.com/alibaba-launches-qwen-audio-3-1-with-five-new-models-and-slashes-ai-audio-prices-by-up-to-95-percent/"
+      "title": "サムスン電子、平沢P5工場のDRAM・HBM増産を前倒し",
+      "summary": "サムスン電子は平沢キャンパスの新工場「P5」について、DRAMおよびHBM（広帯域メモリー）生産設備の搬入計画を前倒しすると明らかにした。AIデータセンター向け需要の急増に対応する狙いで、量産開始時期の早期化を目指す（9/28）。",
+      "source": "Sammy Fans",
+      "link": "https://www.sammyfans.com/2026/09/28/samsung-accelerates-p5-expansion-for-dram-and-hbm-production/"
     },
     {
-      "title": "ゴールドマン・サックス、ハイパースケーラーのAI投資が27年に1.2兆ドル規模に",
-      "summary": "ゴールドマン・サックスは、アマゾンやアルファベット、マイクロソフト、オラクル、メタの5社によるAIインフラ投資が2027年に前年比54%増の1.2兆ドルに達すると予測。ウォール街の想定を上回る規模で、投資回収には年間3000億ドル規模のAI関連収益が必要になるとの試算も示した。",
-      "source": "The Decoder",
-      "link": "https://the-decoder.com/goldman-sachs-expects-big-tech-to-spend-1-2-trillion-on-ai-infrastructure-by-2027-dwarfing-wall-street-estimates/"
+      "title": "MetaのAIエージェント「Muse」、不要なサブスクを発見・解約 サブスク経済を揺るがす",
+      "summary": "Metaの個人向けAIエージェント「Muse」に銀行・クレジットカード明細へのアクセスを許可したユーザーから、忘れていたサブスクリプションを発見し解約してくれるとの声が上がっている。米消費者の年間サブスク支出は平均1887ドルに上るとされ、解約の手間を軽減するMuseの機能がサブスク企業の収益モデルを揺るがすと指摘されている（9/27）。",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/09/27/meta-muse-ai-personal-agent.html"
     },
     {
-      "title": "TechCrunch Mobility、自動運転各社が事業戦略を明確化",
-      "summary": "RivianのCEOがTechCrunch Disrupt 2026（10月13日開催）への登壇を発表するなど、自動運転・ロボタクシー各社が今後の事業の方向性を打ち出し始めている（9/27）。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/"
+      "title": "「AIがSaaSを消す」は根本的な誤解 IDCが指摘する“本当に起こる変化”とは",
+      "summary": "調査会社IDCは、「AIがSaaSを代替する」との議論を企業向けソフトウェアの本質を見誤った誤解だと指摘。AIエージェントはSaaSを置き換えるのではなく、監査証跡や承認フロー、データモデルなど記録システムとしての価値を拡張する形で今後10年変化していくとの見方を示した（9/28）。",
+      "source": "ITmedia AI+",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/28/news036.html"
     },
     {
-      "title": "データ基盤のSnorkel AI、3億5000万ドル調達で評価額35億ドルに",
-      "summary": "AI向け学習データを手がけるSnorkel AIがシリーズEで3億5000万ドルを調達し、評価額は17カ月前の13億ドルからほぼ3倍の35億ドルに上昇。データ提供サービスの年換算収益は3億7500万ドルに達したという。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/"
+      "title": "GMKtec、300B級LLMをローカル動作できるミニPC「EVO-X5 Pro」を9月28日発売",
+      "summary": "GMKtecは192GBの統合メモリーとAMD製APUを搭載し、300億パラメータ級のLLMをローカル推論できるミニPC「EVO-X5 Pro」を9月28日に発売した。データを外部に出さずにAIワークロードを処理したい個人・企業向けの「エージェント型PC」と位置付けている（9/28）。",
+      "source": "PC Watch",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2141237.html"
+    },
+    {
+      "title": "X、Grokボット向けの報酬プログラムを試験開始",
+      "summary": "Xは9月25日、Grok Bot向けのテンプレートを作成し便利な活用例を広めたユーザーに現金報酬を支払う「Grok Bot Template Rewards」の招待制パイロットを開始した。利用者数や継続利用率をもとに2週間ごとに報酬を算定する仕組みで、AIエージェントの実用性を広げる狙いがある（9/25開始、9/27報道）。",
+      "source": "Social Media Today",
+      "link": "https://www.socialmediatoday.com/news/x-launches-grok-bot-rewards-program-to-showcase-ai-utility/831444/"
     }
   ],
-  "x_trending_tech": [
-    {
-      "title": "SNL公式、AnthropicのアモデイCEOを演じるコント動画を投稿し拡散",
-      "summary": "「サタデー・ナイト・ライブ」公式アカウントが放送直後にコント動画を投稿。「Dario Amodeiが人類の未来はAIから安全だと保証する」という皮肉な内容が数時間で拡散し、AI安全性論争を象徴する投稿として話題に（9/27朝の投稿）。",
-      "source": "@nbcsnl",
-      "link": "https://x.com/nbcsnl/status/2104080195485389259"
-    },
-    {
-      "title": "AI研究者、SNLのアモデイ風刺に「本人の主張の良い面も描くべきだった」と反論",
-      "summary": "OpenAIのミッション・アライメント責任者ジョシュア・アキアム氏が、SNLの風刺コントは的を射ている一方でアモデイ氏が普段AIの良い面も語っていることに触れなかった点を指摘し、議論を呼んだ（9/27の投稿）。",
-      "source": "@jachiam0",
-      "link": "https://x.com/jachiam0/status/2104291801712787936"
-    }
-  ]
+  "x_trending_tech": []
 }
