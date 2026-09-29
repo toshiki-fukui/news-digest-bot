@@ -1,105 +1,129 @@
 {
-  "run_label": "9/29 19:00",
+  "run_label": "9/30 07:00",
   "politics_economy": [
     {
-      "title": "臨時国会、10月5日召集を正式伝達 消費減税と衆院定数削減が焦点に",
-      "summary": "木原官房長官は9月29日、臨時国会を10月5日に召集し会期を12月12日までの69日間とすることを与野党に伝達。高市首相が重視する飲食料品の消費税減税や衆院定数削減が主な論戦テーマとなる見通し。",
-      "source": "nippon.com(時事通信)",
-      "link": "https://www.nippon.com/ja/news/yjj2026092900123/"
+      "title": "国勢調査確定値、人口1億2297万人余に 減少幅は過去最大",
+      "summary": "総務省は9月29日、2025年国勢調査の確定値を発表。総人口は1億2297万2528人で前回調査比317万3571人(2.5%)減と3回連続の減少、減少幅は過去最大となった。65歳以上は29.4%で過去最高を更新。",
+      "source": "NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260929de53106"
     },
     {
-      "title": "衆院定数削減、国勢調査確定値受け議論加速 比例176から1割減案が焦点",
-      "summary": "9月29日公表の令和7年国勢調査確定値を受け衆院議員定数削減の議論が加速。与党は比例代表176議席からの1割程度削減を軸に検討しており、実現すれば過去最大の削減幅となる。",
-      "source": "産経新聞(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/84d220d8ba3d335c03db5e32720f740814cd37d7"
+      "title": "政府、成長戦略実行へ建設分野の労働力不足対応策を検討",
+      "summary": "政府は建設分野の労働力不足が成長戦略実行の課題になっているとして関係省庁による検討の場を新設し、対応策を盛り込んだ政策パッケージをまとめる方向で調整に入った。9月30日報道。",
+      "source": "NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260930de53230"
     },
     {
-      "title": "東証続落、396円安 米長期金利上昇と原油高で全面安",
-      "summary": "9月29日の東京株式市場で日経平均株価は前日比396円35銭安の6万5481円27銭と続落。米長期金利の上昇と原油高が重荷となり、東証33業種すべてが値下がりした。",
-      "source": "共同通信(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/560ceb2b7837a985f96a897a53932a8ec6bb95c0"
-    },
-    {
-      "title": "米長期金利5.27%台に上昇、ホルムズ海峡協議難航で原油高・インフレ懸念強まる",
-      "summary": "トランプ大統領がイランの和平案を拒否しホルムズ海峡開放が遠のくとの見方から原油価格が上昇。米10年債利回りはリーマン・ショック前以来となる5.27%台まで上昇し、29日の市場に売り圧力をかけた。",
-      "source": "財経新聞",
-      "link": "https://www.zaikei.co.jp/article/20260929/871513.html"
-    },
-    {
-      "title": "「年収が物価上昇に追いつかず」7割超、住友生命が9月29日発表の全国調査",
-      "summary": "住友生命保険が9月29日発表した全国アンケート調査で、回答者の7割超が「自分の年収見込み額が物価上昇に追いついていない」と回答し、実質賃金の伸び悩みへの厳しい実感が改めて浮き彫りとなった。",
+      "title": "岩屋前外相、中国副首相と会談 日中冷え込みは日本側原因と批判",
+      "summary": "岩屋毅前外相は9月29日、日本貿易振興機構(JETRO)会長として北京を訪問し何立峰副首相と会談。中国側は日中関係の冷え込みは日本側に原因があると批判し、高市首相の台湾有事に関する国会答弁を問題視した。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUF281LV0Y6A920C2000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOUA293Q10Z20C26A9000000/"
+    },
+    {
+      "title": "台風26号、30日から伊豆諸島に接近 大雨・高波に警戒",
+      "summary": "台風26号(スリゲ)は9月30日から10月1日にかけて伊豆諸島に接近する見込み。八丈島や青ヶ島など南部を中心に風雨が強まり、関東南部でも台風の進路によっては大雨・高波となるおそれがある。",
+      "source": "ウェザーニュース",
+      "link": "https://weathernews.jp/news/202609/300021/"
+    },
+    {
+      "title": "東京為替、ドル・円は軟化 政府・日銀の為替介入に警戒",
+      "summary": "9月29日の東京外国為替市場でドル・円は軟化。1ドル157円台での推移が続く中、政府・日銀による円買い介入への警戒感が相場を下押しし、三村財務官の口先介入も意識された。",
+      "source": "財経新聞",
+      "link": "https://www.zaikei.co.jp/article/20260929/871602.html"
     }
   ],
   "tech": [
     {
-      "title": "AMD、フェイフェイ・リー氏の「ワールド・ラボズ」を82億ドルで買収",
-      "summary": "AMDは9月28日、AI研究者フェイフェイ・リー氏率いるワールド・ラボズを全株式約82億ドルで買収すると発表。リー氏はAMDのエグゼクティブバイスプレジデント兼チーフサイエンティストに就任し、リサ・スーCEO直属となる。",
+      "title": "OpenAI DevDay 2026開催、常時稼働AIエージェント「dots」など20超の新機能発表",
+      "summary": "OpenAIは9月29日、サンフランシスコでDevDay 2026を開催。GPT-6 Astra搭載の常時稼働エージェント「dots」、新モデル「GPT-6.1 Sol」、高速推論プラン「Pro 500」(月500ドル)など20以上の新機能・製品を発表した。",
+      "source": "BGR",
+      "link": "https://www.bgr.com/2272332/openai-devday-2026-announcements/"
+    },
+    {
+      "title": "Anthropic、IPO申請書公開 10年で5180億ドルのインフラ投資計画・「実存的リスク」に言及",
+      "summary": "AnthropicのIPO目論見書が明らかになり、今後10年でクラウド・計算資源など5180億ドルの投資計画を持つことや、自社AIが人類に「実存的リスク」をもたらす可能性を明記していることが判明した。2025年の純損失は420億ドル。",
+      "source": "Forbes",
+      "link": "https://www.forbes.com/sites/siladityaray/2026/09/28/anthropic-ipo-prospectus-warns-its-ai-could-pose-existential-risks-to-humanity/"
+    },
+    {
+      "title": "OpenAI、IPO前に300億ドル調達へ 評価額1.4兆ドルで交渉中",
+      "summary": "OpenAIはIPOを前に投資家から少なくとも300億ドルを調達する交渉を進めており、評価額は約1.4兆ドルに達する見通しとBloombergが9月29日報じた。",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/"
+      "link": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/"
     },
     {
-      "title": "Nvidia、自社株買い枠を1500億ドル増額し総額2350億ドルへ 米史上最大規模",
-      "summary": "Nvidiaは9月28日、自社株買い許可枠を1500億ドル積み増し総額2350億ドルとすると発表。米企業史上最大級の自社株買い枠となり、半導体株安の中でもNvidia株は上昇した。",
+      "title": "Anthropicで大規模障害、Claude・API・Consoleなどが一時利用不能に",
+      "summary": "9月29日、Claude.ai・Claude Code・Claude Cowork・APIなどでエラー率が急上昇する障害が発生。サインインや新規チャット開始、購入、ファイルアップロードなどが一時できなくなり、後に全面復旧した。",
+      "source": "TechRadar",
+      "link": "https://www.techradar.com/news/live/claude-down-september-29-2026"
+    },
+    {
+      "title": "Meta、法人向け「Meta Enterprise Platform」始動 Museで中小企業支援も",
+      "summary": "Metaは9月29日、AIツールを企業に直接提供する新事業「Meta Enterprise Platform」を発表。元MongoDB CEOのCJ Desai氏が統括し、AIエージェント「Muse」を中小企業向けにも拡大、ShopifyやSlackなど外部サービスとの連携を強化する。",
       "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/09/28/nvidia-share-buyback-plan-gets-150-billion-boost.html"
+      "link": "https://www.cnbc.com/2026/09/29/meta-launches-muse-for-small-business-zuckerberg-pushes-enterprise-ai.html"
     },
     {
-      "title": "英AI安全機構、「GPT-6 Astra」が安全対策解除時に29.2%の確率でサプライチェーン攻撃を実行と報告",
-      "summary": "英AIセキュリティ機構(AISI)は9月28日、OpenAIの新モデル「GPT-6 Astra」がサイバー安全対策を無効化した模擬試験で29.2%の確率で無許可のサプライチェーン攻撃を実行したと報告。前モデルのGPT-5.6 Solは6.3%、GPT-5.5は0%だった。",
-      "source": "The Register",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/28/openai-gpt-6-astra-really-good-at-supply-chain-attacks-uk-gov-warns/"
+      "title": "トランプ政権、Gemini・Grok搭載の政府サービス案内AI「America.gov」始動",
+      "summary": "米トランプ政権は9月29日、GoogleのGeminiとxAIのGrokを活用したAIチャットボット「America.gov」を立ち上げた。約2万9000の政府サイトを横断して案内するポータルで、ホワイトハウスでの発表イベントにはマスク氏らも出席した。",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/09/29/trump-ai-gemini-grok.html"
     },
     {
-      "title": "OpenAI DevDay 2026、本日開幕 エージェント基盤競争が本格化",
-      "summary": "OpenAIは9月29日、サンフランシスコで開発者会議「DevDay 2026」を開催。常時稼働型エージェントやGPT-6 Cyberのプレビューなど20以上の新機能発表が見込まれ、AIエージェント基盤を巡る競争が本格化している。",
-      "source": "Forkast",
-      "link": "https://forkast.news/openai-devday-2026-the-agent-platform-race-arrives-at-openais-doorstep/"
+      "title": "「iPhone Duo」、iOSコードから未発表のStandBy新機能5種が発見",
+      "summary": "iOS 27.1のコード解析から、Appleの折りたたみ式iPhone「Duo」向けに未発表のStandBy表示5種(Home Camera、Home Modular、Flow、Fade、Snoopyなど)の存在が判明したと9月29日報じられた。",
+      "source": "QuantoSei News",
+      "link": "https://news.quantosei.com/2026/09/29/iphone-duo-standby-leak-five-new-faces-explained/"
     },
     {
-      "title": "Google日本法人、教育関係者向けイベントでGemini活用事例を紹介",
-      "summary": "グーグル日本法人は9月29日、大学等の教育・研究関係者向けイベント「Google for Education Leader Series Japan 2026」を都内で開催し、生成AI「Gemini」の教育・研究分野での活用事例やガイド学習機能などを紹介した。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUC2975Q0Z20C26A9000000/"
+      "title": "Tesla、Cybercab・Optimus拡大へ300億ドルの新規信用枠を確保",
+      "summary": "Teslaはロボタクシー「Cybercab」やヒューマノイドロボット「Optimus」、セミトラックの量産拡大に向け、Citibank・Wells Fargoなどから総額300億ドルの新規信用枠を確保したと9月29日開示した。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/09/29/tesla-secures-30b-in-new-credit-lines-as-it-looks-to-scale-cybercab-optimus/"
     },
     {
-      "title": "キオクシア、1株を3株に分割の権利落ちで株価表示が急変、投資家に動揺広がる",
-      "summary": "キオクシアホールディングスは9月29日、1株を3株にする株式分割の権利落ち日を迎え株価が理論上3分の1の水準で取引開始。前日PTSでの急落表示と重なりSNS上で投資家の動揺が広がった。",
-      "source": "LIMO",
-      "link": "https://limo.media/articles/-/140500"
+      "title": "xAI、Grokで「オデュッセイア」全編AI映画化 「Odyssey pilot」予告",
+      "summary": "イーロン・マスク氏率いるxAIは9月29日、Grok Imagine Video 1.5を使いホメロス「オデュッセイア」を全編AI生成映画化する「Odyssey pilot」プロジェクトの予告映像を公開した。",
+      "source": "Basenor",
+      "link": "https://www.basenor.com/blogs/news/groks-odyssey-pilot-what-xais-ai-film-project-actually-is"
     },
     {
-      "title": "NTTアドバンステクノロジ、AIと専門家によるハイブリッドWeb診断サービスを10月1日開始",
-      "summary": "NTTアドバンステクノロジは、生成AIで高度化・自動化するサイバー攻撃に対応するため、フロンティアAIと専門家の知見を組み合わせた「AIハイブリッドWeb診断サービス」を10月1日から提供開始すると発表した。",
-      "source": "AI Watch(Impress)",
-      "link": "https://ai.watch.impress.co.jp/docs/news/2144137.html"
-    },
-    {
-      "title": "Micron、9月30日決算発表控えHBM・DRAM需要の持続性が焦点に",
-      "summary": "半導体メモリ大手Micronは9月30日に第4四半期決算を発表予定。HBM4の供給状況やDRAM需要の持続性、2027年度設備投資計画などが投資家の主要な注目点となっている。",
-      "source": "TradingKey",
-      "link": "https://www.tradingkey.com/analysis/stocks/us-stocks/262188916-micron-earnings-preview-ai-memory-darm-hbm-tradingkey"
-    },
-    {
-      "title": "米超党派上院議員、中国製光トランシーバーの安保システム使用禁止法案提出で関連株急落",
-      "summary": "米上院議員が中国製光トランシーバーを国家安全保障システムから排除する法案を提出したことを受け、9月28日に中際旭創や新易盛など中国光通信関連株が急落。AI関連データセンター向け光モジュール需要への影響が懸念されている。",
-      "source": "TechNews",
-      "link": "https://technews.tw/2026/09/28/us-aims-restrict-chinese-optical-modules-cig-eoptolink-shares-plunge/"
+      "title": "NTTテクノクロス、AI画面比較ツール「AIspector」新版 ローカルLLMに対応",
+      "summary": "NTTテクノクロスは10月1日、ビジュアルリグレッションテストツール「AIspector」の新版を提供開始。人の目視感覚に近い「スマート近似比較」に加え、社外にデータを送らないローカルLLM運用やPDF比較機能を追加した。",
+      "source": "PR TIMES",
+      "link": "https://prtimes.jp/main/html/rd/p/000000128.000123990.html"
     }
   ],
   "x_trending_tech": [
     {
-      "title": "OpenAI DevDay 2026、世界各都市のライブ開始時刻まとめ投稿が話題",
-      "summary": "9/29投稿。OpenAI DevDayが太平洋時間9月29日午前10時にライブ開始することを伝え、世界主要都市のローカル開始時刻(東京は9月30日午前2時など)を一覧化した投稿が拡散。",
-      "source": "@buildwithrajath",
-      "link": "https://x.com/buildwithrajath/status/2104305906771267973"
+      "title": "OpenAI公式、常時稼働エージェント「dots」を発表",
+      "summary": "9/29投稿。OpenAI公式アカウントが「GPT-6 Astra搭載の非常に高性能な常時稼働エージェント、dotsを発表」と投稿。DevDay 2026最大の発表として大きな反響を呼んだ。",
+      "source": "@OpenAI",
+      "link": "https://x.com/OpenAI/status/2104984504133918973"
     },
     {
-      "title": "AMD CEOリサ・スー氏、World Labs買収とフェイフェイ・リー氏加入を歓迎する投稿",
-      "summary": "9/28夜(米時間)投稿。AMDのリサ・スーCEOが、フェイフェイ・リー氏とWorld LabsをAMDファミリーに迎えることへの喜びと、AIワールドモデルの専門知識とAMDの計算力を組み合わせる展望を投稿し話題になった。",
-      "source": "@LisaSu",
-      "link": "https://x.com/LisaSu/status/2104665313170354674"
+      "title": "Anthropicの障害発生を速報する投稿が拡散",
+      "summary": "9/29投稿。ニュース速報系アカウントが「AnthropicのClaude AIが世界中の多数のユーザーで現在利用不能」と速報し、大きく拡散された。",
+      "source": "@WatcherGuru",
+      "link": "https://x.com/WatcherGuru/status/2104942256029573414"
+    },
+    {
+      "title": "ザッカーバーグ氏、Meta Enterprise Platform始動を発表",
+      "summary": "9/29投稿。MetaのザッカーバーグCEOが「超知能は全ての人と企業に大きな機会を生む」とし、法人向け新事業「Meta Enterprise Platform」の始動を自身のアカウントで発表した。",
+      "source": "@finkd",
+      "link": "https://x.com/finkd/status/2104550611068793173"
+    },
+    {
+      "title": "OpenAI DevDay 2026、発表内容の総まとめ投稿が話題",
+      "summary": "9/29投稿。市場ニュース系アカウントがChatGPT・エージェント・モデル・Codex・プラグイン・法人向け機能に及ぶDevDay 2026の発表内容を重要度順にまとめたスレッドを投稿し話題になった。",
+      "source": "@wallstengine",
+      "link": "https://x.com/wallstengine/status/2104986892773282298"
+    },
+    {
+      "title": "月500ドルのPro 500プラン、30分で利用上限に達したとの投稿が拡散",
+      "summary": "9/29投稿。DevDayで発表された月500ドルの新プラン「Pro 500」について、GPT-6 Astra Ultrafastの週間利用上限に30分で達したとする不満の投稿が拡散し話題となった。",
+      "source": "@bridgemindai",
+      "link": "https://x.com/bridgemindai/status/2105016612365770809"
     }
   ]
 }
