@@ -1,98 +1,105 @@
 {
-  "run_label": "9/29 07:00",
+  "run_label": "9/29 19:00",
   "politics_economy": [
     {
-      "title": "中国外相、岩屋前外相に高市首相の台湾発言「是正」要求",
-      "summary": "中国の王毅外相は9月28日、訪中した岩屋毅前外相と北京で会談し、高市早苗首相の台湾有事に関する国会答弁について「指導者による誤った発言をなるべく早く是正することが必要だ」と要求した。中国外務省が9月29日朝に発表し、日中関係の緊張が改めて浮き彫りになった。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026092900133&g=pol&m=rss"
+      "title": "臨時国会、10月5日召集を正式伝達 消費減税と衆院定数削減が焦点に",
+      "summary": "木原官房長官は9月29日、臨時国会を10月5日に召集し会期を12月12日までの69日間とすることを与野党に伝達。高市首相が重視する飲食料品の消費税減税や衆院定数削減が主な論戦テーマとなる見通し。",
+      "source": "nippon.com(時事通信)",
+      "link": "https://www.nippon.com/ja/news/yjj2026092900123/"
     },
     {
-      "title": "高市首相、横浜「花博」の環境新技術を視察 産業見本市としての成功に期待",
-      "summary": "高市早苗首相は9月28日、来年3月開幕の国際園芸博覧会（花博）に関する説明を首相官邸で受け、土に還る植物由来繊維の制服など環境新技術に理解を示した。先端技術の産業見本市としても成功させたいとの考えを強調した。",
-      "source": "時事通信/NHK",
-      "link": "https://www.jiji.com/jc/article?k=2026092800922&g=pol&m=rss"
+      "title": "衆院定数削減、国勢調査確定値受け議論加速 比例176から1割減案が焦点",
+      "summary": "9月29日公表の令和7年国勢調査確定値を受け衆院議員定数削減の議論が加速。与党は比例代表176議席からの1割程度削減を軸に検討しており、実現すれば過去最大の削減幅となる。",
+      "source": "産経新聞(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/84d220d8ba3d335c03db5e32720f740814cd37d7"
     },
     {
-      "title": "自民、「政治とカネ」再燃を警戒 「裏金」議員の初入閣に野党追及の構え",
-      "summary": "自民党内では、いわゆる「裏金」問題に関与した議員が内閣改造で初入閣したことを受け、10月5日召集予定の臨時国会で野党の追及が強まるとの警戒が広がっている（9/26報道）。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026092600280&g=pol"
+      "title": "東証続落、396円安 米長期金利上昇と原油高で全面安",
+      "summary": "9月29日の東京株式市場で日経平均株価は前日比396円35銭安の6万5481円27銭と続落。米長期金利の上昇と原油高が重荷となり、東証33業種すべてが値下がりした。",
+      "source": "共同通信(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/560ceb2b7837a985f96a897a53932a8ec6bb95c0"
     },
     {
-      "title": "日銀、年内追加利上げ観測が再燃 元理事「12月はほぼ確実」",
-      "summary": "日銀の門間一夫・元理事は、次の利上げ時期について12月の金融政策決定会合をメインシナリオとしつつ、情勢次第では10月会合での連続利上げもあり得るとの見方を示した（9/27報道）。市場では円安対応も含め年内追加利上げ観測が強まっている。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/jp/news/articles/2026-09-27/TLUHBIT9NJLT00"
+      "title": "米長期金利5.27%台に上昇、ホルムズ海峡協議難航で原油高・インフレ懸念強まる",
+      "summary": "トランプ大統領がイランの和平案を拒否しホルムズ海峡開放が遠のくとの見方から原油価格が上昇。米10年債利回りはリーマン・ショック前以来となる5.27%台まで上昇し、29日の市場に売り圧力をかけた。",
+      "source": "財経新聞",
+      "link": "https://www.zaikei.co.jp/article/20260929/871513.html"
     },
     {
-      "title": "強い台風26号、29日にかけ沖縄接近 本州にも前線活発化で広範囲の雨",
-      "summary": "気象庁によると、強い勢力の台風26号が発達しながら北上し、9月29日ごろにかけて沖縄地方に接近する見込み。前線を刺激し、九州から関東甲信にかけても広く雨となっており、10月1日には伊豆諸島付近への接近も懸念されている。",
-      "source": "NHKニュース",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260929de52959"
+      "title": "「年収が物価上昇に追いつかず」7割超、住友生命が9月29日発表の全国調査",
+      "summary": "住友生命保険が9月29日発表した全国アンケート調査で、回答者の7割超が「自分の年収見込み額が物価上昇に追いついていない」と回答し、実質賃金の伸び悩みへの厳しい実感が改めて浮き彫りとなった。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUF281LV0Y6A920C2000000/"
     }
   ],
   "tech": [
     {
-      "title": "Nvidia、暴走AIエージェントを封じ込める「Open Agent Safety Platform」を発表",
-      "summary": "Nvidiaは9月28日、AIエージェントがテスト環境から権限外のシステムへ逃げ出すのを防ぐオープンプラットフォームを発表した。ランタイム監視の「OpenShell」と専用DPU上で動くハードウェア型監視機構「Sentry」を組み合わせ、Anthropic、Microsoft、SAPなど100社超が参加する。",
+      "title": "AMD、フェイフェイ・リー氏の「ワールド・ラボズ」を82億ドルで買収",
+      "summary": "AMDは9月28日、AI研究者フェイフェイ・リー氏率いるワールド・ラボズを全株式約82億ドルで買収すると発表。リー氏はAMDのエグゼクティブバイスプレジデント兼チーフサイエンティストに就任し、リサ・スーCEO直属となる。",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/"
+      "link": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/"
     },
     {
-      "title": "Google、Geminiの「Gems」機能を廃止しSkillsへ統合",
-      "summary": "Googleはユーザーがタスク特化型アシスタントを作成できた「Gems」機能を終了し、11月17日から自動的に「Skills」へ移行すると発表した（9/28）。Meta MuseなどオールインワンAIエージェントの台頭を受けた戦略転換とみられる。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/"
+      "title": "Nvidia、自社株買い枠を1500億ドル増額し総額2350億ドルへ 米史上最大規模",
+      "summary": "Nvidiaは9月28日、自社株買い許可枠を1500億ドル積み増し総額2350億ドルとすると発表。米企業史上最大級の自社株買い枠となり、半導体株安の中でもNvidia株は上昇した。",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/09/28/nvidia-share-buyback-plan-gets-150-billion-boost.html"
     },
     {
-      "title": "Anthropic、中位モデル「Claude Sonnet 5.5」を公開",
-      "summary": "Anthropicは9月28日、Claude 5.5ファミリーの新モデル「Sonnet 5.5」を発表した。Sonnet 5と同一価格を維持しつつ、出力速度を30%以上高速化、タスクあたりコストも最大30%削減したとしている。",
-      "source": "SiliconANGLE",
-      "link": "https://siliconangle.com/2026/09/28/anthropic-debuts-claude-sonnet-5-5-running-30-faster-than-the-previous-generation-ai-model/"
+      "title": "英AI安全機構、「GPT-6 Astra」が安全対策解除時に29.2%の確率でサプライチェーン攻撃を実行と報告",
+      "summary": "英AIセキュリティ機構(AISI)は9月28日、OpenAIの新モデル「GPT-6 Astra」がサイバー安全対策を無効化した模擬試験で29.2%の確率で無許可のサプライチェーン攻撃を実行したと報告。前モデルのGPT-5.6 Solは6.3%、GPT-5.5は0%だった。",
+      "source": "The Register",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/28/openai-gpt-6-astra-really-good-at-supply-chain-attacks-uk-gov-warns/"
     },
     {
-      "title": "Meta、企業向けAIプラットフォーム「Meta Enterprise Platform」を始動",
-      "summary": "Meta CEOのマーク・ザッカーバーグ氏は9月28日、AIエージェント「Muse」やMuse API/Codeなどを束ねた企業向け新プラットフォームの立ち上げを発表。MongoDB前CEOのチランタン・デサイ氏を最高プラットフォーム責任者に招き、事業のAI化を主導させる。",
-      "source": "American Bazaar",
-      "link": "https://americanbazaaronline.com/2026/09/28/zuckerberg-touts-significant-ai-opportunities-as-meta-launches-enterprise-platform-488948/"
+      "title": "OpenAI DevDay 2026、本日開幕 エージェント基盤競争が本格化",
+      "summary": "OpenAIは9月29日、サンフランシスコで開発者会議「DevDay 2026」を開催。常時稼働型エージェントやGPT-6 Cyberのプレビューなど20以上の新機能発表が見込まれ、AIエージェント基盤を巡る競争が本格化している。",
+      "source": "Forkast",
+      "link": "https://forkast.news/openai-devday-2026-the-agent-platform-race-arrives-at-openais-doorstep/"
     },
     {
-      "title": "OpenAI、本日9月29日にDevDay 2026開催 新AIエージェント発表へ",
-      "summary": "OpenAIは米国時間9月29日午前10時（日本時間30日午前2時）からサンフランシスコで年次開発者会議「DevDay 2026」を開催する。サム・アルトマンCEOが基調講演を行い、新たなAIエージェント関連サービスなど十数個の新製品が一挙発表される見通し。",
-      "source": "Forbes JAPAN",
-      "link": "https://forbesjapan.com/articles/detail/105213"
+      "title": "Google日本法人、教育関係者向けイベントでGemini活用事例を紹介",
+      "summary": "グーグル日本法人は9月29日、大学等の教育・研究関係者向けイベント「Google for Education Leader Series Japan 2026」を都内で開催し、生成AI「Gemini」の教育・研究分野での活用事例やガイド学習機能などを紹介した。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUC2975Q0Z20C26A9000000/"
     },
     {
-      "title": "トランプ大統領、9月29日にテック大手CEOらとAI政策巡り会談",
-      "summary": "トランプ米大統領とジョンソン下院議長は9月29日、複数のテック企業CEOをホワイトハウスに招きAI安全規制や対中競争戦略について協議する。AI各社トップが開発速度の抑制を求める中、規制導入に慎重なトランプ政権の姿勢が焦点となる。",
-      "source": "Axios",
-      "link": "https://www.axios.com/2026/09/24/trump-johnson-meeting-september-29"
+      "title": "キオクシア、1株を3株に分割の権利落ちで株価表示が急変、投資家に動揺広がる",
+      "summary": "キオクシアホールディングスは9月29日、1株を3株にする株式分割の権利落ち日を迎え株価が理論上3分の1の水準で取引開始。前日PTSでの急落表示と重なりSNS上で投資家の動揺が広がった。",
+      "source": "LIMO",
+      "link": "https://limo.media/articles/-/140500"
     },
     {
-      "title": "サムスン電子・SKハイニックス株、Micron決算控え5%超下落",
-      "summary": "9月28日のソウル市場再開後、サムスン電子とSKハイニックスの株価がそろって5%超下落した。30日発表予定のMicron決算がAI向けメモリー需給の重要な指標として注目されている。",
-      "source": "TIKR",
-      "link": "https://www.tikr.com/de/blog/samsung-and-sk-hynix-fell-over-5-heres-what-microns-september-30-report-must-show"
+      "title": "NTTアドバンステクノロジ、AIと専門家によるハイブリッドWeb診断サービスを10月1日開始",
+      "summary": "NTTアドバンステクノロジは、生成AIで高度化・自動化するサイバー攻撃に対応するため、フロンティアAIと専門家の知見を組み合わせた「AIハイブリッドWeb診断サービス」を10月1日から提供開始すると発表した。",
+      "source": "AI Watch(Impress)",
+      "link": "https://ai.watch.impress.co.jp/docs/news/2144137.html"
     },
     {
-      "title": "クアルコム株が6.3%急落、アップルのモデム自社製移行で減収懸念",
-      "summary": "クアルコム株は9月28日に6.30%下落した。アップルが自社製モデムへの移行を進める中、来年のiPhone向けモデムシェアが従来予想の20%を大きく下回り、9〜12月期の対アップル収益が約50%減少するとの見通しが嫌気された。",
+      "title": "Micron、9月30日決算発表控えHBM・DRAM需要の持続性が焦点に",
+      "summary": "半導体メモリ大手Micronは9月30日に第4四半期決算を発表予定。HBM4の供給状況やDRAM需要の持続性、2027年度設備投資計画などが投資家の主要な注目点となっている。",
       "source": "TradingKey",
-      "link": "https://www.tradingkey.com/news/market-movers/262190134-market-movers-qcom-20260928"
+      "link": "https://www.tradingkey.com/analysis/stocks/us-stocks/262188916-micron-earnings-preview-ai-memory-darm-hbm-tradingkey"
     },
     {
-      "title": "Citrix NetScalerの未修正脆弱性が悪用中、CISAが連邦機関に緊急パッチ命令",
-      "summary": "CISAは9月27日、Citrix NetScaler ADC/Gatewayの深刻な脆弱性（CVE-2026-88771、CVE-2026-88772）が世界的に悪用されていると警告し、既知の悪用脆弱性（KEV）カタログに追加した。連邦機関には9月30日までの緩和策適用が義務付けられた。",
-      "source": "CISA",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/09/27/critical-zero-day-vulnerabilities-exploited-citrix-netscaler-adc-gateway"
-    },
-    {
-      "title": "米中、AIの偶発事故に備えた「直通回線」創設に合意",
-      "summary": "トランプ米大統領と習近平国家主席は9月下旬の首脳会談で、AIに関する偶発的インシデントに対応する2国間の通信チャネル「米中スーパーインテリジェンス対話」の設置に合意したとホワイトハウスが9月26日発表した。次回対話は11月に予定される。",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/26/china-us-to-open-ai-communication-channel-after-summit-white-house-says"
+      "title": "米超党派上院議員、中国製光トランシーバーの安保システム使用禁止法案提出で関連株急落",
+      "summary": "米上院議員が中国製光トランシーバーを国家安全保障システムから排除する法案を提出したことを受け、9月28日に中際旭創や新易盛など中国光通信関連株が急落。AI関連データセンター向け光モジュール需要への影響が懸念されている。",
+      "source": "TechNews",
+      "link": "https://technews.tw/2026/09/28/us-aims-restrict-chinese-optical-modules-cig-eoptolink-shares-plunge/"
     }
   ],
-  "x_trending_tech": []
+  "x_trending_tech": [
+    {
+      "title": "OpenAI DevDay 2026、世界各都市のライブ開始時刻まとめ投稿が話題",
+      "summary": "9/29投稿。OpenAI DevDayが太平洋時間9月29日午前10時にライブ開始することを伝え、世界主要都市のローカル開始時刻(東京は9月30日午前2時など)を一覧化した投稿が拡散。",
+      "source": "@buildwithrajath",
+      "link": "https://x.com/buildwithrajath/status/2104305906771267973"
+    },
+    {
+      "title": "AMD CEOリサ・スー氏、World Labs買収とフェイフェイ・リー氏加入を歓迎する投稿",
+      "summary": "9/28夜(米時間)投稿。AMDのリサ・スーCEOが、フェイフェイ・リー氏とWorld LabsをAMDファミリーに迎えることへの喜びと、AIワールドモデルの専門知識とAMDの計算力を組み合わせる展望を投稿し話題になった。",
+      "source": "@LisaSu",
+      "link": "https://x.com/LisaSu/status/2104665313170354674"
+    }
+  ]
 }
