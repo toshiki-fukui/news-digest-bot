@@ -1,123 +1,129 @@
 {
-  "run_label": "9/30 19:00",
+  "run_label": "10/1 07:00",
   "politics_economy": [
     {
-      "title": "高市首相、所信表明演説案で消費減税に理解求める方針",
-      "summary": "高市早苗首相は10月5日召集の臨時国会で行う所信表明演説の原案を9月30日に固めた。「責任ある積極財政」を掲げ、消費減税への理解を求めるとともに、経済・市場に急激な変動があれば柔軟に対応する考えを示した。",
+      "title": "消費税減税と所得に応じた給付の法案、概要判明",
+      "summary": "政府が10月5日召集の臨時国会に提出する消費税減税関連法案の概要が10月1日朝までに判明した。2027年4月から食料品の税率を2年間1%に引き下げ、残り1%相当分は中低所得の勤労者向け給付として先行実施する。",
       "source": "NHKニュース",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260930de53370"
+      "link": "https://news.web.nhk/newsweb/na/nd-20261001de53505"
     },
     {
-      "title": "臨時国会、10月5日召集で正式伝達 会期69日間",
-      "summary": "政府は9月29日、臨時国会を10月5日に召集し、会期を12月12日までの69日間とする日程を与野党に正式伝達した。消費税減税法案など21本の法案提出を予定し、5日に高市首相の所信表明演説、7〜8日に代表質問を行う。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUA291QJ0Z20C26A9000000/"
+      "title": "内閣改造で閣外去った林芳正氏、次期総裁選へ始動 高市首相側は切り崩し図る",
+      "summary": "内閣改造で閣外に去った林芳正前総務相が「次期総裁選」を見据えて動き出し、高市首相側は林氏支持派議員の切り崩しを開始した。林氏も反主流派の会合に参加するなど、与党内の駆け引きが表面化している。9月30日報道。",
+      "source": "NEWSポストセブン",
+      "link": "https://news-postseven.com/archives/20260930_2133959.html?DETAIL="
     },
     {
-      "title": "東証大引け、日経平均1272円高で3日ぶり反発",
-      "summary": "9月30日の東京株式市場で日経平均株価は前日比1272円45銭高の6万6753円72銭で取引を終えた。前日の米半導体株高を受けAI・半導体関連に買いが先行し、全33業種が上昇した。9月月間でも2カ月連続の上昇となった。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOFL305E90Q6A930C2000000/"
+      "title": "台風26号、10月1日朝にかけ伊豆諸島付近を通過 関東甲信は土砂災害に警戒",
+      "summary": "台風26号(スリゲ)は9月30日夜から10月1日朝にかけて伊豆諸島付近を通過する見込み。その後は温帯低気圧に変わる見通しだが、関東甲信では雨量が少なくても地盤が緩み土砂災害の危険度が高まるとして警戒が呼びかけられている。",
+      "source": "Yahoo!ニュース(チューリップテレビ)",
+      "link": "https://news.yahoo.co.jp/articles/18a0317e4a64e5372d177e7d9f3ff06fdf1180fc"
     },
     {
-      "title": "ドン・キホーテ運営会社、トイザらス日本事業を買収へ 全150店舗継承",
-      "summary": "玩具販売大手トイザらスが日本の店舗運営から撤退する方針を固め、ディスカウント店「ドン・キホーテ」を運営するPPIHが国内約150店舗を買収する見通しとなった。少子化やネット通販拡大による赤字継続が背景。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUC088Y90Y6A900C2000000/"
+      "title": "ドル円、157円台で推移 明日の日銀短観を控え様子見",
+      "summary": "10月1日未明の外国為替市場でドル円相場は1ドル=157円台で推移した。米長期金利の動向をにらみつつ、同日朝発表の日銀短観(9月調査)を控えて様子見ムードが強まっている。",
+      "source": "中日新聞Web",
+      "link": "https://www.chunichi.co.jp/article/1318938"
     },
     {
-      "title": "台風26号、今夜遅く伊豆諸島に接近 千葉で大雨のおそれ",
-      "summary": "台風26号(スリゲ)は9月30日夜遅くから10月1日朝にかけて伊豆諸島南部に最接近する見込み。関東南部でも1日にかけて雨や風が強まり、千葉県などで大雨となるおそれがあるとして警戒が呼びかけられている。",
-      "source": "NHKニュース",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260930de53237"
+      "title": "日銀短観9月調査、10月1日発表へ 大企業製造業は+25に改善の予想",
+      "summary": "日銀短観(9月調査)が10月1日午前8時50分に発表される。大企業製造業の業況判断DIは前回6月調査の+22から+25へ改善すると予想されており、9月の利上げ後初の企業マインド指標として10月末の次回金融政策決定会合への影響が注目されている。",
+      "source": "OANDA証券",
+      "link": "https://www.oanda.jp/lab-education/market_news/tankan-sep-2026-preview/"
     }
   ],
   "tech": [
     {
-      "title": "トランプ大統領とAI大手7社、ホワイトハウスで「自己規制」誓約に署名",
-      "summary": "トランプ大統領は9月29日、Anthropic、Google、Meta、OpenAI、Nvidia、xAIなどのトップと会談し、内部統制の強化や外部監査の導入を柱とする自主規制の合意文書に署名したと発表した。「道義的に拘束力がある」と述べた。",
-      "source": "Axios",
-      "link": "https://www.axios.com/2026/09/29/trump-ai-voluntary-safety-white-house-zuckerberg"
+      "title": "Google、新フラッグシップ「Gemini 4 Argon」発表 ベンチマーク首位を奪還",
+      "summary": "Googleは9月30日、新フラッグシップモデル「Gemini 4 Argon」を発表した。出力トークン上限を100万に拡大し、複雑な推論作業に対応。ベンチマークでGPT-6 AstraやClaude Opus 5.5を上回る性能を示したとされ、まずサイバー防御分野の信頼テスターに限定提供される。",
+      "source": "VentureBeat",
+      "link": "https://venturebeat.com/technology/google-unveils-gemini-4-argon-retaking-benchmark-lead-over-openai-and-anthropic-but-in-limited-release"
     },
     {
-      "title": "トランプ氏、AIの呼称を「Super Intelligence」に統一する大統領令に署名",
-      "summary": "トランプ大統領は9月30日までに、連邦政府機関に対し「人工知能(AI)」の呼称を「Super Intelligence(SI)」に統一するよう指示する大統領令に署名した。AIの急速な進化を踏まえた呼称変更だと説明している。",
-      "source": "Forbes",
-      "link": "https://www.forbes.com/sites/siladityaray/2026/09/30/trump-signs-order-renaming-ai-to-super-intelligence--heres-what-it-says/"
-    },
-    {
-      "title": "OpenAI DevDay 2026開催、Dots・ChatGPT Space・GPT-6.1 Solなど20超の新機能発表",
-      "summary": "OpenAIは9月29日、サンフランシスコで開催したDevDay 2026で常時稼働エージェント「Dots」、共同作業空間「ChatGPT Space」、新モデル「GPT-6.1 Sol」など20以上の新発表を行った。過去最大規模のDevDayとなった。",
-      "source": "Axios",
-      "link": "https://www.axios.com/2026/09/29/openai-dev-day-2026-dots-space-sol"
-    },
-    {
-      "title": "OpenAI、新モデル「GPT-6.1 Sol」提供開始 Astraの5分の1価格で近い性能",
-      "summary": "OpenAIはDevDayで、コーディングやコンピュータ操作の性能を高めた新モデル「GPT-6.1 Sol」をAPI提供開始したと発表。フラッグシップ「GPT-6 Astra」に近い性能を標準価格の5分の1で実現するとしている。",
+      "title": "Reddit、RSS配信を終了へ 公開APIアクセスも段階的に廃止",
+      "summary": "Redditは9月30日、AIボットによる大規模スクレイピング対策として11月13日にRSS配信を終了し、公開APIアクセスも2027年3月までに段階的に廃止すると発表した。モデレーター向けの代替手段は用意されるが、それ以外の用途には代替がないとしている。",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/"
+      "link": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/"
     },
     {
-      "title": "イーロン・マスク氏のxAI、「dot.com」がGrokにリダイレクト OpenAIのDots発表に「一杯食わせた」と話題",
-      "summary": "OpenAIが新エージェント「Dots」を発表した直後、xAIが保有するドメイン「dot.com」がGrokのダウンロードページにリダイレクトされることが判明し、ネット上でマスク氏による“悪ふざけ”との憶測が広がっている。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/"
-    },
-    {
-      "title": "Micron、AIメモリ需要けん引の第4四半期決算を本日発表へ",
-      "summary": "Micron Technologyは9月30日、AI向けメモリ需要の勢いを占う重要な決算として第4四半期(8月期)決算を発表する。市場は売上高約510億ドル、EPS約31.6ドルを予想しており、AI主導の需要拡大が続くかが焦点となる。",
+      "title": "Micron、2026年8月期第4四半期決算 売上高542億ドルで市場予想上回る",
+      "summary": "Micron Technologyは9月30日、第4四半期決算で売上高542億ドル(前年比379%増)、調整後EPS33.42ドルを発表し、いずれも市場予想を上回った。AIメモリ需要の急拡大が続いており、2027年度も増収増益を見込むと発表した。",
       "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/09/29/micron-earnings-this-week-could-test-whether-the-memory-boom-has-more-room-to-run.html"
+      "link": "https://www.cnbc.com/2026/09/30/micron-mu-q4-earnings-report-2026.html"
     },
     {
-      "title": "「AI厳選ハイテク株」9月に急伸、インテル37%高・AMD34%高",
-      "summary": "9月の米株市場でAI関連の半導体株が軒並み急伸し、インテルが37%高、AMDが34%高となるなど大幅な月間上昇を記録した。AIインフラ投資への期待が引き続き株価を押し上げている。",
-      "source": "Investing.com",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1691839"
-    },
-    {
-      "title": "2026年9月のサイバー攻撃・不正アクセスまとめ、タイムズカーや京王、東京メトロなど",
-      "summary": "9月は国内で相次いでサイバー攻撃・不正アクセスが発覚した月となった。タイムズカーで約660万件、東京メトロで約5.9万件のメールアドレス流出のほか、京王電鉄へのランサムウェア攻撃などが報告されている。",
-      "source": "マイナビニュース",
-      "link": "https://news.mynavi.jp/techplus/article/20260930-5050581/"
-    },
-    {
-      "title": "Google、次期フラッグシップ「Gemini 4」を年内投入へ",
-      "summary": "Googleは開発中だった「Gemini 3.5 Pro」を見送り、リソースを次期フラッグシップモデル「Gemini 4」に集中させ、年内にも投入する計画だと報じられている。GPT-6 AstraやClaude Fable 5.1を上回る性能を目指すとの見方もある。",
-      "source": "InfoWorld",
-      "link": "https://www.infoworld.com/article/4226642/google-plans-gemini-4-release-before-year-end-2.html"
-    },
-    {
-      "title": "OpenAI、Codexに再利用可能なクラウド開発環境を追加",
-      "summary": "OpenAIはDevDayで、ソフトウェア開発エージェント「Codex」向けに端末を問わず利用できる再利用可能なクラウド開発環境を追加すると発表。チームで設定や権限を共有し、タスクの立ち上げを高速化できるとしている。",
+      "title": "スマートリング「Oura」、22億ドル規模のIPOを延期 市場の不透明感を理由に",
+      "summary": "スマートリング大手Ouraは上場前日になって、最大22億ドル規模を計画していたナスダック上場を延期すると発表した。需要は強かったとしつつ、IPO市場全体の不透明感を理由に挙げている。9月29日発表。",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/"
+      "link": "https://techcrunch.com/2026/09/29/oura-shelves-its-2-2b-ipo-citing-uncertainty-in-the-market/"
+    },
+    {
+      "title": "AI音声のElevenLabs、時価総額が2倍の220億ドルに 社員向け株式売却で",
+      "summary": "AI音声スタートアップのElevenLabsは、ウェリントン・マネジメントやT.ロウ・プライスが主導する3億ドル規模の社員株式売却取引を経て、時価総額が2月時点から倍増し220億ドルに達したと発表した。9月30日報道。",
+      "source": "The Next Web",
+      "link": "https://thenextweb.com/news/elevenlabs-valuation-22bn-300m-tender-wellington-t-rowe-price"
+    },
+    {
+      "title": "住宅・医療AIのEliseAI、3.5億ドル調達し評価額40億ドルに",
+      "summary": "賃貸住宅や医療機関の業務をAIで自動化するEliseAIが、a16zとBessemerが主導する3.5億ドルの資金調達を発表し、評価額は40億ドルとなった。年間経常収益は2億ドルに達しているという。9月29日発表。",
+      "source": "GlobeNewswire",
+      "link": "https://www.globenewswire.com/news-release/2026/09/29/3370681/0/en/eliseai-raises-350-million-at-4-billion-valuation-to-bring-ai-deeper-into-housing-and-healthcare-operations.html"
+    },
+    {
+      "title": "Apple Pay、ついにインドへ上陸 Axis Bankと提携",
+      "summary": "Appleは長らく見送られてきたインドでのApple Pay提供を開始する。現地のAxis Bankと提携し、同国のモバイル決済市場に参入する。9月29日報道。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/"
+    },
+    {
+      "title": "マイクロン決算好調受け、東京市場でも半導体・AI関連株に買い優勢",
+      "summary": "マイクロンが2026年9〜11月期の売上高が前年同期比4.5倍の615億ドル前後になるとの見通しを示したことを受け、東京株式市場でも半導体・AI関連銘柄を中心に買いが優勢となった。メモリー市場のAI特需の勢いが引き続き意識されている。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOGN293T80Z20C26A9000000/"
+    },
+    {
+      "title": "ディスプレイ各社、AI半導体分野へ参入加速 ガラスコア基板やMicro LEDに商機",
+      "summary": "AI半導体ブームを背景に、ディスプレイメーカー各社がガラスコア基板や先端パッケージング、Micro LEDといった半導体関連技術への参入を加速させているとの分析が報じられた。9月30日付。",
+      "source": "DIGITIMES",
+      "link": "https://www.digitimes.com/news/a20260930PD221/display-semiconductors-packaging-growth-technology.html"
+    },
+    {
+      "title": "Apple、iOS 27.0.1を配信開始 iPhone 18 ProのFace ID・カメラ不具合を修正",
+      "summary": "Appleは iPhone 18 Pro/Pro Max向けにiOS 27.0.1の配信を開始した。Face ID認証失敗後にフリーズ・再起動する不具合や、特定条件下でカメラに色の異常が出る問題などを修正した。9月29日報道。",
+      "source": "Business Today",
+      "link": "https://businesstoday.in/amp/technology/news/story/apple-releases-ios-27-01-update-for-iphone-18-pro-fixes-face-id-camera-and-other-bugs-558415-2026-09-29"
     }
   ],
   "x_trending_tech": [
     {
-      "title": "OpenAIの新エージェント「Dots」発表直後、xAIの「dot.com」がGrokにリダイレクトと判明し話題に",
-      "summary": "OpenAIが「Dots」を発表した直後、xAI名義のドメイン「dot.com」がGrokのダウンロードページに転送されることを発見した投稿が拡散。「based lmao」とのコメントとともに、マスク氏による悪ふざけではとの憶測を呼んだ。DevDay当日(9/29)の投稿。",
-      "source": "@birdabo",
-      "link": "https://x.com/birdabo/status/2104987275813917076"
+      "title": "Google DeepMind公式、新モデル「Gemini 4 Argon」を発表",
+      "summary": "Google DeepMindの公式アカウントが新フラッグシップモデル「Gemini 4 Argon」の投入を発表。複雑で長期にわたる推論ワークフロー向けに設計されたとしている。9/30投稿。",
+      "source": "@GoogleDeepMind",
+      "link": "https://x.com/GoogleDeepMind/status/2105388084154056939"
     },
     {
-      "title": "OpenAI、共同作業空間「ChatGPT Space」を発表と速報",
-      "summary": "OpenAIがDevDayで発表した新機能「ChatGPT Space」について、チームとAIがリアルタイムで共同作業できる新しいワークスペースだと解説する速報投稿。「pages」という対話型ドキュメント機能が特徴と紹介されている。9/29のDevDay直後の投稿。",
-      "source": "@AGTPinsights",
-      "link": "https://x.com/AGTPinsights/status/2105001661748183301"
+      "title": "Gemini 4 Argon、Text Arenaで首位に浮上と話題に",
+      "summary": "AIモデル評価サイトArenaの公式投稿によると、「Gemini 4 Argon (High)」がText Arenaで1525ポイントを獲得し首位を獲得。コスト効率の高さも話題になっている。9/30投稿。",
+      "source": "@arena",
+      "link": "https://x.com/arena/status/2105394855644139908"
     },
     {
-      "title": "OpenAI公式、新モデル「GPT-6.1 Sol」の提供開始を告知",
-      "summary": "OpenAI Developers公式アカウントが、エージェント型コーディングやコンピュータ操作を強化した新モデル「GPT-6.1 Sol」の提供開始を発表。標準入力価格に対しキャッシュ入力価格を95%引き下げたことなどをアピールしている。9/29投稿。",
-      "source": "@OpenAIDevs",
-      "link": "https://x.com/OpenAIDevs/status/2104993035507712318"
+      "title": "Gemini 4 ArgonがGPT-6 Astraに匹敵、コストは6割と分析投稿が拡散",
+      "summary": "AIベンチマーク専門アカウントArtificial Analysisが、Gemini 4 ArgonがGPT-6 Astraと同等のインテリジェンス指数を、6割のコストで達成したと分析。Googleが再びトップ3ラボに返り咲いたと評価する投稿が拡散した。9/30投稿。",
+      "source": "@ArtificialAnlys",
+      "link": "https://x.com/ArtificialAnlys/status/2105392625788637299"
     },
     {
-      "title": "サム・アルトマン氏、DevDayライブ配信開始を告知",
-      "summary": "OpenAIのサム・アルトマンCEOが、DevDay 2026の基調講演ライブ配信が2時間後に始まると投稿。「たくさんの素晴らしいものを用意した」と期待をあおった、DevDay直前(9/29)の投稿。",
-      "source": "@sama",
-      "link": "https://x.com/sama/status/2104950376466362578"
+      "title": "マイクロン決算、AIメモリ需要の強さを示す数字に投稿相次ぐ",
+      "summary": "金融情報アカウントCheddarFlowが、マイクロンの第4四半期決算でクラウドメモリ売上高が予想を上回ったことなど詳細な数字を投稿し、AIメモリ需要の強さを示す内容として話題になった。9/30投稿。",
+      "source": "@CheddarFlow",
+      "link": "https://x.com/CheddarFlow/status/2105387849344499971"
+    },
+    {
+      "title": "ElevenLabs、時価総額220億ドルへの倍増をFinancial Timesが速報",
+      "summary": "Financial Times公式アカウントが、AI音声スタートアップElevenLabsの時価総額が220億ドルに倍増したと速報し、AI関連の資金調達動向として注目を集めた。9/30投稿。",
+      "source": "@FT",
+      "link": "https://x.com/FT/status/2105316356035854537"
     }
   ]
 }
