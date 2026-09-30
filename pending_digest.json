@@ -1,129 +1,123 @@
 {
-  "run_label": "9/30 07:00",
+  "run_label": "9/30 19:00",
   "politics_economy": [
     {
-      "title": "国勢調査確定値、人口1億2297万人余に 減少幅は過去最大",
-      "summary": "総務省は9月29日、2025年国勢調査の確定値を発表。総人口は1億2297万2528人で前回調査比317万3571人(2.5%)減と3回連続の減少、減少幅は過去最大となった。65歳以上は29.4%で過去最高を更新。",
+      "title": "高市首相、所信表明演説案で消費減税に理解求める方針",
+      "summary": "高市早苗首相は10月5日召集の臨時国会で行う所信表明演説の原案を9月30日に固めた。「責任ある積極財政」を掲げ、消費減税への理解を求めるとともに、経済・市場に急激な変動があれば柔軟に対応する考えを示した。",
       "source": "NHKニュース",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260929de53106"
+      "link": "https://news.web.nhk/newsweb/na/nd-20260930de53370"
     },
     {
-      "title": "政府、成長戦略実行へ建設分野の労働力不足対応策を検討",
-      "summary": "政府は建設分野の労働力不足が成長戦略実行の課題になっているとして関係省庁による検討の場を新設し、対応策を盛り込んだ政策パッケージをまとめる方向で調整に入った。9月30日報道。",
-      "source": "NHKニュース",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260930de53230"
-    },
-    {
-      "title": "岩屋前外相、中国副首相と会談 日中冷え込みは日本側原因と批判",
-      "summary": "岩屋毅前外相は9月29日、日本貿易振興機構(JETRO)会長として北京を訪問し何立峰副首相と会談。中国側は日中関係の冷え込みは日本側に原因があると批判し、高市首相の台湾有事に関する国会答弁を問題視した。",
+      "title": "臨時国会、10月5日召集で正式伝達 会期69日間",
+      "summary": "政府は9月29日、臨時国会を10月5日に召集し、会期を12月12日までの69日間とする日程を与野党に正式伝達した。消費税減税法案など21本の法案提出を予定し、5日に高市首相の所信表明演説、7〜8日に代表質問を行う。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUA293Q10Z20C26A9000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOUA291QJ0Z20C26A9000000/"
     },
     {
-      "title": "台風26号、30日から伊豆諸島に接近 大雨・高波に警戒",
-      "summary": "台風26号(スリゲ)は9月30日から10月1日にかけて伊豆諸島に接近する見込み。八丈島や青ヶ島など南部を中心に風雨が強まり、関東南部でも台風の進路によっては大雨・高波となるおそれがある。",
-      "source": "ウェザーニュース",
-      "link": "https://weathernews.jp/news/202609/300021/"
+      "title": "東証大引け、日経平均1272円高で3日ぶり反発",
+      "summary": "9月30日の東京株式市場で日経平均株価は前日比1272円45銭高の6万6753円72銭で取引を終えた。前日の米半導体株高を受けAI・半導体関連に買いが先行し、全33業種が上昇した。9月月間でも2カ月連続の上昇となった。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOFL305E90Q6A930C2000000/"
     },
     {
-      "title": "東京為替、ドル・円は軟化 政府・日銀の為替介入に警戒",
-      "summary": "9月29日の東京外国為替市場でドル・円は軟化。1ドル157円台での推移が続く中、政府・日銀による円買い介入への警戒感が相場を下押しし、三村財務官の口先介入も意識された。",
-      "source": "財経新聞",
-      "link": "https://www.zaikei.co.jp/article/20260929/871602.html"
+      "title": "ドン・キホーテ運営会社、トイザらス日本事業を買収へ 全150店舗継承",
+      "summary": "玩具販売大手トイザらスが日本の店舗運営から撤退する方針を固め、ディスカウント店「ドン・キホーテ」を運営するPPIHが国内約150店舗を買収する見通しとなった。少子化やネット通販拡大による赤字継続が背景。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUC088Y90Y6A900C2000000/"
+    },
+    {
+      "title": "台風26号、今夜遅く伊豆諸島に接近 千葉で大雨のおそれ",
+      "summary": "台風26号(スリゲ)は9月30日夜遅くから10月1日朝にかけて伊豆諸島南部に最接近する見込み。関東南部でも1日にかけて雨や風が強まり、千葉県などで大雨となるおそれがあるとして警戒が呼びかけられている。",
+      "source": "NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260930de53237"
     }
   ],
   "tech": [
     {
-      "title": "OpenAI DevDay 2026開催、常時稼働AIエージェント「dots」など20超の新機能発表",
-      "summary": "OpenAIは9月29日、サンフランシスコでDevDay 2026を開催。GPT-6 Astra搭載の常時稼働エージェント「dots」、新モデル「GPT-6.1 Sol」、高速推論プラン「Pro 500」(月500ドル)など20以上の新機能・製品を発表した。",
-      "source": "BGR",
-      "link": "https://www.bgr.com/2272332/openai-devday-2026-announcements/"
+      "title": "トランプ大統領とAI大手7社、ホワイトハウスで「自己規制」誓約に署名",
+      "summary": "トランプ大統領は9月29日、Anthropic、Google、Meta、OpenAI、Nvidia、xAIなどのトップと会談し、内部統制の強化や外部監査の導入を柱とする自主規制の合意文書に署名したと発表した。「道義的に拘束力がある」と述べた。",
+      "source": "Axios",
+      "link": "https://www.axios.com/2026/09/29/trump-ai-voluntary-safety-white-house-zuckerberg"
     },
     {
-      "title": "Anthropic、IPO申請書公開 10年で5180億ドルのインフラ投資計画・「実存的リスク」に言及",
-      "summary": "AnthropicのIPO目論見書が明らかになり、今後10年でクラウド・計算資源など5180億ドルの投資計画を持つことや、自社AIが人類に「実存的リスク」をもたらす可能性を明記していることが判明した。2025年の純損失は420億ドル。",
+      "title": "トランプ氏、AIの呼称を「Super Intelligence」に統一する大統領令に署名",
+      "summary": "トランプ大統領は9月30日までに、連邦政府機関に対し「人工知能(AI)」の呼称を「Super Intelligence(SI)」に統一するよう指示する大統領令に署名した。AIの急速な進化を踏まえた呼称変更だと説明している。",
       "source": "Forbes",
-      "link": "https://www.forbes.com/sites/siladityaray/2026/09/28/anthropic-ipo-prospectus-warns-its-ai-could-pose-existential-risks-to-humanity/"
+      "link": "https://www.forbes.com/sites/siladityaray/2026/09/30/trump-signs-order-renaming-ai-to-super-intelligence--heres-what-it-says/"
     },
     {
-      "title": "OpenAI、IPO前に300億ドル調達へ 評価額1.4兆ドルで交渉中",
-      "summary": "OpenAIはIPOを前に投資家から少なくとも300億ドルを調達する交渉を進めており、評価額は約1.4兆ドルに達する見通しとBloombergが9月29日報じた。",
+      "title": "OpenAI DevDay 2026開催、Dots・ChatGPT Space・GPT-6.1 Solなど20超の新機能発表",
+      "summary": "OpenAIは9月29日、サンフランシスコで開催したDevDay 2026で常時稼働エージェント「Dots」、共同作業空間「ChatGPT Space」、新モデル「GPT-6.1 Sol」など20以上の新発表を行った。過去最大規模のDevDayとなった。",
+      "source": "Axios",
+      "link": "https://www.axios.com/2026/09/29/openai-dev-day-2026-dots-space-sol"
+    },
+    {
+      "title": "OpenAI、新モデル「GPT-6.1 Sol」提供開始 Astraの5分の1価格で近い性能",
+      "summary": "OpenAIはDevDayで、コーディングやコンピュータ操作の性能を高めた新モデル「GPT-6.1 Sol」をAPI提供開始したと発表。フラッグシップ「GPT-6 Astra」に近い性能を標準価格の5分の1で実現するとしている。",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/"
+      "link": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/"
     },
     {
-      "title": "Anthropicで大規模障害、Claude・API・Consoleなどが一時利用不能に",
-      "summary": "9月29日、Claude.ai・Claude Code・Claude Cowork・APIなどでエラー率が急上昇する障害が発生。サインインや新規チャット開始、購入、ファイルアップロードなどが一時できなくなり、後に全面復旧した。",
-      "source": "TechRadar",
-      "link": "https://www.techradar.com/news/live/claude-down-september-29-2026"
-    },
-    {
-      "title": "Meta、法人向け「Meta Enterprise Platform」始動 Museで中小企業支援も",
-      "summary": "Metaは9月29日、AIツールを企業に直接提供する新事業「Meta Enterprise Platform」を発表。元MongoDB CEOのCJ Desai氏が統括し、AIエージェント「Muse」を中小企業向けにも拡大、ShopifyやSlackなど外部サービスとの連携を強化する。",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/09/29/meta-launches-muse-for-small-business-zuckerberg-pushes-enterprise-ai.html"
-    },
-    {
-      "title": "トランプ政権、Gemini・Grok搭載の政府サービス案内AI「America.gov」始動",
-      "summary": "米トランプ政権は9月29日、GoogleのGeminiとxAIのGrokを活用したAIチャットボット「America.gov」を立ち上げた。約2万9000の政府サイトを横断して案内するポータルで、ホワイトハウスでの発表イベントにはマスク氏らも出席した。",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/09/29/trump-ai-gemini-grok.html"
-    },
-    {
-      "title": "「iPhone Duo」、iOSコードから未発表のStandBy新機能5種が発見",
-      "summary": "iOS 27.1のコード解析から、Appleの折りたたみ式iPhone「Duo」向けに未発表のStandBy表示5種(Home Camera、Home Modular、Flow、Fade、Snoopyなど)の存在が判明したと9月29日報じられた。",
-      "source": "QuantoSei News",
-      "link": "https://news.quantosei.com/2026/09/29/iphone-duo-standby-leak-five-new-faces-explained/"
-    },
-    {
-      "title": "Tesla、Cybercab・Optimus拡大へ300億ドルの新規信用枠を確保",
-      "summary": "Teslaはロボタクシー「Cybercab」やヒューマノイドロボット「Optimus」、セミトラックの量産拡大に向け、Citibank・Wells Fargoなどから総額300億ドルの新規信用枠を確保したと9月29日開示した。",
+      "title": "イーロン・マスク氏のxAI、「dot.com」がGrokにリダイレクト OpenAIのDots発表に「一杯食わせた」と話題",
+      "summary": "OpenAIが新エージェント「Dots」を発表した直後、xAIが保有するドメイン「dot.com」がGrokのダウンロードページにリダイレクトされることが判明し、ネット上でマスク氏による“悪ふざけ”との憶測が広がっている。",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/29/tesla-secures-30b-in-new-credit-lines-as-it-looks-to-scale-cybercab-optimus/"
+      "link": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/"
     },
     {
-      "title": "xAI、Grokで「オデュッセイア」全編AI映画化 「Odyssey pilot」予告",
-      "summary": "イーロン・マスク氏率いるxAIは9月29日、Grok Imagine Video 1.5を使いホメロス「オデュッセイア」を全編AI生成映画化する「Odyssey pilot」プロジェクトの予告映像を公開した。",
-      "source": "Basenor",
-      "link": "https://www.basenor.com/blogs/news/groks-odyssey-pilot-what-xais-ai-film-project-actually-is"
+      "title": "Micron、AIメモリ需要けん引の第4四半期決算を本日発表へ",
+      "summary": "Micron Technologyは9月30日、AI向けメモリ需要の勢いを占う重要な決算として第4四半期(8月期)決算を発表する。市場は売上高約510億ドル、EPS約31.6ドルを予想しており、AI主導の需要拡大が続くかが焦点となる。",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/09/29/micron-earnings-this-week-could-test-whether-the-memory-boom-has-more-room-to-run.html"
     },
     {
-      "title": "NTTテクノクロス、AI画面比較ツール「AIspector」新版 ローカルLLMに対応",
-      "summary": "NTTテクノクロスは10月1日、ビジュアルリグレッションテストツール「AIspector」の新版を提供開始。人の目視感覚に近い「スマート近似比較」に加え、社外にデータを送らないローカルLLM運用やPDF比較機能を追加した。",
-      "source": "PR TIMES",
-      "link": "https://prtimes.jp/main/html/rd/p/000000128.000123990.html"
+      "title": "「AI厳選ハイテク株」9月に急伸、インテル37%高・AMD34%高",
+      "summary": "9月の米株市場でAI関連の半導体株が軒並み急伸し、インテルが37%高、AMDが34%高となるなど大幅な月間上昇を記録した。AIインフラ投資への期待が引き続き株価を押し上げている。",
+      "source": "Investing.com",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1691839"
+    },
+    {
+      "title": "2026年9月のサイバー攻撃・不正アクセスまとめ、タイムズカーや京王、東京メトロなど",
+      "summary": "9月は国内で相次いでサイバー攻撃・不正アクセスが発覚した月となった。タイムズカーで約660万件、東京メトロで約5.9万件のメールアドレス流出のほか、京王電鉄へのランサムウェア攻撃などが報告されている。",
+      "source": "マイナビニュース",
+      "link": "https://news.mynavi.jp/techplus/article/20260930-5050581/"
+    },
+    {
+      "title": "Google、次期フラッグシップ「Gemini 4」を年内投入へ",
+      "summary": "Googleは開発中だった「Gemini 3.5 Pro」を見送り、リソースを次期フラッグシップモデル「Gemini 4」に集中させ、年内にも投入する計画だと報じられている。GPT-6 AstraやClaude Fable 5.1を上回る性能を目指すとの見方もある。",
+      "source": "InfoWorld",
+      "link": "https://www.infoworld.com/article/4226642/google-plans-gemini-4-release-before-year-end-2.html"
+    },
+    {
+      "title": "OpenAI、Codexに再利用可能なクラウド開発環境を追加",
+      "summary": "OpenAIはDevDayで、ソフトウェア開発エージェント「Codex」向けに端末を問わず利用できる再利用可能なクラウド開発環境を追加すると発表。チームで設定や権限を共有し、タスクの立ち上げを高速化できるとしている。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/"
     }
   ],
   "x_trending_tech": [
     {
-      "title": "OpenAI公式、常時稼働エージェント「dots」を発表",
-      "summary": "9/29投稿。OpenAI公式アカウントが「GPT-6 Astra搭載の非常に高性能な常時稼働エージェント、dotsを発表」と投稿。DevDay 2026最大の発表として大きな反響を呼んだ。",
-      "source": "@OpenAI",
-      "link": "https://x.com/OpenAI/status/2104984504133918973"
+      "title": "OpenAIの新エージェント「Dots」発表直後、xAIの「dot.com」がGrokにリダイレクトと判明し話題に",
+      "summary": "OpenAIが「Dots」を発表した直後、xAI名義のドメイン「dot.com」がGrokのダウンロードページに転送されることを発見した投稿が拡散。「based lmao」とのコメントとともに、マスク氏による悪ふざけではとの憶測を呼んだ。DevDay当日(9/29)の投稿。",
+      "source": "@birdabo",
+      "link": "https://x.com/birdabo/status/2104987275813917076"
     },
     {
-      "title": "Anthropicの障害発生を速報する投稿が拡散",
-      "summary": "9/29投稿。ニュース速報系アカウントが「AnthropicのClaude AIが世界中の多数のユーザーで現在利用不能」と速報し、大きく拡散された。",
-      "source": "@WatcherGuru",
-      "link": "https://x.com/WatcherGuru/status/2104942256029573414"
+      "title": "OpenAI、共同作業空間「ChatGPT Space」を発表と速報",
+      "summary": "OpenAIがDevDayで発表した新機能「ChatGPT Space」について、チームとAIがリアルタイムで共同作業できる新しいワークスペースだと解説する速報投稿。「pages」という対話型ドキュメント機能が特徴と紹介されている。9/29のDevDay直後の投稿。",
+      "source": "@AGTPinsights",
+      "link": "https://x.com/AGTPinsights/status/2105001661748183301"
     },
     {
-      "title": "ザッカーバーグ氏、Meta Enterprise Platform始動を発表",
-      "summary": "9/29投稿。MetaのザッカーバーグCEOが「超知能は全ての人と企業に大きな機会を生む」とし、法人向け新事業「Meta Enterprise Platform」の始動を自身のアカウントで発表した。",
-      "source": "@finkd",
-      "link": "https://x.com/finkd/status/2104550611068793173"
+      "title": "OpenAI公式、新モデル「GPT-6.1 Sol」の提供開始を告知",
+      "summary": "OpenAI Developers公式アカウントが、エージェント型コーディングやコンピュータ操作を強化した新モデル「GPT-6.1 Sol」の提供開始を発表。標準入力価格に対しキャッシュ入力価格を95%引き下げたことなどをアピールしている。9/29投稿。",
+      "source": "@OpenAIDevs",
+      "link": "https://x.com/OpenAIDevs/status/2104993035507712318"
     },
     {
-      "title": "OpenAI DevDay 2026、発表内容の総まとめ投稿が話題",
-      "summary": "9/29投稿。市場ニュース系アカウントがChatGPT・エージェント・モデル・Codex・プラグイン・法人向け機能に及ぶDevDay 2026の発表内容を重要度順にまとめたスレッドを投稿し話題になった。",
-      "source": "@wallstengine",
-      "link": "https://x.com/wallstengine/status/2104986892773282298"
-    },
-    {
-      "title": "月500ドルのPro 500プラン、30分で利用上限に達したとの投稿が拡散",
-      "summary": "9/29投稿。DevDayで発表された月500ドルの新プラン「Pro 500」について、GPT-6 Astra Ultrafastの週間利用上限に30分で達したとする不満の投稿が拡散し話題となった。",
-      "source": "@bridgemindai",
-      "link": "https://x.com/bridgemindai/status/2105016612365770809"
+      "title": "サム・アルトマン氏、DevDayライブ配信開始を告知",
+      "summary": "OpenAIのサム・アルトマンCEOが、DevDay 2026の基調講演ライブ配信が2時間後に始まると投稿。「たくさんの素晴らしいものを用意した」と期待をあおった、DevDay直前(9/29)の投稿。",
+      "source": "@sama",
+      "link": "https://x.com/sama/status/2104950376466362578"
     }
   ]
 }
