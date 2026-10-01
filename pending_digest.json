@@ -1,129 +1,123 @@
 {
-  "run_label": "10/1 07:00",
+  "run_label": "10/1 19:00",
   "politics_economy": [
     {
-      "title": "消費税減税と所得に応じた給付の法案、概要判明",
-      "summary": "政府が10月5日召集の臨時国会に提出する消費税減税関連法案の概要が10月1日朝までに判明した。2027年4月から食料品の税率を2年間1%に引き下げ、残り1%相当分は中低所得の勤労者向け給付として先行実施する。",
-      "source": "NHKニュース",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261001de53505"
+      "title": "外国人の永住許可、10月1日から要件厳格化 「日本人世帯の平均収入超」が新基準",
+      "summary": "高市内閣の下、法務省は永住許可の運用指針を見直し、10月1日付で収入要件を厳格化。従来の「単身で年収300万円程度」から「日本人世帯の平均年収(単身世帯で約450万円)を継続して上回る」水準に引き上げられた。年金要件は2027年4月から適用。",
+      "source": "AFP=時事(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/5c0ff9d756e641e9c1f5ee66cde6f4f1cf8cb6f4"
     },
     {
-      "title": "内閣改造で閣外去った林芳正氏、次期総裁選へ始動 高市首相側は切り崩し図る",
-      "summary": "内閣改造で閣外に去った林芳正前総務相が「次期総裁選」を見据えて動き出し、高市首相側は林氏支持派議員の切り崩しを開始した。林氏も反主流派の会合に参加するなど、与党内の駆け引きが表面化している。9月30日報道。",
-      "source": "NEWSポストセブン",
-      "link": "https://news-postseven.com/archives/20260930_2133959.html?DETAIL="
+      "title": "日銀短観発表後、円が157円台後半まで下落 「主な意見」はタカ派も追加利上げ加速感じさせず",
+      "summary": "10月1日発表の日銀短観9月調査で大企業製造業DIが+24と市場予想を下回り、国内景気の加速感が乏しいとの見方から円売りが広がり157円台後半まで下落。日銀の「主な意見」も利上げ加速を示す内容ではなかった。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOFL010EW0R01C26A0000000/"
     },
     {
-      "title": "台風26号、10月1日朝にかけ伊豆諸島付近を通過 関東甲信は土砂災害に警戒",
-      "summary": "台風26号(スリゲ)は9月30日夜から10月1日朝にかけて伊豆諸島付近を通過する見込み。その後は温帯低気圧に変わる見通しだが、関東甲信では雨量が少なくても地盤が緩み土砂災害の危険度が高まるとして警戒が呼びかけられている。",
-      "source": "Yahoo!ニュース(チューリップテレビ)",
-      "link": "https://news.yahoo.co.jp/articles/18a0317e4a64e5372d177e7d9f3ff06fdf1180fc"
+      "title": "日経平均、1日は一時1000円超上昇し6万7700円台に",
+      "summary": "10月1日の東京株式市場で日経平均株価は前日終値比1000円超上昇し6万7700円台で推移。前日発表の米マイクロン・テクノロジーの好決算を受け、AI・半導体関連株が買われた。",
+      "source": "読売新聞(Infoseekニュース)",
+      "link": "https://news.infoseek.co.jp/article/yomiuri_20261001_gyt1t00144/"
     },
     {
-      "title": "ドル円、157円台で推移 明日の日銀短観を控え様子見",
-      "summary": "10月1日未明の外国為替市場でドル円相場は1ドル=157円台で推移した。米長期金利の動向をにらみつつ、同日朝発表の日銀短観(9月調査)を控えて様子見ムードが強まっている。",
-      "source": "中日新聞Web",
-      "link": "https://www.chunichi.co.jp/article/1318938"
+      "title": "「フラット35」10月の金利3.830%、現行制度で過去最高を更新",
+      "summary": "住宅金融支援機構は10月1日、長期固定型住宅ローン「フラット35」の10月適用金利(返済期間21~35年の最低金利)が前月比0.37%上昇の3.830%になったと発表。2017年10月の現行制度導入以降で最高を更新し、長期金利上昇が住宅ローン負担を押し上げている。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOFL013930R01C26A0000000/"
     },
     {
-      "title": "日銀短観9月調査、10月1日発表へ 大企業製造業は+25に改善の予想",
-      "summary": "日銀短観(9月調査)が10月1日午前8時50分に発表される。大企業製造業の業況判断DIは前回6月調査の+22から+25へ改善すると予想されており、9月の利上げ後初の企業マインド指標として10月末の次回金融政策決定会合への影響が注目されている。",
-      "source": "OANDA証券",
-      "link": "https://www.oanda.jp/lab-education/market_news/tankan-sep-2026-preview/"
+      "title": "カスタマーハラスメント対策、10月1日から全企業に義務化",
+      "summary": "改正労働施策総合推進法の施行により10月1日、業種・企業規模を問わず全ての事業主にカスタマーハラスメント(カスハラ)防止措置が義務付けられた。被害従業員向けの相談体制整備などが求められる。",
+      "source": "ネットショップ担当者フォーラム(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/24aa1489b426f0ed11740c88243f3ecaf3d9e6b8"
     }
   ],
   "tech": [
     {
-      "title": "Google、新フラッグシップ「Gemini 4 Argon」発表 ベンチマーク首位を奪還",
-      "summary": "Googleは9月30日、新フラッグシップモデル「Gemini 4 Argon」を発表した。出力トークン上限を100万に拡大し、複雑な推論作業に対応。ベンチマークでGPT-6 AstraやClaude Opus 5.5を上回る性能を示したとされ、まずサイバー防御分野の信頼テスターに限定提供される。",
-      "source": "VentureBeat",
-      "link": "https://venturebeat.com/technology/google-unveils-gemini-4-argon-retaking-benchmark-lead-over-openai-and-anthropic-but-in-limited-release"
+      "title": "Anthropic、バークレイズ全行でClaude導入を拡大",
+      "summary": "バークレイズはレガシーシステムの現代化や業務効率化のためClaude Codeの導入を加速し、2026年末までに開発者の50%に展開する計画。グローバルマーケッツ部門では1日約12万件の問い合わせメール分類にも活用(2026年10月1日発表)。",
+      "source": "Anthropic Newsroom",
+      "link": "https://www.anthropic.com/news/barclays-scales-claude"
     },
     {
-      "title": "Reddit、RSS配信を終了へ 公開APIアクセスも段階的に廃止",
-      "summary": "Redditは9月30日、AIボットによる大規模スクレイピング対策として11月13日にRSS配信を終了し、公開APIアクセスも2027年3月までに段階的に廃止すると発表した。モデレーター向けの代替手段は用意されるが、それ以外の用途には代替がないとしている。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/"
+      "title": "Google DeepMind、AI設計タンパク質に電子透かし「SynthID Bio」を発表",
+      "summary": "AIが設計したタンパク質配列や3D構造に検出可能な透かしを埋め込む新手法を発表。VEGF-Aなど3種の標的への湿式実験でも機能や結合性能を損なわないことを確認し、生物セキュリティ上のギャップ解消を狙う(2026年10月1日)。",
+      "source": "Google / DeepMind公式ブログ",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synthid-bio/"
     },
     {
-      "title": "Micron、2026年8月期第4四半期決算 売上高542億ドルで市場予想上回る",
-      "summary": "Micron Technologyは9月30日、第4四半期決算で売上高542億ドル(前年比379%増)、調整後EPS33.42ドルを発表し、いずれも市場予想を上回った。AIメモリ需要の急拡大が続いており、2027年度も増収増益を見込むと発表した。",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/09/30/micron-mu-q4-earnings-report-2026.html"
+      "title": "Infineon、タイ・バンコク近郊に新バックエンド半導体工場を開所",
+      "summary": "インフィニオンは1億ユーロ超(タイ投資委員会評価では14億ドル規模)を投じた新工場をバンコク近郊サムットプラカーンで開所。初期雇用350人、将来的に最大1000人規模へ拡大予定で、マレーシア拠点のデュアルソース先として位置づける(2026年10月1日)。",
+      "source": "Nikkei Asia / Business Intelligence",
+      "link": "https://businessintelligence.mo/2026/10/01/infineon-opens-new-backend-manufacturing-hub-in-thailand-adding-resilient-capacity-for-future-growth/"
     },
     {
-      "title": "スマートリング「Oura」、22億ドル規模のIPOを延期 市場の不透明感を理由に",
-      "summary": "スマートリング大手Ouraは上場前日になって、最大22億ドル規模を計画していたナスダック上場を延期すると発表した。需要は強かったとしつつ、IPO市場全体の不透明感を理由に挙げている。9月29日発表。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/29/oura-shelves-its-2-2b-ipo-citing-uncertainty-in-the-market/"
+      "title": "Microsoft、Windows 11 26H2がSnapdragon 850搭載PC向け最終更新に",
+      "summary": "MicrosoftはWindows 11バージョン26H2をもってQualcomm Snapdragon 850搭載PCへのサポートを終了する方針を確認。対象機種はこのバージョンで約2年間(2028年10月まで)のセキュリティ更新を受けられるが、次期27H2には提供されない(2026年10月1日)。",
+      "source": "gHacks",
+      "link": "https://www.ghacks.net/2026/10/01/microsoft-ends-snapdragon-850-support-in-windows-11-after-version-26h2/"
     },
     {
-      "title": "AI音声のElevenLabs、時価総額が2倍の220億ドルに 社員向け株式売却で",
-      "summary": "AI音声スタートアップのElevenLabsは、ウェリントン・マネジメントやT.ロウ・プライスが主導する3億ドル規模の社員株式売却取引を経て、時価総額が2月時点から倍増し220億ドルに達したと発表した。9月30日報道。",
-      "source": "The Next Web",
-      "link": "https://thenextweb.com/news/elevenlabs-valuation-22bn-300m-tender-wellington-t-rowe-price"
+      "title": "Samsung、Galaxy Tab S12 Ultra/Plusを発表、10月7日発売",
+      "summary": "サムスンはAndroidタブレット新フラッグシップ「Galaxy Tab S12 Plus」(1,199ドルから)と「Galaxy Tab S12 Ultra」(1,399ドルから)を発表。Photoshopをプリインストールし、10月7日に発売予定(2026年10月1日)。",
+      "source": "gHacks",
+      "link": "https://www.ghacks.net/2026/10/01/samsung-launches-galaxy-tab-s12-ultra-and-tab-s12-plus-from-1200-with-sales-starting-october-7/"
     },
     {
-      "title": "住宅・医療AIのEliseAI、3.5億ドル調達し評価額40億ドルに",
-      "summary": "賃貸住宅や医療機関の業務をAIで自動化するEliseAIが、a16zとBessemerが主導する3.5億ドルの資金調達を発表し、評価額は40億ドルとなった。年間経常収益は2億ドルに達しているという。9月29日発表。",
-      "source": "GlobeNewswire",
-      "link": "https://www.globenewswire.com/news-release/2026/09/29/3370681/0/en/eliseai-raises-350-million-at-4-billion-valuation-to-bring-ai-deeper-into-housing-and-healthcare-operations.html"
+      "title": "米FTC、OpenAIやAnthropicなど主要AI企業への調査を開始",
+      "summary": "米連邦取引委員会(FTC)は、最先端AIモデルが消費者に与えるリスクについて、OpenAIやAnthropicなど主要AI研究機関を対象とした広範な調査を開始。文書提出や経営幹部への証言要求を計画しており、AIエージェントの制御不能な挙動への懸念が背景にあるという(2026年9月30日報道)。",
+      "source": "The Daily Hodl",
+      "link": "https://dailyhodl.com/2026/09/30/ftc-opens-sweeping-probe-of-anthropic-openai-and-other-frontier-ai-labs/"
     },
     {
-      "title": "Apple Pay、ついにインドへ上陸 Axis Bankと提携",
-      "summary": "Appleは長らく見送られてきたインドでのApple Pay提供を開始する。現地のAxis Bankと提携し、同国のモバイル決済市場に参入する。9月29日報道。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/"
+      "title": "カリフォルニア州、AIによる労働者保護のための13法案に署名",
+      "summary": "ニューサム州知事は、AIによる解雇・懲戒決定への人間の審査義務化、大量解雇時のAI使用通知義務、職場監視の制限などを定めた13の法案に署名。州機関には「AI」の呼称維持を指示する行政命令も発令した(2026年9月30日)。",
+      "source": "CP24 (AP配信)",
+      "link": "https://www.cp24.com/news/world/2026/10/01/california-gov-gavin-newsom-signs-laws-to-protect-workers-from-ai-risks/"
     },
     {
-      "title": "マイクロン決算好調受け、東京市場でも半導体・AI関連株に買い優勢",
-      "summary": "マイクロンが2026年9〜11月期の売上高が前年同期比4.5倍の615億ドル前後になるとの見通しを示したことを受け、東京株式市場でも半導体・AI関連銘柄を中心に買いが優勢となった。メモリー市場のAI特需の勢いが引き続き意識されている。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOGN293T80Z20C26A9000000/"
+      "title": "TSMC、テキサス州への追加投資を検討と報道",
+      "summary": "ロイター通信は、TSMCがアリゾナ州への2650億ドルの投資に加え、テキサス州での米国内チップ生産拡大への投資を検討していると報道。計画はまだ確定していないが、アリゾナでは最終的に12のファブ・先端パッケージング施設とR&Dセンターが見込まれている(2026年9月30日報道)。",
+      "source": "Investing.com (Reuters配信)",
+      "link": "https://www.investing.com/news/stock-market-news/tsmc-weighs-investment-in-texas-to-expand-us-chip-production-reuters-reports-4926170"
     },
     {
-      "title": "ディスプレイ各社、AI半導体分野へ参入加速 ガラスコア基板やMicro LEDに商機",
-      "summary": "AI半導体ブームを背景に、ディスプレイメーカー各社がガラスコア基板や先端パッケージング、Micro LEDといった半導体関連技術への参入を加速させているとの分析が報じられた。9月30日付。",
-      "source": "DIGITIMES",
-      "link": "https://www.digitimes.com/news/a20260930PD221/display-semiconductors-packaging-growth-technology.html"
-    },
-    {
-      "title": "Apple、iOS 27.0.1を配信開始 iPhone 18 ProのFace ID・カメラ不具合を修正",
-      "summary": "Appleは iPhone 18 Pro/Pro Max向けにiOS 27.0.1の配信を開始した。Face ID認証失敗後にフリーズ・再起動する不具合や、特定条件下でカメラに色の異常が出る問題などを修正した。9月29日報道。",
-      "source": "Business Today",
-      "link": "https://businesstoday.in/amp/technology/news/story/apple-releases-ios-27-01-update-for-iphone-18-pro-fixes-face-id-camera-and-other-bugs-558415-2026-09-29"
+      "title": "Xbox「ディスクからデジタルへ」プログラムが全ユーザーに開放",
+      "summary": "Microsoftは物理ディスク版Xbox Series X|S・Xbox Oneゲームをデジタルライセンスに変換できる「Disc-to-Digital」プログラムを全プレイヤーに開放。Insiderでの約1カ月間のテストを経て展開され、SegaやUbisoftも対応タイトルを追加(2026年10月1日)。",
+      "source": "gHacks",
+      "link": "https://www.ghacks.net/2026/10/01/microsoft-opens-xbox-disc-to-digital-to-all-players-turning-physical-discs-into-digital-licenses/"
     }
   ],
   "x_trending_tech": [
     {
-      "title": "Google DeepMind公式、新モデル「Gemini 4 Argon」を発表",
-      "summary": "Google DeepMindの公式アカウントが新フラッグシップモデル「Gemini 4 Argon」の投入を発表。複雑で長期にわたる推論ワークフロー向けに設計されたとしている。9/30投稿。",
-      "source": "@GoogleDeepMind",
-      "link": "https://x.com/GoogleDeepMind/status/2105388084154056939"
+      "title": "Google CEOがGemini 4 Argonを発表",
+      "summary": "Sundar Pichai CEOが9/30夜(JST 10/1早朝)、新フロンティアモデル「Gemini 4 Argon」をXで発表。複雑なワークフロー、サイバー防御、ソフトウェア開発で高い性能を示すとした。",
+      "source": "@sundarpichai",
+      "link": "https://x.com/sundarpichai/status/2105387952478277979"
     },
     {
-      "title": "Gemini 4 Argon、Text Arenaで首位に浮上と話題に",
-      "summary": "AIモデル評価サイトArenaの公式投稿によると、「Gemini 4 Argon (High)」がText Arenaで1525ポイントを獲得し首位を獲得。コスト効率の高さも話題になっている。9/30投稿。",
+      "title": "Gemini 4 Argonの価格詳細をGoogle幹部が公開",
+      "summary": "Google DeepMindのLogan Kilpatrickが9/30夜、Gemini 4 Argonは導入価格で入力$2/出力$10であることを投稿し話題になった。",
+      "source": "@OfficialLoganK",
+      "link": "https://x.com/OfficialLoganK/status/2105388054274080946"
+    },
+    {
+      "title": "Gemini 4 ArgonがAgent Arenaで急上昇",
+      "summary": "Arena.aiが9/30夜、Gemini 4 Argon(High)がAgent Arenaで8位にランクインし、コスト効率でパレートフロンティアを更新したと報告。",
       "source": "@arena",
-      "link": "https://x.com/arena/status/2105394855644139908"
+      "link": "https://x.com/arena/status/2105411271525052418"
     },
     {
-      "title": "Gemini 4 ArgonがGPT-6 Astraに匹敵、コストは6割と分析投稿が拡散",
-      "summary": "AIベンチマーク専門アカウントArtificial Analysisが、Gemini 4 ArgonがGPT-6 Astraと同等のインテリジェンス指数を、6割のコストで達成したと分析。Googleが再びトップ3ラボに返り咲いたと評価する投稿が拡散した。9/30投稿。",
-      "source": "@ArtificialAnlys",
-      "link": "https://x.com/ArtificialAnlys/status/2105392625788637299"
+      "title": "テスラ、旧型車向けに見た目アップデート",
+      "summary": "9/30深夜、Tesla向けソフトウェア2026.38でHW3/AMD搭載の旧型Model 3/Yにもアンリアルエンジン採用の高精細な車両表示が追加されたと報じられ話題に。",
+      "source": "@TeslaZoa",
+      "link": "https://x.com/TeslaZoa/status/2105421351318413810"
     },
     {
-      "title": "マイクロン決算、AIメモリ需要の強さを示す数字に投稿相次ぐ",
-      "summary": "金融情報アカウントCheddarFlowが、マイクロンの第4四半期決算でクラウドメモリ売上高が予想を上回ったことなど詳細な数字を投稿し、AIメモリ需要の強さを示す内容として話題になった。9/30投稿。",
-      "source": "@CheddarFlow",
-      "link": "https://x.com/CheddarFlow/status/2105387849344499971"
-    },
-    {
-      "title": "ElevenLabs、時価総額220億ドルへの倍増をFinancial Timesが速報",
-      "summary": "Financial Times公式アカウントが、AI音声スタートアップElevenLabsの時価総額が220億ドルに倍増したと速報し、AI関連の資金調達動向として注目を集めた。9/30投稿。",
-      "source": "@FT",
-      "link": "https://x.com/FT/status/2105316356035854537"
+      "title": "Nintendo Switchのファームウェア23.0.1が配信",
+      "summary": "10/1未明、OatmealDomeがSwitch1/2向けシステムアップデート23.0.1の配信を報告。ゲームの起動・一時停止・終了が遅くなる問題を修正する内容。",
+      "source": "@OatmealDome",
+      "link": "https://x.com/OatmealDome/status/2105465726270050548"
     }
   ]
 }
