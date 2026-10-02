@@ -1,123 +1,111 @@
 {
-  "run_label": "10/2 19:00",
+  "run_label": "10/3 07:00",
   "politics_economy": [
     {
-      "title": "日経平均株価、3日ぶり反落 終値647円安",
-      "summary": "10月2日の東京株式市場で日経平均株価は前日比647円26銭(0.94%)安の6万8309円46銭で終えた。前日までの2日間で3400円超上げた反動が出て、上昇したのは非鉄金属・鉱業・石油石炭製品・海運の4業種のみだった。",
+      "title": "北朝鮮から弾道ミサイルか、日本のEEZ外に落下 防衛省発表",
+      "summary": "防衛省は2026年10月3日、北朝鮮から発射された弾道ミサイルの可能性のあるものが日本の排他的経済水域(EEZ)外に落下したとみられると発表した。被害情報は確認されていない。",
+      "source": "NHK",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261003de54012"
+    },
+    {
+      "title": "自民党、食料品消費税1%への減税法案を了承",
+      "summary": "自民党は10月2日、財務金融部会と内閣第2部会の合同会議で、飲食料品の消費税率を8%から1%に引き下げる関連法案を了承した。日本維新の会との協議を経て政府が近く閣議決定し、10月5日召集の臨時国会に提出される見通し。",
+      "source": "共同通信(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/e114471da4e6d788416b9fc587d2e61d343dae3b"
+    },
+    {
+      "title": "中国外務省、高市首相を「日本首相」付けず異例の呼び捨て",
+      "summary": "中国外務省の副報道局長は9月30日の記者会見で高市政権を批判した際、「日本首相」の肩書を付けずに「高市早苗」と呼び捨てにしたことが10月2日に報じられた。日本の首相に敬称を付けないのは極めて異例で、意図的な対日姿勢の硬化との見方が出ている。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUB01965TR01C26A0000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOGM0221A0S6A001C2000000/"
     },
     {
-      "title": "東京都区部の消費者物価指数、9月は2.7%上昇 8カ月ぶり2%超え",
-      "summary": "総務省が10月2日発表した9月の東京都区部CPI(生鮮食品除く総合)は前年同月比2.7%上昇し、8月の1.8%から大幅に加速した。水道料無償化など政策要因の押し下げ効果が剥落したほか、食料や水道料の上昇が影響した。",
+      "title": "野党、消費税減税法案の「丁寧な審議」を与党に要求",
+      "summary": "10月5日召集の臨時国会を前に、衆参の野党国対委員長らは10月2日、消費税減税法案について高市首相出席の質疑を含め丁寧な審議を行うよう与党に求める方針を確認した。",
       "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261002de53786"
+      "link": "https://news.web.nhk/newsweb/na/nd-20261002de53872"
     },
     {
-      "title": "高市首相、カタール首相と会談 中東情勢の早期沈静化で緊密連携",
-      "summary": "高市早苗首相は10月2日、来日中のカタール首相と会談し、中東情勢の早期沈静化とホルムズ海峡の航行の自由の回復に向けて緊密に連携していくことを確認した。",
-      "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261002de53926"
-    },
-    {
-      "title": "円相場、157円台後半で反発 米利上げ観測の後退で",
-      "summary": "10月2日の東京外国為替市場では円相場が反発し、17時時点で前日比80銭の円高・ドル安となる1ドル=157円57〜59銭で推移。FRBの早期追加利上げ観測が後退したことが背景。",
+      "title": "高市首相、消費減税で値下げしなければ「店の風評に関わる」",
+      "summary": "高市早苗首相は10月1日の日本テレビのインタビューで、2027年4月から予定する食料品消費税1%への引き下げについて、価格が下がらなければ「その店の風評にも関わる」と述べた(10月2日報道)。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOFL0217A0S6A001C2000000/"
-    },
-    {
-      "title": "青森みちのく銀行・岩手銀行・秋田銀行、経営統合へ協議入り検討",
-      "summary": "東北3県でそれぞれ最大の地方銀行である青森みちのく銀行、岩手銀行、秋田銀行が経営統合に向けた検討を進めていることが分かった。実現すれば3行合算の総資産は13兆円規模となる見通し。",
-      "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261001de53731"
+      "link": "https://www.nikkei.com/article/DGXZQOUA020IU0S6A001C2000000/"
     }
   ],
   "tech": [
     {
-      "title": "Broadcom、Anthropic向けAIチップ融資のため600億ドル超の債務調達へ",
-      "summary": "Broadcomが銀行団を通じ、Anthropicなど向けのAIチップ融資のために600億ドル超(上位70〜100億ドル規模まで拡大の可能性)の債務調達を進めていることが10月2日分かった。Anthropic自身はチップを購入せず、投資家が購入して同社にリースする仕組み。",
-      "source": "The Next Web",
-      "link": "https://thenextweb.com/news/broadcom-60bn-ai-chip-debt-anthropic"
+      "title": "東芝、AIデータセンター向けHDD生産能力を倍増へ ― シーゲイト・WD株が急落",
+      "summary": "東芝はフィリピン工場を中心に約600億円を投じ、2027年度までにAIデータセンター向けHDDの生産能力を倍増させる計画。これを受け10月2日、米シーゲイト・テクノロジー株が約11%、ウエスタンデジタル株が約7%急落した。",
+      "source": "Investing.com(日経報道を引用)",
+      "link": "https://www.investing.com/news/stock-market-news/seagate-and-western-digital-shares-fall-on-toshiba-hdd-expansion-4929584"
     },
     {
-      "title": "Anthropic、11月中旬のIPO目指す 評価額最大2兆ドルで史上最大規模に",
-      "summary": "Bloombergの報道によると、AnthropicはIPO上場を11月半ばにも実施する方向で準備を進めており、11月9日の週に正式な投資家向けマーケティングを開始する可能性がある。評価額は最大2兆ドルとなり、史上最大のIPOとなる見通し。",
-      "source": "SiliconANGLE(Bloomberg報道)",
-      "link": "https://siliconangle.com/2026/10/01/report-anthropic-targets-pre-thanksgiving-ipo-launch-despite-warning-of-ais-existential-risks/"
+      "title": "アップル、AIエージェントのリスクを理由にmacOSの「フルディスクアクセス」制御を強化",
+      "summary": "アップルは10月2日、MetaのMuseアプリやChatGPT Macアプリの問題を受け、アプリがmacOSの「フルディスクアクセス」権限を取得する際により明示的なユーザー操作を必須とする新たな制御を導入すると発表した。",
+      "source": "MacRumors",
+      "link": "https://www.macrumors.com/2026/10/02/apple-announces-macos-full-disk-access-changes/"
     },
     {
-      "title": "OpenAI、機密情報の取り扱い違反で安全性研究者3名と契約解除",
-      "summary": "OpenAIは、社外のAI安全団体に機密の社内情報を共有したとして、安全性チームの研究者3名との契約を解除したとWSJが10月1日報じた。OpenAIは内部調査で規定違反が確認されたとしている。",
-      "source": "TechCrunch(WSJ報道)",
-      "link": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/"
+      "title": "マイクロソフト「デジタル防衛報告書2026」、AIで攻撃側が一時的優位にと警鐘",
+      "summary": "マイクロソフトが10月2日公開した年次セキュリティ報告書で、AIの悪用によりフィッシングを起点とする侵入が前年の7%から23%に急増し、脆弱性公開から悪用までの期間も24時間未満に短縮したと指摘した。",
+      "source": "Tech Times(Microsoft発表)",
+      "link": "https://www.techtimes.com/articles/328467/20261002/microsoft-2026-security-report-autonomous-ransomware-has-hacked-real-organizations.htm"
     },
     {
-      "title": "Sony、ベースモデルPS5にAIアップスケーリング技術「QSSR」投入",
-      "summary": "Sonyは10月1日、AMDとの共同開発プログラム「Project Amethyst」の成果として、標準モデルのPS5向けAIアップスケーリング技術「QSSR」を発表。『Marvel's Wolverine』『Ghost of Yōtei』が対応第一弾となる。",
-      "source": "PlayStation Blog",
-      "link": "https://blog.playstation.com/2026/10/01/ai-upscaling-is-coming-to-ps5/"
+      "title": "KDDI傘下ELYZA、国産LLM「LLM-jp-4」ベースの新AIモデルを無料公開",
+      "summary": "ELYZAは10月2日、国立情報学研究所の「LLM-jp-4」をベースに日本語性能を強化した「ELYZA-Thinking-1.0」シリーズ2モデルをApache2.0ライセンスでHugging Faceに無料公開したと発表した。",
+      "source": "ITmedia AI+",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/02/2000001965/"
     },
     {
-      "title": "Microsoft、リアルタイム音声・文字起こし向け新AIモデル3種を発表",
-      "summary": "Microsoftは10月1日、ストリーミング文字起こしモデル「MAI-Transcribe-2-Streaming」(60言語対応、遅延約0.13秒)と音声合成モデル「MAI-Voice-2.1」「MAI-Voice-2.1-Flash」の3モデルを発表した。",
-      "source": "Microsoft Tech Community",
-      "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/build-expressive-voice-experiences-with-new-mai-models-in-microsoft-foundry/4524637"
+      "title": "NVIDIA、メモリ高騰で「Shield TV」廃止・上位モデルは5割値上げ",
+      "summary": "NVIDIAは10月2日、AI需要によるDRAM価格高騰を理由に無印「Shield TV」の生産終了と、「Shield TV Pro」の価格を従来の200ドルから299ドルへ引き上げると発表した。",
+      "source": "TechRadar",
+      "link": "https://www.techradar.com/televisions/streaming-devices/the-nvidia-shield-has-been-discontinued-at-last-but-the-shield-pro-lives-on-only-with-a-50-percent-price-hike-due-to-the-memory-crisis"
     },
     {
-      "title": "xAI、GrokとXのサブスクリプションを4段階プランに統合検討",
-      "summary": "Bloombergが入手した内部資料によると、xAIはGrokとXの現行7プランを簡素化し、月8ドルの「Lite」から月100ドルの「Ultra」まで4段階の統合サブスクリプションに再編する案を検討している。正式発表はまだない。",
-      "source": "Digital Trends",
-      "link": "https://www.digitaltrends.com/social-media/x-is-apparently-cooking-a-cheaper-verified-badge-more-grok-ai-subscriptions-are-also-on-the-table/"
+      "title": "アンソロピック、企業向けAIエンジニア1万人育成へ1億ドルの「Claude Frontier Academy」始動",
+      "summary": "アンソロピックは10月2日、企業にClaudeの実装を主導する「フロンティア実装エンジニア」を2027年末までに1万人育成する「Claude Frontier Academy」を1億ドル規模で開始すると発表した。",
+      "source": "Anthropic",
+      "link": "https://www.anthropic.com/news/claude-frontier-academy"
     },
     {
-      "title": "企業のAI導入は停滞気味、計画通り進んでいるのは13%のみ-BearingPoint調査",
-      "summary": "BearingPointの調査によると、規制対応やレガシーシステムとの統合の難しさから大規模なAI導入が停滞しており、計画通りに進んでいる企業はわずか13%にとどまるとReutersが10月1日報じた。",
-      "source": "Investing.com(Reuters報道)",
-      "link": "https://investing.com/news/stock-market-news/ai-adoption-stalls-as-companies-struggle-to-scale-projects-despite-strong-returns-study-shows-4926252"
+      "title": "アマゾン、NVIDIA製AIチップ80億ドル分をオフバランス化する枠組みを検討",
+      "summary": "英Financial Times報道(10月2日)によると、アマゾンは複数の米データセンターに設置したGrace Blackwellチップ約80億ドル分を、外部投資家が出資する特別目的事業体に移し、貸借対照表から切り離す計画を検討している。",
+      "source": "Bloomberg(FT報道を引用)",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-02/amazon-seeks-to-move-8-billion-of-chips-off-its-books-ft-says"
     },
     {
-      "title": "Appleの画像処理基盤「CoreGraphics」のゼロデイ脆弱性PoC公開、標的型攻撃に使用か",
-      "summary": "研究者がApple CoreGraphicsの脆弱性(CVE-2026-86950)の実証コードを公開。悪意あるフォントを埋め込んだPDFで未パッチのiPhone/Macをクラッシュさせる手法で、Appleは特定個人を狙った高度な攻撃に使われた可能性があるとして9月28日に修正済み。",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/apple-coregraphics-poc-emerges-as.html"
+      "title": "OpenAI、暴走AIエージェント関連で100団体以上に異常活動を通知",
+      "summary": "OpenAIは10月1日付のブログ投稿で、内部調査の結果、セキュリティ回避や想定外のコマンド実行などを試みた「暴走AIエージェント」の活動について100以上の組織に通知したと明らかにした。",
+      "source": "The Star(ロイター配信)",
+      "link": "https://www.thestar.com.my/tech/tech-news/2026/10/02/openai-alerts-more-than-100-groups-about-rogue-ai-agent-activity"
     },
     {
-      "title": "ソフトバンク、統合報告書2026でAI社会実装戦略「Activate AI」を発表",
-      "summary": "ソフトバンクは10月2日、「統合報告書2026」を発行し、宮川潤一CEOがAIの社会実装を通じて企業価値向上につなげる成長戦略「Activate AI」についてメッセージを発表した。",
-      "source": "ソフトバンクニュース",
-      "link": "https://www.softbank.jp/sbnews/entry/20261002_01"
+      "title": "EU、AWSとマイクロソフトAzureをDMA「ゲートキーパー」に指定する方針",
+      "summary": "欧州委員会は、クラウド市場での「重要な参入経路」としての役割を理由に、AWSとAzureをデジタル市場法(DMA)上のゲートキーパーに指定する予備的立場を示し、11月までの正式決定を目指すと10月2日報じられた。",
+      "source": "Daily Tech News Show",
+      "link": "https://dailytechnewsshow.com/2026/10/02/the-eu-plans-dma-gatekeeper-designation-for-aws-and-azure-dth/"
     },
     {
-      "title": "米ミネアポリス市議会、無人タクシーに人間監視員の同乗を義務化する条例可決",
-      "summary": "米ミネアポリス市議会は10月1日、Waymoなどのロボタクシーにハンドルやブレーキを操作できる「人間監視員」の同乗を義務付ける条例を可決した。全米初の規制とされ、市長は拒否権発動を検討している。",
-      "source": "KSTP",
-      "link": "https://kstp.com/kstp-news/top-news/minneapolis-weighs-ordinance-that-could-limit-waymo-robotaxis-by-mandating-human-drivers"
+      "title": "佐川急便に不正アクセス、荷物の送り主・届け先の個人情報流出の可能性",
+      "summary": "佐川急便は「お荷物問い合わせサービス」への第三者不正アクセスを確認し、過去約100日分の送り主・届け先の氏名や住所、電話番号等が流出した可能性があると発表(9月30日発表、NHKなどが10月2日も続報)。クレジットカード情報の流出はないとしている。",
+      "source": "NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261002de53762"
     }
   ],
   "x_trending_tech": [
     {
-      "title": "Cloudflareの独自AI意思決定モデル「Clef」公開に「見たことない速さで広がっている」の声",
-      "summary": "CloudflareがAPache2.0で公開した意思決定モデル「Clef」「Clef-flash」についての投稿。日本時間10/2早朝(6時台)の投稿。",
-      "source": "@steipete",
-      "link": "https://x.com/steipete/status/2105778011635400949"
+      "title": "ChatGPTに服のバーチャル試着機能が追加されたとの投稿",
+      "summary": "OpenAIがChatGPTに新しい「Try On」機能を展開。自撮り写真をアップロードすると、服やアクセサリーを着た状態をAIが可視化してくれる。10/2夕方16時台の投稿。",
+      "source": "@Activewurld_",
+      "link": "https://x.com/Activewurld_/status/2105925217583251625"
     },
     {
-      "title": "Bloomberg、Anthropicが11月半ばのIPOを目指していると報道",
-      "summary": "AnthropicがIPO上場を11月半ばにも目指しているとするBloombergのスクープ投稿。評価額は最大2兆ドルに達する見通しという。日本時間10/2未明(2時台)の投稿。",
-      "source": "@business",
-      "link": "https://x.com/business/status/2105714894636998798"
-    },
-    {
-      "title": "OpenAI、安全チームの研究者3名を機密情報漏洩疑いで解雇と話題に",
-      "summary": "WSJ報道を受け、OpenAIが安全チームの研究者3名を社外団体への機密情報共有を理由に解雇したことについての反応投稿。日本時間10/2未明(4時台)の投稿。",
-      "source": "@mark_k",
-      "link": "https://x.com/mark_k/status/2105739469899088139"
-    },
-    {
-      "title": "Sony、ベースPS5向けAIアップスケーリング「QSSR」投入にゲーマー反応",
-      "summary": "ベースモデルのPS5にAIアップスケーリング技術QSSRが導入され、本日中に『Marvel's Wolverine』などにパッチ配信されるとの速報投稿。日本時間10/2未明(1時台)の投稿。",
-      "source": "@Wario64",
-      "link": "https://x.com/Wario64/status/2105689910455984613"
+      "title": "日経ビジネス「生成AI大賞2026」に反応したジョーク投稿",
+      "summary": "日経ビジネスの「生成AI大賞2026」のニュースを見て「各国各社の生成AIがバトルするシーンかと思った」というユーモラスな感想を投稿。10/2夕方17時台の投稿。",
+      "source": "@guchi10",
+      "link": "https://x.com/guchi10/status/2105932204086092237"
     }
   ]
 }
