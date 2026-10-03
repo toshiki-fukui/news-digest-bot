@@ -1,111 +1,105 @@
 {
-  "run_label": "10/3 19:00",
+  "run_label": "10/4 07:00",
   "politics_economy": [
     {
-      "title": "国連で拉致問題めぐり日本と北朝鮮が応酬",
-      "summary": "国連総会第3委員会で10月3日、日本政府代表が北朝鮮による日本人拉致問題の即時解決を求めたのに対し、北朝鮮側が反論し応酬となった。",
-      "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261003de54031"
+      "title": "横浜市長選、本日告示 18日投開票",
+      "summary": "パワハラ問題で辞職した前市長の後任を選ぶ横浜市長選が10月4日に告示され、18日に投開票される。前市長を含む複数候補による争いとなる見通し。",
+      "source": "タウンニュース",
+      "link": "https://www.townnews.co.jp/0101/2026/10/01/855349.html"
     },
     {
-      "title": "アメリカ就業者数、市場予想を大幅に下回る FRB利上げ観測が後退",
-      "summary": "10月3日発表のアメリカの雇用統計で就業者数の増加が市場予想を大幅に下回り、FRBの早期追加利上げ観測が後退した。為替・株式市場にも影響が出ている。",
+      "title": "トランプ氏、共和党勝利なら国民に5000ドル支給と重ねて主張",
+      "summary": "トランプ米大統領は10月3日、共和党が中間選挙で上下両院を制した場合、全米国民に5000ドルの「配当」を支給すると改めて主張した。実施には議会承認などが必要で実現性は不透明。",
       "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261003de53999"
+      "link": "https://news.web.nhk/newsweb/na/nd-20261004de54158"
     },
     {
-      "title": "トランプ大統領、アラスカLNG事業めぐり韓国に受け入れ迫る",
-      "summary": "トランプ米大統領は、アラスカ産LNG(液化天然ガス)開発事業への関与拡大を韓国に求めており、10月3日報じられた。日米韓のエネルギー協力や対中戦略にも関わる話題。",
-      "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261003de54030"
+      "title": "トランプ氏、予算法案に署名 一部政府機関の閉鎖終了",
+      "summary": "トランプ米大統領は10月3日、2026会計年度予算に関する法案に署名し、3日間続いた一部政府機関の閉鎖が終了した。国土安全保障省の予算は2週間のつなぎ予算で対応し、協議は持ち越された。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOGN040290U6A200C2000000/"
     },
     {
-      "title": "井林国交相、アンダーパス対策で自治体向けマニュアル作成へ",
-      "summary": "井林国土交通相は10月3日、記録的大雨によるアンダーパス(地下道路)の冠水被害を受け、閉鎖基準などを定めた自治体向けマニュアルを作成する方針を示した。",
+      "title": "ロシア、キーウの橋を連日攻撃 市民生活への影響拡大懸念",
+      "summary": "ロシア軍が無人機でウクライナの首都キーウの橋を相次いで攻撃し、地下鉄が通る橋を含む複数の橋で通行が制限された。クリチコ市長は「非常に深刻な状況」と警告している。",
       "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261003de54006"
+      "link": "https://news.web.nhk/newsweb/na/nd-20261003de54094"
     },
     {
-      "title": "日本郵便、金融窓口の土曜営業を12月から試行 仙台など6局で",
-      "summary": "日本郵便は10月2日、貯金・保険を扱う郵便局の金融窓口について、仙台市と宮城県名取市の商業施設内6局で12月上旬から土曜営業を試行的に始めると発表した。本格的な土曜営業は初めて。",
-      "source": "中日新聞",
-      "link": "https://www.chunichi.co.jp/article/1319819"
+      "title": "NY株式、弱い雇用統計受け続伸 ナスダックは最高値更新",
+      "summary": "10月2日のNY株式市場はダウ工業株30種平均が250.40ドル高の5万1176.96ドルで続伸、ナスダックも最高値を更新した。9月の雇用統計が市場予想を下回り、FRBが10月FOMCで追加利上げを見送るとの観測が強まった。",
+      "source": "財経新聞",
+      "link": "https://www.zaikei.co.jp/article/20261003/872217.html"
     }
   ],
   "tech": [
     {
-      "title": "Meta、パーソナルAI「Muse」用の自作ガジェット向けSDKをオープンソース公開",
-      "summary": "Metaは10月3日、AIエージェント「Muse」と連携する自作ハードウェア向けのESP32ファームウェアとLinux SDKをApache2.0でオープンソース公開した。Raspberry Piなどに対応し、独自ガジェット「Muse Home Link」も発表した。",
-      "source": "ITmedia NEWS",
-      "link": "https://www.itmedia.co.jp/news/article/2610/03/2000001984/"
+      "title": "ブロードコム、Anthropic向けAIチップ融資のため600億ドル規模の資金調達開始",
+      "summary": "ブロードコムは大手銀行やブラックストーンと組み、Anthropicへのチップ供給を支える600億ドル規模の融資団組成を開始したと10月2日報じられた。Anthropicは2027年にブロードコムの最大の computing顧客になる見通し。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-02/broadcom-starts-amassing-60-billion-to-fund-chips-for-anthropic"
     },
     {
-      "title": "第一生命グループに不正アクセス、従業員情報12万人分が漏えいの可能性",
-      "summary": "第一生命保険などが利用する人事システムが9月24日に不正アクセスを受け、退職者を含む従業員約12万人分の氏名・住所・電話番号等が漏えいした可能性があると10月2日発表した。顧客情報への被害は確認されていない。",
-      "source": "ITmedia NEWS",
-      "link": "https://www.itmedia.co.jp/news/article/2610/02/2000001971/"
+      "title": "サムスン、次世代HBM4の価格をHBM3Eの3倍超で提示",
+      "summary": "サムスン電子は次世代メモリー「HBM4」について、主要顧客への提示価格をHBM3Eの約3倍となる1Gbあたり4.5〜4.9ドルとする交渉を進めていると10月2日報じられた。メモリー不足は2027年まで続く見通し。",
+      "source": "Sammy Fans",
+      "link": "https://www.sammyfans.com/2026/10/02/samsung-seeks-more-than-3x-hbm3e-pricing-for-hbm4/"
     },
     {
-      "title": "ChatGPT、有料ユーザー向けに利用制限を一斉リセット",
-      "summary": "OpenAIは新モデル「GPT-6.1 Sol」公開直後の負荷急増による速度低下を受け、10月3日午前2時(日本時間)にChatGPT Work・Codexを含む全有料ユーザーの利用制限を一斉リセットすると発表した(10月2日発表)。",
-      "source": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/02/2000001961/"
+      "title": "xAI、ミネソタ州のAI偽造ヌード禁止法めぐり差し止め命令を獲得",
+      "summary": "イーロン・マスク氏のxAI（SpaceXAI）は10月3日、ミネソタ州のAI生成偽ヌード画像禁止法について、違憲性を争う間の執行差し止めを連邦高裁から勝ち取った。",
+      "source": "Benzinga",
+      "link": "https://www.benzinga.com/news/legal/26/10/62150937/xai-minnesota-ai-fake-nude-ban-court"
     },
     {
-      "title": "米上院議員、AIエージェントのハッキングに刑事責任を課す法案を提出",
-      "summary": "ホーリー上院議員とマーフィー上院議員は10月1日、AIエージェントによるハッキング被害に対し運用者・開発者に民事・刑事責任を課す超党派の「AI Agent Accountability Act」を発表した。トランプ政権の自主規制路線とは一線を画す動き。",
-      "source": "Axios",
-      "link": "https://www.axios.com/2026/10/01/hawley-murphy-ai-liability-trump"
-    },
-    {
-      "title": "米連邦判事、GoogleのAI OverviewsめぐるPenske・Chegg提訴を棄却",
-      "summary": "米連邦地裁のメータ判事は、GoogleのAI OverviewsがサイトのトラフィックaxLを奪っているとするPenske MediaとChegg提訴を10月2日棄却した。検索結果への「期待」は法的権利ではないと判断、再提訴の余地は残された。",
-      "source": "Engadget",
-      "link": "https://www.engadget.com/2275023/judge-dismisses-lawsuits-claiming-googles-ai-overviews-siphon-web-traffic/"
-    },
-    {
-      "title": "NVIDIA、中国へのAIチップ密輸問題で当局から見落とし指摘 300万ドル規模の摘発も",
-      "summary": "米当局者はNVIDIAが東南アジア経由の中国向けAIチップ密輸の兆候を見落としていたと指摘(10月1日Bloomberg報道)。10月1日には約3億ドル規模のNVIDIA搭載サーバー密輸容疑で米国人が逮捕された。",
-      "source": "Engadget",
-      "link": "https://www.engadget.com/2275633/nvidias-smuggling-problem-is-getting-worse/"
-    },
-    {
-      "title": "Google、軌道上のTPU衛星との通信確立を確認 「Project Suncatcher」",
-      "summary": "Googleは10月1日にSpaceXロケットで打ち上げたTPU4基搭載の試験衛星「Project Suncatcher」について、軌道上での通信確立と正常動作を確認したと発表した。宇宙でのAI計算基盤の可能性を探る長期研究の第一歩。",
-      "source": "Google (公式ブログ)",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype/"
-    },
-    {
-      "title": "テスラ、Optimus量産優先でAI5/AI6チップのメモリ容量を削減",
-      "summary": "イーロン・マスク氏は、ヒューマノイドロボット「Optimus」の量産に必要なDRAM調達量を確保するため、次世代AIチップ「AI5」のメモリを半減、「AI6」を3分の1削減すると発表(10月1日)。性能への影響は「無視できる」としている。",
+      "title": "台湾政府、TSMCの台湾内投資拡大を支援する方針",
+      "summary": "台湾経済部は10月2日、シンガポールへの投資観測も出るTSMCについて、台湾国内での投資拡大を政府として支援する方針を示した。",
       "source": "DIGITIMES",
-      "link": "https://www.digitimes.com/news/a20261002PD222/tesla-optimus-production-ceo-elon-musk.html"
+      "link": "https://www.digitimes.com/news/a20261002PD234/tsmc-investment-taiwan-government-moea.html"
     },
     {
-      "title": "Cloudflare、判定特化型のオープンウェイトAIモデル「Clef」を公開",
-      "summary": "Cloudflareは10月1日、自由文生成ではなく「はい/いいえ」や選択式の判定タスクに特化したオープンウェイトモデル「Clef」「Clef-flash」をApache2.0で公開し、Workers AI上で提供開始した。",
-      "source": "Cloudflare Blog",
-      "link": "https://blog.cloudflare.com/clef-decision-models/"
+      "title": "NVIDIA、「DGX Spark 64GB」を10月23日発売 価格4999ドルから",
+      "summary": "NVIDIAはAIワークステーション「DGX Spark」に64GBメモリー版を追加し、10月23日に4999ドルから発売すると発表。最大1000億パラメータのモデルをローカルで動かせる。128GB版は価格が6950ドルまで上昇した。",
+      "source": "StorageReview",
+      "link": "https://www.storagereview.com/news/nvidia-dgx-spark-64gb-october-23-4999-two-units-cluster-to-128gb"
     },
     {
-      "title": "AI作曲サービスSuno、CEOが収益「非公開の数字をはるかに超えた」と発言",
-      "summary": "Suno CEOのマイキー・シュルマン氏は10月1日のBloombergカンファレンスで、既発表の有料会員200万人・収益3億ドルを「はるかに超えている」と述べ、AI音楽にまだ明確なルールがないことを好機と語った。",
-      "source": "Music Business Worldwide",
-      "link": "https://www.musicbusinessworldwide.com/suno-is-far-beyond-2m-subscribers-and-300m-in-revenue-says-mikey-shulman-who-argues-its-good-that-ai-music-has-no-firm-rules-of-the-road-yet/"
+      "title": "イーロン・マスク氏、テスラとスペースXの合併を改めて示唆",
+      "summary": "イーロン・マスク氏は10月3日、テスラとスペースXの統合について「誰にどんな行動が取れるか想像できるだろうか」と述べ、合併への含みを改めて示した。正式な取締役会承認や条件はまだない。",
+      "source": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/10/03/elon-musk-hints-at-tesla-spacex-merger-who-can-imagine-what-action-one-might-take/"
+    },
+    {
+      "title": "マイクロソフト、高速シェーダー配信技術をQualcomm・Intel・NVIDIA GPUにも拡大",
+      "summary": "マイクロソフトは、Xbox・AMD向けに開発したシェーダー事前配信技術「Advanced Shader Delivery」を10月中にNVIDIA RTX全GPU、Intel Arc、Qualcomm Snapdragon X2搭載機にも拡大すると発表。初回起動時のシェーダーコンパイル待ちやスタッターを大幅に削減する。",
+      "source": "Microsoft DirectX Developer Blog",
+      "link": "https://devblogs.microsoft.com/directx/advanced-shader-delivery-available-for-gears-of-war-e-day-and-coming-soon-across-windows-11/"
+    },
+    {
+      "title": "Meta、AI安全スタートアップ「Virtue AI」から移籍したチームと契約解除",
+      "summary": "Metaは6月にAI安全スタートアップVirtue AIから引き入れた創業者らのチームと、わずか4カ月でたもとを分かったと10月2日報じられた。Meta広報は「働き方の不一致」を理由としている。",
+      "source": "Semafor",
+      "link": "https://www.semafor.com/article/10/02/2026/meta-parts-ways-with-virtue-ai"
+    },
+    {
+      "title": "Google、Geminiアプリの無料ユーザーを10月9日から「Flash-Lite」のみに制限",
+      "summary": "Googleは10月9日から、Geminiアプリの無料ユーザーが使えるモデルを軽量版「Flash-Lite」のみに制限し、有料プラン「AI Plus」もPro系モデルへのアクセスを失うと発表した。データセンターの計算負荷軽減とプラン差別化が目的とみられる。",
+      "source": "XDA Developers",
+      "link": "https://www.xda-developers.com/google-ai-plus-users-are-losing-access-to-geminis-pro-model-and-its-happening-very-soon/"
+    },
+    {
+      "title": "ルネサス那珂工場、点検AIロボット「ugo mini」を複数台導入",
+      "summary": "ロボットスタートアップugoの点検AIロボット「ugo mini」が、ルネサスの半導体工場（那珂工場）のクリーンルーム内に複数台本導入され、設備の日常点検を自律走行で省力化している。",
+      "source": "マイナビニュース",
+      "link": "https://news.mynavi.jp/techplus/article/20261001-5057967/"
     }
   ],
   "x_trending_tech": [
     {
-      "title": "Meta幹部、自作ガジェットをAI「Muse」に繋げるSDKを公開",
-      "summary": "Metaのハードウェア責任者デビッド・シングルトン氏が、ESP32やRaspberry PiなどのDIY電子機器をMuseに接続できるSDKを本日オープンソース公開したと投稿。朝方の投稿。",
-      "source": "@dps",
-      "link": "https://x.com/dps/status/2106105969227014538"
-    },
-    {
-      "title": "Meta CAIO、「Muse Gadgetsエコシステム」始動を発表",
-      "summary": "Meta最高AI責任者のアレクサンダー・ワン氏が「Muse Gadgets」の提供開始を発表。オープンソースのESP32ファームウェア・Linux SDKに加え、自社ガジェット「Muse Home Link」も公開したと投稿(本日朝)。",
-      "source": "@alexandr_wang",
-      "link": "https://x.com/alexandr_wang/status/2106113742266089526"
+      "title": "OpenAIとAnthropicの推論比率は3〜4割、学習需要の方が大きいとの分析投稿",
+      "summary": "業界ウォッチャーのShanu Mathew氏が、OpenAIとAnthropicは計算資源の2大顧客であり、両社とも推論利用は3〜4割程度との見方から、学習需要の方が現状はまだ大きいはずだと分析する投稿をした（日本時間10月4日未明の投稿）。",
+      "source": "@ShanuMathew93",
+      "link": "https://x.com/ShanuMathew93/status/2106400051547476259"
     }
   ]
 }
