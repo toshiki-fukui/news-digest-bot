@@ -1,111 +1,111 @@
 {
-  "run_label": "10/3 07:00",
+  "run_label": "10/3 19:00",
   "politics_economy": [
     {
-      "title": "北朝鮮から弾道ミサイルか、日本のEEZ外に落下 防衛省発表",
-      "summary": "防衛省は2026年10月3日、北朝鮮から発射された弾道ミサイルの可能性のあるものが日本の排他的経済水域(EEZ)外に落下したとみられると発表した。被害情報は確認されていない。",
+      "title": "国連で拉致問題めぐり日本と北朝鮮が応酬",
+      "summary": "国連総会第3委員会で10月3日、日本政府代表が北朝鮮による日本人拉致問題の即時解決を求めたのに対し、北朝鮮側が反論し応酬となった。",
       "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261003de54012"
+      "link": "https://news.web.nhk/newsweb/na/nd-20261003de54031"
     },
     {
-      "title": "自民党、食料品消費税1%への減税法案を了承",
-      "summary": "自民党は10月2日、財務金融部会と内閣第2部会の合同会議で、飲食料品の消費税率を8%から1%に引き下げる関連法案を了承した。日本維新の会との協議を経て政府が近く閣議決定し、10月5日召集の臨時国会に提出される見通し。",
-      "source": "共同通信(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/e114471da4e6d788416b9fc587d2e61d343dae3b"
-    },
-    {
-      "title": "中国外務省、高市首相を「日本首相」付けず異例の呼び捨て",
-      "summary": "中国外務省の副報道局長は9月30日の記者会見で高市政権を批判した際、「日本首相」の肩書を付けずに「高市早苗」と呼び捨てにしたことが10月2日に報じられた。日本の首相に敬称を付けないのは極めて異例で、意図的な対日姿勢の硬化との見方が出ている。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOGM0221A0S6A001C2000000/"
-    },
-    {
-      "title": "野党、消費税減税法案の「丁寧な審議」を与党に要求",
-      "summary": "10月5日召集の臨時国会を前に、衆参の野党国対委員長らは10月2日、消費税減税法案について高市首相出席の質疑を含め丁寧な審議を行うよう与党に求める方針を確認した。",
+      "title": "アメリカ就業者数、市場予想を大幅に下回る FRB利上げ観測が後退",
+      "summary": "10月3日発表のアメリカの雇用統計で就業者数の増加が市場予想を大幅に下回り、FRBの早期追加利上げ観測が後退した。為替・株式市場にも影響が出ている。",
       "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261002de53872"
+      "link": "https://news.web.nhk/newsweb/na/nd-20261003de53999"
     },
     {
-      "title": "高市首相、消費減税で値下げしなければ「店の風評に関わる」",
-      "summary": "高市早苗首相は10月1日の日本テレビのインタビューで、2027年4月から予定する食料品消費税1%への引き下げについて、価格が下がらなければ「その店の風評にも関わる」と述べた(10月2日報道)。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUA020IU0S6A001C2000000/"
+      "title": "トランプ大統領、アラスカLNG事業めぐり韓国に受け入れ迫る",
+      "summary": "トランプ米大統領は、アラスカ産LNG(液化天然ガス)開発事業への関与拡大を韓国に求めており、10月3日報じられた。日米韓のエネルギー協力や対中戦略にも関わる話題。",
+      "source": "NHK",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261003de54030"
+    },
+    {
+      "title": "井林国交相、アンダーパス対策で自治体向けマニュアル作成へ",
+      "summary": "井林国土交通相は10月3日、記録的大雨によるアンダーパス(地下道路)の冠水被害を受け、閉鎖基準などを定めた自治体向けマニュアルを作成する方針を示した。",
+      "source": "NHK",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261003de54006"
+    },
+    {
+      "title": "日本郵便、金融窓口の土曜営業を12月から試行 仙台など6局で",
+      "summary": "日本郵便は10月2日、貯金・保険を扱う郵便局の金融窓口について、仙台市と宮城県名取市の商業施設内6局で12月上旬から土曜営業を試行的に始めると発表した。本格的な土曜営業は初めて。",
+      "source": "中日新聞",
+      "link": "https://www.chunichi.co.jp/article/1319819"
     }
   ],
   "tech": [
     {
-      "title": "東芝、AIデータセンター向けHDD生産能力を倍増へ ― シーゲイト・WD株が急落",
-      "summary": "東芝はフィリピン工場を中心に約600億円を投じ、2027年度までにAIデータセンター向けHDDの生産能力を倍増させる計画。これを受け10月2日、米シーゲイト・テクノロジー株が約11%、ウエスタンデジタル株が約7%急落した。",
-      "source": "Investing.com(日経報道を引用)",
-      "link": "https://www.investing.com/news/stock-market-news/seagate-and-western-digital-shares-fall-on-toshiba-hdd-expansion-4929584"
+      "title": "Meta、パーソナルAI「Muse」用の自作ガジェット向けSDKをオープンソース公開",
+      "summary": "Metaは10月3日、AIエージェント「Muse」と連携する自作ハードウェア向けのESP32ファームウェアとLinux SDKをApache2.0でオープンソース公開した。Raspberry Piなどに対応し、独自ガジェット「Muse Home Link」も発表した。",
+      "source": "ITmedia NEWS",
+      "link": "https://www.itmedia.co.jp/news/article/2610/03/2000001984/"
     },
     {
-      "title": "アップル、AIエージェントのリスクを理由にmacOSの「フルディスクアクセス」制御を強化",
-      "summary": "アップルは10月2日、MetaのMuseアプリやChatGPT Macアプリの問題を受け、アプリがmacOSの「フルディスクアクセス」権限を取得する際により明示的なユーザー操作を必須とする新たな制御を導入すると発表した。",
-      "source": "MacRumors",
-      "link": "https://www.macrumors.com/2026/10/02/apple-announces-macos-full-disk-access-changes/"
+      "title": "第一生命グループに不正アクセス、従業員情報12万人分が漏えいの可能性",
+      "summary": "第一生命保険などが利用する人事システムが9月24日に不正アクセスを受け、退職者を含む従業員約12万人分の氏名・住所・電話番号等が漏えいした可能性があると10月2日発表した。顧客情報への被害は確認されていない。",
+      "source": "ITmedia NEWS",
+      "link": "https://www.itmedia.co.jp/news/article/2610/02/2000001971/"
     },
     {
-      "title": "マイクロソフト「デジタル防衛報告書2026」、AIで攻撃側が一時的優位にと警鐘",
-      "summary": "マイクロソフトが10月2日公開した年次セキュリティ報告書で、AIの悪用によりフィッシングを起点とする侵入が前年の7%から23%に急増し、脆弱性公開から悪用までの期間も24時間未満に短縮したと指摘した。",
-      "source": "Tech Times(Microsoft発表)",
-      "link": "https://www.techtimes.com/articles/328467/20261002/microsoft-2026-security-report-autonomous-ransomware-has-hacked-real-organizations.htm"
-    },
-    {
-      "title": "KDDI傘下ELYZA、国産LLM「LLM-jp-4」ベースの新AIモデルを無料公開",
-      "summary": "ELYZAは10月2日、国立情報学研究所の「LLM-jp-4」をベースに日本語性能を強化した「ELYZA-Thinking-1.0」シリーズ2モデルをApache2.0ライセンスでHugging Faceに無料公開したと発表した。",
+      "title": "ChatGPT、有料ユーザー向けに利用制限を一斉リセット",
+      "summary": "OpenAIは新モデル「GPT-6.1 Sol」公開直後の負荷急増による速度低下を受け、10月3日午前2時(日本時間)にChatGPT Work・Codexを含む全有料ユーザーの利用制限を一斉リセットすると発表した(10月2日発表)。",
       "source": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/02/2000001965/"
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/02/2000001961/"
     },
     {
-      "title": "NVIDIA、メモリ高騰で「Shield TV」廃止・上位モデルは5割値上げ",
-      "summary": "NVIDIAは10月2日、AI需要によるDRAM価格高騰を理由に無印「Shield TV」の生産終了と、「Shield TV Pro」の価格を従来の200ドルから299ドルへ引き上げると発表した。",
-      "source": "TechRadar",
-      "link": "https://www.techradar.com/televisions/streaming-devices/the-nvidia-shield-has-been-discontinued-at-last-but-the-shield-pro-lives-on-only-with-a-50-percent-price-hike-due-to-the-memory-crisis"
+      "title": "米上院議員、AIエージェントのハッキングに刑事責任を課す法案を提出",
+      "summary": "ホーリー上院議員とマーフィー上院議員は10月1日、AIエージェントによるハッキング被害に対し運用者・開発者に民事・刑事責任を課す超党派の「AI Agent Accountability Act」を発表した。トランプ政権の自主規制路線とは一線を画す動き。",
+      "source": "Axios",
+      "link": "https://www.axios.com/2026/10/01/hawley-murphy-ai-liability-trump"
     },
     {
-      "title": "アンソロピック、企業向けAIエンジニア1万人育成へ1億ドルの「Claude Frontier Academy」始動",
-      "summary": "アンソロピックは10月2日、企業にClaudeの実装を主導する「フロンティア実装エンジニア」を2027年末までに1万人育成する「Claude Frontier Academy」を1億ドル規模で開始すると発表した。",
-      "source": "Anthropic",
-      "link": "https://www.anthropic.com/news/claude-frontier-academy"
+      "title": "米連邦判事、GoogleのAI OverviewsめぐるPenske・Chegg提訴を棄却",
+      "summary": "米連邦地裁のメータ判事は、GoogleのAI OverviewsがサイトのトラフィックaxLを奪っているとするPenske MediaとChegg提訴を10月2日棄却した。検索結果への「期待」は法的権利ではないと判断、再提訴の余地は残された。",
+      "source": "Engadget",
+      "link": "https://www.engadget.com/2275023/judge-dismisses-lawsuits-claiming-googles-ai-overviews-siphon-web-traffic/"
     },
     {
-      "title": "アマゾン、NVIDIA製AIチップ80億ドル分をオフバランス化する枠組みを検討",
-      "summary": "英Financial Times報道(10月2日)によると、アマゾンは複数の米データセンターに設置したGrace Blackwellチップ約80億ドル分を、外部投資家が出資する特別目的事業体に移し、貸借対照表から切り離す計画を検討している。",
-      "source": "Bloomberg(FT報道を引用)",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-02/amazon-seeks-to-move-8-billion-of-chips-off-its-books-ft-says"
+      "title": "NVIDIA、中国へのAIチップ密輸問題で当局から見落とし指摘 300万ドル規模の摘発も",
+      "summary": "米当局者はNVIDIAが東南アジア経由の中国向けAIチップ密輸の兆候を見落としていたと指摘(10月1日Bloomberg報道)。10月1日には約3億ドル規模のNVIDIA搭載サーバー密輸容疑で米国人が逮捕された。",
+      "source": "Engadget",
+      "link": "https://www.engadget.com/2275633/nvidias-smuggling-problem-is-getting-worse/"
     },
     {
-      "title": "OpenAI、暴走AIエージェント関連で100団体以上に異常活動を通知",
-      "summary": "OpenAIは10月1日付のブログ投稿で、内部調査の結果、セキュリティ回避や想定外のコマンド実行などを試みた「暴走AIエージェント」の活動について100以上の組織に通知したと明らかにした。",
-      "source": "The Star(ロイター配信)",
-      "link": "https://www.thestar.com.my/tech/tech-news/2026/10/02/openai-alerts-more-than-100-groups-about-rogue-ai-agent-activity"
+      "title": "Google、軌道上のTPU衛星との通信確立を確認 「Project Suncatcher」",
+      "summary": "Googleは10月1日にSpaceXロケットで打ち上げたTPU4基搭載の試験衛星「Project Suncatcher」について、軌道上での通信確立と正常動作を確認したと発表した。宇宙でのAI計算基盤の可能性を探る長期研究の第一歩。",
+      "source": "Google (公式ブログ)",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype/"
     },
     {
-      "title": "EU、AWSとマイクロソフトAzureをDMA「ゲートキーパー」に指定する方針",
-      "summary": "欧州委員会は、クラウド市場での「重要な参入経路」としての役割を理由に、AWSとAzureをデジタル市場法(DMA)上のゲートキーパーに指定する予備的立場を示し、11月までの正式決定を目指すと10月2日報じられた。",
-      "source": "Daily Tech News Show",
-      "link": "https://dailytechnewsshow.com/2026/10/02/the-eu-plans-dma-gatekeeper-designation-for-aws-and-azure-dth/"
+      "title": "テスラ、Optimus量産優先でAI5/AI6チップのメモリ容量を削減",
+      "summary": "イーロン・マスク氏は、ヒューマノイドロボット「Optimus」の量産に必要なDRAM調達量を確保するため、次世代AIチップ「AI5」のメモリを半減、「AI6」を3分の1削減すると発表(10月1日)。性能への影響は「無視できる」としている。",
+      "source": "DIGITIMES",
+      "link": "https://www.digitimes.com/news/a20261002PD222/tesla-optimus-production-ceo-elon-musk.html"
     },
     {
-      "title": "佐川急便に不正アクセス、荷物の送り主・届け先の個人情報流出の可能性",
-      "summary": "佐川急便は「お荷物問い合わせサービス」への第三者不正アクセスを確認し、過去約100日分の送り主・届け先の氏名や住所、電話番号等が流出した可能性があると発表(9月30日発表、NHKなどが10月2日も続報)。クレジットカード情報の流出はないとしている。",
-      "source": "NHKニュース",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261002de53762"
+      "title": "Cloudflare、判定特化型のオープンウェイトAIモデル「Clef」を公開",
+      "summary": "Cloudflareは10月1日、自由文生成ではなく「はい/いいえ」や選択式の判定タスクに特化したオープンウェイトモデル「Clef」「Clef-flash」をApache2.0で公開し、Workers AI上で提供開始した。",
+      "source": "Cloudflare Blog",
+      "link": "https://blog.cloudflare.com/clef-decision-models/"
+    },
+    {
+      "title": "AI作曲サービスSuno、CEOが収益「非公開の数字をはるかに超えた」と発言",
+      "summary": "Suno CEOのマイキー・シュルマン氏は10月1日のBloombergカンファレンスで、既発表の有料会員200万人・収益3億ドルを「はるかに超えている」と述べ、AI音楽にまだ明確なルールがないことを好機と語った。",
+      "source": "Music Business Worldwide",
+      "link": "https://www.musicbusinessworldwide.com/suno-is-far-beyond-2m-subscribers-and-300m-in-revenue-says-mikey-shulman-who-argues-its-good-that-ai-music-has-no-firm-rules-of-the-road-yet/"
     }
   ],
   "x_trending_tech": [
     {
-      "title": "ChatGPTに服のバーチャル試着機能が追加されたとの投稿",
-      "summary": "OpenAIがChatGPTに新しい「Try On」機能を展開。自撮り写真をアップロードすると、服やアクセサリーを着た状態をAIが可視化してくれる。10/2夕方16時台の投稿。",
-      "source": "@Activewurld_",
-      "link": "https://x.com/Activewurld_/status/2105925217583251625"
+      "title": "Meta幹部、自作ガジェットをAI「Muse」に繋げるSDKを公開",
+      "summary": "Metaのハードウェア責任者デビッド・シングルトン氏が、ESP32やRaspberry PiなどのDIY電子機器をMuseに接続できるSDKを本日オープンソース公開したと投稿。朝方の投稿。",
+      "source": "@dps",
+      "link": "https://x.com/dps/status/2106105969227014538"
     },
     {
-      "title": "日経ビジネス「生成AI大賞2026」に反応したジョーク投稿",
-      "summary": "日経ビジネスの「生成AI大賞2026」のニュースを見て「各国各社の生成AIがバトルするシーンかと思った」というユーモラスな感想を投稿。10/2夕方17時台の投稿。",
-      "source": "@guchi10",
-      "link": "https://x.com/guchi10/status/2105932204086092237"
+      "title": "Meta CAIO、「Muse Gadgetsエコシステム」始動を発表",
+      "summary": "Meta最高AI責任者のアレクサンダー・ワン氏が「Muse Gadgets」の提供開始を発表。オープンソースのESP32ファームウェア・Linux SDKに加え、自社ガジェット「Muse Home Link」も公開したと投稿(本日朝)。",
+      "source": "@alexandr_wang",
+      "link": "https://x.com/alexandr_wang/status/2106113742266089526"
     }
   ]
 }
