@@ -1,105 +1,105 @@
 {
-  "run_label": "10/4 19:00",
+  "run_label": "10/5 07:00",
   "politics_economy": [
     {
-      "title": "簗農水相「誤解招いた」と釈明、予算カット発言も続投表明",
-      "summary": "自民党の簗和生農水相は10月2日の会見で、地元栃木県の道路予算を大幅カットしたとの発言について「表現ぶりが一部誤解を招くものだった」と認めつつ、辞任は否定し続投の意向を示した。",
+      "title": "高市首相、5日召集の臨時国会で所信表明演説 「責任ある積極財政」を強調",
+      "summary": "10月5日に召集される臨時国会で高市早苗首相が行う所信表明演説の原案が判明。経済・市場が想定と異なる動きを示した場合は機動的に対応を講じる方針を示す。会期は12月12日までの69日間。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUA304L90Q6A930C2000000/"
+    },
+    {
+      "title": "高市内閣の支持率63.0%に上昇、JNN世論調査",
+      "summary": "JNNの最新世論調査で高市内閣の支持率は前月比0.5ポイント上昇の63.0%、不支持は1.0ポイント下落の33.9%となった。10月4日公表。",
+      "source": "ライブドアニュース",
+      "link": "https://news.livedoor.com/topics/detail/32487364"
+    },
+    {
+      "title": "那覇市ホテル遺体事件で米兵逮捕、沖縄県知事「強い憤り」",
+      "summary": "那覇市のホテルで女性の遺体が発見された事件で米兵が逮捕されたことを受け、沖縄県知事は基地と共存する住民に新たな不安を与えたとして強い憤りを表明した。10月4日報道。",
       "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026100200786&g=pol"
+      "link": "https://news.infoseek.co.jp/article/jiji_2026100400232/"
     },
     {
-      "title": "高市首相、自民党幹部と会談 10月5日召集の臨時国会運営で連携確認",
-      "summary": "高市首相は自民党幹部と会談し、5日に召集される臨時国会に向けて政府・与党で連携して運営に当たる方針を確認した。所信表明演説は召集日当日に行われる予定。",
+      "title": "日経平均、4日は反発 終値6万3957円 AI・半導体関連に買い",
+      "summary": "4日の東京株式市場で日経平均株価は前日比202円高の6万3957円で反発。前日の米ハイテク株高を受け、AI・半導体関連やデータセンター関連株の一部に買いが入った。TOPIXも小幅に反発。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOFL040GH0U6A800C2000000/"
+    },
+    {
+      "title": "コメ価格、5キロ2926円に 7週連続で値下がり",
+      "summary": "全国スーパーの9月27日までの1週間のコメ平均価格は5キロ税込2926円で7週連続の値下がり。2026年産新米は前年産に比べ大幅に安くなる見通し。",
       "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261002de53971"
-    },
-    {
-      "title": "古川デジタル相「AI法改正を含め検討」、情報提供ない開発企業に懸念",
-      "summary": "古川俊治デジタル相は日経などのインタビューで、AI推進法について改正を含めた見直しを検討していると表明。AIの高性能化に伴い、開発事業者からの情報提供が不十分な場合への懸念を示した。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUA025YS0S6A001C2000000/"
-    },
-    {
-      "title": "日経平均、4日大引けは続伸も方向感に欠ける展開",
-      "summary": "10月4日の東京株式市場で日経平均株価は続伸したが、手控え気分が強く方向感に欠ける展開となった。",
-      "source": "株探(kabutan)",
-      "link": "https://s.kabutan.jp/news/n202410040951/"
-    },
-    {
-      "title": "輸入小麦の政府売渡価格、10月から12%引き上げ適用",
-      "summary": "農林水産省が9月に発表した輸入小麦の政府売渡価格の12%引き上げが10月から適用される。国際相場の高騰と円安を反映した措置で、食品価格への影響が注目される。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUB085LJ0Y6A900C2000000/"
+      "link": "https://news.web.nhk/newsweb/na/nd-20261002de53967"
     }
   ],
   "tech": [
     {
-      "title": "アンソロピック、IPO目論見書でAIの「破滅的リスク」に言及",
-      "summary": "Anthropicが提出したIPO目論見書で、高性能化するAIシステムが人類に「破滅的・存続的リスク」をもたらす可能性があると警告。想定企業価値は約2兆ドルとされる。",
-      "source": "Investing.com (Reuters)",
-      "link": "https://www.investing.com/news/stock-market-news/anthropic-prospectus-shows-2-trln-ipo-ambition-despite-huge-loss-reuters-reports-4921435"
+      "title": "トランプ政権、AI政策統括の新組織「スーパーインテリジェンス・フォース」を発足",
+      "summary": "トランプ米大統領は10月4日、AI分野での米国の優位を確保するための新組織「スーパーインテリジェンス・フォース」設置を発表。国家情報長官ジェイ・クレイトン氏が指揮し、120日以内にAIのリスクと機会に関する報告書をまとめる。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/"
     },
     {
-      "title": "OpenAI、可愛いキャラクター風の常時稼働AIエージェント「dots」を展開",
-      "summary": "OpenAIがDevDayで発表した「dots」は、丸いキャラクターの見た目をした24時間稼働型AIエージェント。クラウド上で長時間タスクを継続実行できる。",
-      "source": "The Register",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/29/openai-tries-disarming-ai-angst-with-cute-graphics-and-always-on-agents/5299915"
+      "title": "韓国大統領、金融機関への連続サイバー攻撃で全面調査を指示",
+      "summary": "新韓銀行やKB国民銀行など複数の韓国金融機関で相次いだデータ漏洩を受け、李在明大統領が10月4日、徹底調査を指示。AIエージェントが攻撃に使われた可能性も調査対象となっている。",
+      "source": "The Star (Reuters)",
+      "link": "https://www.thestar.com.my/tech/tech-news/2026/10/04/south-korean-president-orders-probe-into-data-leaks-across-financial-industry"
     },
     {
-      "title": "Vercel、KVMのゼロデイ脆弱性を確認し研究者に5万ドルを支給",
-      "summary": "Vercelはサンドボックスのバグ報奨金プログラムを通じ、Linux仮想化の標準KVMにゲストからホストへの完全なVMエスケープを許すゼロデイ脆弱性があると確認。発見者のPaulos Yibelo氏に5万ドルを支払った。10月3日報告。",
-      "source": "Cybersecurity News",
-      "link": "https://cybersecuritynews.com/kvm-zero-day-vm-escape/"
+      "title": "SBG、OpenAIへの追加出資第3弾を実行 総投資額646億ドルに",
+      "summary": "ソフトバンクグループは10月1日、OpenAIへの追加出資（第3弾、100億ドル）を実行したと発表。これにより同社のOpenAIへの総投資額は646億ドルに達した。",
+      "source": "GuruFocus",
+      "link": "https://www.gurufocus.com/news/9107258/softbanks-total-investment-in-openai-reaches-646-billion"
     },
     {
-      "title": "Meta、AIエージェント「Muse」のハードウェアSDKをオープンソース化",
-      "summary": "MetaはESP32用ファームウェアとLinux SDKを公開し、開発者が独自のハードウェアにAIエージェント「Muse」を組み込めるようにした。USB-C接続の「Muse Home Link」ドングル5000台も製造・配布予定。",
-      "source": "TechMyMoney",
-      "link": "https://techmymoney.com/2026/10/02/meta-muse-gadgets-opens-the-ai-agent-to-diy-hardware-with-a-free-home-link-for-us-subscribers/"
+      "title": "Amazon、データセンター地域への10億ドル投資を表明",
+      "summary": "AmazonはAIインフラ拡大への反発が強まる米国地域社会に向け、今後5年間で10億ドル以上を追加投資すると発表。教育や職業訓練、エネルギー負担軽減などに充てる。10月2日発表。",
+      "source": "Benzinga",
+      "link": "https://www.benzinga.com/markets/tech/26/10/62151997/amazon-1-billion-data-center-communities-ai-backlash"
     },
     {
-      "title": "Apple、AT&T利用者の通信障害でiPhone 18 Pro Maxを無償交換",
-      "summary": "AppleはAT&T網でセルラー通信を失う一部のiPhone 18 Pro Maxについて、ソフトウェア更新では修復できないとして無償交換で対応すると発表。10月4日報道。",
-      "source": "gHacks",
-      "link": "https://www.ghacks.net/2026/10/04/apple-replaces-some-iphone-18-pro-max-units-after-att-users-lose-cell-service/"
+      "title": "Nvidia株が記録的高値、モルガン・スタンレーが半導体トップピックに再指定",
+      "summary": "Nvidia株が5月以来の高値圏で推移。モルガン・スタンレーは同社を半導体セクターのトップピックに再指定した。10月2日報道。",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/10/02/nvidia-breaks-through-to-new-record-highs-plus-more-good-news-for-boeing.html"
     },
     {
-      "title": "Supabase、1.5億ドル調達とTurso買収を発表 AIエージェント向けDBを強化",
-      "summary": "データベース企業SupabaseはシンガポールのGIC主導で1.5億ドルを調達し、SQLiteベースのTursoを買収。新規データベースの70%がAIツール経由で作成されているとして、エージェント向けDB機能を強化する。10月2日発表。",
-      "source": "citybiz",
-      "link": "https://www.citybiz.co/article/913344/supabase-raises-150-million-acquires-turso-to-scale-agentic-databases/"
-    },
-    {
-      "title": "マスク氏、TSMCとのテキサス新工場「Terafab」協議を確認",
-      "summary": "イーロン・マスク氏は自身のチップ事業「Terafab」についてTSMCと協議していることをX上で確認。具体的な提携形態や出資比率はまだ決まっていないとした。10月3日。",
+      "title": "TSMC、テキサスで複数ファブ展開を検討 シンガポールとも協議",
+      "summary": "TSMCがアリゾナに続き、テキサスで複数の新工場（1件あたり200億ドル規模）を展開する計画を検討していると報じられた。シンガポールでの展開も協議対象。10月2日報道。",
       "source": "DIGITIMES",
-      "link": "https://www.digitimes.com/news/a20261003VL200/tsmc-texas-elon-musk-spacex-investment.html"
+      "link": "https://digitimes.com/news/a20261002VL208/tsmc-texas-expansion-manufacturing-arizona.html"
     },
     {
-      "title": "TSMC、AI需要急増でNvidiaとBroadcomに生産能力の制約を警告",
-      "summary": "TSMCは主要顧客のNvidiaとBroadcomに対し、最先端ノードの生産能力がAIチップ需要の急増で一段と制約されていると伝えた。2029年までAI関連売上は年率50%台後半で成長する見通し。",
-      "source": "Computing.co.uk",
-      "link": "https://www.computing.co.uk/news/2026/tsmc-warns-nvidia-and-broadcom-of-capacity-squeeze-as-ai-chip-demand-surges"
-    },
-    {
-      "title": "Synopsys、半導体設計を自動化するAIエージェント基盤「Autopilot」を発表",
-      "summary": "SynopsysはAIエージェントが検証・実装・解析など半導体設計の各工程を担う新基盤「AgentEngineer」と「Autopilot」を発表。Samsung、Nvidia、TSMCなど50件以上の協業が進行中で、年内に一般提供を目指す。",
-      "source": "Tom's Hardware",
-      "link": "https://www.tomshardware.com/tech-industry/semiconductors/synopsys-debuts-autopilot-platform-for-developing-chips-autonomously-using-ai-new-agentengineer-platform-is-poised-for-general-availability-by-the-end-of-2026"
-    },
-    {
-      "title": "Windows 11 26H2がスタートメニュー・タスクバーを大幅刷新して正式提供",
-      "summary": "Microsoftは「Windows 11 2026 Update(26H2)」の一般提供を開始。スクロール可能なスタートメニューや、タスクバーを画面の上下左右どこにでも配置できる機能などが追加された。",
+      "title": "Microsoft、10月7日にAI PC関連イベント開催へ Nadella氏・Huang氏が登壇予定",
+      "summary": "Microsoftは10月7日にサンフランシスコでローカルAI PCをテーマにしたイベントを開催予定。サティア・ナデラ氏やNvidiaのジェンスン・フアン氏らが出席し、エージェント型AIへの転換を強調するとみられる。",
       "source": "Digital Trends",
-      "link": "https://www.digitaltrends.com/computing/windows-11s-latest-update-frees-your-taskbar-from-the-bottom-of-the-screen/"
+      "link": "https://www.digitaltrends.com/computing/microsoft-is-teasing-the-next-chapter-of-ai-pcs-heres-what-could-be-coming/"
+    },
+    {
+      "title": "Marvell、10月6日の投資家説明会でAI収益見通し上方修正か",
+      "summary": "半導体大手Marvellは10月6日に投資家向け説明会を開催予定。RBCキャピタルは2029年度のAI関連売上見通しが現行の100億ドルから少なくとも20億ドル上方修正されると予想している。",
+      "source": "The Motley Fool",
+      "link": "https://www.fool.com/investing/2026/10/02/prediction-this-artificial-intelligence-ai-chip-stock-will-make-a-big-move-in-october-hint-it-s-not-micron/"
+    },
+    {
+      "title": "Red Hat Satelliteに重大な脆弱性、root認証情報窃取のおそれ",
+      "summary": "Red Hat Satelliteの基盤であるForemanコンポーネントに、Viewer権限の低権限ユーザーでもホストのroot認証情報を取得できる脆弱性（CVSS 9.1）が見つかり、10月1日に公表された。",
+      "source": "Cybersecurity News",
+      "link": "https://cybersecuritynews.com/red-hat-satellite-vulnerability/"
     }
   ],
   "x_trending_tech": [
     {
-      "title": "Vercel CEO「KVMのゼロデイを確認、2026年はクレイジーだ」",
-      "summary": "Vercelの共同創業者兼CEOであるGuillermo Rauch氏が、同社のバグ報奨金プログラムでLinux仮想化の標準であるKVMにゼロデイ脆弱性が見つかったことを確認する投稿。詳細なレポートは追って公開予定とした。10/3〜10/4にかけての投稿。",
-      "source": "@rauchg",
-      "link": "https://x.com/rauchg/status/2106402024804020657"
+      "title": "トランプ氏、AI対策本部「スーパーインテリジェンス・フォース」の司令官にジェイ・クレイトン氏を指名",
+      "summary": "Reutersが10/4朝に報じた速報。トランプ大統領がAIタスクフォースの指揮官として国家情報長官ジェイ・クレイトン氏を指名したと伝える投稿。",
+      "source": "@Reuters",
+      "link": "https://x.com/Reuters/status/2106517190958518573"
+    },
+    {
+      "title": "Broadcom、AI半導体事業が急拡大 2028年には2300億ドル規模との見通し",
+      "summary": "Broadcomの決算分析スレッド。AI半導体収益が四半期で167億ドル（前年比221%増）に達し全体の56%を占めるとし、2026〜2028年にかけて売上が倍増していく見通しを紹介。10/4夕方の投稿。",
+      "source": "@ftr_investors",
+      "link": "https://x.com/ftr_investors/status/2106695291881578812"
     }
   ]
 }
