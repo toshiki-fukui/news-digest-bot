@@ -1,105 +1,105 @@
 {
-  "run_label": "10/4 07:00",
+  "run_label": "10/4 19:00",
   "politics_economy": [
     {
-      "title": "横浜市長選、本日告示 18日投開票",
-      "summary": "パワハラ問題で辞職した前市長の後任を選ぶ横浜市長選が10月4日に告示され、18日に投開票される。前市長を含む複数候補による争いとなる見通し。",
-      "source": "タウンニュース",
-      "link": "https://www.townnews.co.jp/0101/2026/10/01/855349.html"
+      "title": "簗農水相「誤解招いた」と釈明、予算カット発言も続投表明",
+      "summary": "自民党の簗和生農水相は10月2日の会見で、地元栃木県の道路予算を大幅カットしたとの発言について「表現ぶりが一部誤解を招くものだった」と認めつつ、辞任は否定し続投の意向を示した。",
+      "source": "時事通信",
+      "link": "https://www.jiji.com/jc/article?k=2026100200786&g=pol"
     },
     {
-      "title": "トランプ氏、共和党勝利なら国民に5000ドル支給と重ねて主張",
-      "summary": "トランプ米大統領は10月3日、共和党が中間選挙で上下両院を制した場合、全米国民に5000ドルの「配当」を支給すると改めて主張した。実施には議会承認などが必要で実現性は不透明。",
+      "title": "高市首相、自民党幹部と会談 10月5日召集の臨時国会運営で連携確認",
+      "summary": "高市首相は自民党幹部と会談し、5日に召集される臨時国会に向けて政府・与党で連携して運営に当たる方針を確認した。所信表明演説は召集日当日に行われる予定。",
       "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261004de54158"
+      "link": "https://news.web.nhk/newsweb/na/nd-20261002de53971"
     },
     {
-      "title": "トランプ氏、予算法案に署名 一部政府機関の閉鎖終了",
-      "summary": "トランプ米大統領は10月3日、2026会計年度予算に関する法案に署名し、3日間続いた一部政府機関の閉鎖が終了した。国土安全保障省の予算は2週間のつなぎ予算で対応し、協議は持ち越された。",
+      "title": "古川デジタル相「AI法改正を含め検討」、情報提供ない開発企業に懸念",
+      "summary": "古川俊治デジタル相は日経などのインタビューで、AI推進法について改正を含めた見直しを検討していると表明。AIの高性能化に伴い、開発事業者からの情報提供が不十分な場合への懸念を示した。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOGN040290U6A200C2000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOUA025YS0S6A001C2000000/"
     },
     {
-      "title": "ロシア、キーウの橋を連日攻撃 市民生活への影響拡大懸念",
-      "summary": "ロシア軍が無人機でウクライナの首都キーウの橋を相次いで攻撃し、地下鉄が通る橋を含む複数の橋で通行が制限された。クリチコ市長は「非常に深刻な状況」と警告している。",
-      "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261003de54094"
+      "title": "日経平均、4日大引けは続伸も方向感に欠ける展開",
+      "summary": "10月4日の東京株式市場で日経平均株価は続伸したが、手控え気分が強く方向感に欠ける展開となった。",
+      "source": "株探(kabutan)",
+      "link": "https://s.kabutan.jp/news/n202410040951/"
     },
     {
-      "title": "NY株式、弱い雇用統計受け続伸 ナスダックは最高値更新",
-      "summary": "10月2日のNY株式市場はダウ工業株30種平均が250.40ドル高の5万1176.96ドルで続伸、ナスダックも最高値を更新した。9月の雇用統計が市場予想を下回り、FRBが10月FOMCで追加利上げを見送るとの観測が強まった。",
-      "source": "財経新聞",
-      "link": "https://www.zaikei.co.jp/article/20261003/872217.html"
+      "title": "輸入小麦の政府売渡価格、10月から12%引き上げ適用",
+      "summary": "農林水産省が9月に発表した輸入小麦の政府売渡価格の12%引き上げが10月から適用される。国際相場の高騰と円安を反映した措置で、食品価格への影響が注目される。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUB085LJ0Y6A900C2000000/"
     }
   ],
   "tech": [
     {
-      "title": "ブロードコム、Anthropic向けAIチップ融資のため600億ドル規模の資金調達開始",
-      "summary": "ブロードコムは大手銀行やブラックストーンと組み、Anthropicへのチップ供給を支える600億ドル規模の融資団組成を開始したと10月2日報じられた。Anthropicは2027年にブロードコムの最大の computing顧客になる見通し。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-02/broadcom-starts-amassing-60-billion-to-fund-chips-for-anthropic"
+      "title": "アンソロピック、IPO目論見書でAIの「破滅的リスク」に言及",
+      "summary": "Anthropicが提出したIPO目論見書で、高性能化するAIシステムが人類に「破滅的・存続的リスク」をもたらす可能性があると警告。想定企業価値は約2兆ドルとされる。",
+      "source": "Investing.com (Reuters)",
+      "link": "https://www.investing.com/news/stock-market-news/anthropic-prospectus-shows-2-trln-ipo-ambition-despite-huge-loss-reuters-reports-4921435"
     },
     {
-      "title": "サムスン、次世代HBM4の価格をHBM3Eの3倍超で提示",
-      "summary": "サムスン電子は次世代メモリー「HBM4」について、主要顧客への提示価格をHBM3Eの約3倍となる1Gbあたり4.5〜4.9ドルとする交渉を進めていると10月2日報じられた。メモリー不足は2027年まで続く見通し。",
-      "source": "Sammy Fans",
-      "link": "https://www.sammyfans.com/2026/10/02/samsung-seeks-more-than-3x-hbm3e-pricing-for-hbm4/"
+      "title": "OpenAI、可愛いキャラクター風の常時稼働AIエージェント「dots」を展開",
+      "summary": "OpenAIがDevDayで発表した「dots」は、丸いキャラクターの見た目をした24時間稼働型AIエージェント。クラウド上で長時間タスクを継続実行できる。",
+      "source": "The Register",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/29/openai-tries-disarming-ai-angst-with-cute-graphics-and-always-on-agents/5299915"
     },
     {
-      "title": "xAI、ミネソタ州のAI偽造ヌード禁止法めぐり差し止め命令を獲得",
-      "summary": "イーロン・マスク氏のxAI（SpaceXAI）は10月3日、ミネソタ州のAI生成偽ヌード画像禁止法について、違憲性を争う間の執行差し止めを連邦高裁から勝ち取った。",
-      "source": "Benzinga",
-      "link": "https://www.benzinga.com/news/legal/26/10/62150937/xai-minnesota-ai-fake-nude-ban-court"
+      "title": "Vercel、KVMのゼロデイ脆弱性を確認し研究者に5万ドルを支給",
+      "summary": "Vercelはサンドボックスのバグ報奨金プログラムを通じ、Linux仮想化の標準KVMにゲストからホストへの完全なVMエスケープを許すゼロデイ脆弱性があると確認。発見者のPaulos Yibelo氏に5万ドルを支払った。10月3日報告。",
+      "source": "Cybersecurity News",
+      "link": "https://cybersecuritynews.com/kvm-zero-day-vm-escape/"
     },
     {
-      "title": "台湾政府、TSMCの台湾内投資拡大を支援する方針",
-      "summary": "台湾経済部は10月2日、シンガポールへの投資観測も出るTSMCについて、台湾国内での投資拡大を政府として支援する方針を示した。",
+      "title": "Meta、AIエージェント「Muse」のハードウェアSDKをオープンソース化",
+      "summary": "MetaはESP32用ファームウェアとLinux SDKを公開し、開発者が独自のハードウェアにAIエージェント「Muse」を組み込めるようにした。USB-C接続の「Muse Home Link」ドングル5000台も製造・配布予定。",
+      "source": "TechMyMoney",
+      "link": "https://techmymoney.com/2026/10/02/meta-muse-gadgets-opens-the-ai-agent-to-diy-hardware-with-a-free-home-link-for-us-subscribers/"
+    },
+    {
+      "title": "Apple、AT&T利用者の通信障害でiPhone 18 Pro Maxを無償交換",
+      "summary": "AppleはAT&T網でセルラー通信を失う一部のiPhone 18 Pro Maxについて、ソフトウェア更新では修復できないとして無償交換で対応すると発表。10月4日報道。",
+      "source": "gHacks",
+      "link": "https://www.ghacks.net/2026/10/04/apple-replaces-some-iphone-18-pro-max-units-after-att-users-lose-cell-service/"
+    },
+    {
+      "title": "Supabase、1.5億ドル調達とTurso買収を発表 AIエージェント向けDBを強化",
+      "summary": "データベース企業SupabaseはシンガポールのGIC主導で1.5億ドルを調達し、SQLiteベースのTursoを買収。新規データベースの70%がAIツール経由で作成されているとして、エージェント向けDB機能を強化する。10月2日発表。",
+      "source": "citybiz",
+      "link": "https://www.citybiz.co/article/913344/supabase-raises-150-million-acquires-turso-to-scale-agentic-databases/"
+    },
+    {
+      "title": "マスク氏、TSMCとのテキサス新工場「Terafab」協議を確認",
+      "summary": "イーロン・マスク氏は自身のチップ事業「Terafab」についてTSMCと協議していることをX上で確認。具体的な提携形態や出資比率はまだ決まっていないとした。10月3日。",
       "source": "DIGITIMES",
-      "link": "https://www.digitimes.com/news/a20261002PD234/tsmc-investment-taiwan-government-moea.html"
+      "link": "https://www.digitimes.com/news/a20261003VL200/tsmc-texas-elon-musk-spacex-investment.html"
     },
     {
-      "title": "NVIDIA、「DGX Spark 64GB」を10月23日発売 価格4999ドルから",
-      "summary": "NVIDIAはAIワークステーション「DGX Spark」に64GBメモリー版を追加し、10月23日に4999ドルから発売すると発表。最大1000億パラメータのモデルをローカルで動かせる。128GB版は価格が6950ドルまで上昇した。",
-      "source": "StorageReview",
-      "link": "https://www.storagereview.com/news/nvidia-dgx-spark-64gb-october-23-4999-two-units-cluster-to-128gb"
+      "title": "TSMC、AI需要急増でNvidiaとBroadcomに生産能力の制約を警告",
+      "summary": "TSMCは主要顧客のNvidiaとBroadcomに対し、最先端ノードの生産能力がAIチップ需要の急増で一段と制約されていると伝えた。2029年までAI関連売上は年率50%台後半で成長する見通し。",
+      "source": "Computing.co.uk",
+      "link": "https://www.computing.co.uk/news/2026/tsmc-warns-nvidia-and-broadcom-of-capacity-squeeze-as-ai-chip-demand-surges"
     },
     {
-      "title": "イーロン・マスク氏、テスラとスペースXの合併を改めて示唆",
-      "summary": "イーロン・マスク氏は10月3日、テスラとスペースXの統合について「誰にどんな行動が取れるか想像できるだろうか」と述べ、合併への含みを改めて示した。正式な取締役会承認や条件はまだない。",
-      "source": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/10/03/elon-musk-hints-at-tesla-spacex-merger-who-can-imagine-what-action-one-might-take/"
+      "title": "Synopsys、半導体設計を自動化するAIエージェント基盤「Autopilot」を発表",
+      "summary": "SynopsysはAIエージェントが検証・実装・解析など半導体設計の各工程を担う新基盤「AgentEngineer」と「Autopilot」を発表。Samsung、Nvidia、TSMCなど50件以上の協業が進行中で、年内に一般提供を目指す。",
+      "source": "Tom's Hardware",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/synopsys-debuts-autopilot-platform-for-developing-chips-autonomously-using-ai-new-agentengineer-platform-is-poised-for-general-availability-by-the-end-of-2026"
     },
     {
-      "title": "マイクロソフト、高速シェーダー配信技術をQualcomm・Intel・NVIDIA GPUにも拡大",
-      "summary": "マイクロソフトは、Xbox・AMD向けに開発したシェーダー事前配信技術「Advanced Shader Delivery」を10月中にNVIDIA RTX全GPU、Intel Arc、Qualcomm Snapdragon X2搭載機にも拡大すると発表。初回起動時のシェーダーコンパイル待ちやスタッターを大幅に削減する。",
-      "source": "Microsoft DirectX Developer Blog",
-      "link": "https://devblogs.microsoft.com/directx/advanced-shader-delivery-available-for-gears-of-war-e-day-and-coming-soon-across-windows-11/"
-    },
-    {
-      "title": "Meta、AI安全スタートアップ「Virtue AI」から移籍したチームと契約解除",
-      "summary": "Metaは6月にAI安全スタートアップVirtue AIから引き入れた創業者らのチームと、わずか4カ月でたもとを分かったと10月2日報じられた。Meta広報は「働き方の不一致」を理由としている。",
-      "source": "Semafor",
-      "link": "https://www.semafor.com/article/10/02/2026/meta-parts-ways-with-virtue-ai"
-    },
-    {
-      "title": "Google、Geminiアプリの無料ユーザーを10月9日から「Flash-Lite」のみに制限",
-      "summary": "Googleは10月9日から、Geminiアプリの無料ユーザーが使えるモデルを軽量版「Flash-Lite」のみに制限し、有料プラン「AI Plus」もPro系モデルへのアクセスを失うと発表した。データセンターの計算負荷軽減とプラン差別化が目的とみられる。",
-      "source": "XDA Developers",
-      "link": "https://www.xda-developers.com/google-ai-plus-users-are-losing-access-to-geminis-pro-model-and-its-happening-very-soon/"
-    },
-    {
-      "title": "ルネサス那珂工場、点検AIロボット「ugo mini」を複数台導入",
-      "summary": "ロボットスタートアップugoの点検AIロボット「ugo mini」が、ルネサスの半導体工場（那珂工場）のクリーンルーム内に複数台本導入され、設備の日常点検を自律走行で省力化している。",
-      "source": "マイナビニュース",
-      "link": "https://news.mynavi.jp/techplus/article/20261001-5057967/"
+      "title": "Windows 11 26H2がスタートメニュー・タスクバーを大幅刷新して正式提供",
+      "summary": "Microsoftは「Windows 11 2026 Update(26H2)」の一般提供を開始。スクロール可能なスタートメニューや、タスクバーを画面の上下左右どこにでも配置できる機能などが追加された。",
+      "source": "Digital Trends",
+      "link": "https://www.digitaltrends.com/computing/windows-11s-latest-update-frees-your-taskbar-from-the-bottom-of-the-screen/"
     }
   ],
   "x_trending_tech": [
     {
-      "title": "OpenAIとAnthropicの推論比率は3〜4割、学習需要の方が大きいとの分析投稿",
-      "summary": "業界ウォッチャーのShanu Mathew氏が、OpenAIとAnthropicは計算資源の2大顧客であり、両社とも推論利用は3〜4割程度との見方から、学習需要の方が現状はまだ大きいはずだと分析する投稿をした（日本時間10月4日未明の投稿）。",
-      "source": "@ShanuMathew93",
-      "link": "https://x.com/ShanuMathew93/status/2106400051547476259"
+      "title": "Vercel CEO「KVMのゼロデイを確認、2026年はクレイジーだ」",
+      "summary": "Vercelの共同創業者兼CEOであるGuillermo Rauch氏が、同社のバグ報奨金プログラムでLinux仮想化の標準であるKVMにゼロデイ脆弱性が見つかったことを確認する投稿。詳細なレポートは追って公開予定とした。10/3〜10/4にかけての投稿。",
+      "source": "@rauchg",
+      "link": "https://x.com/rauchg/status/2106402024804020657"
     }
   ]
 }
