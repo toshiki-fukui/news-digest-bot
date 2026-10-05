@@ -1,117 +1,50 @@
 {
-  "run_label": "10/5 19:00",
+  "run_label": "10/6 07:00",
   "politics_economy": [
     {
-      "title": "高市首相、臨時国会で所信表明演説「経世済民」掲げ経済成長に総力",
-      "summary": "10月5日召集の臨時国会で高市早苗首相が所信表明演説を行い、食料品の消費税減税法案の成立に理解を求めるとともに、「責任ある積極財政」を進める方針を強調した。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026100500067&g=pol&m=rss"
+      "title": "高市首相、臨時国会で所信表明演説 「経済最優先」強調、消費税減税法案に理解求める",
+      "summary": "5日召集の第222臨時国会(会期は12月12日までの69日間)で高市首相が所信表明演説を行い、「経済最優先」の姿勢を強調。飲食料品の消費税を引き下げる減税法案について「家計に少しでもゆとりを生み出したい」と与野党に理解を求めた。",
+      "source": "読売新聞",
+      "link": "https://news.yahoo.co.jp/articles/e9bdef598e3fbd14b87dc2c336dc88383c6bbdf2"
     },
     {
-      "title": "高市首相、G7首脳のオンライン協議を欠席 木原官房長官「議長国が直前に設定」",
-      "summary": "10月2日にオンラインで開かれたG7首脳協議を高市首相が欠席していたことが5日判明。日本からは遠藤和也外務審議官が代理出席した。G7首脳協議への首相不参加は異例。",
+      "title": "NYダウ3日続伸、ナスダックは最高値更新 ハイテク株主導、スペースX株7.6%高",
+      "summary": "5日のニューヨーク株式市場でダウ平均は90ドル高で3日続伸、ナスダック総合指数は9月22日につけた高値を更新し4日続伸した。エヌビディアやマイクロソフト、アルファベットなどハイテク株が買われ、スペースX株は7.6%高で取引を終えた。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUA051480V01C26A0000000/"
-    },
-    {
-      "title": "那覇ホテル強殺事件、米海兵隊上等兵を送検 高市首相「極めて遺憾」と抗議",
-      "summary": "那覇市のホテルで女性が殺害された事件で、沖縄県警は5日、逮捕した米海兵隊上等兵を那覇地検に送検した。高市首相は国会で米側に強く抗議し再発防止を求めたと述べた。",
-      "source": "沖縄タイムス",
-      "link": "https://www.okinawatimes.co.jp/articles/-/1938276"
-    },
-    {
-      "title": "人手不足倒産、上半期240件で過去最多 「賃上げ疲れ」深刻化",
-      "summary": "東京商工リサーチが5日発表した2026年度上半期（4〜9月）の人手不足倒産は240件（前年比17.0%増）で過去最多。人件費高騰を理由とする倒産が1.7倍に増加した。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZRSP713347_V01C26A0000000/"
-    },
-    {
-      "title": "日経平均、一時7万円台に回復 3カ月ぶり AI・半導体株が主導",
-      "summary": "5日の東京株式市場で日経平均株価が一時7万円台を回復した。米早期追加利上げ観測の後退を受け、アドバンテストや東京エレクトロンなどAI・半導体関連株に買いが集まった。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUB050A40V01C26A0000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOFL0600P0W6A001C2000000/"
     }
   ],
   "tech": [
     {
-      "title": "Qualcomm、Huaweiの新チップ技術「LogicFolding」の特許をライセンス供与 5G・AI分野で包括契約",
-      "summary": "QualcommとHuaweiは5日、5G・コンピューティング・AI・ネットワーキング分野を対象とした複数年のクロスライセンス契約を発表。Qualcommが過去25年で初めてHuaweiへのロイヤルティ支払い側となる。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-05/qualcomm-licenses-patents-on-huawei-s-logicfolding-chip-tech"
+      "title": "AI半導体スタートアップEtched、評価額400〜500億ドルでの出資オファー続々",
+      "summary": "AI推論向け専用チップを手がけるEtchedに対し、複数の投資家が400億〜500億ドルの評価額での出資を提案していると報じられた。1カ月前に7億ドルを調達した際の評価額(210億ドル)から倍増する規模となる。(10月5日)",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/"
     },
     {
-      "title": "Schneider Electric、産業ソフト大手PTCを226億ドルで買収 自社最大の買収案件",
-      "summary": "フランスのSchneider Electricは5日、米産業向けソフトウェア企業PTCを1株205ドル、総額約226億ドルの全額現金で買収すると発表。AIを活用した製造・エンジニアリング分野の強化が狙い。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-05/schneider-electric-to-acquire-ptc-for-more-than-20-billion"
+      "title": "Marvell、6日に投資家向けイベント開催 AIインフラ向け成長戦略を説明",
+      "summary": "Marvell Technologyは6日、Investor Dayを開催し、AIインフラ需要を背景としたカスタム半導体事業の中長期成長戦略やGoogleとの関係拡大について説明する予定。",
+      "source": "Nasdaq.com",
+      "link": "https://www.nasdaq.com/articles/should-you-buy-marvell-technology-stock-oct-6"
     },
     {
-      "title": "鴻海（Hon Hai/Foxconn）、7-9月期売上高47%増 AIサーバー需要が押し上げ",
-      "summary": "台湾の鴻海精密工業は5日、2026年7-9月期の売上高が前年同期比47%増の3.03兆台湾ドルになったと発表。AIインフラ需要の拡大がクラウド・ネットワーキング製品部門を押し上げた。",
-      "source": "Reuters",
-      "link": "https://www.investing.com/news/stock-market-news/foxconn-thirdquarter-revenue-jumps-47-yy-beats-market-forecast-4931168"
+      "title": "Broadcom、AnthropicへTPUリース資金として最大420億ドルを融資する契約が判明",
+      "summary": "AnthropicのIPO関連資料から、BroadcomがAnthropicに対し、共同開発するTPUのリース費用に使途を限定した転換証券による最大420億ドルの融資枠を設定していたことが判明した。Anthropicの5年間のTPUリース契約(1252億ドル)の約3分の1をカバーする規模。(10月1日)",
+      "source": "Reuters(The Star)",
+      "link": "https://www.thestar.com.my/tech/tech-news/2026/10/01/exclusive-broadcom-to-lend-anthropic-up-to-42-billion-to-lease-its-chips-filing-says"
     },
     {
-      "title": "Intel、PC向けCPU価格を10%引き上げ 年内3回目の値上げ",
-      "summary": "Intelは10月5日付でPC向けCPU価格を約10%引き上げた。AIデータセンター需要に伴うメモリコスト上昇が背景で、2026年に入ってから3回目の値上げとなる。",
-      "source": "Startup Fortune",
-      "link": "https://startupfortune.com/intel-will-raise-pc-chip-prices-10-again-on-october-5-its-third-hike-this-year/"
+      "title": "Google、サイバー防御特化の新AIモデル「Gemini 4 Argon」提供開始",
+      "summary": "Googleは信頼できるサイバー防御担当者向けに、ソフトウェアの脆弱性を自律的に発見・検証・修正できる新モデル「Gemini 4 Argon」の提供を先行開始した。出力は最大100万トークンに対応し、企業・開発者向けの提供は今後拡大予定。(9月30日)",
+      "source": "Free Press Journal",
+      "link": "https://www.freepressjournal.in/tech/google-begins-phased-rollout-of-gemini-4-argon-starting-with-cyber-defenders"
     },
     {
-      "title": "Google、オープンソースのバグ報奨金制度を一時停止 AI生成の誤報が氾濫",
-      "summary": "Googleは10月1日以降、オープンソース向けバグ報奨金プログラム（OSS VRP）への新規提出受付を一時停止。AIが生成した不正確な報告が急増し審査が追いつかなくなったため。",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/10/05/google-ai-generated-vulnerability-reports-pause/"
-    },
-    {
-      "title": "「焼肉きんぐ」公式アプリに不正アクセス 1,078万人分の個人情報流出",
-      "summary": "物語コーポレーションは5日、「焼肉きんぐ」公式アプリの会員管理システムが不正アクセスを受け、氏名・メールアドレス・電話番号など1,078万8,963件の個人情報が流出したと発表。決済情報の流出は確認されていない。",
-      "source": "ITmedia",
-      "link": "https://www.itmedia.co.jp/news/article/2610/05/2000002011/"
-    },
-    {
-      "title": "大和証券、委託先サーバーに不正アクセス 11万人分の情報流出か",
-      "summary": "大和証券は、業務委託先のサーバーが不正アクセスを受け、顧客情報など約11万人分が流出した可能性があると明らかにした。5日報道。",
-      "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261005de54568"
-    },
-    {
-      "title": "TSMC株、アジア市場で3%高 AIラリーの行方は10月の2つの試練次第",
-      "summary": "台湾上場のTSMC株は5日のアジア市場で約3%上昇。AI関連株への買いが戻る中、8日の9月売上高発表と15日の第3四半期決算が今後のAIラリー継続の試金石となる。",
-      "source": "Techi",
-      "link": "https://www.techi.com/tsmc-stock-october-sales-earnings-ai-rally/"
-    },
-    {
-      "title": "Anthropic、ナスダック上場目指す 市場不安の中でも最大2兆ドル規模のIPO想定",
-      "summary": "AnthropicはAI業界の市場不安やCEOの業界減速論にもかかわらず、ナスダックでの大型新規株式公開（IPO）に向けて準備を進めている。想定評価額は最大2兆ドル規模。",
-      "source": "ABC17 News (CNN Business)",
-      "link": "https://abc17news.com/money/cnn-business-consumer/2026/10/05/anthropic-expected-to-ipo-despite-market-uncertainty-ai-slowdown-calls/"
-    },
-    {
-      "title": "NVIDIA RTX Spark搭載PC、10月登場へ 7日のMicrosoftイベントで発表の見通し",
-      "summary": "NVIDIAのRTX Spark搭載Windows PCが10月に登場予定。10月7日のMicrosoftイベントでNadella氏とJensen Huang氏が共に登壇し、ローカルAI対応のSurfaceなどを発表する見通し。",
-      "source": "Business Standard",
-      "link": "https://business-standard.com/amp/technology/tech-news/nvidia-rtx-spark-pcs-coming-in-october-what-to-expect-from-new-platform-126100500431_1.html"
+      "title": "OpenAI、常時稼働の自律型AIエージェント「Dots」を発表",
+      "summary": "OpenAIは年次開発者会議で、ChatGPT上で目標達成に向けて継続的に作業する常時稼働型AIエージェント「Dots」を発表した。各エージェントは専用のクラウド環境を持ち、SlackやTeamsとの連携も開始した。(9月29日)",
+      "source": "TechRadar",
+      "link": "https://www.techradar.com/pro/openai-launches-dots-its-always-on-ai-agents-that-are-always-watching"
     }
   ],
-  "x_trending_tech": [
-    {
-      "title": "「焼肉きんぐ」アプリ不正アクセスで1,079万件の個人情報流出と速報",
-      "summary": "焼肉きんぐ公式アプリへの不正アクセスにより1,078万8,963件の個人情報が流出したと伝える速報ポスト。10/5午後の投稿。",
-      "source": "@SOU_BTC",
-      "link": "https://x.com/SOU_BTC/status/2107025319169519930"
-    },
-    {
-      "title": "Schneider Electric、PTCを226億ドルで買収すると確認 AI製造ソフトへの布石",
-      "summary": "Schneider ElectricがPTCを1株205ドル・総額226億ドルの現金買収で合意したと伝える投稿。AIを活用した製造・エンジニアリング分野の強化が狙いと指摘。10/5午後（JST）の投稿。",
-      "source": "@ftr_investors",
-      "link": "https://x.com/ftr_investors/status/2106982501872803919"
-    },
-    {
-      "title": "Grok 4.7、コーディング性能でGPT-6.1 SolやClaude Opus 5.5を上回ると話題",
-      "summary": "xAIの新モデルGrok 4.7が独自ベンチマーク「Frontier v4」で全ての努力レベルにおいてGPT-6.1 SolやClaude Opus 5.5、GPT-6 Astraを上回ったと報告する投稿。10/4夜の投稿。",
-      "source": "@morganlinton",
-      "link": "https://x.com/morganlinton/status/2106737322255622550"
-    }
-  ]
+  "x_trending_tech": []
 }
