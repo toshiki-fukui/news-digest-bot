@@ -1,105 +1,117 @@
 {
-  "run_label": "10/5 07:00",
+  "run_label": "10/5 19:00",
   "politics_economy": [
     {
-      "title": "高市首相、5日召集の臨時国会で所信表明演説 「責任ある積極財政」を強調",
-      "summary": "10月5日に召集される臨時国会で高市早苗首相が行う所信表明演説の原案が判明。経済・市場が想定と異なる動きを示した場合は機動的に対応を講じる方針を示す。会期は12月12日までの69日間。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUA304L90Q6A930C2000000/"
-    },
-    {
-      "title": "高市内閣の支持率63.0%に上昇、JNN世論調査",
-      "summary": "JNNの最新世論調査で高市内閣の支持率は前月比0.5ポイント上昇の63.0%、不支持は1.0ポイント下落の33.9%となった。10月4日公表。",
-      "source": "ライブドアニュース",
-      "link": "https://news.livedoor.com/topics/detail/32487364"
-    },
-    {
-      "title": "那覇市ホテル遺体事件で米兵逮捕、沖縄県知事「強い憤り」",
-      "summary": "那覇市のホテルで女性の遺体が発見された事件で米兵が逮捕されたことを受け、沖縄県知事は基地と共存する住民に新たな不安を与えたとして強い憤りを表明した。10月4日報道。",
+      "title": "高市首相、臨時国会で所信表明演説「経世済民」掲げ経済成長に総力",
+      "summary": "10月5日召集の臨時国会で高市早苗首相が所信表明演説を行い、食料品の消費税減税法案の成立に理解を求めるとともに、「責任ある積極財政」を進める方針を強調した。",
       "source": "時事通信",
-      "link": "https://news.infoseek.co.jp/article/jiji_2026100400232/"
+      "link": "https://www.jiji.com/jc/article?k=2026100500067&g=pol&m=rss"
     },
     {
-      "title": "日経平均、4日は反発 終値6万3957円 AI・半導体関連に買い",
-      "summary": "4日の東京株式市場で日経平均株価は前日比202円高の6万3957円で反発。前日の米ハイテク株高を受け、AI・半導体関連やデータセンター関連株の一部に買いが入った。TOPIXも小幅に反発。",
+      "title": "高市首相、G7首脳のオンライン協議を欠席 木原官房長官「議長国が直前に設定」",
+      "summary": "10月2日にオンラインで開かれたG7首脳協議を高市首相が欠席していたことが5日判明。日本からは遠藤和也外務審議官が代理出席した。G7首脳協議への首相不参加は異例。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOFL040GH0U6A800C2000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOUA051480V01C26A0000000/"
     },
     {
-      "title": "コメ価格、5キロ2926円に 7週連続で値下がり",
-      "summary": "全国スーパーの9月27日までの1週間のコメ平均価格は5キロ税込2926円で7週連続の値下がり。2026年産新米は前年産に比べ大幅に安くなる見通し。",
-      "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261002de53967"
+      "title": "那覇ホテル強殺事件、米海兵隊上等兵を送検 高市首相「極めて遺憾」と抗議",
+      "summary": "那覇市のホテルで女性が殺害された事件で、沖縄県警は5日、逮捕した米海兵隊上等兵を那覇地検に送検した。高市首相は国会で米側に強く抗議し再発防止を求めたと述べた。",
+      "source": "沖縄タイムス",
+      "link": "https://www.okinawatimes.co.jp/articles/-/1938276"
+    },
+    {
+      "title": "人手不足倒産、上半期240件で過去最多 「賃上げ疲れ」深刻化",
+      "summary": "東京商工リサーチが5日発表した2026年度上半期（4〜9月）の人手不足倒産は240件（前年比17.0%増）で過去最多。人件費高騰を理由とする倒産が1.7倍に増加した。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZRSP713347_V01C26A0000000/"
+    },
+    {
+      "title": "日経平均、一時7万円台に回復 3カ月ぶり AI・半導体株が主導",
+      "summary": "5日の東京株式市場で日経平均株価が一時7万円台を回復した。米早期追加利上げ観測の後退を受け、アドバンテストや東京エレクトロンなどAI・半導体関連株に買いが集まった。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUB050A40V01C26A0000000/"
     }
   ],
   "tech": [
     {
-      "title": "トランプ政権、AI政策統括の新組織「スーパーインテリジェンス・フォース」を発足",
-      "summary": "トランプ米大統領は10月4日、AI分野での米国の優位を確保するための新組織「スーパーインテリジェンス・フォース」設置を発表。国家情報長官ジェイ・クレイトン氏が指揮し、120日以内にAIのリスクと機会に関する報告書をまとめる。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/"
+      "title": "Qualcomm、Huaweiの新チップ技術「LogicFolding」の特許をライセンス供与 5G・AI分野で包括契約",
+      "summary": "QualcommとHuaweiは5日、5G・コンピューティング・AI・ネットワーキング分野を対象とした複数年のクロスライセンス契約を発表。Qualcommが過去25年で初めてHuaweiへのロイヤルティ支払い側となる。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-05/qualcomm-licenses-patents-on-huawei-s-logicfolding-chip-tech"
     },
     {
-      "title": "韓国大統領、金融機関への連続サイバー攻撃で全面調査を指示",
-      "summary": "新韓銀行やKB国民銀行など複数の韓国金融機関で相次いだデータ漏洩を受け、李在明大統領が10月4日、徹底調査を指示。AIエージェントが攻撃に使われた可能性も調査対象となっている。",
-      "source": "The Star (Reuters)",
-      "link": "https://www.thestar.com.my/tech/tech-news/2026/10/04/south-korean-president-orders-probe-into-data-leaks-across-financial-industry"
+      "title": "Schneider Electric、産業ソフト大手PTCを226億ドルで買収 自社最大の買収案件",
+      "summary": "フランスのSchneider Electricは5日、米産業向けソフトウェア企業PTCを1株205ドル、総額約226億ドルの全額現金で買収すると発表。AIを活用した製造・エンジニアリング分野の強化が狙い。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-05/schneider-electric-to-acquire-ptc-for-more-than-20-billion"
     },
     {
-      "title": "SBG、OpenAIへの追加出資第3弾を実行 総投資額646億ドルに",
-      "summary": "ソフトバンクグループは10月1日、OpenAIへの追加出資（第3弾、100億ドル）を実行したと発表。これにより同社のOpenAIへの総投資額は646億ドルに達した。",
-      "source": "GuruFocus",
-      "link": "https://www.gurufocus.com/news/9107258/softbanks-total-investment-in-openai-reaches-646-billion"
+      "title": "鴻海（Hon Hai/Foxconn）、7-9月期売上高47%増 AIサーバー需要が押し上げ",
+      "summary": "台湾の鴻海精密工業は5日、2026年7-9月期の売上高が前年同期比47%増の3.03兆台湾ドルになったと発表。AIインフラ需要の拡大がクラウド・ネットワーキング製品部門を押し上げた。",
+      "source": "Reuters",
+      "link": "https://www.investing.com/news/stock-market-news/foxconn-thirdquarter-revenue-jumps-47-yy-beats-market-forecast-4931168"
     },
     {
-      "title": "Amazon、データセンター地域への10億ドル投資を表明",
-      "summary": "AmazonはAIインフラ拡大への反発が強まる米国地域社会に向け、今後5年間で10億ドル以上を追加投資すると発表。教育や職業訓練、エネルギー負担軽減などに充てる。10月2日発表。",
-      "source": "Benzinga",
-      "link": "https://www.benzinga.com/markets/tech/26/10/62151997/amazon-1-billion-data-center-communities-ai-backlash"
+      "title": "Intel、PC向けCPU価格を10%引き上げ 年内3回目の値上げ",
+      "summary": "Intelは10月5日付でPC向けCPU価格を約10%引き上げた。AIデータセンター需要に伴うメモリコスト上昇が背景で、2026年に入ってから3回目の値上げとなる。",
+      "source": "Startup Fortune",
+      "link": "https://startupfortune.com/intel-will-raise-pc-chip-prices-10-again-on-october-5-its-third-hike-this-year/"
     },
     {
-      "title": "Nvidia株が記録的高値、モルガン・スタンレーが半導体トップピックに再指定",
-      "summary": "Nvidia株が5月以来の高値圏で推移。モルガン・スタンレーは同社を半導体セクターのトップピックに再指定した。10月2日報道。",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/10/02/nvidia-breaks-through-to-new-record-highs-plus-more-good-news-for-boeing.html"
+      "title": "Google、オープンソースのバグ報奨金制度を一時停止 AI生成の誤報が氾濫",
+      "summary": "Googleは10月1日以降、オープンソース向けバグ報奨金プログラム（OSS VRP）への新規提出受付を一時停止。AIが生成した不正確な報告が急増し審査が追いつかなくなったため。",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/10/05/google-ai-generated-vulnerability-reports-pause/"
     },
     {
-      "title": "TSMC、テキサスで複数ファブ展開を検討 シンガポールとも協議",
-      "summary": "TSMCがアリゾナに続き、テキサスで複数の新工場（1件あたり200億ドル規模）を展開する計画を検討していると報じられた。シンガポールでの展開も協議対象。10月2日報道。",
-      "source": "DIGITIMES",
-      "link": "https://digitimes.com/news/a20261002VL208/tsmc-texas-expansion-manufacturing-arizona.html"
+      "title": "「焼肉きんぐ」公式アプリに不正アクセス 1,078万人分の個人情報流出",
+      "summary": "物語コーポレーションは5日、「焼肉きんぐ」公式アプリの会員管理システムが不正アクセスを受け、氏名・メールアドレス・電話番号など1,078万8,963件の個人情報が流出したと発表。決済情報の流出は確認されていない。",
+      "source": "ITmedia",
+      "link": "https://www.itmedia.co.jp/news/article/2610/05/2000002011/"
     },
     {
-      "title": "Microsoft、10月7日にAI PC関連イベント開催へ Nadella氏・Huang氏が登壇予定",
-      "summary": "Microsoftは10月7日にサンフランシスコでローカルAI PCをテーマにしたイベントを開催予定。サティア・ナデラ氏やNvidiaのジェンスン・フアン氏らが出席し、エージェント型AIへの転換を強調するとみられる。",
-      "source": "Digital Trends",
-      "link": "https://www.digitaltrends.com/computing/microsoft-is-teasing-the-next-chapter-of-ai-pcs-heres-what-could-be-coming/"
+      "title": "大和証券、委託先サーバーに不正アクセス 11万人分の情報流出か",
+      "summary": "大和証券は、業務委託先のサーバーが不正アクセスを受け、顧客情報など約11万人分が流出した可能性があると明らかにした。5日報道。",
+      "source": "NHK",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261005de54568"
     },
     {
-      "title": "Marvell、10月6日の投資家説明会でAI収益見通し上方修正か",
-      "summary": "半導体大手Marvellは10月6日に投資家向け説明会を開催予定。RBCキャピタルは2029年度のAI関連売上見通しが現行の100億ドルから少なくとも20億ドル上方修正されると予想している。",
-      "source": "The Motley Fool",
-      "link": "https://www.fool.com/investing/2026/10/02/prediction-this-artificial-intelligence-ai-chip-stock-will-make-a-big-move-in-october-hint-it-s-not-micron/"
+      "title": "TSMC株、アジア市場で3%高 AIラリーの行方は10月の2つの試練次第",
+      "summary": "台湾上場のTSMC株は5日のアジア市場で約3%上昇。AI関連株への買いが戻る中、8日の9月売上高発表と15日の第3四半期決算が今後のAIラリー継続の試金石となる。",
+      "source": "Techi",
+      "link": "https://www.techi.com/tsmc-stock-october-sales-earnings-ai-rally/"
     },
     {
-      "title": "Red Hat Satelliteに重大な脆弱性、root認証情報窃取のおそれ",
-      "summary": "Red Hat Satelliteの基盤であるForemanコンポーネントに、Viewer権限の低権限ユーザーでもホストのroot認証情報を取得できる脆弱性（CVSS 9.1）が見つかり、10月1日に公表された。",
-      "source": "Cybersecurity News",
-      "link": "https://cybersecuritynews.com/red-hat-satellite-vulnerability/"
+      "title": "Anthropic、ナスダック上場目指す 市場不安の中でも最大2兆ドル規模のIPO想定",
+      "summary": "AnthropicはAI業界の市場不安やCEOの業界減速論にもかかわらず、ナスダックでの大型新規株式公開（IPO）に向けて準備を進めている。想定評価額は最大2兆ドル規模。",
+      "source": "ABC17 News (CNN Business)",
+      "link": "https://abc17news.com/money/cnn-business-consumer/2026/10/05/anthropic-expected-to-ipo-despite-market-uncertainty-ai-slowdown-calls/"
+    },
+    {
+      "title": "NVIDIA RTX Spark搭載PC、10月登場へ 7日のMicrosoftイベントで発表の見通し",
+      "summary": "NVIDIAのRTX Spark搭載Windows PCが10月に登場予定。10月7日のMicrosoftイベントでNadella氏とJensen Huang氏が共に登壇し、ローカルAI対応のSurfaceなどを発表する見通し。",
+      "source": "Business Standard",
+      "link": "https://business-standard.com/amp/technology/tech-news/nvidia-rtx-spark-pcs-coming-in-october-what-to-expect-from-new-platform-126100500431_1.html"
     }
   ],
   "x_trending_tech": [
     {
-      "title": "トランプ氏、AI対策本部「スーパーインテリジェンス・フォース」の司令官にジェイ・クレイトン氏を指名",
-      "summary": "Reutersが10/4朝に報じた速報。トランプ大統領がAIタスクフォースの指揮官として国家情報長官ジェイ・クレイトン氏を指名したと伝える投稿。",
-      "source": "@Reuters",
-      "link": "https://x.com/Reuters/status/2106517190958518573"
+      "title": "「焼肉きんぐ」アプリ不正アクセスで1,079万件の個人情報流出と速報",
+      "summary": "焼肉きんぐ公式アプリへの不正アクセスにより1,078万8,963件の個人情報が流出したと伝える速報ポスト。10/5午後の投稿。",
+      "source": "@SOU_BTC",
+      "link": "https://x.com/SOU_BTC/status/2107025319169519930"
     },
     {
-      "title": "Broadcom、AI半導体事業が急拡大 2028年には2300億ドル規模との見通し",
-      "summary": "Broadcomの決算分析スレッド。AI半導体収益が四半期で167億ドル（前年比221%増）に達し全体の56%を占めるとし、2026〜2028年にかけて売上が倍増していく見通しを紹介。10/4夕方の投稿。",
+      "title": "Schneider Electric、PTCを226億ドルで買収すると確認 AI製造ソフトへの布石",
+      "summary": "Schneider ElectricがPTCを1株205ドル・総額226億ドルの現金買収で合意したと伝える投稿。AIを活用した製造・エンジニアリング分野の強化が狙いと指摘。10/5午後（JST）の投稿。",
       "source": "@ftr_investors",
-      "link": "https://x.com/ftr_investors/status/2106695291881578812"
+      "link": "https://x.com/ftr_investors/status/2106982501872803919"
+    },
+    {
+      "title": "Grok 4.7、コーディング性能でGPT-6.1 SolやClaude Opus 5.5を上回ると話題",
+      "summary": "xAIの新モデルGrok 4.7が独自ベンチマーク「Frontier v4」で全ての努力レベルにおいてGPT-6.1 SolやClaude Opus 5.5、GPT-6 Astraを上回ったと報告する投稿。10/4夜の投稿。",
+      "source": "@morganlinton",
+      "link": "https://x.com/morganlinton/status/2106737322255622550"
     }
   ]
 }
