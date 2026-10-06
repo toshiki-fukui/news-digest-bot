@@ -1,37 +1,97 @@
 {
-  "run_label": "10/6 19:00",
+  "run_label": "10/7 07:00",
   "politics_economy": [
     {
-      "title": "日経平均、3カ月ぶり7万円台を回復 737円高でアドバンテストは上場来高値",
-      "summary": "6日の東京株式市場で日経平均株価は続伸し、前日比737円12銭(1.05%)高の7万0683円98銭で終了。終値で7万円台を回復するのは7月1日以来3カ月ぶり。米ハイテク株高を受けAI・半導体関連への買いが活発化し、アドバンテストは6日続伸して上場来高値を更新した。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOFL0576C0V01C26A0000000"
+      "title": "高市首相、消費税減税への理解求める 野党は財源や効果を追及する方針",
+      "summary": "臨時国会の代表質問(7〜9日)を前に、高市首相は飲食料品の消費税減税策について説明。野党側は財源の裏付けや政策効果を追及する構え。(10/6)",
+      "source": "NHK",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261006de54928"
     },
     {
-      "title": "臨時国会が召集、高市改造内閣初の論戦スタート 代表質問は7〜9日に",
-      "summary": "第222臨時国会が5日に召集され(会期は12月12日までの69日間)、高市首相の所信表明演説を受けた各党代表質問が7〜9日に衆参両院で行われる見通し。首相と全閣僚が出席する衆院予算委員会は13日から始まる予定で、消費税減税法案などが焦点となる。",
-      "source": "時事通信(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/bad916ff5a04c0c784aa03b6b91466d421bbb5de"
+      "title": "日経平均、3カ月ぶりに7万円台を回復",
+      "summary": "10月6日の東京株式市場で日経平均株価は続伸し、前日比737円(1.1%)高の7万0683円で終値。終値での7万円台回復は7月1日以来3カ月ぶり。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUB060FYTW6A001C2000000/"
+    },
+    {
+      "title": "タイムズカー情報漏えい、国交省が業界団体に対策点検を要請",
+      "summary": "カーシェア「タイムズカー」で約660万件の個人情報流出が発覚した問題を受け、国土交通省がレンタカー業界団体に情報管理対策の点検を要請した。(10/6)",
+      "source": "NHK",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261006de55582"
+    },
+    {
+      "title": "沖縄で米海兵隊員が強盗殺人容疑で逮捕、高市首相が米国に正式抗議",
+      "summary": "沖縄で日本人女性に対する強盗殺人の疑いで在沖米海兵隊員が逮捕された事件を受け、高市首相は「極めて残忍かつ悪質」として米国に抗議した。在沖米軍は夜間外出禁止などの対応を発表。(10/5〜6)",
+      "source": "Investing.com",
+      "link": "https://jp.investing.com/news/economy-news/article-1700644"
+    },
+    {
+      "title": "第222臨時国会が召集、高市改造内閣にとって初の論戦の場に",
+      "summary": "10月5日に召集された臨時国会で高市首相が所信表明演説を実施。消費税減税の財源確保策や衆院定数削減が今国会の主要な審議の焦点となる見通し。(10/6)",
+      "source": "NHK",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261006de55057"
     }
   ],
   "tech": [
     {
-      "title": "Anthropic・OpenAI・Google・Metaが宣誓の上NY市議会で証言 AI安全性公聴会",
-      "summary": "ニューヨーク市議会は5日、AIの安全性に関する異例の公聴会を開催し、召喚状の脅しを受けてAnthropic・OpenAI・Googleが土日に出席を表明、Metaも参加。Anthropicの内部告発者は業界の姿勢を「極めて無謀」と批判した。",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/10/05/anthropic-openai-google-meta-execs-testify-nyc-council-ai-hearing.html"
+      "title": "メタとマイクロソフト、AnthropicのClaude社内利用を縮小",
+      "summary": "AIコスト上昇を背景に両社は自社製AIツールへの転換を加速し、Claudeへの依存度を減らしている。マイクロソフトは2026年のAnthropic関連予算を3分の1超削減したと報じられた。(10/6)",
+      "source": "DigiTimes",
+      "link": "https://digitimes.com/news/a20261006VL203/microsoft-meta-claude-anthropic-copilot.html"
     },
     {
-      "title": "攻撃的セキュリティのHadrian、AIペンテストエージェント拡充へ4000万ドル調達",
-      "summary": "オランダ発のサイバーセキュリティ企業Hadrianは6日、Forgepoint CapitalとSmart Finが主導する4000万ドルの資金調達を発表。AIエージェントに企業の外部公開システムを攻撃させ、実際に悪用可能な脆弱性を特定するプラットフォームを欧米で拡大する。累計調達額は6500万ドルに。",
-      "source": "SiliconANGLE",
-      "link": "https://siliconangle.com/2026/10/06/hadrian-raises-40m-for-ai-agents-that-find-the-weaknesses-attackers-can-exploit/"
+      "title": "三菱重工業とPreferred Networks、AI活用で100億円の資本業務提携",
+      "summary": "ミッションクリティカル分野向けAI技術の開発・実装の推進を目的に、三菱重工とPFNが資本業務提携を発表した。(10/6)",
+      "source": "MONOist",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2610/06/news012.html"
     },
     {
-      "title": "「ギアーズ・オブ・ウォー:Eデイ」本日発売 Xbox/PC専用タイトルとして展開",
-      "summary": "マイクロソフトは人気シリーズの前日譚となる新作「Gears of War: E-Day」を6日、Xbox Series X|SとPC(Steam/Microsoft Store、Game Pass)向けに発売した。今回はXbox専用タイトルとして展開される。",
-      "source": "Engadget",
-      "link": "https://www.engadget.com/2189049/gears-of-war-e-day-arrives-october-6-as-an-xbox-and-pc-exclusive"
+      "title": "クアルコム、TSMC2nmプロセスの新SoC「Snapdragon 8 Elite Gen 6」を発表",
+      "summary": "クアルコム、アップル、メディアテックがTSMCの2nmプロセス容量を巡って競争する中、クアルコムはオンデバイスAI性能を強化した新フラッグシップチップを発表した。(10/6)",
+      "source": "TrendForce",
+      "link": "https://www.trendforce.com/news/2026/10/06/news-qualcomm-apple-mediatek-battle-it-out-on-tsmc-2nm-inside-their-flagship-ai-strategies/"
+    },
+    {
+      "title": "世界半導体市場、2026年に初の年間売上1兆ドル超えへ",
+      "summary": "半導体工業会(SIA)の集計・予測によると、AI需要の急拡大を背景に世界半導体市場は2026年に1.6兆ドルを超える見通し。(10/6)",
+      "source": "マイナビTECH+",
+      "link": "https://news.mynavi.jp/techplus/article/20261006-5083776"
+    },
+    {
+      "title": "ラピダス、先端半導体の設計・製造支援エコシステム「Rapidus CORE」を発表",
+      "summary": "東芝やケイデンス、シノプシスなど国内外17社と連携し、先端半導体の設計支援体制を構築すると発表した。(10/6)",
+      "source": "MONOist",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2610/06/news040.html"
+    },
+    {
+      "title": "ソフトバンクグループ株、OpenAIへの追加出資完了後も続落",
+      "summary": "OpenAIへの大型追加出資(3度目・最終回)を10月1日に完了したソフトバンクGの株価が下落。積極的なレバレッジ戦略への懸念からCDS(信用保証コスト)も上昇している。(10/6)",
+      "source": "Investing.com",
+      "link": "https://www.investing.com/news/stock-market-news/why-is-softbank-stock-declining-today-93CH-4933227"
+    },
+    {
+      "title": "サムスン電子・SKハイニックス株が急落、第3四半期決算控え警戒感",
+      "summary": "両社の株価が下落し韓国総合指数(KOSPI)を押し下げた。AI投資への資金不安と中国企業との競争激化が背景とされる。(10/6)",
+      "source": "Investing.com",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1702294"
+    },
+    {
+      "title": "グーグルとブラックストーン、AIデータセンター拡充で新会社設立",
+      "summary": "ブラックストーンが50億ドルを出資し、2027年までに500メガワット規模のデータセンター容量を提供する新会社を設立すると発表した。(10/6)",
+      "source": "ESG Dive",
+      "link": "https://www.esgdive.com/news/google-blackstone-ai-infrastructure-joint-venture-data-center-de/820628/"
+    },
+    {
+      "title": "Anaconda、AIエージェント開発プラットフォーム「Kilo Desktop」を発表",
+      "summary": "アイデアから実装・デプロイまでを一つのアプリでカバーする「Agentic Engineering Platform」として10月6日に発表された。",
+      "source": "HackerNoon",
+      "link": "https://hackernoon.com/introducing-kilo-desktop-where-the-ai-dev-factory-begins"
+    },
+    {
+      "title": "TSMC、世界の対外直接投資(FDI)ランキングで首位に",
+      "summary": "AIインフラ投資の拡大を背景に、TSMCが2025年の海外直接投資額で世界トップとなったことが明らかになった。(10/6)",
+      "source": "DigiTimes",
+      "link": "https://www.digitimes.com/news/a20261006PD234/investment-data-infrastructure-tsmc-2025.html"
     }
   ],
   "x_trending_tech": []
