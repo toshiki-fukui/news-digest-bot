@@ -1,49 +1,37 @@
 {
-  "run_label": "10/6 07:00",
+  "run_label": "10/6 19:00",
   "politics_economy": [
     {
-      "title": "高市首相、臨時国会で所信表明演説 「経済最優先」強調、消費税減税法案に理解求める",
-      "summary": "5日召集の第222臨時国会(会期は12月12日までの69日間)で高市首相が所信表明演説を行い、「経済最優先」の姿勢を強調。飲食料品の消費税を引き下げる減税法案について「家計に少しでもゆとりを生み出したい」と与野党に理解を求めた。",
-      "source": "読売新聞",
-      "link": "https://news.yahoo.co.jp/articles/e9bdef598e3fbd14b87dc2c336dc88383c6bbdf2"
+      "title": "日経平均、3カ月ぶり7万円台を回復 737円高でアドバンテストは上場来高値",
+      "summary": "6日の東京株式市場で日経平均株価は続伸し、前日比737円12銭(1.05%)高の7万0683円98銭で終了。終値で7万円台を回復するのは7月1日以来3カ月ぶり。米ハイテク株高を受けAI・半導体関連への買いが活発化し、アドバンテストは6日続伸して上場来高値を更新した。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOFL0576C0V01C26A0000000"
     },
     {
-      "title": "NYダウ3日続伸、ナスダックは最高値更新 ハイテク株主導、スペースX株7.6%高",
-      "summary": "5日のニューヨーク株式市場でダウ平均は90ドル高で3日続伸、ナスダック総合指数は9月22日につけた高値を更新し4日続伸した。エヌビディアやマイクロソフト、アルファベットなどハイテク株が買われ、スペースX株は7.6%高で取引を終えた。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOFL0600P0W6A001C2000000/"
+      "title": "臨時国会が召集、高市改造内閣初の論戦スタート 代表質問は7〜9日に",
+      "summary": "第222臨時国会が5日に召集され(会期は12月12日までの69日間)、高市首相の所信表明演説を受けた各党代表質問が7〜9日に衆参両院で行われる見通し。首相と全閣僚が出席する衆院予算委員会は13日から始まる予定で、消費税減税法案などが焦点となる。",
+      "source": "時事通信(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/bad916ff5a04c0c784aa03b6b91466d421bbb5de"
     }
   ],
   "tech": [
     {
-      "title": "AI半導体スタートアップEtched、評価額400〜500億ドルでの出資オファー続々",
-      "summary": "AI推論向け専用チップを手がけるEtchedに対し、複数の投資家が400億〜500億ドルの評価額での出資を提案していると報じられた。1カ月前に7億ドルを調達した際の評価額(210億ドル)から倍増する規模となる。(10月5日)",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/"
+      "title": "Anthropic・OpenAI・Google・Metaが宣誓の上NY市議会で証言 AI安全性公聴会",
+      "summary": "ニューヨーク市議会は5日、AIの安全性に関する異例の公聴会を開催し、召喚状の脅しを受けてAnthropic・OpenAI・Googleが土日に出席を表明、Metaも参加。Anthropicの内部告発者は業界の姿勢を「極めて無謀」と批判した。",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/10/05/anthropic-openai-google-meta-execs-testify-nyc-council-ai-hearing.html"
     },
     {
-      "title": "Marvell、6日に投資家向けイベント開催 AIインフラ向け成長戦略を説明",
-      "summary": "Marvell Technologyは6日、Investor Dayを開催し、AIインフラ需要を背景としたカスタム半導体事業の中長期成長戦略やGoogleとの関係拡大について説明する予定。",
-      "source": "Nasdaq.com",
-      "link": "https://www.nasdaq.com/articles/should-you-buy-marvell-technology-stock-oct-6"
+      "title": "攻撃的セキュリティのHadrian、AIペンテストエージェント拡充へ4000万ドル調達",
+      "summary": "オランダ発のサイバーセキュリティ企業Hadrianは6日、Forgepoint CapitalとSmart Finが主導する4000万ドルの資金調達を発表。AIエージェントに企業の外部公開システムを攻撃させ、実際に悪用可能な脆弱性を特定するプラットフォームを欧米で拡大する。累計調達額は6500万ドルに。",
+      "source": "SiliconANGLE",
+      "link": "https://siliconangle.com/2026/10/06/hadrian-raises-40m-for-ai-agents-that-find-the-weaknesses-attackers-can-exploit/"
     },
     {
-      "title": "Broadcom、AnthropicへTPUリース資金として最大420億ドルを融資する契約が判明",
-      "summary": "AnthropicのIPO関連資料から、BroadcomがAnthropicに対し、共同開発するTPUのリース費用に使途を限定した転換証券による最大420億ドルの融資枠を設定していたことが判明した。Anthropicの5年間のTPUリース契約(1252億ドル)の約3分の1をカバーする規模。(10月1日)",
-      "source": "Reuters(The Star)",
-      "link": "https://www.thestar.com.my/tech/tech-news/2026/10/01/exclusive-broadcom-to-lend-anthropic-up-to-42-billion-to-lease-its-chips-filing-says"
-    },
-    {
-      "title": "Google、サイバー防御特化の新AIモデル「Gemini 4 Argon」提供開始",
-      "summary": "Googleは信頼できるサイバー防御担当者向けに、ソフトウェアの脆弱性を自律的に発見・検証・修正できる新モデル「Gemini 4 Argon」の提供を先行開始した。出力は最大100万トークンに対応し、企業・開発者向けの提供は今後拡大予定。(9月30日)",
-      "source": "Free Press Journal",
-      "link": "https://www.freepressjournal.in/tech/google-begins-phased-rollout-of-gemini-4-argon-starting-with-cyber-defenders"
-    },
-    {
-      "title": "OpenAI、常時稼働の自律型AIエージェント「Dots」を発表",
-      "summary": "OpenAIは年次開発者会議で、ChatGPT上で目標達成に向けて継続的に作業する常時稼働型AIエージェント「Dots」を発表した。各エージェントは専用のクラウド環境を持ち、SlackやTeamsとの連携も開始した。(9月29日)",
-      "source": "TechRadar",
-      "link": "https://www.techradar.com/pro/openai-launches-dots-its-always-on-ai-agents-that-are-always-watching"
+      "title": "「ギアーズ・オブ・ウォー:Eデイ」本日発売 Xbox/PC専用タイトルとして展開",
+      "summary": "マイクロソフトは人気シリーズの前日譚となる新作「Gears of War: E-Day」を6日、Xbox Series X|SとPC(Steam/Microsoft Store、Game Pass)向けに発売した。今回はXbox専用タイトルとして展開される。",
+      "source": "Engadget",
+      "link": "https://www.engadget.com/2189049/gears-of-war-e-day-arrives-october-6-as-an-xbox-and-pc-exclusive"
     }
   ],
   "x_trending_tech": []
