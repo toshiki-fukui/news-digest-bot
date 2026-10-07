@@ -1,97 +1,85 @@
 {
-  "run_label": "10/7 07:00",
+  "run_label": "10/7 19:00",
   "politics_economy": [
     {
-      "title": "高市首相、消費税減税への理解求める 野党は財源や効果を追及する方針",
-      "summary": "臨時国会の代表質問(7〜9日)を前に、高市首相は飲食料品の消費税減税策について説明。野党側は財源の裏付けや政策効果を追及する構え。(10/6)",
+      "title": "沖縄・古謝知事、高市首相と面談し米兵事件への実効策求める",
+      "summary": "在沖米海兵隊員の強盗殺人容疑逮捕を受け、沖縄県の古謝玄太知事が7日に首相官邸で高市首相と面談。「断じて許されない」と抗議し、沖縄政策協議会の早期開催と再発防止策を要求した。",
       "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261006de54928"
+      "link": "https://news.web.nhk/newsweb/na/nd-20261007de56036"
     },
     {
-      "title": "日経平均、3カ月ぶりに7万円台を回復",
-      "summary": "10月6日の東京株式市場で日経平均株価は続伸し、前日比737円(1.1%)高の7万0683円で終値。終値での7万円台回復は7月1日以来3カ月ぶり。",
+      "title": "臨時国会で代表質問始まる、消費税・定数削減・農相発言が焦点に",
+      "summary": "7日から衆参両院で代表質問がスタート。消費税の減税策や衆院定数削減、簗農相の道路予算を巡る発言への野党追及が主な争点となった。",
+      "source": "NHK",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261007de55598"
+    },
+    {
+      "title": "日経平均、3日ぶり反落 648円安の7万35円",
+      "summary": "7日の東京株式市場で日経平均株価は前日比648円27銭(0.92%)安の7万0035円71銭で終値。インフレ懸念から米株高の流れに追随できず、3営業日ぶりに反落した。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUB060FYTW6A001C2000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOFL070JXTX01C26A0000000/"
     },
     {
-      "title": "タイムズカー情報漏えい、国交省が業界団体に対策点検を要請",
-      "summary": "カーシェア「タイムズカー」で約660万件の個人情報流出が発覚した問題を受け、国土交通省がレンタカー業界団体に情報管理対策の点検を要請した。(10/6)",
-      "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261006de55582"
+      "title": "小沢一郎氏、中道改革連合を離党 新党結成を模索",
+      "summary": "小沢一郎氏が6日、中道改革連合に離党届を提出し当面無所属に。新党結成について「まだ模索段階」としつつ、年内の結論を目指す考えを示した。",
+      "source": "時事通信",
+      "link": "https://www.jiji.com/jc/article?k=2026100600726&g=pol"
     },
     {
-      "title": "沖縄で米海兵隊員が強盗殺人容疑で逮捕、高市首相が米国に正式抗議",
-      "summary": "沖縄で日本人女性に対する強盗殺人の疑いで在沖米海兵隊員が逮捕された事件を受け、高市首相は「極めて残忍かつ悪質」として米国に抗議した。在沖米軍は夜間外出禁止などの対応を発表。(10/5〜6)",
-      "source": "Investing.com",
-      "link": "https://jp.investing.com/news/economy-news/article-1700644"
-    },
-    {
-      "title": "第222臨時国会が召集、高市改造内閣にとって初の論戦の場に",
-      "summary": "10月5日に召集された臨時国会で高市首相が所信表明演説を実施。消費税減税の財源確保策や衆院定数削減が今国会の主要な審議の焦点となる見通し。(10/6)",
-      "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261006de55057"
+      "title": "経産省、対ロシア追加禁輸措置を発表 レアメタル・プラスチック等",
+      "summary": "経済産業省は6日、ロシアの産業基盤強化に資する物品としてレアメタルやプラスチック製品などを対ロシア輸出禁止品目に追加する輸出貿易管理令等の改正を発表した。",
+      "source": "経済産業省",
+      "link": "https://www.meti.go.jp/files/000005475.pdf"
     }
   ],
   "tech": [
     {
-      "title": "メタとマイクロソフト、AnthropicのClaude社内利用を縮小",
-      "summary": "AIコスト上昇を背景に両社は自社製AIツールへの転換を加速し、Claudeへの依存度を減らしている。マイクロソフトは2026年のAnthropic関連予算を3分の1超削減したと報じられた。(10/6)",
-      "source": "DigiTimes",
-      "link": "https://digitimes.com/news/a20261006VL203/microsoft-meta-claude-anthropic-copilot.html"
+      "title": "OpenAI、評価額1.4兆ドルで300億ドル規模の追加資金調達を協議",
+      "summary": "OpenAIが新たな資金調達ラウンドで少なくとも300億ドルを調達し、評価額を約1.4兆ドルに引き上げる方向で投資家と協議していると報じられた。IPOの代替となるブリッジ資金の位置づけとされる。(10/6)",
+      "source": "Bloomberg(Pulse2)",
+      "link": "https://pulse2.com/openai-reportedly-targets-at-least-30-billion-funding-at-1-4-trillion-valuation/"
     },
     {
-      "title": "三菱重工業とPreferred Networks、AI活用で100億円の資本業務提携",
-      "summary": "ミッションクリティカル分野向けAI技術の開発・実装の推進を目的に、三菱重工とPFNが資本業務提携を発表した。(10/6)",
-      "source": "MONOist",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2610/06/news012.html"
+      "title": "DeepSeek、IPOを控え新たな大型資金調達へ",
+      "summary": "中国のAI企業DeepSeekがIPOを見据え、OpenAIなどと並び新たな大型資金調達に近づいていると米Bloombergが報道。AI企業の上場ラッシュへの思惑が強まっている。(10/6)",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-06/bloomberg-tech-10-6-2026-video"
     },
     {
-      "title": "クアルコム、TSMC2nmプロセスの新SoC「Snapdragon 8 Elite Gen 6」を発表",
-      "summary": "クアルコム、アップル、メディアテックがTSMCの2nmプロセス容量を巡って競争する中、クアルコムはオンデバイスAI性能を強化した新フラッグシップチップを発表した。(10/6)",
-      "source": "TrendForce",
-      "link": "https://www.trendforce.com/news/2026/10/06/news-qualcomm-apple-mediatek-battle-it-out-on-tsmc-2nm-inside-their-flagship-ai-strategies/"
+      "title": "Marvell、投資家向けデーでFY2028業績見通しを上方修正 株価急伸",
+      "summary": "半導体大手Marvellは6日の投資家向けデーでAIデータセンター事業の成長見通しを強気に上方修正し、株価が急伸した。",
+      "source": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/markets/stocks/article/marvell-stock-surges-after-company-raises-2028-revenue-outlook-to-20-billion-155038471.html"
     },
     {
-      "title": "世界半導体市場、2026年に初の年間売上1兆ドル超えへ",
-      "summary": "半導体工業会(SIA)の集計・予測によると、AI需要の急拡大を背景に世界半導体市場は2026年に1.6兆ドルを超える見通し。(10/6)",
-      "source": "マイナビTECH+",
-      "link": "https://news.mynavi.jp/techplus/article/20261006-5083776"
+      "title": "サムスン電子、7-9月期営業利益が過去最高の100兆ウォン超えへ",
+      "summary": "サムスン電子が8日発表予定の7-9月期決算で、半導体(メモリー)部門の好調を背景に韓国企業として初めて四半期営業利益100兆ウォンを突破する見通しと報じられた。(10/7)",
+      "source": "朝鮮日報",
+      "link": "https://chosunonline.com/site/data/html_dir/2026/10/07/2026100780226.html"
     },
     {
-      "title": "ラピダス、先端半導体の設計・製造支援エコシステム「Rapidus CORE」を発表",
-      "summary": "東芝やケイデンス、シノプシスなど国内外17社と連携し、先端半導体の設計支援体制を構築すると発表した。(10/6)",
-      "source": "MONOist",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2610/06/news040.html"
+      "title": "AIが自ら設計したオープンソースAIアクセラレータ「openTPU」が話題に",
+      "summary": "開発者がAIエージェントに全工程を設計させたというAI推論アクセラレータ「openTPU」がGitHubで公開され、RTLからコンパイラまで一式を自動生成した事例として注目を集めている。(10/6)",
+      "source": "GitHub",
+      "link": "https://github.com/FeSens/openTPU"
     },
     {
-      "title": "ソフトバンクグループ株、OpenAIへの追加出資完了後も続落",
-      "summary": "OpenAIへの大型追加出資(3度目・最終回)を10月1日に完了したソフトバンクGの株価が下落。積極的なレバレッジ戦略への懸念からCDS(信用保証コスト)も上昇している。(10/6)",
-      "source": "Investing.com",
-      "link": "https://www.investing.com/news/stock-market-news/why-is-softbank-stock-declining-today-93CH-4933227"
+      "title": "Ars Technica、Google AI検索の影響受け有料プラン「Ars Pro」開始",
+      "summary": "老舗テックメディアArs Technicaが、GoogleのAI検索要約によるアクセス減少に対応するため有料会員プラン「Ars Pro」「Ars Pro++」の提供を開始した。(10/6)",
+      "source": "Ars Technica",
+      "link": "https://gokhshtein.com/news/2026-10-06-ars-technica-launches-pro-tiers-to-counter-google-ai"
     },
     {
-      "title": "サムスン電子・SKハイニックス株が急落、第3四半期決算控え警戒感",
-      "summary": "両社の株価が下落し韓国総合指数(KOSPI)を押し下げた。AI投資への資金不安と中国企業との競争激化が背景とされる。(10/6)",
-      "source": "Investing.com",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1702294"
+      "title": "Anthropic、スタートアップ支援「Claude Startups」プログラムを拡大",
+      "summary": "AnthropicがClaudeの無償提供やAPIクレジットなどを含むスタートアップ支援プログラムを拡大し、創業者や急成長企業との関係強化を図ると発表した。(10/6)",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/10/06/anthropic-claude-startups-program.html"
     },
     {
-      "title": "グーグルとブラックストーン、AIデータセンター拡充で新会社設立",
-      "summary": "ブラックストーンが50億ドルを出資し、2027年までに500メガワット規模のデータセンター容量を提供する新会社を設立すると発表した。(10/6)",
-      "source": "ESG Dive",
-      "link": "https://www.esgdive.com/news/google-blackstone-ai-infrastructure-joint-venture-data-center-de/820628/"
-    },
-    {
-      "title": "Anaconda、AIエージェント開発プラットフォーム「Kilo Desktop」を発表",
-      "summary": "アイデアから実装・デプロイまでを一つのアプリでカバーする「Agentic Engineering Platform」として10月6日に発表された。",
-      "source": "HackerNoon",
-      "link": "https://hackernoon.com/introducing-kilo-desktop-where-the-ai-dev-factory-begins"
-    },
-    {
-      "title": "TSMC、世界の対外直接投資(FDI)ランキングで首位に",
-      "summary": "AIインフラ投資の拡大を背景に、TSMCが2025年の海外直接投資額で世界トップとなったことが明らかになった。(10/6)",
-      "source": "DigiTimes",
-      "link": "https://www.digitimes.com/news/a20261006PD234/investment-data-infrastructure-tsmc-2025.html"
+      "title": "東京市場で半導体関連株に買い集中、AI成長期待で物色広がる",
+      "summary": "6日の東京株式市場では米国の半導体株高を受け、国内の半導体関連株に買いが広がり日経平均の上げ幅拡大に寄与した。",
+      "source": "財経新聞",
+      "link": "https://www.zaikei.co.jp/article/20261006/872538.html"
     }
   ],
   "x_trending_tech": []
