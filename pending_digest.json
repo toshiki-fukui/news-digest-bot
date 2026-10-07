@@ -1,85 +1,61 @@
 {
-  "run_label": "10/7 19:00",
+  "run_label": "10/8 07:00",
   "politics_economy": [
     {
-      "title": "沖縄・古謝知事、高市首相と面談し米兵事件への実効策求める",
-      "summary": "在沖米海兵隊員の強盗殺人容疑逮捕を受け、沖縄県の古謝玄太知事が7日に首相官邸で高市首相と面談。「断じて許されない」と抗議し、沖縄政策協議会の早期開催と再発防止策を要求した。",
-      "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261007de56036"
+      "title": "公明党、岡本三成氏を新代表に正式承認 党大会で体制刷新",
+      "summary": "公明党は3日の党大会で、竹谷とし子代表の後任として岡本三成・元政調会長を新代表に正式承認した。幹事長に西田実仁氏が続投、政調会長に中野洋昌氏が就任し、統一地方選や2028年参院選に向け党勢回復を急ぐ。(10/3)",
+      "source": "熊本日日新聞(共同通信)",
+      "link": "https://kumanichi.com/articles/2042589"
     },
     {
-      "title": "臨時国会で代表質問始まる、消費税・定数削減・農相発言が焦点に",
-      "summary": "7日から衆参両院で代表質問がスタート。消費税の減税策や衆院定数削減、簗農相の道路予算を巡る発言への野党追及が主な争点となった。",
-      "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261007de55598"
-    },
-    {
-      "title": "日経平均、3日ぶり反落 648円安の7万35円",
-      "summary": "7日の東京株式市場で日経平均株価は前日比648円27銭(0.92%)安の7万0035円71銭で終値。インフレ懸念から米株高の流れに追随できず、3営業日ぶりに反落した。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOFL070JXTX01C26A0000000/"
-    },
-    {
-      "title": "小沢一郎氏、中道改革連合を離党 新党結成を模索",
-      "summary": "小沢一郎氏が6日、中道改革連合に離党届を提出し当面無所属に。新党結成について「まだ模索段階」としつつ、年内の結論を目指す考えを示した。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026100600726&g=pol"
-    },
-    {
-      "title": "経産省、対ロシア追加禁輸措置を発表 レアメタル・プラスチック等",
-      "summary": "経済産業省は6日、ロシアの産業基盤強化に資する物品としてレアメタルやプラスチック製品などを対ロシア輸出禁止品目に追加する輸出貿易管理令等の改正を発表した。",
-      "source": "経済産業省",
-      "link": "https://www.meti.go.jp/files/000005475.pdf"
+      "title": "ソフトバンク、OpenAIへの300億ドル投資完了 累計出資646億ドルに",
+      "summary": "ソフトバンクグループはOpenAIの資金調達ラウンドにおける300億ドルの投資を完了したと発表。累計出資額は646億ドルに達し、株式保有比率は約13%となった。(10/1〜2)",
+      "source": "Reuters(The Star)",
+      "link": "https://www.thestar.com/tech/tech-news/2026/10/02/softbank-completes-final-phase-of-30-billion-investment-in-openai.html"
     }
   ],
   "tech": [
     {
-      "title": "OpenAI、評価額1.4兆ドルで300億ドル規模の追加資金調達を協議",
-      "summary": "OpenAIが新たな資金調達ラウンドで少なくとも300億ドルを調達し、評価額を約1.4兆ドルに引き上げる方向で投資家と協議していると報じられた。IPOの代替となるブリッジ資金の位置づけとされる。(10/6)",
-      "source": "Bloomberg(Pulse2)",
-      "link": "https://pulse2.com/openai-reportedly-targets-at-least-30-billion-funding-at-1-4-trillion-valuation/"
+      "title": "Nous Research、評価額15億ドルを確認 企業向けAIエージェントも発表",
+      "summary": "オープンソースAIエージェント「Hermes」を手がけるNous Researchが9000万ドルのシリーズBを実施し、評価額15億ドルを確認。同時に企業向けAIエージェントの提供も開始した。(10/7)",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5-billion-valuation-launches-ai-agents-for-business-users/"
     },
     {
-      "title": "DeepSeek、IPOを控え新たな大型資金調達へ",
-      "summary": "中国のAI企業DeepSeekがIPOを見据え、OpenAIなどと並び新たな大型資金調達に近づいていると米Bloombergが報道。AI企業の上場ラッシュへの思惑が強まっている。(10/6)",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/videos/2026-10-06/bloomberg-tech-10-6-2026-video"
+      "title": "Google、最新AIモデル「Gemini 4 Argon」を発表 コーディング・サイバーセキュリティに強み",
+      "summary": "Googleはコーディングとサイバーセキュリティ業務に強みを持つ新モデル「Gemini 4 Argon」を発表。「Fairwind Program」を通じ一部のサイバー関連パートナーに限定提供する。(9/30)",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet"
     },
     {
-      "title": "Marvell、投資家向けデーでFY2028業績見通しを上方修正 株価急伸",
-      "summary": "半導体大手Marvellは6日の投資家向けデーでAIデータセンター事業の成長見通しを強気に上方修正し、株価が急伸した。",
-      "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/article/marvell-stock-surges-after-company-raises-2028-revenue-outlook-to-20-billion-155038471.html"
+      "title": "Destro AI、物流現場向けAIで800万ドルのシード調達",
+      "summary": "ロボットと人間の作業員が物流現場で連携して働けるようにするAI知能レイヤーを開発するDestro AIが、800万ドルのシードラウンドを実施した。(9/30)",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/"
     },
     {
-      "title": "サムスン電子、7-9月期営業利益が過去最高の100兆ウォン超えへ",
-      "summary": "サムスン電子が8日発表予定の7-9月期決算で、半導体(メモリー)部門の好調を背景に韓国企業として初めて四半期営業利益100兆ウォンを突破する見通しと報じられた。(10/7)",
-      "source": "朝鮮日報",
-      "link": "https://chosunonline.com/site/data/html_dir/2026/10/07/2026100780226.html"
+      "title": "ハードウェア設計AI「Flow Engineering」、評価額7.5億ドルで5000万ドル調達",
+      "summary": "AIを使ったハードウェア設計を手がけるFlow Engineeringが、Valor・Atreides・Sequoiaなどから5000万ドルのシリーズBを調達し、評価額7.5億ドルとなった。(9/30)",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/"
     },
     {
-      "title": "AIが自ら設計したオープンソースAIアクセラレータ「openTPU」が話題に",
-      "summary": "開発者がAIエージェントに全工程を設計させたというAI推論アクセラレータ「openTPU」がGitHubで公開され、RTLからコンパイラまで一式を自動生成した事例として注目を集めている。(10/6)",
-      "source": "GitHub",
-      "link": "https://github.com/FeSens/openTPU"
+      "title": "AIエージェント向けセキュリティのReco、5500万ドル調達 AT&Tも出資",
+      "summary": "AIエージェントのセキュリティを手がけるRecoが5500万ドルを調達。2月のシリーズBに続く追加調達で、顧客でもあるAT&Tのベンチャー部門も出資した。累計資金は1.4億ドルに。(9/29)",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/"
     },
     {
-      "title": "Ars Technica、Google AI検索の影響受け有料プラン「Ars Pro」開始",
-      "summary": "老舗テックメディアArs Technicaが、GoogleのAI検索要約によるアクセス減少に対応するため有料会員プラン「Ars Pro」「Ars Pro++」の提供を開始した。(10/6)",
-      "source": "Ars Technica",
-      "link": "https://gokhshtein.com/news/2026-10-06-ars-technica-launches-pro-tiers-to-counter-google-ai"
+      "title": "バイラルAIエージェント「Instinct」、評価額100億ドルで10億ドルのシリーズC調達",
+      "summary": "SNSで話題となった消費者向けAIエージェント「Instinct」が、Sequoia・Benchmark・Coatueなどから10億ドルのシリーズCを調達し、評価額100億ドルとなったことを確認した。(9/28)",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/"
     },
     {
-      "title": "Anthropic、スタートアップ支援「Claude Startups」プログラムを拡大",
-      "summary": "AnthropicがClaudeの無償提供やAPIクレジットなどを含むスタートアップ支援プログラムを拡大し、創業者や急成長企業との関係強化を図ると発表した。(10/6)",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/10/06/anthropic-claude-startups-program.html"
-    },
-    {
-      "title": "東京市場で半導体関連株に買い集中、AI成長期待で物色広がる",
-      "summary": "6日の東京株式市場では米国の半導体株高を受け、国内の半導体関連株に買いが広がり日経平均の上げ幅拡大に寄与した。",
-      "source": "財経新聞",
-      "link": "https://www.zaikei.co.jp/article/20261006/872538.html"
+      "title": "FBI、サイバーセキュリティ侵害を認める 職員の個人情報が流出",
+      "summary": "FBIが職員向け内部通知で「サイバーセキュリティインシデント」を発表。Oracle PeopleSoftサーバーの脆弱性を突かれ、氏名や社会保障番号などが流出したとされる。(9/28)",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/09/28/fbi-reportedly-declares-cyber-security-incident-after-hackers-steal-agents-personal-data/"
     }
   ],
   "x_trending_tech": []
