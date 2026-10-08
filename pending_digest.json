@@ -1,61 +1,97 @@
 {
-  "run_label": "10/8 07:00",
+  "run_label": "10/8 19:00",
   "politics_economy": [
     {
-      "title": "公明党、岡本三成氏を新代表に正式承認 党大会で体制刷新",
-      "summary": "公明党は3日の党大会で、竹谷とし子代表の後任として岡本三成・元政調会長を新代表に正式承認した。幹事長に西田実仁氏が続投、政調会長に中野洋昌氏が就任し、統一地方選や2028年参院選に向け党勢回復を急ぐ。(10/3)",
-      "source": "熊本日日新聞(共同通信)",
-      "link": "https://kumanichi.com/articles/2042589"
+      "title": "ファーストリテイリング、2026年8月期決算で純利益6期連続最高益",
+      "summary": "ファーストリテイリングは10/8、2026年8月期の連結決算を発表。売上収益は前期比16.6%増の3兆9633億円、純利益は同25.3%増の5425億円でいずれも過去最高を更新し、海外ユニクロ事業の好調でアパレル業界世界2位に浮上する可能性も報じられた。",
+      "source": "共同通信(琉球新報配信)",
+      "link": "https://ryukyushimpo.jp/kyodo/entry-5542468.html"
     },
     {
-      "title": "ソフトバンク、OpenAIへの300億ドル投資完了 累計出資646億ドルに",
-      "summary": "ソフトバンクグループはOpenAIの資金調達ラウンドにおける300億ドルの投資を完了したと発表。累計出資額は646億ドルに達し、株式保有比率は約13%となった。(10/1〜2)",
-      "source": "Reuters(The Star)",
-      "link": "https://www.thestar.com/tech/tech-news/2026/10/02/softbank-completes-final-phase-of-30-billion-investment-in-openai.html"
+      "title": "日経平均、10/8大引けで993円安の6万9042円",
+      "summary": "10/8の東京株式市場で日経平均株価は前日比993円60銭(1.42%)安の6万9042円11銭で取引を終了。前日の米国株安を受けた海外投資家の売りに加え、AI・半導体関連株への利益確定売りや世界的な金利上昇懸念が重なった。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOFL085IJ0Y6A001C2000000/"
+    },
+    {
+      "title": "高市首相「リフレ政策必要な局面でない」、玉木氏に答弁",
+      "summary": "高市首相は10/8の衆院本会議で国民民主党・玉木代表への答弁として、現在の日本経済はリフレ政策を必要とする局面ではないとの認識を示し、日銀の自主性を最大限尊重する姿勢を強調した一方、「責任ある積極財政」の方針は維持すると述べた。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUA087JM0Y6A001C2000000/"
+    },
+    {
+      "title": "簗農相の道路予算発言、首相「不適切で厳しく注意」更迭は否定",
+      "summary": "10/8の参院代表質問で、立憲民主党の田名部匡代氏が簗和生農相の「道路予算カット」発言問題を追及、高市首相は発言を不適切だったと認めて厳しく注意したことを明らかにしたが、農相の更迭は否定した。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUA081SX0Y6A001C2000000/"
+    },
+    {
+      "title": "中国・王毅外相、高市首相の台湾有事答弁の撤回を要求していたと判明",
+      "summary": "共同通信が10/8報じたところによると、中国の王毅外相は9月28日に北京で岩屋毅前外相と会談した際、高市首相による台湾有事に関する国会答弁の「撤回」を求める考えを伝えていたことが分かった。中国外務省の発表文には「是正が必要」とのみ記され、撤回の明記は避けられていた。",
+      "source": "共同通信(琉球新報配信)",
+      "link": "https://ryukyushimpo.jp/kyodo/entry-5542491.html"
     }
   ],
   "tech": [
     {
-      "title": "Nous Research、評価額15億ドルを確認 企業向けAIエージェントも発表",
-      "summary": "オープンソースAIエージェント「Hermes」を手がけるNous Researchが9000万ドルのシリーズBを実施し、評価額15億ドルを確認。同時に企業向けAIエージェントの提供も開始した。(10/7)",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5-billion-valuation-launches-ai-agents-for-business-users/"
+      "title": "Anthropic、小型モデル「Claude Haiku 5.5」を公開",
+      "summary": "Anthropicは10/7(米国時間)、小型モデル「Claude Haiku 5.5」を発表。前世代「Haiku 4.5」からベンチマーク性能を引き上げつつ、利用コストを約75%削減し、同社モデルで最速の応答速度を実現したとしている。10/8付でITmediaが詳細を報じた。",
+      "source": "ITmedia NEWS",
+      "link": "https://www.itmedia.co.jp/news/article/2610/08/2000002112/"
     },
     {
-      "title": "Google、最新AIモデル「Gemini 4 Argon」を発表 コーディング・サイバーセキュリティに強み",
-      "summary": "Googleはコーディングとサイバーセキュリティ業務に強みを持つ新モデル「Gemini 4 Argon」を発表。「Fairwind Program」を通じ一部のサイバー関連パートナーに限定提供する。(9/30)",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet"
+      "title": "中国AI半導体のBiren、約515億円規模の増資を再び実施",
+      "summary": "中国のGPUメーカーBiren Technologyが香港市場で約5.15億ドル(約515億円)規模の株式売却を実施すると10/8付のBloombergが報道。香港IPO後では3回目の資金調達で、AI半導体事業の拡大資金に充てる。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-08/ai-chipmaker-biren-taps-market-again-in-515-million-share-sale"
     },
     {
-      "title": "Destro AI、物流現場向けAIで800万ドルのシード調達",
-      "summary": "ロボットと人間の作業員が物流現場で連携して働けるようにするAI知能レイヤーを開発するDestro AIが、800万ドルのシードラウンドを実施した。(9/30)",
+      "title": "Meta、AIエージェント「Muse」のiPad版を提供開始",
+      "summary": "Metaは10/7、スマホ版の提供開始からわずか1カ月でAIアシスタント「Muse」のiPad専用アプリを公開。Sensor Tower調べでインストール数は660万件を超えたと報じられ、Asana・Canva・GitHubなど連携先も拡充された。",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/"
+      "link": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/"
     },
     {
-      "title": "ハードウェア設計AI「Flow Engineering」、評価額7.5億ドルで5000万ドル調達",
-      "summary": "AIを使ったハードウェア設計を手がけるFlow Engineeringが、Valor・Atreides・Sequoiaなどから5000万ドルのシリーズBを調達し、評価額7.5億ドルとなった。(9/30)",
+      "title": "Google、テキストからゲームを作れるAIプラットフォーム「Playground」を実験的に公開",
+      "summary": "Google Labsは10/7、文章指示だけでブラウザ上で2D/3Dゲームを作成できる新プラットフォーム「Playground」を発表。まず米国の18歳以上を対象に提供し、作成数は週あたりの無料枠制限ありで開放される。",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/"
+      "link": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/"
     },
     {
-      "title": "AIエージェント向けセキュリティのReco、5500万ドル調達 AT&Tも出資",
-      "summary": "AIエージェントのセキュリティを手がけるRecoが5500万ドルを調達。2月のシリーズBに続く追加調達で、顧客でもあるAT&Tのベンチャー部門も出資した。累計資金は1.4億ドルに。(9/29)",
+      "title": "Google、AI生成コンテンツを判定できる「SynthID」専用サイトを公開",
+      "summary": "Googleは10/7、画像・音声・テキストなどのAI生成物を検出する電子透かし技術「SynthID」を誰でも確認できる新ウェブサイトを立ち上げたとTechCrunchが報じた。AI生成コンテンツの透明性確保に向けた取り組みの一環。",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/"
+      "link": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/"
     },
     {
-      "title": "バイラルAIエージェント「Instinct」、評価額100億ドルで10億ドルのシリーズC調達",
-      "summary": "SNSで話題となった消費者向けAIエージェント「Instinct」が、Sequoia・Benchmark・Coatueなどから10億ドルのシリーズCを調達し、評価額100億ドルとなったことを確認した。(9/28)",
+      "title": "新興の個人用AIアシスタント「Meet Tab」がステルスから登場、評価額3億ドル",
+      "summary": "iMessageやWhatsApp経由でタスクを依頼できる個人向けAIアシスタント「Meet Tab」が10/7、ステルスモードを脱し評価額3億ドルで公開されたとTechCrunchが報じた。パーソナルAIアシスタント競争が一段と激化している。",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/"
+      "link": "https://techcrunch.com/2026/10/07/another-personal-ai-assistant-has-launched-meet-tab-which-emerged-from-stealth-with-a-300m-valuation/"
     },
     {
-      "title": "FBI、サイバーセキュリティ侵害を認める 職員の個人情報が流出",
-      "summary": "FBIが職員向け内部通知で「サイバーセキュリティインシデント」を発表。Oracle PeopleSoftサーバーの脆弱性を突かれ、氏名や社会保障番号などが流出したとされる。(9/28)",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/09/28/fbi-reportedly-declares-cyber-security-incident-after-hackers-steal-agents-personal-data/"
+      "title": "Intel、マスク氏の巨大AI半導体工場「Terafab」計画への協力継続を表明",
+      "summary": "IntelのCEOリップブー・タン氏は10/7、イーロン・マスク氏が主導するTerafab(テキサスの大型半導体工場構想)への協力を継続すると明言。マスク氏がTSMCとの協業も検討していると発言したことで投資家の思惑が広がっていた。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-07/intel-to-keep-working-on-elon-musk-s-terafab-chipmaking-venture"
+    },
+    {
+      "title": "MuskのSpaceX、AI半導体購入のため400億ドルの資金調達を模索",
+      "summary": "イーロン・マスク氏のSpaceXがNvidia製AI半導体の購入資金として最大400億ドルの融資を銀行・投資家に働きかけていると10/7付のBloombergが報道。同記事では著名投資家レイ・ダリオ氏がAIバブルへの警鐘を鳴らしているとも伝えている。",
+      "source": "Bloomberg",
+      "link": "https://bloomberg.com/news/newsletters/2026-10-07/musk-s-spacex-wants-40-billion-for-chips-as-dalio-warns-of-ai-bubble"
+    },
+    {
+      "title": "Anthropic、セキュリティ専門家向け「Cyber Verification Program」を拡充",
+      "summary": "Anthropicは10/7、セキュリティ専門家向けの高度モデルアクセス制度「Cyber Verification Program」の対象範囲を拡大し、新モデル「Claude Mythos 5.1」も利用可能にしたとITmediaが報じた。サイバーセキュリティ分野でのAI活用支援を強化する狙い。",
+      "source": "ITmedia NEWS",
+      "link": "https://www.itmedia.co.jp/news/article/2610/07/2000002084/"
+    },
+    {
+      "title": "Microsoft、Windowsを「ハイブリッドインテリジェンス」の基盤に再定義",
+      "summary": "Microsoftは10/8付で、クラウドとローカル双方のAIを併用する「ハイブリッドインテリジェンス」構想を発表。Copilotがファイル操作やPC操作にも対応し、端末上で一部処理を実行してコストや応答速度を改善するとしている。",
+      "source": "ITmedia AI+",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/08/2000002111/"
     }
   ],
   "x_trending_tech": []
