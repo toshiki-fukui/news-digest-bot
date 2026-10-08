@@ -1,97 +1,67 @@
 {
-  "run_label": "10/8 19:00",
+  "run_label": "10/9 07:00",
   "politics_economy": [
     {
-      "title": "ファーストリテイリング、2026年8月期決算で純利益6期連続最高益",
-      "summary": "ファーストリテイリングは10/8、2026年8月期の連結決算を発表。売上収益は前期比16.6%増の3兆9633億円、純利益は同25.3%増の5425億円でいずれも過去最高を更新し、海外ユニクロ事業の好調でアパレル業界世界2位に浮上する可能性も報じられた。",
-      "source": "共同通信(琉球新報配信)",
-      "link": "https://ryukyushimpo.jp/kyodo/entry-5542468.html"
+      "title": "福島県知事選挙が告示、10月25日に投開票",
+      "summary": "福島県知事選挙は10月8日に告示され、投開票は10月25日に行われる。震災・原発事故からの復興や現県政の評価などが争点になるとみられる。",
+      "source": "福島県選挙管理委員会",
+      "link": "https://www.pref.fukushima.lg.jp/sec/62010a/23-chiji.html"
     },
     {
-      "title": "日経平均、10/8大引けで993円安の6万9042円",
-      "summary": "10/8の東京株式市場で日経平均株価は前日比993円60銭(1.42%)安の6万9042円11銭で取引を終了。前日の米国株安を受けた海外投資家の売りに加え、AI・半導体関連株への利益確定売りや世界的な金利上昇懸念が重なった。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOFL085IJ0Y6A001C2000000/"
+      "title": "臨時国会、参院で代表質問続く 消費税・支援金法案が最大の争点",
+      "summary": "10月5日召集の臨時国会では所信表明演説への代表質問が衆院で7・8日、参院で8・9日に行われている。飲食料品の消費税を2027年4月から2年間1%に下げる関連法案の財源や、簗農相の発言問題を巡り与野党の論戦が続いている。",
+      "source": "熊本日日新聞(共同通信配信)",
+      "link": "https://kumanichi.com/articles/2042949"
     },
     {
-      "title": "高市首相「リフレ政策必要な局面でない」、玉木氏に答弁",
-      "summary": "高市首相は10/8の衆院本会議で国民民主党・玉木代表への答弁として、現在の日本経済はリフレ政策を必要とする局面ではないとの認識を示し、日銀の自主性を最大限尊重する姿勢を強調した一方、「責任ある積極財政」の方針は維持すると述べた。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUA087JM0Y6A001C2000000/"
-    },
-    {
-      "title": "簗農相の道路予算発言、首相「不適切で厳しく注意」更迭は否定",
-      "summary": "10/8の参院代表質問で、立憲民主党の田名部匡代氏が簗和生農相の「道路予算カット」発言問題を追及、高市首相は発言を不適切だったと認めて厳しく注意したことを明らかにしたが、農相の更迭は否定した。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUA081SX0Y6A001C2000000/"
-    },
-    {
-      "title": "中国・王毅外相、高市首相の台湾有事答弁の撤回を要求していたと判明",
-      "summary": "共同通信が10/8報じたところによると、中国の王毅外相は9月28日に北京で岩屋毅前外相と会談した際、高市首相による台湾有事に関する国会答弁の「撤回」を求める考えを伝えていたことが分かった。中国外務省の発表文には「是正が必要」とのみ記され、撤回の明記は避けられていた。",
-      "source": "共同通信(琉球新報配信)",
-      "link": "https://ryukyushimpo.jp/kyodo/entry-5542491.html"
+      "title": "NY株式市場、ダウ平均51ドル高も半導体株に売り OpenAIの増収未達報道とイラン情勢に揺れる",
+      "summary": "8日のNY株式市場はダウ平均が51.77ドル高の51231.64ドルと小幅続伸した一方、ナスダック総合指数は345.35ポイント安。OpenAIの売上高が市場予想を下回ったとの報道で半導体株が売られ、中東情勢の緊迫化による原油高も相場の重しとなったが、トランプ大統領がイラン攻撃を否定し長期金利が低下したことで下げ幅を縮小した。",
+      "source": "財経新聞(Fisco配信)",
+      "link": "https://www.zaikei.co.jp/article/20261009/872905.html"
     }
   ],
   "tech": [
     {
-      "title": "Anthropic、小型モデル「Claude Haiku 5.5」を公開",
-      "summary": "Anthropicは10/7(米国時間)、小型モデル「Claude Haiku 5.5」を発表。前世代「Haiku 4.5」からベンチマーク性能を引き上げつつ、利用コストを約75%削減し、同社モデルで最速の応答速度を実現したとしている。10/8付でITmediaが詳細を報じた。",
+      "title": "サムスン電子、7〜9月期営業利益が783%増で過去最高 AI向けメモリー特需",
+      "summary": "サムスン電子は10月8日、2026年7〜9月期の営業利益が前年同期比783%増の約800億ドル規模と過去最高を記録したと発表。AIデータセンター向け高帯域幅メモリー(HBM)需要の急拡大が追い風となり、同時期のTSMCの売上押し上げにも波及している。",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/2026/10/08/samsung-flags-783-profit-jump-to-record-80bn-as-ai-chip-boom-also-lifts-tsmc-sales"
+    },
+    {
+      "title": "TSMC、7〜9月期売上高が前年比50%増の過去最高 AI半導体需要が押し上げ",
+      "summary": "台湾TSMCの2026年第3四半期売上高は前年同期比50%増の新台湾ドル1兆4900億元(約467億ドル)に達し、四半期として過去最高を更新した。生成AI向け先端半導体の旺盛な需要が牽引役となった。",
+      "source": "GuruFocus",
+      "link": "https://gurufocus.com/news/9115737/tsmcs-ai-boom-just-got-bigger"
+    },
+    {
+      "title": "フィンランド当局、Googleのデータセンター2拠点に工事停止命令",
+      "summary": "フィンランドの監督当局は10月6日、Googleが進めるムホスとカヤーニのデータセンター建設予定地について、環境影響評価が完了するまで整地などの作業を即時停止するよう命じた。許可なく300ヘクタール超の森林が伐採された疑いが指摘されている。Googleは総額130億ユーロ規模のフィンランド投資計画全体は継続する考えを示している。",
+      "source": "Courthouse News Service",
+      "link": "https://www.courthousenews.com/finland-orders-halt-to-work-on-googles-data-center-sites/"
+    },
+    {
+      "title": "DeepSeek、テンセント・CATLなどから最大120億ドル調達へ 上海上場視野",
+      "summary": "Bloombergが10月6日報じたところによると、中国AI企業DeepSeekはテンセントや電池大手CATLなどから少なくとも80億元(約120億ドル)規模の資金調達を進めている。最新AIモデルの好評を受け需要が想定を上回り、上海証券取引所科創板への上場も視野に入れているという。",
+      "source": "Khaleej Times(Bloomberg報道)",
+      "link": "https://www.khaleejtimes.com/business/deepseek-to-raise-at-least-12-billion-in-tencent-backed-funding"
+    },
+    {
+      "title": "OpenAI、未公開の内部モデルが生成した数学論文722本を公開",
+      "summary": "OpenAIは10月6日、公開前の社内フロンティアモデルが生成した722本の数学関連論文(372系統)をGitHub上でApache-2.0ライセンスにより公開した。Lean形式の証明や推論要約も添付されているが、一部は形式的検証を経ておらず、数学者による検証が今後必要とされている。",
+      "source": "Unite.AI",
+      "link": "https://www.unite.ai/openai-releases-722-math-manuscripts-from-an-unreleased-ai-model/"
+    },
+    {
+      "title": "止まらない不正アクセス、背景にAIの「超高速攻撃」か 専門家が分析",
+      "summary": "企業への不正アクセス被害が7月以降増加する中、AIを悪用した攻撃の高速化が一因との見方を専門家が示している。侵入後に社内ネットワークへ横展開するまでの平均時間は29分、最速で27秒という調査もあり、防御側もAIを活用した即応体制が不可欠だと指摘されている。",
       "source": "ITmedia NEWS",
-      "link": "https://www.itmedia.co.jp/news/article/2610/08/2000002112/"
+      "link": "https://www.itmedia.co.jp/news/article/2610/08/2000002101/"
     },
     {
-      "title": "中国AI半導体のBiren、約515億円規模の増資を再び実施",
-      "summary": "中国のGPUメーカーBiren Technologyが香港市場で約5.15億ドル(約515億円)規模の株式売却を実施すると10/8付のBloombergが報道。香港IPO後では3回目の資金調達で、AI半導体事業の拡大資金に充てる。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-08/ai-chipmaker-biren-taps-market-again-in-515-million-share-sale"
-    },
-    {
-      "title": "Meta、AIエージェント「Muse」のiPad版を提供開始",
-      "summary": "Metaは10/7、スマホ版の提供開始からわずか1カ月でAIアシスタント「Muse」のiPad専用アプリを公開。Sensor Tower調べでインストール数は660万件を超えたと報じられ、Asana・Canva・GitHubなど連携先も拡充された。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/"
-    },
-    {
-      "title": "Google、テキストからゲームを作れるAIプラットフォーム「Playground」を実験的に公開",
-      "summary": "Google Labsは10/7、文章指示だけでブラウザ上で2D/3Dゲームを作成できる新プラットフォーム「Playground」を発表。まず米国の18歳以上を対象に提供し、作成数は週あたりの無料枠制限ありで開放される。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/"
-    },
-    {
-      "title": "Google、AI生成コンテンツを判定できる「SynthID」専用サイトを公開",
-      "summary": "Googleは10/7、画像・音声・テキストなどのAI生成物を検出する電子透かし技術「SynthID」を誰でも確認できる新ウェブサイトを立ち上げたとTechCrunchが報じた。AI生成コンテンツの透明性確保に向けた取り組みの一環。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/"
-    },
-    {
-      "title": "新興の個人用AIアシスタント「Meet Tab」がステルスから登場、評価額3億ドル",
-      "summary": "iMessageやWhatsApp経由でタスクを依頼できる個人向けAIアシスタント「Meet Tab」が10/7、ステルスモードを脱し評価額3億ドルで公開されたとTechCrunchが報じた。パーソナルAIアシスタント競争が一段と激化している。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/07/another-personal-ai-assistant-has-launched-meet-tab-which-emerged-from-stealth-with-a-300m-valuation/"
-    },
-    {
-      "title": "Intel、マスク氏の巨大AI半導体工場「Terafab」計画への協力継続を表明",
-      "summary": "IntelのCEOリップブー・タン氏は10/7、イーロン・マスク氏が主導するTerafab(テキサスの大型半導体工場構想)への協力を継続すると明言。マスク氏がTSMCとの協業も検討していると発言したことで投資家の思惑が広がっていた。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-07/intel-to-keep-working-on-elon-musk-s-terafab-chipmaking-venture"
-    },
-    {
-      "title": "MuskのSpaceX、AI半導体購入のため400億ドルの資金調達を模索",
-      "summary": "イーロン・マスク氏のSpaceXがNvidia製AI半導体の購入資金として最大400億ドルの融資を銀行・投資家に働きかけていると10/7付のBloombergが報道。同記事では著名投資家レイ・ダリオ氏がAIバブルへの警鐘を鳴らしているとも伝えている。",
-      "source": "Bloomberg",
-      "link": "https://bloomberg.com/news/newsletters/2026-10-07/musk-s-spacex-wants-40-billion-for-chips-as-dalio-warns-of-ai-bubble"
-    },
-    {
-      "title": "Anthropic、セキュリティ専門家向け「Cyber Verification Program」を拡充",
-      "summary": "Anthropicは10/7、セキュリティ専門家向けの高度モデルアクセス制度「Cyber Verification Program」の対象範囲を拡大し、新モデル「Claude Mythos 5.1」も利用可能にしたとITmediaが報じた。サイバーセキュリティ分野でのAI活用支援を強化する狙い。",
-      "source": "ITmedia NEWS",
-      "link": "https://www.itmedia.co.jp/news/article/2610/07/2000002084/"
-    },
-    {
-      "title": "Microsoft、Windowsを「ハイブリッドインテリジェンス」の基盤に再定義",
-      "summary": "Microsoftは10/8付で、クラウドとローカル双方のAIを併用する「ハイブリッドインテリジェンス」構想を発表。Copilotがファイル操作やPC操作にも対応し、端末上で一部処理を実行してコストや応答速度を改善するとしている。",
-      "source": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/08/2000002111/"
+      "title": "AI向けメモリー需要急増でスマホ・PCが値上げラッシュ",
+      "summary": "生成AI向け高帯域幅メモリー(HBM)への生産シフトでDRAM・NANDの供給が逼迫し、GoogleのPixel 10aやサムスンのGalaxy S26シリーズなど発売済み機種まで値上げが相次いでいる。調査会社はメモリー価格が年内に大幅上昇し、PCやスマホの実売価格を2桁%押し上げるとの見通しを示している。",
+      "source": "Business Insider Japan",
+      "link": "https://www.businessinsider.jp/article/2610-semiconductor-memory-price-surge-and-production/"
     }
   ],
   "x_trending_tech": []
