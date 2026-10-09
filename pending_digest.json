@@ -1,67 +1,79 @@
 {
-  "run_label": "10/9 07:00",
+  "run_label": "10/9 19:00",
   "politics_economy": [
     {
-      "title": "福島県知事選挙が告示、10月25日に投開票",
-      "summary": "福島県知事選挙は10月8日に告示され、投開票は10月25日に行われる。震災・原発事故からの復興や現県政の評価などが争点になるとみられる。",
-      "source": "福島県選挙管理委員会",
-      "link": "https://www.pref.fukushima.lg.jp/sec/62010a/23-chiji.html"
+      "title": "高市首相「消費税減税で国民1人あたり年間3.6万円の負担軽減」",
+      "summary": "9日の参院本会議で高市首相は、消費税率の引き下げ分は基本的に価格に反映されるとの認識を示し、国民1人当たりの年間負担軽減額は約3.6万円になるとの見通しを示した。",
+      "source": "NHK",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261009de56982"
     },
     {
-      "title": "臨時国会、参院で代表質問続く 消費税・支援金法案が最大の争点",
-      "summary": "10月5日召集の臨時国会では所信表明演説への代表質問が衆院で7・8日、参院で8・9日に行われている。飲食料品の消費税を2027年4月から2年間1%に下げる関連法案の財源や、簗農相の発言問題を巡り与野党の論戦が続いている。",
+      "title": "消費減税、与野党に接点見えず 高市首相「ゼロ回答」―衆参代表質問",
+      "summary": "臨時国会の代表質問で高市首相は消費税減税の財源や支援金制度の詳細について具体的な言及を避け、野党側は「ゼロ回答」と批判。与野党の立場の隔たりは埋まっていない。",
+      "source": "時事通信",
+      "link": "https://www.jiji.com/jc/article?k=2026100801020&g=eco"
+    },
+    {
+      "title": "消費減税財源、特例公債に頼らず 高市首相、歳出・歳入改革に意欲",
+      "summary": "高市首相は8日の参院代表質問で、消費税減税の財源について特例公債(赤字国債)に頼らず、歳出・歳入両面の見直しで確保する考えを示したが、具体的な内訳は示していない。",
+      "source": "時事通信",
+      "link": "https://www.jiji.com/jc/article?k=2026100800364&g=pol"
+    },
+    {
+      "title": "政府、第2次補正予算の編成へ 災害対応中心、規模は限定的",
+      "summary": "政府は7月の熊本地震や8月の豪雨など相次ぐ災害の復旧・復興に対応するため、2026年度第2次補正予算の編成を検討。近年の物価高対策の補正とは異なり規模は限定的な見通しで、年明けの通常国会での成立を目指す。",
       "source": "熊本日日新聞(共同通信配信)",
-      "link": "https://kumanichi.com/articles/2042949"
+      "link": "https://kumanichi.com/articles/2043966"
     },
     {
-      "title": "NY株式市場、ダウ平均51ドル高も半導体株に売り OpenAIの増収未達報道とイラン情勢に揺れる",
-      "summary": "8日のNY株式市場はダウ平均が51.77ドル高の51231.64ドルと小幅続伸した一方、ナスダック総合指数は345.35ポイント安。OpenAIの売上高が市場予想を下回ったとの報道で半導体株が売られ、中東情勢の緊迫化による原油高も相場の重しとなったが、トランプ大統領がイラン攻撃を否定し長期金利が低下したことで下げ幅を縮小した。",
-      "source": "財経新聞(Fisco配信)",
-      "link": "https://www.zaikei.co.jp/article/20261009/872905.html"
+      "title": "OpenAIの増収未達懸念で半導体・AI関連株に売り、ナスダックも急落",
+      "summary": "OpenAIの年間売上高が市場の事前観測(680億ドル超)を下回る約500億ドル規模だったとの報道を受け、8日の米市場でNvidia・Oracle・CoreWeaveなど関連株が軒並み下落。AI投資の持続性への懸念が強まり、ナスダック100も7週間ぶりの大幅安となった。",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html"
     }
   ],
   "tech": [
     {
-      "title": "サムスン電子、7〜9月期営業利益が783%増で過去最高 AI向けメモリー特需",
-      "summary": "サムスン電子は10月8日、2026年7〜9月期の営業利益が前年同期比783%増の約800億ドル規模と過去最高を記録したと発表。AIデータセンター向け高帯域幅メモリー(HBM)需要の急拡大が追い風となり、同時期のTSMCの売上押し上げにも波及している。",
-      "source": "Euronews",
-      "link": "https://www.euronews.com/2026/10/08/samsung-flags-783-profit-jump-to-record-80bn-as-ai-chip-boom-also-lifts-tsmc-sales"
+      "title": "Anthropic、新小型モデル「Claude Haiku 5.5」投入 価格は平均75%減",
+      "summary": "Anthropicは7日、高速・低コストの新小型モデル「Claude Haiku 5.5」を発表。前モデルHaiku 4.5比で平均約75%安く、処理の深さを調整できる「努力レベル」機能を初搭載した。AWS・Google Cloud・Azureでも利用可能。",
+      "source": "gori.me",
+      "link": "https://gori.me/it/171039"
     },
     {
-      "title": "TSMC、7〜9月期売上高が前年比50%増の過去最高 AI半導体需要が押し上げ",
-      "summary": "台湾TSMCの2026年第3四半期売上高は前年同期比50%増の新台湾ドル1兆4900億元(約467億ドル)に達し、四半期として過去最高を更新した。生成AI向け先端半導体の旺盛な需要が牽引役となった。",
-      "source": "GuruFocus",
-      "link": "https://gurufocus.com/news/9115737/tsmcs-ai-boom-just-got-bigger"
+      "title": "TSMC、グローバルファウンドリーズと20億ドル規模の米チップ契約 GFS株4%急騰",
+      "summary": "TSMCは8日、米グローバルファウンドリーズ(GFS)との間で20億ドル規模のチップ生産契約を締結したと報じられた。GFSはニューヨーク州の工場でTSMCの先進パッケージング「CoWoS」関連の生産を担うとされ、GFS株は4%急騰した。",
+      "source": "Investing.com",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1705940"
     },
     {
-      "title": "フィンランド当局、Googleのデータセンター2拠点に工事停止命令",
-      "summary": "フィンランドの監督当局は10月6日、Googleが進めるムホスとカヤーニのデータセンター建設予定地について、環境影響評価が完了するまで整地などの作業を即時停止するよう命じた。許可なく300ヘクタール超の森林が伐採された疑いが指摘されている。Googleは総額130億ユーロ規模のフィンランド投資計画全体は継続する考えを示している。",
-      "source": "Courthouse News Service",
-      "link": "https://www.courthousenews.com/finland-orders-halt-to-work-on-googles-data-center-sites/"
+      "title": "ゴールドマン、TSMC目標株価を3300台湾ドルに上げ AI需要拡大を評価",
+      "summary": "ゴールドマン・サックスはAI向け先端半導体需要の拡大を理由に、TSMCの目標株価を3100台湾ドルから3300台湾ドルへ引き上げ「買い」判断を維持。台湾株式市場でTSMC株は上場来高値を更新した。",
+      "source": "Record China(Infoseekニュース)",
+      "link": "https://news.infoseek.co.jp/article/recordchina_RC_994431"
     },
     {
-      "title": "DeepSeek、テンセント・CATLなどから最大120億ドル調達へ 上海上場視野",
-      "summary": "Bloombergが10月6日報じたところによると、中国AI企業DeepSeekはテンセントや電池大手CATLなどから少なくとも80億元(約120億ドル)規模の資金調達を進めている。最新AIモデルの好評を受け需要が想定を上回り、上海証券取引所科創板への上場も視野に入れているという。",
-      "source": "Khaleej Times(Bloomberg報道)",
-      "link": "https://www.khaleejtimes.com/business/deepseek-to-raise-at-least-12-billion-in-tencent-backed-funding"
+      "title": "マイクロソフト、Nvidia製チップ搭載のAI PC「Surface Laptop Ultra」を発表",
+      "summary": "マイクロソフトは7日、Nvidiaと共同設計したAI PC「Surface Laptop Ultra」を発表。ジェンスン・フアンCEOとサティア・ナデラCEOが登壇し、Windows上でAIエージェントを動かす取り組みを説明した。価格は2600ドルから。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/"
     },
     {
-      "title": "OpenAI、未公開の内部モデルが生成した数学論文722本を公開",
-      "summary": "OpenAIは10月6日、公開前の社内フロンティアモデルが生成した722本の数学関連論文(372系統)をGitHub上でApache-2.0ライセンスにより公開した。Lean形式の証明や推論要約も添付されているが、一部は形式的検証を経ておらず、数学者による検証が今後必要とされている。",
-      "source": "Unite.AI",
-      "link": "https://www.unite.ai/openai-releases-722-math-manuscripts-from-an-unreleased-ai-model/"
+      "title": "Meta、広告経由で児童性的虐待コンテンツへ誘導する手口を検知する新AIツール導入",
+      "summary": "Metaは7日、一見普通の広告から外部の違法コンテンツへ誘導する「サインポスティング」を検知する大規模言語モデルシステムを発表。2026年上半期には3320万件の児童性的搾取関連コンテンツに対処したとしている。",
+      "source": "ThePrint",
+      "link": "https://theprint.in/economy/meta-acted-on-5-3-mn-pieces-of-child-abuse-content-in-h126-rolls-out-new-ai-tools-to-check-ads/3064862/"
     },
     {
-      "title": "止まらない不正アクセス、背景にAIの「超高速攻撃」か 専門家が分析",
-      "summary": "企業への不正アクセス被害が7月以降増加する中、AIを悪用した攻撃の高速化が一因との見方を専門家が示している。侵入後に社内ネットワークへ横展開するまでの平均時間は29分、最速で27秒という調査もあり、防御側もAIを活用した即応体制が不可欠だと指摘されている。",
-      "source": "ITmedia NEWS",
-      "link": "https://www.itmedia.co.jp/news/article/2610/08/2000002101/"
+      "title": "OpenAI、無料・Goユーザーにも「GPT-6」展開 対話に「インテリジェントUI」追加",
+      "summary": "OpenAIは有料プラン(Plus/Pro/Business/Enterprise)への展開に続き、無料・Goユーザー向けにも軽量版モデル「GPT-6 Luna」の提供を開始。回答にグラフやボタンなど対話的な要素を組み込む「インテリジェントUI」機能も導入された。",
+      "source": "Let's Data Science",
+      "link": "https://letsdatascience.com/news/openai-brings-gpt-6-and-intelligent-ui-to-chatgpt-4f0d797c"
     },
     {
-      "title": "AI向けメモリー需要急増でスマホ・PCが値上げラッシュ",
-      "summary": "生成AI向け高帯域幅メモリー(HBM)への生産シフトでDRAM・NANDの供給が逼迫し、GoogleのPixel 10aやサムスンのGalaxy S26シリーズなど発売済み機種まで値上げが相次いでいる。調査会社はメモリー価格が年内に大幅上昇し、PCやスマホの実売価格を2桁%押し上げるとの見通しを示している。",
-      "source": "Business Insider Japan",
-      "link": "https://www.businessinsider.jp/article/2610-semiconductor-memory-price-surge-and-production/"
+      "title": "Nvidia、開発者向け「DGX Spark」に64GBメモリー版を追加",
+      "summary": "Nvidiaはローカル環境でAIモデルを動かす開発者向けに、小型AIシステム「DGX Spark」の64GBメモリー構成を発表。GB10 Grace Blackwell Superchipを搭載し、Acer・ASUS・Dell・HPなどから10月23日より提供予定。",
+      "source": "NVIDIA Blog",
+      "link": "https://blogs.nvidia.com/?p=98570"
     }
   ],
   "x_trending_tech": []
