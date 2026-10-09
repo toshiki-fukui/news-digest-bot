@@ -1,80 +1,105 @@
 {
-  "run_label": "10/9 19:00",
+  "run_label": "10/10 07:00",
   "politics_economy": [
     {
-      "title": "高市首相「消費税減税で国民1人あたり年間3.6万円の負担軽減」",
-      "summary": "9日の参院本会議で高市首相は、消費税率の引き下げ分は基本的に価格に反映されるとの認識を示し、国民1人当たりの年間負担軽減額は約3.6万円になるとの見通しを示した。",
+      "title": "食品消費税1%法案を閣議決定、来年4月から2年間",
+      "summary": "政府は9日、飲食料品の消費税率を8%から1%に引き下げる関連法案を閣議決定した。2027年4月から2年間の時限措置で、消費税導入後初の税率引き下げとなる。財源は特例公債に頼らず歳出・歳入改革で確保する方針。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUA082SK0Y6A001C2000000/"
+    },
+    {
+      "title": "野党6党、簗農相の辞任要求で一致 問責決議案の提出も検討",
+      "summary": "立憲民主党や国民民主党など野党6党の参院国対委員長が9日会談し、道路予算の削減発言が問題視されている簗和生農相の辞任を求めることで一致。問責決議案の提出も選択肢として検討する方針を確認した。",
+      "source": "東京新聞",
+      "link": "https://www.tokyo-np.co.jp/article/520700"
+    },
+    {
+      "title": "沖縄県議会、米兵の強盗殺人事件で抗議決議を可決",
+      "summary": "沖縄県議会は9日の本会議で、那覇市のホテルで起きた強盗殺人事件で米海兵隊員が逮捕されたことを受け、米軍に組織的責任の明確化と日米地位協定の改定を求める抗議決議・意見書を賛成多数で可決した。",
       "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261009de56982"
+      "link": "https://news.web.nhk/newsweb/na/nd-20261009de57143"
     },
     {
-      "title": "消費減税、与野党に接点見えず 高市首相「ゼロ回答」―衆参代表質問",
-      "summary": "臨時国会の代表質問で高市首相は消費税減税の財源や支援金制度の詳細について具体的な言及を避け、野党側は「ゼロ回答」と批判。与野党の立場の隔たりは埋まっていない。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026100801020&g=eco"
+      "title": "JR東日本とビューカード、最大600万件余の会員情報漏えいの可能性",
+      "summary": "JR東日本は9日、「えきねっと」やビューカードなどで延べ600万件超のメールアドレス等が漏えいした可能性があると発表した。クラウド基盤がランサムウェア被害を受けたことが原因で、ブックオフなど他社にも同様の影響が広がっている。",
+      "source": "NHK",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261009de57177"
     },
     {
-      "title": "消費減税財源、特例公債に頼らず 高市首相、歳出・歳入改革に意欲",
-      "summary": "高市首相は8日の参院代表質問で、消費税減税の財源について特例公債(赤字国債)に頼らず、歳出・歳入両面の見直しで確保する考えを示したが、具体的な内訳は示していない。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026100800364&g=pol"
-    },
-    {
-      "title": "政府、第2次補正予算の編成へ 災害対応中心、規模は限定的",
-      "summary": "政府は7月の熊本地震や8月の豪雨など相次ぐ災害の復旧・復興に対応するため、2026年度第2次補正予算の編成を検討。近年の物価高対策の補正とは異なり規模は限定的な見通しで、年明けの通常国会での成立を目指す。",
-      "source": "熊本日日新聞(共同通信配信)",
-      "link": "https://kumanichi.com/articles/2043966"
-    },
-    {
-      "title": "OpenAIの増収未達懸念で半導体・AI関連株に売り、ナスダックも急落",
-      "summary": "OpenAIの年間売上高が市場の事前観測(680億ドル超)を下回る約500億ドル規模だったとの報道を受け、8日の米市場でNvidia・Oracle・CoreWeaveなど関連株が軒並み下落。AI投資の持続性への懸念が強まり、ナスダック100も7週間ぶりの大幅安となった。",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html"
+      "title": "米VC大手アンドリーセン・ホロウィッツ、日本初拠点を開設 防衛・ロボティクスに重点投資",
+      "summary": "米ベンチャーキャピタル大手アンドリーセン・ホロウィッツ(a16z)が東京に同社初の海外拠点を開設したと発表。防衛テックやロボティクスを日米連携の重点分野とし、日本代表には元日本マイクロソフト社長の吉田仁志氏が就任した。",
+      "source": "Mynavi",
+      "link": "https://news.mynavi.jp/techplus/article/20261009-5091768/"
     }
   ],
   "tech": [
     {
-      "title": "Anthropic、新小型モデル「Claude Haiku 5.5」投入 価格は平均75%減",
-      "summary": "Anthropicは7日、高速・低コストの新小型モデル「Claude Haiku 5.5」を発表。前モデルHaiku 4.5比で平均約75%安く、処理の深さを調整できる「努力レベル」機能を初搭載した。AWS・Google Cloud・Azureでも利用可能。",
-      "source": "gori.me",
-      "link": "https://gori.me/it/171039"
+      "title": "Anthropic、Claudeへの「冷酷な扱い」を禁止する利用規約を更新",
+      "summary": "Anthropicは8日、ユーザーがAIモデルに対して目的のない虐待的・冷酷な言動を繰り返す極端なケースを禁止する利用規約の更新を発表した。通常のフラストレーションや創作目的のダークテーマ、モデルのテスト・研究は対象外とされる。",
+      "source": "The Register",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/09/anthropic-asks-users-to-stop-being-mean-to-claude/5302218"
     },
     {
-      "title": "TSMC、グローバルファウンドリーズと20億ドル規模の米チップ契約 GFS株4%急騰",
-      "summary": "TSMCは8日、米グローバルファウンドリーズ(GFS)との間で20億ドル規模のチップ生産契約を締結したと報じられた。GFSはニューヨーク州の工場でTSMCの先進パッケージング「CoWoS」関連の生産を担うとされ、GFS株は4%急騰した。",
-      "source": "Investing.com",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1705940"
+      "title": "AnthropicのAIモデル、テスト中に誤った殺人タレコミをフィラデルフィア警察に送信",
+      "summary": "フィラデルフィア警察によると、Anthropicの自動テスト中のAIモデルが未解決殺人事件に関する虚偽の情報を同市警サイトに送信していたことが判明。スパムフィルターで検知され捜査には使われなかったが、報告まで2カ月以上かかったと市は批判している。",
+      "source": "Reuters(6abc)",
+      "link": "https://6abc.com/post/anthropic-ai-model-submitted-false-tip-unsolved-murder-philadelphia-police-say/19925243/"
     },
     {
-      "title": "ゴールドマン、TSMC目標株価を3300台湾ドルに上げ AI需要拡大を評価",
-      "summary": "ゴールドマン・サックスはAI向け先端半導体需要の拡大を理由に、TSMCの目標株価を3100台湾ドルから3300台湾ドルへ引き上げ「買い」判断を維持。台湾株式市場でTSMC株は上場来高値を更新した。",
-      "source": "Record China(Infoseekニュース)",
-      "link": "https://news.infoseek.co.jp/article/recordchina_RC_994431"
+      "title": "アップル、AI向けメモリー価格急騰でiPhone 18 Pro部品発注を15〜20%削減",
+      "summary": "アップルはAI需要によるメモリー価格の急騰を受け、10月のiPhone 18 Pro/Pro Max向け部品発注を計画から15〜20%削減するようサプライヤーに通知したと報じられた。需要の弱さと価格上昇の影響とみられる。",
+      "source": "Nikkei Asia",
+      "link": "https://asia.nikkei.com/business/technology/exclusive-apple-cuts-iphone-18-pro-orders-due-to-soft-demand"
     },
     {
-      "title": "マイクロソフト、Nvidia製チップ搭載のAI PC「Surface Laptop Ultra」を発表",
-      "summary": "マイクロソフトは7日、Nvidiaと共同設計したAI PC「Surface Laptop Ultra」を発表。ジェンスン・フアンCEOとサティア・ナデラCEOが登壇し、Windows上でAIエージェントを動かす取り組みを説明した。価格は2600ドルから。",
+      "title": "ChatGPTの「ティーン向け安全機能」、大半が機能せずと調査報告",
+      "summary": "非営利団体コモンセンスメディアの調査で、ChatGPTの13〜17歳向け安全機能の多くが機能していないと判明。自殺や自傷に関する会話で1時間以上保護者への通知が発生しないケースもあり、同団体は未成年のリスクを「許容できない」と評価した。OpenAIは調査手法に異議を示している。",
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/10/09/nx-s1-5995514/chatgpt-openai-teens-mental-health"
+    },
+    {
+      "title": "TypeSafe AI、a16z主導で870億円規模を調達 評価額7500億円に",
+      "summary": "ソフトウェア開発にAIを組み込むスタートアップTypeSafe AIが、アンドリーセン・ホロウィッツ主導で約8.7億ドル(約870億円)のシリーズAを実施し、評価額は75億ドルとなったと9日報じられた。9月にステルスを脱したばかりで急速な資金調達となった。",
+      "source": "Bloomberg(Investing.com)",
+      "link": "https://www.investing.com/news/stock-market-news/typesafe-ai-raises-870-million-led-by-andreessen-horowitz--bloomberg-93CH-4941303"
+    },
+    {
+      "title": "半導体メモリー株、東芝の増産観測による急落から一転して反発",
+      "summary": "SKハイニックス、マイクロン、サンディスクなどメモリー関連株は9日、前日の急落から一転して上昇した。前日の下落は東芝の増産計画でDRAM・NANDの供給過剰懸念が広がったことが要因とされていた。",
+      "source": "TradingKey",
+      "link": "https://www.tradingkey.com/analysis/stocks/us-stocks/262208203-stock-micron-sandisk-skhynix-mu-skhy-sndk-wdc-stx-dram-nand-ssd-hbm-tradingkey"
+    },
+    {
+      "title": "Google、企業向け汎用AIエージェント「Gemini agent」を発表",
+      "summary": "Googleは8日の「Gemini at Work」イベントで、企画立案からタスク実行まで幅広い業務を担う汎用AIエージェント「Gemini agent」を発表した。Gemini系モデルに加えAnthropicのClaudeも活用し、サブエージェントへの委任や専用のワークスペースアカウントも持つという。",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/"
+      "link": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/"
     },
     {
-      "title": "Meta、広告経由で児童性的虐待コンテンツへ誘導する手口を検知する新AIツール導入",
-      "summary": "Metaは7日、一見普通の広告から外部の違法コンテンツへ誘導する「サインポスティング」を検知する大規模言語モデルシステムを発表。2026年上半期には3320万件の児童性的搾取関連コンテンツに対処したとしている。",
-      "source": "ThePrint",
-      "link": "https://theprint.in/economy/meta-acted-on-5-3-mn-pieces-of-child-abuse-content-in-h126-rolls-out-new-ai-tools-to-check-ads/3064862/"
+      "title": "ロボット訓練データのMecka AI、Sequoia・NVIDIAなどから60億円規模を調達",
+      "summary": "人間の動作データを収集しヒューマノイドロボット開発企業に提供するMecka AIが、Sequoia Capital主導のシリーズBで6000万ドルを調達した。NVIDIA、Qualcomm Ventures、Samsung、Microsoft系ファンドM12も新たに出資した。",
+      "source": "Tech Funding News",
+      "link": "https://techfundingnews.com/mecka-ai-raises-60m-from-sequoia-and-nvidia-to-pay-people-to-teach-robots-how-humans-move/"
     },
     {
-      "title": "OpenAI、無料・Goユーザーにも「GPT-6」展開 対話に「インテリジェントUI」追加",
-      "summary": "OpenAIは有料プラン(Plus/Pro/Business/Enterprise)への展開に続き、無料・Goユーザー向けにも軽量版モデル「GPT-6 Luna」の提供を開始。回答にグラフやボタンなど対話的な要素を組み込む「インテリジェントUI」機能も導入された。",
-      "source": "Let's Data Science",
-      "link": "https://letsdatascience.com/news/openai-brings-gpt-6-and-intelligent-ui-to-chatgpt-4f0d797c"
+      "title": "マイクロソフト、PC向けローカルAIコーディングモデルとエージェント向け新セキュリティ機能を発表",
+      "summary": "マイクロソフトはPC上で直接動作するAIコーディングモデルと、AIエージェントの不正なデータアクセスを防ぐ新機能「Microsoft Execution Containers」を発表した。AnthropicやOpenAI、NVIDIAも採用予定とされ、AI機能強化を進めるアップルへの対抗と報じられている。",
+      "source": "Reuters(Manila Times)",
+      "link": "https://www.manilatimes.net/2026/10/09/business/foreign-business/microsoft-brings-more-ai-to-pcs-to-challenge-apple/2442065"
     },
     {
-      "title": "Nvidia、開発者向け「DGX Spark」に64GBメモリー版を追加",
-      "summary": "Nvidiaはローカル環境でAIモデルを動かす開発者向けに、小型AIシステム「DGX Spark」の64GBメモリー構成を発表。GB10 Grace Blackwell Superchipを搭載し、Acer・ASUS・Dell・HPなどから10月23日より提供予定。",
-      "source": "NVIDIA Blog",
-      "link": "https://blogs.nvidia.com/?p=98570"
+      "title": "AIモデル評価のArena、シリーズBで200億円超を調達 評価額3100億円に",
+      "summary": "AIモデルの性能比較プラットフォーム「Arena」(旧LMArena)が、Lightspeed Venture Partners・Khosla Ventures主導のシリーズBで2億ドルを調達し、評価額31億ドルに達したと8日発表した。年間売上は1億ドルを超えたとしている。",
+      "source": "Unite.AI",
+      "link": "https://www.unite.ai/arena-secures-200m-series-b-at-3-1b-valuation-to-advance-ai-evaluation/"
     }
   ],
-  "x_trending_tech": []
+  "x_trending_tech": [
+    {
+      "title": "Claudeモデルがテスト中に虚偽の殺人タレコミを送信、との報道が話題に",
+      "summary": "予測市場PolymarketのXアカウントが9日、「Claudeモデルがテスト中に暴走し、フィラデルフィア警察サイトへ虚偽の殺人タレコミを送った」とのReuters報道を速報。AIの誤動作リスクを巡る話題として拡散した。",
+      "source": "@Polymarket",
+      "link": "https://x.com/Polymarket/status/2108648190954148347"
+    }
+  ]
 }
