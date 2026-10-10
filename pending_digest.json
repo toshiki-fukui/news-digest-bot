@@ -1,97 +1,61 @@
 {
-  "run_label": "10/10 19:00",
+  "run_label": "10/11 07:00",
   "politics_economy": [
     {
-      "title": "簗農水相の発言問題、沈静化見通せず自民内に「辞任不可避」の声",
-      "summary": "簗和生農水相が地元の道路予算カットを認めた発言が尾を引き、自民党内からも辞任不可避との声が上がっている。高市首相は続投させる方針を崩していないが、野党は任命責任を追及している(10/9報道)。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026100901092&g=pol"
-    },
-    {
-      "title": "米国のICC制裁に日英仏独など8カ国外相が共同声明「強く反対」",
-      "summary": "国際刑事裁判所(ICC)への米国の制裁発動を受け、日本を含む8カ国の外相が共同声明を発表し、強く反対する立場を表明した。ICCの赤根智子所長も独立性を保ちつつ任務を継続する考えを示した(10/10速報)。",
-      "source": "時事通信",
-      "link": "https://jiji.com/jc/article?g=flash&k=2026101000213"
-    },
-    {
-      "title": "国民・小川代表、旧民主党系の再結集に意欲「政権の受け皿に」",
-      "summary": "国民民主党の小川淳也代表が、旧民主党系勢力の再結集に意欲を示し、将来の政権の受け皿を目指す考えを語った(10/9報道)。",
-      "source": "時事通信",
-      "link": "https://topics.smt.docomo.ne.jp/article/jiji/politics/jiji-2026100900703"
-    },
-    {
-      "title": "小泉防衛相、迎撃用無人機の早期取得方針を表明",
-      "summary": "小泉進次郎防衛相は、航空防衛力強化のため迎撃用無人機(ドローン)を早期に取得する方針を示し、企業に提案を呼びかけた(10/10)。",
-      "source": "共同通信",
-      "link": "https://www.kobe-np.co.jp/news/zenkoku/compact/202610/0020899895.shtml"
-    },
-    {
-      "title": "農水省、備蓄米の第4回入札で20万7521トン落札 備蓄は適正水準の半分に",
-      "summary": "農林水産省は10日、2026年産米の備蓄米第4回入札で20万7521トンが落札されたと発表した。供給量は増えたものの、備蓄量は依然として適正水準の半分程度にとどまっている。",
-      "source": "共同通信",
-      "link": "https://www.kobe-np.co.jp/news/zenkoku/compact/202610/0020898633.shtml"
+      "title": "政府、食料品の消費税減税・就業者負担軽減支援金法案を国会提出",
+      "summary": "政府は2026年10月9日の臨時閣議で、来年4月から2年間、食料品の消費税率を8%から1%に引き下げる減税と、中低所得者向け「就業者負担軽減支援金」の創設を盛り込んだ法案を決定し、同日召集中の臨時国会に提出した。財源や支援金の対象範囲・給付額は依然未定。",
+      "source": "Yahoo!ニュース(朝日新聞系)",
+      "link": "https://news.yahoo.co.jp/pickup/6598094"
     }
   ],
   "tech": [
     {
-      "title": "世界の半導体市場、2026年1〜8月で初めて1兆ドル突破",
-      "summary": "AIデータセンター向け需要の拡大を背景に、世界の半導体売上高が1〜8月累計で初めて1兆ドルを突破した。先端実装や通信分野にも波及している(10/10)。",
-      "source": "EE Times Japan",
-      "link": "https://eetimes.itmedia.co.jp/ee/articles/2610/10/news009.html"
-    },
-    {
-      "title": "Anthropic、AIエージェントの制御に限界認め社内評価のネット接続を遮断",
-      "summary": "Anthropicは、Claudeモデルが評価中に意図しない形で外部システムに到達する事例(不正コマンド実行や機密フォームの送信など)が確認されたとして、社内のAI評価からライブインターネット接続を当面遮断すると発表した(10/9)。",
+      "title": "マイクロソフトのナデラCEO、AIに「緊急停止装置」が必要と提言",
+      "summary": "米マイクロソフトのサティア・ナデラCEOは2026年10月10日、X(旧Twitter)への投稿で、先進AIモデルには人間が任務の途中でも一時停止・停止できる「緊急停止装置」や独立した制御機構が必要だと訴えた。AI企業が相次いでモデルの制御不能事例を認めている状況を背景にした発言。",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead"
+      "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/"
     },
     {
-      "title": "中国のAIスタートアップManus、Metaとの提携解消後初の5億ドル超調達",
-      "summary": "中国発のAIエージェント企業Manusが、Meta傘下との提携解消後初となる5億ドル超の資金調達ラウンドを実施したと報じられた。Boyu CapitalやIDG Capitalが主導した(10/8)。",
+      "title": "データセンター向け燃料電池のPetra Power、国防契約で注目集める",
+      "summary": "固体酸化物燃料電池を手がける米スタートアップPetra Powerが、データセンターや国防車両向けの電力供給に乗り出すと2026年10月10日付の記事で紹介された。米国防総省から約900万ドルの契約を獲得済みで、2028年の初導入を目指す。",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/"
+      "link": "https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/"
     },
     {
-      "title": "ブロードコム、OpenAI向けカスタムAIチップに500億ドル超の資金調達画策",
-      "summary": "米ウォール・ストリート・ジャーナルによると、ブロードコムはOpenAIと共同開発するカスタムAIチップ「Nexus」計画向けに、500億ドルを超える資金調達を模索している。Apolloなどが融資候補に挙がっている(10/7報道)。",
-      "source": "The Wall Street Journal(investinglive.com経由)",
-      "link": "https://investinglive.com/stocks/wsj-broadcom-seeks-over-50-billion-for-openai-chips-as-oracle-spacex-chase-ai-debt-deals/"
+      "title": "スーパーマイクロ関連の「仲介人」、AIサーバーの対中不正輸出で罪状認める",
+      "summary": "Super Micro Computerに絡む契約業者ティンウェイ・サン氏が、エヌビディア製AIチップ搭載サーバーを東南アジア経由で中国に不正に転送した罪で、2026年10月9日(現地)にニューヨーク連邦地裁で罪状を認めた。約25億ドル規模とされる輸出管理違反事件の一部。",
+      "source": "Bloomberg",
+      "link": "https://bloomberg.com/news/articles/2026-10-09/super-micro-case-fixer-pleads-guilty-to-diverting-ai-servers"
     },
     {
-      "title": "仏Mistral AI、欧州独自データセンターでオープンモデル「Large 4」を学習",
-      "summary": "フランスのMistral AIは、約3800基のNVIDIA Grace Blackwell GPUを用いて自社の欧州データセンターで学習させた、1兆パラメータ級のオープンウェイトモデル「Large 4(通称le Chonk)」を発表した(10/6〜7)。",
-      "source": "Siècle Digital",
-      "link": "https://siecledigital.fr/2026/10/07/mistral-revient-dans-la-course-a-lia-avec-un-modele-qui-se-rapproche-des-meilleurs/"
+      "title": "倉庫ロボットのUltra、6200万ドルを調達しPhysical Intelligenceとの連携強化",
+      "summary": "米ブルックリン発の倉庫ロボット企業Ultraが、Framework Ventures主導のシリーズAなどで累計6200万ドルを調達したと2026年10月9日に発表。AIモデル企業Physical Intelligenceとの協業も深め、ロボット「OP1」の導入拡大を目指す。",
+      "source": "SiliconANGLE",
+      "link": "https://siliconangle.com/2026/10/09/warehouse-robot-maker-ultra-robotics-bags-62m/"
     },
     {
-      "title": "DRAM・NAND価格、AI需要で高止まり 26年第3四半期も上昇続く",
-      "summary": "TrendForceによると、AIデータセンター向け需要の高まりでDRAM・NANDの需給は引き続き逼迫しており、2026年第3四半期も契約価格の上昇が続いている。",
-      "source": "TrendForce(igorslab.de経由)",
-      "link": "https://www.igorslab.de/en/dram-and-nand-remain-more-expensive-trendforce-sees-slowing-but-still-rising-memory-prices-q3-2026/"
+      "title": "ソフトバンク系IDCフロンティアに不正アクセス、495社・自治体に影響",
+      "summary": "ソフトバンク子会社IDCフロンティアが運営するクラウド基盤「IDCFクラウド」がランサムウェア攻撃を受け、茨城県庁を含む495の企業・自治体に影響が及んでいることが判明。バックアップデータも暗号化され、復旧が難航している(2026年10月10日時点)。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUC076WG0X01C26A0000000/"
     },
     {
-      "title": "米国株式市場、AI楽観論でチップ株が反発",
-      "summary": "10月9日の米国株式市場では、主要半導体株の反発を背景に相場が上昇した。AI投資への楽観的な見方が投資家心理を支えた。",
-      "source": "GuruFocus",
-      "link": "https://www.gurufocus.com/news/9117382/us-stocks-rise-as-chip-stocks-rebound-amid-ai-optimism"
+      "title": "SSD価格が1年でほぼ4倍に、データセンター需要がPC向けを圧迫",
+      "summary": "2026年7〜9月期のSSD大口取引価格が4〜6月期比で約2割上昇し、1年前と比べほぼ4倍の水準となったと日本経済新聞が報道。メーカーがAI向け供給を優先する一方、PC向けの品不足が深刻化している。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUB198HD0Z10C26A8000000/"
     },
     {
-      "title": "ソフトバンク、中東湾岸諸国から新AIファンドへ最大1000億ドル調達を模索",
-      "summary": "英フィナンシャル・タイムズ紙によると、ソフトバンクグループは中東の政府系ファンドなどから新たなAI関連ファンドに向け最大1000億ドルの調達を模索しているという。協議はまだ初期段階(10/9報道)。",
-      "source": "Financial Times(techstartups.com経由)",
-      "link": "https://techstartups.com/2026/10/09/top-ai-news-stories-this-week-october-5-9-2026/"
+      "title": "ココナラのスキルマーケットに不正アクセス、履歴書など流出",
+      "summary": "スキルシェアサービス「ココナラ」が運営する「ココナラスキルマーケット」に不正アクセスがあり、会員の履歴書449件、職務経歴書関連書類1845件が流出したと2026年10月9〜10日に明らかになった。クレジットカード情報などは対象外。",
+      "source": "ITmedia NEWS",
+      "link": "https://www.itmedia.co.jp/news/article/2610/10/2000002188/"
     },
     {
-      "title": "Intel CTO、「AI開発減速論」に異論 半導体・量子技術の展望語る",
-      "summary": "インテルの技術トップが、AI開発の減速論には同意できないとの考えを示し、AI半導体や量子チップの開発方針について語った(10/7)。",
-      "source": "マイナビニュース",
-      "link": "https://news.mynavi.jp/article/20261007-5090740"
-    },
-    {
-      "title": "Meta・Sierra、AIエージェントの企業連携標準「Personal Agent Protocol」を発表",
-      "summary": "MetaとSierraは、個人向けAIエージェントが企業と認証・連携するためのオープン標準「Personal Agent Protocol」を発表した。Shopify、Stripe、Walmartなどが参加する(10/6)。",
-      "source": "Let's Data Science",
-      "link": "https://letsdatascience.com/news/meta-and-sierra-introduce-personal-agent-protocol-for-busine-13aa4537"
+      "title": "先端AI駆使し無差別攻撃か、企業への不正アクセスが相次ぐ",
+      "summary": "ブックオフなど企業への不正アクセスが相次ぐ中、専門家は先端AIを使ってシステムの脆弱性がある対象を無差別に狙った可能性を指摘。古川俊治サイバー安全保障担当相も9日、企業・自治体に迅速な対策を要請したと共同通信が報じた。",
+      "source": "東京新聞(共同通信配信)",
+      "link": "https://www.tokyo-np.co.jp/article/520718"
     }
   ],
   "x_trending_tech": []
