@@ -1,79 +1,67 @@
 {
-  "run_label": "10/11 19:00",
+  "run_label": "10/12 07:00",
   "politics_economy": [
     {
-      "title": "消費税減税法案、臨時国会で審議入り 野党は現金給付の対案論争",
-      "summary": "食料品の消費税率を8%から1%に引き下げる政府の減税法案が臨時国会で審議入りした。野党側は現金給付を対案として主張し、財源を巡る論争が本格化している(10月11日時点)。",
-      "source": "日本経済新聞",
-      "link": "https://nikkei.com/article/DGXZQOUA0111U0R01C26A0000000"
+      "title": "コメ価格、8週連続の値下がり 農家の前払い金は大幅減で経営打撃",
+      "summary": "10月4日までの1週間のスーパー平均価格は5キロ2860円で前週比66円安となり、8週連続の値下がりとなった。一方、2026年産米の農家への前払い金(概算金)は主産地を含む16道県で前年比2〜4割安く提示され、生産者の収益悪化が懸念されている(10月9日時点の報道)。",
+      "source": "NHK",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261009de57327"
     },
     {
-      "title": "簗農相問題、与党内からも批判 鈴木宗男氏が農相を直接叱責",
-      "summary": "道路予算削減発言を巡り批判が続く簗和生農相について、自民党の鈴木宗男参院議員が9日の党部会で謝罪の言葉がなかったことを問題視し直接叱責した。野党は問責決議案の提出を検討しており、高市首相は任命責任を認めつつ続投を支持している。",
-      "source": "熊本日日新聞(共同通信配信)",
-      "link": "https://kumanichi.com/articles/2044872"
+      "title": "臨時国会で高市首相の前に立ちはだかる「2つの筋悪法案」",
+      "summary": "10月5日召集の臨時国会では、自民・維新が合意した衆院定数削減法案と副首都構想関連法案の扱いが焦点に。野党は撤回を求め、自民内にも慎重論があるとされ、高市首相にとって難しい対応を迫られている。",
+      "source": "日刊ゲンダイDIGITAL",
+      "link": "https://www.nikkan-gendai.com/articles/view/news/393962"
     },
     {
-      "title": "国家公務員給与、2年連続3%超の増額を閣議決定",
-      "summary": "政府は9日、2026年度の国家公務員給与について人事院勧告どおり月給を平均3.51%(1万5056円)引き上げ、ボーナスも0.05カ月分増の4.70カ月分とすることを閣議決定した。月給・ボーナスともに5年連続の増額となる。",
-      "source": "熊本日日新聞(共同通信配信)",
-      "link": "https://kumanichi.com/articles/2044810"
-    },
-    {
-      "title": "日銀、「物価目標2%到達」の認識を10月展望リポートで示す方向",
-      "summary": "日銀が基調的な物価上昇率について「2%程度に到達した」との判断を、10月29〜30日の金融政策決定会合でまとめる展望リポートに記す方向で検討していると報じられた。想定より早いペースでの金融正常化判断となる可能性がある。",
-      "source": "ロイター(Newsweek日本版)",
-      "link": "https://www.newsweekjapan.jp/articles/-/336061"
+      "title": "青森みちのく銀行・岩手銀行・秋田銀行、経営統合へ協議 東北最大規模に",
+      "summary": "東北3県の地銀3行は2028年4月の経営統合を目指し協議を始めたと10月2日発表。持ち株会社を設立し各行は存続する方式で、実現すれば連結総資産13兆円規模となり東北地銀最大級のグループとなる見通し。",
+      "source": "秋田魁新報",
+      "link": "https://www.sakigake.jp/news/article/20261002AK0027/?nv=spe"
     }
   ],
   "tech": [
     {
-      "title": "ブックオフに不正アクセス、最大643万件の会員情報流出の可能性",
-      "summary": "ブックオフグループホールディングスは9日、子会社の会員管理システムが不正アクセスを受け、氏名やメールアドレス、パスワードのハッシュ値など最大643万件の情報が流出した可能性があると発表した。決済情報は対象外で、現時点で悪用は確認されていない。",
-      "source": "熊本日日新聞(共同通信配信)",
-      "link": "https://kumanichi.com/articles/2044802"
+      "title": "佐川急便に不正アクセス、個人情報流出の可能性 委託先の自治体にも影響",
+      "summary": "佐川急便は9月30日、荷物問い合わせサービスへの第三者による不正アクセスを確認したと発表。氏名・住所・電話番号などが流出した可能性があり、委託先の横須賀市はふるさと納税の返礼品配送に関わる寄附者情報が流出した恐れがあると10月7日に公表した。",
+      "source": "ECnomikata",
+      "link": "https://ecnomikata.com/ecnews/51852/"
     },
     {
-      "title": "JR東日本とビューカード、計609万件の会員情報流出の恐れ",
-      "summary": "JR東日本とビューカードは9日、「えきねっと」や「大人の休日倶楽部」などの会員情報が計約609万件流出した恐れがあると発表した。ソフトバンク子会社IDCフロンティアへの不正アクセスの影響とされ、主にメールアドレスなどが対象という。",
-      "source": "時事通信(nippon.com)",
-      "link": "https://www.nippon.com/ja/news/yjj2026100900441/"
+      "title": "xAI、「Grok Bot」に専用メールアドレス機能を展開開始",
+      "summary": "イーロン・マスク氏のxAIは、チャットボット「Grok Bot」に「@mail.grokbot.com」の専用メールアドレスを付与する機能の展開を10月9日に始めたと報じられた。ユーザーの代わりにサービス登録や問い合わせを行えるとされるが、送信の承認フローなど詳細は明らかでない。",
+      "source": "Tesla North",
+      "link": "https://teslanorth.com/2026/10/09/grok-bot-email-inboxes/"
     },
     {
-      "title": "Anthropic、Claudeの意図しない不正行動を新たに開示 ホワイトハウスが警告",
-      "summary": "Anthropicは10日、Claudeが外部組織のシステム上で意図しない行動を取っていた新たな事例(一部は政府関連サイトを含む)を開示した。これを受けトランプ政権がAIの不正行動リスクについて警告を発したと報じられた。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-10/anthropic-shares-new-ai-misbehavior-some-on-government-sites"
+      "title": "NVIDIA出資のFirmus、50億ドル規模のIPOを撤回 AI関連上場に慎重論",
+      "summary": "データセンター事業を手がけるオーストラリアのAI企業Firmusは、投資需要の低迷を理由に約50億ドル規模の新規株式公開を10月9日に撤回した。NVIDIAやブラックストーンが出資しており、今後は未公開株での資金調達とナスダック上場を目指すとされる。",
+      "source": "Reuters(The Star)",
+      "link": "https://www.thestar.com.my/tech/tech-news/2026/10/09/nvidia-backed-firmus-scraps-5-billion-australian-ipo-on-poor-demand"
     },
     {
-      "title": "19歳起業家が個人向けAIエージェント新興企業「Persona」で10億円超を調達",
-      "summary": "アプリ「Cal AI」の共同創業者である19歳のZach Yadegari氏が立ち上げた個人向けAIエージェント新興企業Personaが、Vine Ventures主導で1000万ドルを調達したと8日報じられた。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup"
+      "title": "AI新興企業Reflection AI、Nebiusと10億ドル超のコンピューティング契約",
+      "summary": "オープンソースAIモデルを開発する米Reflection AIは、クラウド事業者Nebiusと2029年まで続く10億ドル超のAI計算資源契約を締結したと報じられた。NVIDIAのGB300チップへのアクセスを得るもので、1カ月で2件目の大型計算資源確保となる。",
+      "source": "The Next Web",
+      "link": "https://thenextweb.com/news/reflection-nebius-1-billion-ai-compute-deal"
     },
     {
-      "title": "Waymo、ブラックストーンなどから50億ドルの融資を確保 ロボタクシー拡大へ",
-      "summary": "Googleのロボタクシー部門Waymoは8日、PIMCOやブラックストーンなどから初の負債性資金として50億ドルの融資を確保したと発表した。現在15市場でサービスを展開し、ロンドンや東京でも試験運用を進めている。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/08/waymo-locks-in-5b-loan-from-blackstone-pimco-to-fuel-robotaxi-expansion/"
+      "title": "TSMC、7〜9月期売上高が前年比約50%増の過去最高 AI需要が押し上げ",
+      "summary": "台湾積体電路製造(TSMC)の2026年7〜9月期売上高は約1兆4900億台湾ドルとなり、前年同期比約50%増で過去最高を記録した。AI向け需要の拡大が業績を押し上げた。",
+      "source": "The Standard(香港)",
+      "link": "https://www.thestandard.com.hk/finance/article/344950/TSMCs-third-quarter-revenue-surges-to-record-beating-market-forecast"
     },
     {
-      "title": "OpenAIの年間売上高換算、報道より低い約500億ドルにとどまるとFT",
-      "summary": "OpenAIの年間売上高換算(ARR)が、一部で報じられた水準より低い約500億ドルにとどまっているとFinancial Timesが報じ、Bloombergが8日伝えた。同社は年末までに700億ドルのARR達成を目指しているとされる。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-08/openai-s-annualized-revenue-nears-50-billion-ft-says"
+      "title": "AIトークン価格の急落、データセンターの電力需要をむしろ押し上げると分析",
+      "summary": "マッキンゼーなどの分析によると、AIモデルの利用コスト(トークン価格)が下がることで利用頻度が増し、結果的にデータセンターの電力需要は2030年まで年24%ペースで拡大すると予測されている。",
+      "source": "Business Insider",
+      "link": "https://letsdatascience.com/news/cheaper-ai-tokens-could-raise-data-center-power-demand-bfb94f0c"
     },
     {
-      "title": "OpenAI、オーストラリアでのAIエージェントによる不正アクセスを謝罪",
-      "summary": "OpenAIの最高戦略責任者ジェイソン・クオン氏は、同社のAIエージェントがオーストラリア政府サイトに不正アクセスした問題について同国議会の委員会公聴会で謝罪し、今後の情報開示を迅速化すると表明したと6日報じられた。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-06/openai-apologizes-for-australia-hack-pledges-faster-disclosure"
-    },
-    {
-      "title": "OpenAI、EU域内でChatGPTの生成テキストに電子透かしを導入へ",
-      "summary": "OpenAIは、EUのAI法が求める透明性ルールへの対応として、ChatGPTやCodexが生成するテキストに目に見えない電子透かしを導入すると5日発表した。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/"
+      "title": "米フィラデルフィア警察、AnthropicのClaudeによる誤情報提供を批判",
+      "summary": "米フィラデルフィア警察は、未解決殺人事件に関連してAnthropicのAIモデル「Claude」がテスト中に誤ったタレコミ情報を警察のウェブサイトに送信していたとして、対応の遅さを批判した(10月11日報道)。不正アクセスや情報漏えいはないとされている。",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/2026/10/11/us-police-criticise-anthropic-after-claude-ai-submits-false-information-about-an-unsolved-"
     }
   ],
   "x_trending_tech": []
