@@ -1,98 +1,87 @@
 {
-  "run_label": "10/12 19:00",
+  "run_label": "10/13 07:00",
   "politics_economy": [
     {
-      "title": "ノーベル経済学賞、米のロバート・ホール氏とマイケル・ウッドフォード氏に",
-      "summary": "スウェーデン王立科学アカデミーは10月12日、2026年のノーベル経済学賞をマクロ経済の安定化政策に関する業績で米国の経済学者ロバート・ホール氏とマイケル・ウッドフォード氏に授与すると発表した。6つの賞の中で最後に発表される経済学賞で、賞金は1200万スウェーデンクローナ。",
-      "source": "CNN/Japan Times",
-      "link": "https://www.japantimes.co.jp/business/2026/10/12/nobel-economics-prize/"
+      "title": "階幹事長(民主改革の会)「簗農相は潔く辞任を」道路予算削減発言問題、首相は更迭否定で続投へ",
+      "summary": "民主改革の会の階猛幹事長は12日、衆院選で自身を応援しなかった首長がいる自治体の道路予算を削減したと発言した簗和生農相について辞任を求め、辞任しなければ高市首相が更迭すべきだと主張した。簗氏は発言を撤回・謝罪したが辞任は否定し、首相も続投させる考えを示している。",
+      "source": "東京新聞(共同通信)",
+      "link": "https://www.tokyo-np.co.jp/article/521188"
     },
     {
-      "title": "日経平均、3連休前の9日終値は3日続落 米半導体株安が重荷に",
-      "summary": "10月9日(金)の東京株式市場で日経平均株価は前日比11円19銭安の6万9030円92銭で3日続落して取引を終えた。前日の米半導体株(SOX指数)安を受けAI・半導体関連株の一部が売られた。12日はスポーツの日の祝日で東京市場は休場。",
-      "source": "時事通信(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/b10472140f1f278a2fb952d63f315410f71df0f5"
-    },
-    {
-      "title": "簗農相「更迭」を首相が重ねて否定、代表質問で任命責任に言及",
-      "summary": "高市首相は衆参両院の代表質問で、自治体への道路予算をめぐる簗和生農相の不適切発言について更迭を重ねて否定し、「まず本人が適切に説明することが重要」「任命責任は私にある」と答弁した。野党は首相の任命責任を追及している。",
-      "source": "熊本日日新聞(共同通信)",
-      "link": "https://kumanichi.com/articles/2044850"
-    },
-    {
-      "title": "食品の消費税1%への減税法案、今国会での成立目指し与党が調整",
-      "summary": "飲食料品の消費税率を2027年4月から2年間、8%から1%に引き下げる関連法案について、自民・維新両党が了承し、政府は国会提出に向け手続きを進めている。財源は赤字国債に頼らない方針だが、野党は財源の不明確さを批判している。",
-      "source": "熊本日日新聞(共同通信)",
-      "link": "https://kumanichi.com/articles/2041757"
-    },
-    {
-      "title": "衆参予算委員会、13日から首相出席の論戦へ 消費減税の財源が焦点",
-      "summary": "臨時国会の代表質問を終え、13日以降は衆参の予算委員会で高市首相が出席して基本的質疑に入る見通し。食料品の消費税減税の財源をめぐり、与野党の論戦が本格化する(10月8日時点の報道)。",
+      "title": "衆参予算委員会、13日から基本的質疑開始 消費税減税や簗農相発言が焦点に",
+      "summary": "高市首相と全閣僚が出席する衆院予算委員会の基本的質疑が13日・14日の2日間行われる。食料品の消費税減税や経済・財政政策に加え、簗農相の道路予算発言をめぐる論戦が見込まれている(12日時点の報道)。",
       "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261008de56492"
+      "link": "https://news.web.nhk/newsweb/na/nd-20261012de58277"
+    },
+    {
+      "title": "JNN世論調査、高市内閣支持率63.0%(+0.5) 「簗氏擁護」が政権への打撃になるかが焦点",
+      "summary": "TBS系のJNN世論調査(10月3・4日実施)で高市内閣の支持率は63.0%とほぼ横ばい。訪米の成果は6割が評価した一方、簗農相の問題発言への対応を疑問視する声もあり、今後の政権運営への影響が注目されている。",
+      "source": "TBS NEWS DIG",
+      "link": "https://topics.smt.docomo.ne.jp/article/tbs/nation/tbs-3003554"
+    },
+    {
+      "title": "NY株式市場12日まちまち、中東情勢で原油高・ハイテク株に売りが優勢",
+      "summary": "12日のNY株式市場はダウ平均が195.60ドル高の51850.55ドル、ナスダックは120.27ポイント安の27245.90で終了。中東やロシア・ウクライナ情勢の悪化を背景にした原油高への警戒が重荷となった。",
+      "source": "Fisco(ZAIKEI)",
+      "link": "https://www.zaikei.co.jp/article/20261013/873143.html"
+    },
+    {
+      "title": "シカゴ日経平均先物68,410円、NY市場を受け13日の東京市場は様子見ムード",
+      "summary": "13日未明のシカゴ日経平均先物は68,410円で推移。前日のNYダウは続伸したものの、ナスダックは軟調に終わり、13日の東京市場は方向感を欠く展開が予想されている。",
+      "source": "みんかぶ FX/為替ニュース",
+      "link": "https://fx.minkabu.jp/news/381331"
     }
   ],
   "tech": [
     {
-      "title": "OpenAIを解雇された安全性担当研究者3人、公開書簡で反論 OpenAIは「情報管理違反」と説明",
-      "summary": "解雇されたOpenAIの元安全性研究者3人が10月8日に公開書簡を発表し、同僚が「発言を恐れている」実態を訴えた。OpenAIは9日、解雇は安全性への懸念表明とは無関係で、機密情報の取り扱いに関する「明確なポリシー違反」があったと反論した。",
-      "source": "CTV News",
-      "link": "https://www.ctvnews.ca/sci-tech/article/openai-denies-firing-researchers-over-ai-safety-warnings/"
+      "title": "ウェルズ・ファーゴ、Adobeを「Underweight」に格下げ AI予算シェアの低下を指摘",
+      "summary": "ウェルズ・ファーゴのアナリストは12日、企業のAI投資に関する調査結果を基にAdobeの投資判断を「Overweight」から「Underweight」に格下げし、目標株価を270ドルから225ドルに引き下げた。創造性ソフト分野での競争激化や業績目標達成への懸念も理由とされる。",
+      "source": "Benzinga",
+      "link": "https://www.benzinga.com/trading-ideas/movers/26/10/62297901/wells-fargo-downgrades-adobe-to-underweight-says-ai-survey-shows-it-is-losing-budget-share"
     },
     {
-      "title": "Google、新フラッグシップAI「Gemini 4 Argon」を発表 サイバー防衛関係者に先行提供",
-      "summary": "Googleは9月30日、プログラミングや企業業務、サイバーセキュリティ向けの新フラッグシップモデル「Gemini 4 Argon」を発表した。米政府の自主的な事前リリースプログラムを通じ、まずサイバー防衛の関係者に提供し、段階的に展開するとしている。",
-      "source": "TechRepublic",
-      "link": "https://www.techrepublic.com/es/article/news-google-gemini-4-argon-cyber-defenders/"
+      "title": "TSMCのコスト上昇受け、IntelやQualcommがCPU価格引き上げへ AMDも追随の可能性",
+      "summary": "TrendForceの報道によると、TSMCの製造コスト上昇を受けてIntelは一部プロセッサーの価格を最大20%、Qualcommは約10%引き上げるとされ、AMDも追随する可能性があると伝えられている(12日報道)。",
+      "source": "TrendForce",
+      "link": "https://www.trendforce.com/news/2026/10/12/news-cpu-price-hike-wave-intel-reportedly-up-to-20-qualcomm-10-amd-may-join-as-tsmc-costs-climb"
     },
     {
-      "title": "サムスン電子、7-9月期営業利益が過去最高の107兆ウォン超 AI向け半導体需要で前年比782%増",
-      "summary": "サムスン電子は10月8日、2026年7-9月期の速報営業利益が107兆4000億ウォン(約800億ドル)となり、前年同期比782.5%増の過去最高を記録したと発表した。AIデータセンター向けHBM(広帯域メモリ)需要の拡大が業績を押し上げた。",
-      "source": "The Korea Times",
-      "link": "https://www.koreatimes.co.kr/business/companies/20261008/samsung-electronics-estimates-803-bil-in-q3-operating-profit"
+      "title": "Meta、新フロンティアAIモデル「Muse Wonder」を発表 OpenAI・Anthropicに対抗",
+      "summary": "Meta Superintelligence Labsは12日、新モデル「Muse Wonder」「Muse Wonder Full」を発表した。個人・業務向けAIエージェントで最先端の性能を主張し、上位モデルは月額50ドルの「Muse Code」加入者向けに提供される。",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/10/12/meta-muse-wonder-ai-model-agent.html"
     },
     {
-      "title": "Microsoft、CopilotエージェントとDynamics 365を連携させる新機能「Work IQ」のプレビュー開始",
-      "summary": "Microsoftは9月30日から、Copilotやエージェントが企業のDynamics 365・Power Platform上のデータに基づいて回答できるようにする新機能「Work IQ」のプレビュー展開を始めた。10月にかけて段階的に拡大する予定。",
-      "source": "ERP Today",
-      "link": "https://erp.today/microsoft-opens-work-iq-preview-for-dynamics-365-and-power-platform-data/"
+      "title": "Salesforce、Bank of Americaが「Buy」に格上げ AI分析企業Loops買収やAgentforceの成長を評価",
+      "summary": "Bank of Americaは12日、SalesforceをUnderperformからBuyへ格上げし目標株価を160ドルから285ドルに引き上げた。AI分析企業Loopsの買収計画やAgentforceの年間収益が約15億ドル規模で前年比240%成長している点が評価された。",
+      "source": "MarketBeat",
+      "link": "https://www.marketbeat.com/articles/salesforce-just-got-a-rare-double-upgradewhat-changed/"
     },
     {
-      "title": "Google、無料プランのGemini利用モデルを制限へ 10月9日から適用",
-      "summary": "Googleは10月9日から、Google AIサブスクリプションに加入していない無料ユーザーが利用できるGeminiモデルを軽量版「Flash-Lite」のみに制限する変更を開始した。有料プランでは引き続き上位モデルを利用できる。",
-      "source": "Let's Data Science",
-      "link": "https://letsdatascience.com/news/google-limits-gemini-model-access-by-subscription-24b0d7ca"
+      "title": "Google、Geminiアプリに新機能「Skills」を投入開始 「Gems」は段階的にスキルへ移行",
+      "summary": "Googleは13日から、Geminiアプリでよく使う指示を保存して呼び出せる新機能「Skills」の展開を開始する。個人向けの「Gems」は11月から自動的にSkillsへ移行する予定で、Workspace向けは10月5日から先行展開されている。",
+      "source": "ITmedia",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2610/07/news032.html"
     },
     {
-      "title": "サムスン・SK hynix株、世界的な半導体株ラリーから「出遅れ」 Micronは急伸",
-      "summary": "10月12日の報道によると、米Micronなど海外半導体株が大きく上昇する中、サムスン電子・SK hynixの株価上昇は小幅にとどまり、世界的なAI半導体株ラリーから出遅れていると指摘されている。外国人投資家による韓国株売りも背景にあるとされる。",
-      "source": "Seoul Economic Daily",
-      "link": "https://en.sedaily.com/finance/2026/10/12/samsung-sk-hynix-left-behind-in-global-chip-rally"
+      "title": "日本発ロジスティクスロボティクス企業Mujin、シリーズDで評価額10億ドル超に SKスクエアが出資",
+      "summary": "韓国のSKスクエアは、ロボット制御ソフトを手がける日本のMujinのシリーズD資金調達に参加したと報じられた(11日報道)。調達額は600億ウォン超(約4億3500万ドル)で、評価額は10億ドルを超えるとみられている。",
+      "source": "Bloomingbit",
+      "link": "https://en.bloomingbit.io/feed/news/121990"
     },
     {
-      "title": "ASML、韓国向け露光装置の交換部品価格を10%引き上げ サムスン・SK hynixが受け入れ",
-      "summary": "半導体製造装置大手ASMLは、韓国向けに供給する露光装置の交換部品価格を2027年1月から一律10%引き上げる方針を示し、サムスン電子とSKハイニックスが受け入れたと報じられた。AIデータセンター投資の拡大が装置・部品需要を押し上げている。",
-      "source": "TradingKey",
-      "link": "https://tradingkey.com/jp/analysis/stocks/us-stocks/262210029-asml-lithography-parts-price-hike-10-korea-samsung-sk-hynix-tradingkey"
-    },
-    {
-      "title": "オープンソースAI企業Nous Research、シリーズBで9000万ドル調達 評価額15億ドルに",
-      "summary": "AIエージェント「Hermes」を手がける米Nous Researchは、Robot Venturesが主導するシリーズBで9000万ドルを調達したと10月7日発表した。評価額は約15億ドルで、企業向け新サービス「Hermes for Businesses」の展開に資金を充てる。NVIDIAやMicrosoftのM12、Samsungなども出資した。",
-      "source": "CryptoBriefing",
-      "link": "https://cryptobriefing.com/?p=388784"
-    },
-    {
-      "title": "ソフトバンクの孫正義氏、中東勢と最大1000億ドル規模のAIファンド設立へ協議",
-      "summary": "ソフトバンクグループの孫正義会長兼社長は、主にUAEの政府関係者と、既存企業を買収しAI技術で再構築する最大1000億ドル規模の新ファンド設立について予備協議を進めていると、10月9日付のFinancial Times報道として伝えられた。",
-      "source": "Financial Times(報道)",
-      "link": "https://cryptobriefing.com/softbank-100-billion-ai-fund-gulf"
-    },
-    {
-      "title": "Google Labs、チャットで指示するだけでゲームが作れる「Playground」を公開",
-      "summary": "Googleは10月7日、Gemini・Nano Banana・Lyriaなどのモデルを使い、チャット操作だけで2D/3Dのブラウザゲームを作成できる実験的プラットフォーム「Playground」を公開した。現時点では米国の18歳以上のユーザー限定で提供されている。",
-      "source": "GameDeveloper.com",
-      "link": "https://www.gamedeveloper.com/business/google-debuts-new-ai-game-platform-named-google-playground"
+      "title": "Apple、iPhone 18 Proの需要鈍化で部品発注を削減 高価格帯需要の分化が浮上",
+      "summary": "Digitimesの報道(12日)によると、Appleの一部サプライヤーへの10月分部品発注が当初計画から減少しており、iPhone 18 Proの需要鈍化が改めて指摘されている。一方で上位モデルや折り畳み型「iPhone Duo」への需要は底堅いとの見方もある。",
+      "source": "Digitimes",
+      "link": "https://www.digitimes.com/news/a20261012VL210/apple-iphone-demand-launch-component.html"
     }
   ],
-  "x_trending_tech": []
+  "x_trending_tech": [
+    {
+      "title": "Meta AI責任者アレクサンドル・ワン氏、新モデル「Muse Wonder」を自らXで発表",
+      "summary": "Meta Superintelligence Labs責任者のAlexandr Wang氏は10/12、新フロンティアモデル「Muse Wonder」について「我々の最大かつ最も能力の高いモデルで、大手に匹敵する」とXで発表し、話題を呼んだ。",
+      "source": "@alexandr_wang",
+      "link": "https://x.com/alexandr_wang/status/2109689491300794551"
+    }
+  ]
 }
