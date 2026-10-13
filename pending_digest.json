@@ -1,61 +1,79 @@
 {
-  "run_label": "10/13 19:00",
+  "run_label": "10/14 07:00",
   "politics_economy": [
     {
-      "title": "高市首相、簗農相の道路予算発言を「本当にダサイ」と批判 進退は違法性次第で判断",
-      "summary": "13日の衆院予算委員会で高市早苗首相は、自身を支持しなかった首長の自治体で道路予算を削減したと言及した簗和生農相について「不適切で、本当にダサイ」と述べた。進退については「仮に違法性があれば、その時はちゅうちょしない」とし、無料バス送迎問題は「全容が見えない」として説明を先送りした。",
-      "source": "朝日新聞(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/5a6173d77b4739785cca1f1a0885a69d18c4acaa"
+      "title": "高市首相、簗農水相と14日面会へ「違法性あれば、ちゅうちょしない」",
+      "summary": "高市早苗首相は13日、道路予算カット発言をした簗和生農水相について、14日の衆院予算委員会終了後に面会し説明を聞く意向を示した。支持者のシャトルバス無料送迎が公選法に違反していた場合は「ちゅうちょしない」と進退に関わる可能性に言及した。",
+      "source": "共同通信(dメニューニュース)",
+      "link": "https://topics.smt.docomo.ne.jp/amp/article/kyodo_nor/politics/kyodo_nor-2026101301000381"
     },
     {
-      "title": "衆院予算委員会が13日開会、野党は消費税減税の財源・効果と簗農相問題を追及",
-      "summary": "高市首相と全閣僚が出席する衆院予算委員会の基本的質疑が13、14日の日程で始まった。野党は飲食料品の消費税率を8%から1%に引き下げる法案の財源や効果を問うとともに、簗農相の問題発言についても追及する方針。",
-      "source": "熊本日日新聞(共同通信)",
-      "link": "https://kumanichi.com/articles/2045568"
+      "title": "都営地下鉄の保守工事談合、5社に排除措置命令へ 課徴金5億円",
+      "summary": "公正取引委員会は13日、都営地下鉄などの軌道保守工事で6社が談合を繰り返していたと認定し、東鉄工業など5社に排除措置命令、合計約5億円の課徴金納付を命じる方針を明らかにした。対象は地下鉄4路線と都電荒川線、日暮里・舎人ライナー。",
+      "source": "NHK",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261013de58875"
     },
     {
-      "title": "東京株式13日大引け、日経平均4日続落1253円安の6万7777円 米半導体株安響く",
-      "summary": "13日の東京株式市場で日経平均株価は前営業日比1253円40銭安の6万7777円53銭と4日続落し、終値ベースで9月30日以来の6万8000円割れとなった。前日の米半導体株安を受けAI・半導体関連株が売られた一方、TOPIXは5.86ポイント高の4110.67と続伸した。",
-      "source": "ウエルスアドバイザー(Yahoo!ファイナンス)",
-      "link": "https://finance.yahoo.co.jp/news/detail/02f5a4cf1e6e6e2c2e742f85806585a8ad73beae"
+      "title": "PayPay証券、外部接続先の障害で日本株取引を全面停止",
+      "summary": "PayPay証券は13日、外部の接続先で発生した障害により日本株とETFの全銘柄の取引を停止したと発表した。14日の予約注文も停止しており、復旧の見通しは立っていないという。",
+      "source": "Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/pickup/6598630"
     }
   ],
   "tech": [
     {
-      "title": "AIエージェントで企業間の請求書紛争を自動処理するCausa Prima、2000万ドルを調達",
-      "summary": "AIエージェントを使い企業間の請求書・支払いトラブルを自動で解決するスタートアップCausa Primaが、2000万ドルの資金調達を発表した(10/13)。Base10 Partnersが主導し、QED InvestorsやFJ Labsなどが参加した。",
-      "source": "Fortune",
-      "link": "https://fortune.com/2026/10/13/startup-causa-prima-20-million-billing-disputes-ai-agents"
+      "title": "OpenAI社員、会議室に隠しレコーダー設置の疑いでFBIに逮捕",
+      "summary": "OpenAIは従業員が幹部会議室に隠しレコーダーを設置した疑いがあるとしてFBIに通報し、当該従業員は10月9日に解雇・逮捕されたと13日報じられた。同社はモデルの重みやソースコード、顧客データへのアクセスがあった証拠はないとしている。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room"
     },
     {
-      "title": "AI関連半導体株が4日続落、OCPサミットでAMD・NvidiaがオープンAIラック仕様を発表も市場は警戒",
-      "summary": "12日の米株式市場でAI関連半導体株が4営業日続落した。OpenAIの収益や高金利環境への警戒が背景とされる一方、同日開幕のOCPサミットではAMDが「Helios」ラック、NvidiaがMetaやGoogleと「Vera Rubin」ラック仕様を共有するなど新たなオープンハードウェア設計が披露された。",
-      "source": "BigGo Finance",
-      "link": "https://finance.biggo.com/news/4295572a-9330-4e28-9f69-8ae7343e80f8"
+      "title": "対話型AIのCharacter.AI、設立5年で破産申請",
+      "summary": "キャラクター型チャットボットサービスのCharacter.AIが破産を申請したと13日報じられた。ユーザー数や企業価値の大幅な低下、高額なインフラコストが背景とされる。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy"
     },
     {
-      "title": "AMD、192GBメモリ搭載の開発者向けAI PC「Ryzen AI Halo」を7299ドルで発売",
-      "summary": "AMDは「Ryzen AI Max+ PRO 495」搭載の開発者向けAI PC「Ryzen AI Halo」を、192GBメモリ構成・7299.99ドルで発売した(12日)。5月に発表していた強化版プラットフォームの市場投入となる。",
-      "source": "VideoCardz",
-      "link": "https://videocardz.com/newz/amd-ryzen-ai-halo-with-ryzen-ai-max-pro-495-launches-at-7299-with-192gb-memory"
+      "title": "アップル、Siri AI搭載の新型Apple TV 4Kを発表 価格299ドル",
+      "summary": "アップルは13日、Siri AIとリモコン不要の音声操作に対応した新型Apple TV 4K(299ドル)を発表した。予約受付を開始し、11月13日に発売予定。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/13/apple-launches-a-new-apple-tv-4k-with-siri-ai-and-remote-free-commands"
     },
     {
-      "title": "GitHub Actionsの認証情報を狙う攻撃「GhostAction」再来、340超のリポジトリに影響",
-      "summary": "2人のメンテナー権限が乗っ取られ、セキュリティ監査を装う悪意あるワークフローが短時間で340超のリポジトリに注入された。認証情報を外部サーバーへ平文で送信する手口で、同種のコミットを行ったアカウントは500超に上るとの指摘もある。",
+      "title": "アップル、新チップ搭載でHomePod miniを刷新 価格149ドルに",
+      "summary": "アップルは13日、新チップ「S10」を搭載したHomePod miniを刷新し価格は149ドルとなった。10月30日発売予定で、音に合わせて光る新機能「SoundGlow」なども追加された。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/13/apple-refreshes-its-homepod-mini-with-a-new-chip-and-149-price-tag/"
+    },
+    {
+      "title": "Apple対OpenAI訴訟、米判事がOpenAIに採用関連記録の開示を命令",
+      "summary": "アップルがOpenAIを相手に起こした企業秘密訴訟で、連邦判事はOpenAIに採用関連資料の一部開示を命じたと13日報じられた。アップル側のより広範な請求の一部は認められなかった。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case"
+    },
+    {
+      "title": "Facebook、言葉でフィードを調整できる新機能「Your Algorithm」を導入",
+      "summary": "Metaは13日、Facebookのフィードを自然言語の指示でカスタマイズできる新機能「Your Algorithm」を発表した。先行して導入していたInstagramに次ぐ展開となる。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm"
+    },
+    {
+      "title": "Ivanti Connect Secure、3件のゼロデイ連鎖でroot権限奪取の被害確認",
+      "summary": "Ivanti Connect Secureに存在する3件のゼロデイ脆弱性を連鎖させてroot権限を奪取する手口が確認された。Ivantiは13日、2件は修正済みだが1件は未パッチのままで、実際の悪用を把握していると明らかにした。",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/credential-stealing-github-actions.html"
+      "link": "https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html"
     },
     {
-      "title": "DeepSeek、中国のロボットAIスタートアップへ出資 評価額4億ドルの資金調達を主導",
-      "summary": "中国のAI企業DeepSeekが、ロボティクス分野のAIスタートアップを対象とする資金調達ラウンドを主導し、同社の評価額は4億ドルとされると報じられた(12日報道)。",
-      "source": "Crypto Briefing",
-      "link": "https://cryptobriefing.com/deepseek-leads-robot-ai-startup-funding"
+      "title": "Atlassian Data Centerの重大脆弱性、詳細公開から2時間で攻撃開始",
+      "summary": "Jira・Confluence・Bitbucketなど複数のAtlassian製品に影響する認証不要の重大脆弱性が、技術詳細の公開からわずか2時間以内に実際の攻撃に悪用され始めたと報じられた。",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/atlassian-data-center-flaw-draws.html"
     },
     {
-      "title": "Galaxy S27 Ultra、独自Exynosを見送りSnapdragon独占搭載へ 内部情報が示唆",
-      "summary": "サムスンの次期フラッグシップ「Galaxy S27 Ultra」は自社製Exynos 2700を採用せず、Snapdragon 8 Elite Extreme Gen 6に一本化される可能性が高いとの観測が報じられた。標準モデルにはExynosが搭載されるとみられる。",
-      "source": "Andro-News",
-      "link": "https://andro-news.com/en/galaxy-s27-ultra-to-skip-exynos-2700-insiders-reveal-samsungs-chipset-plans"
+      "title": "偽Cloudflare確認ページ経由で情報窃取マルウェア拡散、100超のサイトが改ざん被害",
+      "summary": "偽のCloudflare確認ページを使って情報窃取型マルウェア「LunexStealer」を配布する攻撃により、100以上のウェブサイトが改ざんされていたことが判明したと報じられた。",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/100-compromised-websites-use-fake.html"
     }
   ],
   "x_trending_tech": []
