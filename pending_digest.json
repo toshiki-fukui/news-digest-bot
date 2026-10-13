@@ -1,87 +1,62 @@
 {
-  "run_label": "10/13 07:00",
+  "run_label": "10/13 19:00",
   "politics_economy": [
     {
-      "title": "階幹事長(民主改革の会)「簗農相は潔く辞任を」道路予算削減発言問題、首相は更迭否定で続投へ",
-      "summary": "民主改革の会の階猛幹事長は12日、衆院選で自身を応援しなかった首長がいる自治体の道路予算を削減したと発言した簗和生農相について辞任を求め、辞任しなければ高市首相が更迭すべきだと主張した。簗氏は発言を撤回・謝罪したが辞任は否定し、首相も続投させる考えを示している。",
-      "source": "東京新聞(共同通信)",
-      "link": "https://www.tokyo-np.co.jp/article/521188"
+      "title": "高市首相、簗農相の道路予算発言を「本当にダサイ」と批判 進退は違法性次第で判断",
+      "summary": "13日の衆院予算委員会で高市早苗首相は、自身を支持しなかった首長の自治体で道路予算を削減したと言及した簗和生農相について「不適切で、本当にダサイ」と述べた。進退については「仮に違法性があれば、その時はちゅうちょしない」とし、無料バス送迎問題は「全容が見えない」として説明を先送りした。",
+      "source": "朝日新聞(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/5a6173d77b4739785cca1f1a0885a69d18c4acaa"
     },
     {
-      "title": "衆参予算委員会、13日から基本的質疑開始 消費税減税や簗農相発言が焦点に",
-      "summary": "高市首相と全閣僚が出席する衆院予算委員会の基本的質疑が13日・14日の2日間行われる。食料品の消費税減税や経済・財政政策に加え、簗農相の道路予算発言をめぐる論戦が見込まれている(12日時点の報道)。",
-      "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261012de58277"
+      "title": "衆院予算委員会が13日開会、野党は消費税減税の財源・効果と簗農相問題を追及",
+      "summary": "高市首相と全閣僚が出席する衆院予算委員会の基本的質疑が13、14日の日程で始まった。野党は飲食料品の消費税率を8%から1%に引き下げる法案の財源や効果を問うとともに、簗農相の問題発言についても追及する方針。",
+      "source": "熊本日日新聞(共同通信)",
+      "link": "https://kumanichi.com/articles/2045568"
     },
     {
-      "title": "JNN世論調査、高市内閣支持率63.0%(+0.5) 「簗氏擁護」が政権への打撃になるかが焦点",
-      "summary": "TBS系のJNN世論調査(10月3・4日実施)で高市内閣の支持率は63.0%とほぼ横ばい。訪米の成果は6割が評価した一方、簗農相の問題発言への対応を疑問視する声もあり、今後の政権運営への影響が注目されている。",
-      "source": "TBS NEWS DIG",
-      "link": "https://topics.smt.docomo.ne.jp/article/tbs/nation/tbs-3003554"
-    },
-    {
-      "title": "NY株式市場12日まちまち、中東情勢で原油高・ハイテク株に売りが優勢",
-      "summary": "12日のNY株式市場はダウ平均が195.60ドル高の51850.55ドル、ナスダックは120.27ポイント安の27245.90で終了。中東やロシア・ウクライナ情勢の悪化を背景にした原油高への警戒が重荷となった。",
-      "source": "Fisco(ZAIKEI)",
-      "link": "https://www.zaikei.co.jp/article/20261013/873143.html"
-    },
-    {
-      "title": "シカゴ日経平均先物68,410円、NY市場を受け13日の東京市場は様子見ムード",
-      "summary": "13日未明のシカゴ日経平均先物は68,410円で推移。前日のNYダウは続伸したものの、ナスダックは軟調に終わり、13日の東京市場は方向感を欠く展開が予想されている。",
-      "source": "みんかぶ FX/為替ニュース",
-      "link": "https://fx.minkabu.jp/news/381331"
+      "title": "東京株式13日大引け、日経平均4日続落1253円安の6万7777円 米半導体株安響く",
+      "summary": "13日の東京株式市場で日経平均株価は前営業日比1253円40銭安の6万7777円53銭と4日続落し、終値ベースで9月30日以来の6万8000円割れとなった。前日の米半導体株安を受けAI・半導体関連株が売られた一方、TOPIXは5.86ポイント高の4110.67と続伸した。",
+      "source": "ウエルスアドバイザー(Yahoo!ファイナンス)",
+      "link": "https://finance.yahoo.co.jp/news/detail/02f5a4cf1e6e6e2c2e742f85806585a8ad73beae"
     }
   ],
   "tech": [
     {
-      "title": "ウェルズ・ファーゴ、Adobeを「Underweight」に格下げ AI予算シェアの低下を指摘",
-      "summary": "ウェルズ・ファーゴのアナリストは12日、企業のAI投資に関する調査結果を基にAdobeの投資判断を「Overweight」から「Underweight」に格下げし、目標株価を270ドルから225ドルに引き下げた。創造性ソフト分野での競争激化や業績目標達成への懸念も理由とされる。",
-      "source": "Benzinga",
-      "link": "https://www.benzinga.com/trading-ideas/movers/26/10/62297901/wells-fargo-downgrades-adobe-to-underweight-says-ai-survey-shows-it-is-losing-budget-share"
+      "title": "AIエージェントで企業間の請求書紛争を自動処理するCausa Prima、2000万ドルを調達",
+      "summary": "AIエージェントを使い企業間の請求書・支払いトラブルを自動で解決するスタートアップCausa Primaが、2000万ドルの資金調達を発表した(10/13)。Base10 Partnersが主導し、QED InvestorsやFJ Labsなどが参加した。",
+      "source": "Fortune",
+      "link": "https://fortune.com/2026/10/13/startup-causa-prima-20-million-billing-disputes-ai-agents"
     },
     {
-      "title": "TSMCのコスト上昇受け、IntelやQualcommがCPU価格引き上げへ AMDも追随の可能性",
-      "summary": "TrendForceの報道によると、TSMCの製造コスト上昇を受けてIntelは一部プロセッサーの価格を最大20%、Qualcommは約10%引き上げるとされ、AMDも追随する可能性があると伝えられている(12日報道)。",
-      "source": "TrendForce",
-      "link": "https://www.trendforce.com/news/2026/10/12/news-cpu-price-hike-wave-intel-reportedly-up-to-20-qualcomm-10-amd-may-join-as-tsmc-costs-climb"
+      "title": "AI関連半導体株が4日続落、OCPサミットでAMD・NvidiaがオープンAIラック仕様を発表も市場は警戒",
+      "summary": "12日の米株式市場でAI関連半導体株が4営業日続落した。OpenAIの収益や高金利環境への警戒が背景とされる一方、同日開幕のOCPサミットではAMDが「Helios」ラック、NvidiaがMetaやGoogleと「Vera Rubin」ラック仕様を共有するなど新たなオープンハードウェア設計が披露された。",
+      "source": "BigGo Finance",
+      "link": "https://finance.biggo.com/news/4295572a-9330-4e28-9f69-8ae7343e80f8"
     },
     {
-      "title": "Meta、新フロンティアAIモデル「Muse Wonder」を発表 OpenAI・Anthropicに対抗",
-      "summary": "Meta Superintelligence Labsは12日、新モデル「Muse Wonder」「Muse Wonder Full」を発表した。個人・業務向けAIエージェントで最先端の性能を主張し、上位モデルは月額50ドルの「Muse Code」加入者向けに提供される。",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/10/12/meta-muse-wonder-ai-model-agent.html"
+      "title": "AMD、192GBメモリ搭載の開発者向けAI PC「Ryzen AI Halo」を7299ドルで発売",
+      "summary": "AMDは「Ryzen AI Max+ PRO 495」搭載の開発者向けAI PC「Ryzen AI Halo」を、192GBメモリ構成・7299.99ドルで発売した(12日)。5月に発表していた強化版プラットフォームの市場投入となる。",
+      "source": "VideoCardz",
+      "link": "https://videocardz.com/newz/amd-ryzen-ai-halo-with-ryzen-ai-max-pro-495-launches-at-7299-with-192gb-memory"
     },
     {
-      "title": "Salesforce、Bank of Americaが「Buy」に格上げ AI分析企業Loops買収やAgentforceの成長を評価",
-      "summary": "Bank of Americaは12日、SalesforceをUnderperformからBuyへ格上げし目標株価を160ドルから285ドルに引き上げた。AI分析企業Loopsの買収計画やAgentforceの年間収益が約15億ドル規模で前年比240%成長している点が評価された。",
-      "source": "MarketBeat",
-      "link": "https://www.marketbeat.com/articles/salesforce-just-got-a-rare-double-upgradewhat-changed/"
+      "title": "GitHub Actionsの認証情報を狙う攻撃「GhostAction」再来、340超のリポジトリに影響",
+      "summary": "2人のメンテナー権限が乗っ取られ、セキュリティ監査を装う悪意あるワークフローが短時間で340超のリポジトリに注入された。認証情報を外部サーバーへ平文で送信する手口で、同種のコミットを行ったアカウントは500超に上るとの指摘もある。",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/credential-stealing-github-actions.html"
     },
     {
-      "title": "Google、Geminiアプリに新機能「Skills」を投入開始 「Gems」は段階的にスキルへ移行",
-      "summary": "Googleは13日から、Geminiアプリでよく使う指示を保存して呼び出せる新機能「Skills」の展開を開始する。個人向けの「Gems」は11月から自動的にSkillsへ移行する予定で、Workspace向けは10月5日から先行展開されている。",
-      "source": "ITmedia",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2610/07/news032.html"
+      "title": "DeepSeek、中国のロボットAIスタートアップへ出資 評価額4億ドルの資金調達を主導",
+      "summary": "中国のAI企業DeepSeekが、ロボティクス分野のAIスタートアップを対象とする資金調達ラウンドを主導し、同社の評価額は4億ドルとされると報じられた(12日報道)。",
+      "source": "Crypto Briefing",
+      "link": "https://cryptobriefing.com/deepseek-leads-robot-ai-startup-funding"
     },
     {
-      "title": "日本発ロジスティクスロボティクス企業Mujin、シリーズDで評価額10億ドル超に SKスクエアが出資",
-      "summary": "韓国のSKスクエアは、ロボット制御ソフトを手がける日本のMujinのシリーズD資金調達に参加したと報じられた(11日報道)。調達額は600億ウォン超(約4億3500万ドル)で、評価額は10億ドルを超えるとみられている。",
-      "source": "Bloomingbit",
-      "link": "https://en.bloomingbit.io/feed/news/121990"
-    },
-    {
-      "title": "Apple、iPhone 18 Proの需要鈍化で部品発注を削減 高価格帯需要の分化が浮上",
-      "summary": "Digitimesの報道(12日)によると、Appleの一部サプライヤーへの10月分部品発注が当初計画から減少しており、iPhone 18 Proの需要鈍化が改めて指摘されている。一方で上位モデルや折り畳み型「iPhone Duo」への需要は底堅いとの見方もある。",
-      "source": "Digitimes",
-      "link": "https://www.digitimes.com/news/a20261012VL210/apple-iphone-demand-launch-component.html"
+      "title": "Galaxy S27 Ultra、独自Exynosを見送りSnapdragon独占搭載へ 内部情報が示唆",
+      "summary": "サムスンの次期フラッグシップ「Galaxy S27 Ultra」は自社製Exynos 2700を採用せず、Snapdragon 8 Elite Extreme Gen 6に一本化される可能性が高いとの観測が報じられた。標準モデルにはExynosが搭載されるとみられる。",
+      "source": "Andro-News",
+      "link": "https://andro-news.com/en/galaxy-s27-ultra-to-skip-exynos-2700-insiders-reveal-samsungs-chipset-plans"
     }
   ],
-  "x_trending_tech": [
-    {
-      "title": "Meta AI責任者アレクサンドル・ワン氏、新モデル「Muse Wonder」を自らXで発表",
-      "summary": "Meta Superintelligence Labs責任者のAlexandr Wang氏は10/12、新フロンティアモデル「Muse Wonder」について「我々の最大かつ最も能力の高いモデルで、大手に匹敵する」とXで発表し、話題を呼んだ。",
-      "source": "@alexandr_wang",
-      "link": "https://x.com/alexandr_wang/status/2109689491300794551"
-    }
-  ]
+  "x_trending_tech": []
 }
