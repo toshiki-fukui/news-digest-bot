@@ -1,79 +1,79 @@
 {
-  "run_label": "10/14 07:00",
+  "run_label": "10/14 19:00",
   "politics_economy": [
     {
-      "title": "高市首相、簗農水相と14日面会へ「違法性あれば、ちゅうちょしない」",
-      "summary": "高市早苗首相は13日、道路予算カット発言をした簗和生農水相について、14日の衆院予算委員会終了後に面会し説明を聞く意向を示した。支持者のシャトルバス無料送迎が公選法に違反していた場合は「ちゅうちょしない」と進退に関わる可能性に言及した。",
-      "source": "共同通信(dメニューニュース)",
-      "link": "https://topics.smt.docomo.ne.jp/amp/article/kyodo_nor/politics/kyodo_nor-2026101301000381"
+      "title": "簗農水相の進退問題、高市首相「違反と確信持てず」衆院予算委で答弁",
+      "summary": "高市早苗首相は14日の衆院予算委員会で、道路予算カット発言をした簗和生農水相の進退について「今確信を持って違反だと申し上げることはできない」と述べ、本人に説明責任を果たすよう促した。13日夜に簗氏本人から電話で事情を聴いたことも明らかにした。",
+      "source": "日本経済新聞",
+      "link": "https://nikkei.com/article/DGXZQOUA13B7F0T11C26A0000000"
     },
     {
-      "title": "都営地下鉄の保守工事談合、5社に排除措置命令へ 課徴金5億円",
-      "summary": "公正取引委員会は13日、都営地下鉄などの軌道保守工事で6社が談合を繰り返していたと認定し、東鉄工業など5社に排除措置命令、合計約5億円の課徴金納付を命じる方針を明らかにした。対象は地下鉄4路線と都電荒川線、日暮里・舎人ライナー。",
-      "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261013de58875"
+      "title": "高市首相、簗農相の進退に言及「違法性あれば即断」",
+      "summary": "高市首相は13日の衆院予算委員会で、簗和生農水相の道路予算カット発言について「不適切で本当にダサい」と述べ、公選法違反が確認されれば更迭を即断する考えを示唆した。野党側は簗氏の自発的辞任を求めている。",
+      "source": "時事通信",
+      "link": "https://www.jiji.com/jc/article?k=2026101300638&g=pol"
     },
     {
-      "title": "PayPay証券、外部接続先の障害で日本株取引を全面停止",
-      "summary": "PayPay証券は13日、外部の接続先で発生した障害により日本株とETFの全銘柄の取引を停止したと発表した。14日の予約注文も停止しており、復旧の見通しは立っていないという。",
-      "source": "Yahoo!ニュース",
-      "link": "https://news.yahoo.co.jp/pickup/6598630"
+      "title": "高市首相「新たな給付、画期的な意義」 金額・要件は明言せず",
+      "summary": "高市首相は13日の衆院予算委員会で、食料品の消費税減税と併せて導入を目指す新たな給付制度について「画期的な意義を有する」と強調した一方、支給額や対象要件については明言を避けた。",
+      "source": "時事通信",
+      "link": "https://www.jiji.com/jc/article?k=2026101300630&g=pol"
+    },
+    {
+      "title": "階幹事長「簗農相は潔く辞任を」 道路予算削減発言巡り",
+      "summary": "民主改革の会の階猛幹事長は、道路予算の削減に言及した簗和生農水相について「潔く辞任すべきだ」と述べた。自民党内からも更迭論が出ており、与野党の攻防が続いている。",
+      "source": "熊本日日新聞(共同通信)",
+      "link": "https://kumanichi.com/articles/2045767"
+    },
+    {
+      "title": "東京株式市場、日経平均33円安で5日続落 ASML決算後に半導体株が急失速",
+      "summary": "14日の東京株式市場で日経平均株価は前日比33円安の6万7744円で取引を終え、5営業日続落した。好決算期待で買われていた東京エレクトロンやレーザーテックなど半導体関連株が、オランダASMLの決算発表後に軒並み急落し、相場の重荷となった。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOFL141FXTU6A011C2000000/"
     }
   ],
   "tech": [
     {
-      "title": "OpenAI社員、会議室に隠しレコーダー設置の疑いでFBIに逮捕",
-      "summary": "OpenAIは従業員が幹部会議室に隠しレコーダーを設置した疑いがあるとしてFBIに通報し、当該従業員は10月9日に解雇・逮捕されたと13日報じられた。同社はモデルの重みやソースコード、顧客データへのアクセスがあった証拠はないとしている。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room"
+      "title": "Microsoft、独自AIチップ「Maia 300」発表 Nvidia・AMD依存の脱却へ",
+      "summary": "Microsoftは自社開発の次世代AIアクセラレータ「Maia 300」を発表した。推論向けに最適化され、既存のGPUベースのシステムに比べ1ワットあたり最大40%多くのAIトークンを処理できるとし、2027年からデータセンターへの投入を計画している(13日発表)。",
+      "source": "Axios",
+      "link": "https://www.axios.com/2026/10/13/big-tech-ai-chips-nvidia-rivals"
     },
     {
-      "title": "対話型AIのCharacter.AI、設立5年で破産申請",
-      "summary": "キャラクター型チャットボットサービスのCharacter.AIが破産を申請したと13日報じられた。ユーザー数や企業価値の大幅な低下、高額なインフラコストが背景とされる。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy"
+      "title": "ASML、7-9月期決算を発表 純売上高117億ユーロ・純利益50億ユーロ",
+      "summary": "半導体露光装置大手オランダASMLは14日、2026年7-9月期決算を発表し、純売上高は117億ユーロ、純利益は50億ユーロとなった。10-12月期の売上高見通しは142億~152億ユーロとしている。",
+      "source": "ASML(決算発表)",
+      "link": "https://www.sec.gov/Archives/edgar/data/0000937966/000162828026065813/pressreleasefinancialresul.htm"
     },
     {
-      "title": "アップル、Siri AI搭載の新型Apple TV 4Kを発表 価格299ドル",
-      "summary": "アップルは13日、Siri AIとリモコン不要の音声操作に対応した新型Apple TV 4K(299ドル)を発表した。予約受付を開始し、11月13日に発売予定。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/13/apple-launches-a-new-apple-tv-4k-with-siri-ai-and-remote-free-commands"
+      "title": "韓国半導体株が急落 中国メモリー大手との競争懸念とBroadcom発言で",
+      "summary": "13日の韓国市場で半導体株が大幅安となり、一時7%超下落する場面があった。中国の新興メモリーメーカーとの競争激化への懸念に加え、Broadcom関連の発言も投資家心理を冷やし、サムスン電子やSKハイニックスの株価が大きく下落した。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-13/korean-chip-stocks-sink-on-chinese-rival-worry-broadcom-remarks"
     },
     {
-      "title": "アップル、新チップ搭載でHomePod miniを刷新 価格149ドルに",
-      "summary": "アップルは13日、新チップ「S10」を搭載したHomePod miniを刷新し価格は149ドルとなった。10月30日発売予定で、音に合わせて光る新機能「SoundGlow」なども追加された。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/13/apple-refreshes-its-homepod-mini-with-a-new-chip-and-149-price-tag/"
+      "title": "AIトレードに陰り、メモリー半導体株が急落",
+      "summary": "米同業株の下落も加わり、13日はメモリー半導体株が軒並み急落した。中国勢との競争激化や金利上昇、AIインフラ投資の巨額コストへの懸念がAI関連株全体の重荷になっているとBloombergが報じた。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-13/cracks-grow-across-the-ai-trade-as-memory-chip-stocks-tumble"
     },
     {
-      "title": "Apple対OpenAI訴訟、米判事がOpenAIに採用関連記録の開示を命令",
-      "summary": "アップルがOpenAIを相手に起こした企業秘密訴訟で、連邦判事はOpenAIに採用関連資料の一部開示を命じたと13日報じられた。アップル側のより広範な請求の一部は認められなかった。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case"
+      "title": "米国株式市場、ナスダック続落 半導体株安続く・銀行決算まちまち",
+      "summary": "13日の米国株式市場ではナスダック総合指数が続落し、フィラデルフィア半導体指数(SOX)は5営業日続落した。シティグループなど大手銀行の四半期決算はまちまちな結果となった。",
+      "source": "ロイター(Newsweek日本版)",
+      "link": "https://www.newsweekjapan.jp/articles/-/336788"
     },
     {
-      "title": "Facebook、言葉でフィードを調整できる新機能「Your Algorithm」を導入",
-      "summary": "Metaは13日、Facebookのフィードを自然言語の指示でカスタマイズできる新機能「Your Algorithm」を発表した。先行して導入していたInstagramに次ぐ展開となる。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm"
+      "title": "OpenAI、セーフティ研究者3人を解雇 機密情報の取り扱いを巡り対立",
+      "summary": "OpenAIは社内方針に違反して機密情報を外部に共有したとして、セーフティ研究者3人を解雇したと報じられた。当事者側は安全性への懸念を提起したことへの報復だと主張しており、OpenAIはこれを否定している。",
+      "source": "eSecurity Planet",
+      "link": "https://www.esecurityplanet.com/news/news-openai-fires-safety-researchers-confidential-information"
     },
     {
-      "title": "Ivanti Connect Secure、3件のゼロデイ連鎖でroot権限奪取の被害確認",
-      "summary": "Ivanti Connect Secureに存在する3件のゼロデイ脆弱性を連鎖させてroot権限を奪取する手口が確認された。Ivantiは13日、2件は修正済みだが1件は未パッチのままで、実際の悪用を把握していると明らかにした。",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html"
-    },
-    {
-      "title": "Atlassian Data Centerの重大脆弱性、詳細公開から2時間で攻撃開始",
-      "summary": "Jira・Confluence・Bitbucketなど複数のAtlassian製品に影響する認証不要の重大脆弱性が、技術詳細の公開からわずか2時間以内に実際の攻撃に悪用され始めたと報じられた。",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/atlassian-data-center-flaw-draws.html"
-    },
-    {
-      "title": "偽Cloudflare確認ページ経由で情報窃取マルウェア拡散、100超のサイトが改ざん被害",
-      "summary": "偽のCloudflare確認ページを使って情報窃取型マルウェア「LunexStealer」を配布する攻撃により、100以上のウェブサイトが改ざんされていたことが判明したと報じられた。",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/100-compromised-websites-use-fake.html"
+      "title": "Anthropic、11月のIPOを目指す 評価額2兆ドル規模との報道",
+      "summary": "Anthropicが感謝祭(11月26日)前の上場を目指し、11月第2週にも正式な売り出し手続きを始める可能性があると報じられた。想定評価額は約2兆ドルとされ、実現すれば過去最大級のテック企業IPOとなる見通し。",
+      "source": "Bloomberg Law",
+      "link": "https://news.bgov.com/banking-law/anthropic-said-to-target-mega-ipo-before-thanksgiving-holiday"
     }
   ],
   "x_trending_tech": []
