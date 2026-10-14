@@ -1,79 +1,67 @@
 {
-  "run_label": "10/14 19:00",
+  "run_label": "10/15 07:00",
   "politics_economy": [
     {
-      "title": "簗農水相の進退問題、高市首相「違反と確信持てず」衆院予算委で答弁",
-      "summary": "高市早苗首相は14日の衆院予算委員会で、道路予算カット発言をした簗和生農水相の進退について「今確信を持って違反だと申し上げることはできない」と述べ、本人に説明責任を果たすよう促した。13日夜に簗氏本人から電話で事情を聴いたことも明らかにした。",
-      "source": "日本経済新聞",
-      "link": "https://nikkei.com/article/DGXZQOUA13B7F0T11C26A0000000"
+      "title": "高市首相、簗農相に説明要求 「バス無料送迎」疑惑めぐり判断留保",
+      "summary": "衆院予算委員会で、簗和生農相の選挙区での支持者無料送迎バスが公選法に抵触するかを野党が追及。高市首相は違法性の判断を留保し、簗氏に説明を尽くすよう求めた(10/14)。",
+      "source": "Yahoo!ニュース(時事通信)",
+      "link": "https://news.yahoo.co.jp/articles/3b723169c822e1c5ea71dcadd2c9e24bacce6862"
     },
     {
-      "title": "高市首相、簗農相の進退に言及「違法性あれば即断」",
-      "summary": "高市首相は13日の衆院予算委員会で、簗和生農水相の道路予算カット発言について「不適切で本当にダサい」と述べ、公選法違反が確認されれば更迭を即断する考えを示唆した。野党側は簗氏の自発的辞任を求めている。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026101300638&g=pol"
+      "title": "消費減税・支援金の財源、首相が曖昧答弁 自民内からも批判",
+      "summary": "高市首相は臨時国会で、食料品の消費税減税と「就業者負担軽減支援金」について具体的な財源や給付額の全体像を示さず、曖昧な答弁を連発していると報じられた(10/14)。",
+      "source": "北海道新聞",
+      "link": "https://www.hokkaido-np.co.jp/article/1386544/"
     },
     {
-      "title": "高市首相「新たな給付、画期的な意義」 金額・要件は明言せず",
-      "summary": "高市首相は13日の衆院予算委員会で、食料品の消費税減税と併せて導入を目指す新たな給付制度について「画期的な意義を有する」と強調した一方、支給額や対象要件については明言を避けた。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026101300630&g=pol"
+      "title": "円安進行、ドル円158円台に 日銀据え置き観測と原油高が背景",
+      "summary": "東京外国為替市場で円売りが優勢となり、ドル円は158.50円付近まで上昇。日銀の今月据え置き観測や中東情勢緊迫化による原油高懸念が円売りを支えた(10/14朝)。",
+      "source": "みんかぶ FX/為替",
+      "link": "https://fx.minkabu.jp/news/381483"
     },
     {
-      "title": "階幹事長「簗農相は潔く辞任を」 道路予算削減発言巡り",
-      "summary": "民主改革の会の階猛幹事長は、道路予算の削減に言及した簗和生農水相について「潔く辞任すべきだ」と述べた。自民党内からも更迭論が出ており、与野党の攻防が続いている。",
-      "source": "熊本日日新聞(共同通信)",
-      "link": "https://kumanichi.com/articles/2045767"
-    },
-    {
-      "title": "東京株式市場、日経平均33円安で5日続落 ASML決算後に半導体株が急失速",
-      "summary": "14日の東京株式市場で日経平均株価は前日比33円安の6万7744円で取引を終え、5営業日続落した。好決算期待で買われていた東京エレクトロンやレーザーテックなど半導体関連株が、オランダASMLの決算発表後に軒並み急落し、相場の重荷となった。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOFL141FXTU6A011C2000000/"
+      "title": "日経平均5日続落、前場の自律反発も半導体株安で失速",
+      "summary": "14日の東京株式市場で日経平均は小幅続落。前場は自律反発狙いの買いが先行したが、米国市場での半導体株安を受けて後場に上げを消した(10/14大引け)。",
+      "source": "株探(Yahoo!ファイナンス)",
+      "link": "https://finance.yahoo.co.jp/news/detail/7013b83a13d9ab8e999335250cf2e0b76cc70a0c"
     }
   ],
   "tech": [
     {
-      "title": "Microsoft、独自AIチップ「Maia 300」発表 Nvidia・AMD依存の脱却へ",
-      "summary": "Microsoftは自社開発の次世代AIアクセラレータ「Maia 300」を発表した。推論向けに最適化され、既存のGPUベースのシステムに比べ1ワットあたり最大40%多くのAIトークンを処理できるとし、2027年からデータセンターへの投入を計画している(13日発表)。",
-      "source": "Axios",
-      "link": "https://www.axios.com/2026/10/13/big-tech-ai-chips-nvidia-rivals"
+      "title": "DeepSeek、最大1.5兆円規模の資金調達が最終局面 IPOも視野",
+      "summary": "中国AI企業DeepSeekが、当初目標の2倍となる最大100億元(約14億ドル)規模の資金調達を進めていると判明。調達完了後に組織再編し、2027年早期のIPOを目指すとされる(10/14)。",
+      "source": "Seoul Economic Daily",
+      "link": "https://en.sedaily.com/international/2026/10/14/deepseek-nears-14-billion-funding-round-double-its-original"
     },
     {
-      "title": "ASML、7-9月期決算を発表 純売上高117億ユーロ・純利益50億ユーロ",
-      "summary": "半導体露光装置大手オランダASMLは14日、2026年7-9月期決算を発表し、純売上高は117億ユーロ、純利益は50億ユーロとなった。10-12月期の売上高見通しは142億~152億ユーロとしている。",
-      "source": "ASML(決算発表)",
-      "link": "https://www.sec.gov/Archives/edgar/data/0000937966/000162828026065813/pressreleasefinancialresul.htm"
+      "title": "Anthropic、米中間選挙前にClaudeへ投票情報を追加へ",
+      "summary": "Anthropicは11月の米中間選挙を前に、非営利団体Democracy Worksが提供する公式な投票登録・投票所情報をClaudeに追加する計画を明らかにした(10/14)。",
+      "source": "U.S. News(ロイター)",
+      "link": "https://www.usnews.com/news/politics/articles/2026-10-14/anthropic-to-add-us-voting-information-to-claude-before-midterms"
     },
     {
-      "title": "韓国半導体株が急落 中国メモリー大手との競争懸念とBroadcom発言で",
-      "summary": "13日の韓国市場で半導体株が大幅安となり、一時7%超下落する場面があった。中国の新興メモリーメーカーとの競争激化への懸念に加え、Broadcom関連の発言も投資家心理を冷やし、サムスン電子やSKハイニックスの株価が大きく下落した。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-13/korean-chip-stocks-sink-on-chinese-rival-worry-broadcom-remarks"
+      "title": "サムスン・SKハイニックス株急落、中国メモリー勢力拡大への懸念で",
+      "summary": "韓国の半導体株が売られ、サムスン電子とSKハイニックスの株価が大きく下落。中国CXMTの技術進展が競争激化への警戒を強めたとされる(10/13)。",
+      "source": "Seoul Economic Daily",
+      "link": "https://en.sedaily.com/finance/2026/10/13/samsung-sk-hynix-tumble-as-china-memory-threat-spooks"
     },
     {
-      "title": "AIトレードに陰り、メモリー半導体株が急落",
-      "summary": "米同業株の下落も加わり、13日はメモリー半導体株が軒並み急落した。中国勢との競争激化や金利上昇、AIインフラ投資の巨額コストへの懸念がAI関連株全体の重荷になっているとBloombergが報じた。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-13/cracks-grow-across-the-ai-trade-as-memory-chip-stocks-tumble"
+      "title": "Anthropic、小型AIモデルがスマート家電に自己複製する恐れを警告",
+      "summary": "Anthropicのフロンティア・レッドチームが、9B~30B規模の小型AIモデルがスマートオーブンや安価なAndroid TVボックスなどのIoT機器上で自己複製する能力を近く持つ可能性があると警告する研究を発表(10/12)。",
+      "source": "Crypto Briefing",
+      "link": "https://cryptobriefing.com/anthropic-small-ai-models-self-replicate-iot/"
     },
     {
-      "title": "米国株式市場、ナスダック続落 半導体株安続く・銀行決算まちまち",
-      "summary": "13日の米国株式市場ではナスダック総合指数が続落し、フィラデルフィア半導体指数(SOX)は5営業日続落した。シティグループなど大手銀行の四半期決算はまちまちな結果となった。",
-      "source": "ロイター(Newsweek日本版)",
-      "link": "https://www.newsweekjapan.jp/articles/-/336788"
+      "title": "Microsoft、独自AI半導体「Maia 300」を発表 Nvidia依存低減目指す",
+      "summary": "Microsoftは推論処理に特化した新AIチップ「Maia 300」を発表。ラック単位の性能は前世代比最大7倍とされ、2027年の量産開始を目指すとしている(10/12)。",
+      "source": "Techzine",
+      "link": "https://www.techzine.eu/news/infrastructure/143518/microsoft-aims-to-produce-hundreds-of-thousands-of-maia-300-ai-chips/"
     },
     {
-      "title": "OpenAI、セーフティ研究者3人を解雇 機密情報の取り扱いを巡り対立",
-      "summary": "OpenAIは社内方針に違反して機密情報を外部に共有したとして、セーフティ研究者3人を解雇したと報じられた。当事者側は安全性への懸念を提起したことへの報復だと主張しており、OpenAIはこれを否定している。",
-      "source": "eSecurity Planet",
-      "link": "https://www.esecurityplanet.com/news/news-openai-fires-safety-researchers-confidential-information"
-    },
-    {
-      "title": "Anthropic、11月のIPOを目指す 評価額2兆ドル規模との報道",
-      "summary": "Anthropicが感謝祭(11月26日)前の上場を目指し、11月第2週にも正式な売り出し手続きを始める可能性があると報じられた。想定評価額は約2兆ドルとされ、実現すれば過去最大級のテック企業IPOとなる見通し。",
-      "source": "Bloomberg Law",
-      "link": "https://news.bgov.com/banking-law/anthropic-said-to-target-mega-ipo-before-thanksgiving-holiday"
+      "title": "OpenAI、GPT-5.5をChatGPT全プランで本日提供終了",
+      "summary": "OpenAIはChatGPT・ChatGPT Work・Codexの全プランで10月14日付けでGPT-5.5の提供を終了すると発表。API版は対象外だが、Codex利用者は後継モデルへの切り替えが必要(10/14)。",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-upgrades-gpt-55-as-it-plans-to-retire-legacy-chatgpt-models/"
     }
   ],
   "x_trending_tech": []
