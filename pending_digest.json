@@ -1,68 +1,123 @@
 {
-  "run_label": "10/15 07:00",
+  "run_label": "10/15 19:00",
   "politics_economy": [
     {
-      "title": "高市首相、簗農相に説明要求 「バス無料送迎」疑惑めぐり判断留保",
-      "summary": "衆院予算委員会で、簗和生農相の選挙区での支持者無料送迎バスが公選法に抵触するかを野党が追及。高市首相は違法性の判断を留保し、簗氏に説明を尽くすよう求めた(10/14)。",
-      "source": "Yahoo!ニュース(時事通信)",
-      "link": "https://news.yahoo.co.jp/articles/3b723169c822e1c5ea71dcadd2c9e24bacce6862"
+      "title": "日経平均、コアウィーブ・ショックで3318円安 下げ幅は歴代3位",
+      "summary": "15日の東京株式市場で日経平均株価は大幅続落し、終値は前日比3318円34銭(4.90%)安の6万4425円95銭。米AIクラウド企業コアウィーブの社債急落を引き金にAIインフラ投資への懸念が広がり、半導体関連株を中心に売りが膨らんだ(10/15大引け)。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUB150HLTV11C26A0000000"
     },
     {
-      "title": "消費減税・支援金の財源、首相が曖昧答弁 自民内からも批判",
-      "summary": "高市首相は臨時国会で、食料品の消費税減税と「就業者負担軽減支援金」について具体的な財源や給付額の全体像を示さず、曖昧な答弁を連発していると報じられた(10/14)。",
-      "source": "北海道新聞",
-      "link": "https://www.hokkaido-np.co.jp/article/1386544/"
+      "title": "公明党、消費税減税の対案として「国民1人8万円支給」を提示",
+      "summary": "公明党は15日の党政調全体会議で、食料品の消費税を2年間1%に下げる政府方針への対案として、2年間で国民1人当たり約8万円を支給する案をまとめた(10/15)。",
+      "source": "Yahoo!ニュース(共同通信)",
+      "link": "https://news.yahoo.co.jp/articles/a767aeb0176ca351e551d06fb9cf6496ee91db64"
     },
     {
-      "title": "円安進行、ドル円158円台に 日銀据え置き観測と原油高が背景",
-      "summary": "東京外国為替市場で円売りが優勢となり、ドル円は158.50円付近まで上昇。日銀の今月据え置き観測や中東情勢緊迫化による原油高懸念が円売りを支えた(10/14朝)。",
+      "title": "衆院選挙制度協議、比例定数45削減で与野党平行線",
+      "summary": "与野党は15日、衆院選挙制度に関する協議を国会内で開催。与党は比例代表の定数45削減を主張し、野党は反対して議論は平行線のまま、今月末までの結論を目指す方針を確認した(10/15)。",
+      "source": "Yahoo!ニュース(共同通信)",
+      "link": "https://news.yahoo.co.jp/articles/b0587be12952edc945e56b9cd82adcf72d29792c"
+    },
+    {
+      "title": "野党6党、簗氏辞任受け首相出席の集中審議を要求 自民は難色",
+      "summary": "衆院野党6党の国対委員長が15日に会談し、更迭された簗和生前農相の問題を巡り高市首相出席の予算委員会集中審議を求める方針で一致。自民党はこのタイミングでの開催に難色を示した(10/15)。",
+      "source": "Yahoo!ニュース(テレ東BIZ)",
+      "link": "https://news.yahoo.co.jp/articles/a536a0f69a28848f6a25d1be791755c04bbd6977"
+    },
+    {
+      "title": "ドル円157円台後半、米CPI上振れもFRB高官発言でドル売り継続",
+      "summary": "15日の東京外国為替市場でドル円は157円70銭台で推移。9月の米CPIは市場予想を上回ったが、FRB高官から追加利上げを急がない姿勢が示され、ドル売りが継続した(10/15午前)。",
       "source": "みんかぶ FX/為替",
-      "link": "https://fx.minkabu.jp/news/381483"
-    },
-    {
-      "title": "日経平均5日続落、前場の自律反発も半導体株安で失速",
-      "summary": "14日の東京株式市場で日経平均は小幅続落。前場は自律反発狙いの買いが先行したが、米国市場での半導体株安を受けて後場に上げを消した(10/14大引け)。",
-      "source": "株探(Yahoo!ファイナンス)",
-      "link": "https://finance.yahoo.co.jp/news/detail/7013b83a13d9ab8e999335250cf2e0b76cc70a0c"
+      "link": "https://fx.minkabu.jp/news/381617"
     }
   ],
   "tech": [
     {
-      "title": "DeepSeek、最大1.5兆円規模の資金調達が最終局面 IPOも視野",
-      "summary": "中国AI企業DeepSeekが、当初目標の2倍となる最大100億元(約14億ドル)規模の資金調達を進めていると判明。調達完了後に組織再編し、2027年早期のIPOを目指すとされる(10/14)。",
-      "source": "Seoul Economic Daily",
-      "link": "https://en.sedaily.com/international/2026/10/14/deepseek-nears-14-billion-funding-round-double-its-original"
+      "title": "米AIクラウド「コアウィーブ」、社債急落で株価も15%超安 AI債務バブル懸念拡大",
+      "summary": "AIデータセンターを貸し出すコアウィーブの社債利回りが一時15%近辺まで急騰し、株価は15%超下落。AI企業の過剰債務への懸念が広がり、ナスダックやAI関連株にも売りが波及した(10/14)。",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/10/14/coreweave-stock-bond-yields-ai-debt.html"
     },
     {
-      "title": "Anthropic、米中間選挙前にClaudeへ投票情報を追加へ",
-      "summary": "Anthropicは11月の米中間選挙を前に、非営利団体Democracy Worksが提供する公式な投票登録・投票所情報をClaudeに追加する計画を明らかにした(10/14)。",
-      "source": "U.S. News(ロイター)",
-      "link": "https://www.usnews.com/news/politics/articles/2026-10-14/anthropic-to-add-us-voting-information-to-claude-before-midterms"
+      "title": "TSMC、7-9月期純利益69%増 AI需要で過去最高益を更新",
+      "summary": "台湾TSMCが15日発表した2026年7-9月期決算は、純利益が前年同期比68.7%増の7630億台湾ドルと6四半期連続で過去最高を記録。AI向け需要の強さが背景(10/15)。",
+      "source": "Yahoo!ニュース(ビジネス+IT)",
+      "link": "https://news.yahoo.co.jp/articles/f7f0c69860b1deb50b5cadc5a4a9d66bd0e62fc8"
     },
     {
-      "title": "サムスン・SKハイニックス株急落、中国メモリー勢力拡大への懸念で",
-      "summary": "韓国の半導体株が売られ、サムスン電子とSKハイニックスの株価が大きく下落。中国CXMTの技術進展が競争激化への警戒を強めたとされる(10/13)。",
-      "source": "Seoul Economic Daily",
-      "link": "https://en.sedaily.com/finance/2026/10/13/samsung-sk-hynix-tumble-as-china-memory-threat-spooks"
+      "title": "Nvidia、中国AIチップ市場でファーウェイに急追され シェア低下",
+      "summary": "調査会社の報告によると、Nvidiaの中国向けAIアクセラレータ出荷は前年比44%減少し市場シェアは34%に低下。ファーウェイは28%までシェアを伸ばした(10/15)。",
+      "source": "Benzinga",
+      "link": "https://www.benzinga.com/markets/tech/26/10/62319484/nvidia-loses-ground-in-china-as-huaweis-ai-chip-shipments-nearly-double-capturing-28-market-share-report"
     },
     {
-      "title": "Anthropic、小型AIモデルがスマート家電に自己複製する恐れを警告",
-      "summary": "Anthropicのフロンティア・レッドチームが、9B~30B規模の小型AIモデルがスマートオーブンや安価なAndroid TVボックスなどのIoT機器上で自己複製する能力を近く持つ可能性があると警告する研究を発表(10/12)。",
-      "source": "Crypto Briefing",
-      "link": "https://cryptobriefing.com/anthropic-small-ai-models-self-replicate-iot/"
+      "title": "Google、新AIモデル「Gemini 4 Argon」をグローバル提供開始",
+      "summary": "Googleは最新のフロンティアAIモデル「Gemini 4 Argon」を開発者・企業・サブスク利用者向けに全世界で提供開始。ソフトウェア開発やサイバー防御などの複雑なタスクで性能向上を主張している(10/13-14)。",
+      "source": "American Bazaar",
+      "link": "https://americanbazaaronline.com/2026/10/14/google-releases-gemini-4-argon-ai-model-490048/"
     },
     {
-      "title": "Microsoft、独自AI半導体「Maia 300」を発表 Nvidia依存低減目指す",
-      "summary": "Microsoftは推論処理に特化した新AIチップ「Maia 300」を発表。ラック単位の性能は前世代比最大7倍とされ、2027年の量産開始を目指すとしている(10/12)。",
-      "source": "Techzine",
-      "link": "https://www.techzine.eu/news/infrastructure/143518/microsoft-aims-to-produce-hundreds-of-thousands-of-maia-300-ai-chips/"
+      "title": "Anthropic、Git代替の独自バージョン管理システム「Scion」に社内移行",
+      "summary": "Anthropicは、AIによるコード生成量の急増でGitが限界に達したとして、独自のバージョン管理システム「Scion」を開発し社内の開発基盤をすでに移行したと発表(10/14)。",
+      "source": "GIGAZINE",
+      "link": "https://gigazine.net/news/20261014-anthropic-scion-version-control-system/"
     },
     {
-      "title": "OpenAI、GPT-5.5をChatGPT全プランで本日提供終了",
-      "summary": "OpenAIはChatGPT・ChatGPT Work・Codexの全プランで10月14日付けでGPT-5.5の提供を終了すると発表。API版は対象外だが、Codex利用者は後継モデルへの切り替えが必要(10/14)。",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-upgrades-gpt-55-as-it-plans-to-retire-legacy-chatgpt-models/"
+      "title": "Apple、未使用Macを束ねた仮想GPUクラウド「Minions」を開発",
+      "summary": "Appleの研究チームは、社内で使われていないMacのGPUを集めて仮想GPUクラウドとして活用する仕組み「Minions」を開発。新規サーバー購入なしにAI処理の待ち時間を大幅短縮できるとしている(10/15)。",
+      "source": "GIGAZINE",
+      "link": "https://gigazine.net/news/20261015-apple-minions/"
+    },
+    {
+      "title": "AIチップ設計スタートアップRicursive Intelligence、「計算危機」解決に挑む",
+      "summary": "米スタートアップRicursive Intelligenceは、AIを使って従来の手法にとらわれない独創的なチップレイアウトを発見する技術を開発し、半導体の計算能力不足の解決を目指していると報じられた(10/14)。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/"
+    },
+    {
+      "title": "イスラエルのAIチップ新興Axionic Labs、プレシードで5000万ドル調達",
+      "summary": "AI推論向けチップを開発するイスラエルのスタートアップAxionic Labsが、目標8000万ドルのプレシードラウンドのうち5000万ドルの調達を完了したと発表(10/15)。",
+      "source": "Pomegra",
+      "link": "https://pomegra.io/startups/axionic-labs-raises-50m-of-80m-pre-seed-for-ai-chip-2026-10-15"
+    },
+    {
+      "title": "職場向けAIメッセンジャーのZenzap、4400万ドルを調達",
+      "summary": "WhatsAppに対抗する職場向けAIメッセージングアプリを開発するZenzapが、Bessemer Venture Partnersなどから4400万ドルを調達したと発表(10/15)。",
+      "source": "Innovation Village",
+      "link": "https://innovation-village.com/zenzap-raises-44m-to-challenge-whatsapp-at-work/"
     }
   ],
-  "x_trending_tech": []
+  "x_trending_tech": [
+    {
+      "title": "日経電子版、「コアウィーブ・ショック」で日経平均3318円安と速報",
+      "summary": "日本経済新聞の公式アカウントが、コアウィーブ・ショックを受けた日経平均の急落(3318円安、下げ幅歴代3位)を速報(10/15投稿)。",
+      "source": "@nikkei",
+      "link": "https://x.com/nikkei/status/2110622491542532388"
+    },
+    {
+      "title": "テレ東BIZ、AI・半導体株急落「コアウィーブ・ショック」を緊急解説",
+      "summary": "テレ東BIZが、日経平均が一時6万5000円を割り込み3600円超急落したことを受け、コアウィーブ株急落が引き金になったAI投資への警戒感を緊急生解説(10/15投稿)。",
+      "source": "@txbiz_ondemand",
+      "link": "https://x.com/txbiz_ondemand/status/2110639355060715679"
+    },
+    {
+      "title": "Bloomberg、コアウィーブCEOが株安を「市場が非合理的」と発言と報道",
+      "summary": "Bloombergの公式アカウントが、株価・社債価格急落に直面したコアウィーブのIntrator CEOが「市場は非合理的」と反論し、自社への自信を示したと報道(10/14投稿)。",
+      "source": "@business",
+      "link": "https://x.com/business/status/2110538670755197312"
+    },
+    {
+      "title": "The Transcript、TSMCの7-9月期決算を詳細スレッドで速報",
+      "summary": "金融情報アカウントThe Transcriptが、TSMCの2026年7-9月期決算(純利益+68.7%、売上+50.9%など)を発表直後に詳細スレッドで速報(10/15投稿)。",
+      "source": "@TheTranscript_",
+      "link": "https://x.com/TheTranscript_/status/2110632585957372064"
+    },
+    {
+      "title": "大橋ひろこ氏、コアウィーブ社債急騰がAI半導体株売りを加速と解説",
+      "summary": "経済キャスターの大橋ひろこ氏が、コアウィーブの社債利回り急騰がAI半導体セクターの売りを加速させ、クレジット市場の警戒が株式市場に波及していると解説(10/15投稿)。",
+      "source": "@hirokoFR",
+      "link": "https://x.com/hirokoFR/status/2110541124427460690"
+    }
+  ]
 }
