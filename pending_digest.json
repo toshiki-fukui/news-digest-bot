@@ -1,123 +1,117 @@
 {
-  "run_label": "10/15 19:00",
+  "run_label": "10/16 07:00",
   "politics_economy": [
     {
-      "title": "日経平均、コアウィーブ・ショックで3318円安 下げ幅は歴代3位",
-      "summary": "15日の東京株式市場で日経平均株価は大幅続落し、終値は前日比3318円34銭(4.90%)安の6万4425円95銭。米AIクラウド企業コアウィーブの社債急落を引き金にAIインフラ投資への懸念が広がり、半導体関連株を中心に売りが膨らんだ(10/15大引け)。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUB150HLTV11C26A0000000"
+      "title": "新農相に武部新氏、簗氏辞任の後任として就任",
+      "summary": "高市首相は農相を辞任した簗和生氏の後任に自民党の武部新氏を起用する方針を固め、15日午後6時ごろ皇居での認証式を経て農林水産大臣に就任した。武部氏の父も農相経験者で、本人は初入閣となる。",
+      "source": "NHK",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261015de59560"
     },
     {
-      "title": "公明党、消費税減税の対案として「国民1人8万円支給」を提示",
-      "summary": "公明党は15日の党政調全体会議で、食料品の消費税を2年間1%に下げる政府方針への対案として、2年間で国民1人当たり約8万円を支給する案をまとめた(10/15)。",
-      "source": "Yahoo!ニュース(共同通信)",
-      "link": "https://news.yahoo.co.jp/articles/a767aeb0176ca351e551d06fb9cf6496ee91db64"
+      "title": "日銀・小枝委員「利上げに過度に慎重になることはない」",
+      "summary": "日本銀行の小枝尚子審議委員は15日、物価上昇リスクを踏まえれば追加利上げの判断に過度に慎重になる必要はないとの見解を示した。今後の金融政策の方向性を巡る発言として注目されている。",
+      "source": "NHK",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261015de59735"
     },
     {
-      "title": "衆院選挙制度協議、比例定数45削減で与野党平行線",
-      "summary": "与野党は15日、衆院選挙制度に関する協議を国会内で開催。与党は比例代表の定数45削減を主張し、野党は反対して議論は平行線のまま、今月末までの結論を目指す方針を確認した(10/15)。",
-      "source": "Yahoo!ニュース(共同通信)",
-      "link": "https://news.yahoo.co.jp/articles/b0587be12952edc945e56b9cd82adcf72d29792c"
+      "title": "ウクライナ代表団、プーチン氏らを裁く特別法廷設置を日本に要請",
+      "summary": "来日したウクライナの代表団が15日、ロシアによる軍事侵攻の責任を将来追及するための特別法廷設置への参加を日本に訴えた。プーチン大統領らの責任追及を見据えた国際的な取り組みの一環。",
+      "source": "NHK",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261015de60103"
     },
     {
-      "title": "野党6党、簗氏辞任受け首相出席の集中審議を要求 自民は難色",
-      "summary": "衆院野党6党の国対委員長が15日に会談し、更迭された簗和生前農相の問題を巡り高市首相出席の予算委員会集中審議を求める方針で一致。自民党はこのタイミングでの開催に難色を示した(10/15)。",
-      "source": "Yahoo!ニュース(テレ東BIZ)",
-      "link": "https://news.yahoo.co.jp/articles/a536a0f69a28848f6a25d1be791755c04bbd6977"
-    },
-    {
-      "title": "ドル円157円台後半、米CPI上振れもFRB高官発言でドル売り継続",
-      "summary": "15日の東京外国為替市場でドル円は157円70銭台で推移。9月の米CPIは市場予想を上回ったが、FRB高官から追加利上げを急がない姿勢が示され、ドル売りが継続した(10/15午前)。",
-      "source": "みんかぶ FX/為替",
-      "link": "https://fx.minkabu.jp/news/381617"
+      "title": "消費税減税・内閣改造への受け止めは? 国民意識を解説",
+      "summary": "高市内閣発足後初めてとなる内閣改造や、食料品の消費税減税策に対する国民の受け止め方について、NHK解説委員が15日、最新の意識調査などを踏まえて分析した。",
+      "source": "NHK",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261015de59645"
     }
   ],
   "tech": [
     {
-      "title": "米AIクラウド「コアウィーブ」、社債急落で株価も15%超安 AI債務バブル懸念拡大",
-      "summary": "AIデータセンターを貸し出すコアウィーブの社債利回りが一時15%近辺まで急騰し、株価は15%超下落。AI企業の過剰債務への懸念が広がり、ナスダックやAI関連株にも売りが波及した(10/14)。",
+      "title": "Anthropic、IPO前に7-9月期売上高168億ドルを投資家に開示",
+      "summary": "Anthropicは投資家向け説明会で、7-9月期の売上高が前期比約45~50%増の168億ドルに達したと明らかにした。11月9日の週にもIPOの本格的な提示を始める計画と報じられている(10/15)。",
       "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/10/14/coreweave-stock-bond-yields-ai-debt.html"
+      "link": "https://www.cnbc.com/2026/10/15/anthropics-third-quarter-revenue-hits-16point8-billion-ipo.html"
     },
     {
-      "title": "TSMC、7-9月期純利益69%増 AI需要で過去最高益を更新",
-      "summary": "台湾TSMCが15日発表した2026年7-9月期決算は、純利益が前年同期比68.7%増の7630億台湾ドルと6四半期連続で過去最高を記録。AI向け需要の強さが背景(10/15)。",
-      "source": "Yahoo!ニュース(ビジネス+IT)",
-      "link": "https://news.yahoo.co.jp/articles/f7f0c69860b1deb50b5cadc5a4a9d66bd0e62fc8"
+      "title": "米FTC、OpenAIとAnthropicに民事調査請求を送付",
+      "summary": "米連邦取引委員会(FTC)は、AIの安全上のインシデントや安全対策に関する文書提出を求める50ページ超の民事調査請求(CID)を、OpenAIとAnthropicに15日送付したと報じられた。消費者保護法違反の有無を調べる狙い。",
+      "source": "Axios",
+      "link": "https://www.axios.com/2026/10/15/ftc-openai-anthropic-ai-safety-investigation"
     },
     {
-      "title": "Nvidia、中国AIチップ市場でファーウェイに急追され シェア低下",
-      "summary": "調査会社の報告によると、Nvidiaの中国向けAIアクセラレータ出荷は前年比44%減少し市場シェアは34%に低下。ファーウェイは28%までシェアを伸ばした(10/15)。",
-      "source": "Benzinga",
-      "link": "https://www.benzinga.com/markets/tech/26/10/62319484/nvidia-loses-ground-in-china-as-huaweis-ai-chip-shipments-nearly-double-capturing-28-market-share-report"
+      "title": "米8州がOpenAIを提訴、ChatGPTの子ども安全を問題視",
+      "summary": "アリゾナ州など米8州の司法長官が、ChatGPTが未成年者に危害を及ぼす恐れがあるのに安全だと誤解させて提供したとして、それぞれの州でOpenAIを提訴した(14日)。データ削除や年齢確認強化などを求めている。",
+      "source": "technology.org",
+      "link": "https://www.technology.org/2026/10/15/eight-states-sue-openai-chatgpt-child-safety-claims/"
     },
     {
-      "title": "Google、新AIモデル「Gemini 4 Argon」をグローバル提供開始",
-      "summary": "Googleは最新のフロンティアAIモデル「Gemini 4 Argon」を開発者・企業・サブスク利用者向けに全世界で提供開始。ソフトウェア開発やサイバー防御などの複雑なタスクで性能向上を主張している(10/13-14)。",
-      "source": "American Bazaar",
-      "link": "https://americanbazaaronline.com/2026/10/14/google-releases-gemini-4-argon-ai-model-490048/"
+      "title": "ナスダック続落、AI企業の債務膨張への懸念再燃",
+      "summary": "15日の米株式市場でナスダック総合指数が続落し、AIクラウド企業コアウィーブの社債利回り急騰を受けてAI関連株に売りが広がった。AI業界の過剰債務への警戒感が改めて意識されている。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOGN15BWE0V11C26A0000000/"
     },
     {
-      "title": "Anthropic、Git代替の独自バージョン管理システム「Scion」に社内移行",
-      "summary": "Anthropicは、AIによるコード生成量の急増でGitが限界に達したとして、独自のバージョン管理システム「Scion」を開発し社内の開発基盤をすでに移行したと発表(10/14)。",
-      "source": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261014-anthropic-scion-version-control-system/"
-    },
-    {
-      "title": "Apple、未使用Macを束ねた仮想GPUクラウド「Minions」を開発",
-      "summary": "Appleの研究チームは、社内で使われていないMacのGPUを集めて仮想GPUクラウドとして活用する仕組み「Minions」を開発。新規サーバー購入なしにAI処理の待ち時間を大幅短縮できるとしている(10/15)。",
-      "source": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261015-apple-minions/"
-    },
-    {
-      "title": "AIチップ設計スタートアップRicursive Intelligence、「計算危機」解決に挑む",
-      "summary": "米スタートアップRicursive Intelligenceは、AIを使って従来の手法にとらわれない独創的なチップレイアウトを発見する技術を開発し、半導体の計算能力不足の解決を目指していると報じられた(10/14)。",
+      "title": "AI推論基盤のModal Labs、評価額1.6兆円規模の大型調達へ",
+      "summary": "AI推論クラウドを手がけるModal Labsが、Accel主導で7億5000万ドル(評価額157.5億ドル)を調達する方向で交渉を進めていると報じられた。実現すればデカコーン入りとなる(TechCrunch報道、10/15)。",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/"
+      "link": "https://techcrunch.com/?p=3170936"
     },
     {
-      "title": "イスラエルのAIチップ新興Axionic Labs、プレシードで5000万ドル調達",
-      "summary": "AI推論向けチップを開発するイスラエルのスタートアップAxionic Labsが、目標8000万ドルのプレシードラウンドのうち5000万ドルの調達を完了したと発表(10/15)。",
-      "source": "Pomegra",
-      "link": "https://pomegra.io/startups/axionic-labs-raises-50m-of-80m-pre-seed-for-ai-chip-2026-10-15"
+      "title": "AIエージェントが詐欺の「おとり」役に、情報収集するApate",
+      "summary": "スタートアップApateは、AIエージェントを詐欺のターゲットになりすまして潜入させ、詐欺の手口に関する情報を収集する仕組みを開発した。TechCrunch Disruptのスタートアップバトルフィールド部門で紹介された(14日)。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence"
     },
     {
-      "title": "職場向けAIメッセンジャーのZenzap、4400万ドルを調達",
-      "summary": "WhatsAppに対抗する職場向けAIメッセージングアプリを開発するZenzapが、Bessemer Venture Partnersなどから4400万ドルを調達したと発表(10/15)。",
-      "source": "Innovation Village",
-      "link": "https://innovation-village.com/zenzap-raises-44m-to-challenge-whatsapp-at-work/"
+      "title": "TSMC、マスク氏の新半導体プロジェクト「Terafab」との協業に前向き",
+      "summary": "TSMCは、イーロン・マスク氏が進める半導体生産構想「Terafab」との提携に開かれた姿勢を示す一方、自社工場の運営管理権は維持する必要があるとの立場を明らかにした(15日、ブルームバーグ報道)。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-15/tsmc-open-to-working-with-terafab-but-must-control-plants"
+    },
+    {
+      "title": "ByteDance、データセンター向けAIチップでMediaTekと調達協議",
+      "summary": "中国ByteDanceが、データセンター向けAIチップの供給を確保するためMediaTekと交渉を進めていると報じられた(15日、ブルームバーグ)。米国の対中輸出規制下での代替調達先確保の動きとみられる。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-15/bytedance-in-talks-to-secure-mediatek-ai-chips-for-data-centers"
+    },
+    {
+      "title": "GlobalFoundries、日米協調で半導体工場拡張に210億ドル規模の支援",
+      "summary": "半導体メーカーGlobalFoundriesが、日本政府の資金支援を受けて米国と日本で工場を拡張する計画が明らかになった。支援総額は最大210億ドル規模で、米政府も株式の一部を保有するとされる(14日、ブルームバーグ)。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-14/globalfoundries-gets-21-billion-to-run-plants-in-us-japan-deal"
+    },
+    {
+      "title": "インドのScimplify、AIで重要鉱物の中国依存に挑む資金25百万ドルを調達",
+      "summary": "化学品製造にAIを活用するインドのスタートアップScimplifyが、日立ベンチャーズ主導で2500万ドルを調達した。中国が強みを持つ特殊化学品・重要鉱物の供給網に挑む狙いで、企業価値は2.5億ドルとされる(14日)。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai"
     }
   ],
   "x_trending_tech": [
     {
-      "title": "日経電子版、「コアウィーブ・ショック」で日経平均3318円安と速報",
-      "summary": "日本経済新聞の公式アカウントが、コアウィーブ・ショックを受けた日経平均の急落(3318円安、下げ幅歴代3位)を速報(10/15投稿)。",
-      "source": "@nikkei",
-      "link": "https://x.com/nikkei/status/2110622491542532388"
+      "title": "AIモデルの性能優位、開発者トラフィック拡大への効果が急減",
+      "summary": "The Informationの分析によれば、知能指数で10ポイント上回るモデルでも開発者トラフィックの増加はわずか20%にとどまり、2025年末の約69%から大きく縮小したという。OpenAIやAnthropicなど主要AI研究所の課題になっていると指摘するポスト(15日)。",
+      "source": "@theinformation",
+      "link": "https://x.com/theinformation/status/2110762724934172829"
     },
     {
-      "title": "テレ東BIZ、AI・半導体株急落「コアウィーブ・ショック」を緊急解説",
-      "summary": "テレ東BIZが、日経平均が一時6万5000円を割り込み3600円超急落したことを受け、コアウィーブ株急落が引き金になったAI投資への警戒感を緊急生解説(10/15投稿)。",
-      "source": "@txbiz_ondemand",
-      "link": "https://x.com/txbiz_ondemand/status/2110639355060715679"
+      "title": "FTCがOpenAIとAnthropicに調査要求、AI安全規制の圧力強まる",
+      "summary": "FTCがAIの安全インシデントを巡りOpenAIとAnthropicに民事調査請求(CID)を送付したことを伝えるポスト。前日にはNvidiaのジェンスン・フアンCEOが安全でない顧客への供給停止に言及したばかりで、規制当局からの圧力が強まっていると指摘(15日)。",
+      "source": "@AGTPinsights",
+      "link": "https://x.com/AGTPinsights/status/2110729605460152515"
     },
     {
-      "title": "Bloomberg、コアウィーブCEOが株安を「市場が非合理的」と発言と報道",
-      "summary": "Bloombergの公式アカウントが、株価・社債価格急落に直面したコアウィーブのIntrator CEOが「市場は非合理的」と反論し、自社への自信を示したと報道(10/14投稿)。",
-      "source": "@business",
-      "link": "https://x.com/business/status/2110538670755197312"
+      "title": "Anthropic、IPO前に四半期売上が5割増の168億ドルと投資家に説明",
+      "summary": "AnthropicがIPOを控えた投資家向け説明で四半期売上高が前年比ほぼ50%増の168億ドルに達したと明らかにしたと伝えるポスト。成長速度は一部予想より鈍化し、AI投資への懸念が市場を揺らしていると指摘(15日未明)。",
+      "source": "@staunovo",
+      "link": "https://x.com/staunovo/status/2110586405122457795"
     },
     {
-      "title": "The Transcript、TSMCの7-9月期決算を詳細スレッドで速報",
-      "summary": "金融情報アカウントThe Transcriptが、TSMCの2026年7-9月期決算(純利益+68.7%、売上+50.9%など)を発表直後に詳細スレッドで速報(10/15投稿)。",
-      "source": "@TheTranscript_",
-      "link": "https://x.com/TheTranscript_/status/2110632585957372064"
-    },
-    {
-      "title": "大橋ひろこ氏、コアウィーブ社債急騰がAI半導体株売りを加速と解説",
-      "summary": "経済キャスターの大橋ひろこ氏が、コアウィーブの社債利回り急騰がAI半導体セクターの売りを加速させ、クレジット市場の警戒が株式市場に波及していると解説(10/15投稿)。",
-      "source": "@hirokoFR",
-      "link": "https://x.com/hirokoFR/status/2110541124427460690"
+      "title": "AI業界デイリーブリーフ: Grok Voice 3.0やClaude Code Desktopの新機能など",
+      "summary": "AI情報サイトTestingCatalogの日次まとめポストで、xAIが音声対話モデル「Grok Voice 3.0」を発表したことや、Claude Code Desktopに複数セッションを一画面で管理できる機能が追加されたこと、Anthropicがシンガポールに新拠点を開設しAI安全に関する覚書を政府と締結したことが紹介されている(15日)。",
+      "source": "@testingcatalog",
+      "link": "https://x.com/testingcatalog/status/2110613310403936714"
     }
   ]
 }
