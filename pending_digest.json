@@ -1,117 +1,98 @@
 {
-  "run_label": "10/16 07:00",
+  "run_label": "10/16 19:00",
   "politics_economy": [
     {
-      "title": "新農相に武部新氏、簗氏辞任の後任として就任",
-      "summary": "高市首相は農相を辞任した簗和生氏の後任に自民党の武部新氏を起用する方針を固め、15日午後6時ごろ皇居での認証式を経て農林水産大臣に就任した。武部氏の父も農相経験者で、本人は初入閣となる。",
-      "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261015de59560"
+      "title": "日経平均7営業日ぶり反発、終値898円高 AI関連株に買い戻し",
+      "summary": "16日の東京株式市場で日経平均株価は前日比898円34銭(1.39%)高の6万5324円29銭で取引を終えた。前日15日の大幅下落(3300円超安)の反動で、AI・半導体関連を中心に幅広い銘柄が買われた。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOFL161T5TW6A011C2000000/"
     },
     {
-      "title": "日銀・小枝委員「利上げに過度に慎重になることはない」",
-      "summary": "日本銀行の小枝尚子審議委員は15日、物価上昇リスクを踏まえれば追加利上げの判断に過度に慎重になる必要はないとの見解を示した。今後の金融政策の方向性を巡る発言として注目されている。",
-      "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261015de59735"
+      "title": "植田日銀総裁、中東情勢・AI・為替が経済物価に及ぼす影響に留意必要と指摘",
+      "summary": "日本銀行の植田和男総裁は16日、全国信用組合大会向けの挨拶(内田副総裁が代読)で、中東情勢やAI、為替動向が経済・物価に及ぼす影響に留意が必要だと述べた。基調物価を2%程度で安定させる重要性にも言及した。",
+      "source": "みんかぶ(FX/為替)",
+      "link": "https://fx.minkabu.jp/news/381804"
     },
     {
-      "title": "ウクライナ代表団、プーチン氏らを裁く特別法廷設置を日本に要請",
-      "summary": "来日したウクライナの代表団が15日、ロシアによる軍事侵攻の責任を将来追及するための特別法廷設置への参加を日本に訴えた。プーチン大統領らの責任追及を見据えた国際的な取り組みの一環。",
-      "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261015de60103"
+      "title": "農相更迭で「高市1強」のもろさ露呈、消費税減税審議に影",
+      "summary": "簗和生前農相の更迭を経て、高市早苗首相は自民党幹部との連携不足が露呈したとの指摘が16日報じられた。後任には武部新氏が就任しており、臨時国会での消費税減税関連法案の審議にも影響が注目されている。",
+      "source": "新潟日報",
+      "link": "https://www.niigata-nippo.co.jp/articles/-/925363"
     },
     {
-      "title": "消費税減税・内閣改造への受け止めは? 国民意識を解説",
-      "summary": "高市内閣発足後初めてとなる内閣改造や、食料品の消費税減税策に対する国民の受け止め方について、NHK解説委員が15日、最新の意識調査などを踏まえて分析した。",
-      "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261015de59645"
+      "title": "高市首相、外食需要喚起でプレミアム商品券の活用に言及",
+      "summary": "高市早苗首相は参院予算委員会で、消費税率10%が維持される外食産業の需要喚起策として、プレミアム付き商品券の活用に言及した。食料品の消費税減税で生じる税負担の差への対応策の一つとされる。",
+      "source": "新潟日報",
+      "link": "https://www.niigata-nippo.co.jp/articles/-/925757"
+    },
+    {
+      "title": "公明・斉藤鉄夫元代表、自民との再連立「将来は縛らず」 政治改革が条件",
+      "summary": "公明党の斉藤鉄夫元代表は16日、自民党との連立離脱表明から1年を受けて取材に応じ、再連立の可能性は現時点でないとしつつ、政治とカネの問題で改革が前進すれば将来を縛るものではないと語った。",
+      "source": "東京新聞",
+      "link": "https://www.tokyo-np.co.jp/article/522057"
     }
   ],
   "tech": [
     {
-      "title": "Anthropic、IPO前に7-9月期売上高168億ドルを投資家に開示",
-      "summary": "Anthropicは投資家向け説明会で、7-9月期の売上高が前期比約45~50%増の168億ドルに達したと明らかにした。11月9日の週にもIPOの本格的な提示を始める計画と報じられている(10/15)。",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/10/15/anthropics-third-quarter-revenue-hits-16point8-billion-ipo.html"
+      "title": "TSMC、7-9月期は売上高が過去最高 AI需要で通期見通しも上方修正",
+      "summary": "台湾TSMCは15日、2026年7-9月期の決算を発表し、売上高は前年比50.9%増の1兆4942億台湾ドルと過去最高を記録した。AI向け需要の拡大を受け、2026年通期の売上成長率見通しも上方修正した。",
+      "source": "TSMC(SEC Form 6-K)",
+      "link": "https://www.sec.gov/Archives/edgar/data/0001046179/000104617926000726/a3q26e_withguidancexfinal.htm"
     },
     {
-      "title": "米FTC、OpenAIとAnthropicに民事調査請求を送付",
-      "summary": "米連邦取引委員会(FTC)は、AIの安全上のインシデントや安全対策に関する文書提出を求める50ページ超の民事調査請求(CID)を、OpenAIとAnthropicに15日送付したと報じられた。消費者保護法違反の有無を調べる狙い。",
-      "source": "Axios",
-      "link": "https://www.axios.com/2026/10/15/ftc-openai-anthropic-ai-safety-investigation"
-    },
-    {
-      "title": "米8州がOpenAIを提訴、ChatGPTの子ども安全を問題視",
-      "summary": "アリゾナ州など米8州の司法長官が、ChatGPTが未成年者に危害を及ぼす恐れがあるのに安全だと誤解させて提供したとして、それぞれの州でOpenAIを提訴した(14日)。データ削除や年齢確認強化などを求めている。",
-      "source": "technology.org",
-      "link": "https://www.technology.org/2026/10/15/eight-states-sue-openai-chatgpt-child-safety-claims/"
-    },
-    {
-      "title": "ナスダック続落、AI企業の債務膨張への懸念再燃",
-      "summary": "15日の米株式市場でナスダック総合指数が続落し、AIクラウド企業コアウィーブの社債利回り急騰を受けてAI関連株に売りが広がった。AI業界の過剰債務への警戒感が改めて意識されている。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOGN15BWE0V11C26A0000000/"
-    },
-    {
-      "title": "AI推論基盤のModal Labs、評価額1.6兆円規模の大型調達へ",
-      "summary": "AI推論クラウドを手がけるModal Labsが、Accel主導で7億5000万ドル(評価額157.5億ドル)を調達する方向で交渉を進めていると報じられた。実現すればデカコーン入りとなる(TechCrunch報道、10/15)。",
+      "title": "SK hynix、中国・大連工場への米製造装置輸出で米に承認要請",
+      "summary": "SK hynixは、米国内に新工場を建設することを条件に、中国・大連の既存工場へ米国製半導体製造装置を輸出する許可を米政府に求めていると15日報じられた。対中輸出規制下での事業継続を図る動き。",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/?p=3170936"
+      "link": "https://techcrunch.com/2026/10/15/sk-hynix-bargains-for-chip-equipment-exports-to-its-china-facility-in-return-for-building-a-factory-in-us"
     },
     {
-      "title": "AIエージェントが詐欺の「おとり」役に、情報収集するApate",
-      "summary": "スタートアップApateは、AIエージェントを詐欺のターゲットになりすまして潜入させ、詐欺の手口に関する情報を収集する仕組みを開発した。TechCrunch Disruptのスタートアップバトルフィールド部門で紹介された(14日)。",
+      "title": "Meta、オープンウェイトAIモデル「Muse Spark Open」公開 Appleと連携",
+      "summary": "Metaは15日、8160億パラメータ・100万トークンのコンテキスト長を持つオープンウェイトモデル「Muse Spark Open」を公開した。Appleと連携し、Mac上でローカル動作することを特徴としている。",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence"
+      "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs"
     },
     {
-      "title": "TSMC、マスク氏の新半導体プロジェクト「Terafab」との協業に前向き",
-      "summary": "TSMCは、イーロン・マスク氏が進める半導体生産構想「Terafab」との提携に開かれた姿勢を示す一方、自社工場の運営管理権は維持する必要があるとの立場を明らかにした(15日、ブルームバーグ報道)。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-15/tsmc-open-to-working-with-terafab-but-must-control-plants"
+      "title": "NVIDIA、RTX Spark搭載PC発売 新型ローカルAIモデルも公開",
+      "summary": "NVIDIAは16日、RTX Spark搭載のWindows 11 PCを発売した。合わせて、24GBのメモリで動作するローカルAIエージェント向けモデル「Nemotron 3.5 Bolt」も公開している。",
+      "source": "NVIDIA Blog",
+      "link": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron/"
     },
     {
-      "title": "ByteDance、データセンター向けAIチップでMediaTekと調達協議",
-      "summary": "中国ByteDanceが、データセンター向けAIチップの供給を確保するためMediaTekと交渉を進めていると報じられた(15日、ブルームバーグ)。米国の対中輸出規制下での代替調達先確保の動きとみられる。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-15/bytedance-in-talks-to-secure-mediatek-ai-chips-for-data-centers"
+      "title": "Samsung・SK hynix、HBM直結設計やHBFで次世代AIメモリー技術を競う",
+      "summary": "Samsung電子とSK hynixは、GPU上に直接HBMを積層する設計や、AI推論向けに容量を拡大する高帯域フラッシュ(HBF)など、次世代AIメモリー技術の開発でしのぎを削っていると16日報じられた。",
+      "source": "Digitimes",
+      "link": "https://www.digitimes.com/news/a20261016PD214/samsung-sk-hynix-hbm-data-capacity.html"
     },
     {
-      "title": "GlobalFoundries、日米協調で半導体工場拡張に210億ドル規模の支援",
-      "summary": "半導体メーカーGlobalFoundriesが、日本政府の資金支援を受けて米国と日本で工場を拡張する計画が明らかになった。支援総額は最大210億ドル規模で、米政府も株式の一部を保有するとされる(14日、ブルームバーグ)。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-14/globalfoundries-gets-21-billion-to-run-plants-in-us-japan-deal"
+      "title": "経費管理スタートアップRamp、評価額600億ドルで18.5億ドル調達",
+      "summary": "企業向け経費管理サービスのRampが、Dragoneerなど主導で約18.5億ドルを調達し、評価額が600億ドルに達したと15日報じられた。6月時点の440億ドルから大幅に上昇している。",
+      "source": "TheNextWeb",
+      "link": "https://thenextweb.com/news/ramp-60bn-valuation-1-85bn-round"
     },
     {
-      "title": "インドのScimplify、AIで重要鉱物の中国依存に挑む資金25百万ドルを調達",
-      "summary": "化学品製造にAIを活用するインドのスタートアップScimplifyが、日立ベンチャーズ主導で2500万ドルを調達した。中国が強みを持つ特殊化学品・重要鉱物の供給網に挑む狙いで、企業価値は2.5億ドルとされる(14日)。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai"
+      "title": "AIエージェント新興Hone、Benchmark主導で6000万ドルのシード調達",
+      "summary": "元OpenAI・Cognition出身者が設立したAIスタートアップHoneが、BenchmarkとIndex Venturesが主導するシードラウンドで6000万ドルを調達し、評価額2.85億ドルとなったと15日報じられた。",
+      "source": "CryptoBriefing",
+      "link": "https://cryptobriefing.com/hone-ai-agents-60-million-seed/"
+    },
+    {
+      "title": "Meta、GitHub不正アクセスで従業員など1500人の情報流出と通知",
+      "summary": "Metaは、GitHubのリポジトリへの不正アクセスにより、主に米国の従業員を中心とした約1500人分の個人情報が流出したとして対象者に通知していると15日報じられた。侵入は数週間前に検知されたとされる。",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/meta-says-hackers-took-code-personal-data-of-1500-in-github-breach/"
+    },
+    {
+      "title": "xAI、音声AIモデル「Grok Voice 3.0」を発表",
+      "summary": "xAIは音声対話モデル「Grok Voice 3.0」を発表した。1分あたり0.08ドルの価格で提供され、既にテスラ車内やStarlinkのサポート対応で導入されているという。",
+      "source": "AI Weekly",
+      "link": "https://aiweekly.co/alerts/xai-grok-voice-30-ships-at-008min-tops-index-at-869"
+    },
+    {
+      "title": "Amazon、Grok AIボットの購入機能をブロック マスク氏はEC対抗を示唆",
+      "summary": "AmazonがxAIの「Grok」AIボットによる自社サイトでの注文実行をブロックしていると16日報じられた。これを受けイーロン・マスク氏は、Amazonに対抗するEC事業の立ち上げを示唆する投稿をした。",
+      "source": "Futunn",
+      "link": "https://news.futunn.com/en/post/1001361141/amazon-bans-ai-agent-grok-bot-musk-responds-swiftly-should"
     }
   ],
-  "x_trending_tech": [
-    {
-      "title": "AIモデルの性能優位、開発者トラフィック拡大への効果が急減",
-      "summary": "The Informationの分析によれば、知能指数で10ポイント上回るモデルでも開発者トラフィックの増加はわずか20%にとどまり、2025年末の約69%から大きく縮小したという。OpenAIやAnthropicなど主要AI研究所の課題になっていると指摘するポスト(15日)。",
-      "source": "@theinformation",
-      "link": "https://x.com/theinformation/status/2110762724934172829"
-    },
-    {
-      "title": "FTCがOpenAIとAnthropicに調査要求、AI安全規制の圧力強まる",
-      "summary": "FTCがAIの安全インシデントを巡りOpenAIとAnthropicに民事調査請求(CID)を送付したことを伝えるポスト。前日にはNvidiaのジェンスン・フアンCEOが安全でない顧客への供給停止に言及したばかりで、規制当局からの圧力が強まっていると指摘(15日)。",
-      "source": "@AGTPinsights",
-      "link": "https://x.com/AGTPinsights/status/2110729605460152515"
-    },
-    {
-      "title": "Anthropic、IPO前に四半期売上が5割増の168億ドルと投資家に説明",
-      "summary": "AnthropicがIPOを控えた投資家向け説明で四半期売上高が前年比ほぼ50%増の168億ドルに達したと明らかにしたと伝えるポスト。成長速度は一部予想より鈍化し、AI投資への懸念が市場を揺らしていると指摘(15日未明)。",
-      "source": "@staunovo",
-      "link": "https://x.com/staunovo/status/2110586405122457795"
-    },
-    {
-      "title": "AI業界デイリーブリーフ: Grok Voice 3.0やClaude Code Desktopの新機能など",
-      "summary": "AI情報サイトTestingCatalogの日次まとめポストで、xAIが音声対話モデル「Grok Voice 3.0」を発表したことや、Claude Code Desktopに複数セッションを一画面で管理できる機能が追加されたこと、Anthropicがシンガポールに新拠点を開設しAI安全に関する覚書を政府と締結したことが紹介されている(15日)。",
-      "source": "@testingcatalog",
-      "link": "https://x.com/testingcatalog/status/2110613310403936714"
-    }
-  ]
+  "x_trending_tech": []
 }
