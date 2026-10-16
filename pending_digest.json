@@ -1,97 +1,61 @@
 {
-  "run_label": "10/16 19:00",
+  "run_label": "10/17 07:00",
   "politics_economy": [
     {
-      "title": "日経平均7営業日ぶり反発、終値898円高 AI関連株に買い戻し",
-      "summary": "16日の東京株式市場で日経平均株価は前日比898円34銭(1.39%)高の6万5324円29銭で取引を終えた。前日15日の大幅下落(3300円超安)の反動で、AI・半導体関連を中心に幅広い銘柄が買われた。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOFL161T5TW6A011C2000000/"
+      "title": "高市首相「国会開会中の辞任、申し訳ない」 簗氏“更迭”を陳謝",
+      "summary": "16日の参院予算委員会で、高市早苗首相は簗和生前農水相が国会開会中に辞任する事態になったことを陳謝し、任命責任を重く受け止める考えを示した。立憲民主党から判断の遅れを問われ「かばっていたわけではない」とも反論した。",
+      "source": "テレビ朝日系(ANN)",
+      "link": "https://news.yahoo.co.jp/articles/eac14a843d66d64a12dc08533f4880fd1dc2a1de"
     },
     {
-      "title": "植田日銀総裁、中東情勢・AI・為替が経済物価に及ぼす影響に留意必要と指摘",
-      "summary": "日本銀行の植田和男総裁は16日、全国信用組合大会向けの挨拶(内田副総裁が代読)で、中東情勢やAI、為替動向が経済・物価に及ぼす影響に留意が必要だと述べた。基調物価を2%程度で安定させる重要性にも言及した。",
-      "source": "みんかぶ(FX/為替)",
-      "link": "https://fx.minkabu.jp/news/381804"
+      "title": "高市首相、中国開催APEC「国会のお許しいただけたら出席」 G7オンライン会議は欠席",
+      "summary": "高市首相は16日の参院予算委員会で、11月に中国・深圳で開かれるAPEC首脳会議への出席について「国会のお許しをいただければ出席する」と述べた。同日夜のG7オンライン会議は欠席する考えを示した。",
+      "source": "日刊スポーツ",
+      "link": "https://news.yahoo.co.jp/articles/d529b800a5d334e2324389bb83c14afb2d2a7136"
     },
     {
-      "title": "農相更迭で「高市1強」のもろさ露呈、消費税減税審議に影",
-      "summary": "簗和生前農相の更迭を経て、高市早苗首相は自民党幹部との連携不足が露呈したとの指摘が16日報じられた。後任には武部新氏が就任しており、臨時国会での消費税減税関連法案の審議にも影響が注目されている。",
-      "source": "新潟日報",
-      "link": "https://www.niigata-nippo.co.jp/articles/-/925363"
+      "title": "首相、外食喚起へ商品券活用言及 減税財源は基金の国庫返納を例示",
+      "summary": "高市首相は16日、食料品の消費税減税法案の財源として基金の国庫返納など税外収入の活用を例示するとともに、外食産業の需要喚起策としてプレミアム付き商品券の活用にも言及した。",
+      "source": "共同通信",
+      "link": "http://373news.com/news/national/detail/2026101601001869/"
     },
     {
-      "title": "高市首相、外食需要喚起でプレミアム商品券の活用に言及",
-      "summary": "高市早苗首相は参院予算委員会で、消費税率10%が維持される外食産業の需要喚起策として、プレミアム付き商品券の活用に言及した。食料品の消費税減税で生じる税負担の差への対応策の一つとされる。",
-      "source": "新潟日報",
-      "link": "https://www.niigata-nippo.co.jp/articles/-/925757"
+      "title": "なぜ起きた? 取り消された10月16日昼過ぎの緊急地震速報、気象庁「千島列島でM9.9と過大推定」",
+      "summary": "16日午後0時40分ごろ、気象庁は千島列島を震源とする巨大地震を想定した緊急地震速報を北海道から東海地方に発表したが、実際には強い揺れは観測されず取り消した。規模をM6.9からM9.9と過大に推定したとみられ、気象庁が原因を調査している。",
+      "source": "マイナビニュース",
+      "link": "https://news.mynavi.jp/techplus/article/20261016-5138851/"
     },
     {
-      "title": "公明・斉藤鉄夫元代表、自民との再連立「将来は縛らず」 政治改革が条件",
-      "summary": "公明党の斉藤鉄夫元代表は16日、自民党との連立離脱表明から1年を受けて取材に応じ、再連立の可能性は現時点でないとしつつ、政治とカネの問題で改革が前進すれば将来を縛るものではないと語った。",
-      "source": "東京新聞",
-      "link": "https://www.tokyo-np.co.jp/article/522057"
+      "title": "政府 個人の機微データ防護へ法改正の方針 経済安保強化に向け",
+      "summary": "政府は、病歴や指紋、位置情報など個人の機微なデータを第三者へ提供する際に国への事前報告を義務づける方向で検討しており、経済安全保障推進法の改正を目指す方針を16日までに固めた。",
+      "source": "NHK",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261016de60764"
     }
   ],
   "tech": [
     {
-      "title": "TSMC、7-9月期は売上高が過去最高 AI需要で通期見通しも上方修正",
-      "summary": "台湾TSMCは15日、2026年7-9月期の決算を発表し、売上高は前年比50.9%増の1兆4942億台湾ドルと過去最高を記録した。AI向け需要の拡大を受け、2026年通期の売上成長率見通しも上方修正した。",
-      "source": "TSMC(SEC Form 6-K)",
-      "link": "https://www.sec.gov/Archives/edgar/data/0001046179/000104617926000726/a3q26e_withguidancexfinal.htm"
+      "title": "ダウ平均続伸、半導体売りもありナスダックはマイナス圏＝米国株序盤",
+      "summary": "16日のNY株式市場序盤、ダウ平均は続伸する一方、AI投資の資金調達懸念やCoreWeaveの債務問題を背景に半導体・AI関連株への売りが続き、ナスダック総合指数はマイナス圏で推移した。",
+      "source": "みんかぶ(FX/為替)",
+      "link": "https://fx.minkabu.jp/news/381858"
     },
     {
-      "title": "SK hynix、中国・大連工場への米製造装置輸出で米に承認要請",
-      "summary": "SK hynixは、米国内に新工場を建設することを条件に、中国・大連の既存工場へ米国製半導体製造装置を輸出する許可を米政府に求めていると15日報じられた。対中輸出規制下での事業継続を図る動き。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/15/sk-hynix-bargains-for-chip-equipment-exports-to-its-china-facility-in-return-for-building-a-factory-in-us"
+      "title": "OpenAI, Anthropic Face FTC Subpoenas As AI Safety Crisis Deepens",
+      "summary": "米連邦取引委員会(FTC)は15日、OpenAIとAnthropicに対し、AIの安全性に関するインシデントや安全対策、マーケティング資料などの提出を求める50ページ超の民事調査要求(CID)を送付した。両社への正式調査開始から約2週間後の動き。",
+      "source": "Benzinga",
+      "link": "https://www.benzinga.com/markets/private-markets/26/10/62396478/openai-anthropic-face-ftc-subpoenas-as-ai-safety-crisis-deepens"
     },
     {
-      "title": "Meta、オープンウェイトAIモデル「Muse Spark Open」公開 Appleと連携",
-      "summary": "Metaは15日、8160億パラメータ・100万トークンのコンテキスト長を持つオープンウェイトモデル「Muse Spark Open」を公開した。Appleと連携し、Mac上でローカル動作することを特徴としている。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs"
+      "title": "Taiwan Semiconductor Holds The Cards As NVIDIA, Apple And AMD Battle For Limited AI Chip Capacity",
+      "summary": "TSMCの次世代2nmプロセスの生産枠はすでにAppleとNVIDIAが大半を確保しており、AMDも新型AIアクセラレータの投入で生産ラインの逼迫に拍車をかけている。供給制約を背景にTSMCの価格決定力が強まっているとされる。",
+      "source": "Benzinga",
+      "link": "https://www.benzinga.com/markets/tech/26/10/62404541/taiwan-semiconductor-holds-the-cards-as-nvidia-apple-and-amd-battle-for-limited-ai-chip-capacity"
     },
     {
-      "title": "NVIDIA、RTX Spark搭載PC発売 新型ローカルAIモデルも公開",
-      "summary": "NVIDIAは16日、RTX Spark搭載のWindows 11 PCを発売した。合わせて、24GBのメモリで動作するローカルAIエージェント向けモデル「Nemotron 3.5 Bolt」も公開している。",
-      "source": "NVIDIA Blog",
-      "link": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron/"
-    },
-    {
-      "title": "Samsung・SK hynix、HBM直結設計やHBFで次世代AIメモリー技術を競う",
-      "summary": "Samsung電子とSK hynixは、GPU上に直接HBMを積層する設計や、AI推論向けに容量を拡大する高帯域フラッシュ(HBF)など、次世代AIメモリー技術の開発でしのぎを削っていると16日報じられた。",
-      "source": "Digitimes",
-      "link": "https://www.digitimes.com/news/a20261016PD214/samsung-sk-hynix-hbm-data-capacity.html"
-    },
-    {
-      "title": "経費管理スタートアップRamp、評価額600億ドルで18.5億ドル調達",
-      "summary": "企業向け経費管理サービスのRampが、Dragoneerなど主導で約18.5億ドルを調達し、評価額が600億ドルに達したと15日報じられた。6月時点の440億ドルから大幅に上昇している。",
-      "source": "TheNextWeb",
-      "link": "https://thenextweb.com/news/ramp-60bn-valuation-1-85bn-round"
-    },
-    {
-      "title": "AIエージェント新興Hone、Benchmark主導で6000万ドルのシード調達",
-      "summary": "元OpenAI・Cognition出身者が設立したAIスタートアップHoneが、BenchmarkとIndex Venturesが主導するシードラウンドで6000万ドルを調達し、評価額2.85億ドルとなったと15日報じられた。",
-      "source": "CryptoBriefing",
-      "link": "https://cryptobriefing.com/hone-ai-agents-60-million-seed/"
-    },
-    {
-      "title": "Meta、GitHub不正アクセスで従業員など1500人の情報流出と通知",
-      "summary": "Metaは、GitHubのリポジトリへの不正アクセスにより、主に米国の従業員を中心とした約1500人分の個人情報が流出したとして対象者に通知していると15日報じられた。侵入は数週間前に検知されたとされる。",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/meta-says-hackers-took-code-personal-data-of-1500-in-github-breach/"
-    },
-    {
-      "title": "xAI、音声AIモデル「Grok Voice 3.0」を発表",
-      "summary": "xAIは音声対話モデル「Grok Voice 3.0」を発表した。1分あたり0.08ドルの価格で提供され、既にテスラ車内やStarlinkのサポート対応で導入されているという。",
-      "source": "AI Weekly",
-      "link": "https://aiweekly.co/alerts/xai-grok-voice-30-ships-at-008min-tops-index-at-869"
-    },
-    {
-      "title": "Amazon、Grok AIボットの購入機能をブロック マスク氏はEC対抗を示唆",
-      "summary": "AmazonがxAIの「Grok」AIボットによる自社サイトでの注文実行をブロックしていると16日報じられた。これを受けイーロン・マスク氏は、Amazonに対抗するEC事業の立ち上げを示唆する投稿をした。",
-      "source": "Futunn",
-      "link": "https://news.futunn.com/en/post/1001361141/amazon-bans-ai-agent-grok-bot-musk-responds-swiftly-should"
+      "title": "Reflection's Beam aims to undercut Chinese open models with fewer tokens, not cheaper tokens",
+      "summary": "米スタートアップReflection AIは16日、推論・コーディング向けオープンウェイトモデル「Beam」(5010億パラメータ)の重みを公開した。中国勢のオープンモデルに対し、より少ないトークン数で対抗する戦略を打ち出している。",
+      "source": "VentureBeat",
+      "link": "https://venturebeat.com/technology/reflections-beam-aims-to-undercut-chinese-open-models-with-fewer-tokens-not-cheaper-tokens"
     }
   ],
   "x_trending_tech": []
