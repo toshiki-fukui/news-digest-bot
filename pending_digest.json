@@ -1,62 +1,117 @@
 {
-  "run_label": "10/17 07:00",
+  "run_label": "10/17 19:00",
   "politics_economy": [
     {
-      "title": "高市首相「国会開会中の辞任、申し訳ない」 簗氏“更迭”を陳謝",
-      "summary": "16日の参院予算委員会で、高市早苗首相は簗和生前農水相が国会開会中に辞任する事態になったことを陳謝し、任命責任を重く受け止める考えを示した。立憲民主党から判断の遅れを問われ「かばっていたわけではない」とも反論した。",
-      "source": "テレビ朝日系(ANN)",
-      "link": "https://news.yahoo.co.jp/articles/eac14a843d66d64a12dc08533f4880fd1dc2a1de"
-    },
-    {
-      "title": "高市首相、中国開催APEC「国会のお許しいただけたら出席」 G7オンライン会議は欠席",
-      "summary": "高市首相は16日の参院予算委員会で、11月に中国・深圳で開かれるAPEC首脳会議への出席について「国会のお許しをいただければ出席する」と述べた。同日夜のG7オンライン会議は欠席する考えを示した。",
-      "source": "日刊スポーツ",
-      "link": "https://news.yahoo.co.jp/articles/d529b800a5d334e2324389bb83c14afb2d2a7136"
-    },
-    {
-      "title": "首相、外食喚起へ商品券活用言及 減税財源は基金の国庫返納を例示",
-      "summary": "高市首相は16日、食料品の消費税減税法案の財源として基金の国庫返納など税外収入の活用を例示するとともに、外食産業の需要喚起策としてプレミアム付き商品券の活用にも言及した。",
-      "source": "共同通信",
-      "link": "http://373news.com/news/national/detail/2026101601001869/"
-    },
-    {
-      "title": "なぜ起きた? 取り消された10月16日昼過ぎの緊急地震速報、気象庁「千島列島でM9.9と過大推定」",
-      "summary": "16日午後0時40分ごろ、気象庁は千島列島を震源とする巨大地震を想定した緊急地震速報を北海道から東海地方に発表したが、実際には強い揺れは観測されず取り消した。規模をM6.9からM9.9と過大に推定したとみられ、気象庁が原因を調査している。",
-      "source": "マイナビニュース",
-      "link": "https://news.mynavi.jp/techplus/article/20261016-5138851/"
-    },
-    {
-      "title": "政府 個人の機微データ防護へ法改正の方針 経済安保強化に向け",
-      "summary": "政府は、病歴や指紋、位置情報など個人の機微なデータを第三者へ提供する際に国への事前報告を義務づける方向で検討しており、経済安全保障推進法の改正を目指す方針を16日までに固めた。",
+      "title": "自民・小林政調会長、食料品消費税減税法案の今国会成立へ野党への働きかけ継続",
+      "summary": "自民党の小林鷹之政調会長は17日、食料品の消費税減税に関する法案について、今国会での成立を目指し多くの野党に丁寧に働きかけを続ける考えを示した。",
       "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261016de60764"
+      "link": "https://news.web.nhk/newsweb/na/nd-20261017de60929"
+    },
+    {
+      "title": "食料品消費税減税法案、来週国会で審議入り 与党は成立急ぐ、野党は支援金の対象明示を要求",
+      "summary": "食料品の消費税減税に関する関連法案が来週、国会で審議入りすることが17日分かった。与党は今国会での成立を目指す一方、野党側は財源や所得に応じた支援金の対象を明確にするよう求めている。",
+      "source": "NHK",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261017de60791"
+    },
+    {
+      "title": "北朝鮮メディア、AI搭載の新型魚雷の発射実験実施と発表",
+      "summary": "朝鮮中央通信は17日、国防科学院などが新型の高速魚雷の発射実験を行ったと報じた。目標探索や誘導に人工知能(AI)技術を導入したと主張しているが、専門家は実際の能力には疑問を示している。",
+      "source": "NHK",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261017de60903"
+    },
+    {
+      "title": "消費税減税に伴う農家支援、売り上げの5%相当の給付金を検討",
+      "summary": "政府は、食料品の消費税減税で影響を受ける農家などへの支援策として、売り上げの5%程度に相当する給付金を支給する方向で検討していることが16日分かった。",
+      "source": "NHK",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261016de60762"
+    },
+    {
+      "title": "高市首相、第2次補正予算の編成に含み「真に緊要な施策あれば検討」",
+      "summary": "高市首相は16日の国会審議で、2026年度第2次補正予算の編成について「真に緊要性が高い施策があれば検討することはあり得る」と述べ、編成の可能性に含みを持たせた。",
+      "source": "共同通信",
+      "link": "https://news.yahoo.co.jp/articles/fd3bcbcbc44d6db869f3dc41cbafaf8320d46e60"
     }
   ],
   "tech": [
     {
-      "title": "ダウ平均続伸、半導体売りもありナスダックはマイナス圏＝米国株序盤",
-      "summary": "16日のNY株式市場序盤、ダウ平均は続伸する一方、AI投資の資金調達懸念やCoreWeaveの債務問題を背景に半導体・AI関連株への売りが続き、ナスダック総合指数はマイナス圏で推移した。",
-      "source": "みんかぶ(FX/為替)",
-      "link": "https://fx.minkabu.jp/news/381858"
+      "title": "逮捕されたOpenAIエンジニア、保釈を申請 国外逃亡の意図を否定",
+      "summary": "OpenAIの会議室に隠しマイクを設置したとして逮捕されたサウジ国籍のエンジニア、アブドゥルラフマン・アルフォザン被告が17日、保釈を申請し、渡航計画は捜査とは無関係だったと主張した。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-17/arrested-openai-engineer-seeks-bail-denies-he-planned-to-flee"
     },
     {
-      "title": "OpenAI, Anthropic Face FTC Subpoenas As AI Safety Crisis Deepens",
-      "summary": "米連邦取引委員会(FTC)は15日、OpenAIとAnthropicに対し、AIの安全性に関するインシデントや安全対策、マーケティング資料などの提出を求める50ページ超の民事調査要求(CID)を送付した。両社への正式調査開始から約2週間後の動き。",
-      "source": "Benzinga",
-      "link": "https://www.benzinga.com/markets/private-markets/26/10/62396478/openai-anthropic-face-ftc-subpoenas-as-ai-safety-crisis-deepens"
+      "title": "AnthropicのClaude、量子回路の設計で既存の最良記録を上回る性能を達成",
+      "summary": "Anthropicは研究プログラム「STEM Fellows」の一環として、Claude(Mythos 5)に平易な言葉の指示のみから量子回路を設計させたところ、8つの計算課題のうち7つで既存の公開済み設計を上回り、ゲート数を最大17倍削減する成果を得たと発表した。",
+      "source": "Unite.AI",
+      "link": "https://www.unite.ai/anthropic-says-claude-beat-best-published-quantum-circuit-designs/"
     },
     {
-      "title": "Taiwan Semiconductor Holds The Cards As NVIDIA, Apple And AMD Battle For Limited AI Chip Capacity",
-      "summary": "TSMCの次世代2nmプロセスの生産枠はすでにAppleとNVIDIAが大半を確保しており、AMDも新型AIアクセラレータの投入で生産ラインの逼迫に拍車をかけている。供給制約を背景にTSMCの価格決定力が強まっているとされる。",
-      "source": "Benzinga",
-      "link": "https://www.benzinga.com/markets/tech/26/10/62404541/taiwan-semiconductor-holds-the-cards-as-nvidia-apple-and-amd-battle-for-limited-ai-chip-capacity"
+      "title": "AnthropicのClaude、25年来のNIST楕円曲線シード生成の謎を30分で解明",
+      "summary": "Anthropicの研究チームは、暗号標準に使われるNISTの楕円曲線パラメータの基になった乱数シードの生成法を、Claudeが約30分で特定したと発表した。1990年代の乱数生成器に起因するとみられ、新たな暗号攻撃手法の発見ではないとしている。",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/10/17/wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery"
     },
     {
-      "title": "Reflection's Beam aims to undercut Chinese open models with fewer tokens, not cheaper tokens",
-      "summary": "米スタートアップReflection AIは16日、推論・コーディング向けオープンウェイトモデル「Beam」(5010億パラメータ)の重みを公開した。中国勢のオープンモデルに対し、より少ないトークン数で対抗する戦略を打ち出している。",
-      "source": "VentureBeat",
-      "link": "https://venturebeat.com/technology/reflections-beam-aims-to-undercut-chinese-open-models-with-fewer-tokens-not-cheaper-tokens"
+      "title": "中国商務省、AI・太陽光・生物医薬など40技術の輸出規制強化案を発表",
+      "summary": "中国商務省と科学技術部は16日、AI関連23品目、太陽光12品目、生物医薬5品目を含む計40技術を輸出管理品目に追加する公告案を発表した。11月15日まで意見公募を行う。",
+      "source": "RuntimeWire",
+      "link": "https://runtimewire.com/article/china-proposes-export-controls-ai-biotech-solar-technologies"
+    },
+    {
+      "title": "Google、ショッピング機能「Universal Cart」を米国で開始 検索・Geminiでのエージェント型購買に対応",
+      "summary": "Googleは15日、複数店舗の商品を一元管理できる新機能「Universal Cart」を米国の検索とGeminiアプリで開始した。決済は新標準「Universal Commerce Protocol」に対応し、ナイキやウォルマートなど主要小売企業が参加している。",
+      "source": "The Next Web",
+      "link": "https://thenextweb.com/news/google-universal-cart-us-only-eu"
+    },
+    {
+      "title": "中国系ハッカー集団、BeyondTrustのゼロデイ脆弱性を悪用し約7週間侵入",
+      "summary": "GoogleのThreat Intelligence GroupとMandiantは、中国系の国家支援型ハッカー集団「Armory Castle」がBeyondTrustのリモートサポート製品のゼロデイ脆弱性(CVE-2026-102764)を悪用し、8月末から約7週間にわたり侵入していたと明らかにした。",
+      "source": "Cybersecurity Dive",
+      "link": "https://www.cybersecuritydive.com/news/china-espionage-beyondtrust-zero-day-hacker/833240/"
+    },
+    {
+      "title": "Palo Alto Networks、悪用確認済みのPAN-OSゼロデイ脆弱性に対応 米当局は本日17日までの対処を要請",
+      "summary": "Palo Alto Networksは14日、管理者権限で任意のコード実行が可能になるPAN-OSの脆弱性(CVE-2026-0322)が実際の攻撃で悪用されたとして修正パッチを公開した。米CISAは既知の悪用脆弱性リストに追加し、連邦機関に17日までの対応を求めている。",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks/"
+    },
+    {
+      "title": "米マイクロン、台湾・台中にHBM新施設「AATT2」開所 2027年分供給の大半を契約済み",
+      "summary": "米半導体大手マイクロン・テクノロジーは15日、広帯域幅メモリ(HBM)向けの先端組み立て・検査施設「AATT2」の開所式を台湾・台中で行った。2027年分のHBM供給量の大部分について、前年より高い価格で契約済みだと明らかにした。",
+      "source": "財経新聞",
+      "link": "https://www.zaikei.co.jp/article/20261017/873899.html"
+    },
+    {
+      "title": "インドのエンタープライズAIスタートアップRapidCanvas、シリーズBで2,900万ドル調達",
+      "summary": "企業向けAIプラットフォームを手がけるRapidCanvasが、Vertex Ventures SEA & Indiaが主導するシリーズBラウンドで2,900万ドルを調達したと発表した。インド・米国・ブラジルでの営業・AIエンジニアリング体制の拡大に充てる。",
+      "source": "Inc42",
+      "link": "https://inc42.com/buzz/enterprise-ai-startup-rapidcanvas-nets-29-mn-to-expand-gtm-teams/"
+    },
+    {
+      "title": "AppleとMetaが提携、MetaのAIモデル「Muse Spark Open」をMac Studioで稼働可能に",
+      "summary": "Metaは15日、オープンウェイトAIモデル「Muse Spark Open」(総パラメータ816億)をAppleの新型Mac Studio(M5 Ultra)上で動作させられるよう両社が協力したと発表した。2017年以来となる両社の公式な協業とされる。",
+      "source": "PYMNTS",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/apple-meta-team-up-to-put-big-ai-on-desktops/"
     }
   ],
-  "x_trending_tech": []
+  "x_trending_tech": [
+    {
+      "title": "Anthropic公式、Claudeによる量子回路設計の成果を発表 Xで反響",
+      "summary": "Anthropic公式アカウントが、ClaudeのSTEM Fellowsプログラムによる量子回路設計の成果(既存設計をゲート数で最大17倍効率化)を発表し、AI研究者の間で反響を呼んだ。17日未明(日本時間)の投稿。",
+      "source": "@AnthropicAI",
+      "link": "https://x.com/AnthropicAI/status/2111152183240511640"
+    },
+    {
+      "title": "Claudeが解明したNIST暗号シードの謎、Xでも話題に",
+      "summary": "AnthropicのClaudeが25年来のNIST楕円曲線シード生成の謎を解明したというニュースが、暗号・AI関係者の間でXで広く共有された。17日朝(日本時間)の投稿。",
+      "source": "@BitcoinNewsCom",
+      "link": "https://x.com/BitcoinNewsCom/status/2111191427199774906"
+    },
+    {
+      "title": "中国がAI技術の輸出規制強化を検討、Bloombergの報道がXで拡散",
+      "summary": "中国がAIモデルや関連技術を輸出管理リストに追加する案を検討しているとのBloomberg報道がXで広く共有され、米中のAI覇権競争への影響が議論されている。16日夜(日本時間)の投稿。",
+      "source": "@business",
+      "link": "https://x.com/business/status/2111040730055561645"
+    }
+  ]
 }
