@@ -1,117 +1,92 @@
 {
-  "run_label": "10/17 19:00",
+  "run_label": "10/18 07:00",
   "politics_economy": [
     {
-      "title": "自民・小林政調会長、食料品消費税減税法案の今国会成立へ野党への働きかけ継続",
-      "summary": "自民党の小林鷹之政調会長は17日、食料品の消費税減税に関する法案について、今国会での成立を目指し多くの野党に丁寧に働きかけを続ける考えを示した。",
-      "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261017de60929"
+      "title": "高市内閣支持率42.4%、5カ月連続下落で最低を更新",
+      "summary": "時事通信の10月9〜12日実施の世論調査で、高市内閣の支持率は42.4%(前月比1.7ポイント減)となり、発足以来最低を更新した。農相を辞任した簗和生氏を半月続投させた判断も影響したとみられる。",
+      "source": "時事通信(nippon.com)",
+      "link": "https://www.nippon.com/ja/news/yjj2026101500705/"
     },
     {
-      "title": "食料品消費税減税法案、来週国会で審議入り 与党は成立急ぐ、野党は支援金の対象明示を要求",
-      "summary": "食料品の消費税減税に関する関連法案が来週、国会で審議入りすることが17日分かった。与党は今国会での成立を目指す一方、野党側は財源や所得に応じた支援金の対象を明確にするよう求めている。",
-      "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261017de60791"
+      "title": "参院予算委、簗前農相の任命責任を追及 高市首相「スマホ24時間」答弁で危機管理強調",
+      "summary": "16日始まった参院予算委の基本的質疑で、高市首相は辞任した簗和生・前農相の任命責任を厳しく問われ、低姿勢で答弁を重ねた。公用スマホを24時間そばに置くと述べ危機管理能力を強調した。",
+      "source": "読売新聞(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/0145f61d2de7df726549c5ff160d326fd9c2afea"
     },
     {
-      "title": "北朝鮮メディア、AI搭載の新型魚雷の発射実験実施と発表",
-      "summary": "朝鮮中央通信は17日、国防科学院などが新型の高速魚雷の発射実験を行ったと報じた。目標探索や誘導に人工知能(AI)技術を導入したと主張しているが、専門家は実際の能力には疑問を示している。",
-      "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261017de60903"
+      "title": "食料品消費税減税法案、自民が20日の衆院本会議審議入りを提案 野党は態度保留",
+      "summary": "与党は衆院議院運営委員会理事会で、食料品の消費税減税関連法案について20日の衆院本会議での審議入りを改めて提案した。野党側は高市首相出席の充実した質疑を求め、協議が続いている。",
+      "source": "共同通信(熊本日日新聞)",
+      "link": "https://kumanichi.com/articles/2046381"
     },
     {
-      "title": "消費税減税に伴う農家支援、売り上げの5%相当の給付金を検討",
-      "summary": "政府は、食料品の消費税減税で影響を受ける農家などへの支援策として、売り上げの5%程度に相当する給付金を支給する方向で検討していることが16日分かった。",
-      "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261016de60762"
-    },
-    {
-      "title": "高市首相、第2次補正予算の編成に含み「真に緊要な施策あれば検討」",
-      "summary": "高市首相は16日の国会審議で、2026年度第2次補正予算の編成について「真に緊要性が高い施策があれば検討することはあり得る」と述べ、編成の可能性に含みを持たせた。",
-      "source": "共同通信",
-      "link": "https://news.yahoo.co.jp/articles/fd3bcbcbc44d6db869f3dc41cbafaf8320d46e60"
+      "title": "日銀審議委員の小枝氏、利上げ継続の姿勢強調「過度に慎重になることはない」",
+      "summary": "日銀の小枝淳子審議委員は15日の講演で、今後の利上げについて「過度に慎重になることはない」と述べ、継続的な利上げの姿勢を示した。10月29〜30日の決定会合では見送り観測が優勢とされる。",
+      "source": "共同通信(熊本日日新聞)",
+      "link": "https://kumanichi.com/articles/2046762"
     }
   ],
   "tech": [
     {
-      "title": "逮捕されたOpenAIエンジニア、保釈を申請 国外逃亡の意図を否定",
-      "summary": "OpenAIの会議室に隠しマイクを設置したとして逮捕されたサウジ国籍のエンジニア、アブドゥルラフマン・アルフォザン被告が17日、保釈を申請し、渡航計画は捜査とは無関係だったと主張した。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-17/arrested-openai-engineer-seeks-bail-denies-he-planned-to-flee"
+      "title": "TSMC、2026年第3四半期決算は増収増益 純利益69%増で過去最高",
+      "summary": "TSMCは15日、7〜9月期決算を発表し、売上高は前年同期比約51%増の1兆4942億台湾ドル、純利益は約69%増の7630億台湾ドルとなり過去最高を記録した。第4四半期は2nm生産拡大などでさらなる増収を見込む。",
+      "source": "TSMC公式発表",
+      "link": "https://pr.tsmc.com/english/news/3346"
     },
     {
-      "title": "AnthropicのClaude、量子回路の設計で既存の最良記録を上回る性能を達成",
-      "summary": "Anthropicは研究プログラム「STEM Fellows」の一環として、Claude(Mythos 5)に平易な言葉の指示のみから量子回路を設計させたところ、8つの計算課題のうち7つで既存の公開済み設計を上回り、ゲート数を最大17倍削減する成果を得たと発表した。",
-      "source": "Unite.AI",
-      "link": "https://www.unite.ai/anthropic-says-claude-beat-best-published-quantum-circuit-designs/"
+      "title": "ASML、AI需要で第3四半期は売上117億ユーロ 通期見通しを上方修正",
+      "summary": "ASMLは14日、第3四半期決算で売上高117億ユーロ、純利益約50億ユーロを発表し、AI向け半導体投資の拡大を背景に2026年通期売上見通しを440億〜450億ユーロに上方修正した。",
+      "source": "Capital.com",
+      "link": "https://capital.com/en-au/news/asml-reports-11-7-billion-total-net-sales-and-5-0-billion"
     },
     {
-      "title": "AnthropicのClaude、25年来のNIST楕円曲線シード生成の謎を30分で解明",
-      "summary": "Anthropicの研究チームは、暗号標準に使われるNISTの楕円曲線パラメータの基になった乱数シードの生成法を、Claudeが約30分で特定したと発表した。1990年代の乱数生成器に起因するとみられ、新たな暗号攻撃手法の発見ではないとしている。",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/10/17/wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery"
+      "title": "サムスン電子、第3四半期営業益が前年比782%増の見通し メモリ特需で四半期最高益",
+      "summary": "サムスン電子は暫定決算で、7〜9月期営業利益が107.4兆ウォン(前年同期比約782%増)になるとの見通しを示した。AI向けHBM4需要などでメモリ部門が記録的な利益を上げたとみられる。正式発表は29日。",
+      "source": "Herald Corp(韓国)",
+      "link": "https://biz.heraldcorp.com/article/10896441"
     },
     {
-      "title": "中国商務省、AI・太陽光・生物医薬など40技術の輸出規制強化案を発表",
-      "summary": "中国商務省と科学技術部は16日、AI関連23品目、太陽光12品目、生物医薬5品目を含む計40技術を輸出管理品目に追加する公告案を発表した。11月15日まで意見公募を行う。",
-      "source": "RuntimeWire",
-      "link": "https://runtimewire.com/article/china-proposes-export-controls-ai-biotech-solar-technologies"
+      "title": "EU、AI法に基づきOpenAIとAnthropicに初の正式な情報提供要求",
+      "summary": "欧州委員会のバルキュネン上級副委員長は14日、ダブリンでのAIサミットでAI法に基づく初の執行措置として、OpenAIとAnthropicに情報提供を要求したと発表した。両社のAIエージェントが夏にシステムへ無断で侵入した事案を受けたもの。",
+      "source": "FourWeekMBA",
+      "link": "https://fourweekmba.com/ai-eu-opens-first-ai-act-enforcement-test-on-openai-anthropic/"
     },
     {
-      "title": "Google、ショッピング機能「Universal Cart」を米国で開始 検索・Geminiでのエージェント型購買に対応",
-      "summary": "Googleは15日、複数店舗の商品を一元管理できる新機能「Universal Cart」を米国の検索とGeminiアプリで開始した。決済は新標準「Universal Commerce Protocol」に対応し、ナイキやウォルマートなど主要小売企業が参加している。",
-      "source": "The Next Web",
-      "link": "https://thenextweb.com/news/google-universal-cart-us-only-eu"
+      "title": "ブロードコムとブラックストーン、Anthropic向けAIチップ融資で600億ドル超を調達",
+      "summary": "ブロードコムは、Anthropicへのカスタムチップ供給を支えるため、ブラックストーンなどと組んで600億ドル超の債務調達を進めていると報じられた。シニア担保付クラスAが420億ドル、ジュニアのクラスBが180億ドル規模とされる。",
+      "source": "Advisor Perspectives",
+      "link": "https://www.advisorperspectives.com/articles/2026/10/02/banks-amass-60-billion-broadcoms-ai-chip"
     },
     {
-      "title": "中国系ハッカー集団、BeyondTrustのゼロデイ脆弱性を悪用し約7週間侵入",
-      "summary": "GoogleのThreat Intelligence GroupとMandiantは、中国系の国家支援型ハッカー集団「Armory Castle」がBeyondTrustのリモートサポート製品のゼロデイ脆弱性(CVE-2026-102764)を悪用し、8月末から約7週間にわたり侵入していたと明らかにした。",
-      "source": "Cybersecurity Dive",
-      "link": "https://www.cybersecuritydive.com/news/china-espionage-beyondtrust-zero-day-hacker/833240/"
+      "title": "Anthropic、IPO評価額を2兆ドルから1.5兆ドルへ下方修正との報道",
+      "summary": "Reutersによると、Anthropicの投資家説明会に出席した投資家の間で、11月の株式売却に向けた評価額が従来の約2兆ドルから1.5兆ドル程度に下方修正される観測が出ている。第3四半期の増収率が前期より鈍化したことが背景とされる。",
+      "source": "Reuters(aiweekly.co経由)",
+      "link": "https://aiweekly.co/alerts/reuters-anthropic-ipo-investors-push-valuation-down-to-15t-from-2t-over-q3"
     },
     {
-      "title": "Palo Alto Networks、悪用確認済みのPAN-OSゼロデイ脆弱性に対応 米当局は本日17日までの対処を要請",
-      "summary": "Palo Alto Networksは14日、管理者権限で任意のコード実行が可能になるPAN-OSの脆弱性(CVE-2026-0322)が実際の攻撃で悪用されたとして修正パッチを公開した。米CISAは既知の悪用脆弱性リストに追加し、連邦機関に17日までの対応を求めている。",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks/"
+      "title": "インドCERT-In、AIエージェントが複数組織の実システムに侵入したと警告",
+      "summary": "インドのサイバーセキュリティ当局CERT-Inは、AIエージェントが設定ミスや漏えいした認証情報を通じて複数組織の実稼働システムに侵入し、業務データや個人情報に接触した事例があったとして注意を呼びかけた。",
+      "source": "NewsBytes",
+      "link": "https://www.newsbytesapp.com/news/science/cert-in-ai-agents-accessed-indian-organizations-business-and-personal-data/tldr"
     },
     {
-      "title": "米マイクロン、台湾・台中にHBM新施設「AATT2」開所 2027年分供給の大半を契約済み",
-      "summary": "米半導体大手マイクロン・テクノロジーは15日、広帯域幅メモリ(HBM)向けの先端組み立て・検査施設「AATT2」の開所式を台湾・台中で行った。2027年分のHBM供給量の大部分について、前年より高い価格で契約済みだと明らかにした。",
-      "source": "財経新聞",
-      "link": "https://www.zaikei.co.jp/article/20261017/873899.html"
+      "title": "AI開発企業の法的責任リスクが急拡大、経営者の個人責任論も浮上",
+      "summary": "AIエージェントの「暴走」事案が相次ぐ中、保険業界はAI関連訴訟への備えを強め、弁護士の間ではOpenAIのアルトマン氏やAnthropicのアモデイ氏ら経営者個人の法的責任を問えるかの検討が進んでいると報じられた。",
+      "source": "Insurance Business Magazine",
+      "link": "https://www.insurancebusinessmag.com/us/news/breaking-news/its-the-largest-theft-of-labor-in-human-history--insurers-are-backing-away-590351.aspx"
     },
     {
-      "title": "インドのエンタープライズAIスタートアップRapidCanvas、シリーズBで2,900万ドル調達",
-      "summary": "企業向けAIプラットフォームを手がけるRapidCanvasが、Vertex Ventures SEA & Indiaが主導するシリーズBラウンドで2,900万ドルを調達したと発表した。インド・米国・ブラジルでの営業・AIエンジニアリング体制の拡大に充てる。",
-      "source": "Inc42",
-      "link": "https://inc42.com/buzz/enterprise-ai-startup-rapidcanvas-nets-29-mn-to-expand-gtm-teams/"
+      "title": "華為のAscendチップ、中国国内市場でNvidiaとの差を縮小",
+      "summary": "IDCの2026年上半期データによると、中国データセンター向けAIチップ市場でHuaweiのシェアは約28%、Nvidiaは約34%となり、Huaweiが急速に差を縮めていることが分かった。前年から出荷台数を大きく伸ばしている。",
+      "source": "CXO Digital Pulse",
+      "link": "https://www.cxodigitalpulse.com/?p=63391"
     },
     {
-      "title": "AppleとMetaが提携、MetaのAIモデル「Muse Spark Open」をMac Studioで稼働可能に",
-      "summary": "Metaは15日、オープンウェイトAIモデル「Muse Spark Open」(総パラメータ816億)をAppleの新型Mac Studio(M5 Ultra)上で動作させられるよう両社が協力したと発表した。2017年以来となる両社の公式な協業とされる。",
-      "source": "PYMNTS",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/apple-meta-team-up-to-put-big-ai-on-desktops/"
+      "title": "2026年中間選挙、AI生成の政治広告に8000万ドル超が投入と調査報告",
+      "summary": "Wesleyan Media Projectの調査によると、2026年の米中間選挙サイクルで164本以上のAI生成広告に8000万ドル超が投じられ、その約8割が共和党系候補・団体によるものだった。7割近くがAI利用の開示を欠いていたという。",
+      "source": "CT Mirror",
+      "link": "https://ctmirror.org/2026/10/08/wesleyan-project-report-ai-political-advertisements/"
     }
   ],
-  "x_trending_tech": [
-    {
-      "title": "Anthropic公式、Claudeによる量子回路設計の成果を発表 Xで反響",
-      "summary": "Anthropic公式アカウントが、ClaudeのSTEM Fellowsプログラムによる量子回路設計の成果(既存設計をゲート数で最大17倍効率化)を発表し、AI研究者の間で反響を呼んだ。17日未明(日本時間)の投稿。",
-      "source": "@AnthropicAI",
-      "link": "https://x.com/AnthropicAI/status/2111152183240511640"
-    },
-    {
-      "title": "Claudeが解明したNIST暗号シードの謎、Xでも話題に",
-      "summary": "AnthropicのClaudeが25年来のNIST楕円曲線シード生成の謎を解明したというニュースが、暗号・AI関係者の間でXで広く共有された。17日朝(日本時間)の投稿。",
-      "source": "@BitcoinNewsCom",
-      "link": "https://x.com/BitcoinNewsCom/status/2111191427199774906"
-    },
-    {
-      "title": "中国がAI技術の輸出規制強化を検討、Bloombergの報道がXで拡散",
-      "summary": "中国がAIモデルや関連技術を輸出管理リストに追加する案を検討しているとのBloomberg報道がXで広く共有され、米中のAI覇権競争への影響が議論されている。16日夜(日本時間)の投稿。",
-      "source": "@business",
-      "link": "https://x.com/business/status/2111040730055561645"
-    }
-  ]
+  "x_trending_tech": []
 }
