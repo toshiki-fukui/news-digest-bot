@@ -1,92 +1,69 @@
 {
-  "run_label": "10/18 19:00",
+  "run_label": "10/19 07:00",
   "politics_economy": [
     {
-      "title": "食料品消費税減税法案、20日衆院審議入りで自民・中道合意 高市首相も出席へ",
-      "summary": "自民党と衆院会派「中道」の国対委員長が16日に会談し、食料品の消費税率を2027年4月から2年間1%に引き下げる関連法案を20日の衆院本会議で審議入りさせることで合意した。野党の要求を受け、高市首相も出席して答弁する。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026101700282&g=pol"
+      "title": "高市首相、靖国神社の秋季例大祭に『真榊』奉納",
+      "summary": "高市早苗首相は10月18日、靖国神社の秋季例大祭にあわせ、首相の立場で供物『真榊』を奉納した。自身の参拝は見送る方向とみられる。",
+      "source": "The Japan Times",
+      "link": "https://www.japantimes.co.jp/news/2026/10/18/japan/politics/takaichi-yasukuni-shrine-offering/"
     },
     {
-      "title": "「高市1強」の弱点露呈 簗氏更迭の判断材料、首相に届かず",
-      "summary": "簗和生前農水相の更迭に至った公選法違反疑惑の情報が、高市首相に十分届いていなかったとされ、重要案件を一人で抱え込む政権運営の危うさが露呈したと報じられた。内閣支持率は42.4%まで下落している。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026101700285&g=pol"
-    },
-    {
-      "title": "簗氏は議員辞職を 自民・西田氏が高市首相の対応も批判",
-      "summary": "自民党の西田昌司氏が、公選法違反疑惑のある簗和生前農水相に議員辞職を求めるとともに、更迭対応が後手に回った高市首相の責任にも言及した。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026101700133&g=pol"
-    },
-    {
-      "title": "日本の名目GDP、2027年に6位転落へ 円安響き印英に逆転される見通し",
-      "summary": "IMFの最新見通しで、日本の名目GDPは2027年にインドと英国に抜かれ世界6位に後退する見通しとなった。円安・ドル高の常態化が主因とされ、英国に抜かれる時期は従来予測より2年早まった。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026101700307&g=eco"
-    },
-    {
-      "title": "仏で55万人デモ、暴動や放火相次ぐ 物価高・教育予算に抗議",
-      "summary": "フランス各地で17日、物価高対策や教育環境の改善を求める大規模デモがあり、内相によると55万人が参加した。中部リモージュでは市庁舎が放火でほぼ全焼し、首相発表では全土で計1200人が拘束された。",
-      "source": "共同通信(熊本日日新聞)",
-      "link": "https://kumanichi.com/articles/2047808"
+      "title": "高市内閣支持率、発足後初めて50%割れ 共同通信調査",
+      "summary": "共同通信が10月17〜18日に実施した世論調査で高市内閣の支持率は49.1%となり、就任以来初めて50%を下回った。簗前農相の更迭対応を『遅すぎた』と答えた人は約58%に上った。",
+      "source": "共同通信(Kyodo News)",
+      "link": "https://www.tasnimnews.ir/en/news/2026/10/18/3726049/support-for-takaichi-cabinet-down-below-50-for-first-time-kyodo-poll"
     }
   ],
   "tech": [
     {
-      "title": "台湾、対中国AIチップ輸出規制を強化 米との貿易合意の一環",
-      "summary": "台湾当局はAIサーバーや先端半導体を輸出管理の対象品目に追加する方針。無許可で中国に出荷すれば対外貿易法違反の犯罪となる。米トランプ政権による先端半導体の中国密輸取り締まり強化と連動した動き(16日報道)。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-16/taiwan-to-curb-ai-chip-exports-to-china-as-part-of-us-trade-deal"
+      "title": "OpenAIのAPIに未発表モデル『aurora-alpha』系が突如出現",
+      "summary": "10/18、OpenAIのAPIに『aurora-red-alpha』『aurora-green-alpha』『aurora-blue-alpha』という未公開のモデルIDが出現しSNSで話題に。一部は503エラーを返すなどバックエンドで稼働している可能性が指摘されているが、用途や位置づけは不明。",
+      "source": "RuntimeWire",
+      "link": "https://runtimewire.com/article/three-new-aurora-model-names-pop-up-in-openai-s-api"
     },
     {
-      "title": "アンソロピック、AI規制法案を米議員に提示 危険モデルの公開阻止も視野",
-      "summary": "Anthropicは米議会に対し、強力なAIモデルへの独立した安全性審査や公開リスク開示を義務付ける連邦法の制定を提案した(17日報道)。州レベルのAI規制を連邦法で一律に無効化する動きにも懸念を示している。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/jp/news/articles/2026-10-17/TN1J0QKK3NY800"
+      "title": "Google、量子エラー訂正の壁を破る新技術『マジック状態培養』を実証",
+      "summary": "Google Quantum AIは10/15、量子チップ『Willow』上で量子誤り訂正を効率化する新手法『マジック状態培養』を実証したと発表。実用的な量子計算の実現に向けた重要な一歩として科学誌Scienceに掲載された。",
+      "source": "Google(公式ブログ)",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing/"
     },
     {
-      "title": "アンソロピック、カナダ初のデータセンター契約 ノバスコシア州で稼働へ",
-      "summary": "Anthropicがカナダ・ノバスコシア州ポイントタップスクでEverWind社とデータセンター容量の賃借契約を結んだと報じられた(16日)。これまで既存事業者から計算資源を購入するだけだった同社が、自前拠点の確保に動き出した。",
-      "source": "Reuters(各紙報道)",
-      "link": "https://thedailyguardian.com/news/science-tech/anthropic-signs-lease-for-first-canadian-data-center-766710/"
+      "title": "IBM、AIエージェントで量子エラー訂正デコーダの設計を高速化",
+      "summary": "IBM Researchは、AIコーディングエージェントを使って量子エラー訂正デコーダのハードウェア設計を高速化したと報告。Anthropic Claude Opus 5を使った実行では、設計速度が従来の約204倍に向上したという。",
+      "source": "PostQuantum",
+      "link": "https://postquantum.com/engineering-news/ai-chip-design-quantum-decoder"
     },
     {
-      "title": "半導体株が8営業日続落、AI投資過熱への懸念で約2兆ドル消失",
-      "summary": "フィラデルフィア半導体株指数(SOX)は8営業日連続で下落し、過去7営業日で13%超下落、市場価値で約2兆ドルが消失したとされる。AI投資の収益性への疑念や利上げ観測の高まりが背景。",
-      "source": "Stocktwits",
-      "link": "https://stocktwits.com/news-articles/Markets/Equity/semiconductor-stocks-sox-losing-streak-2-trillion-ai-selloff/cZxKaOoRBsy"
+      "title": "Meta製スマートグラス、起動ワード無しで録音するバグが発覚",
+      "summary": "Ray-Ban Metaのスマートグラスの一部で、『Hey Meta』と発話していないのに会話を録音・保存していたとの報告が相次いだ。Metaは問題を修正済みと説明しているが、原因は明らかにしていない。",
+      "source": "TechSpot",
+      "link": "https://www.techspot.com/news/114214-meta-smart-glasses-secretly-recording-conversations-without-wake.html"
     },
     {
-      "title": "AIトレードの巻き戻し、アジアの半導体供給網株に打撃",
-      "summary": "世界的なAI関連株の失速が、アジアの半導体製造装置・部材など「ピックス・アンド・ショベル」銘柄にも波及(18日報道)。資金調達コストの上昇がAIブームを支える投資の持続性を脅かすとの指摘が出ている。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-18/ai-trade-reversal-pierces-asia-s-star-picks-and-shovels-stocks"
+      "title": "米大手銀行、外部AIエージェントによる顧客口座アクセスを一斉遮断",
+      "summary": "チャールズ・シュワブやJPモルガン、シティ、バンク・オブ・アメリカなど米大手金融機関が、顧客に無断でログインを試みる外部AIエージェントのブロックを強化していることが明らかになった。シュワブは週に『十数件』の不正アクセス試行を遮断しているという。",
+      "source": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/technology/ai/articles/schwab-jpmorgan-block-unauthorized-ai-211121084.html"
     },
     {
-      "title": "CoreWeave、AI向け債務膨張で信用不安 ジャンク債利回り15%に上昇",
-      "summary": "AIデータセンター企業CoreWeaveのジャンク債利回りが今週15%まで上昇し、経営不安を示す水準に達した(17日報道)。同社幹部は投資適格級の債券市場での資金調達を検討しているという。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-17/coreweave-woes-risk-shutting-down-ai-junk-market-credit-weekly"
-    },
-    {
-      "title": "Elorian、画像を見返しながら推論する新視覚AIモデル「Glimpse」発表",
-      "summary": "元Google DeepMind研究者が創業したElorianが、画像をテキスト化せず元画像に立ち返りながら推論する視覚推論AI「Glimpse」をリサーチプレビューとして公開(16日)。ロボティクスや科学研究分野を主なターゲットとする。",
-      "source": "runtimewire.com",
-      "link": "https://runtimewire.com/article/elorian-glimpse-visual-reasoning-model-launch"
-    },
-    {
-      "title": "ソフトバンクG、米警備大手買収を検討 AIロボ導入先に狙う",
-      "summary": "ソフトバンクグループが米警備大手アライド・ユニバーサルの買収を検討していると報じられた(17日)。孫正義会長は投資先のAI搭載ロボット技術の導入先として警備業界を有望視しているとされ、買収総額は300億ドルに達する可能性がある。",
-      "source": "時事通信(Bloomberg報道)",
-      "link": "https://www.jiji.com/jc/article?k=2026101700256&g=int"
-    },
-    {
-      "title": "TSMC熊本第2工場、計画変更を経産省が認定 3ナノ量産へ",
-      "summary": "経済産業省はTSMC熊本第2工場の計画変更を認定し、回路線幅3ナノメートルの最先端半導体を量産する方針となった(16日)。投資額は増加する見通しで、政府は追加支援を検討する。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026101600995&g=eco"
+      "title": "Anthropic、社内コード管理をGitから独自システム『Scion』へ全面移行",
+      "summary": "Anthropicは、Claudeによるコード生成量の急増でGitが限界を迎えたとして、社内のメインリポジトリを独自のバージョン管理システム『Scion』に置き換えたと発表。1日あたりのマージ件数は5月の約2,500件から9月には3万件超に増加したという。",
+      "source": "TechSpot",
+      "link": "https://www.techspot.com/news/114209-anthropic-ditched-git-own-version-control-system-because.html"
     }
   ],
-  "x_trending_tech": []
+  "x_trending_tech": [
+    {
+      "title": "OpenAIのAPIに謎の新モデル『aurora』系出現、Andrew Curran氏の投稿が拡散",
+      "summary": "AI情報を追う@AGTPinsightsが10/18、Andrew Curran氏がXに投稿した『OpenAIのAPIに3つの未公開モデルが出現した』という内容を解説し拡散、3万いいね超の反応を集めた。",
+      "source": "@AGTPinsights",
+      "link": "https://x.com/AGTPinsights/status/2111677810788155649"
+    },
+    {
+      "title": "AIモデルリーク速報: aurora-alpha系モデルの正体にテック界がざわつく",
+      "summary": "AIの新機能・リーク情報を追う@testingcatalogが10/18、OpenAI APIに出現した未発表モデル『aurora-alpha』系について速報ポストを投稿し話題に。",
+      "source": "@testingcatalog",
+      "link": "https://x.com/testingcatalog/status/2111724606927028578"
+    }
+  ]
 }
