@@ -1,69 +1,50 @@
 {
-  "run_label": "10/19 07:00",
+  "run_label": "10/19 19:00",
   "politics_economy": [
     {
-      "title": "高市首相、靖国神社の秋季例大祭に『真榊』奉納",
-      "summary": "高市早苗首相は10月18日、靖国神社の秋季例大祭にあわせ、首相の立場で供物『真榊』を奉納した。自身の参拝は見送る方向とみられる。",
-      "source": "The Japan Times",
-      "link": "https://www.japantimes.co.jp/news/2026/10/18/japan/politics/takaichi-yasukuni-shrine-offering/"
+      "title": "高市内閣支持率47.1%に急落、政権発足以来最低に",
+      "summary": "ANN(テレビ朝日系)が10月17〜19日に実施した世論調査で、高市内閣の支持率は47.1%となり、政権発足以来の最低を記録した。前月調査から11.2ポイント下落し、不支持率は33.3%だった。",
+      "source": "ANN/livedoorニュース",
+      "link": "https://news.livedoor.com/topics/detail/32599405"
     },
     {
-      "title": "高市内閣支持率、発足後初めて50%割れ 共同通信調査",
-      "summary": "共同通信が10月17〜18日に実施した世論調査で高市内閣の支持率は49.1%となり、就任以来初めて50%を下回った。簗前農相の更迭対応を『遅すぎた』と答えた人は約58%に上った。",
-      "source": "共同通信(Kyodo News)",
-      "link": "https://www.tasnimnews.ir/en/news/2026/10/18/3726049/support-for-takaichi-cabinet-down-below-50-for-first-time-kyodo-poll"
+      "title": "笹川環境相、靖国神社の秋季例大祭に参拝",
+      "summary": "靖国神社によると、笹川環境相が19日、秋季例大祭に合わせて同神社を参拝した。高市首相は参拝を見送り、真榊と玉串料の奉納にとどめている。",
+      "source": "時事通信",
+      "link": "https://www.jiji.com/jc/article?k=2026101900715&g=flash"
     }
   ],
   "tech": [
     {
-      "title": "OpenAIのAPIに未発表モデル『aurora-alpha』系が突如出現",
-      "summary": "10/18、OpenAIのAPIに『aurora-red-alpha』『aurora-green-alpha』『aurora-blue-alpha』という未公開のモデルIDが出現しSNSで話題に。一部は503エラーを返すなどバックエンドで稼働している可能性が指摘されているが、用途や位置づけは不明。",
-      "source": "RuntimeWire",
-      "link": "https://runtimewire.com/article/three-new-aurora-model-names-pop-up-in-openai-s-api"
+      "title": "Nvidia、次世代HBM向けにTSMCの3nmプロセス採用をSamsungらに要請か",
+      "summary": "NvidiaがSamsung、SK hynix、Micronに対し、次世代メモリ『NVHBM』のベースダイをTSMCの3nmプロセスで製造するよう求めていると報じられた。歩留まりの高さが背景で、ライバル同士のファウンドリ協業という異例の構図になっている。",
+      "source": "TrendForce",
+      "link": "https://www.trendforce.com/news/2026/10/19/news-nvidia-reportedly-pushes-tsmc-3nm-nvhbm-base-dies-for-samsung-sk-hynix-micron-in-unlikely-foundry-tie-up/"
     },
     {
-      "title": "Google、量子エラー訂正の壁を破る新技術『マジック状態培養』を実証",
-      "summary": "Google Quantum AIは10/15、量子チップ『Willow』上で量子誤り訂正を効率化する新手法『マジック状態培養』を実証したと発表。実用的な量子計算の実現に向けた重要な一歩として科学誌Scienceに掲載された。",
-      "source": "Google(公式ブログ)",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing/"
+      "title": "Anthropic、株式の5%を新設の公益基金に拠出へ",
+      "summary": "Anthropicは、AIによる雇用への影響に備える新しい公益基金に株式の5%を拠出すると発表した。株主承認が必要で、11月とされるIPOを控えたタイミングでの発表となる。",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/10/18/anthropic-ai-public-benefit-fund.html"
     },
     {
-      "title": "IBM、AIエージェントで量子エラー訂正デコーダの設計を高速化",
-      "summary": "IBM Researchは、AIコーディングエージェントを使って量子エラー訂正デコーダのハードウェア設計を高速化したと報告。Anthropic Claude Opus 5を使った実行では、設計速度が従来の約204倍に向上したという。",
-      "source": "PostQuantum",
-      "link": "https://postquantum.com/engineering-news/ai-chip-design-quantum-decoder"
+      "title": "ASML CEO、『2027・28年に30%増産してもAI向け装置需要に追いつかず』",
+      "summary": "ASMLのフーケCEOは第3四半期決算会見で、2027年・2028年にそれぞれ約30%の増産を計画してもなお顧客需要を満たせないとの見通しを示した。一部顧客はすでに2029〜30年分の装置発注を始めているという。",
+      "source": "TweakTown",
+      "link": "https://www.tweaktown.com/news/114104/asml-cant-make-chipmaking-machines-fast-enough-as-ai-demand-overwhelms-its-capacity/index.html"
     },
     {
-      "title": "Meta製スマートグラス、起動ワード無しで録音するバグが発覚",
-      "summary": "Ray-Ban Metaのスマートグラスの一部で、『Hey Meta』と発話していないのに会話を録音・保存していたとの報告が相次いだ。Metaは問題を修正済みと説明しているが、原因は明らかにしていない。",
-      "source": "TechSpot",
-      "link": "https://www.techspot.com/news/114214-meta-smart-glasses-secretly-recording-conversations-without-wake.html"
+      "title": "TSMC、マスク氏の巨大工場構想『テラファブ』巡り協議も運営権で平行線",
+      "summary": "TSMCがテキサス州での工場拡張を検討する中、イーロン・マスク氏が構想する巨大半導体工場『テラファブ』を巡り協議が行われているが、運営主体の扱いで両者の溝は埋まっていないと報じられた。",
+      "source": "XTB",
+      "link": "https://www.xtb.com/en/market-analysis/tsmc-in-talks-with-elon-musk-over-terafab"
     },
     {
-      "title": "米大手銀行、外部AIエージェントによる顧客口座アクセスを一斉遮断",
-      "summary": "チャールズ・シュワブやJPモルガン、シティ、バンク・オブ・アメリカなど米大手金融機関が、顧客に無断でログインを試みる外部AIエージェントのブロックを強化していることが明らかになった。シュワブは週に『十数件』の不正アクセス試行を遮断しているという。",
-      "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/technology/ai/articles/schwab-jpmorgan-block-unauthorized-ai-211121084.html"
-    },
-    {
-      "title": "Anthropic、社内コード管理をGitから独自システム『Scion』へ全面移行",
-      "summary": "Anthropicは、Claudeによるコード生成量の急増でGitが限界を迎えたとして、社内のメインリポジトリを独自のバージョン管理システム『Scion』に置き換えたと発表。1日あたりのマージ件数は5月の約2,500件から9月には3万件超に増加したという。",
-      "source": "TechSpot",
-      "link": "https://www.techspot.com/news/114209-anthropic-ditched-git-own-version-control-system-because.html"
+      "title": "IMF、AI株の急落が世界の金融安定を脅かすリスクと警告",
+      "summary": "IMFは世界金融安定報告書で、AI関連株の急激な調整を金融環境の急速な引き締めにつながりうる『顕著なリスク』の一つに挙げた。米国以外、特にアジア市場への影響が大きいとしている。",
+      "source": "Computing(IMF報告書より)",
+      "link": "https://www.computing.co.uk/news/2026/ai/ai-crash-threatens-global-financial-stability-imf"
     }
   ],
-  "x_trending_tech": [
-    {
-      "title": "OpenAIのAPIに謎の新モデル『aurora』系出現、Andrew Curran氏の投稿が拡散",
-      "summary": "AI情報を追う@AGTPinsightsが10/18、Andrew Curran氏がXに投稿した『OpenAIのAPIに3つの未公開モデルが出現した』という内容を解説し拡散、3万いいね超の反応を集めた。",
-      "source": "@AGTPinsights",
-      "link": "https://x.com/AGTPinsights/status/2111677810788155649"
-    },
-    {
-      "title": "AIモデルリーク速報: aurora-alpha系モデルの正体にテック界がざわつく",
-      "summary": "AIの新機能・リーク情報を追う@testingcatalogが10/18、OpenAI APIに出現した未発表モデル『aurora-alpha』系について速報ポストを投稿し話題に。",
-      "source": "@testingcatalog",
-      "link": "https://x.com/testingcatalog/status/2111724606927028578"
-    }
-  ]
+  "x_trending_tech": []
 }
