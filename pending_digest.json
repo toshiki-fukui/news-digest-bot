@@ -1,49 +1,73 @@
 {
-  "run_label": "10/19 19:00",
+  "run_label": "10/20 07:00",
   "politics_economy": [
     {
-      "title": "高市内閣支持率47.1%に急落、政権発足以来最低に",
-      "summary": "ANN(テレビ朝日系)が10月17〜19日に実施した世論調査で、高市内閣の支持率は47.1%となり、政権発足以来の最低を記録した。前月調査から11.2ポイント下落し、不支持率は33.3%だった。",
-      "source": "ANN/livedoorニュース",
-      "link": "https://news.livedoor.com/topics/detail/32599405"
+      "title": "消費税減税関連法案、20日に衆院本会議で審議入り",
+      "summary": "自民党と衆院会派「中道」の国対委員長が16日に会談し、飲食料品の消費税率を2年間限定で8%から1%に引き下げる関連法案を20日の衆院本会議で審議入りさせることで合意した。高市首相も出席し、与党は11月前半の参院送付を目指す。",
+      "source": "熊本日日新聞(共同通信)",
+      "link": "https://kumanichi.com/articles/2047225"
     },
     {
-      "title": "笹川環境相、靖国神社の秋季例大祭に参拝",
-      "summary": "靖国神社によると、笹川環境相が19日、秋季例大祭に合わせて同神社を参拝した。高市首相は参拝を見送り、真榊と玉串料の奉納にとどめている。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026101900715&g=flash"
+      "title": "高市首相、簗農相更迭を陳謝「任命責任を重く受け止める」",
+      "summary": "衆院選をめぐる疑惑で辞任した簗和生前農水相について、高市首相は参院予算委員会で任命責任を重く受け止めると陳謝し、納得のいく答弁ができなかったと認めた。",
+      "source": "熊本日日新聞(共同通信)",
+      "link": "https://kumanichi.com/articles/2047176"
     }
   ],
   "tech": [
     {
-      "title": "Nvidia、次世代HBM向けにTSMCの3nmプロセス採用をSamsungらに要請か",
-      "summary": "NvidiaがSamsung、SK hynix、Micronに対し、次世代メモリ『NVHBM』のベースダイをTSMCの3nmプロセスで製造するよう求めていると報じられた。歩留まりの高さが背景で、ライバル同士のファウンドリ協業という異例の構図になっている。",
-      "source": "TrendForce",
-      "link": "https://www.trendforce.com/news/2026/10/19/news-nvidia-reportedly-pushes-tsmc-3nm-nvhbm-base-dies-for-samsung-sk-hynix-micron-in-unlikely-foundry-tie-up/"
+      "title": "AIコーディングツール「OpenCode」がハッカー被害、利用者のAI利用料に不正課金",
+      "summary": "オープンソースのAIコーディングツールOpenCodeが古いシステムへの不正アクセスを受け、利用者の1.4%に影響。盗まれたAPIキーで不正なAI利用料が発生し、AnthropicとGoogleは該当キーをブロックした(10/19)。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/"
     },
     {
-      "title": "Anthropic、株式の5%を新設の公益基金に拠出へ",
-      "summary": "Anthropicは、AIによる雇用への影響に備える新しい公益基金に株式の5%を拠出すると発表した。株主承認が必要で、11月とされるIPOを控えたタイミングでの発表となる。",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/10/18/anthropic-ai-public-benefit-fund.html"
+      "title": "Nvidia、エージェント向け新オープンモデル群を発表",
+      "summary": "Nvidiaは企業向けエージェントやPC常時稼働エージェント向けに新たなオープンウェイトモデルを発表。中核モデル「Nemotron 3.5 Super VL」は1200億パラメータの視覚言語モデル(10/19)。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs"
     },
     {
-      "title": "ASML CEO、『2027・28年に30%増産してもAI向け装置需要に追いつかず』",
-      "summary": "ASMLのフーケCEOは第3四半期決算会見で、2027年・2028年にそれぞれ約30%の増産を計画してもなお顧客需要を満たせないとの見通しを示した。一部顧客はすでに2029〜30年分の装置発注を始めているという。",
-      "source": "TweakTown",
-      "link": "https://www.tweaktown.com/news/114104/asml-cant-make-chipmaking-machines-fast-enough-as-ai-demand-overwhelms-its-capacity/index.html"
+      "title": "アジア半導体株、DeepSeek新モデル発表で資金調達懸念強まり続落",
+      "summary": "19日のアジア市場で半導体関連株が続落。中国DeepSeekの新モデル発表がAI投資の資金調達への懸念を強め、ブルームバーグのアジア半導体株指数は7月以来の安値となった。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-19/korean-stocks-fall-as-deepseek-model-funding-worry-rattle-chips"
     },
     {
-      "title": "TSMC、マスク氏の巨大工場構想『テラファブ』巡り協議も運営権で平行線",
-      "summary": "TSMCがテキサス州での工場拡張を検討する中、イーロン・マスク氏が構想する巨大半導体工場『テラファブ』を巡り協議が行われているが、運営主体の扱いで両者の溝は埋まっていないと報じられた。",
-      "source": "XTB",
-      "link": "https://www.xtb.com/en/market-analysis/tsmc-in-talks-with-elon-musk-over-terafab"
+      "title": "自動運転車・ロボットを「レッドチーム」検証するLaplace Intelligenceが始動",
+      "summary": "スタートアップのLaplace Intelligenceが、ロボットや自動運転車を実社会に投入する前に敵対的テスト(レッドチーム)を行うサービスを展開していることが明らかになった(10/19)。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/"
     },
     {
-      "title": "IMF、AI株の急落が世界の金融安定を脅かすリスクと警告",
-      "summary": "IMFは世界金融安定報告書で、AI関連株の急激な調整を金融環境の急速な引き締めにつながりうる『顕著なリスク』の一つに挙げた。米国以外、特にアジア市場への影響が大きいとしている。",
-      "source": "Computing(IMF報告書より)",
-      "link": "https://www.computing.co.uk/news/2026/ai/ai-crash-threatens-global-financial-stability-imf"
+      "title": "ビットコイン、原油安を背景に8.2万ドル超へ反発",
+      "summary": "19日、ビットコインは原油価格の下落でリスク選好姿勢が強まったことを受け8.2万ドルを回復。前週はAI関連株の急落に連動し8万ドルを割り込んでいた。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-19/bitcoin-rebounds-above-82-000-as-oil-s-retreat-lifts-risk-mood"
+    },
+    {
+      "title": "Microsoft、「AIエージェントはインサイダー脅威と同じ」と新セキュリティ機能を発表",
+      "summary": "Microsoftは企業向けに、利用中のAIエージェントを監視する「Guardian Agents」などの新セキュリティ機能を発表。Claude CodeやCodexを含む最大60種のエージェントを検知できるという(10/19)。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/"
+    },
+    {
+      "title": "Replika創業者、新AIアシスタント「Wabi」を正式公開",
+      "summary": "Replika創業者のユージェニア・クイダ氏が、メッセンジャー形式で複数のAIタスクを並行実行できる新アプリ「Wabi」を全ユーザー向けに正式公開した(10/19)。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago"
+    },
+    {
+      "title": "Replit、デフォルトAIモデルをAnthropicからOpenAIに切り替え",
+      "summary": "コーディングプラットフォームのReplitは、社内ベンチマークでの性能やコスト、契約条件を理由にデフォルトモデルをOpenAI系モデルに変更したとCEOが明らかにした。Anthropicのモデルも選択可能(10/17)。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"
+    },
+    {
+      "title": "Waymoの自動運転車、カナダでテスト開始",
+      "summary": "Waymoはオンタリオ州の自動運転実証プログラムへの参加許可を取得し、トロントで地図作成のための有人走行テストを開始した。ロボタクシーサービスの提供はまだ行わない(10/16)。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/"
     }
   ],
   "x_trending_tech": []
