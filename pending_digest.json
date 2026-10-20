@@ -1,73 +1,79 @@
 {
-  "run_label": "10/20 19:00",
+  "run_label": "10/21 07:00",
   "politics_economy": [
     {
-      "title": "消費税減税法案、衆院審議入り 高市首相は財源・給付詳細示さず",
-      "summary": "20日の衆院本会議で、飲食料品の消費税率を2027年4月から2年間1%に引き下げる関連法案が審議入りし、高市首相も出席して趣旨説明・質疑に応じた。給付の対象や財源の詳細は明言を避け、与党は11月上旬までの衆院通過を目指す。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026102000124&g=pol"
+      "title": "消費減税法案が審議入り、与野党が対案巡り論戦",
+      "summary": "20日の衆院本会議で食料品の消費税減税関連法案の審議が始まり、与野党が対案を巡り論戦を交わした。片山さつき財務相は財源について、市場の信認を得るため特例公債(赤字国債)に頼らず歳出・歳入両面の見直しで確保すると改めて主張した(10/20)。",
+      "source": "共同通信",
+      "link": "https://373news.com/news/national/detail/2026102001001366/"
     },
     {
-      "title": "東証大引け、日経平均841円安 ソフトバンクなどに売り",
-      "summary": "20日の東京株式市場で日経平均株価は前日比841円28銭安の64075円42銭で取引を終えた。インフレ警戒感やソフトバンクグループなどの下落が指数を押し下げ、2日連続の下落となった。",
-      "source": "共同通信(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/b623dc012fc0de0348c9239b0b6ec184250f3316"
-    },
-    {
-      "title": "経団連会長、防衛費増税に「基本反対」",
-      "summary": "政権内で浮上している防衛費増額の財源としての法人増税案について、経団連会長が20日、基本的に反対する考えを示した。",
-      "source": "共同通信(373news)",
-      "link": "https://373news.com/news/national/detail/2026102001001424"
+      "title": "高市首相、消費税法案の委員会審議に「要請あれば出席」の意向",
+      "summary": "高市早苗首相は20日の衆院本会議で、食料品の消費税減税関連法案を巡り、国会の求めに応じて衆院財務金融委員会の審議に出席する意向を示した。政府・与党は11月上旬までの衆院通過を目指すが、参院では少数のため成立の見通しは立っていない。",
+      "source": "時事通信(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/0e192ff5eeaabd7152654d38f5429af3a4dceee5"
     }
   ],
   "tech": [
     {
-      "title": "ハッカーがAIエージェントで企業サイト100社超に侵入、ディアやシャークニンジャも標的",
-      "summary": "自律型AIエージェントを使ったハッカーが米・加・豪・日などの企業サイト1200件超への侵入を試み、ディア、シャークニンジャ、カミンズなど100社以上への侵入に成功したと専門家が指摘(10/20報道)。",
-      "source": "Technology.org",
-      "link": "https://www.technology.org/2026/10/20/hacker-ai-agents-cairn-100-websites-deere-sharkninja-cummins/"
+      "title": "OpenAI、創薬AIスタートアップ「Orchestra Bio」を買収",
+      "summary": "OpenAIが、製薬会社の創薬プロセスを支援するAIエージェントを開発する米スタートアップOrchestra Bioを買収したとAxiosが報道。買収後は研究者向けAIモデル群「Rosalind」に技術を統合する予定(10/20報道)。",
+      "source": "Axios(Investing.com)",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1718236"
     },
     {
-      "title": "米国土安全保障省、政府機関システムから中国製AI「DeepSeek」排除を指示",
-      "summary": "米国土安全保障省は、民間政府機関のITシステムからDeepSeek製品・関連サービスを排除するよう命じる通知を発出し、今後の新規導入も禁止するとした(10/19報道)。",
-      "source": "CTV News",
-      "link": "https://ctvnews.ca/world/article/us-banning-chinese-ai-deepseek-from-government-agency-it-systems"
+      "title": "OpenAI、2026年末までに従業員8000人増員へ",
+      "summary": "OpenAIは法人向け市場での競争力強化に向け、2026年末までに従業員を8000人規模に増員する計画を明らかにした(10/19報道)。",
+      "source": "海外メディア報道",
+      "link": "https://mezha.net/jp/news/c500c29a_openai_plans_to_double"
     },
     {
-      "title": "量子スタートアップQuantinuum、誤り訂正の世界記録を更新",
-      "summary": "Quantinuumは量子コンピューター「Helios」で論理忠実度99.9995%を達成したと発表、従来の自社記録から約10倍の改善で世界記録としている。2029年の耐故障型量子コンピューター実現に向けた成果と位置づける(10/19発表)。",
-      "source": "PR Newswire",
-      "link": "https://www.manilatimes.net/2026/10/19/tmt-newswire/pr-newswire/quantinuum-breaks-error-correction-world-record-by-10x-validating-its-leading-path-to-fault-tolerant-quantum-computing-by-2029/2448881"
+      "title": "元OpenAI研究統括のAI製造スタートアップ「Arda」、2.3億ドル調達で評価額15億ドルに",
+      "summary": "OpenAIの元リサーチ責任者ボブ・マグリュー氏が立ち上げたAI製造業スタートアップArdaが、Altimeter CapitalやAccel等から2.3億ドルを調達し評価額15億ドルに達したとCNBCが報道。米国内製造業の再興をAIで後押しすることを目指す(10/20)。",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/10/20/ex-openai-executive-builds-1point5-billion-ai-manufacturing-startup-arda.html"
     },
     {
-      "title": "NVIDIA、欧州のスーパーコンピューター「Jupiter」で耐故障型量子シミュレーションを実施",
-      "summary": "NVIDIAは欧州のJupiterスーパーコンピューター上で104量子ビット規模の耐故障型量子シミュレーションを実行し、従来手法より物理量子ビット数を約9割削減したと報じられた(10/19報道)。",
-      "source": "GuruFocus",
-      "link": "https://www.gurufocus.com/news/9130263/nvidia-nvda-advances-quantum-simulation-on-jupiter-supercomputer"
+      "title": "AIクラウド企業Nscale、300億ドルのIPO目標に投資家が懐疑的",
+      "summary": "英AIクラウドインフラ企業Nscaleが目指す300億ドル規模のIPOに対し、投資家からは160億~190億ドル程度が実勢に近いとの声が上がっていると報じられた(10/20報道)。",
+      "source": "StartupHub.ai",
+      "link": "https://www.startuphub.ai/ai-news/investors-news/2026/nscale-hit-with-pushback-on-30-billion-ipo-target"
     },
     {
-      "title": "バイトダンス・アリババ・テンセント、NVIDIA「RTX PRO 5500」を350億ドル分発注 供給が追いつかず",
-      "summary": "ロイターによると、中国の大手テック3社がNVIDIAのRTX PRO 5500を計300万枚超、総額350億ドル超で発注し、NVIDIAは需要が計画生産能力を上回り受注を確約できないと顧客に伝えたという(10/20報道)。",
-      "source": "Reuters(Investing.com)",
-      "link": "https://www.investing.com/news/stock-market-news/bytedance-alibaba-and-tencent-order-35-billion-of-nvidia-chips-reuters-4959256"
+      "title": "サムスン電子、AIメモリ需要受け龍仁新工場の稼働を2029年に前倒し",
+      "summary": "サムスン電子は韓国・龍仁の新半導体工場の稼働開始を、従来予定の2030~2031年から2029年に前倒しすると報じられた。AIインフラ向けメモリ需要の急増が背景(ロイター、10/19報道)。",
+      "source": "Reuters",
+      "link": "https://thetechcapital.com/samsung-reportedly-advances-yongin-fab-to-2029-as-ai-memory-demand-rises/"
     },
     {
-      "title": "AIチップ新興企業Tenstorrent、15億ドル調達で評価額62億ドルに",
-      "summary": "AIチップスタートアップのTenstorrentは後期ラウンドで15億ドルを調達し、評価額が2024年12月から倍増の62億ドル(ポストマネー)になったと発表。自社サーバー「Galaxy」の量産拡大に充てる(10/19報道)。",
-      "source": "Reuters(U.S. News)",
-      "link": "https://money.usnews.com/investing/news/articles/2026-10-19/ai-chip-startup-tenstorrent-more-than-doubles-its-valuation-to-6-2-billion-in-funding-round"
+      "title": "韓国AI計算インフラ企業Elice、ソウル上場初日に32%急落",
+      "summary": "韓国のAIコンピューティング企業Eliceがソウル証券市場への上場初日に32%急落。同日はサムスン電子・SKハイニックスの軟調もあり韓国KOSPI指数も3.8%下落し、AI「ネオクラウド」企業への懐疑が広がっていることを示した(ブルームバーグ、10/20報道)。",
+      "source": "Bloomberg",
+      "link": "https://bloomberg.com/news/articles/2026-10-20/ai-debutant-s-flameout-stokes-fears-the-boom-is-ending"
     },
     {
-      "title": "米半導体株、週間急落から反発 インテルは4%超高",
-      "summary": "米長期金利の低下や原油価格の落ち着きを背景に、前週に急落したAI関連半導体株が反発。インテル株は前週に14%超下落した後、この日は4.2%上昇した(10/19報道)。",
-      "source": "Reuters(Investing.com)",
-      "link": "https://investing.com/news/stock-market-news/us-chip-stocks-rise-after-steepest-weekly-selloff-in-months-4957420"
+      "title": "シタデルのケン・グリフィン氏、「AIはほぼ確実にバブル」と発言",
+      "summary": "米ヘッジファンド大手シタデル創業者のケン・グリフィン氏は20日、ニューヨークでの会議で、AI関連投資は「ほぼ確実にバブルの状態にある」と述べた(ブルームバーグ)。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-20/ken-griffin-says-ai-almost-certainly-in-a-bubble-right-now"
     },
     {
-      "title": "DeepSeek、高速・軽量版の新モデル「V4.1-Flash」を公開",
-      "summary": "中国DeepSeekは大規模障害からの復旧後、処理速度を高めた新モデル「DeepSeek-V4.1-Flash-1017」を公開。ベンチマーク「Humanity's Last Exam」のスコアは前バージョンの36.8から42.6に上昇したという(10/17公開、10/19報道)。",
-      "source": "Yahoo News Malaysia",
-      "link": "https://malaysia.news.yahoo.com/faster-leaner-deepseek-rolls-upgraded-051830857.html"
+      "title": "Anthropic「Claude」のAI創薬研究、ライフサイエンス株への関心高める",
+      "summary": "Citrini Researchは、AnthropicのAIモデル「Claude」を用いた創薬研究の成果を受け、ライフサイエンス関連株がAI活用による恩恵を受けるとの見方を示した(ブルームバーグ、10/20報道)。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-20/citrini-bets-on-life-sciences-stocks-after-claude-ai-drug-study"
+    },
+    {
+      "title": "Amazon・Meta、AWS Trainium向け新PyTorchバックエンド「TorchNeuron」を発表",
+      "summary": "AWSとMetaのPyTorchチームは、AI学習用チップ「Trainium2/3」向けのネイティブPyTorchバックエンド「TorchNeuron」を発表。米サンノゼで開催のPyTorch Conference North Americaにてパブリックベータを10/20に公開した。",
+      "source": "PyTorch / AWS",
+      "link": "https://pytorch.org/blog/your-guide-to-hardware-acceleration-compute-infrastructure-at-pytorch-conference-north-america-2026/"
+    },
+    {
+      "title": "OpenAI、ChatGPTの画像生成中に「ビジュアル広告」表示へ 10月下旬より米国でテスト開始",
+      "summary": "OpenAIは画像生成中にビジュアル広告を表示する新広告形式「ChatGPT Ads」を10月5日に発表。生成画像とは別に明確なラベル付きで表示し、回答内容には影響しないとしており、10月下旬から米国の一部ユーザー・広告主向けにテストを開始するとされる。",
+      "source": "AIsmiley",
+      "link": "https://aismiley.co.jp/ai_news/openai-chatgpt-ad-test/"
     }
   ],
   "x_trending_tech": []
