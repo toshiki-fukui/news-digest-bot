@@ -1,73 +1,73 @@
 {
-  "run_label": "10/20 07:00",
+  "run_label": "10/20 19:00",
   "politics_economy": [
     {
-      "title": "消費税減税関連法案、20日に衆院本会議で審議入り",
-      "summary": "自民党と衆院会派「中道」の国対委員長が16日に会談し、飲食料品の消費税率を2年間限定で8%から1%に引き下げる関連法案を20日の衆院本会議で審議入りさせることで合意した。高市首相も出席し、与党は11月前半の参院送付を目指す。",
-      "source": "熊本日日新聞(共同通信)",
-      "link": "https://kumanichi.com/articles/2047225"
+      "title": "消費税減税法案、衆院審議入り 高市首相は財源・給付詳細示さず",
+      "summary": "20日の衆院本会議で、飲食料品の消費税率を2027年4月から2年間1%に引き下げる関連法案が審議入りし、高市首相も出席して趣旨説明・質疑に応じた。給付の対象や財源の詳細は明言を避け、与党は11月上旬までの衆院通過を目指す。",
+      "source": "時事通信",
+      "link": "https://www.jiji.com/jc/article?k=2026102000124&g=pol"
     },
     {
-      "title": "高市首相、簗農相更迭を陳謝「任命責任を重く受け止める」",
-      "summary": "衆院選をめぐる疑惑で辞任した簗和生前農水相について、高市首相は参院予算委員会で任命責任を重く受け止めると陳謝し、納得のいく答弁ができなかったと認めた。",
-      "source": "熊本日日新聞(共同通信)",
-      "link": "https://kumanichi.com/articles/2047176"
+      "title": "東証大引け、日経平均841円安 ソフトバンクなどに売り",
+      "summary": "20日の東京株式市場で日経平均株価は前日比841円28銭安の64075円42銭で取引を終えた。インフレ警戒感やソフトバンクグループなどの下落が指数を押し下げ、2日連続の下落となった。",
+      "source": "共同通信(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/b623dc012fc0de0348c9239b0b6ec184250f3316"
+    },
+    {
+      "title": "経団連会長、防衛費増税に「基本反対」",
+      "summary": "政権内で浮上している防衛費増額の財源としての法人増税案について、経団連会長が20日、基本的に反対する考えを示した。",
+      "source": "共同通信(373news)",
+      "link": "https://373news.com/news/national/detail/2026102001001424"
     }
   ],
   "tech": [
     {
-      "title": "AIコーディングツール「OpenCode」がハッカー被害、利用者のAI利用料に不正課金",
-      "summary": "オープンソースのAIコーディングツールOpenCodeが古いシステムへの不正アクセスを受け、利用者の1.4%に影響。盗まれたAPIキーで不正なAI利用料が発生し、AnthropicとGoogleは該当キーをブロックした(10/19)。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/"
+      "title": "ハッカーがAIエージェントで企業サイト100社超に侵入、ディアやシャークニンジャも標的",
+      "summary": "自律型AIエージェントを使ったハッカーが米・加・豪・日などの企業サイト1200件超への侵入を試み、ディア、シャークニンジャ、カミンズなど100社以上への侵入に成功したと専門家が指摘(10/20報道)。",
+      "source": "Technology.org",
+      "link": "https://www.technology.org/2026/10/20/hacker-ai-agents-cairn-100-websites-deere-sharkninja-cummins/"
     },
     {
-      "title": "Nvidia、エージェント向け新オープンモデル群を発表",
-      "summary": "Nvidiaは企業向けエージェントやPC常時稼働エージェント向けに新たなオープンウェイトモデルを発表。中核モデル「Nemotron 3.5 Super VL」は1200億パラメータの視覚言語モデル(10/19)。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs"
+      "title": "米国土安全保障省、政府機関システムから中国製AI「DeepSeek」排除を指示",
+      "summary": "米国土安全保障省は、民間政府機関のITシステムからDeepSeek製品・関連サービスを排除するよう命じる通知を発出し、今後の新規導入も禁止するとした(10/19報道)。",
+      "source": "CTV News",
+      "link": "https://ctvnews.ca/world/article/us-banning-chinese-ai-deepseek-from-government-agency-it-systems"
     },
     {
-      "title": "アジア半導体株、DeepSeek新モデル発表で資金調達懸念強まり続落",
-      "summary": "19日のアジア市場で半導体関連株が続落。中国DeepSeekの新モデル発表がAI投資の資金調達への懸念を強め、ブルームバーグのアジア半導体株指数は7月以来の安値となった。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-19/korean-stocks-fall-as-deepseek-model-funding-worry-rattle-chips"
+      "title": "量子スタートアップQuantinuum、誤り訂正の世界記録を更新",
+      "summary": "Quantinuumは量子コンピューター「Helios」で論理忠実度99.9995%を達成したと発表、従来の自社記録から約10倍の改善で世界記録としている。2029年の耐故障型量子コンピューター実現に向けた成果と位置づける(10/19発表)。",
+      "source": "PR Newswire",
+      "link": "https://www.manilatimes.net/2026/10/19/tmt-newswire/pr-newswire/quantinuum-breaks-error-correction-world-record-by-10x-validating-its-leading-path-to-fault-tolerant-quantum-computing-by-2029/2448881"
     },
     {
-      "title": "自動運転車・ロボットを「レッドチーム」検証するLaplace Intelligenceが始動",
-      "summary": "スタートアップのLaplace Intelligenceが、ロボットや自動運転車を実社会に投入する前に敵対的テスト(レッドチーム)を行うサービスを展開していることが明らかになった(10/19)。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/"
+      "title": "NVIDIA、欧州のスーパーコンピューター「Jupiter」で耐故障型量子シミュレーションを実施",
+      "summary": "NVIDIAは欧州のJupiterスーパーコンピューター上で104量子ビット規模の耐故障型量子シミュレーションを実行し、従来手法より物理量子ビット数を約9割削減したと報じられた(10/19報道)。",
+      "source": "GuruFocus",
+      "link": "https://www.gurufocus.com/news/9130263/nvidia-nvda-advances-quantum-simulation-on-jupiter-supercomputer"
     },
     {
-      "title": "ビットコイン、原油安を背景に8.2万ドル超へ反発",
-      "summary": "19日、ビットコインは原油価格の下落でリスク選好姿勢が強まったことを受け8.2万ドルを回復。前週はAI関連株の急落に連動し8万ドルを割り込んでいた。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-19/bitcoin-rebounds-above-82-000-as-oil-s-retreat-lifts-risk-mood"
+      "title": "バイトダンス・アリババ・テンセント、NVIDIA「RTX PRO 5500」を350億ドル分発注 供給が追いつかず",
+      "summary": "ロイターによると、中国の大手テック3社がNVIDIAのRTX PRO 5500を計300万枚超、総額350億ドル超で発注し、NVIDIAは需要が計画生産能力を上回り受注を確約できないと顧客に伝えたという(10/20報道)。",
+      "source": "Reuters(Investing.com)",
+      "link": "https://www.investing.com/news/stock-market-news/bytedance-alibaba-and-tencent-order-35-billion-of-nvidia-chips-reuters-4959256"
     },
     {
-      "title": "Microsoft、「AIエージェントはインサイダー脅威と同じ」と新セキュリティ機能を発表",
-      "summary": "Microsoftは企業向けに、利用中のAIエージェントを監視する「Guardian Agents」などの新セキュリティ機能を発表。Claude CodeやCodexを含む最大60種のエージェントを検知できるという(10/19)。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/"
+      "title": "AIチップ新興企業Tenstorrent、15億ドル調達で評価額62億ドルに",
+      "summary": "AIチップスタートアップのTenstorrentは後期ラウンドで15億ドルを調達し、評価額が2024年12月から倍増の62億ドル(ポストマネー)になったと発表。自社サーバー「Galaxy」の量産拡大に充てる(10/19報道)。",
+      "source": "Reuters(U.S. News)",
+      "link": "https://money.usnews.com/investing/news/articles/2026-10-19/ai-chip-startup-tenstorrent-more-than-doubles-its-valuation-to-6-2-billion-in-funding-round"
     },
     {
-      "title": "Replika創業者、新AIアシスタント「Wabi」を正式公開",
-      "summary": "Replika創業者のユージェニア・クイダ氏が、メッセンジャー形式で複数のAIタスクを並行実行できる新アプリ「Wabi」を全ユーザー向けに正式公開した(10/19)。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago"
+      "title": "米半導体株、週間急落から反発 インテルは4%超高",
+      "summary": "米長期金利の低下や原油価格の落ち着きを背景に、前週に急落したAI関連半導体株が反発。インテル株は前週に14%超下落した後、この日は4.2%上昇した(10/19報道)。",
+      "source": "Reuters(Investing.com)",
+      "link": "https://investing.com/news/stock-market-news/us-chip-stocks-rise-after-steepest-weekly-selloff-in-months-4957420"
     },
     {
-      "title": "Replit、デフォルトAIモデルをAnthropicからOpenAIに切り替え",
-      "summary": "コーディングプラットフォームのReplitは、社内ベンチマークでの性能やコスト、契約条件を理由にデフォルトモデルをOpenAI系モデルに変更したとCEOが明らかにした。Anthropicのモデルも選択可能(10/17)。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"
-    },
-    {
-      "title": "Waymoの自動運転車、カナダでテスト開始",
-      "summary": "Waymoはオンタリオ州の自動運転実証プログラムへの参加許可を取得し、トロントで地図作成のための有人走行テストを開始した。ロボタクシーサービスの提供はまだ行わない(10/16)。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/"
+      "title": "DeepSeek、高速・軽量版の新モデル「V4.1-Flash」を公開",
+      "summary": "中国DeepSeekは大規模障害からの復旧後、処理速度を高めた新モデル「DeepSeek-V4.1-Flash-1017」を公開。ベンチマーク「Humanity's Last Exam」のスコアは前バージョンの36.8から42.6に上昇したという(10/17公開、10/19報道)。",
+      "source": "Yahoo News Malaysia",
+      "link": "https://malaysia.news.yahoo.com/faster-leaner-deepseek-rolls-upgraded-051830857.html"
     }
   ],
   "x_trending_tech": []
