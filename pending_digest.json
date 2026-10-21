@@ -1,97 +1,85 @@
 {
-  "run_label": "10/21 19:00",
+  "run_label": "10/22 07:00",
   "politics_economy": [
     {
-      "title": "武部農水相、違法献金疑惑を陳謝 報告書を訂正・返金へ",
-      "summary": "公共事業を受注する地元企業からの献金を巡る週刊誌報道を受け、武部新農水相が21日に陳謝。事実確認のうえで寄付の返金と政治資金収支報告書の訂正を指示したと説明し、高市首相にも報告済みとした(10/21)。",
-      "source": "共同通信/時事通信(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/cbb301e36f3efda50e1ea7856426c9869c0e09eb"
-    },
-    {
-      "title": "日経平均、3日ぶり反発 545円高の6万4621円",
-      "summary": "21日の東京株式市場で日経平均株価は前日比545円82銭（0.85%）高の6万4621円24銭で終了。米スペースXの好決算を背景に午前はAI・半導体株が買われたが、後場は上げ幅を縮小した。",
-      "source": "時事通信(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/22f9d436d721b209dd1c5e1dfb8083f82e386054"
-    },
-    {
-      "title": "2026年度上半期の貿易赤字2兆8184億円 原油高・円安で輸入最大",
-      "summary": "財務省が21日発表した4〜9月の貿易統計速報で、貿易収支は2兆8184億円の赤字となり半期ベースで11期連続の赤字に。中東情勢の緊迫化による原油高と円安が響き、輸入額は比較可能な1979年以降で半期として過去最大の66兆円超となった。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026102100271&g=eco"
-    },
-    {
-      "title": "原油急伸、ホルムズ海峡での攻撃懸念で一時110ドル台 5カ月ぶり高値",
-      "summary": "20日のニューヨーク市場でWTI原油先物が一時前日比6.6%高の1バレル110.48ドルまで急伸し、4月末以来約5カ月ぶりの高値を付けた。ホルムズ海峡周辺でのタンカー攻撃への警戒が背景で、その後は米とイランの協議進展観測から反落した。",
+      "title": "高市首相、就任1年「公約実現へ走り続けた」2年目は物価高対策強化へ",
+      "summary": "高市早苗首相は21日、政権発足から1年を迎えたのを機に記者団の取材に応じ、公約を一つずつ実現してきたと総括。2年目の最重要課題として世界的な物価高への対策強化を挙げた(10/21)。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOGN20BIE0Q6A021C2000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOUA211KJ0R21C26A0000000/"
     },
     {
-      "title": "日銀、10月会合で基調物価「2%到達」の判断へ",
-      "summary": "共同通信によると、日銀は10月29〜30日の金融政策決定会合で、基調的な物価上昇率が目標の2%に到達したとの判断を示す見通し。政策金利は前回9月会合で引き上げた1.25%程度での据え置きが有力とされる(10/21)。",
-      "source": "共同通信(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/569f8c30e0bd27845c45a638861288fd098175bb"
+      "title": "消費税減税法案、衆院財務金融委で審議入り 公明代表「効果検証を」要求",
+      "summary": "食料品の消費税率を2年間1%に下げる関連法案が21日、衆院財務金融委員会で審議入り。公明党の岡本三成代表は四半期ごとの効果検証を政府に求めた。財源や給付対象など重要項目が未確定のまま異例の審議入りとなっている(10/21)。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUA215M00R21C26A0000000/"
+    },
+    {
+      "title": "日経平均、3日ぶり反発 545円高の6万4621円 米スペースX決算を好感",
+      "summary": "21日の東京株式市場で日経平均株価は3営業日ぶりに反発し、前日比545円高の6万4621円で取引を終えた。米スペースXの好決算を受けAI・半導体株に買いが広がった一方、6万5000円台では上値の重さも見られた(10/21)。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOFL215YM0R21C26A0000000/"
+    },
+    {
+      "title": "警察庁システム「アルカディア」に不正アクセス、警官・職員12.5万人分の情報流出か",
+      "summary": "警察庁が運用するシステム「アルカディア」が不正アクセスを受け、全国20府県警の警察官・職員ら約12万5千人分の情報が流出した可能性があると21日分かった。防犯メール登録者のメールアドレスも含まれるという(10/21)。",
+      "source": "時事通信",
+      "link": "https://jiji.com/jc/article?g=soc&k=2026102100348"
+    },
+    {
+      "title": "台風30号、先島諸島へ接近へ 暴風・高波に厳重警戒",
+      "summary": "大型で猛烈な台風30号は21日、フィリピン東方海上を西寄りに進んだ。気象庁は23〜24日ごろに沖縄・先島諸島へ接近する恐れがあるとして、暴風や高波、土砂災害への警戒を呼びかけている(10/21)。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUD21A860R21C26A0000000/"
     }
   ],
   "tech": [
     {
-      "title": "NVIDIA、安全なAIエージェント基盤「OpenShell Reference Architecture」を発表",
-      "summary": "NVIDIAはドイツ・ベルリンで開催中のGTCで、企業やエッジ向けにAIエージェントを安全に構築・運用するための参照アーキテクチャ「OpenShell」を発表。Anthropic、OpenAI、AWS、Google Cloud、Microsoft、Metaなどが協力企業として名を連ねる(10/21)。",
-      "source": "NVIDIA(GlobeNewswire)",
-      "link": "https://www.globenewswire.com/news-release/2026/10/21/3385311/0/en/nvidia-launches-openshell-reference-architecture-for-safe-ai-agents.html"
+      "title": "Metaの画像生成AIアプリ「Muse」、利用者1000万人超に 主要用途はショッピング",
+      "summary": "Metaは21日の第3四半期決算発表で、AI画像生成アプリ「Muse」の利用者が1000万人を突破したと明らかにした。主な用途はショッピングで、設定後に毎日利用するユーザーは約25%に上るという(10/21)。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity"
     },
     {
-      "title": "スペースX、2026年7〜9月期で上場後初の黒字 AI部門が牽引",
-      "summary": "スペースXの7〜9月期決算は純利益44億ドルの黒字(上場後初)。AI事業の売上高は前年同期比830%増の76億ドルに達し、設備投資の最大項目となったAI関連投資とともに成長をけん引した(10/20発表)。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOGN20BPF0Q6A021C2000000/"
+      "title": "Google、PyTorch版「TorchTPU」をオープンソース化 NvidiaのAI開発シェアに対抗",
+      "summary": "Googleは20日、自社TPU向けのPyTorch版「TorchTPU」をオープンソースとして公開した。設定変更だけでTPU上にAIアプリを移行でき、MetaやHugging Faceなどと連携し主要開発ツールとの互換性を確保したという。前日のAmazonの動きに続き、Nvidia陣営への対抗姿勢を強めている(10/20)。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/"
     },
     {
-      "title": "マスク氏、スペースXとテスラの経営統合検討で特別委員会設置を表明",
-      "summary": "イーロン・マスク氏は20日の決算説明会で、スペースXとテスラの経営統合協議に向け両社がそれぞれ社外取締役による特別委員会を設置したと明らかにした。AIや半導体、ロボティクスでの相乗効果が期待されるが、議論はまだ初期段階。",
-      "source": "時事通信(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/68ec0231ad51009e982516e2e74f34ce29017cfb"
+      "title": "Amazon、PyTorchをTrainiumチップ対応に 新ツール「TorchNeuron」でNvidia包囲網",
+      "summary": "Amazonは19日、PyTorchアプリを自社AIチップ「Trainium」上で設定変更一行だけで動かせる新ツール「TorchNeuron」を発表した。PyTorch本体へのコード提供も進め、Nvidia一辺倒からの脱却を図る動きの一環とされる(10/19)。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/"
     },
     {
-      "title": "Anthropic、英Nscaleと6年450億ドル規模の計算能力契約",
-      "summary": "複数の報道によると、AnthropicはAI新興Nscaleの米ウェストバージニア州データセンターで約460メガワット分の計算能力を6年間・総額約450億ドルで確保する契約を締結。IPOを準備するNscaleの受注残高は約510億ドルに拡大した(10/20報道)。",
-      "source": "DatacenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/anthropic-signs-45bn-compute-capacity-agreement-with-nscale-report/"
+      "title": "ChatGPT、チャットを「ロック」できる新機能を追加",
+      "summary": "OpenAIは20日、ChatGPTの会話を4桁PINまたはFace ID/Touch IDでロックできる新機能を発表した。ロックした会話は専用の「Locked Chats」セクションに分離され、通常の履歴や検索結果からは見えなくなる。暗号化方式や保存期間自体に変更はないという(10/20)。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/"
     },
     {
-      "title": "Anthropic、ユーザーの意図を汲み取る新型Claudeモデルを準備中と報道",
-      "summary": "米メディアThe Informationによると、Anthropicは推論能力を高め、ユーザーが明示しない意図まで汲み取れる新型Claudeモデルを準備しているという。未発表の段階でモデル名や発表時期は不明(10/19報道)。",
-      "source": "The Information(aiweekly.co)",
-      "link": "https://aiweekly.co/alerts/anthropic-preps-model-that-reads-unstated-user-intent-report"
+      "title": "SpaceX、AI事業が好調 初の黒字四半期を記録",
+      "summary": "SpaceXは20日発表した2026年第3四半期決算で、純利益44億ドルの初の黒字を計上した。売上高146億ドルのうちAI関連が利益の52%を占め、2027年末までに年間経常収益500億〜1兆ドルを見込むとした(10/20)。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/"
     },
     {
-      "title": "クラウドAI需要、2027年も半導体成長をけん引か 台湾勢はエッジAI不振から転換模索",
-      "summary": "台湾メディアDigitimesによると、民生向けエッジAI需要が弱含む一方、クラウドAI向け半導体需要は2027年にかけても成長をけん引する見通し。台湾の半導体サプライヤーは事業機会の軸足をクラウド領域に移しつつある(10/21)。",
-      "source": "Digitimes",
-      "link": "https://www.digitimes.com/news/a20261021PD226/cloud-ai-demand-growth-taiwan-2027.html"
+      "title": "テスラ、人型ロボット「Optimus」の量産をカリフォルニアで開始 純利益は43%減",
+      "summary": "テスラは21日発表の第3四半期決算で、人型ロボット「Optimus」の量産をカリフォルニア州で開始したと明らかにした。一方で純利益は前年同期比43%減の7億8700万ドルにとどまり、設備投資額もアナリスト予想を下回った(10/21)。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/"
     },
     {
-      "title": "SKハイニックス株が急伸、AIメモリー需要回復への期待で",
-      "summary": "AIサーバー向けメモリー需要の回復期待から、SKハイニックスなどメモリー関連株に買いが入った。27日発表予定の同社第3四半期決算への期待も材料視されている(10/21)。",
-      "source": "TipRanks",
-      "link": "https://www.tipranks.com/news/why-sk-hynix-stock-skhy-is-rising-today-and-what-wall-street-expects-next-oct-21"
+      "title": "NTTが大阪にAnthropic向け国内最大級データセンター検討、建設費1兆円規模",
+      "summary": "NTTは米Anthropic向けのデータセンターを大阪府内に建設する方向で検討していることが分かった。建設費は1兆円程度とみられ、実現すれば同社にとって国内初の基幹データセンターになる見通し(10/14報道)。",
+      "source": "共同通信(熊本日日新聞)",
+      "link": "https://kumanichi.com/articles/2046343"
     },
     {
-      "title": "マイクロン・サンディスク・SKハイニックス、寄り付き前に軒並み上昇",
-      "summary": "AIメモリー需要の高まりを背景に、米マイクロンや米サンディスク、韓国SKハイニックスの株価が21日の取引開始前に揃って上昇した。",
-      "source": "TipRanks",
-      "link": "https://www.tipranks.com/news/why-micron-sandisk-and-sk-hynix-are-rising-in-premarket-today-october-21"
-    },
-    {
-      "title": "マイクロン台湾労組がスト権獲得、22日に台中工場で労使協議へ",
-      "summary": "マイクロンの台湾・桃園工場の労働組合がボーナスを巡る対立でストライキ権を獲得した。台中工場の労組とは22日に追加協議が予定されており、台湾総統も双方に誠実な交渉を呼びかけている。",
-      "source": "The Standard(香港)",
-      "link": "https://www.thestandard.com.hk/china/article/345564/Taiwan-president-calls-for-Micron-workers-to-negotiate-sincerely-ahead-of-possible-strike"
-    },
-    {
-      "title": "アドバンテスト株価、一時5%高 スペースX決算でAI懸念後退",
-      "summary": "21日の東京市場でアドバンテスト株が一時5%上昇。米スペースXの好決算を受けてAI投資への過熱懸念が和らぎ、半導体関連株への買いが広がった。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOFL210XM0R21C26A0000000/"
+      "title": "リデル、AIが参照する商品データを整備する「コマース対応AIO」提供開始",
+      "summary": "リデルは21日、生成AIの回答・比較・画像・購入導線に対応した商品データ整備サービス「コマース対応AIO」の提供を開始したと発表した。EC事業者がAI検索・AIショッピングに対応しやすくなるという(10/21)。",
+      "source": "PR TIMES",
+      "link": "https://prtimes.jp/main/html/rd/p/000000534.000011944.html"
     }
   ],
   "x_trending_tech": []
