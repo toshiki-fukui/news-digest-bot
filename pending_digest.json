@@ -1,85 +1,55 @@
 {
-  "run_label": "10/22 07:00",
+  "run_label": "10/22 19:00",
   "politics_economy": [
     {
-      "title": "高市首相、就任1年「公約実現へ走り続けた」2年目は物価高対策強化へ",
-      "summary": "高市早苗首相は21日、政権発足から1年を迎えたのを機に記者団の取材に応じ、公約を一つずつ実現してきたと総括。2年目の最重要課題として世界的な物価高への対策強化を挙げた(10/21)。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUA211KJ0R21C26A0000000/"
+      "title": "自民党総裁選まで1年、高市首相を待つ四つの関門 長期政権への課題",
+      "summary": "高市政権発足から1年を前に、来年秋の自民党総裁選での再選に向け、消費税減税法案の成立や来年度予算編成、悪化する日中関係などが課題として挙げられている(10/22配信)。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/jp/news/articles/2026-10-22/TN5O5BKJH6VE00?srnd=jp-homepage"
     },
     {
-      "title": "消費税減税法案、衆院財務金融委で審議入り 公明代表「効果検証を」要求",
-      "summary": "食料品の消費税率を2年間1%に下げる関連法案が21日、衆院財務金融委員会で審議入り。公明党の岡本三成代表は四半期ごとの効果検証を政府に求めた。財源や給付対象など重要項目が未確定のまま異例の審議入りとなっている(10/21)。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUA215M00R21C26A0000000/"
+      "title": "政権発足1年「高市流」の行方 命綱の支持率、農相更迭で盤石政権に陰り",
+      "summary": "高市政権発足から1年を迎えるにあたり、農相更迭などを経て支持率低下に陰りが見える政権運営の現状を検証する連載記事(10月下旬配信)。",
+      "source": "北海道新聞",
+      "link": "https://www.hokkaido-np.co.jp/article/1392209/"
     },
     {
-      "title": "日経平均、3日ぶり反発 545円高の6万4621円 米スペースX決算を好感",
-      "summary": "21日の東京株式市場で日経平均株価は3営業日ぶりに反発し、前日比545円高の6万4621円で取引を終えた。米スペースXの好決算を受けAI・半導体株に買いが広がった一方、6万5000円台では上値の重さも見られた(10/21)。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOFL215YM0R21C26A0000000/"
+      "title": "内閣支持率、最低49% 農相更迭「遅過ぎ」との回答57%",
+      "summary": "共同通信が17〜18日に実施した世論調査で高市内閣の支持率は49.1%となり、政権発足以来初めて50%を下回り最低を記録した(10/18配信)。",
+      "source": "共同通信(熊本日日新聞)",
+      "link": "https://kumanichi.com/articles/2047911"
     },
     {
-      "title": "警察庁システム「アルカディア」に不正アクセス、警官・職員12.5万人分の情報流出か",
-      "summary": "警察庁が運用するシステム「アルカディア」が不正アクセスを受け、全国20府県警の警察官・職員ら約12万5千人分の情報が流出した可能性があると21日分かった。防犯メール登録者のメールアドレスも含まれるという(10/21)。",
-      "source": "時事通信",
-      "link": "https://jiji.com/jc/article?g=soc&k=2026102100348"
-    },
-    {
-      "title": "台風30号、先島諸島へ接近へ 暴風・高波に厳重警戒",
-      "summary": "大型で猛烈な台風30号は21日、フィリピン東方海上を西寄りに進んだ。気象庁は23〜24日ごろに沖縄・先島諸島へ接近する恐れがあるとして、暴風や高波、土砂災害への警戒を呼びかけている(10/21)。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUD21A860R21C26A0000000/"
+      "title": "消費減税、財源2年で10兆円 中小農家・外食産業への支援策も",
+      "summary": "飲食料品の消費税を1%に引き下げる法案が20日に衆院本会議で審議入り。2年間で約10兆円に上る財源確保策は年末の予算編成に先送りされている(10/19配信)。",
+      "source": "共同通信(熊本日日新聞)",
+      "link": "https://kumanichi.com/articles/2048219"
     }
   ],
   "tech": [
     {
-      "title": "Metaの画像生成AIアプリ「Muse」、利用者1000万人超に 主要用途はショッピング",
-      "summary": "Metaは21日の第3四半期決算発表で、AI画像生成アプリ「Muse」の利用者が1000万人を突破したと明らかにした。主な用途はショッピングで、設定後に毎日利用するユーザーは約25%に上るという(10/21)。",
+      "title": "中国DeepSeek、AI開発加速へ約1.5兆円(100億ドル超)の大型資金調達へ",
+      "summary": "BloombergによるとDeepSeekはCATLやテンセントなどから総額約100億元(約1.5兆円)規模の資金調達を完了させつつあり、米大手AI企業への対抗姿勢を強めている(10/21報道)。",
+      "source": "Bloomberg",
+      "link": "https://wkzo.com/2026/10/21/deepseek-raises-15-billion-in-challenge-to-leading-us-labs-bloomberg-news-reports"
+    },
+    {
+      "title": "Meta、AI投資拡大のため新株式クラスを創設 2026年第3四半期決算と同時発表",
+      "summary": "Metaは10月21日、AIインフラへの投資拡大の資金を確保するため新たにクラスC株式を創設すると発表。第3四半期決算と合わせて公表された(10/21)。",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity"
+      "link": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock"
     },
     {
-      "title": "Google、PyTorch版「TorchTPU」をオープンソース化 NvidiaのAI開発シェアに対抗",
-      "summary": "Googleは20日、自社TPU向けのPyTorch版「TorchTPU」をオープンソースとして公開した。設定変更だけでTPU上にAIアプリを移行でき、MetaやHugging Faceなどと連携し主要開発ツールとの互換性を確保したという。前日のAmazonの動きに続き、Nvidia陣営への対抗姿勢を強めている(10/20)。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/"
+      "title": "AnthropicはIPOを急ぐ一方、OpenAIは2027年まで上場見送りか",
+      "summary": "好調な四半期を背景にAnthropicが11月にもIPOを計画する一方、OpenAIは2027年まで非公開を維持し300億ドル規模の民間資金調達を選ぶ見通しと報じられた(10/22配信)。",
+      "source": "The Motley Fool",
+      "link": "https://fool.com/investing/2026/10/22/why-anthropic-is-racing-to-ipo-while-openai-waits"
     },
     {
-      "title": "Amazon、PyTorchをTrainiumチップ対応に 新ツール「TorchNeuron」でNvidia包囲網",
-      "summary": "Amazonは19日、PyTorchアプリを自社AIチップ「Trainium」上で設定変更一行だけで動かせる新ツール「TorchNeuron」を発表した。PyTorch本体へのコード提供も進め、Nvidia一辺倒からの脱却を図る動きの一環とされる(10/19)。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/"
-    },
-    {
-      "title": "ChatGPT、チャットを「ロック」できる新機能を追加",
-      "summary": "OpenAIは20日、ChatGPTの会話を4桁PINまたはFace ID/Touch IDでロックできる新機能を発表した。ロックした会話は専用の「Locked Chats」セクションに分離され、通常の履歴や検索結果からは見えなくなる。暗号化方式や保存期間自体に変更はないという(10/20)。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/"
-    },
-    {
-      "title": "SpaceX、AI事業が好調 初の黒字四半期を記録",
-      "summary": "SpaceXは20日発表した2026年第3四半期決算で、純利益44億ドルの初の黒字を計上した。売上高146億ドルのうちAI関連が利益の52%を占め、2027年末までに年間経常収益500億〜1兆ドルを見込むとした(10/20)。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/"
-    },
-    {
-      "title": "テスラ、人型ロボット「Optimus」の量産をカリフォルニアで開始 純利益は43%減",
-      "summary": "テスラは21日発表の第3四半期決算で、人型ロボット「Optimus」の量産をカリフォルニア州で開始したと明らかにした。一方で純利益は前年同期比43%減の7億8700万ドルにとどまり、設備投資額もアナリスト予想を下回った(10/21)。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/"
-    },
-    {
-      "title": "NTTが大阪にAnthropic向け国内最大級データセンター検討、建設費1兆円規模",
-      "summary": "NTTは米Anthropic向けのデータセンターを大阪府内に建設する方向で検討していることが分かった。建設費は1兆円程度とみられ、実現すれば同社にとって国内初の基幹データセンターになる見通し(10/14報道)。",
-      "source": "共同通信(熊本日日新聞)",
-      "link": "https://kumanichi.com/articles/2046343"
-    },
-    {
-      "title": "リデル、AIが参照する商品データを整備する「コマース対応AIO」提供開始",
-      "summary": "リデルは21日、生成AIの回答・比較・画像・購入導線に対応した商品データ整備サービス「コマース対応AIO」の提供を開始したと発表した。EC事業者がAI検索・AIショッピングに対応しやすくなるという(10/21)。",
-      "source": "PR TIMES",
-      "link": "https://prtimes.jp/main/html/rd/p/000000534.000011944.html"
+      "title": "ロボット向け汎用AI基盤モデルを開発するDream Labsが90億円規模のシード資金調達",
+      "summary": "元NVIDIAのロボティクス研究者らが創業したDream Labsが、B Capitalなどから9000万ドルのシード資金を調達し、様々なロボットで動かせる基盤モデルAPI「Dream-1」を発表した(10/19)。",
+      "source": "Business Wire",
+      "link": "https://www.morningstar.com/news/business-wire/20261019230613/dream-labs-raises-90m-seed-to-build-the-brain-for-everyday-robots"
     }
   ],
   "x_trending_tech": []
