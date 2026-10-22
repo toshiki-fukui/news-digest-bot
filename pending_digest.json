@@ -1,55 +1,31 @@
 {
-  "run_label": "10/22 19:00",
+  "run_label": "10/23 07:00",
   "politics_economy": [
     {
-      "title": "自民党総裁選まで1年、高市首相を待つ四つの関門 長期政権への課題",
-      "summary": "高市政権発足から1年を前に、来年秋の自民党総裁選での再選に向け、消費税減税法案の成立や来年度予算編成、悪化する日中関係などが課題として挙げられている(10/22配信)。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/jp/news/articles/2026-10-22/TN5O5BKJH6VE00?srnd=jp-homepage"
+      "title": "高市首相、PHPの重大脆弱性をXで緊急呼びかけ",
+      "summary": "高市首相は21日夜、X(旧Twitter)で「大至急のお願い」としてPHPを使うサイト運営者に修正プログラムの早期適用を呼びかけた。首相自らが特定ソフトウェアの脆弱性対応をSNSで呼びかけるのは異例(10/21夜配信)。",
+      "source": "時事通信",
+      "link": "https://www.jiji.com/jc/article?k=2026102101249&g=pol"
     },
     {
-      "title": "政権発足1年「高市流」の行方 命綱の支持率、農相更迭で盤石政権に陰り",
-      "summary": "高市政権発足から1年を迎えるにあたり、農相更迭などを経て支持率低下に陰りが見える政権運営の現状を検証する連載記事(10月下旬配信)。",
-      "source": "北海道新聞",
-      "link": "https://www.hokkaido-np.co.jp/article/1392209/"
-    },
-    {
-      "title": "内閣支持率、最低49% 農相更迭「遅過ぎ」との回答57%",
-      "summary": "共同通信が17〜18日に実施した世論調査で高市内閣の支持率は49.1%となり、政権発足以来初めて50%を下回り最低を記録した(10/18配信)。",
-      "source": "共同通信(熊本日日新聞)",
-      "link": "https://kumanichi.com/articles/2047911"
-    },
-    {
-      "title": "消費減税、財源2年で10兆円 中小農家・外食産業への支援策も",
-      "summary": "飲食料品の消費税を1%に引き下げる法案が20日に衆院本会議で審議入り。2年間で約10兆円に上る財源確保策は年末の予算編成に先送りされている(10/19配信)。",
-      "source": "共同通信(熊本日日新聞)",
-      "link": "https://kumanichi.com/articles/2048219"
+      "title": "高市首相、政権発足1年で会見「世の中の空気は変わりつつある」",
+      "summary": "高市早苗首相は21日、政権発足1年を迎え記者会見。積極財政への転換の効果を強調する一方、政策の発信不足を反省点に挙げ、2年目は世界的な物価高への対策強化に注力すると表明した(10/21配信)。",
+      "source": "時事通信",
+      "link": "https://www.jiji.com/jc/article?k=2026102100880&g=pol"
     }
   ],
   "tech": [
     {
-      "title": "中国DeepSeek、AI開発加速へ約1.5兆円(100億ドル超)の大型資金調達へ",
-      "summary": "BloombergによるとDeepSeekはCATLやテンセントなどから総額約100億元(約1.5兆円)規模の資金調達を完了させつつあり、米大手AI企業への対抗姿勢を強めている(10/21報道)。",
-      "source": "Bloomberg",
-      "link": "https://wkzo.com/2026/10/21/deepseek-raises-15-billion-in-challenge-to-leading-us-labs-bloomberg-news-reports"
+      "title": "OpenAI、Googleクラウドにもモデル提供へ マイクロソフト専属体制から転換",
+      "summary": "OpenAIは10月21日、自社のAIモデルやCodexツールをGoogle CloudのModel Garden/Marketplace経由で数週間以内に提供すると発表。これで主要3大クラウド(Microsoft Azure、AWS、Google Cloud)すべてでOpenAIモデルが利用可能になるが、Microsoftが引き続き主要パートナーである点に変わりはないとしている(10/21配信)。",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/10/21/openai-bring-its-ai-models-to-googles-cloud-expands-beyond-microsoft.html"
     },
     {
-      "title": "Meta、AI投資拡大のため新株式クラスを創設 2026年第3四半期決算と同時発表",
-      "summary": "Metaは10月21日、AIインフラへの投資拡大の資金を確保するため新たにクラスC株式を創設すると発表。第3四半期決算と合わせて公表された(10/21)。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock"
-    },
-    {
-      "title": "AnthropicはIPOを急ぐ一方、OpenAIは2027年まで上場見送りか",
-      "summary": "好調な四半期を背景にAnthropicが11月にもIPOを計画する一方、OpenAIは2027年まで非公開を維持し300億ドル規模の民間資金調達を選ぶ見通しと報じられた(10/22配信)。",
-      "source": "The Motley Fool",
-      "link": "https://fool.com/investing/2026/10/22/why-anthropic-is-racing-to-ipo-while-openai-waits"
-    },
-    {
-      "title": "ロボット向け汎用AI基盤モデルを開発するDream Labsが90億円規模のシード資金調達",
-      "summary": "元NVIDIAのロボティクス研究者らが創業したDream Labsが、B Capitalなどから9000万ドルのシード資金を調達し、様々なロボットで動かせる基盤モデルAPI「Dream-1」を発表した(10/19)。",
-      "source": "Business Wire",
-      "link": "https://www.morningstar.com/news/business-wire/20261019230613/dream-labs-raises-90m-seed-to-build-the-brain-for-everyday-robots"
+      "title": "Anthropic、プロフェッショナル・中小企業向け自律型AIエージェント「Claude Duet」をプレビュー公開",
+      "summary": "Anthropicは10月21日、Opus 5.5を基盤とする新エージェントアプリ「Claude Duet」の研究プレビューを発表。毎朝のブリーフィングや会計・予約・財務予測などの業務を能動的にこなし、QuickBooksやPayPal、HubSpotなど6000以上のコネクタに対応する。米国のPro/Max会員向けに招待制で提供される(10/21配信)。",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/10/21/anthropic-preview-of-claude-duet-personal-ai-agent-take-on-muse-dots.html"
     }
   ],
   "x_trending_tech": []
