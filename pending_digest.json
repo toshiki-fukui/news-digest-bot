@@ -1,98 +1,99 @@
 {
-  "run_label": "10/23 19:00",
+  "run_label": "10/24 07:00",
   "politics_economy": [
     {
-      "title": "日経平均2日続落、214円安 AI投資への懸念で半導体株に売り",
-      "summary": "23日の東京株式市場で日経平均株価は続落し、前日比214円安の62,693.16円で終えた。前日の米市場でAI関連のハイテク株が急落した流れを受け、半導体関連株を中心に売りが優勢となった(10/23大引け)。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUB230JSTT21C26A0000000/"
+      "title": "高市首相「公約の実現こそ使命」政権発足1年、物価高対策を強化",
+      "summary": "高市早苗首相は政権発足1年を迎えた21日の記者会見で、公約の実現が自身の使命だと強調し、世界的な物価高への対策強化を最優先課題に挙げた。",
+      "source": "熊本日日新聞(共同通信)",
+      "link": "https://kumanichi.com/articles/2049024"
     },
     {
-      "title": "高市首相、ガソリン補助金の見直し示唆「出口戦略含め柔軟に」",
-      "summary": "高市早苗首相は、1リットル170円程度に抑えるガソリン補助金について、財源の持続可能性を踏まえ、水準や終了時期を含め柔軟に検討する方針を示した(10/23配信)。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026102300839&g=pol&m=rss"
+      "title": "消費減税法案、衆院で本格論戦スタート 飲食料品の税率1%に",
+      "summary": "飲食料品の消費税率を8%から1%に引き下げる政府提出法案を巡り、財源や所得連動型給付の詳細をめぐる与野党の論戦が衆院で本格化している。",
+      "source": "熊本日日新聞(共同通信)",
+      "link": "https://kumanichi.com/articles/2048549"
     },
     {
-      "title": "総務省、選挙の偽情報対策でSNS指針案 AI検知・収益化停止も検討",
-      "summary": "総務省は選挙に関する偽情報の拡散防止に向け、AIによる検知や悪質な投稿の収益化停止などを盛り込んだSNS事業者向けの指針案をまとめた(10/23配信)。",
+      "title": "高市首相、23日夜に閣僚と公邸で夕食会",
+      "summary": "高市早苗首相は23日、藤井総務相、茂木外相、片山財務相ら閣僚を首相公邸に招き、夕食を共にしたと報じられた。",
       "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026102300419&g=pol"
+      "link": "https://www.jiji.com/jc/article?k=2026102301069&g=pol"
     },
     {
-      "title": "日韓経済団体、ソウルで懇談会 韓国のCPTPP加入めぐり供給網強化で共同声明",
-      "summary": "経団連と韓国経済人協会は23日、ソウルで懇談会を開催。韓国のCPTPP加入を見据え、サプライチェーン強化に向けた共同声明を採択した(10/23配信)。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026102300853&g=int&m=rss"
-    },
-    {
-      "title": "高市首相、ラグビーW杯招致へ協力要請 ワールドラグビー会長と会談",
-      "summary": "高市首相は23日、首相官邸でワールドラグビーのブレット・ロビンソン会長と会談し、2035年大会の日本招致に向けた協力を求めた(10/23配信)。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026102300931&g=pol&m=rss"
+      "title": "総務省、選挙期間中のSNS事業者向け対策指針案を公表",
+      "summary": "総務省は23日18時28分、選挙の公正を害する投稿での収益化防止やAI生成画像である旨の表示などを例示した、SNS事業者向けの対策指針案を公表した。",
+      "source": "ABEMA TIMES",
+      "link": "https://times.abema.tv/articles/-/10283420"
     }
   ],
   "tech": [
     {
-      "title": "OpenAI、IPO前に評価額1.25兆ドルで300億ドル調達へ",
-      "summary": "OpenAIはCoatueやUAE系投資家が主導するラウンドで、評価額1兆2500億ドルとして最大300億ドルを調達する計画だと報じられた。IPOに向けたつなぎ資金との位置づけで、条件は協議中(10/22配信)。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/"
+      "title": "東京株式市場、AI過剰投資懸念で半導体関連株に売り",
+      "summary": "23日の東京株式市場では、AIインフラへの過剰投資を懸念する声が強まり、アドバンテストやソフトバンクグループなど半導体・AI関連株を中心に売りが広がった。",
+      "source": "財経新聞",
+      "link": "https://www.zaikei.co.jp/article/20261023/874684.html"
     },
     {
-      "title": "Anthropic、早ければ今週中にIPO申請書(S-1)を公開提出へ",
-      "summary": "関係者によると、Anthropicは早ければ23日にもS-1投資家向け説明書を公開提出する見通し。11月を目標とするIPOに向けた重要な節目となる(10/22配信)。",
-      "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/article/anthropic-to-publicly-file-for-ipo-as-early-as-friday-sources-say-135343841.html"
+      "title": "NVIDIAのフアンCEO「ネオクラウド需要は桁外れ」、資本不足が成長の壁に",
+      "summary": "エヌビディアのジェンスン・フアンCEOは23日、ネオクラウド各社へのAIコンピューティング需要は「桁外れに高い」としつつ、資金調達力の不足が各社の成長を阻んでいるとの見方を示した。",
+      "source": "株探",
+      "link": "https://kabutan.jp/news/marketnews/?b=n202610230185"
     },
     {
-      "title": "Meta株急落、AI投資拡大でフリーキャッシュフロー悪化",
-      "summary": "Metaの第3四半期は増収だったが、AI関連の資本支出拡大でフリーキャッシュフローが約21億ドルのマイナスとなり、株価は約7%急落。2026年の資本支出計画は1350億〜1450億ドルに上方修正された(10/22配信)。",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/10/22/meta-stock-q3-earnings-free-cash-flow.html"
+      "title": "電子システム設計(ESD)業界、2026年Q2売上高57.1億ドル AI需要がけん引",
+      "summary": "SEMIの調査によると、2026年第2四半期の電子システム設計(ESD)業界の売上高は前年同期比12.2%増の57億1080万ドルとなり、AIや先端プロセス向けの設計需要増が背景にあるという。",
+      "source": "マイナビニュース(TECH+)",
+      "link": "https://news.mynavi.jp/techplus/article/20261023-5175828/"
     },
     {
-      "title": "メルカリ株急騰、米Metaの個人向けAIエージェント「Muse」と提携",
-      "summary": "メルカリは23日、Metaの個人向けAIエージェント「Muse」のサービス連携先に選ばれたと発表し株価が7.3%急騰。マネーフォワードMEやチケットぴあとの連携も進める計画(10/23配信)。",
-      "source": "Investing.com",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1723165"
+      "title": "CoreWeaveの社債が「ディストレスト」水準に、AI投資ブームの信用不安広がる",
+      "summary": "AIインフラ企業CoreWeaveの社債利回りが15%前後まで上昇し、Reuters/Bloombergなどの報道をもとに、AI向け巨額投資を支える私募クレジット市場への懸念が強まっていると伝えられている。",
+      "source": "Let's Data Science",
+      "link": "https://letsdatascience.com/news/coreweave-shares-and-bonds-slide-as-debt-fears-grip-ai-build-b082a38e"
     },
     {
-      "title": "「PHP2Shell」問題、AIが発見した重大脆弱性の開示めぐりPHP側とChainguardが対立",
-      "summary": "セキュリティ企業WizはGemini 4 ArgonやGPT-5.6 SolなどのAIを使い、世界のサイトの7割に影響するPHPの重大なリモートコード実行の脆弱性を発見。PHP側は開示のタイミングを巡りChainguardを批判している(10/22配信)。",
-      "source": "The Register",
-      "link": "https://www.theregister.com/security/2026/10/22/php-blames-supply-chain-security-biz-chainguard-for-putting-huge-chunks-of-the-web-at-risk/5304611"
-    },
-    {
-      "title": "Google Chrome、Gemini搭載の詐欺検知機能を追加",
-      "summary": "Googleは偽の修正手順をコピーさせる「ClickFix」型攻撃などへの対策として、GeminiベースのスキャンでChromeに詐欺サイト検知機能を追加した(10/21配信)。",
+      "title": "PHP緊急パッチ「PHP2Shell」、公開前に深刻な脆弱性情報が流出・攻撃発生",
+      "summary": "PHPの深刻な未認証RCE脆弱性2件(CVSS9.2、CVE-2026-109618/109619)の情報が正式公開前にネット上へ流出し、21日に緊急パッチが公開された後も悪用の報告が続いている。",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/"
+      "link": "https://bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws"
     },
     {
-      "title": "OpenAI、ChatGPT広告を89カ国に拡大 広告主10万社超に",
-      "summary": "OpenAIはIPOを見据えた収益源強化のため、ChatGPTの広告配信対象国を26カ国追加し計89カ国へ拡大。広告主は10万社を超えた。無料・Goプランのみ広告が表示される(10/21配信)。",
-      "source": "Reuters (The Next Web)",
-      "link": "https://thenextweb.com/news/chatgpt-ads-89-countries-100000-advertisers"
+      "title": "Linuxの父トーバルズ氏、AIコーディング支援「Claude Code」活用しカーネル改善",
+      "summary": "リーナス・トーバルズ氏は、ページキャッシュ読み取り処理を改善する新ブランチで、コードやテストプログラム、コミットメッセージの草稿をAIコーディング支援ツール「Claude Code」と共に作成したと明らかにした。",
+      "source": "It's FOSS",
+      "link": "https://itsfoss.com/news/linus-torvalds-claude-code-linux/"
     },
     {
-      "title": "サムスンとSKハイニックス、中国工場で高層NAND増産へ改修",
-      "summary": "ロイターによると、サムスン電子とSKハイニックスはAI需要の拡大と中国CXMTの追撃を受け、中国の工場を200層超のNANDフラッシュ生産へ改修中。米政府とも協議の上で進めているという(10/21配信)。",
-      "source": "Reuters (CNBC)",
-      "link": "https://www.cnbc.com/amp/2026/10/21/samsung-sk-hynix-upgrading-china-plants-to-make-more-advanced-chips-people-say-reuters.html"
+      "title": "独VW、33万人超の従業員にMicrosoft Copilotを導入",
+      "summary": "マイクロソフトは21日、フォルクスワーゲン・グループが33万人以上の従業員にCopilotを導入したと発表。生産・調達・エンジニアリングなどの業務で活用が広がっているという。",
+      "source": "Let's Data Science",
+      "link": "https://letsdatascience.com/news/microsoft-equips-330000-volkswagen-group-employees-with-copi-7d9d97f9"
     },
     {
-      "title": "NEC、ライブカメラ映像から災害の予兆を検知するAIを開発",
-      "summary": "NECは河川の増水や積雪状況などをライブカメラ映像とVLM(視覚言語モデル)でスコア化し、早期に災害の予兆を発見するAIを開発。2027年度中の実用化を目指す(10/23配信)。",
-      "source": "Impress AI Watch",
-      "link": "https://ai.watch.impress.co.jp/docs/news/2150749.html"
-    },
-    {
-      "title": "Nvidia×IBMの量子ハードでQuantum X Labsが節目の成果を発表",
-      "summary": "Quantum X Labsは、NvidiaのCUDA-Qデコーダーと複数のIBM量子プロセッサを用いた検証で重要な節目を達成したと発表。IBMは同社の成果を保証・提携しているわけではないとしている(10/22配信)。",
-      "source": "GlobeNewswire",
-      "link": "https://www.globenewswire.com/news-release/2026/10/22/3386319/0/en/gix-internet-quantum-x-labs-achieved-key-milestones-with-nvidia-cuda-q-decoder-and-ibm-quantum-hardware.html"
+      "title": "クラウドサービスZeabur、2カ月で2度目のセキュリティ侵害を受けサービス終了へ",
+      "summary": "開発者向けクラウドサービスZeaburは、平文保存されていた内部認証情報が悪用され環境変数など大量の情報が窃取されたと公表し、サービスを終了すると発表した。",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/"
     }
   ],
-  "x_trending_tech": []
+  "x_trending_tech": [
+    {
+      "title": "米国株式市場、AI投資懸念で大幅安 ナスダック2.6%下落と今年最悪級の下げ",
+      "summary": "投資系ポスト主「amit」が、22日の米国市場でナスダックが2.6%安・ナスダック100が2.9%安となり約1.2兆ドルの市場価値が消えたと速報。AI支出への懸念が相場の重荷になっていると分析した(10/23未明3時台の投稿)。",
+      "source": "@amitisinvesting",
+      "link": "https://x.com/amitisinvesting/status/2113468305969160270"
+    },
+    {
+      "title": "米CFTC関係者、ハーバードのブロックチェーン・AIサミットで基調講演",
+      "summary": "Caroline D. Pham氏(米CFTC)が、ハーバード大学のブロックチェーン&AIサミットで基調講演を行い、AI時代の市場構造改革には明確な証券・商品の定義や投資家保護が必要だと訴えたと投稿(10/23午後2時台の投稿)。",
+      "source": "@CarolineDPham",
+      "link": "https://x.com/CarolineDPham/status/2113633184063561821"
+    },
+    {
+      "title": "テキサス大、AIコーチングツール「Bevo Lab」始動 スポーツ専用チャットボットも",
+      "summary": "テキサス大学が、21の体育系部門向けにAI活用のコーチング支援ツールや種目別チャットボットなどを開発する新組織「Bevo Lab」の発足を発表したと投稿で紹介された(10/23午後2時台の投稿)。",
+      "source": "@EllynBriggs",
+      "link": "https://x.com/EllynBriggs/status/2113637225682354618"
+    }
+  ]
 }
