@@ -1,97 +1,37 @@
 {
-  "run_label": "10/24 19:00",
+  "run_label": "10/25 07:00",
   "politics_economy": [
     {
-      "title": "首相Xへの返信、外国人関連コメント急増 時事通信分析",
-      "summary": "時事通信の分析で、高市首相のX投稿への返信コメントのうち外国人に関する言及が9月下旬以降急増していることが24日分かった。",
-      "source": "時事通信",
-      "link": "https://jiji.com/jc/article?g=pol&k=2026102400107"
+      "title": "電気・ガス代補助、来年1〜3月使用分で再開を検討",
+      "summary": "政府は暖房需要が高まる2027年1〜3月使用分を念頭に、電気・ガス料金への補助を再開する方向で調整に入ったと23日までに報じられた。財源は中東情勢対応の予備費活用を軸に検討しており、正式決定はまだ。",
+      "source": "共同通信(熊本日日新聞)",
+      "link": "https://kumanichi.com/articles/2048948"
     },
     {
-      "title": "GMOが不正アクセスで情報流出、政府に「能動的サイバー防御」の適用を緊急要請",
-      "summary": "GMOインターネットグループは24日、FX自動売買用のサーバー貸出サービスが不正アクセスを受け顧客情報が流出したと公表し、政府に能動的サイバー防御の適用を緊急要請した。利用者全員に5000円の見舞金を支払う方針。",
-      "source": "共同通信(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/5273b76d302abbcb094ed13a01845efd95f130f1"
+      "title": "経産省、ラピダスへ3年で4000億円の追加出資を検討",
+      "summary": "経済産業省は2027〜2029年度の3年間でラピダスに計4000億円を追加出資する計画を示した。2027年度後半の2nm世代半導体量産に向け自己資本を厚くする狙いで、既存出資と合わせ累計6500億円規模となる見通し。",
+      "source": "時事通信(Jiji Press)",
+      "link": "https://www.nippon.com/en/news/yjj2026102000345/"
     },
     {
-      "title": "佐川急便で個人情報流出、最大5323万件の可能性",
-      "summary": "佐川急便の荷物問い合わせサービスへの不正アクセスに関連し、最大約5323万件の個人情報が流出した可能性があると23日までに報じられた。",
-      "source": "Yahoo!ニュース",
-      "link": "https://news.yahoo.co.jp/pickup/6599819"
-    },
-    {
-      "title": "カーシェア「タイムズカー」免許証画像流出、見舞金3000円 被害者は集団訴訟へ",
-      "summary": "タイムズカーの運転免許証画像流出問題で、同社は被害会員に見舞金3000円を支払う方針を示したが、一部被害会員は集団訴訟に向けて動いていると23日報じられた。",
-      "source": "時事通信",
-      "link": "https://jiji.com/jc/article?g=eco&k=2026102300964"
-    },
-    {
-      "title": "食料品消費税1%への減税法案、衆院で審議入り 与党は11月上旬の衆院通過目指す",
-      "summary": "食料品の消費税率を2年間1%に引き下げる関連法案が20日の衆院本会議で審議入りし、高市首相も出席した。与党は11月上旬の衆院通過を目指すが、参院での過半数確保が課題。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026102000124&g=pol"
+      "title": "調査アンケートサイト「infoQ」不正アクセス、89万4082件の個人情報流出が確定",
+      "summary": "GMOリサーチ&AIが運営する「infoQ」への不正アクセスで、外部に持ち出された個人情報が89万4082件に確定したと判明。ポイントの不正交換も611件・計286万9500円相当あり、同社は全額補填する方針。",
+      "source": "ロケットボーイズ",
+      "link": "https://rocket-boys.co.jp/?p=43670"
     }
   ],
   "tech": [
     {
-      "title": "OpenAI、AIモデルの学習をライブインターネットから分離する方針",
-      "summary": "OpenAIは23日、セキュリティ上のリスクを理由に、最先端モデルの学習をキャッシュ・シミュレーションされたウェブのコピーを用いて行い、ライブのインターネットに直接アクセスさせない方針を発表した。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/"
+      "title": "英政府、OpenAI・Anthropic・Google DeepMindと連携しAIバイオセキュリティ研究所に1億ポンド投資",
+      "summary": "英国政府は、OpenAIやAnthropic、Google DeepMindの支援を受けるAIバイオセキュリティ研究所の設立に1億ポンド(約1.9億ドル)を投じると発表した。23日に報じられた。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-23/uk-vows-100-million-for-biosecurity-lab-with-openai-anthropic"
     },
     {
-      "title": "Anthropic、IPO評価額が投資家間で2兆ドルから1.5兆ドルへ下方修正の動き",
-      "summary": "ロイター報道によれば、11月のIPOを目指すAnthropicについて投資家の間で想定評価額を従来の約2兆ドルから約1.5兆ドルに引き下げる議論が出ている。第3四半期の増収率が前期より鈍化したことが背景。",
-      "source": "Let's Data Science(Reuters報道)",
-      "link": "https://letsdatascience.com/blog/anthropic-grew-45-percent-quarter-investors-1-5-trillion"
-    },
-    {
-      "title": "元OpenAI研究リーダー、ロボットで実験を自動化する「Warp Science」設立",
-      "summary": "元OpenAIサイエンス部門責任者のケビン・ワイル氏が22日、ロボットを使い科学実験を自動化するスタートアップ「Warp Science」の設立と2.15億ドルの資金調達を発表した。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/"
-    },
-    {
-      "title": "Microsoft、英NscaleのAIデータセンター計画から撤退 送電網接続の遅延が理由",
-      "summary": "マイクロソフトは、英国で計画されていたNscaleのAIデータセンター(エセックス州ラウトン)への関与から撤退したと19日報じられた。送電網の接続が2030年代までずれ込む見通しとなったことが背景。",
-      "source": "City A.M.",
-      "link": "https://www.cityam.com/?p=2466628"
-    },
-    {
-      "title": "TSMC、好決算でもAI投資への懐疑広がり株急落",
-      "summary": "TSMCは記録的な四半期利益を発表したにもかかわらず、AIインフラ投資の投資回収への懐疑が強まる中で株価が下落し、好決算から4日後に売られる展開となった。",
-      "source": "TIKR",
-      "link": "https://www.tikr.com/blog/tsmc-gets-sold-on-ai-fears-four-days-after-calling-demand-extremely-robust"
-    },
-    {
-      "title": "SKハイニックス、半導体子会社SolidigmのIPOは「決定していない」と改めて説明",
-      "summary": "SKハイニックスは、傘下のSolidigmについて最大1500億ドル規模の米国IPOが報じられたことに対し、資金調達方法を検討中だが決定はしていないと改めて表明した。",
-      "source": "Korea Times",
-      "link": "https://www.koreatimes.co.kr/business/companies/20261001/sk-hynix-reiterates-no-decision-on-solidigms-us-ipo"
-    },
-    {
-      "title": "AIコード時代のCI基盤「Blacksmith」、Sequoia主導の資金調達でユニコーンに",
-      "summary": "ビルド・テスト基盤を提供するBlacksmithは21日、Sequoia Capital主導のシリーズCで6600万ドルを調達し、評価額10億ドルのユニコーンとなったと発表した。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/"
-    },
-    {
-      "title": "MIT研究、AIエージェント13体を仮想の「島」に放置すると独自にゲームを発明",
-      "summary": "MITの研究者が13体のAIエージェントを何もすることのない仮想の島に置いたところ、エージェントたちは自らゲームを考案するなどの行動を見せ、最終的に仕事の効率も向上したという。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/"
-    },
-    {
-      "title": "コーディング支援Replit、既定のAIモデルをAnthropicからOpenAIのChatGPTに切り替え",
-      "summary": "コーディングプラットフォームのReplitは、CEOの発言によると既定のAIモデルをAnthropicからOpenAIのChatGPTに切り替えたことが17日分かった。Anthropicのモデルは引き続き利用可能という。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"
-    },
-    {
-      "title": "Google Cloud、OpenAIモデルのプライベートプレビュー提供開始",
-      "summary": "Googleは23日、Google Cloud上で一部の企業顧客向けにOpenAIのモデルをプライベートプレビューとして提供開始したと発表し、顧客データは自社モデルの学習には使用しないと説明した。",
-      "source": "Help Net Security",
-      "link": "https://helpnetsecurity.com/2026/10/23/google-cloud-openai-models-private-preview"
+      "title": "Anthropic、株式の5%を新設の公益基金に寄付すると発表",
+      "summary": "Anthropicは自社株式の5%を新設する「パブリックベネフィットファンド」に寄付すると発表。同社の企業価値上昇に伴い基金の規模も拡大する見込みで、IPOを控える中での社会貢献策と位置付けられている。",
+      "source": "AP通信",
+      "link": "https://ny1.com/nyc/all-boroughs/ap-top-news/2026/10/18/anthropic-commits-5-of-its-stock-to-a-new-public-benefit-fund"
     }
   ],
   "x_trending_tech": []
