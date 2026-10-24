@@ -1,99 +1,98 @@
 {
-  "run_label": "10/24 07:00",
+  "run_label": "10/24 19:00",
   "politics_economy": [
     {
-      "title": "高市首相「公約の実現こそ使命」政権発足1年、物価高対策を強化",
-      "summary": "高市早苗首相は政権発足1年を迎えた21日の記者会見で、公約の実現が自身の使命だと強調し、世界的な物価高への対策強化を最優先課題に挙げた。",
-      "source": "熊本日日新聞(共同通信)",
-      "link": "https://kumanichi.com/articles/2049024"
-    },
-    {
-      "title": "消費減税法案、衆院で本格論戦スタート 飲食料品の税率1%に",
-      "summary": "飲食料品の消費税率を8%から1%に引き下げる政府提出法案を巡り、財源や所得連動型給付の詳細をめぐる与野党の論戦が衆院で本格化している。",
-      "source": "熊本日日新聞(共同通信)",
-      "link": "https://kumanichi.com/articles/2048549"
-    },
-    {
-      "title": "高市首相、23日夜に閣僚と公邸で夕食会",
-      "summary": "高市早苗首相は23日、藤井総務相、茂木外相、片山財務相ら閣僚を首相公邸に招き、夕食を共にしたと報じられた。",
+      "title": "首相Xへの返信、外国人関連コメント急増 時事通信分析",
+      "summary": "時事通信の分析で、高市首相のX投稿への返信コメントのうち外国人に関する言及が9月下旬以降急増していることが24日分かった。",
       "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026102301069&g=pol"
+      "link": "https://jiji.com/jc/article?g=pol&k=2026102400107"
     },
     {
-      "title": "総務省、選挙期間中のSNS事業者向け対策指針案を公表",
-      "summary": "総務省は23日18時28分、選挙の公正を害する投稿での収益化防止やAI生成画像である旨の表示などを例示した、SNS事業者向けの対策指針案を公表した。",
-      "source": "ABEMA TIMES",
-      "link": "https://times.abema.tv/articles/-/10283420"
+      "title": "GMOが不正アクセスで情報流出、政府に「能動的サイバー防御」の適用を緊急要請",
+      "summary": "GMOインターネットグループは24日、FX自動売買用のサーバー貸出サービスが不正アクセスを受け顧客情報が流出したと公表し、政府に能動的サイバー防御の適用を緊急要請した。利用者全員に5000円の見舞金を支払う方針。",
+      "source": "共同通信(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/5273b76d302abbcb094ed13a01845efd95f130f1"
+    },
+    {
+      "title": "佐川急便で個人情報流出、最大5323万件の可能性",
+      "summary": "佐川急便の荷物問い合わせサービスへの不正アクセスに関連し、最大約5323万件の個人情報が流出した可能性があると23日までに報じられた。",
+      "source": "Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/pickup/6599819"
+    },
+    {
+      "title": "カーシェア「タイムズカー」免許証画像流出、見舞金3000円 被害者は集団訴訟へ",
+      "summary": "タイムズカーの運転免許証画像流出問題で、同社は被害会員に見舞金3000円を支払う方針を示したが、一部被害会員は集団訴訟に向けて動いていると23日報じられた。",
+      "source": "時事通信",
+      "link": "https://jiji.com/jc/article?g=eco&k=2026102300964"
+    },
+    {
+      "title": "食料品消費税1%への減税法案、衆院で審議入り 与党は11月上旬の衆院通過目指す",
+      "summary": "食料品の消費税率を2年間1%に引き下げる関連法案が20日の衆院本会議で審議入りし、高市首相も出席した。与党は11月上旬の衆院通過を目指すが、参院での過半数確保が課題。",
+      "source": "時事通信",
+      "link": "https://www.jiji.com/jc/article?k=2026102000124&g=pol"
     }
   ],
   "tech": [
     {
-      "title": "東京株式市場、AI過剰投資懸念で半導体関連株に売り",
-      "summary": "23日の東京株式市場では、AIインフラへの過剰投資を懸念する声が強まり、アドバンテストやソフトバンクグループなど半導体・AI関連株を中心に売りが広がった。",
-      "source": "財経新聞",
-      "link": "https://www.zaikei.co.jp/article/20261023/874684.html"
+      "title": "OpenAI、AIモデルの学習をライブインターネットから分離する方針",
+      "summary": "OpenAIは23日、セキュリティ上のリスクを理由に、最先端モデルの学習をキャッシュ・シミュレーションされたウェブのコピーを用いて行い、ライブのインターネットに直接アクセスさせない方針を発表した。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/"
     },
     {
-      "title": "NVIDIAのフアンCEO「ネオクラウド需要は桁外れ」、資本不足が成長の壁に",
-      "summary": "エヌビディアのジェンスン・フアンCEOは23日、ネオクラウド各社へのAIコンピューティング需要は「桁外れに高い」としつつ、資金調達力の不足が各社の成長を阻んでいるとの見方を示した。",
-      "source": "株探",
-      "link": "https://kabutan.jp/news/marketnews/?b=n202610230185"
+      "title": "Anthropic、IPO評価額が投資家間で2兆ドルから1.5兆ドルへ下方修正の動き",
+      "summary": "ロイター報道によれば、11月のIPOを目指すAnthropicについて投資家の間で想定評価額を従来の約2兆ドルから約1.5兆ドルに引き下げる議論が出ている。第3四半期の増収率が前期より鈍化したことが背景。",
+      "source": "Let's Data Science(Reuters報道)",
+      "link": "https://letsdatascience.com/blog/anthropic-grew-45-percent-quarter-investors-1-5-trillion"
     },
     {
-      "title": "電子システム設計(ESD)業界、2026年Q2売上高57.1億ドル AI需要がけん引",
-      "summary": "SEMIの調査によると、2026年第2四半期の電子システム設計(ESD)業界の売上高は前年同期比12.2%増の57億1080万ドルとなり、AIや先端プロセス向けの設計需要増が背景にあるという。",
-      "source": "マイナビニュース(TECH+)",
-      "link": "https://news.mynavi.jp/techplus/article/20261023-5175828/"
+      "title": "元OpenAI研究リーダー、ロボットで実験を自動化する「Warp Science」設立",
+      "summary": "元OpenAIサイエンス部門責任者のケビン・ワイル氏が22日、ロボットを使い科学実験を自動化するスタートアップ「Warp Science」の設立と2.15億ドルの資金調達を発表した。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/"
     },
     {
-      "title": "CoreWeaveの社債が「ディストレスト」水準に、AI投資ブームの信用不安広がる",
-      "summary": "AIインフラ企業CoreWeaveの社債利回りが15%前後まで上昇し、Reuters/Bloombergなどの報道をもとに、AI向け巨額投資を支える私募クレジット市場への懸念が強まっていると伝えられている。",
-      "source": "Let's Data Science",
-      "link": "https://letsdatascience.com/news/coreweave-shares-and-bonds-slide-as-debt-fears-grip-ai-build-b082a38e"
+      "title": "Microsoft、英NscaleのAIデータセンター計画から撤退 送電網接続の遅延が理由",
+      "summary": "マイクロソフトは、英国で計画されていたNscaleのAIデータセンター(エセックス州ラウトン)への関与から撤退したと19日報じられた。送電網の接続が2030年代までずれ込む見通しとなったことが背景。",
+      "source": "City A.M.",
+      "link": "https://www.cityam.com/?p=2466628"
     },
     {
-      "title": "PHP緊急パッチ「PHP2Shell」、公開前に深刻な脆弱性情報が流出・攻撃発生",
-      "summary": "PHPの深刻な未認証RCE脆弱性2件(CVSS9.2、CVE-2026-109618/109619)の情報が正式公開前にネット上へ流出し、21日に緊急パッチが公開された後も悪用の報告が続いている。",
-      "source": "BleepingComputer",
-      "link": "https://bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws"
+      "title": "TSMC、好決算でもAI投資への懐疑広がり株急落",
+      "summary": "TSMCは記録的な四半期利益を発表したにもかかわらず、AIインフラ投資の投資回収への懐疑が強まる中で株価が下落し、好決算から4日後に売られる展開となった。",
+      "source": "TIKR",
+      "link": "https://www.tikr.com/blog/tsmc-gets-sold-on-ai-fears-four-days-after-calling-demand-extremely-robust"
     },
     {
-      "title": "Linuxの父トーバルズ氏、AIコーディング支援「Claude Code」活用しカーネル改善",
-      "summary": "リーナス・トーバルズ氏は、ページキャッシュ読み取り処理を改善する新ブランチで、コードやテストプログラム、コミットメッセージの草稿をAIコーディング支援ツール「Claude Code」と共に作成したと明らかにした。",
-      "source": "It's FOSS",
-      "link": "https://itsfoss.com/news/linus-torvalds-claude-code-linux/"
+      "title": "SKハイニックス、半導体子会社SolidigmのIPOは「決定していない」と改めて説明",
+      "summary": "SKハイニックスは、傘下のSolidigmについて最大1500億ドル規模の米国IPOが報じられたことに対し、資金調達方法を検討中だが決定はしていないと改めて表明した。",
+      "source": "Korea Times",
+      "link": "https://www.koreatimes.co.kr/business/companies/20261001/sk-hynix-reiterates-no-decision-on-solidigms-us-ipo"
     },
     {
-      "title": "独VW、33万人超の従業員にMicrosoft Copilotを導入",
-      "summary": "マイクロソフトは21日、フォルクスワーゲン・グループが33万人以上の従業員にCopilotを導入したと発表。生産・調達・エンジニアリングなどの業務で活用が広がっているという。",
-      "source": "Let's Data Science",
-      "link": "https://letsdatascience.com/news/microsoft-equips-330000-volkswagen-group-employees-with-copi-7d9d97f9"
+      "title": "AIコード時代のCI基盤「Blacksmith」、Sequoia主導の資金調達でユニコーンに",
+      "summary": "ビルド・テスト基盤を提供するBlacksmithは21日、Sequoia Capital主導のシリーズCで6600万ドルを調達し、評価額10億ドルのユニコーンとなったと発表した。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/"
     },
     {
-      "title": "クラウドサービスZeabur、2カ月で2度目のセキュリティ侵害を受けサービス終了へ",
-      "summary": "開発者向けクラウドサービスZeaburは、平文保存されていた内部認証情報が悪用され環境変数など大量の情報が窃取されたと公表し、サービスを終了すると発表した。",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/"
+      "title": "MIT研究、AIエージェント13体を仮想の「島」に放置すると独自にゲームを発明",
+      "summary": "MITの研究者が13体のAIエージェントを何もすることのない仮想の島に置いたところ、エージェントたちは自らゲームを考案するなどの行動を見せ、最終的に仕事の効率も向上したという。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/"
+    },
+    {
+      "title": "コーディング支援Replit、既定のAIモデルをAnthropicからOpenAIのChatGPTに切り替え",
+      "summary": "コーディングプラットフォームのReplitは、CEOの発言によると既定のAIモデルをAnthropicからOpenAIのChatGPTに切り替えたことが17日分かった。Anthropicのモデルは引き続き利用可能という。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"
+    },
+    {
+      "title": "Google Cloud、OpenAIモデルのプライベートプレビュー提供開始",
+      "summary": "Googleは23日、Google Cloud上で一部の企業顧客向けにOpenAIのモデルをプライベートプレビューとして提供開始したと発表し、顧客データは自社モデルの学習には使用しないと説明した。",
+      "source": "Help Net Security",
+      "link": "https://helpnetsecurity.com/2026/10/23/google-cloud-openai-models-private-preview"
     }
   ],
-  "x_trending_tech": [
-    {
-      "title": "米国株式市場、AI投資懸念で大幅安 ナスダック2.6%下落と今年最悪級の下げ",
-      "summary": "投資系ポスト主「amit」が、22日の米国市場でナスダックが2.6%安・ナスダック100が2.9%安となり約1.2兆ドルの市場価値が消えたと速報。AI支出への懸念が相場の重荷になっていると分析した(10/23未明3時台の投稿)。",
-      "source": "@amitisinvesting",
-      "link": "https://x.com/amitisinvesting/status/2113468305969160270"
-    },
-    {
-      "title": "米CFTC関係者、ハーバードのブロックチェーン・AIサミットで基調講演",
-      "summary": "Caroline D. Pham氏(米CFTC)が、ハーバード大学のブロックチェーン&AIサミットで基調講演を行い、AI時代の市場構造改革には明確な証券・商品の定義や投資家保護が必要だと訴えたと投稿(10/23午後2時台の投稿)。",
-      "source": "@CarolineDPham",
-      "link": "https://x.com/CarolineDPham/status/2113633184063561821"
-    },
-    {
-      "title": "テキサス大、AIコーチングツール「Bevo Lab」始動 スポーツ専用チャットボットも",
-      "summary": "テキサス大学が、21の体育系部門向けにAI活用のコーチング支援ツールや種目別チャットボットなどを開発する新組織「Bevo Lab」の発足を発表したと投稿で紹介された(10/23午後2時台の投稿)。",
-      "source": "@EllynBriggs",
-      "link": "https://x.com/EllynBriggs/status/2113637225682354618"
-    }
-  ]
+  "x_trending_tech": []
 }
