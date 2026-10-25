@@ -1,105 +1,92 @@
 {
-  "run_label": "10/25 19:00",
+  "run_label": "10/26 07:00",
   "politics_economy": [
     {
-      "title": "消費税減税法案、採決にらみ与野党攻防 給付対象で対立",
-      "summary": "食料品の消費税減税関連法案の審議で、与野党が給付対象や金額の詳細を巡り対立。採決を視野に駆け引きが強まっていると10月24日に報じられた。",
+      "title": "那覇市長選、知念覚氏が再選 新人3人破る",
+      "summary": "10月25日投開票の那覇市長選で、現職の知念覚氏が無所属新人3人を破り再選を果たした。",
       "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026102400305&g=pol"
+      "link": "https://www.jiji.com/jc/article?k=2026102500387&g=pol"
     },
     {
-      "title": "野党、消費減税審議で高市首相の出席要求 支援金詳細を追及",
-      "summary": "消費税減税の関連法案審議で、野党は給付金(支援金)の対象や金額の詳細が不明確だとして追及を強め、高市首相の国会出席を求めた。10月25日報道。",
+      "title": "新潟市長選、中原八一氏が3選 新人2人破る",
+      "summary": "10月25日投開票の新潟市長選で、現職の中原八一氏が新人2人を破り3選を果たした。",
       "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026102500185&g=pol"
+      "link": "https://www.jiji.com/jc/article?k=2026102500392&g=pol"
     },
     {
-      "title": "日銀、14年越しで物価2%目標到達の判断へ 10月会合では利上げ見送り",
-      "summary": "日銀は10月29・30日の金融政策決定会合で、基調的な物価上昇率が目標の2%に到達したとの認識を示す一方、利上げは見送る方針と報じられた。2013年の目標設定から14年近くかかる形に。",
-      "source": "共同通信(熊本日日新聞)",
-      "link": "https://kumanichi.com/articles/2048942"
+      "title": "福島県知事選、内堀雅雄氏が4選 共産系新人らを破る",
+      "summary": "10月25日投開票の福島県知事選で、現職の内堀雅雄氏が共産党推薦の新人らを破り4選を果たした。",
+      "source": "時事通信",
+      "link": "https://www.jiji.com/jc/article?k=2026102500357&g=pol"
     },
     {
-      "title": "GMOインターネット、不正アクセス被害で政府に能動的防御を要請 FX取引の金銭被害は補償",
-      "summary": "GMOインターネットグループは、FX取引サービスへの不正アクセスで発生した金銭被害を全額補償する方針を示すとともに、政府に能動的サイバー防御の導入を要請した。10月24日報道。",
+      "title": "兵庫県議補選、斎藤知事の元側近・片山元副知事が落選",
+      "summary": "兵庫県議補選で、斎藤元彦知事の元側近だった片山安孝・元副知事が落選したと10月25日に報じられた。",
       "source": "時事通信",
-      "link": "https://jiji.com/jc/article?g=eco&k=2026102400301"
+      "link": "https://www.jiji.com/jc/article?k=2026102500449&g=pol"
     },
     {
-      "title": "船舶建造量倍増へ1兆円投資 大型クレーン導入や被災ドック復元",
-      "summary": "国内造船業界で船舶建造量の倍増を目指し、大型クレーン導入や震災で被災したドックの復元などに計1兆円規模の投資を行う計画が10月24日に報じられた。",
+      "title": "ソフトバンク、緊急地震速報の配信を再開 PHP脆弱性対応で停止していた",
+      "summary": "ソフトバンクは10月25日、PHPの重大脆弱性への対応で停止していた気象庁の緊急地震速報・津波警報の配信を再開したと発表した。",
       "source": "時事通信",
-      "link": "https://jiji.com/jc/article?g=eco&k=2026102400327"
+      "link": "https://www.jiji.com/jc/article?k=2026102500234&g=eco"
     }
   ],
   "tech": [
     {
-      "title": "決済大手Block、人間のようなリアルタイム音声AIモデル「Dessa」を発表",
-      "summary": "Block(旧Square)が、消費者向けハードウェア上でローカル動作し同時に話して聞ける音声AIモデル「Dessa」を発表。一般公開前で、安全性研究者による検証を募集している。10月24日。",
+      "title": "AIは大半の企業に『財務的な見返りをもたらしていない』とアポロのエコノミストが指摘",
+      "summary": "資産運用会社アポロ・グローバル・マネジメントのエコノミストが、AI投資は大手テック企業以外の多くの企業にほとんど財務的な成果をもたらしていないと分析した。10月25日報道。",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/"
+      "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/"
     },
     {
-      "title": "Instacart、DoorDashやUberへの売却を協議していたと報道",
-      "summary": "食品配達大手Instacartが、DoorDashやUberとの身売りについて協議していたと報じられ、株価が急伸した。10月24日報道。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber"
+      "title": "マスク氏、SpaceXが400億ドルの債務調達を完了と表明 ネオクラウドを批判",
+      "summary": "イーロン・マスク氏は、SpaceXがNVIDIA製GPU購入などのため400億ドル規模の債務調達（オフバランス）を完了したと表明し、借入に依存するネオクラウド事業者を批判した。10月25日報道。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-25/musk-says-spacex-closed-40-billion-debt-deal-blasts-neoclouds"
     },
     {
-      "title": "デザインツールCanva、初の自社製画像生成AIモデルをリリース",
-      "summary": "オンラインデザインツールのCanvaが、初めて自社開発した画像生成AIモデルを公開した。10月22日発表。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model"
+      "title": "NVIDIA、『AIの金融機関』としての立場が試練に ネオクラウド株急落で",
+      "summary": "NVIDIAはAI関連企業やデータセンター事業者への資金支援（オフバランスの保証契約など）を拡大してきたが、CoreWeaveなどネオクラウド株が今月30%超下落し、そのリスクが注目されている。10月24日報道。",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html"
     },
     {
-      "title": "台湾UMCとAP Memory、次世代データセンター向け電力効率技術で提携",
-      "summary": "台湾の聯華電子(UMC)とファブレスのAP Memoryが、データセンターの電源効率を高める技術で協業すると発表。UMCのディープトレンチキャパシタ技術とAP Memoryのシリコンキャパシタ技術を組み合わせる。10月25日。",
+      "title": "Grok、AI生成映画『オデュッセイア』の最初の7分間を公開",
+      "summary": "イーロン・マスク氏のxAIが開発するGrokが、AI生成による長編映画『オデュッセイア』シリーズ第1話として最初の7分間の映像を公開した。10月25日。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey"
+    },
+    {
+      "title": "GM、自律走行車の車内AIアシスタントや次世代EVプラットフォームを発表",
+      "summary": "GMは「GM Forward」イベントで、2028年投入のCadillac Escalade IQなどに搭載する車載コンピューティング基盤の刷新と、OnStarに代わる対話型AIアシスタントを発表した。米当局は自動運転車識別用の任意のシアン色ライトも提案。10月25日報道。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/"
+    },
+    {
+      "title": "ダイドーと富士ソフト、協働ロボット向け『フィジカルAI』導入支援パッケージを発表",
+      "summary": "ダイドーと富士ソフトは、現場での実機検証から導入まで支援するフィジカルAIスタートパッケージを共同開発し、2027年1月から受注活動を始めると発表した。10月26日報道。",
       "source": "マイナビニュース",
-      "link": "https://news.mynavi.jp/techplus/article/20261025-5180559"
+      "link": "https://news.mynavi.jp/techplus/article/20261026-5181434/"
     },
     {
-      "title": "中国CXMT、2026年内に新構造の先端DRAMを投入へ 韓国勢に先行",
-      "summary": "中国メモリ大手CXMTが、セル面積を縮小できる新構造「4F2」を採用したDDR5 RDIMMを2026年内に投入すると表明。SK hynixなど韓国勢より早いアグレッシブな計画として注目されている。",
-      "source": "ITmedia(@IT)",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2610/23/news009.html"
+      "title": "富士通クライアント、FMV2026年冬モデル発表 全機種がCopilot+PC対応",
+      "summary": "富士通クライアントコンピューティングは、2026年冬モデルのノートPC「FMV」を発表。ラインアップ全体をCopilot+PCの要件を満たすAI PCとした。10月25日報道。",
+      "source": "マイナビニュース",
+      "link": "https://news.mynavi.jp/article/20261025-5185129/"
     },
     {
-      "title": "中国系ハッカー集団、AIエージェント悪用し自動サイバー攻撃 Microsoftが報告",
-      "summary": "Microsoftの調査により、中国政府系とされるハッカー集団Storm-0940がAIエージェント「ARTEX」を使い、ConnectWiseのサプライチェーン侵害に関連した攻撃を自動化し、世界中の数百組織を標的にしていたことが判明した。",
-      "source": "GIGAZINE",
-      "link": "https://gigazine.net/gsc_news/en/20261023-storm-0940-artex-cyber-attack/"
+      "title": "AI半導体の電源をチップ直下で安定化、台湾UMCとAP Memoryがシリコンキャパシタ共同開発",
+      "summary": "台湾のUMCとファブレスのAP Memoryは、AI・HPC向け演算チップ直下に配置するシリコンキャパシタを共同開発し、電源供給を安定化させる技術を発表した。10月26日報道。",
+      "source": "マイナビニュース",
+      "link": "https://news.mynavi.jp/techplus/article/20261026-5181656/"
     },
     {
-      "title": "AMDとIntel、PyTorchのx86最適化ライブラリを「oneDNN」に統合",
-      "summary": "AMDとIntelは、PyTorchでx86 CPUを高速化する標準ライブラリをオープンソースの「oneDNN」に一本化すると発表。AI処理の最適化をCPUメーカー間で共通化する狙い。",
-      "source": "ITmedia PC USER",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2610/25/news002.html"
-    },
-    {
-      "title": "Apple初の折りたたみ「iPhone Duo」、国内定番アプリの対応遅れが課題に",
-      "summary": "10月23日発売のApple初の折りたたみiPhone「iPhone Duo」について、LINEやポケモンGOなど日本の定番アプリの多くが内側ディスプレイに最適化されておらず、黒い余白が残るなど対応の遅れが指摘されている。",
-      "source": "ITmedia Mobile",
-      "link": "https://itmedia.co.jp/mobile/articles/2610/24/news016.html"
-    },
-    {
-      "title": "企業のGPU活用率調査、79%が「稼働は半分以下」 AIバブルへの懸念再燃",
-      "summary": "VentureBeat Intelligenceの調査によると、回答企業の79%が自社GPUの稼働率を半分以下と回答。一方で7割が今後12カ月以内に新たなAI基盤導入を計画しており、投資と活用のギャップが浮き彫りになった。",
-      "source": "VentureBeat",
-      "link": "https://venturebeat.com/infrastructure/ai-bubble-update-79-of-companies-say-their-gpus-sit-idle-at-least-half-the-time-yet-most-plan-new-ai-platforms"
-    },
-    {
-      "title": "NVIDIAのフアンCEO、ロボット玩具「Microduck」で遊ぶ姿が話題 2万個完売",
-      "summary": "NVIDIAのジェンスン・フアンCEOが可愛らしいロボット玩具「Microduck」で遊ぶ様子が紹介され話題に。クリスマス商戦向けの人気商品として2万個が完売したと報じられた。10月23日。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell"
+      "title": "SKグループのデータセンター部門、3500億ドル規模のAI投資計画の資金調達を協議",
+      "summary": "SKグループのデータセンター事業部門「SK Hyper」は、大手テック企業や金融投資家と、3500億ドル規模のAIデータセンター構想の資金調達について協議しているとBloombergが報じた。10月23日報道。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-23/sk-data-center-arm-plans-to-fund-350b-ai-buildout-video"
     }
   ],
-  "x_trending_tech": [
-    {
-      "title": "「OpenAI/Anthropicを最終日に退社」は新AIスタートアップの非公式発表、とSNSで話題",
-      "summary": "AI業界ウォッチャーが「『昨日がOpenAI/Anthropicでの最後の日だった』という投稿は、もはや新しい10億ドル規模AIスタートアップの非公式発表のようなものだ」と皮肉を交えて指摘した投稿が話題に。10月24日夕方の投稿。",
-      "source": "@TheVixhal",
-      "link": "https://x.com/TheVixhal/status/2114029394096476247"
-    }
-  ]
+  "x_trending_tech": []
 }
