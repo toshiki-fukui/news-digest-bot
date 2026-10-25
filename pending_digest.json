@@ -1,38 +1,105 @@
 {
-  "run_label": "10/25 07:00",
+  "run_label": "10/25 19:00",
   "politics_economy": [
     {
-      "title": "電気・ガス代補助、来年1〜3月使用分で再開を検討",
-      "summary": "政府は暖房需要が高まる2027年1〜3月使用分を念頭に、電気・ガス料金への補助を再開する方向で調整に入ったと23日までに報じられた。財源は中東情勢対応の予備費活用を軸に検討しており、正式決定はまだ。",
+      "title": "消費税減税法案、採決にらみ与野党攻防 給付対象で対立",
+      "summary": "食料品の消費税減税関連法案の審議で、与野党が給付対象や金額の詳細を巡り対立。採決を視野に駆け引きが強まっていると10月24日に報じられた。",
+      "source": "時事通信",
+      "link": "https://www.jiji.com/jc/article?k=2026102400305&g=pol"
+    },
+    {
+      "title": "野党、消費減税審議で高市首相の出席要求 支援金詳細を追及",
+      "summary": "消費税減税の関連法案審議で、野党は給付金(支援金)の対象や金額の詳細が不明確だとして追及を強め、高市首相の国会出席を求めた。10月25日報道。",
+      "source": "時事通信",
+      "link": "https://www.jiji.com/jc/article?k=2026102500185&g=pol"
+    },
+    {
+      "title": "日銀、14年越しで物価2%目標到達の判断へ 10月会合では利上げ見送り",
+      "summary": "日銀は10月29・30日の金融政策決定会合で、基調的な物価上昇率が目標の2%に到達したとの認識を示す一方、利上げは見送る方針と報じられた。2013年の目標設定から14年近くかかる形に。",
       "source": "共同通信(熊本日日新聞)",
-      "link": "https://kumanichi.com/articles/2048948"
+      "link": "https://kumanichi.com/articles/2048942"
     },
     {
-      "title": "経産省、ラピダスへ3年で4000億円の追加出資を検討",
-      "summary": "経済産業省は2027〜2029年度の3年間でラピダスに計4000億円を追加出資する計画を示した。2027年度後半の2nm世代半導体量産に向け自己資本を厚くする狙いで、既存出資と合わせ累計6500億円規模となる見通し。",
-      "source": "時事通信(Jiji Press)",
-      "link": "https://www.nippon.com/en/news/yjj2026102000345/"
+      "title": "GMOインターネット、不正アクセス被害で政府に能動的防御を要請 FX取引の金銭被害は補償",
+      "summary": "GMOインターネットグループは、FX取引サービスへの不正アクセスで発生した金銭被害を全額補償する方針を示すとともに、政府に能動的サイバー防御の導入を要請した。10月24日報道。",
+      "source": "時事通信",
+      "link": "https://jiji.com/jc/article?g=eco&k=2026102400301"
     },
     {
-      "title": "調査アンケートサイト「infoQ」不正アクセス、89万4082件の個人情報流出が確定",
-      "summary": "GMOリサーチ&AIが運営する「infoQ」への不正アクセスで、外部に持ち出された個人情報が89万4082件に確定したと判明。ポイントの不正交換も611件・計286万9500円相当あり、同社は全額補填する方針。",
-      "source": "ロケットボーイズ",
-      "link": "https://rocket-boys.co.jp/?p=43670"
+      "title": "船舶建造量倍増へ1兆円投資 大型クレーン導入や被災ドック復元",
+      "summary": "国内造船業界で船舶建造量の倍増を目指し、大型クレーン導入や震災で被災したドックの復元などに計1兆円規模の投資を行う計画が10月24日に報じられた。",
+      "source": "時事通信",
+      "link": "https://jiji.com/jc/article?g=eco&k=2026102400327"
     }
   ],
   "tech": [
     {
-      "title": "英政府、OpenAI・Anthropic・Google DeepMindと連携しAIバイオセキュリティ研究所に1億ポンド投資",
-      "summary": "英国政府は、OpenAIやAnthropic、Google DeepMindの支援を受けるAIバイオセキュリティ研究所の設立に1億ポンド(約1.9億ドル)を投じると発表した。23日に報じられた。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-23/uk-vows-100-million-for-biosecurity-lab-with-openai-anthropic"
+      "title": "決済大手Block、人間のようなリアルタイム音声AIモデル「Dessa」を発表",
+      "summary": "Block(旧Square)が、消費者向けハードウェア上でローカル動作し同時に話して聞ける音声AIモデル「Dessa」を発表。一般公開前で、安全性研究者による検証を募集している。10月24日。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/"
     },
     {
-      "title": "Anthropic、株式の5%を新設の公益基金に寄付すると発表",
-      "summary": "Anthropicは自社株式の5%を新設する「パブリックベネフィットファンド」に寄付すると発表。同社の企業価値上昇に伴い基金の規模も拡大する見込みで、IPOを控える中での社会貢献策と位置付けられている。",
-      "source": "AP通信",
-      "link": "https://ny1.com/nyc/all-boroughs/ap-top-news/2026/10/18/anthropic-commits-5-of-its-stock-to-a-new-public-benefit-fund"
+      "title": "Instacart、DoorDashやUberへの売却を協議していたと報道",
+      "summary": "食品配達大手Instacartが、DoorDashやUberとの身売りについて協議していたと報じられ、株価が急伸した。10月24日報道。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber"
+    },
+    {
+      "title": "デザインツールCanva、初の自社製画像生成AIモデルをリリース",
+      "summary": "オンラインデザインツールのCanvaが、初めて自社開発した画像生成AIモデルを公開した。10月22日発表。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model"
+    },
+    {
+      "title": "台湾UMCとAP Memory、次世代データセンター向け電力効率技術で提携",
+      "summary": "台湾の聯華電子(UMC)とファブレスのAP Memoryが、データセンターの電源効率を高める技術で協業すると発表。UMCのディープトレンチキャパシタ技術とAP Memoryのシリコンキャパシタ技術を組み合わせる。10月25日。",
+      "source": "マイナビニュース",
+      "link": "https://news.mynavi.jp/techplus/article/20261025-5180559"
+    },
+    {
+      "title": "中国CXMT、2026年内に新構造の先端DRAMを投入へ 韓国勢に先行",
+      "summary": "中国メモリ大手CXMTが、セル面積を縮小できる新構造「4F2」を採用したDDR5 RDIMMを2026年内に投入すると表明。SK hynixなど韓国勢より早いアグレッシブな計画として注目されている。",
+      "source": "ITmedia(@IT)",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2610/23/news009.html"
+    },
+    {
+      "title": "中国系ハッカー集団、AIエージェント悪用し自動サイバー攻撃 Microsoftが報告",
+      "summary": "Microsoftの調査により、中国政府系とされるハッカー集団Storm-0940がAIエージェント「ARTEX」を使い、ConnectWiseのサプライチェーン侵害に関連した攻撃を自動化し、世界中の数百組織を標的にしていたことが判明した。",
+      "source": "GIGAZINE",
+      "link": "https://gigazine.net/gsc_news/en/20261023-storm-0940-artex-cyber-attack/"
+    },
+    {
+      "title": "AMDとIntel、PyTorchのx86最適化ライブラリを「oneDNN」に統合",
+      "summary": "AMDとIntelは、PyTorchでx86 CPUを高速化する標準ライブラリをオープンソースの「oneDNN」に一本化すると発表。AI処理の最適化をCPUメーカー間で共通化する狙い。",
+      "source": "ITmedia PC USER",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2610/25/news002.html"
+    },
+    {
+      "title": "Apple初の折りたたみ「iPhone Duo」、国内定番アプリの対応遅れが課題に",
+      "summary": "10月23日発売のApple初の折りたたみiPhone「iPhone Duo」について、LINEやポケモンGOなど日本の定番アプリの多くが内側ディスプレイに最適化されておらず、黒い余白が残るなど対応の遅れが指摘されている。",
+      "source": "ITmedia Mobile",
+      "link": "https://itmedia.co.jp/mobile/articles/2610/24/news016.html"
+    },
+    {
+      "title": "企業のGPU活用率調査、79%が「稼働は半分以下」 AIバブルへの懸念再燃",
+      "summary": "VentureBeat Intelligenceの調査によると、回答企業の79%が自社GPUの稼働率を半分以下と回答。一方で7割が今後12カ月以内に新たなAI基盤導入を計画しており、投資と活用のギャップが浮き彫りになった。",
+      "source": "VentureBeat",
+      "link": "https://venturebeat.com/infrastructure/ai-bubble-update-79-of-companies-say-their-gpus-sit-idle-at-least-half-the-time-yet-most-plan-new-ai-platforms"
+    },
+    {
+      "title": "NVIDIAのフアンCEO、ロボット玩具「Microduck」で遊ぶ姿が話題 2万個完売",
+      "summary": "NVIDIAのジェンスン・フアンCEOが可愛らしいロボット玩具「Microduck」で遊ぶ様子が紹介され話題に。クリスマス商戦向けの人気商品として2万個が完売したと報じられた。10月23日。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell"
     }
   ],
-  "x_trending_tech": []
+  "x_trending_tech": [
+    {
+      "title": "「OpenAI/Anthropicを最終日に退社」は新AIスタートアップの非公式発表、とSNSで話題",
+      "summary": "AI業界ウォッチャーが「『昨日がOpenAI/Anthropicでの最後の日だった』という投稿は、もはや新しい10億ドル規模AIスタートアップの非公式発表のようなものだ」と皮肉を交えて指摘した投稿が話題に。10月24日夕方の投稿。",
+      "source": "@TheVixhal",
+      "link": "https://x.com/TheVixhal/status/2114029394096476247"
+    }
+  ]
 }
