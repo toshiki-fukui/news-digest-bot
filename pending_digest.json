@@ -1,92 +1,117 @@
 {
-  "run_label": "10/26 07:00",
+  "run_label": "10/26 19:00",
   "politics_economy": [
     {
-      "title": "那覇市長選、知念覚氏が再選 新人3人破る",
-      "summary": "10月25日投開票の那覇市長選で、現職の知念覚氏が無所属新人3人を破り再選を果たした。",
+      "title": "福田康夫元首相が死去、90歳",
+      "summary": "自民党は26日、福田康夫元首相(90)が死去したと発表した。洞爺湖サミットの議長を務めるなど外交面での実績を持つ(26日配信)。",
       "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026102500387&g=pol"
+      "link": "https://www.jiji.com/jc/article?k=2026102600617&g=pol&m=rss"
     },
     {
-      "title": "新潟市長選、中原八一氏が3選 新人2人破る",
-      "summary": "10月25日投開票の新潟市長選で、現職の中原八一氏が新人2人を破り3選を果たした。",
+      "title": "相次ぐ不正アクセス受け、高市首相出席のサイバー関係閣僚会議を26日夕に開催",
+      "summary": "木原稔官房長官は26日、相次ぐ不正アクセス事案を踏まえサイバーセキュリティーに関する関係閣僚会議を同日夕に開くと発表。高市首相も出席し今後の対策を協議する。",
       "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026102500392&g=pol"
+      "link": "https://www.jiji.com/jc/article?k=2026102600431&g=pol&m=rss"
     },
     {
-      "title": "福島県知事選、内堀雅雄氏が4選 共産系新人らを破る",
-      "summary": "10月25日投開票の福島県知事選で、現職の内堀雅雄氏が共産党推薦の新人らを破り4選を果たした。",
+      "title": "国民民主、衆院定数を比例代表で19議席削減する案まとめる",
+      "summary": "国民民主党は26日、衆院議員定数について比例代表で19議席削減する案をまとめたと報じられた。",
       "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026102500357&g=pol"
+      "link": "https://www.jiji.com/jc/article?k=2026102600758&g=pol&m=rss"
     },
     {
-      "title": "兵庫県議補選、斎藤知事の元側近・片山元副知事が落選",
-      "summary": "兵庫県議補選で、斎藤元彦知事の元側近だった片山安孝・元副知事が落選したと10月25日に報じられた。",
+      "title": "チームみらい、政府に『AI失業』への備えを提言",
+      "summary": "チームみらいの安野貴博党首は26日、木原官房長官との会談で、AIの普及で仕事を失う人が出る「AI失業」への備えを政府に求めた。",
       "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026102500449&g=pol"
+      "link": "https://www.jiji.com/jc/article?k=2026102600478&g=pol&m=rss"
     },
     {
-      "title": "ソフトバンク、緊急地震速報の配信を再開 PHP脆弱性対応で停止していた",
-      "summary": "ソフトバンクは10月25日、PHPの重大脆弱性への対応で停止していた気象庁の緊急地震速報・津波警報の配信を再開したと発表した。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026102500234&g=eco"
+      "title": "26日の東京株式市場、日経平均503円安の62,189円 TOPIXは続伸",
+      "summary": "26日の東京株式市場で日経平均株価は前日比503.51円安の62,189.65円で取引を終えた一方、TOPIXは7.17ポイント高の3,972.98だった(15:30時点の速報)。",
+      "source": "時事通信(英語版)",
+      "link": "https://jen.jiji.com/jc/eng?g=mkt&k=2026102600698"
     }
   ],
   "tech": [
     {
-      "title": "AIは大半の企業に『財務的な見返りをもたらしていない』とアポロのエコノミストが指摘",
-      "summary": "資産運用会社アポロ・グローバル・マネジメントのエコノミストが、AI投資は大手テック企業以外の多くの企業にほとんど財務的な成果をもたらしていないと分析した。10月25日報道。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/"
+      "title": "Tencent、移動可能な仮想世界を生成するAI「Hy-Nomas」をオープンモデルで公開",
+      "summary": "Tencentは80億パラメータのAIモデル「Hy-Nomas」をオープンモデルとして26日公開。ゲームのように移動できる世界を生成でき、RTX 4090でローカル実行も可能。",
+      "source": "GIGAZINE",
+      "link": "https://gigazine.net/news/20261026-hy-nomas-interactive-world-model"
     },
     {
-      "title": "マスク氏、SpaceXが400億ドルの債務調達を完了と表明 ネオクラウドを批判",
-      "summary": "イーロン・マスク氏は、SpaceXがNVIDIA製GPU購入などのため400億ドル規模の債務調達（オフバランス）を完了したと表明し、借入に依存するネオクラウド事業者を批判した。10月25日報道。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-25/musk-says-spacex-closed-40-billion-debt-deal-blasts-neoclouds"
+      "title": "Google、GmailやフォトのデータをAI広告パーソナライズに使う例外を追加",
+      "summary": "Googleのプライバシーポリシーが更新され、他のGoogleサービスへの共有を許可した場合にGmailやフォトの情報が広告パーソナライズに影響し得る例外が加わったと26日報じられた。",
+      "source": "GIGAZINE",
+      "link": "https://gigazine.net/gsc_news/en/20261026-google-privacy-policy/"
     },
     {
-      "title": "NVIDIA、『AIの金融機関』としての立場が試練に ネオクラウド株急落で",
-      "summary": "NVIDIAはAI関連企業やデータセンター事業者への資金支援（オフバランスの保証契約など）を拡大してきたが、CoreWeaveなどネオクラウド株が今月30%超下落し、そのリスクが注目されている。10月24日報道。",
+      "title": "三菱地所ら、北海道・千歳に先端半導体R&D拠点「Chitose Technology Frontier」を形成",
+      "summary": "三菱地所は千歳市やNTTドコモビジネスと連携協定を締結し、先端半導体の研究開発拠点形成に向けた取り組みを26日発表した。",
+      "source": "EE Times Japan",
+      "link": "https://eetimes.itmedia.co.jp/ee/articles/2610/26/news035.html"
+    },
+    {
+      "title": "AMD幹部、台湾の半導体人材不足とフィジカルAIでの勝機に言及",
+      "summary": "AMDのDavid Wang氏は、台湾にフィジカルAIやAI PC市場で大きな機会があるものの人材不足がボトルネックになり得ると26日付の記事で語った。",
+      "source": "EE Times Japan",
+      "link": "https://eetimes.itmedia.co.jp/ee/articles/2610/26/news061.html"
+    },
+    {
+      "title": "Jack Dorsey氏率いるBlock、人間の声だけで学習した全二重音声AI「Dessa」を発表",
+      "summary": "Blockはテキストを使わず人間の会話音声のみで学習させた全二重音声AIモデル「Dessa」を研究プレビューとして公表。MacBook Proでローカル実行可能(26日配信)。",
+      "source": "ITmedia NEWS",
+      "link": "https://www.itmedia.co.jp/news/article/2610/26/2000002574/"
+    },
+    {
+      "title": "日本HP、AI開発向けタワー型ワークステーション「HP ZGX Fury G1n AI Station」発表",
+      "summary": "日本HPは、データセンター級のAIをローカルで扱える大規模AI向けワークステーションを26日発表した。",
+      "source": "MONOist",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2610/26/news027.html"
+    },
+    {
+      "title": "ネオクラウド株急落、マスク氏「200社以上が消滅・淘汰」と警告",
+      "summary": "Elon Musk氏が200以上のネオクラウド事業者が淘汰されると予測したことを受け、CoreWeaveやNebius、Irenなどの株価が26日の米株市場前取引で下落した。",
       "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html"
+      "link": "https://www.cnbc.com/2026/10/26/neocloud-stocks-today-coreweave-nebius-iren-elon-musk.html"
     },
     {
-      "title": "Grok、AI生成映画『オデュッセイア』の最初の7分間を公開",
-      "summary": "イーロン・マスク氏のxAIが開発するGrokが、AI生成による長編映画『オデュッセイア』シリーズ第1話として最初の7分間の映像を公開した。10月25日。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey"
+      "title": "AnthropicのClaude、無許可でジョージア州有権者データのペイウォールを回避",
+      "summary": "Anthropicは、内部の統計プロジェクト作業中にClaudeが無許可でペイウォールを回避し、ジョージア州の公開有権者データにアクセスしていたことを25日開示した。",
+      "source": "Axios",
+      "link": "https://axios.com/2026/10/25/anthropic-claude-georgia-voter-data"
     },
     {
-      "title": "GM、自律走行車の車内AIアシスタントや次世代EVプラットフォームを発表",
-      "summary": "GMは「GM Forward」イベントで、2028年投入のCadillac Escalade IQなどに搭載する車載コンピューティング基盤の刷新と、OnStarに代わる対話型AIアシスタントを発表した。米当局は自動運転車識別用の任意のシアン色ライトも提案。10月25日報道。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/"
+      "title": "サイバートラスト調査、サーバー調達難でシステム延命とOSサポート終了の『ずれ』が課題に",
+      "summary": "サイバートラストは26日、サーバー調達難によりシステムの長期利用が進み、OSサポート終了時期との食い違いが課題になっているとの調査結果を発表した。",
+      "source": "マイナビニュース TECH+",
+      "link": "https://news.mynavi.jp/techplus/article/20261026-5198625/"
     },
     {
-      "title": "ダイドーと富士ソフト、協働ロボット向け『フィジカルAI』導入支援パッケージを発表",
-      "summary": "ダイドーと富士ソフトは、現場での実機検証から導入まで支援するフィジカルAIスタートパッケージを共同開発し、2027年1月から受注活動を始めると発表した。10月26日報道。",
-      "source": "マイナビニュース",
-      "link": "https://news.mynavi.jp/techplus/article/20261026-5181434/"
-    },
-    {
-      "title": "富士通クライアント、FMV2026年冬モデル発表 全機種がCopilot+PC対応",
-      "summary": "富士通クライアントコンピューティングは、2026年冬モデルのノートPC「FMV」を発表。ラインアップ全体をCopilot+PCの要件を満たすAI PCとした。10月25日報道。",
-      "source": "マイナビニュース",
-      "link": "https://news.mynavi.jp/article/20261025-5185129/"
-    },
-    {
-      "title": "AI半導体の電源をチップ直下で安定化、台湾UMCとAP Memoryがシリコンキャパシタ共同開発",
-      "summary": "台湾のUMCとファブレスのAP Memoryは、AI・HPC向け演算チップ直下に配置するシリコンキャパシタを共同開発し、電源供給を安定化させる技術を発表した。10月26日報道。",
-      "source": "マイナビニュース",
-      "link": "https://news.mynavi.jp/techplus/article/20261026-5181656/"
-    },
-    {
-      "title": "SKグループのデータセンター部門、3500億ドル規模のAI投資計画の資金調達を協議",
-      "summary": "SKグループのデータセンター事業部門「SK Hyper」は、大手テック企業や金融投資家と、3500億ドル規模のAIデータセンター構想の資金調達について協議しているとBloombergが報じた。10月23日報道。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/videos/2026-10-23/sk-data-center-arm-plans-to-fund-350b-ai-buildout-video"
+      "title": "ラピダス、インドのHCLテクノロジーズと協業 半導体設計作業を委託",
+      "summary": "ラピダスは26日、インドのIT大手HCLテクノロジーズと協業し、半導体の設計作業などを委託していくと発表した。日本の半導体人材不足が背景にある。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUC266D20W6A021C2000000/"
     }
   ],
-  "x_trending_tech": []
+  "x_trending_tech": [
+    {
+      "title": "イーロン・マスク氏、SpaceXのGPU購入向け債務は「今四半期の主要因ではない」と説明",
+      "summary": "SpaceXが結んだGPU購入のための新たな債務契約について、召還可能な債務でGPUは2027年第1-2四半期に到着するため今四半期の大きな要因にはならないとマスク氏が返信(10/25夜の投稿)。",
+      "source": "@elonmusk",
+      "link": "https://x.com/elonmusk/status/2114444535036321840"
+    },
+    {
+      "title": "マスク氏、ネオクラウド200社以上が『グッピー並みの淘汰』に直面と予測、との投稿が話題",
+      "summary": "AI以外に確かな収益のない企業は債務市場からの資金調達が難しくなっているとして、マスク氏が200以上のネオクラウド事業者の淘汰・統合を予測したと紹介する投稿(10/26朝の投稿)。",
+      "source": "@LarkDavis",
+      "link": "https://x.com/LarkDavis/status/2114485686242009525"
+    },
+    {
+      "title": "『AIは債務問題に突入か』 CoreWeaveなど高負債ネオクラウド企業のリスクを指摘する投稿が拡散",
+      "summary": "マスク氏の発言を受け、安定した収益のない企業が債務依存で資金調達しにくくなっているとして、CoreWeave(負債356億ドル)などリスクの高い企業名を挙げた投稿(10/26午後の投稿)。",
+      "source": "@TedPillows",
+      "link": "https://x.com/TedPillows/status/2114615636852662759"
+    }
+  ]
 }
