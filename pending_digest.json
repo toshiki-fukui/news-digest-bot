@@ -1,117 +1,50 @@
 {
-  "run_label": "10/27 07:00",
+  "run_label": "10/27 19:00",
   "politics_economy": [
     {
-      "title": "高市首相「アクセス無害化、戦略的に実行」 来週めど緊急対策パッケージ",
-      "summary": "高市首相は26日夕のサイバーセキュリティー関係閣僚会議で、相次ぐ不正アクセス事案を踏まえ「アクセス無害化措置も含め、あらゆる対処オプションを戦略的に選択し、実行する」と表明。来週中をめどに緊急対策パッケージをまとめる考えも示した(26日夕)。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026102600939&g=pol"
+      "title": "GMOインターネットグループ、不正アクセス受け政府に「能動的サイバー防御」の適用を緊急要請、身代金要求は拒否",
+      "summary": "お名前.comのFX自動売買用サーバーへの不正アクセスを受け、GMOは国に能動的サイバー防御の適用を緊急要請。攻撃者からの金銭要求には応じず、警察に捜査を求めた(10/24報道)。",
+      "source": "nippon.com(時事通信)",
+      "link": "https://www.nippon.com/en/news/yjj2026102400301/"
     },
     {
-      "title": "政府、「外国代理人登録制度」の検討に着手 スパイ防止法制の第1弾",
-      "summary": "政府は26日の有識者会議で、スパイ防止関連法制の第1弾として、外国政府の指示でロビー活動を行う個人・団体に届け出を義務付ける外国代理人登録制度の検討に着手した。来年の通常国会への法案提出を目指す。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026102600774&g=pol"
+      "title": "高市首相、相次ぐサイバー攻撃に緊急対応を表明",
+      "summary": "高市早苗首相は26日、国内で相次ぐサイバー攻撃を受けて緊急対策パッケージの策定を指示し、攻撃者の特定に向けた国際連携も進める考えを示した。",
+      "source": "France24",
+      "link": "https://www.france24.com/en/live-news/20261026-japan-pm-vows-swift-response-to-wave-of-cyberattacks"
     },
     {
-      "title": "GMO熊谷社長、不正アクセスで謝罪 「事前の指摘あったが防げず」",
-      "summary": "GMOインターネットグループの熊谷正寿会長兼社長は、FX自動売買用サーバーへの不正アクセス問題についてブログ上で謝罪し、社内で事前に指摘があったにもかかわらず防げなかったことを明らかにした(26日)。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026102600420&g=eco"
-    },
-    {
-      "title": "豪生保チャレンジャー、第一生命子会社TALの買収提案を拒否",
-      "summary": "オーストラリアの生命保険大手チャレンジャーは26日、第一生命グループの豪子会社TALが提案した買収案を拒否すると発表した。第一生命はチャレンジャー株の約2割を保有している。",
-      "source": "時事通信",
-      "link": "https://jiji.com/jc/article?g=eco&k=2026102600857"
-    },
-    {
-      "title": "ブラジル大統領選、ルラ氏が決選投票制す ボルソナロ氏は結果受け入れ拒否",
-      "summary": "ブラジル中央選管当局は26日、大統領選決選投票で左派の現職ルラ大統領が勝利したと発表した。対立候補のボルソナロ氏は結果の受け入れを拒否していると伝えられている。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026102600248&g=flash"
+      "title": "連合、2027年春闘で「6%中心、5%以上」の賃上げ要求の基本構想を提示",
+      "summary": "連合は22日、2027年の春闘に向け、定昇込みで「6%中心、5%以上」の賃上げを求める基本構想を提示。中小企業は「6%以上」、非正規労働者は「7%」を目安とした。",
+      "source": "熊本日日新聞",
+      "link": "https://kumanichi.com/articles/2049472"
     }
   ],
   "tech": [
     {
-      "title": "Anthropic、IPOに向けS-1を正式提出 Nasdaqに「ANT」で上場予定",
-      "summary": "Anthropicは26日、米SECに新規株式公開(IPO)に向けたS-1登録届出書を提出した。Nasdaqに「ANT」のティッカーで上場予定で、2026年上半期の売上高は163億ドルに達したことなどが開示された。11月中旬にも上場するとの見方も出ている。",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/10/26/anthropic-ipo-live-updates-ai-s-1-filing.html"
+      "title": "OpenAI、低コスト・高速な新モデル「GPT-6.1 Terra」を投入",
+      "summary": "OpenAIは26日、ChatGPTとCodexに新モデル「GPT-6.1 Terra」を追加。前モデルの約3分の1のコストで視覚推論やコンピュータ操作タスクの性能を高めたとしている。",
+      "source": "9to5Mac",
+      "link": "https://9to5mac.com/2026/10/26/openai-upgrades-chatgpt-and-codex-with-new-gpt-6-1-terra-model/"
     },
     {
-      "title": "Meta、AI投資資金確保へ最大950億ドルの増資計画 NVIDIAなどが基幹投資家",
-      "summary": "Metaは26日、データセンターなどAI関連投資の資金を確保するため、公募増資などで総額最大950億ドルを調達する計画を発表した。NVIDIA、AMD、Broadcomが基幹投資家として参加する見通し。",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html"
+      "title": "ウォール街、ブロードコムとAnthropicのAIチップ融資に600億ドル規模の債務調達を開始",
+      "summary": "複数の銀行が26日、AnthropicによるGoogle製TPUのリース費用を融資するため、ブロードコムが一部保証する約420億ドルのシニアローンのシンジケートを開始したと報じられた。",
+      "source": "Benzinga",
+      "link": "https://www.benzinga.com/markets/tech/26/10/62200140"
     },
     {
-      "title": "AI業界の「分散化」進む中、AMDの存在感が増す",
-      "summary": "CNBCは26日、AI業界で特定ベンダーへの依存を避ける動きが広がる中、AMDがデータセンター向けGPU・CPU事業の成長を背景に頭角を現していると報じた。",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/10/26/-as-ai-becomes-more-fractured-one-names-stands-out-amd.html"
+      "title": "Anthropic、史上最大級となる可能性のあるIPOを申請、CEOはAIの実存的リスクにも言及",
+      "summary": "Anthropicは26日、米証券取引委員会(SEC)にIPOの登録届出書を提出。ウォール街史上最大級の資金調達になる可能性がある一方、CEOのダリオ・アモデイ氏はAIが人類にもたらすリスクについても言及した。",
+      "source": "PBS NewsHour",
+      "link": "https://www.pbs.org/newshour/nation/anthropic-files-for-potentially-the-biggest-ipo-ever-as-ceo-warns-of-ais-existential-risk-to-humanity"
     },
     {
-      "title": "ソフトバンク孫氏、マレーシアに最大500億ドルのAI投資へ 「AI国家」構想を後押し",
-      "summary": "マレーシア首相は、ソフトバンクグループの孫正義氏がAI・先端技術への投資先候補地を選定したと明らかにした。投資額は最大500億ドル規模とされ、データセンター建設などに充てられる見通し(26日報道)。",
-      "source": "CNBC",
-      "link": "https://cnbc.com/2026/10/26/softbank-masayoshi-son-malaysia-ai-billions.html"
-    },
-    {
-      "title": "ベライゾン、AWSと20億ドル超のAIインフラ契約 通期予想も上方修正",
-      "summary": "ベライゾンは26日、通期業績予想を上方修正するとともに、AWSのデータセンター向け光ファイバー接続などで20億ドル超のAIインフラ契約を結んだと発表した。",
-      "source": "CNBC",
-      "link": "https://cnbc.com/2026/10/26/verizon-lifts-annual-forecasts-signs-more-than-2-billion-ai-infrastructure-deal-with-aws.html"
-    },
-    {
-      "title": "GMO不正アクセス、攻撃者が約79億円を要求と判明",
-      "summary": "GMOインターネットグループの熊谷正寿社長は26日、「お名前.com デスクトップクラウド」への不正アクセス問題で、攻撃者から支払期限付きで約79億円(5000万ドル相当)の金銭要求を受けていたことを明らかにした。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026102600970&g=eco"
-    },
-    {
-      "title": "ギフティグループ、子会社への不正アクセスでギフト券不正発行 特損5.5億円",
-      "summary": "ギフト券サービス「ギフティ」を運営するギフティグループは26日、子会社システムへの不正アクセスにより最大約5.5億円分のギフト券が不正発行されたと発表した。2026年10〜12月期に特別損失として計上する。",
-      "source": "時事通信",
-      "link": "https://sp.m.jiji.com/article/show/3897942"
-    },
-    {
-      "title": "iPhone、PDFファイルを開くだけでハッキングに成功する手法が発表",
-      "summary": "セキュリティチームCalifが発見した手法により、PDFファイルを送って開かせるだけでiPhoneを侵害できることが明らかになった。脆弱性(CVE-2026-86950)はiOS 26.7.1で修正済み(26日報道)。",
-      "source": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261026-iphone-pdf-hacking"
-    },
-    {
-      "title": "NICT、安価・高効率な新構造のDUV LEDを開発",
-      "summary": "情報通信研究機構(NICT)は26日、深紫外(DUV)LEDの普及に貢献する、安価で高効率な新しい構造のLEDを開発したと発表した。",
-      "source": "EE Times Japan",
-      "link": "https://eetimes.itmedia.co.jp/ee/articles/2610/26/news058.html"
+      "title": "AI株高とオイル株安がせめぎ合う米国株式市場、Anthropic IPOとMetaの大型増資が後押し",
+      "summary": "27日の米国市場では、AnthropicのIPO申請やMetaの最大950億ドル規模の増資観測がハイテク株を支えたが、原油高を背景としたエネルギー株の強さとの綱引きとなっている。",
+      "source": "Fortune",
+      "link": "https://fortune.com/2026/10/27/tech-bulls-barely-winning-fight-against-oil-bears-meta/"
     }
   ],
-  "x_trending_tech": [
-    {
-      "title": "GMO熊谷社長、攻撃者が約79億円を要求と明らかに",
-      "summary": "日経電子版が、GMOの熊谷正寿社長が不正アクセス事件で攻撃者から約79億円を要求されていたことを明らかにしたと報じた投稿(26日午後の投稿)。",
-      "source": "@nikkei",
-      "link": "https://x.com/nikkei/status/2114637472311226539"
-    },
-    {
-      "title": "Financial Times速報「Metaが950億ドルの増資計画、NVIDIAなどが基幹投資家に」",
-      "summary": "Financial Timesが、MetaがAI基盤投資の資金を確保するため950億ドル規模の増資を計画し、NVIDIA・AMD・Broadcomが基幹投資家として参加すると速報した投稿(26日夜の投稿)。",
-      "source": "@FT",
-      "link": "https://x.com/FT/status/2114678996352799131"
-    },
-    {
-      "title": "「ついに実現」Anthropicが正式にIPOを申請、Nasdaqに「ANT」で上場へ",
-      "summary": "AnthropicがSECにIPOを正式申請し、Claudeの開発元がNasdaqにティッカー「ANT」で上場予定と報じる投稿。上場価格・日程は未定(26日夜の投稿)。",
-      "source": "@minchoi",
-      "link": "https://x.com/minchoi/status/2114711193302737072"
-    },
-    {
-      "title": "AnthropicのIPOが「史上最大級」になり得る理由を分析する投稿が話題",
-      "summary": "Anthropicが提出したS-1について、調達額750億〜1000億ドル、評価額約2兆ドル規模になる可能性や、7か月で売上高が90億ドルから650億ドルに急増したことなどを分析した投稿(27日未明の投稿)。",
-      "source": "@Prathkum",
-      "link": "https://x.com/Prathkum/status/2114742853826134188"
-    }
-  ]
+  "x_trending_tech": []
 }
