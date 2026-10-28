@@ -1,98 +1,129 @@
 {
-  "run_label": "10/28 19:00",
+  "run_label": "10/29 07:00",
   "politics_economy": [
     {
-      "title": "衆院定数31削減、日本維新の会が受け入れ決定",
-      "summary": "日本維新の会は10/28、自民党が示した衆院比例代表定数31削減案の受け入れを決定。国民民主党も同日賛成する方針を示し、自民党は3党での法案共同提出を目指す。",
+      "title": "ガソリン補助金、来月から段階縮小へ 自民提言に高市首相が理解",
+      "summary": "自民党は高市首相に、ガソリン・軽油補助金を12月から段階的に縮小する提言を提出し、首相も理解を示した。灯油価格の抑制策や、9月末で打ち切られた電気・ガス料金支援の再開も求めている(10/28)。",
       "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026102800554&g=pol"
+      "link": "https://www.jiji.com/jc/article?k=2026102800984&g=pol"
     },
     {
-      "title": "日米防衛相会談、「第一列島線」防衛で協力強化",
-      "summary": "小泉進次郎防衛相はフィリピン・セブでヘグセス米国防長官と会談し、南西諸島から台湾、フィリピンを結ぶ「第一列島線」の防衛体制構築や投資拡大への協力で一致した(10/28)。",
-      "source": "東京新聞",
-      "link": "https://www.tokyo-np.co.jp/article/524459"
-    },
-    {
-      "title": "参院自民、消費減税審議の特別委設置を容認",
-      "summary": "参院自民党は10/28、野党側が求めていた消費税減税を審議する特別委員会の設置を容認する方針を示した。",
+      "title": "日独首脳、経済安保で共同宣言 防衛・AI分野の協力拡大で一致",
+      "summary": "高市首相は10/28、来日したドイツのメルツ首相と会談し、経済安全保障に関する首脳共同宣言をまとめた。防衛やAI分野での協力拡大でも一致した。",
       "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026102800854&g=pol"
+      "link": "https://www.jiji.com/jc/article?k=2026102800836&g=pol&m=rss"
     },
     {
-      "title": "日経平均685円高で続伸、半導体関連株がけん引",
-      "summary": "28日の東京株式市場で日経平均株価は前日比685円高の6万3954円で終え3日続伸。半導体などAI関連株への買いが相場を押し上げた。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOFL285BK0Y6A021C2000000/"
-    },
-    {
-      "title": "政府、AI法改正へ議論開始 サイバー攻撃拡大受け",
-      "summary": "政府は10/28、相次ぐサイバー攻撃の拡大を受け、AI関連法の改正に向けた議論を始める作業部会を発足させた。",
+      "title": "日中関係改善「非常に難しい」 自民・森山氏、訪中の見通し立たず",
+      "summary": "自民党の森山裕前幹事長は10/28、日中関係の改善は非常に難しいとの見方を示し、自身の訪中についても見通しが立っていないと述べた。",
       "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026102800846&g=pol"
+      "link": "https://www.jiji.com/jc/article?k=2026102800866&g=pol&m=rss"
+    },
+    {
+      "title": "消費税減税の給付、対象上限に487万円案 衆院委で審議",
+      "summary": "衆院財務金融委員会は10/28、消費税減税関連法案を審議した。民主改革の会は、所得連動の「就業者負担軽減支援金」の対象上限を民間平均給与の487万円とする案を示した。",
+      "source": "時事通信",
+      "link": "https://www.jiji.com/jc/article?k=2026102800518&g=pol&m=rss"
+    },
+    {
+      "title": "衆院定数31削減、国民民主も賛成方針 比例代表の折衷案受け入れ",
+      "summary": "国民民主党は10/28、自民党が示した衆院比例代表定数31削減を含む折衷案に賛成する方針を決めた。日本維新の会も受け入れを決めており、3党での法案共同提出に向け前進した。",
+      "source": "時事通信",
+      "link": "https://www.jiji.com/jc/article?k=2026102800114&g=pol"
     }
   ],
   "tech": [
     {
-      "title": "Google DeepMind、ワールドモデル「Genie 4」発表 音声・会話もリアルタイム生成",
-      "summary": "Google DeepMindは10/28、音声や会話をリアルタイムで生成できる次世代ワールドモデル「Genie 4」を発表。Google AI Ultra向けのProject Genieや、Gemini API/Google AI Studioの早期アクセスパートナー向けに提供される。",
-      "source": "ITmedia NEWS",
-      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002648/"
+      "title": "アルファベット、7-9月期決算が市場予想下回る 株価急落",
+      "summary": "Googleの親会社アルファベットは10/28(米国時間)、2026年第3四半期決算を発表。売上高1275.8億ドル、営業利益405.8億ドルといずれも市場予想を下回り、株価は取引時間外で7%超下落した。AI投資拡大に伴う資本支出増への懸念も広がった。",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html"
     },
     {
-      "title": "Apple、M6搭載14インチ「MacBook Pro」発表 AI性能向上",
-      "summary": "Appleは10/27(日本時間10/28)、M6チップを搭載した新型14インチMacBook Proを発表。AI性能が向上し、日本では33万9800円から、11月6日発売予定。",
-      "source": "ITmedia NEWS",
-      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002649/"
-    },
-    {
-      "title": "Oracle Cloud、Google製TPU導入へ 2027年提供開始",
-      "summary": "Oracleは10/28、Oracle CloudにGoogleのAIチップ(TPU)を導入する計画を発表。Oracle AI World 2026で発表され、2027年にサービス提供を開始する。",
-      "source": "ITmedia NEWS",
-      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002681/"
-    },
-    {
-      "title": "米政府、PHPの重大脆弱性が悪用中と警告 3日以内の修正を指示",
-      "summary": "米CISAは10/27、Web向けサーバーの約7割で使われるPHPの2つの重大な脆弱性が攻撃者に悪用されていると発表し、連邦機関に3日以内のパッチ適用を命じた。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/27/us-government-says-hackers-are-now-exploiting-critical-php-web-bugs/"
-    },
-    {
-      "title": "GMO、不正アクセスで盗まれた顧客データが公開されたと発表",
-      "summary": "日本のGMOインターネットグループは10/27、不正アクセスで盗まれた顧客データがハッカーによってネット上に公開されたことを明らかにした。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/"
-    },
-    {
-      "title": "元Meta AI責任者、Office/Workspace対抗のAIスタートアップ「Ndoc」創業",
-      "summary": "Meta Superintelligence LabsのディレクターだったRohit Patel氏が退社し、Microsoft OfficeやGoogle Workspaceに対抗するAIネイティブなオフィスソフト「Ndoc」を立ち上げた(10/27報道)。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/"
-    },
-    {
-      "title": "SK hynix、純利益7倍増 AI投資への懐疑論和らげる",
-      "summary": "韓国SK hynixは10/27、前年同期比約7倍の四半期純利益を発表。約450億ドルの株主還元を計画し、NVIDIA向けなど高性能メモリの需給逼迫は2030年まで続くとの見通しを示した。",
+      "title": "米司法省、NVIDIAによるHugging Face買収を調査",
+      "summary": "米司法省(DOJ)は、NVIDIAが約130億ドルで進めるAIモデルリポジトリ「Hugging Face」買収について照会していることが10/28分かった。NVIDIAに対する独禁法上の調査は従来から継続している。",
       "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-27/sk-hynix-profit-jumps-seven-fold-to-soothe-doubts-over-ai-rush"
+      "link": "https://bloomberg.com/news/articles/2026-10-28/doj-inquires-about-nvidia-s-hugging-face-deal-reuters-says"
     },
     {
-      "title": "独Infineon、オーストリアのチップ工場に11億ユーロ投資",
-      "summary": "ドイツの半導体大手Infineonは10/27、オーストリアの主要チップ工場に8年間で11億ユーロを投資すると発表。AIデータセンターやEV、ロボット向け需要を見込む。",
+      "title": "OpenAI、GoogleのAI向けチップ(TPU)購入へ 脱Nvidia依存を加速",
+      "summary": "Bloombergは10/28、OpenAIがGoogleのTPUを購入する計画だと報じた。契約条件は未確定で両社ともコメントを控えている。同日Oracleも自社クラウドへのTPU導入を発表しており、NVIDIA一強体制に変化の兆しが出ている。",
       "source": "Bloomberg",
-      "link": "https://bloomberg.com/news/articles/2026-10-27/infineon-to-invest-1-1-billion-in-key-austrian-chip-factory"
+      "link": "https://www.bloomberg.com/news/articles/2026-10-28/openai-plans-to-buy-google-s-chips-as-part-of-its-ai-build-out"
     },
     {
-      "title": "蘭ASM、AI需要の高まりで2027年収益目標を上方修正",
-      "summary": "半導体製造装置大手の蘭ASM Internationalは10/27、AI主導の需要拡大を背景に2027年の収益目標を約24%上方修正した。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-27/asm-lifts-2027-outlook-as-ai-buildout-fuels-demand-for-its-tools"
-    },
-    {
-      "title": "新興General Compute、シリーズAで1億ドル調達 「ネオクラウド崩壊」論に反論",
-      "summary": "AIクラウドインフラの新興企業General Computeは10/27、シリーズAラウンドで1億ドルを調達したと発表。ネオクラウド業界への懐疑論が強まる中、独自のコスト構造で対抗する姿勢を示した。",
+      "title": "Google、AI検索広告を海外展開へ 検索広告の成長鈍化を補う",
+      "summary": "Googleは10/28、AI検索結果に広告を表示する機能を国際展開すると発表。検索事業の広告収入成長率が鈍化する中、新たな収益源としてAI検索広告の拡大を急いでいる。",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/"
+      "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/"
+    },
+    {
+      "title": "ソシオネクスト、4-9月期売上高55%増 車載・AI向け量産が本格化",
+      "summary": "ソシオネクストは2026年度第2四半期決算を発表し、北米向け車載・AI用半導体の量産が本格化したことで売上高が前四半期比55%増となったと明らかにした(10/29発表)。",
+      "source": "マイナビニュース",
+      "link": "https://news.mynavi.jp/techplus/article/20261029-5211928/"
+    },
+    {
+      "title": "NVIDIA、「Agent Toolkit」を拡張 企業データをAIエージェントの知識に変換",
+      "summary": "NVIDIAは10/28、企業の内部データをAIエージェントが活用できる知識ベースに変換する「Agent Toolkit」の機能拡張を発表した。",
+      "source": "マイナビニュース",
+      "link": "https://news.mynavi.jp/techplus/article/20261028-5210527/"
+    },
+    {
+      "title": "Opera、ブラウザでAIをローカル実行する新標準規格を提唱",
+      "summary": "ブラウザ大手Operaは10/27、クラウドを介さずブラウザ上でAIモデルをローカル実行するための新しいWeb標準を発表した。「Opera One」でプレビュー版として先行提供される。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/"
+    },
+    {
+      "title": "NVIDIAとAMD、Metaに40億ドルを投資 AI分野での提携深化",
+      "summary": "NVIDIAとAMDは10/27、MetaのAIインフラ構築を支援するため合計40億ドルを投資すると発表。両社とMetaとのAI分野での協業がさらに深まる形となった。",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/10/27/nvidia-invest-meta.html"
+    },
+    {
+      "title": "銀行団、ブロードコムのAnthropic向けチップ融資に210億ドルの債券組成を検討",
+      "summary": "複数の銀行が、ブロードコムによるAnthropic向けAIチップ調達資金として210億ドル規模の債券発行を検討していると10/27報じられた。前日にはブロードコムが同融資枠を630億ドル規模で組成したことも伝えられている。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-27/banks-eye-21-billion-of-bonds-for-broadcom-chip-financing-deal"
+    },
+    {
+      "title": "Apple、クリエイター向けアプリにOpenAIモデル活用のAI新機能",
+      "summary": "Appleは10/27、Logic Proなどクリエイティブ系アプリに、Apple独自モデルとOpenAIのモデルを組み合わせた新しいAIアシスタント機能を追加すると発表した。提供開始は11月を予定。",
+      "source": "9to5Mac",
+      "link": "https://9to5mac.com/2026/10/27/apple-creator-studio-gets-powerful-new-ai-features-using-openai-models/"
     }
   ],
-  "x_trending_tech": []
+  "x_trending_tech": [
+    {
+      "title": "Google、新AIモデル「Gemini 4 Carbon」を発表",
+      "summary": "Google CEOのスンダー・ピチャイ氏が、ベンチマークで首位を獲得した新モデル「Gemini 4 Carbon」について投稿。段階的に展開していく方針(10/28の投稿)。",
+      "source": "@sundarpichai",
+      "link": "https://x.com/sundarpichai/status/2115489219804352921"
+    },
+    {
+      "title": "アルファベット7-9月期決算、増収も市場予想割れで株価急落",
+      "summary": "Walter Bloomberg名義のアカウントが、アルファベットの7-9月期決算の詳細数値(売上高1275.8億ドル、EPS2.12ドルなど市場予想未達)を決算発表直後に速報(10/29早朝の投稿)。",
+      "source": "@DeItaone",
+      "link": "https://x.com/DeItaone/status/2115535292950094116"
+    },
+    {
+      "title": "決算後、アルファベット株が急落・マイクロソフト株は上昇",
+      "summary": "投資データ発信アカウントBespokeが、決算発表直後にアルファベット株が約7%下落、マイクロソフト株が約5%上昇したと速報(10/29早朝の投稿)。",
+      "source": "@bespokeinvest",
+      "link": "https://x.com/bespokeinvest/status/2115535285446377799"
+    },
+    {
+      "title": "NVIDIA、40言語対応の音声認識モデル「Nemotron 3.5 Transcribe」公開",
+      "summary": "Wall St Engineが、NVIDIAが発表したオープンウェイトの音声認識モデル「Nemotron 3.5 Transcribe」(40言語対応、話者の重複発話も追跡可能)を紹介(10/28の投稿)。",
+      "source": "@wallstengine",
+      "link": "https://x.com/wallstengine/status/2115483973019435344"
+    },
+    {
+      "title": "OracleとOpenAI、同日にGoogleのTPUチップ購入へ",
+      "summary": "ジャーナリストのKen Yeung氏が、Oracleが先にGoogleのTPU購入を発表した数時間後にOpenAIも同様の計画を明らかにしたことを指摘(10/28の投稿)。",
+      "source": "@thekenyeung",
+      "link": "https://x.com/thekenyeung/status/2115262241872417027"
+    }
+  ]
 }
