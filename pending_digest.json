@@ -1,43 +1,97 @@
 {
-  "run_label": "10/28 07:00",
+  "run_label": "10/28 19:00",
   "politics_economy": [
     {
-      "title": "政府、10月の月例経済報告で「緩やかに回復」の判断を維持",
-      "summary": "政府は27日公表の10月の月例経済報告で、景気の基調判断を9月から維持し「緩やかに回復している」とした。AI・半導体関連需要の底堅さが製造業の景況感を支えているとしている。",
-      "source": "NHK NEWS WEB",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261027de66635"
+      "title": "衆院定数31削減、日本維新の会が受け入れ決定",
+      "summary": "日本維新の会は10/28、自民党が示した衆院比例代表定数31削減案の受け入れを決定。国民民主党も同日賛成する方針を示し、自民党は3党での法案共同提出を目指す。",
+      "source": "時事通信",
+      "link": "https://www.jiji.com/jc/article?k=2026102800554&g=pol"
     },
     {
-      "title": "GMOインターネット、不正アクセス被害で全利用者に5000円の見舞金・不正取引の損失補償へ",
-      "summary": "お名前.comデスクトップクラウドへの不正アクセスを受け、GMOインターネットグループは不正取引による確定損失を補償する方針を示すとともに、全利用者に一律5000円の見舞金を支払うと発表。申請方法などは11月6日までに案内するとしている。",
-      "source": "Rocket Boys",
-      "link": "https://rocket-boys.co.jp/?p=45060"
+      "title": "日米防衛相会談、「第一列島線」防衛で協力強化",
+      "summary": "小泉進次郎防衛相はフィリピン・セブでヘグセス米国防長官と会談し、南西諸島から台湾、フィリピンを結ぶ「第一列島線」の防衛体制構築や投資拡大への協力で一致した(10/28)。",
+      "source": "東京新聞",
+      "link": "https://www.tokyo-np.co.jp/article/524459"
     },
     {
-      "title": "外国為替市場、ドル円157円台半ばで推移",
-      "summary": "27日の東京外国為替市場でドル円は157円台半ばで推移した。日銀の金融政策スタンスや米金利動向を見極める展開が続いている(27日14時40分時点の報道)。",
-      "source": "みんかぶFX/為替",
-      "link": "https://fx.minkabu.jp/news/382678"
+      "title": "参院自民、消費減税審議の特別委設置を容認",
+      "summary": "参院自民党は10/28、野党側が求めていた消費税減税を審議する特別委員会の設置を容認する方針を示した。",
+      "source": "時事通信",
+      "link": "https://www.jiji.com/jc/article?k=2026102800854&g=pol"
     },
     {
-      "title": "食料品の消費税減税法案、27日に参考人質疑・28日に農水委との連合審査",
-      "summary": "飲食料品の消費税率を2027年4月から2年間1%に引き下げる法案について、与野党は27日に衆院財務金融委員会で参考人質疑を行い、28日には農林水産委員会との連合審査を実施する方向で合意。財源や給付制度の詳細が引き続き論点となっている。",
-      "source": "NHK NEWS WEB",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261023de64034"
+      "title": "日経平均685円高で続伸、半導体関連株がけん引",
+      "summary": "28日の東京株式市場で日経平均株価は前日比685円高の6万3954円で終え3日続伸。半導体などAI関連株への買いが相場を押し上げた。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOFL285BK0Y6A021C2000000/"
+    },
+    {
+      "title": "政府、AI法改正へ議論開始 サイバー攻撃拡大受け",
+      "summary": "政府は10/28、相次ぐサイバー攻撃の拡大を受け、AI関連法の改正に向けた議論を始める作業部会を発足させた。",
+      "source": "時事通信",
+      "link": "https://www.jiji.com/jc/article?k=2026102800846&g=pol"
     }
   ],
   "tech": [
     {
-      "title": "Meta、7〜9月期決算は一時的な税務関連費用が響き減益、通期AI投資は上方修正",
-      "summary": "Metaの2026年7〜9月期決算は、約99億ドルの一時的な税関連費用が響き営業減益となったが、売上高は646億ドルで市場予想を上回った。通期の資本支出見通しは1350億〜1450億ドルに上方修正され、AIへの積極投資姿勢が続くことが示された(10月21日発表)。",
-      "source": "LetsDataScience(Newsquawkデータ引用)",
-      "link": "https://letsdatascience.com/news/meta-narrows-2026-capital-spending-range-to-135-billion-145-46f12e07"
+      "title": "Google DeepMind、ワールドモデル「Genie 4」発表 音声・会話もリアルタイム生成",
+      "summary": "Google DeepMindは10/28、音声や会話をリアルタイムで生成できる次世代ワールドモデル「Genie 4」を発表。Google AI Ultra向けのProject Genieや、Gemini API/Google AI Studioの早期アクセスパートナー向けに提供される。",
+      "source": "ITmedia NEWS",
+      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002648/"
     },
     {
-      "title": "米ビッグテック決算ウィーク、本日MicrosoftとAlphabetが決算発表",
-      "summary": "28日(現地時間)、MicrosoftとAlphabetが7〜9月期決算を発表予定。クラウド事業の成長率とAI関連の資本支出規模が市場の焦点で、Metaの決算を受けたAI投資への警戒感が続く中での発表となる。",
-      "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/news/alphabet-earnings-preview-tech-titans-184300445.html"
+      "title": "Apple、M6搭載14インチ「MacBook Pro」発表 AI性能向上",
+      "summary": "Appleは10/27(日本時間10/28)、M6チップを搭載した新型14インチMacBook Proを発表。AI性能が向上し、日本では33万9800円から、11月6日発売予定。",
+      "source": "ITmedia NEWS",
+      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002649/"
+    },
+    {
+      "title": "Oracle Cloud、Google製TPU導入へ 2027年提供開始",
+      "summary": "Oracleは10/28、Oracle CloudにGoogleのAIチップ(TPU)を導入する計画を発表。Oracle AI World 2026で発表され、2027年にサービス提供を開始する。",
+      "source": "ITmedia NEWS",
+      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002681/"
+    },
+    {
+      "title": "米政府、PHPの重大脆弱性が悪用中と警告 3日以内の修正を指示",
+      "summary": "米CISAは10/27、Web向けサーバーの約7割で使われるPHPの2つの重大な脆弱性が攻撃者に悪用されていると発表し、連邦機関に3日以内のパッチ適用を命じた。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/27/us-government-says-hackers-are-now-exploiting-critical-php-web-bugs/"
+    },
+    {
+      "title": "GMO、不正アクセスで盗まれた顧客データが公開されたと発表",
+      "summary": "日本のGMOインターネットグループは10/27、不正アクセスで盗まれた顧客データがハッカーによってネット上に公開されたことを明らかにした。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/"
+    },
+    {
+      "title": "元Meta AI責任者、Office/Workspace対抗のAIスタートアップ「Ndoc」創業",
+      "summary": "Meta Superintelligence LabsのディレクターだったRohit Patel氏が退社し、Microsoft OfficeやGoogle Workspaceに対抗するAIネイティブなオフィスソフト「Ndoc」を立ち上げた(10/27報道)。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/"
+    },
+    {
+      "title": "SK hynix、純利益7倍増 AI投資への懐疑論和らげる",
+      "summary": "韓国SK hynixは10/27、前年同期比約7倍の四半期純利益を発表。約450億ドルの株主還元を計画し、NVIDIA向けなど高性能メモリの需給逼迫は2030年まで続くとの見通しを示した。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-27/sk-hynix-profit-jumps-seven-fold-to-soothe-doubts-over-ai-rush"
+    },
+    {
+      "title": "独Infineon、オーストリアのチップ工場に11億ユーロ投資",
+      "summary": "ドイツの半導体大手Infineonは10/27、オーストリアの主要チップ工場に8年間で11億ユーロを投資すると発表。AIデータセンターやEV、ロボット向け需要を見込む。",
+      "source": "Bloomberg",
+      "link": "https://bloomberg.com/news/articles/2026-10-27/infineon-to-invest-1-1-billion-in-key-austrian-chip-factory"
+    },
+    {
+      "title": "蘭ASM、AI需要の高まりで2027年収益目標を上方修正",
+      "summary": "半導体製造装置大手の蘭ASM Internationalは10/27、AI主導の需要拡大を背景に2027年の収益目標を約24%上方修正した。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-27/asm-lifts-2027-outlook-as-ai-buildout-fuels-demand-for-its-tools"
+    },
+    {
+      "title": "新興General Compute、シリーズAで1億ドル調達 「ネオクラウド崩壊」論に反論",
+      "summary": "AIクラウドインフラの新興企業General Computeは10/27、シリーズAラウンドで1億ドルを調達したと発表。ネオクラウド業界への懐疑論が強まる中、独自のコスト構造で対抗する姿勢を示した。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/"
     }
   ],
   "x_trending_tech": []
