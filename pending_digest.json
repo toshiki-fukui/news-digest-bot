@@ -1,98 +1,129 @@
 {
-  "run_label": "10/29 19:00",
+  "run_label": "10/30 07:00",
   "politics_economy": [
     {
-      "title": "日銀、29・30日に金融政策決定会合 政策金利1.25%の据え置きが大勢の見方",
-      "summary": "日銀は29日から2日間の日程で金融政策決定会合を開催。前回会合での利上げの影響を見極める局面として、今回は政策金利1.25%での据え置きが大勢の予想となっている一方、一部では追加利上げを求める声も残っている。結果は30日に公表される予定。",
-      "source": "MoneyPost",
-      "link": "https://www.moneypost.jp/1458056"
+      "title": "衆院定数、比例31議席削減で自民・維新・国民民主が正式合意",
+      "summary": "2026年10月29日、自民党・日本維新の会・国民民主党の3党幹事長が会談し、衆院議員定数について比例代表31議席の削減と四国・中国ブロックの統合に正式合意。今国会への関連法案の共同提出を目指す。",
+      "source": "時事通信",
+      "link": "https://www.jiji.com/jc/article?k=2026102900201&g=pol"
     },
     {
-      "title": "衆院比例定数「31削減」案、自民が今国会での法案提出・成立目指す",
-      "summary": "自民党は衆院比例代表の定数を31削減する折衷案を各党に提示し、中小政党への配慮を強調しつつ今国会での法案成立を目指す意向を示した。日本維新の会は対応を執行部に一任、国民民主党は19削減を望ましいとする立場で、与野党の調整が続いている。",
-      "source": "熊本日日新聞(共同通信)",
-      "link": "https://kumanichi.com/articles/2050345"
+      "title": "東京株式市場、日経平均が3日続伸で終値6万4659円",
+      "summary": "2026年10月29日の東京株式市場で日経平均株価は前日比705円28銭(1.10%)高の6万4659円47銭で取引を終え、3営業日続伸。AI・半導体関連株の好決算が相場を押し上げた。",
+      "source": "共同通信(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/d39496d6d71f40097ce85d7630b3b8795251e0f1"
     },
     {
-      "title": "消費税減税法案、自民が野党の賛同得て成立目指す方針 国民民主は強引な審議をけん制",
-      "summary": "参院で少数の与党は、消費税減税関連法案の成立に向け野党の賛同を得る方針を示している。国民民主党は拙速な審議に慎重な姿勢を見せており、財源や対象の具体化が今後の論点となる見通し。",
-      "source": "熊本日日新聞(共同通信)",
-      "link": "https://kumanichi.com/articles/2050352"
+      "title": "日銀、29〜30日に金融政策決定会合 30日正午に結果公表へ",
+      "summary": "日本銀行は10月29日・30日の2日間、金融政策決定会合を開催中で、30日正午に結果を公表する予定。市場では政策金利1.25%程度での維持が大勢の見方で、展望レポートでの物価見通し上方修正や12月の追加利上げ観測が次の焦点となっている。",
+      "source": "OANDA Japan",
+      "link": "https://www.oanda.jp/lab-education/market_news/boj-oct-2026-preview/"
     },
     {
-      "title": "高市首相のG7オンライン会議欠席問題、説明が二転三転と国会で批判続く",
-      "summary": "高市首相が10月のG7オンライン首脳会合を欠席した経緯について、政府側の説明が機材準備の遅れなど複数回変遷したとして国会で追及が続いている。作家の平野啓一郎氏も答弁を批判し、辞任を求める声が出ている。",
-      "source": "J-CASTニュース",
-      "link": "https://www.j-cast.com/2026/10/22518646.html"
+      "title": "JT、1〜9月期の純利益が20.9%増 通期予想を上方修正",
+      "summary": "日本たばこ産業(JT)は2026年10月29日、2026年12月期第3四半期(1〜9月)決算を発表。連結最終利益は前年同期比20.9%増の6188億円となり、通期の最終利益予想も3%上方修正、最高益を見込む。",
+      "source": "株探(Kabutan)",
+      "link": "https://s.kabutan.jp/news/k202610290110/"
     },
     {
-      "title": "木原官房長官、防衛費財源は「財政持続性に十分配慮」して議論する考え",
-      "summary": "木原官房長官はNHK番組で、防衛費増額の財源について財政の持続可能性に十分配慮しながら今後議論する考えを示した。消費税減税の財源は無駄な歳出削減で確保し、特例公債に頼らない方針も重ねて説明した。",
-      "source": "熊本日日新聞(共同通信)",
-      "link": "https://kumanichi.com/articles/2045537"
+      "title": "コナミグループなど、10月29日発表の決算で業績予想を上方修正",
+      "summary": "2026年10月29日発表分の決算で、コナミグループが2027年3月期の連結最終利益予想を34%上方修正(最高益見込み)したほか、ダイヘンも経常益予想を20%上方修正するなど、好決算を発表する企業が相次いだ。",
+      "source": "株探ニュース(Yahoo!ファイナンス)",
+      "link": "https://finance.yahoo.co.jp/news/detail/f1b31e69afed932ebee63e21764883915c874f17"
     }
   ],
   "tech": [
     {
-      "title": "韓国AI半導体スタートアップFuriosaAI、約623百万ドルのシリーズDを実施",
-      "summary": "韓国のAIチップ開発企業FuriosaAIが、約2.89億ドル規模のポストマネー評価でシリーズD資金調達を完了したと29日発表。第2世代チップ「RNGD」の量産体制強化や事業拡大、次世代チップの研究開発に充てる。",
-      "source": "WOWTALE",
-      "link": "https://en.wowtale.net/2026/10/29/235768/"
+      "title": "インテル、2026年第3四半期決算を発表 売上21%増で市場予想上回る",
+      "summary": "インテルは2026年10月29日(米国時間、取引終了後)に第3四半期決算を発表。売上高は前年同期比21%増の165億ドル、GAAP EPSは0.60ドル(non-GAAPは0.52ドル)となった。リップブー・タンCEOは実行力の改善、供給拡大、プロセス技術の進展を成果として強調し、第4四半期の売上高見通しを150億〜160億ドルとした。",
+      "source": "Intel Newsroom",
+      "link": "https://www.intel.com/content/www/us/en/newsroom/news/corporate/intel-reports-third-quarter-2026-financial-results.html"
     },
     {
-      "title": "クラウドセキュリティのUpwind、約3億ドルのシリーズCを調達しAIエージェント専門の研究部門を新設",
-      "summary": "クラウドセキュリティ企業Upwindが評価額38億ドルで約3億ドルを調達。イスラエルのセキュリティ企業Aegisを買収し、AIエージェントを狙う脅威に特化した「Upwind AI Labs」を立ち上げる。",
-      "source": "Techzine",
-      "link": "https://www.techzine.eu/news/security/144051/upwind-raises-300m-at-a-valuation-of-38b/"
+      "title": "アマゾン第3四半期決算、AWSは39%増収も1株益が市場予想に届かず株価急落",
+      "summary": "アマゾンは2026年10月29日の取引終了後に第3四半期決算を発表。クラウド部門AWSの売上高は39%増の460億ドルと約5年ぶりの高成長を記録したが、1株当たり利益が市場予想を下回り、広告収入の伸び悩みも重なって株価は決算発表後の取引で8%超下落した。",
+      "source": "24/7 Wall St.",
+      "link": "https://247wallst.com/cards/amazon-q3-2026-earnings-amzn-01m64mgs2373wqp8ya2hpcgve3"
     },
     {
-      "title": "Google DeepMind、音声生成に対応した新世界モデル「Genie 4」を発表",
-      "summary": "Google DeepMindは27日、リアルタイムで探索可能な3D世界を生成し、環境音や会話などの音声も同時生成できる新モデル「Genie 4」を信頼できるテスター向けに公開。Google AI Ultra加入者向けの提供も予定している。",
-      "source": "Digg",
-      "link": "https://digg.com/tech/8q57gd3x"
+      "title": "SKハイニックス、2026年第3四半期に過去最高益 大規模な株主還元策も発表",
+      "summary": "韓国の半導体大手SKハイニックスは2026年10月28日、第3四半期決算を発表し、売上高104兆6000億ウォン、営業利益83兆3000億ウォンと四半期として過去最高を記録。AIサーバー向けHBM需要の拡大が業績を押し上げ、大規模な株主還元策も発表された。",
+      "source": "Investing.com",
+      "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-sk-hynix-posts-record-q3-2026-results-shares-jump-after-hours-93CH-4977343"
     },
     {
-      "title": "Liquid AI、オンデバイス向け小型マルチモーダルAI「LFM3」6モデルを発表",
-      "summary": "Liquid AIは27日、テキスト・画像・音声・意思決定タスクなどに対応する2Bクラスの小型モデル群「LFM3」を発表。重みはオープンでHugging Face等から入手可能で、スマートフォンなどの端末上での動作を想定している。",
-      "source": "Digg",
-      "link": "https://digg.com/ai/dphuzlkj"
-    },
-    {
-      "title": "サムスン電子、AIメモリ需要で記録的な四半期利益 半導体不足は一段と深刻化と警告",
-      "summary": "サムスン電子は29日、AIメモリ需要の拡大を背景に過去最高の四半期営業利益(約107兆ウォン)を発表。2028年ごろまでチップ市場のひっ迫が続くとの見方を示したが、株主還元策への期待外れから株価は下落した。",
-      "source": "The Irish Times",
-      "link": "https://www.irishtimes.com/business/2026/10/29/samsung-sees-ai-chip-shortage-worsening"
-    },
-    {
-      "title": "TSMC、AI向け先端パッケージング「CoWoS」価格を最大20%引き上げとの報道で株価上昇",
-      "summary": "台湾メディアの報道によると、TSMCはAI向け先端パッケージング技術CoWoSの価格を10〜20%引き上げる可能性があるとされ、需要が供給能力を上回る状況が続いていることを示唆。発表を受けTSMC株は3%上昇した。",
-      "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/technology/ai/articles/tsmc-gains-3-reported-20-163555398.html"
-    },
-    {
-      "title": "マイクロソフト、Azure48%成長で四半期予想上回る AIエージェント向け新基盤「MXC」をOpenAI・Anthropic・Metaが採用",
-      "summary": "マイクロソフトは28日発表の四半期決算でAzure収益が48%増と市場予想を上回った。決算説明会ではAIエージェントの挙動を管理する新基盤「MXC」を発表し、OpenAIやAnthropic、Metaが採用を進めていると説明した。",
-      "source": "Benzinga",
-      "link": "https://www.benzinga.com/markets/earnings/26/10/62683384/microsoft-ai-agents-gatekeeper-mxc-openai-anthropic-meta"
-    },
-    {
-      "title": "Anthropic、企業のAI投資対効果を可視化する新ツールを発表",
-      "summary": "Anthropicは28日、企業が自社のAI活用への支出が何に使われ、どの程度の効果を生んでいるかを可視化できる新しいツール群を発表した。企業のAI導入が拡大する中、投資対効果の説明責任への関心の高まりを反映している。",
+      "title": "マイクロソフト、OpenAIから四半期で100億ドルの収益を記録",
+      "summary": "2026年10月28日、マイクロソフトは9月30日締めの四半期における規制当局への開示で、OpenAIとの商用契約から100億ドルの収益を得たことを明らかにした。AI関連収益の大半をOpenAIが占める構図が浮き彫りになっている。",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying"
+      "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/"
     },
     {
-      "title": "自律走行の建設機械を手がけるBedrock Robotics、6億ドルのシリーズCを調達し評価額41億ドルに",
-      "summary": "建設車両の自動運転化キットを手がけるBedrock Roboticsが6億ドルのシリーズCを調達し、評価額41億ドルに達したと26日発表。ネバダ州やテキサス州の現場で自律走行の掘削機がすでに商用運用されている。",
+      "title": "Google、GeminiとSearchをより多くのアプリに開放 AIエージェント時代のウェブ再編に対応",
+      "summary": "2026年10月28日、Googleは企業が自社アプリをGeminiや検索機能に連携できる開発者向けプラットフォームを公開した。現在は米国の開発者を対象にベータ版として提供されている。",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/"
+      "link": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/"
     },
     {
-      "title": "Rapidus、2nm量産に向け経産省が3年で4000億円を追加出資へ",
-      "summary": "経済産業省は次世代半導体メーカーRapidusに対し、2027〜2029年度の3年間で計4000億円を追加出資する計画を明らかにした。Rapidusは2027年度後半の2nm世代半導体量産開始を目指しており、民間金融機関からの2兆円規模の融資調達も計画している。",
-      "source": "EE Times Japan",
-      "link": "https://eetimes.itmedia.co.jp/ee/articles/2610/20/news052_2.html"
+      "title": "韓国の金融業界に新たなサイバー攻撃の波、AI活用の侵入テストツールが関与か",
+      "summary": "2026年10月28日の報道によると、韓国の金融機関が新たな大規模サイバー攻撃を受けた。研究者は9月の攻撃との関連を指摘し、中国を拠点とするとみられるハッカーがAIを使った侵入テストツール「Artex」を利用したとみている。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/"
+    },
+    {
+      "title": "SuperMe、AI専門家プロフィールのネットワーク構築で2000万ドルを調達",
+      "summary": "2026年10月29日、AIエキスパートのプロフィールネットワークを手がけるSuperMeが、Forerunnerのカーステン・グリーン氏主導、Greylock Partners参加のラウンドで2000万ドルを調達したと発表した。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/29/superme-raises-20m-for-its-network-of-ai-expert-profiles/"
+    },
+    {
+      "title": "Google、新AIモデル「Gemini 4 Carbon」を発表 サイバー防御能力などを強化",
+      "summary": "2026年10月29日、Googleは前モデル「Argon」の公開からわずか2週間で新フロンティアAIモデル「Gemini 4 Carbon」を発表した。自社史上最高性能のモデルと位置付け、提供は当初一部のサイバー防御組織に限定される。",
+      "source": "ITmedia NEWS",
+      "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002690/"
+    },
+    {
+      "title": "アドバンテスト、AI半導体「メガサイクル」で好決算 通期見通しを上方修正",
+      "summary": "2026年10月29日、半導体テスト装置大手のアドバンテストは2026年度第2四半期決算で過去最高益を更新し、通期の売上高・利益予想を上方修正した。CEOはAI半導体市場について、需要拡大が続く「スーパーサイクル」を超える「メガサイクル」局面にあると述べた。",
+      "source": "ITmedia ビジネスオンライン",
+      "link": "https://www.itmedia.co.jp/business/articles/2610/29/news050.html"
+    },
+    {
+      "title": "ルネサス、2026年第3四半期売上高が30%増 AIデータセンター需要が拡大",
+      "summary": "2026年10月29日、ルネサス エレクトロニクスは2026年12月期第3四半期(7〜9月)決算で、売上高が前年同期比30.2%増の4352億円になったと発表した。AIデータセンター向け需要の拡大が業績を押し上げ、増産投資も加速している。",
+      "source": "マイナビニュース",
+      "link": "https://news.mynavi.jp/techplus/article/20261029-5216880/"
     }
   ],
-  "x_trending_tech": []
+  "x_trending_tech": [
+    {
+      "title": "AI導入の「後退」が世界の企業で進行中と話題",
+      "summary": "ガーディアン紙の報道を引用し、AIのミスや低品質な成果物が従業員の負担やコスト増を招き、世界中の企業がAI導入を縮小していると伝える投稿。10/29夜(日本時間21時台)の投稿。",
+      "source": "@unusual_whales",
+      "link": "https://x.com/unusual_whales/status/2115779934136545373"
+    },
+    {
+      "title": "AIアシスタント企業「Wabi」が約1.25億ドル評価で資金調達",
+      "summary": "AIアシスタントのスタートアップWabiがIVP主導で5500万ドルを調達し、企業価値12.5億ドルに達したと報じる投稿。10/29夜(日本時間22時台)の投稿。",
+      "source": "@AGTPinsights",
+      "link": "https://x.com/AGTPinsights/status/2115799167956336706"
+    },
+    {
+      "title": "「Claude Codeが顔写真14,219枚発見」投稿はフェイクと指摘",
+      "summary": "SNSで拡散した「Claude Codeがスマホから1万枚超の顔写真を見つけた」という投稿について、動画フレームを解析した結果100%フェイクエンゲージメントだと検証した投稿。10/29深夜(日本時間23時前)の投稿。",
+      "source": "@HarshithLucky3",
+      "link": "https://x.com/HarshithLucky3/status/2115805386511126591"
+    },
+    {
+      "title": "Claudeが11年来のLinuxカーネル脆弱性(CVE-2026-98432)から攻撃コードを構築",
+      "summary": "セキュリティ研究者が、2015年に導入されたLinux TCP/IPv4スタックの脆弱性をClaudeが解析し攻撃コードを作ったとして、AIによる脆弱性発見の将来性と脅威を指摘する投稿。10/29深夜(日本時間23時台)の投稿。",
+      "source": "@cyb3rops",
+      "link": "https://x.com/cyb3rops/status/2115806593635811634"
+    },
+    {
+      "title": "AIコーディング企業Cognition、セキュリティ企業Corridorを買収",
+      "summary": "Devinを開発するAI企業Cognitionが、セキュリティスタートアップCorridorの買収を発表した投稿。10/30未明(日本時間3時台)の投稿。",
+      "source": "@cognition",
+      "link": "https://x.com/cognition/status/2115872968043864146"
+    }
+  ]
 }
