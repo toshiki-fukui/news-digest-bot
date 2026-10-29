@@ -1,129 +1,98 @@
 {
-  "run_label": "10/29 07:00",
+  "run_label": "10/29 19:00",
   "politics_economy": [
     {
-      "title": "ガソリン補助金、来月から段階縮小へ 自民提言に高市首相が理解",
-      "summary": "自民党は高市首相に、ガソリン・軽油補助金を12月から段階的に縮小する提言を提出し、首相も理解を示した。灯油価格の抑制策や、9月末で打ち切られた電気・ガス料金支援の再開も求めている(10/28)。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026102800984&g=pol"
+      "title": "日銀、29・30日に金融政策決定会合 政策金利1.25%の据え置きが大勢の見方",
+      "summary": "日銀は29日から2日間の日程で金融政策決定会合を開催。前回会合での利上げの影響を見極める局面として、今回は政策金利1.25%での据え置きが大勢の予想となっている一方、一部では追加利上げを求める声も残っている。結果は30日に公表される予定。",
+      "source": "MoneyPost",
+      "link": "https://www.moneypost.jp/1458056"
     },
     {
-      "title": "日独首脳、経済安保で共同宣言 防衛・AI分野の協力拡大で一致",
-      "summary": "高市首相は10/28、来日したドイツのメルツ首相と会談し、経済安全保障に関する首脳共同宣言をまとめた。防衛やAI分野での協力拡大でも一致した。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026102800836&g=pol&m=rss"
+      "title": "衆院比例定数「31削減」案、自民が今国会での法案提出・成立目指す",
+      "summary": "自民党は衆院比例代表の定数を31削減する折衷案を各党に提示し、中小政党への配慮を強調しつつ今国会での法案成立を目指す意向を示した。日本維新の会は対応を執行部に一任、国民民主党は19削減を望ましいとする立場で、与野党の調整が続いている。",
+      "source": "熊本日日新聞(共同通信)",
+      "link": "https://kumanichi.com/articles/2050345"
     },
     {
-      "title": "日中関係改善「非常に難しい」 自民・森山氏、訪中の見通し立たず",
-      "summary": "自民党の森山裕前幹事長は10/28、日中関係の改善は非常に難しいとの見方を示し、自身の訪中についても見通しが立っていないと述べた。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026102800866&g=pol&m=rss"
+      "title": "消費税減税法案、自民が野党の賛同得て成立目指す方針 国民民主は強引な審議をけん制",
+      "summary": "参院で少数の与党は、消費税減税関連法案の成立に向け野党の賛同を得る方針を示している。国民民主党は拙速な審議に慎重な姿勢を見せており、財源や対象の具体化が今後の論点となる見通し。",
+      "source": "熊本日日新聞(共同通信)",
+      "link": "https://kumanichi.com/articles/2050352"
     },
     {
-      "title": "消費税減税の給付、対象上限に487万円案 衆院委で審議",
-      "summary": "衆院財務金融委員会は10/28、消費税減税関連法案を審議した。民主改革の会は、所得連動の「就業者負担軽減支援金」の対象上限を民間平均給与の487万円とする案を示した。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026102800518&g=pol&m=rss"
+      "title": "高市首相のG7オンライン会議欠席問題、説明が二転三転と国会で批判続く",
+      "summary": "高市首相が10月のG7オンライン首脳会合を欠席した経緯について、政府側の説明が機材準備の遅れなど複数回変遷したとして国会で追及が続いている。作家の平野啓一郎氏も答弁を批判し、辞任を求める声が出ている。",
+      "source": "J-CASTニュース",
+      "link": "https://www.j-cast.com/2026/10/22518646.html"
     },
     {
-      "title": "衆院定数31削減、国民民主も賛成方針 比例代表の折衷案受け入れ",
-      "summary": "国民民主党は10/28、自民党が示した衆院比例代表定数31削減を含む折衷案に賛成する方針を決めた。日本維新の会も受け入れを決めており、3党での法案共同提出に向け前進した。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026102800114&g=pol"
+      "title": "木原官房長官、防衛費財源は「財政持続性に十分配慮」して議論する考え",
+      "summary": "木原官房長官はNHK番組で、防衛費増額の財源について財政の持続可能性に十分配慮しながら今後議論する考えを示した。消費税減税の財源は無駄な歳出削減で確保し、特例公債に頼らない方針も重ねて説明した。",
+      "source": "熊本日日新聞(共同通信)",
+      "link": "https://kumanichi.com/articles/2045537"
     }
   ],
   "tech": [
     {
-      "title": "アルファベット、7-9月期決算が市場予想下回る 株価急落",
-      "summary": "Googleの親会社アルファベットは10/28(米国時間)、2026年第3四半期決算を発表。売上高1275.8億ドル、営業利益405.8億ドルといずれも市場予想を下回り、株価は取引時間外で7%超下落した。AI投資拡大に伴う資本支出増への懸念も広がった。",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html"
+      "title": "韓国AI半導体スタートアップFuriosaAI、約623百万ドルのシリーズDを実施",
+      "summary": "韓国のAIチップ開発企業FuriosaAIが、約2.89億ドル規模のポストマネー評価でシリーズD資金調達を完了したと29日発表。第2世代チップ「RNGD」の量産体制強化や事業拡大、次世代チップの研究開発に充てる。",
+      "source": "WOWTALE",
+      "link": "https://en.wowtale.net/2026/10/29/235768/"
     },
     {
-      "title": "米司法省、NVIDIAによるHugging Face買収を調査",
-      "summary": "米司法省(DOJ)は、NVIDIAが約130億ドルで進めるAIモデルリポジトリ「Hugging Face」買収について照会していることが10/28分かった。NVIDIAに対する独禁法上の調査は従来から継続している。",
-      "source": "Bloomberg",
-      "link": "https://bloomberg.com/news/articles/2026-10-28/doj-inquires-about-nvidia-s-hugging-face-deal-reuters-says"
+      "title": "クラウドセキュリティのUpwind、約3億ドルのシリーズCを調達しAIエージェント専門の研究部門を新設",
+      "summary": "クラウドセキュリティ企業Upwindが評価額38億ドルで約3億ドルを調達。イスラエルのセキュリティ企業Aegisを買収し、AIエージェントを狙う脅威に特化した「Upwind AI Labs」を立ち上げる。",
+      "source": "Techzine",
+      "link": "https://www.techzine.eu/news/security/144051/upwind-raises-300m-at-a-valuation-of-38b/"
     },
     {
-      "title": "OpenAI、GoogleのAI向けチップ(TPU)購入へ 脱Nvidia依存を加速",
-      "summary": "Bloombergは10/28、OpenAIがGoogleのTPUを購入する計画だと報じた。契約条件は未確定で両社ともコメントを控えている。同日Oracleも自社クラウドへのTPU導入を発表しており、NVIDIA一強体制に変化の兆しが出ている。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-28/openai-plans-to-buy-google-s-chips-as-part-of-its-ai-build-out"
+      "title": "Google DeepMind、音声生成に対応した新世界モデル「Genie 4」を発表",
+      "summary": "Google DeepMindは27日、リアルタイムで探索可能な3D世界を生成し、環境音や会話などの音声も同時生成できる新モデル「Genie 4」を信頼できるテスター向けに公開。Google AI Ultra加入者向けの提供も予定している。",
+      "source": "Digg",
+      "link": "https://digg.com/tech/8q57gd3x"
     },
     {
-      "title": "Google、AI検索広告を海外展開へ 検索広告の成長鈍化を補う",
-      "summary": "Googleは10/28、AI検索結果に広告を表示する機能を国際展開すると発表。検索事業の広告収入成長率が鈍化する中、新たな収益源としてAI検索広告の拡大を急いでいる。",
+      "title": "Liquid AI、オンデバイス向け小型マルチモーダルAI「LFM3」6モデルを発表",
+      "summary": "Liquid AIは27日、テキスト・画像・音声・意思決定タスクなどに対応する2Bクラスの小型モデル群「LFM3」を発表。重みはオープンでHugging Face等から入手可能で、スマートフォンなどの端末上での動作を想定している。",
+      "source": "Digg",
+      "link": "https://digg.com/ai/dphuzlkj"
+    },
+    {
+      "title": "サムスン電子、AIメモリ需要で記録的な四半期利益 半導体不足は一段と深刻化と警告",
+      "summary": "サムスン電子は29日、AIメモリ需要の拡大を背景に過去最高の四半期営業利益(約107兆ウォン)を発表。2028年ごろまでチップ市場のひっ迫が続くとの見方を示したが、株主還元策への期待外れから株価は下落した。",
+      "source": "The Irish Times",
+      "link": "https://www.irishtimes.com/business/2026/10/29/samsung-sees-ai-chip-shortage-worsening"
+    },
+    {
+      "title": "TSMC、AI向け先端パッケージング「CoWoS」価格を最大20%引き上げとの報道で株価上昇",
+      "summary": "台湾メディアの報道によると、TSMCはAI向け先端パッケージング技術CoWoSの価格を10〜20%引き上げる可能性があるとされ、需要が供給能力を上回る状況が続いていることを示唆。発表を受けTSMC株は3%上昇した。",
+      "source": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/technology/ai/articles/tsmc-gains-3-reported-20-163555398.html"
+    },
+    {
+      "title": "マイクロソフト、Azure48%成長で四半期予想上回る AIエージェント向け新基盤「MXC」をOpenAI・Anthropic・Metaが採用",
+      "summary": "マイクロソフトは28日発表の四半期決算でAzure収益が48%増と市場予想を上回った。決算説明会ではAIエージェントの挙動を管理する新基盤「MXC」を発表し、OpenAIやAnthropic、Metaが採用を進めていると説明した。",
+      "source": "Benzinga",
+      "link": "https://www.benzinga.com/markets/earnings/26/10/62683384/microsoft-ai-agents-gatekeeper-mxc-openai-anthropic-meta"
+    },
+    {
+      "title": "Anthropic、企業のAI投資対効果を可視化する新ツールを発表",
+      "summary": "Anthropicは28日、企業が自社のAI活用への支出が何に使われ、どの程度の効果を生んでいるかを可視化できる新しいツール群を発表した。企業のAI導入が拡大する中、投資対効果の説明責任への関心の高まりを反映している。",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/"
+      "link": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying"
     },
     {
-      "title": "ソシオネクスト、4-9月期売上高55%増 車載・AI向け量産が本格化",
-      "summary": "ソシオネクストは2026年度第2四半期決算を発表し、北米向け車載・AI用半導体の量産が本格化したことで売上高が前四半期比55%増となったと明らかにした(10/29発表)。",
-      "source": "マイナビニュース",
-      "link": "https://news.mynavi.jp/techplus/article/20261029-5211928/"
-    },
-    {
-      "title": "NVIDIA、「Agent Toolkit」を拡張 企業データをAIエージェントの知識に変換",
-      "summary": "NVIDIAは10/28、企業の内部データをAIエージェントが活用できる知識ベースに変換する「Agent Toolkit」の機能拡張を発表した。",
-      "source": "マイナビニュース",
-      "link": "https://news.mynavi.jp/techplus/article/20261028-5210527/"
-    },
-    {
-      "title": "Opera、ブラウザでAIをローカル実行する新標準規格を提唱",
-      "summary": "ブラウザ大手Operaは10/27、クラウドを介さずブラウザ上でAIモデルをローカル実行するための新しいWeb標準を発表した。「Opera One」でプレビュー版として先行提供される。",
+      "title": "自律走行の建設機械を手がけるBedrock Robotics、6億ドルのシリーズCを調達し評価額41億ドルに",
+      "summary": "建設車両の自動運転化キットを手がけるBedrock Roboticsが6億ドルのシリーズCを調達し、評価額41億ドルに達したと26日発表。ネバダ州やテキサス州の現場で自律走行の掘削機がすでに商用運用されている。",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/"
+      "link": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/"
     },
     {
-      "title": "NVIDIAとAMD、Metaに40億ドルを投資 AI分野での提携深化",
-      "summary": "NVIDIAとAMDは10/27、MetaのAIインフラ構築を支援するため合計40億ドルを投資すると発表。両社とMetaとのAI分野での協業がさらに深まる形となった。",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/10/27/nvidia-invest-meta.html"
-    },
-    {
-      "title": "銀行団、ブロードコムのAnthropic向けチップ融資に210億ドルの債券組成を検討",
-      "summary": "複数の銀行が、ブロードコムによるAnthropic向けAIチップ調達資金として210億ドル規模の債券発行を検討していると10/27報じられた。前日にはブロードコムが同融資枠を630億ドル規模で組成したことも伝えられている。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-27/banks-eye-21-billion-of-bonds-for-broadcom-chip-financing-deal"
-    },
-    {
-      "title": "Apple、クリエイター向けアプリにOpenAIモデル活用のAI新機能",
-      "summary": "Appleは10/27、Logic Proなどクリエイティブ系アプリに、Apple独自モデルとOpenAIのモデルを組み合わせた新しいAIアシスタント機能を追加すると発表した。提供開始は11月を予定。",
-      "source": "9to5Mac",
-      "link": "https://9to5mac.com/2026/10/27/apple-creator-studio-gets-powerful-new-ai-features-using-openai-models/"
+      "title": "Rapidus、2nm量産に向け経産省が3年で4000億円を追加出資へ",
+      "summary": "経済産業省は次世代半導体メーカーRapidusに対し、2027〜2029年度の3年間で計4000億円を追加出資する計画を明らかにした。Rapidusは2027年度後半の2nm世代半導体量産開始を目指しており、民間金融機関からの2兆円規模の融資調達も計画している。",
+      "source": "EE Times Japan",
+      "link": "https://eetimes.itmedia.co.jp/ee/articles/2610/20/news052_2.html"
     }
   ],
-  "x_trending_tech": [
-    {
-      "title": "Google、新AIモデル「Gemini 4 Carbon」を発表",
-      "summary": "Google CEOのスンダー・ピチャイ氏が、ベンチマークで首位を獲得した新モデル「Gemini 4 Carbon」について投稿。段階的に展開していく方針(10/28の投稿)。",
-      "source": "@sundarpichai",
-      "link": "https://x.com/sundarpichai/status/2115489219804352921"
-    },
-    {
-      "title": "アルファベット7-9月期決算、増収も市場予想割れで株価急落",
-      "summary": "Walter Bloomberg名義のアカウントが、アルファベットの7-9月期決算の詳細数値(売上高1275.8億ドル、EPS2.12ドルなど市場予想未達)を決算発表直後に速報(10/29早朝の投稿)。",
-      "source": "@DeItaone",
-      "link": "https://x.com/DeItaone/status/2115535292950094116"
-    },
-    {
-      "title": "決算後、アルファベット株が急落・マイクロソフト株は上昇",
-      "summary": "投資データ発信アカウントBespokeが、決算発表直後にアルファベット株が約7%下落、マイクロソフト株が約5%上昇したと速報(10/29早朝の投稿)。",
-      "source": "@bespokeinvest",
-      "link": "https://x.com/bespokeinvest/status/2115535285446377799"
-    },
-    {
-      "title": "NVIDIA、40言語対応の音声認識モデル「Nemotron 3.5 Transcribe」公開",
-      "summary": "Wall St Engineが、NVIDIAが発表したオープンウェイトの音声認識モデル「Nemotron 3.5 Transcribe」(40言語対応、話者の重複発話も追跡可能)を紹介(10/28の投稿)。",
-      "source": "@wallstengine",
-      "link": "https://x.com/wallstengine/status/2115483973019435344"
-    },
-    {
-      "title": "OracleとOpenAI、同日にGoogleのTPUチップ購入へ",
-      "summary": "ジャーナリストのKen Yeung氏が、Oracleが先にGoogleのTPU購入を発表した数時間後にOpenAIも同様の計画を明らかにしたことを指摘(10/28の投稿)。",
-      "source": "@thekenyeung",
-      "link": "https://x.com/thekenyeung/status/2115262241872417027"
-    }
-  ]
+  "x_trending_tech": []
 }
