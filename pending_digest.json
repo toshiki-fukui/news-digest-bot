@@ -1,129 +1,74 @@
 {
-  "run_label": "10/30 07:00",
+  "run_label": "10/30 19:00",
   "politics_economy": [
     {
-      "title": "衆院定数、比例31議席削減で自民・維新・国民民主が正式合意",
-      "summary": "2026年10月29日、自民党・日本維新の会・国民民主党の3党幹事長が会談し、衆院議員定数について比例代表31議席の削減と四国・中国ブロックの統合に正式合意。今国会への関連法案の共同提出を目指す。",
+      "title": "日銀、政策金利1.25%で据え置き決定 ETF売却ペース加速へ、植田総裁「毎回会合で判断」",
+      "summary": "日本銀行は10月30日の金融政策決定会合で、政策金利を1.25%程度で据え置くことを賛成多数で決定した（高田創審議委員は1.5%への利上げを主張し反対）。基調的な物価上昇率が2%目標とおおむね整合的な水準にあるとの認識を示す一方、保有ETFの売却ペースを年間約3300億円から約8600億円へ加速させる方針も発表。植田総裁は会見で、12月の次回会合を含め「毎回の会合で判断する」と述べた。",
+      "source": "共同通信（Yahoo!ニュース）",
+      "link": "https://news.yahoo.co.jp/articles/c740573a3e0bb11377f0160cf9e576fe9f92eb01"
+    },
+    {
+      "title": "日経平均、1369円安で4日ぶり反落 AI・半導体株に売り集中",
+      "summary": "10月30日の東京株式市場で日経平均株価は前日比1369円36銭（2.12%）安の6万3290円11銭で取引を終え、4営業日ぶりに反落した。前日の米国市場でハイテク株が売られた流れやインテル決算後の時間外急落を受け、AI・半導体関連株が軒並み売られたことが背景。",
+      "source": "財経新聞",
+      "link": "https://www.zaikei.co.jp/article/20261030/875657.html"
+    },
+    {
+      "title": "消費税減税法案、参院に特別委員会設置へ 自民・立憲が合意",
+      "summary": "自民党の磯崎仁彦参院国対委員長と立憲民主党の斎藤嘉隆国対委員長は10月30日、国会内で会談し、消費税減税関連法案を審議するため参院に特別委員会を設置することで合意した。審議方式をめぐる与野党の対立が決着した形。",
       "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026102900201&g=pol"
+      "link": "https://www.jiji.com/jc/article?k=2026103000960&g=pol"
     },
     {
-      "title": "東京株式市場、日経平均が3日続伸で終値6万4659円",
-      "summary": "2026年10月29日の東京株式市場で日経平均株価は前日比705円28銭(1.10%)高の6万4659円47銭で取引を終え、3営業日続伸。AI・半導体関連株の好決算が相場を押し上げた。",
-      "source": "共同通信(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/d39496d6d71f40097ce85d7630b3b8795251e0f1"
-    },
-    {
-      "title": "日銀、29〜30日に金融政策決定会合 30日正午に結果公表へ",
-      "summary": "日本銀行は10月29日・30日の2日間、金融政策決定会合を開催中で、30日正午に結果を公表する予定。市場では政策金利1.25%程度での維持が大勢の見方で、展望レポートでの物価見通し上方修正や12月の追加利上げ観測が次の焦点となっている。",
-      "source": "OANDA Japan",
-      "link": "https://www.oanda.jp/lab-education/market_news/boj-oct-2026-preview/"
-    },
-    {
-      "title": "JT、1〜9月期の純利益が20.9%増 通期予想を上方修正",
-      "summary": "日本たばこ産業(JT)は2026年10月29日、2026年12月期第3四半期(1〜9月)決算を発表。連結最終利益は前年同期比20.9%増の6188億円となり、通期の最終利益予想も3%上方修正、最高益を見込む。",
-      "source": "株探(Kabutan)",
-      "link": "https://s.kabutan.jp/news/k202610290110/"
-    },
-    {
-      "title": "コナミグループなど、10月29日発表の決算で業績予想を上方修正",
-      "summary": "2026年10月29日発表分の決算で、コナミグループが2027年3月期の連結最終利益予想を34%上方修正(最高益見込み)したほか、ダイヘンも経常益予想を20%上方修正するなど、好決算を発表する企業が相次いだ。",
-      "source": "株探ニュース(Yahoo!ファイナンス)",
-      "link": "https://finance.yahoo.co.jp/news/detail/f1b31e69afed932ebee63e21764883915c874f17"
+      "title": "ドル円、日銀会合後に157円台半ばで推移",
+      "summary": "10月30日の東京外国為替市場でドル円は、日銀の金融政策決定会合を控えて円が買われる場面があったが、会合後は157円台半ばに戻した。原油高を受けたドル買いも支えとなったほか、米株安への警戒感も報じられた。",
+      "source": "ウエルスアドバイザー（Yahoo!ファイナンス）",
+      "link": "https://finance.yahoo.co.jp/news/detail/606651880eec319c0dd8c61555ad3a49d35c4596"
     }
   ],
   "tech": [
     {
-      "title": "インテル、2026年第3四半期決算を発表 売上21%増で市場予想上回る",
-      "summary": "インテルは2026年10月29日(米国時間、取引終了後)に第3四半期決算を発表。売上高は前年同期比21%増の165億ドル、GAAP EPSは0.60ドル(non-GAAPは0.52ドル)となった。リップブー・タンCEOは実行力の改善、供給拡大、プロセス技術の進展を成果として強調し、第4四半期の売上高見通しを150億〜160億ドルとした。",
-      "source": "Intel Newsroom",
-      "link": "https://www.intel.com/content/www/us/en/newsroom/news/corporate/intel-reports-third-quarter-2026-financial-results.html"
-    },
-    {
-      "title": "アマゾン第3四半期決算、AWSは39%増収も1株益が市場予想に届かず株価急落",
-      "summary": "アマゾンは2026年10月29日の取引終了後に第3四半期決算を発表。クラウド部門AWSの売上高は39%増の460億ドルと約5年ぶりの高成長を記録したが、1株当たり利益が市場予想を下回り、広告収入の伸び悩みも重なって株価は決算発表後の取引で8%超下落した。",
-      "source": "24/7 Wall St.",
-      "link": "https://247wallst.com/cards/amazon-q3-2026-earnings-amzn-01m64mgs2373wqp8ya2hpcgve3"
-    },
-    {
-      "title": "SKハイニックス、2026年第3四半期に過去最高益 大規模な株主還元策も発表",
-      "summary": "韓国の半導体大手SKハイニックスは2026年10月28日、第3四半期決算を発表し、売上高104兆6000億ウォン、営業利益83兆3000億ウォンと四半期として過去最高を記録。AIサーバー向けHBM需要の拡大が業績を押し上げ、大規模な株主還元策も発表された。",
-      "source": "Investing.com",
-      "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-sk-hynix-posts-record-q3-2026-results-shares-jump-after-hours-93CH-4977343"
-    },
-    {
-      "title": "マイクロソフト、OpenAIから四半期で100億ドルの収益を記録",
-      "summary": "2026年10月28日、マイクロソフトは9月30日締めの四半期における規制当局への開示で、OpenAIとの商用契約から100億ドルの収益を得たことを明らかにした。AI関連収益の大半をOpenAIが占める構図が浮き彫りになっている。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/"
-    },
-    {
-      "title": "Google、GeminiとSearchをより多くのアプリに開放 AIエージェント時代のウェブ再編に対応",
-      "summary": "2026年10月28日、Googleは企業が自社アプリをGeminiや検索機能に連携できる開発者向けプラットフォームを公開した。現在は米国の開発者を対象にベータ版として提供されている。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/"
-    },
-    {
-      "title": "韓国の金融業界に新たなサイバー攻撃の波、AI活用の侵入テストツールが関与か",
-      "summary": "2026年10月28日の報道によると、韓国の金融機関が新たな大規模サイバー攻撃を受けた。研究者は9月の攻撃との関連を指摘し、中国を拠点とするとみられるハッカーがAIを使った侵入テストツール「Artex」を利用したとみている。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/"
-    },
-    {
-      "title": "SuperMe、AI専門家プロフィールのネットワーク構築で2000万ドルを調達",
-      "summary": "2026年10月29日、AIエキスパートのプロフィールネットワークを手がけるSuperMeが、Forerunnerのカーステン・グリーン氏主導、Greylock Partners参加のラウンドで2000万ドルを調達したと発表した。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/29/superme-raises-20m-for-its-network-of-ai-expert-profiles/"
-    },
-    {
-      "title": "Google、新AIモデル「Gemini 4 Carbon」を発表 サイバー防御能力などを強化",
-      "summary": "2026年10月29日、Googleは前モデル「Argon」の公開からわずか2週間で新フロンティアAIモデル「Gemini 4 Carbon」を発表した。自社史上最高性能のモデルと位置付け、提供は当初一部のサイバー防御組織に限定される。",
+      "title": "OpenAI、AIの行動指針「Model Spec」を改定 記憶の使い方や人間の監督を明記",
+      "summary": "米OpenAIは10月29日（現地時間）、AIモデルの振る舞いを定めた公開文書「Model Spec」の改定版を公開し、AIの“記憶”機能の扱い方や人間による監督の重要性などを新たに明記した。",
       "source": "ITmedia NEWS",
-      "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002690/"
+      "link": "https://www.itmedia.co.jp/news/article/2610/30/2000002735/"
     },
     {
-      "title": "アドバンテスト、AI半導体「メガサイクル」で好決算 通期見通しを上方修正",
-      "summary": "2026年10月29日、半導体テスト装置大手のアドバンテストは2026年度第2四半期決算で過去最高益を更新し、通期の売上高・利益予想を上方修正した。CEOはAI半導体市場について、需要拡大が続く「スーパーサイクル」を超える「メガサイクル」局面にあると述べた。",
-      "source": "ITmedia ビジネスオンライン",
-      "link": "https://www.itmedia.co.jp/business/articles/2610/29/news050.html"
+      "title": "キオクシア、中間純利益2兆1978億円 AIデータセンター向けNAND需要が押し上げ",
+      "summary": "キオクシアホールディングスは10月30日、2026年9月中間決算を発表し、純利益が前年同期比で急拡大し2兆1978億円に達したと公表した。AI向けデータセンター需要の拡大がNAND型フラッシュメモリーの販売を押し上げた。",
+      "source": "共同通信（Yahoo!ニュース）",
+      "link": "https://news.yahoo.co.jp/articles/61dee12f306335ada999b208ef807d55f12dc569"
     },
     {
-      "title": "ルネサス、2026年第3四半期売上高が30%増 AIデータセンター需要が拡大",
-      "summary": "2026年10月29日、ルネサス エレクトロニクスは2026年12月期第3四半期(7〜9月)決算で、売上高が前年同期比30.2%増の4352億円になったと発表した。AIデータセンター向け需要の拡大が業績を押し上げ、増産投資も加速している。",
-      "source": "マイナビニュース",
-      "link": "https://news.mynavi.jp/techplus/article/20261029-5216880/"
+      "title": "インテル、好決算もPC向け半導体見通しが低迷し株価急落 日本の半導体株にも波及",
+      "summary": "インテルは10月29日（米国時間）発表の第3四半期決算で市場予想を上回ったものの、10〜12月期のPC向け半導体見通しが弱く、時間外取引で株価が急落した。この流れが30日の東京市場にも波及し、半導体関連株への売りを誘発した。",
+      "source": "NHK NEWS WEB",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261030de68260"
+    },
+    {
+      "title": "Nvidia CEO、Megaspeedとの関係や対中流出疑惑に反論「正常な取引」",
+      "summary": "米紙ニューヨーク・タイムズがシンガポール企業Megaspeedの幹部が中国のスパイ容疑で捜査対象になっていると報じたことを受け、Nvidiaのジェンスン・フアンCEOは10月29日、同社との取引は「正常で特別なものではない」と説明。チップの不正な中国流出についても調査済みで確認されなかったと述べた。",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/10/29/nvidia-jensen-huang-chinese-intelligence-asset.html"
+    },
+    {
+      "title": "Meta、AI投資拡大へ最大950億ドルの株式発行計画 Nvidia・AMD・ブロードコムも出資検討",
+      "summary": "Metaは10月26日、データセンターや計算基盤への巨額投資に充てるため、株式発行により最大950億ドル（約15兆円）を調達する計画を発表した。第1弾として約350億ドルを公募し、Nvidia・AMD・ブロードコムが合計最大50億ドル分の株式購入に関心を示していることも明らかになった。",
+      "source": "NHK NEWS WEB",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261027de66071"
+    },
+    {
+      "title": "GitHub、AIエージェントが全プルリクエストの4割を開設と発表 開発現場での活用が加速",
+      "summary": "マイクロソフトのサティア・ナデラCEOは10月28日のGitHub Universeで、AIエージェントが9月時点でGitHub上の全プルリクエストの4割以上を開設していると明らかにした。開発者によるコードのプッシュ数も過去2年分を上回る規模に達している。",
+      "source": "Crypto Briefing",
+      "link": "https://cryptobriefing.com/ai-agents-open-40-percent-github-pull-requests/"
+    },
+    {
+      "title": "OpenAIに相次ぐ訴訟、ChatGPTの助言が死亡に関与したと遺族が主張",
+      "summary": "10代の少年がChatGPTから違法薬物に関する助言を受けた後に死亡したとして遺族が提訴したケースなど、ChatGPTの回答が利用者の死亡に関与したとする訴訟が米国で相次いでいる。OpenAIは安全対策を強化しているとコメントしている。",
+      "source": "Engadget",
+      "link": "https://www.engadget.com/2171685/openai-lawsuit-wrongful-death-chatgpt-advice-overdose-sam-nelson"
     }
   ],
-  "x_trending_tech": [
-    {
-      "title": "AI導入の「後退」が世界の企業で進行中と話題",
-      "summary": "ガーディアン紙の報道を引用し、AIのミスや低品質な成果物が従業員の負担やコスト増を招き、世界中の企業がAI導入を縮小していると伝える投稿。10/29夜(日本時間21時台)の投稿。",
-      "source": "@unusual_whales",
-      "link": "https://x.com/unusual_whales/status/2115779934136545373"
-    },
-    {
-      "title": "AIアシスタント企業「Wabi」が約1.25億ドル評価で資金調達",
-      "summary": "AIアシスタントのスタートアップWabiがIVP主導で5500万ドルを調達し、企業価値12.5億ドルに達したと報じる投稿。10/29夜(日本時間22時台)の投稿。",
-      "source": "@AGTPinsights",
-      "link": "https://x.com/AGTPinsights/status/2115799167956336706"
-    },
-    {
-      "title": "「Claude Codeが顔写真14,219枚発見」投稿はフェイクと指摘",
-      "summary": "SNSで拡散した「Claude Codeがスマホから1万枚超の顔写真を見つけた」という投稿について、動画フレームを解析した結果100%フェイクエンゲージメントだと検証した投稿。10/29深夜(日本時間23時前)の投稿。",
-      "source": "@HarshithLucky3",
-      "link": "https://x.com/HarshithLucky3/status/2115805386511126591"
-    },
-    {
-      "title": "Claudeが11年来のLinuxカーネル脆弱性(CVE-2026-98432)から攻撃コードを構築",
-      "summary": "セキュリティ研究者が、2015年に導入されたLinux TCP/IPv4スタックの脆弱性をClaudeが解析し攻撃コードを作ったとして、AIによる脆弱性発見の将来性と脅威を指摘する投稿。10/29深夜(日本時間23時台)の投稿。",
-      "source": "@cyb3rops",
-      "link": "https://x.com/cyb3rops/status/2115806593635811634"
-    },
-    {
-      "title": "AIコーディング企業Cognition、セキュリティ企業Corridorを買収",
-      "summary": "Devinを開発するAI企業Cognitionが、セキュリティスタートアップCorridorの買収を発表した投稿。10/30未明(日本時間3時台)の投稿。",
-      "source": "@cognition",
-      "link": "https://x.com/cognition/status/2115872968043864146"
-    }
-  ]
+  "x_trending_tech": []
 }
