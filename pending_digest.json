@@ -1,73 +1,55 @@
 {
-  "run_label": "10/30 19:00",
+  "run_label": "10/31 07:00",
   "politics_economy": [
     {
-      "title": "日銀、政策金利1.25%で据え置き決定 ETF売却ペース加速へ、植田総裁「毎回会合で判断」",
-      "summary": "日本銀行は10月30日の金融政策決定会合で、政策金利を1.25%程度で据え置くことを賛成多数で決定した（高田創審議委員は1.5%への利上げを主張し反対）。基調的な物価上昇率が2%目標とおおむね整合的な水準にあるとの認識を示す一方、保有ETFの売却ペースを年間約3300億円から約8600億円へ加速させる方針も発表。植田総裁は会見で、12月の次回会合を含め「毎回の会合で判断する」と述べた。",
-      "source": "共同通信（Yahoo!ニュース）",
-      "link": "https://news.yahoo.co.jp/articles/c740573a3e0bb11377f0160cf9e576fe9f92eb01"
+      "title": "日銀、政策金利1.25%で据え置き決定 物価目標「2%到達」と表明",
+      "summary": "日本銀行は10月30日の金融政策決定会合で、政策金利を1.25%程度に据え置くことを賛成8反対1で決定した。基調的な物価上昇率が2%の目標とおおむね整合的な水準に達したとの認識を示した。高田創審議委員は0.25%の追加利上げを提案したが否決された。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUB300M40Q6A031C2000000/"
     },
     {
-      "title": "日経平均、1369円安で4日ぶり反落 AI・半導体株に売り集中",
-      "summary": "10月30日の東京株式市場で日経平均株価は前日比1369円36銭（2.12%）安の6万3290円11銭で取引を終え、4営業日ぶりに反落した。前日の米国市場でハイテク株が売られた流れやインテル決算後の時間外急落を受け、AI・半導体関連株が軒並み売られたことが背景。",
-      "source": "財経新聞",
-      "link": "https://www.zaikei.co.jp/article/20261030/875657.html"
+      "title": "消費税・支援金法案、衆院で審議入り 飲食料品1%への減税軸に与野党が論戦",
+      "summary": "2027年4月から2年間、食料品の消費税率を1%に引き下げる政府提出法案が10月20日、衆院本会議で審議入りした。財源約10兆円の具体化や所得連動型支援金の対象範囲が示されていない点を野党が追及している。",
+      "source": "共同通信(熊本日日新聞)",
+      "link": "https://kumanichi.com/articles/2048549"
     },
     {
-      "title": "消費税減税法案、参院に特別委員会設置へ 自民・立憲が合意",
-      "summary": "自民党の磯崎仁彦参院国対委員長と立憲民主党の斎藤嘉隆国対委員長は10月30日、国会内で会談し、消費税減税関連法案を審議するため参院に特別委員会を設置することで合意した。審議方式をめぐる与野党の対立が決着した形。",
+      "title": "高市内閣支持率42.4%に低下 5カ月連続下落で就任後最低を更新",
+      "summary": "時事通信が10月9〜12日に実施した世論調査で、高市内閣の支持率は42.4%と前月比1.7ポイント減少した。5カ月連続の下落で過去最低を更新し、農相辞任への対応の遅れが響いたとみられる。",
       "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026103000960&g=pol"
-    },
-    {
-      "title": "ドル円、日銀会合後に157円台半ばで推移",
-      "summary": "10月30日の東京外国為替市場でドル円は、日銀の金融政策決定会合を控えて円が買われる場面があったが、会合後は157円台半ばに戻した。原油高を受けたドル買いも支えとなったほか、米株安への警戒感も報じられた。",
-      "source": "ウエルスアドバイザー（Yahoo!ファイナンス）",
-      "link": "https://finance.yahoo.co.jp/news/detail/606651880eec319c0dd8c61555ad3a49d35c4596"
+      "link": "https://www.nippon.com/ja/news/yjj2026101500705/"
     }
   ],
   "tech": [
     {
-      "title": "OpenAI、AIの行動指針「Model Spec」を改定 記憶の使い方や人間の監督を明記",
-      "summary": "米OpenAIは10月29日（現地時間）、AIモデルの振る舞いを定めた公開文書「Model Spec」の改定版を公開し、AIの“記憶”機能の扱い方や人間による監督の重要性などを新たに明記した。",
-      "source": "ITmedia NEWS",
-      "link": "https://www.itmedia.co.jp/news/article/2610/30/2000002735/"
+      "title": "半導体株が総崩れ Lam Researchの供給制約警告でIntelなど急落",
+      "summary": "半導体製造装置大手Lam Researchは決算は好調だったものの、サプライチェーン制約で12月期の出荷に遅れが出る可能性を警告。Intel株は週間で約10%下落するなど、Marvell、AMDを含め半導体関連株に売りが広がった。(10月下旬)",
+      "source": "TIKR",
+      "link": "https://www.tikr.com/blog/intel-just-dropped-10-in-a-week-is-it-time-to-sell-or-load-up"
     },
     {
-      "title": "キオクシア、中間純利益2兆1978億円 AIデータセンター向けNAND需要が押し上げ",
-      "summary": "キオクシアホールディングスは10月30日、2026年9月中間決算を発表し、純利益が前年同期比で急拡大し2兆1978億円に達したと公表した。AI向けデータセンター需要の拡大がNAND型フラッシュメモリーの販売を押し上げた。",
-      "source": "共同通信（Yahoo!ニュース）",
-      "link": "https://news.yahoo.co.jp/articles/61dee12f306335ada999b208ef807d55f12dc569"
+      "title": "CoreWeave株・債券が急落 AI投資の借入依存に懸念、半導体指数も1.6兆ドル減",
+      "summary": "AI向けデータセンターを運営するCoreWeaveの株価と社債が急落し、債券利回りは15%近辺まで上昇した。負債に依存したAI投資拡大への懸念が広がり、半導体指数は6営業日で約1.6兆ドルの市場価値を失った。(10月16日)",
+      "source": "The Star(ロイター)",
+      "link": "https://www.thestar.com.my/tech/tech-news/2026/10/16/coreweave-stock-bond-set-for-weekly-plunge-as-rate-hike-fears-hit-ai-bet"
     },
     {
-      "title": "インテル、好決算もPC向け半導体見通しが低迷し株価急落 日本の半導体株にも波及",
-      "summary": "インテルは10月29日（米国時間）発表の第3四半期決算で市場予想を上回ったものの、10〜12月期のPC向け半導体見通しが弱く、時間外取引で株価が急落した。この流れが30日の東京市場にも波及し、半導体関連株への売りを誘発した。",
-      "source": "NHK NEWS WEB",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261030de68260"
+      "title": "東京株式市場、AI・半導体株中心に日経平均が3日続落",
+      "summary": "東京株式市場では日経平均株価がAI・半導体関連株を中心に3日続落した。海外のAI投資への過熱感への懸念が国内市場にも波及した。(10月26日)",
+      "source": "みんかぶ",
+      "link": "https://s.minkabu.jp/news/4642477"
     },
     {
-      "title": "Nvidia CEO、Megaspeedとの関係や対中流出疑惑に反論「正常な取引」",
-      "summary": "米紙ニューヨーク・タイムズがシンガポール企業Megaspeedの幹部が中国のスパイ容疑で捜査対象になっていると報じたことを受け、Nvidiaのジェンスン・フアンCEOは10月29日、同社との取引は「正常で特別なものではない」と説明。チップの不正な中国流出についても調査済みで確認されなかったと述べた。",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/10/29/nvidia-jensen-huang-chinese-intelligence-asset.html"
+      "title": "ランサムウェア集団「Qilin」、日本国内53社に被害 ドイツ移送の容疑者を拘束",
+      "summary": "身代金要求型ウイルス集団「Qilin」による被害が日本国内で53社確認された。製造業、サービス業、病院、学校など業種は多岐にわたり、2025年のアサヒグループホールディングスの被害も含まれるとみられる。(10月8日報道)",
+      "source": "共同通信(熊本日日新聞)",
+      "link": "https://kumanichi.com/articles/2044544"
     },
     {
-      "title": "Meta、AI投資拡大へ最大950億ドルの株式発行計画 Nvidia・AMD・ブロードコムも出資検討",
-      "summary": "Metaは10月26日、データセンターや計算基盤への巨額投資に充てるため、株式発行により最大950億ドル（約15兆円）を調達する計画を発表した。第1弾として約350億ドルを公募し、Nvidia・AMD・ブロードコムが合計最大50億ドル分の株式購入に関心を示していることも明らかになった。",
-      "source": "NHK NEWS WEB",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261027de66071"
-    },
-    {
-      "title": "GitHub、AIエージェントが全プルリクエストの4割を開設と発表 開発現場での活用が加速",
-      "summary": "マイクロソフトのサティア・ナデラCEOは10月28日のGitHub Universeで、AIエージェントが9月時点でGitHub上の全プルリクエストの4割以上を開設していると明らかにした。開発者によるコードのプッシュ数も過去2年分を上回る規模に達している。",
-      "source": "Crypto Briefing",
-      "link": "https://cryptobriefing.com/ai-agents-open-40-percent-github-pull-requests/"
-    },
-    {
-      "title": "OpenAIに相次ぐ訴訟、ChatGPTの助言が死亡に関与したと遺族が主張",
-      "summary": "10代の少年がChatGPTから違法薬物に関する助言を受けた後に死亡したとして遺族が提訴したケースなど、ChatGPTの回答が利用者の死亡に関与したとする訴訟が米国で相次いでいる。OpenAIは安全対策を強化しているとコメントしている。",
-      "source": "Engadget",
-      "link": "https://www.engadget.com/2171685/openai-lawsuit-wrongful-death-chatgpt-advice-overdose-sam-nelson"
+      "title": "OpenAI、ChatGPTに新モデル「GPT-6」と対話型UI「Intelligent UI」を導入",
+      "summary": "OpenAIはChatGPT向けに新モデル「GPT-6」と、回答にボタンやフォーム、グラフなど操作可能な要素を組み込む新機能「Intelligent UI」を導入した。有料プランは即日、無料・Goプランは翌日から利用可能になった。(10月7日発表)",
+      "source": "日本語ITメディア各社報道",
+      "link": "https://gori.me/?p=171043"
     }
   ],
   "x_trending_tech": []
