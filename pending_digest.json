@@ -1,51 +1,80 @@
 {
-  "run_label": "10/31 19:00",
+  "run_label": "11/1 07:00",
   "politics_economy": [
     {
-      "title": "10月の東京都区部CPI、前年比2.6%上昇 2カ月連続2%台",
-      "summary": "総務省が10月30日発表した10月の東京都区部消費者物価指数(生鮮食品除く、中旬速報値)は前年同月比2.6%上昇し、9月の2.7%からわずかに縮小した。全国の物価動向の先行指標とされる。",
-      "source": "日本経済新聞/時事通信",
-      "link": "https://www.nikkei.com/article/DGXZQOUA297XQ0Z21C26A0000000/"
+      "title": "日銀、10月会合で政策金利を1.25%程度に据え置き 12月利上げ視野に",
+      "summary": "日本銀行は10月30日の金融政策決定会合で、政策金利を1.25%程度で維持することを賛成8反対1で決定した。高田創審議委員は1.5%への利上げを提案したが否決され、植田総裁は基調的な物価が2%目標とおおむね整合的と述べ、12月会合での追加利上げ検討を示唆した。",
+      "source": "大和総研",
+      "link": "https://www.dir.co.jp/report/research/economics/japan/20261030_026168.html"
     },
     {
-      "title": "9月の鉱工業生産、前月比2.2%上昇 3カ月ぶりプラス",
-      "summary": "経済産業省が10月30日発表した9月の鉱工業生産指数速報は前月比2.2%上昇し、市場予想(+1.2%前後)を上回った。自動車工業や生産用機械工業がけん引し、基調判断は「一進一退」で据え置かれた。",
-      "source": "NHK/共同通信",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261030de68191"
+      "title": "米ナスダック総合、AI投資の持続性懸念で3%安 5カ月ぶりの大幅下落",
+      "summary": "10月30日の米株式市場でナスダック総合指数が前日比約3%下落し、5カ月ぶりの大幅安となった。巨額のAI関連投資が将来の収益成長につながるのか懐疑的な見方が広がったことが背景で、日本株への影響も注視されている。",
+      "source": "日本経済新聞",
+      "link": "https://nikkei.com/article/DGXZQOGN30CPC0Q6A031C2000000"
     }
   ],
   "tech": [
     {
-      "title": "DoorDash、Instacartを約170億ドルで買収へ 米フードデリバリー再編",
-      "summary": "DoorDashは10月28日、食品宅配大手Instacartを株式1株あたり65ドル、総額約170億ドルで買収する契約を締結したと発表した。対価は現金とDoorDash株式の組み合わせで、取引完了は2027年末から2028年前半を見込む。",
-      "source": "DoorDash/Reuters",
-      "link": "https://www.sec.gov/Archives/edgar/data/0001792789/000179278926000062/proddashex991-pressrelease.htm"
+      "title": "NVIDIA、NscaleのAnthropic向け大型データセンター融資に保証検討",
+      "summary": "NVIDIAは、AIクラウド企業NscaleがWestバージニア州に建設予定のAnthropic向けデータセンターについて、数十億ドル規模の債務保証を検討していると10月30日に報じられた。Nscaleが支払いを履行できない場合、NVIDIAが一時的に施設を引き継ぐ案とされる。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia"
     },
     {
-      "title": "OpenAI、AIが数学・計算機科学・物理学で新たな発見と主張",
-      "summary": "OpenAIは10月27日、自社モデルが数学、計算機科学、物理学の分野で新たな発見を生み出したと発表し、「局所平滑化予想」の証明などを例示した。外部研究者による検証が進められている。",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/economy/2026/10/27/ai-makes-discoveries-in-mathematics-computer-science-physics-openai-says"
+      "title": "Salesforce、国防テック企業Rune Technologiesを約3.75億ドルで買収へ",
+      "summary": "Salesforceは10月30日、米軍の物流・補給予測向けAIソフトを手がけるRune Technologiesを約3.75億ドルで買収する契約を結んだと報じられた。買収ラッシュが続くSalesforceの最新の一手となる。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune"
     },
     {
-      "title": "カプコン、1170万件のアカウント情報流出を確認",
-      "summary": "カプコンは「CAPCOM ID」への不正アクセスにより、メールアドレスやアカウント作成日・ログイン履歴・IPアドレスなど約1170万件の情報が流出したと発表した。10月19日に不正アクセスを検知、23日に被害範囲の調査を終えたとしている。パスワードやクレジットカード情報の流出は無いという。",
-      "source": "BleepingComputer",
-      "link": "https://bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts"
+      "title": "プライバシー重視AIアシスタント「Ollie」、11月6日にサービス終了",
+      "summary": "個人向けAIアシスタント「Ollie」が11月6日にサービスを終了すると10月30日に発表した。競争激化で資金調達と成長の両立が難しくなったとCEOが説明している。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/"
     },
     {
-      "title": "アルファベット(Google)、AI投資への懐疑広がり株価下落 第3四半期決算",
-      "summary": "アルファベットは10月28日発表の第3四半期決算で売上・利益が市場予想を下回り、巨額のAI投資に見合う収益をまだ生み出せていないとの見方から株価が時間外で下落した。",
-      "source": "The National News(ロイター)",
-      "link": "https://www.thenationalnews.com/news/us/2026/10/28/alphabet-stock-drops-after-profit-and-sales-fall/"
+      "title": "DoorDash CEO、AIエージェント経由の注文は「数百件程度」と明言",
+      "summary": "DoorDashのCEOは10月30日、同社サービスでAIエージェントを通じて行われた注文はまだ数百件規模にとどまると述べた。AIエージェント経由の自動発注が急拡大しているとの見方に一定の実態を示した。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents"
+    },
+    {
+      "title": "AI投資への懐疑広がりハイテク株急落、Amazon決算が追い打ち",
+      "summary": "10月30日、Nasdaq AI関連指数が一時3.5%超下落しテクニカル調整入りした。AlphabetやAmazonなど大手の中核事業がAI投資負担に圧迫されるとの懸念が強まったことが背景。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-30/tech-stocks-poised-to-drop-after-amazon-adds-to-ai-spending-fear"
+    },
+    {
+      "title": "パナソニック、AI・半導体関連事業に920億円投資",
+      "summary": "パナソニックは10月30日、AIサーバー向け基板材料やコンデンサの生産体制を国内外で強化するため920億円を投資すると発表した。三重県には次世代半導体材料の研究開発拠点も新設する。",
+      "source": "マイナビTECH+",
+      "link": "https://news.mynavi.jp/techplus/article/20261030-5223483/"
+    },
+    {
+      "title": "パナソニックHD、AI需要拡大で利益目標を2年前倒し",
+      "summary": "パナソニックホールディングスは10月30日の決算発表で、AI関連需要の拡大を受けて利益目標の達成を2年前倒しする方針を示した。社長は「改革はまだ2合目、3合目」と述べている。",
+      "source": "マイナビTECH+",
+      "link": "https://news.mynavi.jp/techplus/article/20261030-5224242/"
+    },
+    {
+      "title": "日本組織狙うサイバー攻撃、44のAIエージェントで偵察から情報窃取まで自動化",
+      "summary": "セキュリティ企業の調査で、日本の組織を狙った攻撃者が44のAIエージェントに作業を分担させ、偵察から情報窃取までを自動化していた実態が10月31日に報じられた。AI悪用型攻撃の高度化を示す事例とされる。",
+      "source": "マイナビTECH+",
+      "link": "https://news.mynavi.jp/techplus/article/20261031-5222776/"
+    },
+    {
+      "title": "OpenAI、新規資金調達の目標額を200億ドルに下方修正と報道",
+      "summary": "Financial Timesは10月31日、OpenAIが進めている新規資金調達の目標額を従来の300億ドルから200億ドルへ引き下げたと報じた。Wall Street Journalによれば現時点で調達額は110億ドルにとどまり、大口投資家の反応は鈍いという。",
+      "source": "TechCrunch(Financial Times)",
+      "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/"
+    },
+    {
+      "title": "Anthropic、IPO後の格付けは「ジャンク」上位水準の見通しと報道",
+      "summary": "Financial Timesは10月30日、Anthropicが新規株式公開(IPO)後に大手格付け機関から「ジャンク」債に区分される中でも高めの格付けを得る見通しだと報じた。",
+      "source": "TechCrunch(Financial Times)",
+      "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says"
     }
   ],
-  "x_trending_tech": [
-    {
-      "title": "AI業界デイリーまとめ: NvidiaCEOが中国スパイ疑惑の標的に、Anthropicが自社AIの会話を監視する仕組みを導入",
-      "summary": "AI系ニュースレター「The Rundown AI」が10/30朝(10:30 AM, Oct 30, 2026)に投稿した当日のAI業界まとめ。NVIDIA CEOが中国のスパイ疑惑の標的になったとの報道や、Anthropicが自社AIに会話内容を監視させる取り組みを始めたことなどを紹介している。",
-      "source": "@TheRundownAI",
-      "link": "https://x.com/TheRundownAI/status/2116115471137198534"
-    }
-  ]
+  "x_trending_tech": []
 }
