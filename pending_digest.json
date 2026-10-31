@@ -1,56 +1,51 @@
 {
-  "run_label": "10/31 07:00",
+  "run_label": "10/31 19:00",
   "politics_economy": [
     {
-      "title": "日銀、政策金利1.25%で据え置き決定 物価目標「2%到達」と表明",
-      "summary": "日本銀行は10月30日の金融政策決定会合で、政策金利を1.25%程度に据え置くことを賛成8反対1で決定した。基調的な物価上昇率が2%の目標とおおむね整合的な水準に達したとの認識を示した。高田創審議委員は0.25%の追加利上げを提案したが否決された。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUB300M40Q6A031C2000000/"
+      "title": "10月の東京都区部CPI、前年比2.6%上昇 2カ月連続2%台",
+      "summary": "総務省が10月30日発表した10月の東京都区部消費者物価指数(生鮮食品除く、中旬速報値)は前年同月比2.6%上昇し、9月の2.7%からわずかに縮小した。全国の物価動向の先行指標とされる。",
+      "source": "日本経済新聞/時事通信",
+      "link": "https://www.nikkei.com/article/DGXZQOUA297XQ0Z21C26A0000000/"
     },
     {
-      "title": "消費税・支援金法案、衆院で審議入り 飲食料品1%への減税軸に与野党が論戦",
-      "summary": "2027年4月から2年間、食料品の消費税率を1%に引き下げる政府提出法案が10月20日、衆院本会議で審議入りした。財源約10兆円の具体化や所得連動型支援金の対象範囲が示されていない点を野党が追及している。",
-      "source": "共同通信(熊本日日新聞)",
-      "link": "https://kumanichi.com/articles/2048549"
-    },
-    {
-      "title": "高市内閣支持率42.4%に低下 5カ月連続下落で就任後最低を更新",
-      "summary": "時事通信が10月9〜12日に実施した世論調査で、高市内閣の支持率は42.4%と前月比1.7ポイント減少した。5カ月連続の下落で過去最低を更新し、農相辞任への対応の遅れが響いたとみられる。",
-      "source": "時事通信",
-      "link": "https://www.nippon.com/ja/news/yjj2026101500705/"
+      "title": "9月の鉱工業生産、前月比2.2%上昇 3カ月ぶりプラス",
+      "summary": "経済産業省が10月30日発表した9月の鉱工業生産指数速報は前月比2.2%上昇し、市場予想(+1.2%前後)を上回った。自動車工業や生産用機械工業がけん引し、基調判断は「一進一退」で据え置かれた。",
+      "source": "NHK/共同通信",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261030de68191"
     }
   ],
   "tech": [
     {
-      "title": "半導体株が総崩れ Lam Researchの供給制約警告でIntelなど急落",
-      "summary": "半導体製造装置大手Lam Researchは決算は好調だったものの、サプライチェーン制約で12月期の出荷に遅れが出る可能性を警告。Intel株は週間で約10%下落するなど、Marvell、AMDを含め半導体関連株に売りが広がった。(10月下旬)",
-      "source": "TIKR",
-      "link": "https://www.tikr.com/blog/intel-just-dropped-10-in-a-week-is-it-time-to-sell-or-load-up"
+      "title": "DoorDash、Instacartを約170億ドルで買収へ 米フードデリバリー再編",
+      "summary": "DoorDashは10月28日、食品宅配大手Instacartを株式1株あたり65ドル、総額約170億ドルで買収する契約を締結したと発表した。対価は現金とDoorDash株式の組み合わせで、取引完了は2027年末から2028年前半を見込む。",
+      "source": "DoorDash/Reuters",
+      "link": "https://www.sec.gov/Archives/edgar/data/0001792789/000179278926000062/proddashex991-pressrelease.htm"
     },
     {
-      "title": "CoreWeave株・債券が急落 AI投資の借入依存に懸念、半導体指数も1.6兆ドル減",
-      "summary": "AI向けデータセンターを運営するCoreWeaveの株価と社債が急落し、債券利回りは15%近辺まで上昇した。負債に依存したAI投資拡大への懸念が広がり、半導体指数は6営業日で約1.6兆ドルの市場価値を失った。(10月16日)",
-      "source": "The Star(ロイター)",
-      "link": "https://www.thestar.com.my/tech/tech-news/2026/10/16/coreweave-stock-bond-set-for-weekly-plunge-as-rate-hike-fears-hit-ai-bet"
+      "title": "OpenAI、AIが数学・計算機科学・物理学で新たな発見と主張",
+      "summary": "OpenAIは10月27日、自社モデルが数学、計算機科学、物理学の分野で新たな発見を生み出したと発表し、「局所平滑化予想」の証明などを例示した。外部研究者による検証が進められている。",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/economy/2026/10/27/ai-makes-discoveries-in-mathematics-computer-science-physics-openai-says"
     },
     {
-      "title": "東京株式市場、AI・半導体株中心に日経平均が3日続落",
-      "summary": "東京株式市場では日経平均株価がAI・半導体関連株を中心に3日続落した。海外のAI投資への過熱感への懸念が国内市場にも波及した。(10月26日)",
-      "source": "みんかぶ",
-      "link": "https://s.minkabu.jp/news/4642477"
+      "title": "カプコン、1170万件のアカウント情報流出を確認",
+      "summary": "カプコンは「CAPCOM ID」への不正アクセスにより、メールアドレスやアカウント作成日・ログイン履歴・IPアドレスなど約1170万件の情報が流出したと発表した。10月19日に不正アクセスを検知、23日に被害範囲の調査を終えたとしている。パスワードやクレジットカード情報の流出は無いという。",
+      "source": "BleepingComputer",
+      "link": "https://bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts"
     },
     {
-      "title": "ランサムウェア集団「Qilin」、日本国内53社に被害 ドイツ移送の容疑者を拘束",
-      "summary": "身代金要求型ウイルス集団「Qilin」による被害が日本国内で53社確認された。製造業、サービス業、病院、学校など業種は多岐にわたり、2025年のアサヒグループホールディングスの被害も含まれるとみられる。(10月8日報道)",
-      "source": "共同通信(熊本日日新聞)",
-      "link": "https://kumanichi.com/articles/2044544"
-    },
-    {
-      "title": "OpenAI、ChatGPTに新モデル「GPT-6」と対話型UI「Intelligent UI」を導入",
-      "summary": "OpenAIはChatGPT向けに新モデル「GPT-6」と、回答にボタンやフォーム、グラフなど操作可能な要素を組み込む新機能「Intelligent UI」を導入した。有料プランは即日、無料・Goプランは翌日から利用可能になった。(10月7日発表)",
-      "source": "日本語ITメディア各社報道",
-      "link": "https://gori.me/?p=171043"
+      "title": "アルファベット(Google)、AI投資への懐疑広がり株価下落 第3四半期決算",
+      "summary": "アルファベットは10月28日発表の第3四半期決算で売上・利益が市場予想を下回り、巨額のAI投資に見合う収益をまだ生み出せていないとの見方から株価が時間外で下落した。",
+      "source": "The National News(ロイター)",
+      "link": "https://www.thenationalnews.com/news/us/2026/10/28/alphabet-stock-drops-after-profit-and-sales-fall/"
     }
   ],
-  "x_trending_tech": []
+  "x_trending_tech": [
+    {
+      "title": "AI業界デイリーまとめ: NvidiaCEOが中国スパイ疑惑の標的に、Anthropicが自社AIの会話を監視する仕組みを導入",
+      "summary": "AI系ニュースレター「The Rundown AI」が10/30朝(10:30 AM, Oct 30, 2026)に投稿した当日のAI業界まとめ。NVIDIA CEOが中国のスパイ疑惑の標的になったとの報道や、Anthropicが自社AIに会話内容を監視させる取り組みを始めたことなどを紹介している。",
+      "source": "@TheRundownAI",
+      "link": "https://x.com/TheRundownAI/status/2116115471137198534"
+    }
+  ]
 }
