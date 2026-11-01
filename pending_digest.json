@@ -1,85 +1,31 @@
 {
-  "run_label": "11/1 19:00",
+  "run_label": "11/2 07:00",
   "politics_economy": [
     {
-      "title": "消費税減税法案、与党が6日の衆院通過目指す 首相出席が焦点",
-      "summary": "与党は飲食料品の消費税率を1%に引き下げる関連法案について、11月6日の衆院通過を目指す方針。高市首相が衆院財務金融委員会で答弁に応じるかどうかを巡り、与野党は4日に協議する見通し(10/31時事通信)。",
-      "source": "時事通信",
-      "link": "https://news.yahoo.co.jp/articles/beb4d4a22212e2113aff8a42990ce5d43e668416"
-    },
-    {
-      "title": "防災庁、11月2日発足 細野大臣「1週間分の備え」を全国民に緊急要請へ",
-      "summary": "政府の災害対応の司令塔となる防災庁が11月2日に発足する。細野豪志防災担当大臣(兼復興相)は発足初日、省庁・自治体・国民に向けて食料や水、簡易トイレなど最低1週間分の備えを求める「緊急要請」を出す方針。",
-      "source": "FNNプライムオンライン",
-      "link": "https://news.yahoo.co.jp/articles/692be61e331e1eac5ac2c17d741a0cfd308b39b1"
-    },
-    {
-      "title": "熊本市長選、11月1日に告示 15日投開票",
-      "summary": "任期満了に伴う熊本市長選が本日11月1日に告示され、15日に投開票される。4選を目指す現職の大西一史氏に対し、複数の新人が挑む構図。",
-      "source": "熊本日日新聞",
-      "link": "https://kumanichi.com/articles/2008399"
-    },
-    {
-      "title": "キオクシア、7〜9月期決算を発表 最高益も株価は下落",
-      "summary": "キオクシアホールディングスは10月30日、2027年3月期第2四半期(7〜9月)の決算を発表し、AI需要を背景に過去最高水準の純利益を確保した一方、市場の高い期待に届かなかったとして株価は大きく下落した。",
-      "source": "テレビ朝日(ANN)",
-      "link": "https://news.yahoo.co.jp/articles/a5a7a71d528d3c2d2c6407af8cf70d430d531d35"
-    },
-    {
-      "title": "野党再結集のカギは選挙区調整、「大きな固まり」は困難と専門家",
-      "summary": "国学院大学の山本健太郎教授は、野党が高市政権に対抗する「大きな固まり」を作るには選挙区調整が最大のカギになるが、実現は容易ではないと分析した(10/31時事通信)。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026103100289&g=pol&m=rss"
+      "title": "防災庁、11月2日に本日発足 細野防災相「緊急要請」全文を公表へ",
+      "summary": "災害対応の司令塔となる防災庁が11月2日に発足した。細野豪志防災担当相は発足初日に国民・自治体・各省庁に向けて、食料や水、簡易トイレなど最低1週間分の備蓄などを求める「緊急要請」の全文を公表する方針。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUA282RX0Y6A021C2000000/"
     }
   ],
   "tech": [
     {
-      "title": "Anthropic、IPO目論見書公開後にBig Tech決算でAI投資への懸念強まる",
-      "summary": "Anthropicが上場目論見書を公開した直後、Microsoft・Google・Amazonの四半期決算が相次ぎ、AIインフラ投資が需要に追いつくかへの市場の不安が強まっていると10月31日付で報じられた。",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/10/31/anthropic-ipo-ai-spending.html"
+      "title": "韓国の10月輸出、半導体がけん引し前年比ほぼ倍増",
+      "summary": "韓国の10月の輸出額は前年同月比93.7%増の1152億8000万ドルとなり、AI投資ブームによる半導体需要の拡大が押し上げた。11/1付ロイター報道。",
+      "source": "ロイター(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/7f5a25757491bd57aca2fc883dc16be9f6c69298"
     },
     {
-      "title": "OpenAIのアルトマン氏、サムスン首脳とメモリー不足を協議",
-      "summary": "OpenAIのサム・アルトマンCEOは10月31日(現地時間)、韓国でサムスン幹部と会談し、深刻化するメモリー半導体不足とAI基盤整備での協力について話し合った。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-31/openai-sam-altman-samsung-executives-memory-crunch-deepens"
+      "title": "メモリー半導体大手5社、利益でアルファベットなど米テック大手を上回る",
+      "summary": "キオクシアやサムスンなど世界の主要メモリー半導体メーカー5社の前四半期の営業・純利益合計が、初めて米大手テック5社を上回ったとNikkei Asiaが10/31付で報道。AIブームの持続性への懐疑も指摘されている。",
+      "source": "Nikkei Asia",
+      "link": "https://asia.nikkei.com/business/tech/semiconductors/memory-chip-makers-outearn-alphabet-other-tech-giants-on-ai-demand"
     },
     {
-      "title": "「AI投資ブームにひび」 巨額インフラ投資への懐疑論強まる",
-      "summary": "大手テック企業による相次ぐ巨額のAIインフラ投資計画に対し、投資家の間で持続可能性への懐疑論が強まっていると10月30日付で報じられた。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/"
-    },
-    {
-      "title": "Amazon、AWS増収も市場の期待届かず決算後に株価急落",
-      "summary": "Amazonは10月29日発表の第3四半期決算でAWS売上高が前年比39%増と好調だったが、投資家の期待に届かなかったとして株価は下落。2026年の設備投資計画は約2200億ドルで維持した。",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/10/30/amazon-earnings-analysts-stock.html"
-    },
-    {
-      "title": "AWSは「1兆ドル規模の事業」目指すとJassy CEO、先行投資の重さも認める",
-      "summary": "Amazon CEOのアンディ・ジャシー氏は、AWSを将来的に1兆ドル規模の事業にする考えを示す一方、そのために巨額の先行投資が必要になるとも述べた(10月29日付)。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/"
-    },
-    {
-      "title": "Alphabet株、四半期ベースで過去最大級の急落 FCFが予想外のマイナスに",
-      "summary": "Alphabetは10月29日、第3四半期のフリーキャッシュフローが市場予想に反してマイナス約90.7億ドルになったと発表し、株価は約13%急落、時価総額で約5000億ドルを失った。",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/10/29/alphabet-google-microsoft-msft-shares-today-earnings.html"
-    },
-    {
-      "title": "Microsoft、AI基盤投資の原資として250億ドルの起債を計画",
-      "summary": "Microsoftは10月29日、AIインフラへの投資資金を確保するため250億ドル規模の債券発行の価格付けを行ったと発表。主要クラウド各社の中で唯一フリーキャッシュフローのプラスを維持している。",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/10/29/microsoft-25-billion-debt-offering.html"
-    },
-    {
-      "title": "Binanceで史上最大規模とされる約63億ドル相当のハッキング被害",
-      "summary": "暗号資産取引所Binanceで10月30日、約63億ドル相当が流出する取引所史上最大級のハッキングが発生し、ビットコインなど市場全体が一時下落。セキュリティ企業TRM Labsは北朝鮮の関与の可能性を指摘している。",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/10/30/bitcoin-ether-price-binance-security-scare-rattles-crypto-markets.html"
+      "title": "英AIチップ新興Fractile、Anthropicとの契約を背景に65億ドル評価額で資金調達交渉",
+      "summary": "ロンドンのAI推論チップ企業Fractileが、Anthropicとの約2.5億ドル規模のチップ供給契約を背景に、65億ドルの評価額で約6億ドルの調達交渉に入ったとBloombergが報道。5月時点の評価額(約10億ドル)から大幅に上昇。",
+      "source": "Bloomberg(The Next Web)",
+      "link": "https://thenextweb.com/news/fractile-6-5bn-valuation-anthropic-chip-deal"
     }
   ],
   "x_trending_tech": []
