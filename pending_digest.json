@@ -1,32 +1,87 @@
 {
-  "run_label": "11/2 07:00",
+  "run_label": "11/2 19:00",
   "politics_economy": [
     {
-      "title": "防災庁、11月2日に本日発足 細野防災相「緊急要請」全文を公表へ",
-      "summary": "災害対応の司令塔となる防災庁が11月2日に発足した。細野豪志防災担当相は発足初日に国民・自治体・各省庁に向けて、食料や水、簡易トイレなど最低1週間分の備蓄などを求める「緊急要請」の全文を公表する方針。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUA282RX0Y6A021C2000000/"
+      "title": "防災庁、本日発足 国民に「緊急要請」を公表",
+      "summary": "11月2日、災害対応の司令塔となる防災庁が発足した。細野豪志防災担当相は発足初日に、食料・水・簡易トイレなど最低1週間分の備蓄を国民・自治体・各省庁に求める「緊急要請」の全文を公表する方針。",
+      "source": "熊本日日新聞",
+      "link": "https://kumanichi.com/articles/2039407"
+    },
+    {
+      "title": "高市内閣支持率64.9%に上昇、JNN世論調査",
+      "summary": "TBS・JNNが10/31・11/1に実施した世論調査で、高市内閣の支持率は64.9%と前回から1.9ポイント上昇した。小泉内閣以降で最高水準との指摘もある一方、政府のサイバー攻撃対応を「評価しない」とした人は58%に上った。",
+      "source": "JNN(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/pickup/6601017"
+    },
+    {
+      "title": "日経平均、208円安の63081円で続落",
+      "summary": "11月2日の東京株式市場で日経平均株価は前週末比208.25円安の63,081.86円で終えた。前週末の米国市場でインテルやアマゾンの決算が嫌気されハイテク株が売られた流れを受け、東京でもAI・半導体関連株に売りが出た。",
+      "source": "財経新聞",
+      "link": "https://www.zaikei.co.jp/article/20261102/875868.html"
+    },
+    {
+      "title": "消費税減税法案、衆院で与野党対立続く 首相出席が焦点",
+      "summary": "飲食料品の消費税率を1%引き下げる政府提出の減税関連法案について、与党は早期の採決に向け協議を進めたい考えだが、野党は高市首相の委員会出席を求めており、審議は対立が続いている(11/1時点)。",
+      "source": "NHK",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261101de69291"
+    },
+    {
+      "title": "半導体関連株に売り、キオクシア急落が日経平均の重荷に",
+      "summary": "11月2日の東京市場ではAI・半導体関連株の動きが分かれ、決算が市場予想を下回ったキオクシアの急落が相場の重荷となった。前週末の米半導体株安も影響し、日経平均は続落した。",
+      "source": "財経新聞",
+      "link": "https://www.zaikei.co.jp/article/20261102/875884.html"
     }
   ],
   "tech": [
     {
-      "title": "韓国の10月輸出、半導体がけん引し前年比ほぼ倍増",
-      "summary": "韓国の10月の輸出額は前年同月比93.7%増の1152億8000万ドルとなり、AI投資ブームによる半導体需要の拡大が押し上げた。11/1付ロイター報道。",
-      "source": "ロイター(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/7f5a25757491bd57aca2fc883dc16be9f6c69298"
+      "title": "DeepSeek、自律動作する試験的コーディングエージェント「Super-Agent」をOSS公開",
+      "summary": "中国DeepSeekが、単一のGitHubリポジトリに対して自律的にタスクを進める研究プロトタイプのコーディングエージェント「Super-Agent」をオープンソースで公開した。開発元は研究段階のプロトタイプと位置付けている。",
+      "source": "TheNextWeb",
+      "link": "https://thenextweb.com/news/deepseek-super-agent-open-source-coding-agent"
     },
     {
-      "title": "メモリー半導体大手5社、利益でアルファベットなど米テック大手を上回る",
-      "summary": "キオクシアやサムスンなど世界の主要メモリー半導体メーカー5社の前四半期の営業・純利益合計が、初めて米大手テック5社を上回ったとNikkei Asiaが10/31付で報道。AIブームの持続性への懐疑も指摘されている。",
-      "source": "Nikkei Asia",
-      "link": "https://asia.nikkei.com/business/tech/semiconductors/memory-chip-makers-outearn-alphabet-other-tech-giants-on-ai-demand"
+      "title": "サウジAramco、AI企業HUMAINの49%株式取得を完了 約26億ドル",
+      "summary": "サウジアラビアの国営石油会社Aramcoは、公的投資基金(PIF)とともにサウジのAI企業HUMAINの49%株式取得を完了したと発表した。取得額は約26億ドルで、HUMAINのグローバル展開加速を目的としている。",
+      "source": "Aramco",
+      "link": "https://www.aramco.com/en/news-media/news/2026/pif-and-aramco-close-humain-transaction-to-accelerate-humains-global-growth"
     },
     {
-      "title": "英AIチップ新興Fractile、Anthropicとの契約を背景に65億ドル評価額で資金調達交渉",
-      "summary": "ロンドンのAI推論チップ企業Fractileが、Anthropicとの約2.5億ドル規模のチップ供給契約を背景に、65億ドルの評価額で約6億ドルの調達交渉に入ったとBloombergが報道。5月時点の評価額(約10億ドル)から大幅に上昇。",
-      "source": "Bloomberg(The Next Web)",
-      "link": "https://thenextweb.com/news/fractile-6-5bn-valuation-anthropic-chip-deal"
+      "title": "米新興Marble、観察して学ぶ「AIコワーカー」開発に370万ドルのプレシード調達",
+      "summary": "人の作業を観察しながら学習する「AIコワーカー」の開発を目指す新興企業Marble Cognitionが、Heartcore・Seedcamp主導のプレシードラウンドで370万ドルを調達したと発表した。資金は推論能力の拡張やミュンヘンでのエンジニア採用に使う計画(11/2付)。",
+      "source": "Tech.eu",
+      "link": "https://tech.eu/2026/11/02/marble-raises-375m-to-build-ai-coworkers-that-learn-by-watching"
+    },
+    {
+      "title": "OpenAIとAnthropic、計算理論の難問「指数時間仮説」に関する成果を主張",
+      "summary": "OpenAIとAnthropicがそれぞれ、計算複雑性理論における27年来の未解決問題「指数時間仮説」に関わる3-SAT問題で成果を得たと報告したと海外メディアが報道。独立した検証はまだ行われていない。",
+      "source": "Science",
+      "link": "https://www.science.org/content/article/ai-cracks-27-year-old-pillar-computer-science-openai-and-anthropic-claim"
+    },
+    {
+      "title": "Anthropic、IPOロードショーを11月9日の週に開始との報道",
+      "summary": "AnthropicのNASDAQ上場(ティッカー「ANT」)に向けた投資家向けロードショーが11月9日の週に始まり、感謝祭(11/26)前の取引開始を目指しているとBloombergなどが報道。10/26の正式な上場申請を受けた見通し。",
+      "source": "implicator.ai",
+      "link": "https://www.implicator.ai/anthropic-could-start-ipo-roadshow-week-of-nov-9-putting-debut-before-thanksgiving/"
+    },
+    {
+      "title": "NVIDIAのHugging Face買収(129億ドル)に米司法省が反トラスト審査",
+      "summary": "ロイターの報道によると、米司法省(DOJ)がNVIDIAによるHugging Faceの約129億ドル規模の買収について、AI分野の競争への影響を審査しているもよう。買収は2027年上半期の完了を見込んでいるとされる。",
+      "source": "Reuters(報道まとめ)",
+      "link": "https://thenextweb.com/news/doj-nvidia-hugging-face-deal-antitrust-inquiry"
+    },
+    {
+      "title": "Apple、NVIDIAを抑え時価総額で世界首位に返り咲き",
+      "summary": "10月30日(金)の米株式市場の終値で、AppleはNVIDIAを上回り時価総額約5.03兆ドルで世界首位の企業となった。半導体関連株が売られる中でのAppleの首位返り咲きとなった。",
+      "source": "Technology.org",
+      "link": "https://www.technology.org/2026/11/02/apple-passes-nvidia-most-valuable-company-5-03-trillion/"
     }
   ],
-  "x_trending_tech": []
+  "x_trending_tech": [
+    {
+      "title": "Karpathy氏、YouTubeのレコメンドを批判し「HackerTube」構想を投稿",
+      "summary": "AI研究者のAndrej Karpathy氏が、YouTubeのレコメンドアルゴリズムへの批判とともに、自身の新プロジェクト「HackerTube」について投稿。AI開発者コミュニティで話題になっている(11/2付AIダイジェストで取り上げられた投稿)。",
+      "source": "@karpathy",
+      "link": "https://x.com/karpathy/status/2116957135661945283"
+    }
+  ]
 }
