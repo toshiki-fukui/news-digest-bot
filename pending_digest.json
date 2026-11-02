@@ -1,87 +1,98 @@
 {
-  "run_label": "11/2 19:00",
+  "run_label": "11/3 07:00",
   "politics_economy": [
     {
-      "title": "防災庁、本日発足 国民に「緊急要請」を公表",
-      "summary": "11月2日、災害対応の司令塔となる防災庁が発足した。細野豪志防災担当相は発足初日に、食料・水・簡易トイレなど最低1週間分の備蓄を国民・自治体・各省庁に求める「緊急要請」の全文を公表する方針。",
-      "source": "熊本日日新聞",
-      "link": "https://kumanichi.com/articles/2039407"
+      "title": "衆院定数31削減案、今国会で成立目指す 自民「中小政党に配慮」",
+      "summary": "自民党が示した衆院比例定数31削減案について、村井国対委員長が今国会での法案成立を目指す考えを表明。国民民主党や日本維新の会も受け入れる方向で調整しているとされる。",
+      "source": "熊本日日新聞(共同通信)",
+      "link": "https://kumanichi.com/articles/2050345"
     },
     {
-      "title": "高市内閣支持率64.9%に上昇、JNN世論調査",
-      "summary": "TBS・JNNが10/31・11/1に実施した世論調査で、高市内閣の支持率は64.9%と前回から1.9ポイント上昇した。小泉内閣以降で最高水準との指摘もある一方、政府のサイバー攻撃対応を「評価しない」とした人は58%に上った。",
-      "source": "JNN(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/pickup/6601017"
+      "title": "防衛財源に法人増税浮上、次期防衛費は年10兆円超に膨張の公算",
+      "summary": "2027年度からの次期防衛力整備計画で、防衛費が70兆〜80兆円規模に達する可能性があるとの見方が政権内に浮上。財源として法人税の追加増税案も検討されている。",
+      "source": "熊本日日新聞(共同通信)",
+      "link": "https://kumanichi.com/articles/2047661"
     },
     {
-      "title": "日経平均、208円安の63081円で続落",
-      "summary": "11月2日の東京株式市場で日経平均株価は前週末比208.25円安の63,081.86円で終えた。前週末の米国市場でインテルやアマゾンの決算が嫌気されハイテク株が売られた流れを受け、東京でもAI・半導体関連株に売りが出た。",
-      "source": "財経新聞",
-      "link": "https://www.zaikei.co.jp/article/20261102/875868.html"
+      "title": "武部農水相、公共事業受注企業から寄付受領 謝罪し訂正へ",
+      "summary": "武部新太郎農水相が代表を務める自民党支部が、国の公共事業を受注する企業から寄付を受けていたと判明し、本人が謝罪。収支報告書の訂正や返金を進める方針。",
+      "source": "熊本日日新聞(共同通信)",
+      "link": "https://kumanichi.com/articles/2048909"
     },
     {
-      "title": "消費税減税法案、衆院で与野党対立続く 首相出席が焦点",
-      "summary": "飲食料品の消費税率を1%引き下げる政府提出の減税関連法案について、与党は早期の採決に向け協議を進めたい考えだが、野党は高市首相の委員会出席を求めており、審議は対立が続いている(11/1時点)。",
-      "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261101de69291"
+      "title": "GMOへの不正アクセス、北朝鮮系ハッカー集団の関与か 政府に報告",
+      "summary": "GMOインターネットグループへの一連の不正アクセスについて、同社が北朝鮮系ハッカー集団の関与の可能性が高いと分析し、政府に報告したことが判明。マルウェアの痕跡などが根拠とされる。",
+      "source": "共同通信",
+      "link": "https://news.yahoo.co.jp/articles/e93001b1bba67a2c7cbf0f45223c362ef61a4680"
     },
     {
-      "title": "半導体関連株に売り、キオクシア急落が日経平均の重荷に",
-      "summary": "11月2日の東京市場ではAI・半導体関連株の動きが分かれ、決算が市場予想を下回ったキオクシアの急落が相場の重荷となった。前週末の米半導体株安も影響し、日経平均は続落した。",
-      "source": "財経新聞",
-      "link": "https://www.zaikei.co.jp/article/20261102/875884.html"
+      "title": "米中間選挙、11月3日投開票 下院は民主党が過半数奪還の可能性",
+      "summary": "米国の中間選挙が3日に投開票を迎える。下院では民主党が過半数を奪還する可能性が高いとの見方が出ており、激戦州ミシガンでは民主党議員が共和党候補支持を表明するなど波乱の動きも報じられている。",
+      "source": "日テレNEWS NNN",
+      "link": "https://news.yahoo.co.jp/articles/eb17447286c6ea079991cde0fe01366446dd977d"
     }
   ],
   "tech": [
     {
-      "title": "DeepSeek、自律動作する試験的コーディングエージェント「Super-Agent」をOSS公開",
-      "summary": "中国DeepSeekが、単一のGitHubリポジトリに対して自律的にタスクを進める研究プロトタイプのコーディングエージェント「Super-Agent」をオープンソースで公開した。開発元は研究段階のプロトタイプと位置付けている。",
-      "source": "TheNextWeb",
-      "link": "https://thenextweb.com/news/deepseek-super-agent-open-source-coding-agent"
+      "title": "ノジマ、オンライン会員700万件の個人情報が漏えい",
+      "summary": "ノジマは「ノジマオンライン」と中古スマホ買取サイトの会員管理システムへの不正アクセスにより、氏名・住所・電話番号など約700万件の個人情報が流出したと発表。両サイトは一時休止中(11/2発表)。",
+      "source": "共同通信",
+      "link": "https://news.yahoo.co.jp/articles/8d4915fff1cbd9ded41ad7734b06361a8d13b214"
     },
     {
-      "title": "サウジAramco、AI企業HUMAINの49%株式取得を完了 約26億ドル",
-      "summary": "サウジアラビアの国営石油会社Aramcoは、公的投資基金(PIF)とともにサウジのAI企業HUMAINの49%株式取得を完了したと発表した。取得額は約26億ドルで、HUMAINのグローバル展開加速を目的としている。",
-      "source": "Aramco",
-      "link": "https://www.aramco.com/en/news-media/news/2026/pif-and-aramco-close-humain-transaction-to-accelerate-humains-global-growth"
+      "title": "マーベル、光部品大手ルメンタムを約1150億ドルで買収 AI接続市場を強化",
+      "summary": "半導体大手マーベル・テクノロジーは11月2日、光通信部品大手ルメンタムを全額株式交換で買収すると発表。AIデータセンター向けの電気・光接続を一体で手がける体制を目指す。",
+      "source": "ビジネス+IT",
+      "link": "https://news.yahoo.co.jp/articles/dc667473db0f99a090a72d89f5268559ed58e5f5"
     },
     {
-      "title": "米新興Marble、観察して学ぶ「AIコワーカー」開発に370万ドルのプレシード調達",
-      "summary": "人の作業を観察しながら学習する「AIコワーカー」の開発を目指す新興企業Marble Cognitionが、Heartcore・Seedcamp主導のプレシードラウンドで370万ドルを調達したと発表した。資金は推論能力の拡張やミュンヘンでのエンジニア採用に使う計画(11/2付)。",
-      "source": "Tech.eu",
-      "link": "https://tech.eu/2026/11/02/marble-raises-375m-to-build-ai-coworkers-that-learn-by-watching"
+      "title": "XREAL、Android XR+Gemini搭載スマートグラス「AURA」国内予約を開始",
+      "summary": "XREALはGoogleと共同開発したARグラス「XREAL AURA」の日本向け一般予約を11月2日に開始。11月27日発売で、価格は22万9800円から。",
+      "source": "ITmedia Mobile",
+      "link": "https://news.yahoo.co.jp/articles/955def56964ab23b674f66e05452ed11abcc81bd"
     },
     {
-      "title": "OpenAIとAnthropic、計算理論の難問「指数時間仮説」に関する成果を主張",
-      "summary": "OpenAIとAnthropicがそれぞれ、計算複雑性理論における27年来の未解決問題「指数時間仮説」に関わる3-SAT問題で成果を得たと報告したと海外メディアが報道。独立した検証はまだ行われていない。",
-      "source": "Science",
-      "link": "https://www.science.org/content/article/ai-cracks-27-year-old-pillar-computer-science-openai-and-anthropic-claim"
+      "title": "Anthropic、日本で最大5500億円相当の株式募集を計画 ナスダック上場準備",
+      "summary": "AI開発大手Anthropicはナスダックへの新規上場を申請し、日本国内でも最大35億ドル(約5500億円)規模の資金調達を計画していると報じられた。",
+      "source": "TBS NEWS DIG",
+      "link": "https://news.yahoo.co.jp/articles/e816099c357f599e0dd6d67380bfede703a6abdc"
     },
     {
-      "title": "Anthropic、IPOロードショーを11月9日の週に開始との報道",
-      "summary": "AnthropicのNASDAQ上場(ティッカー「ANT」)に向けた投資家向けロードショーが11月9日の週に始まり、感謝祭(11/26)前の取引開始を目指しているとBloombergなどが報道。10/26の正式な上場申請を受けた見通し。",
-      "source": "implicator.ai",
-      "link": "https://www.implicator.ai/anthropic-could-start-ipo-roadshow-week-of-nov-9-putting-debut-before-thanksgiving/"
+      "title": "Anthropic、IPO目論見書でAIの「人類存亡リスク」に言及",
+      "summary": "AnthropicはIPO目論見書で、高度なAIが人類に「破滅的・存亡的リスク」をもたらす可能性があると投資家に警告。モデルが停止に抵抗する挙動などのリスクも記載されている。",
+      "source": "ロイター",
+      "link": "https://news.yahoo.co.jp/articles/c1b036a7740fe476a5bceb997de3641de9ee9e9a"
     },
     {
-      "title": "NVIDIAのHugging Face買収(129億ドル)に米司法省が反トラスト審査",
-      "summary": "ロイターの報道によると、米司法省(DOJ)がNVIDIAによるHugging Faceの約129億ドル規模の買収について、AI分野の競争への影響を審査しているもよう。買収は2027年上半期の完了を見込んでいるとされる。",
-      "source": "Reuters(報道まとめ)",
-      "link": "https://thenextweb.com/news/doj-nvidia-hugging-face-deal-antitrust-inquiry"
+      "title": "Anthropic、Claude「Ultra」プランで5時間ごとの利用上限を撤廃",
+      "summary": "Anthropicは有料プラン名称を変更し、月200ドルの最上位プラン「Ultra」で5時間ごとの利用上限を撤廃(10/30米国時間発表)。週単位の上限は維持される。",
+      "source": "ITmedia NEWS",
+      "link": "https://news.yahoo.co.jp/articles/79ffe3f013bc5afe870de00d14af4d33cadb5ce4"
     },
     {
-      "title": "Apple、NVIDIAを抑え時価総額で世界首位に返り咲き",
-      "summary": "10月30日(金)の米株式市場の終値で、AppleはNVIDIAを上回り時価総額約5.03兆ドルで世界首位の企業となった。半導体関連株が売られる中でのAppleの首位返り咲きとなった。",
-      "source": "Technology.org",
-      "link": "https://www.technology.org/2026/11/02/apple-passes-nvidia-most-valuable-company-5-03-trillion/"
+      "title": "トヨタとWaymo、2027年に日本で完全自動運転タクシーの初期運行へ",
+      "summary": "トヨタと米Waymoは協業を拡大し、bZ4Xベースの完全自動運転車両を高岡工場で生産、2027年に日本国内で無人運行の初期運用を始めると発表(10/30発表)。",
+      "source": "ビジネス+IT",
+      "link": "https://news.yahoo.co.jp/articles/50e15ef24e507124615b6324baf48de117c74b3b"
+    },
+    {
+      "title": "楽天証券など証券大手で顧客情報漏えいか、NTTデータ委託先に不正アクセス",
+      "summary": "楽天証券や野村証券などで、NTTデータの委託先システムへの不正アクセスにより社債購入者情報が漏えいした可能性があると判明(10/31発表)。ログイン情報は含まれないとされる。",
+      "source": "ITmedia NEWS",
+      "link": "https://news.yahoo.co.jp/articles/b70a230fc1341fb9b6ac5de003678544bee286c5"
+    },
+    {
+      "title": "クラブツーリズムに不正アクセス、個人情報約432万件が流出の可能性",
+      "summary": "旅行大手クラブツーリズムは外部からの不正アクセスにより、会員の氏名や緊急連絡先など約432万件の個人情報が流出した可能性があると発表(10/31発表)。サイトは一時停止中。",
+      "source": "ITmedia NEWS",
+      "link": "https://news.yahoo.co.jp/articles/f7296c2fb6727415acc545bd8c9c42b41ee46a94"
+    },
+    {
+      "title": "キオクシア、中間純利益が前年の37倍の2兆1978億円 AI半導体需要が堅調",
+      "summary": "キオクシアHDの2026年9月中間決算は、AIデータセンター向け半導体需要の拡大を背景に純利益が前年同期の約37倍の2兆1978億円となった(10/30発表)。上場後初の中間配当も実施。",
+      "source": "共同通信",
+      "link": "https://news.yahoo.co.jp/articles/52efe8aab0e155a2b66f0b776859d8a740b8e8af"
     }
   ],
-  "x_trending_tech": [
-    {
-      "title": "Karpathy氏、YouTubeのレコメンドを批判し「HackerTube」構想を投稿",
-      "summary": "AI研究者のAndrej Karpathy氏が、YouTubeのレコメンドアルゴリズムへの批判とともに、自身の新プロジェクト「HackerTube」について投稿。AI開発者コミュニティで話題になっている(11/2付AIダイジェストで取り上げられた投稿)。",
-      "source": "@karpathy",
-      "link": "https://x.com/karpathy/status/2116957135661945283"
-    }
-  ]
+  "x_trending_tech": []
 }
