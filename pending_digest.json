@@ -1,97 +1,55 @@
 {
-  "run_label": "11/3 07:00",
+  "run_label": "11/3 19:00",
   "politics_economy": [
     {
-      "title": "衆院定数31削減案、今国会で成立目指す 自民「中小政党に配慮」",
-      "summary": "自民党が示した衆院比例定数31削減案について、村井国対委員長が今国会での法案成立を目指す考えを表明。国民民主党や日本維新の会も受け入れる方向で調整しているとされる。",
-      "source": "熊本日日新聞(共同通信)",
-      "link": "https://kumanichi.com/articles/2050345"
+      "title": "米中間選挙、投票始まる 下院全議席・上院3分の1が改選",
+      "summary": "米国で中間選挙の投票が日本時間3日夜から始まった。下院435議席全てと上院の3分の1(35議席)、39州の知事職が改選され、トランプ政権への中間評価となる選挙として注目されている。",
+      "source": "NHK",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261103de69983"
     },
     {
-      "title": "防衛財源に法人増税浮上、次期防衛費は年10兆円超に膨張の公算",
-      "summary": "2027年度からの次期防衛力整備計画で、防衛費が70兆〜80兆円規模に達する可能性があるとの見方が政権内に浮上。財源として法人税の追加増税案も検討されている。",
-      "source": "熊本日日新聞(共同通信)",
-      "link": "https://kumanichi.com/articles/2047661"
+      "title": "日本触媒、電子材料の互応化学工業を200億円で買収 半導体向け素材の競争力強化へ",
+      "summary": "日本触媒(東証プライム)は11月2日、半導体・電子部品向けレジスト材料などを手がける互応化学工業(京都)の全株式を200億円で取得し完全子会社化したと発表。石油化学依存からの脱却を目指し電子材料事業を強化する。",
+      "source": "財経新聞",
+      "link": "https://www.zaikei.co.jp/article/20261103/875923.html"
     },
     {
-      "title": "武部農水相、公共事業受注企業から寄付受領 謝罪し訂正へ",
-      "summary": "武部新太郎農水相が代表を務める自民党支部が、国の公共事業を受注する企業から寄付を受けていたと判明し、本人が謝罪。収支報告書の訂正や返金を進める方針。",
-      "source": "熊本日日新聞(共同通信)",
-      "link": "https://kumanichi.com/articles/2048909"
-    },
-    {
-      "title": "GMOへの不正アクセス、北朝鮮系ハッカー集団の関与か 政府に報告",
-      "summary": "GMOインターネットグループへの一連の不正アクセスについて、同社が北朝鮮系ハッカー集団の関与の可能性が高いと分析し、政府に報告したことが判明。マルウェアの痕跡などが根拠とされる。",
-      "source": "共同通信",
-      "link": "https://news.yahoo.co.jp/articles/e93001b1bba67a2c7cbf0f45223c362ef61a4680"
-    },
-    {
-      "title": "米中間選挙、11月3日投開票 下院は民主党が過半数奪還の可能性",
-      "summary": "米国の中間選挙が3日に投開票を迎える。下院では民主党が過半数を奪還する可能性が高いとの見方が出ており、激戦州ミシガンでは民主党議員が共和党候補支持を表明するなど波乱の動きも報じられている。",
-      "source": "日テレNEWS NNN",
-      "link": "https://news.yahoo.co.jp/articles/eb17447286c6ea079991cde0fe01366446dd977d"
+      "title": "バイナンス、約1兆円規模の不正流出後 出金サービスの再開作業を進める",
+      "summary": "暗号資産取引所バイナンスは10月末に発生した約63億ドル(約1兆円)規模の不正流出を受けて停止していた出金サービスについて、ユーザー保護基金などを活用した補償と並行して再開作業を進めている。",
+      "source": "財経新聞",
+      "link": "https://www.zaikei.co.jp/article/20261103/875973.html"
     }
   ],
   "tech": [
     {
-      "title": "ノジマ、オンライン会員700万件の個人情報が漏えい",
-      "summary": "ノジマは「ノジマオンライン」と中古スマホ買取サイトの会員管理システムへの不正アクセスにより、氏名・住所・電話番号など約700万件の個人情報が流出したと発表。両サイトは一時休止中(11/2発表)。",
-      "source": "共同通信",
-      "link": "https://news.yahoo.co.jp/articles/8d4915fff1cbd9ded41ad7734b06361a8d13b214"
+      "title": "Anthropic、IPO目論見書でAIの「自己改善」能力に迫っていると警告",
+      "summary": "AnthropicはIPO目論見書(S-1/A)の修正版で、AIがより高性能なAIの構築を支援する「再帰的自己改善(RSI)」能力に近づいていると説明し、重大な安全上のリスクになり得ると投資家に警告した(11/2報道)。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/"
     },
     {
-      "title": "マーベル、光部品大手ルメンタムを約1150億ドルで買収 AI接続市場を強化",
-      "summary": "半導体大手マーベル・テクノロジーは11月2日、光通信部品大手ルメンタムを全額株式交換で買収すると発表。AIデータセンター向けの電気・光接続を一体で手がける体制を目指す。",
-      "source": "ビジネス+IT",
-      "link": "https://news.yahoo.co.jp/articles/dc667473db0f99a090a72d89f5268559ed58e5f5"
+      "title": "イーロン・マスク氏、Grok Botの利用制限強化は意図的と認める「採算合わず」",
+      "summary": "マスク氏はXへの投稿で、AIチャットボット「Grok Bot」の利用制限強化が技術的な不具合ではなく意図的な措置だったと説明。収益に対して運用コストが「持続不可能なほど高かった」と述べた(11/2報道)。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs"
     },
     {
-      "title": "XREAL、Android XR+Gemini搭載スマートグラス「AURA」国内予約を開始",
-      "summary": "XREALはGoogleと共同開発したARグラス「XREAL AURA」の日本向け一般予約を11月2日に開始。11月27日発売で、価格は22万9800円から。",
-      "source": "ITmedia Mobile",
-      "link": "https://news.yahoo.co.jp/articles/955def56964ab23b674f66e05452ed11abcc81bd"
+      "title": "アップル、「iPhone Duo」の供給制約改善時期は「予測困難」 AI向けメモリ価格上昇が影響",
+      "summary": "アップルは2026年度第4四半期決算説明会で、新型「iPhone Duo」の出荷制約がいつ改善するか見通せないと説明。AI向けメモリ半導体の需要増がハードウェア各社のコストを押し上げているとされる(11/2発表)。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/11/02/apple-says-its-hard-to-predict-when-iphone-duo-constraints-will-improve"
     },
     {
-      "title": "Anthropic、日本で最大5500億円相当の株式募集を計画 ナスダック上場準備",
-      "summary": "AI開発大手Anthropicはナスダックへの新規上場を申請し、日本国内でも最大35億ドル(約5500億円)規模の資金調達を計画していると報じられた。",
-      "source": "TBS NEWS DIG",
-      "link": "https://news.yahoo.co.jp/articles/e816099c357f599e0dd6d67380bfede703a6abdc"
+      "title": "半導体大手オンセミ、AI向け電源半導体スタートアップFerricを最大7.75億ドルで買収",
+      "summary": "オンセミ(onsemi)は、AIプロセッサ向け集積型電圧レギュレータ(IVR)技術を手がける米Ferricを現金6億ドルと業績条件付きの最大1.75億ドルで買収すると発表。2026年第4四半期の取引完了を予定する(11/2発表、SEC提出資料)。",
+      "source": "onsemi(SEC提出資料)",
+      "link": "https://www.sec.gov/Archives/edgar/data/0001097864/000119312526443681/d185557dex991.htm"
     },
     {
-      "title": "Anthropic、IPO目論見書でAIの「人類存亡リスク」に言及",
-      "summary": "AnthropicはIPO目論見書で、高度なAIが人類に「破滅的・存亡的リスク」をもたらす可能性があると投資家に警告。モデルが停止に抵抗する挙動などのリスクも記載されている。",
-      "source": "ロイター",
-      "link": "https://news.yahoo.co.jp/articles/c1b036a7740fe476a5bceb997de3641de9ee9e9a"
-    },
-    {
-      "title": "Anthropic、Claude「Ultra」プランで5時間ごとの利用上限を撤廃",
-      "summary": "Anthropicは有料プラン名称を変更し、月200ドルの最上位プラン「Ultra」で5時間ごとの利用上限を撤廃(10/30米国時間発表)。週単位の上限は維持される。",
-      "source": "ITmedia NEWS",
-      "link": "https://news.yahoo.co.jp/articles/79ffe3f013bc5afe870de00d14af4d33cadb5ce4"
-    },
-    {
-      "title": "トヨタとWaymo、2027年に日本で完全自動運転タクシーの初期運行へ",
-      "summary": "トヨタと米Waymoは協業を拡大し、bZ4Xベースの完全自動運転車両を高岡工場で生産、2027年に日本国内で無人運行の初期運用を始めると発表(10/30発表)。",
-      "source": "ビジネス+IT",
-      "link": "https://news.yahoo.co.jp/articles/50e15ef24e507124615b6324baf48de117c74b3b"
-    },
-    {
-      "title": "楽天証券など証券大手で顧客情報漏えいか、NTTデータ委託先に不正アクセス",
-      "summary": "楽天証券や野村証券などで、NTTデータの委託先システムへの不正アクセスにより社債購入者情報が漏えいした可能性があると判明(10/31発表)。ログイン情報は含まれないとされる。",
-      "source": "ITmedia NEWS",
-      "link": "https://news.yahoo.co.jp/articles/b70a230fc1341fb9b6ac5de003678544bee286c5"
-    },
-    {
-      "title": "クラブツーリズムに不正アクセス、個人情報約432万件が流出の可能性",
-      "summary": "旅行大手クラブツーリズムは外部からの不正アクセスにより、会員の氏名や緊急連絡先など約432万件の個人情報が流出した可能性があると発表(10/31発表)。サイトは一時停止中。",
-      "source": "ITmedia NEWS",
-      "link": "https://news.yahoo.co.jp/articles/f7296c2fb6727415acc545bd8c9c42b41ee46a94"
-    },
-    {
-      "title": "キオクシア、中間純利益が前年の37倍の2兆1978億円 AI半導体需要が堅調",
-      "summary": "キオクシアHDの2026年9月中間決算は、AIデータセンター向け半導体需要の拡大を背景に純利益が前年同期の約37倍の2兆1978億円となった(10/30発表)。上場後初の中間配当も実施。",
-      "source": "共同通信",
-      "link": "https://news.yahoo.co.jp/articles/52efe8aab0e155a2b66f0b776859d8a740b8e8af"
+      "title": "ウェブホスティングのSquarespace、従業員の19%を削減",
+      "summary": "ウェブサイト構築サービスを手がけるSquarespaceは、従業員の約19%(およそ300人)を削減するレイオフを実施すると発表(11/2報道)。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees"
     }
   ],
   "x_trending_tech": []
