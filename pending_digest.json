@@ -1,129 +1,111 @@
 {
-  "run_label": "11/4 07:00",
+  "run_label": "11/4 19:00",
   "politics_economy": [
     {
-      "title": "消費税減税法案、衆院での採決時期めぐり与野党調整が本格化",
-      "summary": "飲食料品の消費税率を1%に引き下げる政府提出の関連法案について、採決時期などをめぐる与野党協議が本格化。野党側は高市首相の委員会出席や十分な質疑時間の確保を求めている(11/3報道)。",
+      "title": "米中間選挙、民主党が上下両院で多数派奪還",
+      "summary": "米国で3日投票が行われた中間選挙は、日本時間4日に民主党が下院・上院ともに多数派を奪還する見通しが確実になったと報じられた。トランプ政権には厳しい評価が下された形で、木原官房長官は結果に関わらず日米同盟は基軸との考えを示した(11/4報道)。",
       "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261103de70058"
+      "link": "https://news.web.nhk/newsweb/na/nd-20261103de69965"
     },
     {
-      "title": "米中間選挙、投票始まる 下院全議席・上院3分の1が改選",
-      "summary": "米国で中間選挙の投票が日本時間3日夜に始まった。下院435議席全てと上院の3分の1(35議席)が改選対象で、トランプ政権への中間評価となる。結果の大勢判明は日本時間4日中になる見通し(11/3夜報道)。",
+      "title": "中間選挙結果受け日経平均が急落、AI関連株中心に一時2000円超下落",
+      "summary": "東京株式市場では米中間選挙の開票が進む中、AI関連投資の先行きへの不透明感が意識され、日経平均株価は一時2000円超値下がりした。半導体関連株への売りが目立った(11/4報道)。",
       "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261103de69868"
+      "link": "https://news.web.nhk/newsweb/na/nd-20261104de70160"
     },
     {
-      "title": "日本政府、気候トランジションボンドを追加発行 需要堅調",
-      "summary": "日本政府は2500億円規模の気候トランジションボンド(今年5回目)を発行し、応札倍率は3.84倍と堅調な需要を確保した。化石燃料依存からの転換資金に充てられる(11/2報道)。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-02/japan-extends-transition-bond-push-despite-fossil-fuel-reliance"
+      "title": "消費税減税法案、6日に高市首相出席の委員会開催で与野党合意",
+      "summary": "食料品の消費税減税関連法案をめぐり、自民党と衆院会派「中道」の国対委員長が4日に会談し、6日に高市早苗首相が出席する衆院財務金融委員会を開くことで合意した。与党は同日の採決を提案している(11/4報道)。",
+      "source": "時事通信",
+      "link": "https://www.jiji.com/jc/article?k=2026110400334&g=pol&m=rss"
     },
     {
-      "title": "東京・中部の電力スポット価格、燃料高騰で2022年以来の高値",
-      "summary": "東京電力・中部電力エリアの週末スポット電力価格が、燃料コスト上昇を背景に2022年以来の高値を記録(1kWh当たりそれぞれ36.11円、36.29円)。冬場に向け電力コスト高が懸念される(11/2報道)。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-02/tokyo-chubu-power-price-hit-multi-year-high-as-fuel-costs-climb"
+      "title": "消費税減税法案、参議院に特別委員会を設置 委員長は自民・松村氏",
+      "summary": "消費税減税関連法案の参議院審議に向け、4日の本会議で新たな特別委員会の設置が決まり、委員長には自民党の松村祥史元国家公安委員長が選ばれた。参院は与党が少数のため野党が審議の主導権を握る展開となっている(11/4報道)。",
+      "source": "NHK",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261104de70242"
     },
     {
-      "title": "日本株、米ハイテク株安とキオクシアの業績見通し嫌気して下落",
-      "summary": "日本株は前日の米ハイテク株急落の流れを受けて下落。半導体メモリー大手キオクシアも弱い業績見通しを受け売られる見通しとなり、日経平均は0.7%安で始まった(11/2報道)。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-02/japanese-stocks-fall-on-tech-selloff-kioxia-s-profit-outlook"
+      "title": "APEC閣僚会議、議長国中国がオンライン形式で開催へ",
+      "summary": "アジア太平洋経済協力会議(APEC)の閣僚会議が、新型コロナ禍を除き異例となるオンライン形式で開かれることが4日までに分かった。首脳会議に先立つ外相・貿易担当相会合として位置づけられている(11/3夜～11/4報道)。",
+      "source": "NHK",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261104de70103"
     }
   ],
   "tech": [
     {
-      "title": "Anthropic、コンピュート(計算資源)コストの経済性にいまだ苦慮",
-      "summary": "AI大手Anthropicは、急増する売上に対してコンピュートコストの構造がなお重く、収益性の確立に苦慮していると報じられた。IPO目論見書を巡る分析の一環として指摘(11/3報道)。",
+      "title": "AI推論基盤のFal、13億ドル調達で評価額160億ドルに倍増",
+      "summary": "AI画像・動画・音声モデルの実行基盤を提供するFalは、Bessemer Venture Partners主導で13億ドルを調達し、評価額が4月の80億ドルから倍増の160億ドルとなった。AI推論需要の拡大が背景(11/3報道)。",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/"
+      "link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/"
     },
     {
-      "title": "クラウドストライク、AIエージェント監視・診断の2社を計約4.95億ドルで買収",
-      "summary": "サイバーセキュリティ大手クラウドストライクは、AIエージェントの挙動を監視するFiddler AIと、AIの自動セキュリティ診断を行うDreadnodeを合計約4.95億ドルで買収すると発表。エージェント型AIの安全確保需要の拡大が背景(11/3報道)。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/"
+      "title": "AMD第3四半期決算、データセンター売上97%増で市場予想上回り株価急伸",
+      "summary": "AMDが3日発表した2026年第3四半期決算は、売上高133.8億ドル(前年比45%増)、非GAAP EPS2.09ドルといずれも市場予想を上回った。データセンター部門の売上が前年比97%増と大幅拡大し、時間外取引で株価が急伸した(11/4報道)。",
+      "source": "株探(かぶたん)",
+      "link": "https://us.kabutan.jp/news/n202611040115"
     },
     {
-      "title": "グーグル、AIツールを拒否する学校には検索サービスも提供停止へ",
-      "summary": "グーグルは2027年初めから、K-12向けAIツールを管理者が明示的に有効化しない限り無効化する一方、AIを完全に拒否する学校はGoogle検索へのアクセスも失うとの方針を示した。AIと検索の統合深化が背景(11/3報道)。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/"
+      "title": "エヌビディア、中国向けAIチップの供給を注文の1%に制限",
+      "summary": "エヌビディアは米国の対中制裁の影響で、中国企業から受けた約600万個のチップ注文のうち出荷するのは約6万個、注文全体の1%程度にとどまる見通しだと報じられた(11/4報道)。",
+      "source": "Seoul Economic Daily",
+      "link": "https://en.sedaily.com/international/2026/11/04/nvidia-to-fill-just-1-percent-of-chinese-chip-orders-amid"
     },
     {
-      "title": "アップル、出会い系アプリとAIコンパニオンを18歳以上限定に",
-      "summary": "アップルはApp Storeの規定を改定し、性的・恋愛的コンテンツを提供する出会い系アプリやAIコンパニオンアプリの対象を18歳以上に限定。11月16日から新コンテンツ区分の表示が義務化される(11/3報道)。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/"
+      "title": "Anthropic、IPO申請書を修正 7-9月売上高170億ドル、インフラ契約8954億ドルを開示",
+      "summary": "ClaudeのAnthropicはIPO申請書を修正し、7-9月期の売上高が約170億ドルに達したことと、今後のコンピュート・データセンターに関する契約・リース総額が約8954億ドルに上ることを開示した(11/3報道)。",
+      "source": "ITmedia NEWS",
+      "link": "https://www.itmedia.co.jp/news/article/2611/03/2000002831/"
     },
     {
-      "title": "Netflix、好みに応じて作品を提案する新AI機能「AI Discover」を導入",
-      "summary": "Netflixは視聴履歴や「怖い作品が見たい」といったテーマに応じておすすめを提示する生成AI機能「AI Discover」の提供を開始した(11/3報道)。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/"
+      "title": "AI信頼性エージェントのTraversal、評価額10億ドルに",
+      "summary": "AIシステムの障害対応エージェントを手がけるニューヨークのスタートアップTraversalが、シリーズBで1.2億ドルを調達し、評価額10億ドルのユニコーンとなったと発表した(11/3報道)。",
+      "source": "The Next Web",
+      "link": "https://thenextweb.com/news/traversal-120m-series-b-1b-valuation-ai-sre"
     },
     {
-      "title": "北朝鮮ハッカーの手口、バイナンス過去最大流出の数年前から警告されていた",
-      "summary": "セキュリティ研究者らは、約63億ドル相当が流出したバイナンスへの攻撃で使われた北朝鮮系ハッカー集団の手口について、数年前から警告を発していたことが明らかになった(11/3報道)。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/11/03/researchers-warned-of-north-korean-hacking-tactics-years-before-record-6-3b-binance-heist/"
+      "title": "マイクロソフト、メモリ8GBのWindows 11 PCを高速化",
+      "summary": "マイクロソフトはメモリ8GBのWindows 11搭載PC向けに、マルチタスク処理を最大40%向上させる改善を発表した。Windows 11バージョン26H2の新ビルドへの更新が必要(11/4報道)。",
+      "source": "ITmedia NEWS",
+      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002851/"
     },
     {
-      "title": "セキュリティ専門VCバリスティック・ベンチャーズ、AI需要拡大で新ファンド4.9億ドル調達へ",
-      "summary": "サイバーセキュリティ専門VCのバリスティック・ベンチャーズは、AI主導のセキュリティ需要拡大を背景に、新設する2本のファンドで計4.9億ドルの調達を目指していることが規制当局への提出資料から判明(11/3報道)。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/"
+      "title": "アップル、刷新版「Siri AI」を全開発者向けに開放",
+      "summary": "アップルは刷新した「Siri AI」のプレビューをすべての開発者向けに開放したと発表した。「App Intents」を通じてサードパーティアプリの予約や注文などの操作をSiri経由で行えるようになる(11/4報道)。",
+      "source": "ITmedia NEWS",
+      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002855/"
     },
     {
-      "title": "エヌビディア、データセンター顧客に中国向け売上比率の抑制を要請 FT報道",
-      "summary": "英フィナンシャル・タイムズによると、エヌビディアはクラウド顧客に対し非中国企業からの売上比率を51%以上とするよう求め始めた。既存契約は対象外で、営業部隊を通じ口頭で伝達されているという(11/3報道)。",
-      "source": "Bloomberg(FT報道)",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-03/nvidia-tells-data-center-clients-to-trim-china-business-ft-says"
+      "title": "メール配信サービス「Arara Message」、最大7700万件のメールアドレスが流出",
+      "summary": "PayCloudホールディングス傘下アララのメール配信サービス「Arara Message」がサイバー攻撃を受け、最大約7700万件のメールアドレスなど会員情報が流出した可能性があると発表された。サービスは全面停止されている(11/2～3報道)。",
+      "source": "nippon.com",
+      "link": "https://www.nippon.com/en/articles/-/56805"
     },
     {
-      "title": "半導体株、AMD決算を控え急落から反発 インテルやマーベルも上昇",
-      "summary": "AMDの決算発表を控えた11月3日、AMD株が5%、インテル株が4%、マーベル株が2%それぞれ上昇するなど、直近の急落から半導体株が反発した(11/3報道)。",
-      "source": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/11/03/amd-advances-5-intel-rises-4-marvell-gains-2-as-chip-stocks-bounce-ahead-of-amd-earnings/"
-    },
-    {
-      "title": "Reddit、検索結果への広告表示をテスト トラフィック減少への対応",
-      "summary": "Redditは、AI主導の検索体験への移行に伴うサイト流入減少への懸念が高まる中、検索結果ページに広告を表示するテストを開始した(11/3報道)。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/11/03/reddit-tests-ads-in-search-results-as-traffic-declines-and-growth-concerns-mount/"
+      "title": "ノジマオンライン、不正アクセスで約700万件の個人情報が漏えい",
+      "summary": "家電量販店ノジマが運営するECサイトの会員管理システムが不正アクセスを受け、氏名や暗号化されたパスワードなど約700万件の個人情報が漏えいした可能性があると発表した。クレジットカード情報は含まれないとしている(11/2発表)。",
+      "source": "ノジマ(公式発表)",
+      "link": "https://www.nojima.co.jp/news/category/info/7824/"
     }
   ],
   "x_trending_tech": [
     {
-      "title": "AMD第3四半期決算、予想上振れで株価急伸と分析",
-      "summary": "半導体アナリストのパトリック・ムーアヘッド氏が、AMDの第3四半期売上は134億ドルで予想(130.8億ドル)を上回り、非GAAP EPSも予想超えだったと速報。好決算と強いガイダンスを受け株価が引け後に急伸したと分析(11/3夜の投稿)。",
-      "source": "@PatrickMoorhead",
-      "link": "https://x.com/PatrickMoorhead/status/2117731878069256576"
+      "title": "米中間選挙結果を受け日経平均が急落、半導体関連に売り集中",
+      "summary": "日本経済新聞電子版が、米中間選挙の結果を受けて日経平均株価が一時2000円超下落し、半導体関連株が売られたと速報(11/4未明の投稿)。",
+      "source": "@nikkei",
+      "link": "https://x.com/nikkei/status/2117797271429358032"
     },
     {
-      "title": "クラウドストライク、Fiddler AIとDreadnodeを計4.95億ドルで買収と速報",
-      "summary": "金融情報アカウントがWSJ報道を引用し、クラウドストライクがAIエージェント監視のFiddler AIと、AI自動セキュリティ診断のDreadnodeを合計約4.95億ドルで買収することに合意したと伝えた(11/3午後の投稿)。",
-      "source": "@WOLF_Financial",
-      "link": "https://x.com/WOLF_Financial/status/2117578434771890633"
+      "title": "「選挙相場が変わった」AIによる自動売りが下落を加速させた可能性と話題に",
+      "summary": "個人投資家が、今回の米中間選挙では開票速報をAIが瞬時に分析して売り判断を下し、他のAI・投資家も追随することで売りが売りを呼ぶ展開になったのではと指摘し話題に(11/4朝の投稿)。",
+      "source": "@nicosokufx",
+      "link": "https://x.com/nicosokufx/status/2117810678824346078"
     },
     {
-      "title": "エヌビディアのGeForce RTX 50シリーズ、中国で最大500ドル値上げ",
-      "summary": "ハードウェア情報アカウントが、中国市場でのRTX 50シリーズの価格が最大500ドル(RTX 5080は420ドル)上昇したと報告(11/3午後の投稿)。",
-      "source": "@VideoCardz",
-      "link": "https://x.com/VideoCardz/status/2117611658155573688"
-    },
-    {
-      "title": "Netflixの新AI機能「AI Discover」がXで話題に",
-      "summary": "エンタメ系ニュースアカウントが、Netflixが視聴履歴や「怖い作品を見たい」といったテーマに応じて作品を提案する新機能「AI Discover」を導入したと紹介(11/3夜の投稿)。",
-      "source": "@PopCrave",
-      "link": "https://x.com/PopCrave/status/2117699421060411749"
-    },
-    {
-      "title": "グーグルの学校向けAI方針にX上で賛否、「検索の独占力を利用した強制」批判も",
-      "summary": "グーグルが2027年からAIを有効化しない学校には検索サービスも提供しない方針を示したと報じられ、Xでは教育関係者らから「検索の独占力を使った強制」との批判が広がった(11/3夕方の投稿)。",
-      "source": "@TFTC21",
-      "link": "https://x.com/TFTC21/status/2117680059012243575"
+      "title": "中間選挙の影響を受け続ける日経平均に同情の声",
+      "summary": "米中間選挙の結果に振られ続ける日経平均株価について、「いつも可哀想」と同情する投稿が話題に(11/4朝の投稿)。",
+      "source": "@shiho_312",
+      "link": "https://x.com/shiho_312/status/2117817421079969931"
     }
   ]
 }
