@@ -1,111 +1,98 @@
 {
-  "run_label": "11/4 19:00",
+  "run_label": "11/5 07:00",
   "politics_economy": [
     {
-      "title": "米中間選挙、民主党が上下両院で多数派奪還",
-      "summary": "米国で3日投票が行われた中間選挙は、日本時間4日に民主党が下院・上院ともに多数派を奪還する見通しが確実になったと報じられた。トランプ政権には厳しい評価が下された形で、木原官房長官は結果に関わらず日米同盟は基軸との考えを示した(11/4報道)。",
+      "title": "消費税減税法案、与党が『6日に採決』提案 野党は高市首相出席求め協議継続",
+      "summary": "4日の衆院財務金融委員会理事会で与党は、審議時間が積み上がったとして6日の採決を提案。野党側は高市首相の委員会出席・答弁を踏まえて判断したいとして、引き続き協議するとした(11/4報道)。",
       "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261103de69965"
+      "link": "https://news.web.nhk/newsweb/na/nd-20261104de70162"
     },
     {
-      "title": "中間選挙結果受け日経平均が急落、AI関連株中心に一時2000円超下落",
-      "summary": "東京株式市場では米中間選挙の開票が進む中、AI関連投資の先行きへの不透明感が意識され、日経平均株価は一時2000円超値下がりした。半導体関連株への売りが目立った(11/4報道)。",
+      "title": "消費税減税法案、与党『あす衆院通過を』野党は首相答弁で判断",
+      "summary": "与党は5日に法案を衆院で通過させたい考えを示す一方、野党側は高市首相の答弁内容を見て対応を判断するとした。採決のタイミングを巡る与野党の調整が続く(11/5早朝報道)。",
       "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261104de70160"
+      "link": "https://news.web.nhk/newsweb/na/nd-20261105de70693"
     },
     {
-      "title": "消費税減税法案、6日に高市首相出席の委員会開催で与野党合意",
-      "summary": "食料品の消費税減税関連法案をめぐり、自民党と衆院会派「中道」の国対委員長が4日に会談し、6日に高市早苗首相が出席する衆院財務金融委員会を開くことで合意した。与党は同日の採決を提案している(11/4報道)。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026110400334&g=pol&m=rss"
+      "title": "国民民主・玉木代表「今のままでは賛成あり得ない」 消費税減税法案に注文",
+      "summary": "国民民主党の玉木雄一郎代表は、住民税控除拡充などを柱とする自党の対案が反映されない限り、政府提出の消費税減税法案に現状のままでは賛成できないと述べた(11/4報道)。",
+      "source": "日本経済新聞",
+      "link": "https://nikkei.com/article/DGXZQOUA044G50U6A101C2000000"
     },
     {
-      "title": "消費税減税法案、参議院に特別委員会を設置 委員長は自民・松村氏",
-      "summary": "消費税減税関連法案の参議院審議に向け、4日の本会議で新たな特別委員会の設置が決まり、委員長には自民党の松村祥史元国家公安委員長が選ばれた。参院は与党が少数のため野党が審議の主導権を握る展開となっている(11/4報道)。",
-      "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261104de70242"
+      "title": "消費税減税法案、高市首相が6日の委員会出席に合意",
+      "summary": "与野党協議の結果、高市首相が6日の衆院委員会審議に1時間出席し答弁することで合意したと報じられた(11/4夕刻報道)。",
+      "source": "テレビ朝日系(ANN)/Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/articles/25ea97eb0643c55808783f38f749e812cd4caeb6"
     },
     {
-      "title": "APEC閣僚会議、議長国中国がオンライン形式で開催へ",
-      "summary": "アジア太平洋経済協力会議(APEC)の閣僚会議が、新型コロナ禍を除き異例となるオンライン形式で開かれることが4日までに分かった。首脳会議に先立つ外相・貿易担当相会合として位置づけられている(11/3夜～11/4報道)。",
-      "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261104de70103"
+      "title": "武部農水相に献金問題 公共事業受注企業から受領、返金や訂正を指示",
+      "summary": "武部新農水相が前回衆院選の際、公共事業を受注する企業から献金を受けていたと週刊文春が報道。農水相は献金を把握していなかったとして、返金や政治資金収支報告書の訂正を指示したと説明した。",
+      "source": "週刊文春ほか報道(熊本日日新聞/共同通信)",
+      "link": "https://kumanichi.com/articles/2048885"
     }
   ],
   "tech": [
     {
-      "title": "AI推論基盤のFal、13億ドル調達で評価額160億ドルに倍増",
-      "summary": "AI画像・動画・音声モデルの実行基盤を提供するFalは、Bessemer Venture Partners主導で13億ドルを調達し、評価額が4月の80億ドルから倍増の160億ドルとなった。AI推論需要の拡大が背景(11/3報道)。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/"
+      "title": "ハイパースケーラー各社とApple、米中間選挙結果を受け株価上昇",
+      "summary": "米中間選挙で政治的不透明感が和らいだことを受け、Amazon・Google・Microsoft・Meta・Appleなど大手テック株が軒並み上昇した(11/4報道)。",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/11/04/apple-and-other-big-tech-stocks-surge-after-2026-midterm-elections.html"
     },
     {
-      "title": "AMD第3四半期決算、データセンター売上97%増で市場予想上回り株価急伸",
-      "summary": "AMDが3日発表した2026年第3四半期決算は、売上高133.8億ドル(前年比45%増)、非GAAP EPS2.09ドルといずれも市場予想を上回った。データセンター部門の売上が前年比97%増と大幅拡大し、時間外取引で株価が急伸した(11/4報道)。",
-      "source": "株探(かぶたん)",
-      "link": "https://us.kabutan.jp/news/n202611040115"
+      "title": "AI関連株、中間選挙後の反応は分かれる AMDは好決算で上昇、Nvidiaらはデータセンター規制懸念で軟調",
+      "summary": "民主党が上下両院を制したことを受け、AMDは好決算と強い見通しを背景に上昇した一方、NvidiaやMicronなどはデータセンター規制強化への懸念から軟調となった(11/4報道)。",
+      "source": "TipRanks",
+      "link": "https://www.tipranks.com/news/ai-chip-stocks-nvda-amd-and-others-rise-despite-democratic-win-amds-strong-forecast-fuels-optimism"
     },
     {
-      "title": "エヌビディア、中国向けAIチップの供給を注文の1%に制限",
-      "summary": "エヌビディアは米国の対中制裁の影響で、中国企業から受けた約600万個のチップ注文のうち出荷するのは約6万個、注文全体の1%程度にとどまる見通しだと報じられた(11/4報道)。",
-      "source": "Seoul Economic Daily",
-      "link": "https://en.sedaily.com/international/2026/11/04/nvidia-to-fill-just-1-percent-of-chinese-chip-orders-amid"
+      "title": "AMDが2026年第3四半期決算発表、データセンター売上が急増し通期見通し上振れ",
+      "summary": "AMDは11月3日、第3四半期決算を発表。Instinct GPUやEPYC CPUの記録的需要でデータセンター部門売上が大幅増となり、第4四半期も増収加速を見込むと説明した。",
+      "source": "AMD(SEC提出資料)",
+      "link": "https://www.sec.gov/Archives/edgar/data/0000002488/000000248826000188/q32026991.htm"
     },
     {
-      "title": "Anthropic、IPO申請書を修正 7-9月売上高170億ドル、インフラ契約8954億ドルを開示",
-      "summary": "ClaudeのAnthropicはIPO申請書を修正し、7-9月期の売上高が約170億ドルに達したことと、今後のコンピュート・データセンターに関する契約・リース総額が約8954億ドルに上ることを開示した(11/3報道)。",
-      "source": "ITmedia NEWS",
-      "link": "https://www.itmedia.co.jp/news/article/2611/03/2000002831/"
+      "title": "Marvell、光部品大手Lumentumを全株式交換で買収へ 企業価値約1150億ドル",
+      "summary": "半導体大手MarvellはAI向け光学・接続技術の強化を目的に、Lumentum Holdingsを全株式交換で買収すると発表。Lumentum株1株につきMarvell株4.5株を割り当てる(11/2発表)。",
+      "source": "Lumentum Holdings(SEC提出資料)",
+      "link": "https://www.sec.gov/Archives/edgar/data/0001633978/000119312526442758/d163169dex991.htm"
     },
     {
-      "title": "AI信頼性エージェントのTraversal、評価額10億ドルに",
-      "summary": "AIシステムの障害対応エージェントを手がけるニューヨークのスタートアップTraversalが、シリーズBで1.2億ドルを調達し、評価額10億ドルのユニコーンとなったと発表した(11/3報道)。",
-      "source": "The Next Web",
-      "link": "https://thenextweb.com/news/traversal-120m-series-b-1b-valuation-ai-sre"
+      "title": "Anthropic、IPO前に改訂S-1提出 第3四半期売上17億ドル、購入・リース契約総額は約8954億ドル",
+      "summary": "AnthropicはIPOに向け11月2日に改訂版S-1を提出。第3四半期売上は17億ドルとし、データセンターなどの購入・リース契約の累計コミット額が約8954億ドルに達したことを開示した。",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html"
     },
     {
-      "title": "マイクロソフト、メモリ8GBのWindows 11 PCを高速化",
-      "summary": "マイクロソフトはメモリ8GBのWindows 11搭載PC向けに、マルチタスク処理を最大40%向上させる改善を発表した。Windows 11バージョン26H2の新ビルドへの更新が必要(11/4報道)。",
-      "source": "ITmedia NEWS",
-      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002851/"
+      "title": "Anthropic、AIが自己改良を『大幅に加速』させる段階に近づいていると警告",
+      "summary": "Anthropicは改訂S-1で、AIが自らの能力を再帰的に改善する「RSI」の基準に近づいており、今後進歩が大幅に加速する可能性があるとの見方を示した。",
+      "source": "Benzinga",
+      "link": "https://www.benzinga.com/markets/private-markets/26/11/62815173/safety-risk-anthropic-warns-ai-could-soon-start-improving-itself-at-dramatically-accelerated-pace-2026-last-normal-year-says-expert"
     },
     {
-      "title": "アップル、刷新版「Siri AI」を全開発者向けに開放",
-      "summary": "アップルは刷新した「Siri AI」のプレビューをすべての開発者向けに開放したと発表した。「App Intents」を通じてサードパーティアプリの予約や注文などの操作をSiri経由で行えるようになる(11/4報道)。",
-      "source": "ITmedia NEWS",
-      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002855/"
+      "title": "Anthropic、推論結果を暗号学的に証明する『FlashProve』をオープンソース公開",
+      "summary": "AnthropicのFrontier Red TeamはEPFL・MIT・StarkWareと共同で、特定モデルが特定の応答を生成したことを証明するプロトタイプ「FlashProve」を11月4日にオープンソース公開した。",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/11/04/anthropic-flashprove-provable-inference/"
     },
     {
-      "title": "メール配信サービス「Arara Message」、最大7700万件のメールアドレスが流出",
-      "summary": "PayCloudホールディングス傘下アララのメール配信サービス「Arara Message」がサイバー攻撃を受け、最大約7700万件のメールアドレスなど会員情報が流出した可能性があると発表された。サービスは全面停止されている(11/2～3報道)。",
-      "source": "nippon.com",
-      "link": "https://www.nippon.com/en/articles/-/56805"
+      "title": "OpenAI、開発者向けツール企業Pierre Computerを買収しCodexを強化",
+      "summary": "OpenAIはコード管理ツールを手がけるPierre Computer Companyの買収を発表。Codexの開発者向け基盤を強化する狙いで、買収完了まで両社は別会社として運営される。",
+      "source": "OpenAI",
+      "link": "https://openai.com/index/openai-to-acquire-pierre/"
     },
     {
-      "title": "ノジマオンライン、不正アクセスで約700万件の個人情報が漏えい",
-      "summary": "家電量販店ノジマが運営するECサイトの会員管理システムが不正アクセスを受け、氏名や暗号化されたパスワードなど約700万件の個人情報が漏えいした可能性があると発表した。クレジットカード情報は含まれないとしている(11/2発表)。",
-      "source": "ノジマ(公式発表)",
-      "link": "https://www.nojima.co.jp/news/category/info/7824/"
+      "title": "OpenAI、Appleとの提携は『他社排除ではない』と反論",
+      "summary": "OpenAIは提出書類で、AppleのiPhoneにおけるChatGPT統合契約が他のAI企業を排除するものではないと主張。Elon MuskがOpenAIとAppleを相手に起こした独占禁止訴訟の一環。",
+      "source": "PYMNTS",
+      "link": "https://www.pymnts.com/cpi-posts/openai-says-apple-chatgpt-deal-doesnt-shut-out-ai-rivals/"
+    },
+    {
+      "title": "Apple、年次報告書で自律型AIエージェントのリスクに言及",
+      "summary": "Appleは2026年度の年次報告書(10-K)で、自社・他社が開発するAIエージェント技術が意図しない、予測不能な挙動を取る可能性があるとリスク要因として明記した。",
+      "source": "Apple(SEC提出資料)",
+      "link": "https://www.sec.gov/Archives/edgar/data/0000320193/000032019326000026/aapl-20260926.htm"
     }
   ],
-  "x_trending_tech": [
-    {
-      "title": "米中間選挙結果を受け日経平均が急落、半導体関連に売り集中",
-      "summary": "日本経済新聞電子版が、米中間選挙の結果を受けて日経平均株価が一時2000円超下落し、半導体関連株が売られたと速報(11/4未明の投稿)。",
-      "source": "@nikkei",
-      "link": "https://x.com/nikkei/status/2117797271429358032"
-    },
-    {
-      "title": "「選挙相場が変わった」AIによる自動売りが下落を加速させた可能性と話題に",
-      "summary": "個人投資家が、今回の米中間選挙では開票速報をAIが瞬時に分析して売り判断を下し、他のAI・投資家も追随することで売りが売りを呼ぶ展開になったのではと指摘し話題に(11/4朝の投稿)。",
-      "source": "@nicosokufx",
-      "link": "https://x.com/nicosokufx/status/2117810678824346078"
-    },
-    {
-      "title": "中間選挙の影響を受け続ける日経平均に同情の声",
-      "summary": "米中間選挙の結果に振られ続ける日経平均株価について、「いつも可哀想」と同情する投稿が話題に(11/4朝の投稿)。",
-      "source": "@shiho_312",
-      "link": "https://x.com/shiho_312/status/2117817421079969931"
-    }
-  ]
+  "x_trending_tech": []
 }
