@@ -1,97 +1,43 @@
 {
-  "run_label": "11/5 07:00",
+  "run_label": "11/5 19:00",
   "politics_economy": [
     {
-      "title": "消費税減税法案、与党が『6日に採決』提案 野党は高市首相出席求め協議継続",
-      "summary": "4日の衆院財務金融委員会理事会で与党は、審議時間が積み上がったとして6日の採決を提案。野党側は高市首相の委員会出席・答弁を踏まえて判断したいとして、引き続き協議するとした(11/4報道)。",
-      "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261104de70162"
+      "title": "消費税減税法案、6日の高市首相出席で与野党合意も委員会採決は折り合わず",
+      "summary": "衆院財務金融委員会の与野党協議で、高市首相が6日に1時間出席し答弁することで合意した一方、同日の委員会採決や本会議への緊急上程では折り合えなかったと報じられた(11/5報道)。",
+      "source": "産経新聞/Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/articles/06c0e2acf484bc5cdd3fbe2addc6e2adb99dca32"
     },
     {
-      "title": "消費税減税法案、与党『あす衆院通過を』野党は首相答弁で判断",
-      "summary": "与党は5日に法案を衆院で通過させたい考えを示す一方、野党側は高市首相の答弁内容を見て対応を判断するとした。採決のタイミングを巡る与野党の調整が続く(11/5早朝報道)。",
-      "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261105de70693"
+      "title": "武部農水相、違法献金疑惑に続き利益供与・カメラマン買収疑惑も発覚",
+      "summary": "週刊文春が報じた企業献金問題に続き、無償運動員として登録したカメラマンへの報酬が買収に当たる疑いや、ビールパーティーの抽選会が有権者への利益供与に当たる疑いも新たに発覚し、就任直後の農水相への批判が強まっている。",
+      "source": "日刊ゲンダイ",
+      "link": "https://www.nikkan-gendai.com/articles/view/news/394580"
     },
     {
-      "title": "国民民主・玉木代表「今のままでは賛成あり得ない」 消費税減税法案に注文",
-      "summary": "国民民主党の玉木雄一郎代表は、住民税控除拡充などを柱とする自党の対案が反映されない限り、政府提出の消費税減税法案に現状のままでは賛成できないと述べた(11/4報道)。",
-      "source": "日本経済新聞",
-      "link": "https://nikkei.com/article/DGXZQOUA044G50U6A101C2000000"
+      "title": "日経平均、4日続落 1,110円安の61,077円90銭",
+      "summary": "11月5日の東京株式市場で日経平均は前日比1,110.73円安の61,077.90円で大引けとなり、4日続落した。半導体・AI関連株への売りが指数を圧迫した。",
+      "source": "財経新聞",
+      "link": "https://www.zaikei.co.jp/article/20261105/876303.html"
     },
     {
-      "title": "消費税減税法案、高市首相が6日の委員会出席に合意",
-      "summary": "与野党協議の結果、高市首相が6日の衆院委員会審議に1時間出席し答弁することで合意したと報じられた(11/4夕刻報道)。",
-      "source": "テレビ朝日系(ANN)/Yahoo!ニュース",
-      "link": "https://news.yahoo.co.jp/articles/25ea97eb0643c55808783f38f749e812cd4caeb6"
-    },
-    {
-      "title": "武部農水相に献金問題 公共事業受注企業から受領、返金や訂正を指示",
-      "summary": "武部新農水相が前回衆院選の際、公共事業を受注する企業から献金を受けていたと週刊文春が報道。農水相は献金を把握していなかったとして、返金や政治資金収支報告書の訂正を指示したと説明した。",
-      "source": "週刊文春ほか報道(熊本日日新聞/共同通信)",
-      "link": "https://kumanichi.com/articles/2048885"
+      "title": "日経安でもTOPIXは逆行高、トヨタ上方修正で自動車株が買われる",
+      "summary": "日経平均が大幅安となる中、トヨタ自動車の業績上方修正を背景に自動車株が買われ、TOPIXは前日比45.01ポイント高の3940.39ポイントと逆行高になった(11/5)。",
+      "source": "世界一やさしい投資の学校",
+      "link": "https://tbladvisory.com/20261105nk/"
     }
   ],
   "tech": [
     {
-      "title": "ハイパースケーラー各社とApple、米中間選挙結果を受け株価上昇",
-      "summary": "米中間選挙で政治的不透明感が和らいだことを受け、Amazon・Google・Microsoft・Meta・Appleなど大手テック株が軒並み上昇した(11/4報道)。",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/11/04/apple-and-other-big-tech-stocks-surge-after-2026-midterm-elections.html"
+      "title": "東京市場で半導体・AI関連株が急落、アドバンテストが5,000円超安",
+      "summary": "11月5日の東京株式市場では半導体・AI関連株への売りが優勢となり、アドバンテストは5,085円安の29,485円まで下落、日経平均を大きく圧迫した。",
+      "source": "財経新聞",
+      "link": "https://www.zaikei.co.jp/article/20261105/876311.html"
     },
     {
-      "title": "AI関連株、中間選挙後の反応は分かれる AMDは好決算で上昇、Nvidiaらはデータセンター規制懸念で軟調",
-      "summary": "民主党が上下両院を制したことを受け、AMDは好決算と強い見通しを背景に上昇した一方、NvidiaやMicronなどはデータセンター規制強化への懸念から軟調となった(11/4報道)。",
-      "source": "TipRanks",
-      "link": "https://www.tipranks.com/news/ai-chip-stocks-nvda-amd-and-others-rise-despite-democratic-win-amds-strong-forecast-fuels-optimism"
-    },
-    {
-      "title": "AMDが2026年第3四半期決算発表、データセンター売上が急増し通期見通し上振れ",
-      "summary": "AMDは11月3日、第3四半期決算を発表。Instinct GPUやEPYC CPUの記録的需要でデータセンター部門売上が大幅増となり、第4四半期も増収加速を見込むと説明した。",
-      "source": "AMD(SEC提出資料)",
-      "link": "https://www.sec.gov/Archives/edgar/data/0000002488/000000248826000188/q32026991.htm"
-    },
-    {
-      "title": "Marvell、光部品大手Lumentumを全株式交換で買収へ 企業価値約1150億ドル",
-      "summary": "半導体大手MarvellはAI向け光学・接続技術の強化を目的に、Lumentum Holdingsを全株式交換で買収すると発表。Lumentum株1株につきMarvell株4.5株を割り当てる(11/2発表)。",
-      "source": "Lumentum Holdings(SEC提出資料)",
-      "link": "https://www.sec.gov/Archives/edgar/data/0001633978/000119312526442758/d163169dex991.htm"
-    },
-    {
-      "title": "Anthropic、IPO前に改訂S-1提出 第3四半期売上17億ドル、購入・リース契約総額は約8954億ドル",
-      "summary": "AnthropicはIPOに向け11月2日に改訂版S-1を提出。第3四半期売上は17億ドルとし、データセンターなどの購入・リース契約の累計コミット額が約8954億ドルに達したことを開示した。",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html"
-    },
-    {
-      "title": "Anthropic、AIが自己改良を『大幅に加速』させる段階に近づいていると警告",
-      "summary": "Anthropicは改訂S-1で、AIが自らの能力を再帰的に改善する「RSI」の基準に近づいており、今後進歩が大幅に加速する可能性があるとの見方を示した。",
-      "source": "Benzinga",
-      "link": "https://www.benzinga.com/markets/private-markets/26/11/62815173/safety-risk-anthropic-warns-ai-could-soon-start-improving-itself-at-dramatically-accelerated-pace-2026-last-normal-year-says-expert"
-    },
-    {
-      "title": "Anthropic、推論結果を暗号学的に証明する『FlashProve』をオープンソース公開",
-      "summary": "AnthropicのFrontier Red TeamはEPFL・MIT・StarkWareと共同で、特定モデルが特定の応答を生成したことを証明するプロトタイプ「FlashProve」を11月4日にオープンソース公開した。",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/11/04/anthropic-flashprove-provable-inference/"
-    },
-    {
-      "title": "OpenAI、開発者向けツール企業Pierre Computerを買収しCodexを強化",
-      "summary": "OpenAIはコード管理ツールを手がけるPierre Computer Companyの買収を発表。Codexの開発者向け基盤を強化する狙いで、買収完了まで両社は別会社として運営される。",
-      "source": "OpenAI",
-      "link": "https://openai.com/index/openai-to-acquire-pierre/"
-    },
-    {
-      "title": "OpenAI、Appleとの提携は『他社排除ではない』と反論",
-      "summary": "OpenAIは提出書類で、AppleのiPhoneにおけるChatGPT統合契約が他のAI企業を排除するものではないと主張。Elon MuskがOpenAIとAppleを相手に起こした独占禁止訴訟の一環。",
-      "source": "PYMNTS",
-      "link": "https://www.pymnts.com/cpi-posts/openai-says-apple-chatgpt-deal-doesnt-shut-out-ai-rivals/"
-    },
-    {
-      "title": "Apple、年次報告書で自律型AIエージェントのリスクに言及",
-      "summary": "Appleは2026年度の年次報告書(10-K)で、自社・他社が開発するAIエージェント技術が意図しない、予測不能な挙動を取る可能性があるとリスク要因として明記した。",
-      "source": "Apple(SEC提出資料)",
-      "link": "https://www.sec.gov/Archives/edgar/data/0000320193/000032019326000026/aapl-20260926.htm"
+      "title": "Nvidia、対中国のAIクラウド需要に49%上限規制 テック企業に打撃",
+      "summary": "米国の対中輸出規制強化により、NvidiaのAIクラウド向け需要に49%の上限が課される見通しとなり、関連するテック企業への影響が懸念されていると報じられた(11/4報道)。",
+      "source": "The Coin Republic",
+      "link": "https://www.thecoinrepublic.com/2026/11/04/nvidia-news-new-49-china-ai-cloud-limit-threatens-tech-firms/"
     }
   ],
   "x_trending_tech": []
