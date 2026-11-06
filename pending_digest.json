@@ -1,79 +1,49 @@
 {
-  "run_label": "11/6 19:00",
+  "run_label": "11/7 07:00",
   "politics_economy": [
     {
-      "title": "消費税減税法案、衆院本会議を通過 与党などの賛成多数で可決",
-      "summary": "飲食料品の消費税率を2027年度から2年間、1%に引き下げる関連法案が11/6、衆院本会議で自民・維新などの賛成多数により可決・通過した。参院審議は後日始まる見通し。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026110600299&g=pol"
+      "title": "政府、相次ぐサイバー攻撃に緊急対策パッケージを発表",
+      "summary": "高市首相は11/6、相次ぐサイバー攻撃を受けた緊急対策パッケージを発表した。被害企業への支援強化などを柱とし、AI企業との連携強化も進める方針。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-06/japan-pm-takaichi-announces-emergency-cybersecurity-package"
     },
     {
-      "title": "高市首相、現金給付対象「就業者の3割以上」で検討の考え",
-      "summary": "消費税減税とあわせた所得連動型の現金給付について、高市首相は11/6の衆院財金委で、支給対象を就業者の3割以上とする方向で検討したいと答弁。年収上限も350万円から引き上げる可能性に言及した。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUA055F70V01C26A1000000/"
+      "title": "高市首相の台湾有事発言から1年、日中関係は依然膠着",
+      "summary": "高市首相が台湾有事に関する答弁を行ってから1年となる11/6、日中間の対話は進まず緊張緩和の兆しは乏しいと報じられた。",
+      "source": "The Japan Times",
+      "link": "https://www.japantimes.co.jp/news/2026/11/06/japan/politics/takaichi-taiwan-remarks-anniversary/"
     },
     {
-      "title": "消費税減税法案の衆院本会議、自民議員らの途中退席が話題に",
-      "summary": "11/6の衆院本会議で消費税減税関連法案が審議される中、自民議員らが途中退席したことが注目を集めた。高市首相は個別議員の行動についてコメントを差し控えた。",
-      "source": "産経新聞(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/0f077824e99a26cb09fa32ead5bc7f56c33d1a16"
-    },
-    {
-      "title": "日経平均、終値3643円安の5万7434円 ベアマーケット入り",
-      "summary": "11/6の東京株式市場で日経平均は前日比3643円安の5万7434円で取引を終了。終値としての下落幅は過去3番目で、6月の高値から20%超下落しベアマーケット入りした。米国株でのAI関連株急落が波及した。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026110600772&g=flash"
-    },
-    {
-      "title": "日経平均急落に高市首相「予断許さない」",
-      "summary": "AI関連株の急落で日経平均がベアマーケット入りしたことを受け、高市首相は11/6、株式市場の動向について「予断を許さない」との認識を示した。",
-      "source": "Yahoo!ニュース",
-      "link": "https://news.yahoo.co.jp/pickup/6601520"
+      "title": "高市首相、トルコでのCOP31気候サミットを欠席",
+      "summary": "高市首相は日程上の理由からCOP31首脳級会合(トルコ)への出席を見送り、笹川博義環境相が代理出席すると11/5に発表された。",
+      "source": "The Japan Times",
+      "link": "https://www.japantimes.co.jp/news/2026/11/05/japan/takaichi-climate-summit/"
     }
   ],
   "tech": [
     {
-      "title": "米国株、AI株大幅安でS&P500が4.4%安 2025年4月以来の最悪日",
-      "summary": "11/5の米国市場でAI関連株の大規模な売りが広がり、S&P500は4.4%安、ナスダックは5.5%安となった。AIデータセンター投資への規制強化懸念とバリュエーションへの不安が背景とされる。",
-      "source": "The Washington Post",
-      "link": "https://www.washingtonpost.com/business/2026/11/04/stocks-markets-ai-midterm-oil-trump/fe6cabb2-d8c4-11f1-930a-e08f8086f5ac_story.html"
+      "title": "中間選挙後もAI・データセンター業界は「結局勝者」との分析",
+      "summary": "米民主党が議会多数派を握りAI・データセンールへの規制強化が議論される一方、大手ハイテク企業は結局勝ち続けるとの分析が11/6に報じられた。",
+      "source": "SiliconANGLE",
+      "link": "https://siliconangle.com/2026/11/06/midterm-elections-will-put-ai-and-data-centers-on-trial-but-big-tech-may-end-up-winning-anyway"
     },
     {
-      "title": "ナスダック5.5%安、ウォール街でAI株から3兆ドル超消失",
-      "summary": "AIバブル懸念の高まりから、11/5の米国市場でナスダック総合指数が5.5%急落。AI関連株を中心に市場価値が3兆ドル超吹き飛んだと報じられた。",
-      "source": "Gulf Business",
-      "link": "https://gulfbusiness.com/en/2026/world/global-ai-stock-selloff-wipes-trillions-off-wall-street-as-nasdaq-plunges-5-5/"
+      "title": "NvidiaとQualcomm急落、AI関連株に大規模な売り",
+      "summary": "11/5の米市場でNvidiaとQualcommの株価がそれぞれ9%超下落し、ナスダックは2025年4月以来最悪の1日となった。",
+      "source": "CNBC",
+      "link": "https://cnbc.com/2026/11/05/qualcomm-earnings-chip-stocks-election.html"
     },
     {
-      "title": "アジアの半導体株も連鎖安、韓国コスピは取引停止・TSMCも急落",
-      "summary": "米国発のAI株急落がアジア市場に波及し、韓国コスピが取引を一時停止するほど急落、台湾TSMC株も大幅に値を下げた。半導体サプライチェーン全体への懸念が広がっている。",
-      "source": "Pomegra",
-      "link": "https://pomegra.io/news/asia-chip-rout-deepens-kospi-halted-tsmc-falls-10"
+      "title": "Qualcomm、2026年度第4四半期決算を発表 売上は予想上回るも株価は下落",
+      "summary": "Qualcommは11/4(現地時間)に決算を発表。売上高は予想を上回ったが、ハンドセット事業の低迷と来期見通しの弱さを受け株価は時間外取引で下落した。",
+      "source": "AP通信(WTOP)",
+      "link": "https://wtop.com/national/2026/11/qualcomm-fiscal-q4-earnings-snapshot"
     },
     {
-      "title": "AMD17%安、Broadcom10%安 米半導体株にAI規制懸念で売り",
-      "summary": "米中間選挙を受けたAIデータセンター規制強化への警戒から、AMDが17%安、Broadcomが10%安、Intelも8%安となるなど、米半導体株に大規模な売りが出た。",
-      "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/technology/ai/articles/amd-tumbles-13-nvidia-slides-154601778.html"
-    },
-    {
-      "title": "日経平均ベアマーケット入り、ソフトバンクG・アドバンテストがAI株売りを主導",
-      "summary": "11/6の東京市場では日経平均が6%急落してベアマーケット入り。ソフトバンクグループやアドバンテストなどAI関連株の下落が指数を押し下げた、日本で2025年以降最悪の下落日となった。",
-      "source": "International Business Times AU",
-      "link": "https://www.ibtimes.com.au/japan-nikkei-bear-market-ai-stock-selloff-1878028"
-    },
-    {
-      "title": "OpenAI、セキュリティ特化モデル「GPT-6 Cyber」の提供開始",
-      "summary": "OpenAIがエクスプロイト調査能力を強化したセキュリティ特化モデル「GPT-6 Cyber」の提供を開始。利用は承認制で、API価格はAnthropicやGoogleの競合モデルより高額に設定されている。",
-      "source": "VentureBeat",
-      "link": "https://venturebeat.com/technology/openai-launches-gpt-6-cyber-with-stronger-exploit-research-and-higher-api-price-than-anthropic-and-google"
-    },
-    {
-      "title": "Google・Microsoft・OpenAI・Anthropic、AI学習オプトアウトの共通規格で合意",
-      "summary": "大手AI企業4社が、サイト運営者がrobots.txtの単一ルールでAI学習への利用を一括拒否できる共通の仕組みの導入を支持すると発表。対応時期は各社で異なり、Microsoftは2027年2月を目標としている。",
-      "source": "TheNextWeb",
-      "link": "https://thenextweb.com/news/ai-training-opt-out-robots-txt-google-openai-microsoft-anthropic"
+      "title": "Apple、Siri AIの開発者向けプレビューを全デベロッパーに開放",
+      "summary": "Appleは11/3、App Intentsを通じてどのデベロッパーもアプリをSiri AIと連携させられる開発者向けプレビューをiOS 27.3ベータなどで開始したと発表した。",
+      "source": "Apple Developer News",
+      "link": "https://developer.apple.com/news?id=gdk2umrf"
     }
   ],
   "x_trending_tech": []
