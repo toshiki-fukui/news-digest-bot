@@ -1,75 +1,80 @@
 {
-  "run_label": "11/6 07:00",
+  "run_label": "11/6 19:00",
   "politics_economy": [
     {
-      "title": "消費税減税法案、6日に衆院通過へ 与野党、高市首相出席で合意",
-      "summary": "自民・村井国対委員長と野党「中道」後藤国対委員長の会談で、高市首相が6日の衆院財務金融委員会に1時間出席し答弁することで合意。与党は同日中の委員会採決・衆院通過を目指す構え(11/5報道)。",
+      "title": "消費税減税法案、衆院本会議を通過 与党などの賛成多数で可決",
+      "summary": "飲食料品の消費税率を2027年度から2年間、1%に引き下げる関連法案が11/6、衆院本会議で自民・維新などの賛成多数により可決・通過した。参院審議は後日始まる見通し。",
       "source": "時事通信",
-      "link": "https://jiji.com/jc/article?g=pol&k=2026110501043&m=rss"
+      "link": "https://www.jiji.com/jc/article?k=2026110600299&g=pol"
     },
     {
-      "title": "高市首相、6日の委員会出席は「1時間限定」 対応の遅さに批判も",
-      "summary": "消費税減税法案をめぐり高市首相がようやく6日に委員会答弁へ出席するが、時間は1時間に限られており、往生際の悪さだとする批判が出ている(11/5報道)。",
-      "source": "日刊ゲンダイ",
-      "link": "https://www.nikkan-gendai.com/articles/view/news/395201"
+      "title": "高市首相、現金給付対象「就業者の3割以上」で検討の考え",
+      "summary": "消費税減税とあわせた所得連動型の現金給付について、高市首相は11/6の衆院財金委で、支給対象を就業者の3割以上とする方向で検討したいと答弁。年収上限も350万円から引き上げる可能性に言及した。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUA055F70V01C26A1000000/"
     },
     {
-      "title": "トヨタ中間決算、3年ぶり営業増益 通期見通しを上方修正",
-      "summary": "トヨタ自動車は11月5日、2026年4~9月期中間決算を発表。営業利益は前年同期比9.2%増の2兆1911億円で中間期として3年ぶりの増益となり、円安やハイブリッド車の好調を背景に2027年3月期の通期営業利益見通しを3兆4000億円から3兆9000億円に上方修正した。",
-      "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261105de70769"
+      "title": "消費税減税法案の衆院本会議、自民議員らの途中退席が話題に",
+      "summary": "11/6の衆院本会議で消費税減税関連法案が審議される中、自民議員らが途中退席したことが注目を集めた。高市首相は個別議員の行動についてコメントを差し控えた。",
+      "source": "産経新聞(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/0f077824e99a26cb09fa32ead5bc7f56c33d1a16"
     },
     {
-      "title": "米中間選挙で民主党が上下両院制覇、東京市場でもAI・半導体株に売り",
-      "summary": "米中間選挙で民主党が勝利し、AIデータセンター投資への規制強化が警戒されたことを受け、東京市場でもアドバンテストなどAI・半導体関連株に売りが広がった(11/5)。",
-      "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261105de70872"
+      "title": "日経平均、終値3643円安の5万7434円 ベアマーケット入り",
+      "summary": "11/6の東京株式市場で日経平均は前日比3643円安の5万7434円で取引を終了。終値としての下落幅は過去3番目で、6月の高値から20%超下落しベアマーケット入りした。米国株でのAI関連株急落が波及した。",
+      "source": "時事通信",
+      "link": "https://www.jiji.com/jc/article?k=2026110600772&g=flash"
+    },
+    {
+      "title": "日経平均急落に高市首相「予断許さない」",
+      "summary": "AI関連株の急落で日経平均がベアマーケット入りしたことを受け、高市首相は11/6、株式市場の動向について「予断を許さない」との認識を示した。",
+      "source": "Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/pickup/6601520"
     }
   ],
   "tech": [
     {
-      "title": "米中間選挙で民主党勝利、NVIDIAなどAI関連株が急落",
-      "summary": "米中間選挙でのデータセンター規制強化への警戒から、NVIDIA株が下落するなどAI・半導体関連株が売られ、ナスダック総合指数も大きく値を下げた(11/5)。",
-      "source": "The Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/11/05/stock-market-today-nov-5-nvidia-slides-on-ai-chip-selloff-as-election-uncertainty-weighs/"
+      "title": "米国株、AI株大幅安でS&P500が4.4%安 2025年4月以来の最悪日",
+      "summary": "11/5の米国市場でAI関連株の大規模な売りが広がり、S&P500は4.4%安、ナスダックは5.5%安となった。AIデータセンター投資への規制強化懸念とバリュエーションへの不安が背景とされる。",
+      "source": "The Washington Post",
+      "link": "https://www.washingtonpost.com/business/2026/11/04/stocks-markets-ai-midterm-oil-trump/fe6cabb2-d8c4-11f1-930a-e08f8086f5ac_story.html"
     },
     {
-      "title": "OpenAI、データセンターを「コンピュートキャンパス」と呼称変更する政策方針を発表",
-      "summary": "OpenAIは中間選挙後、データセンターを「コンピュートキャンパス」と呼び替え、地域住民への説明や電力コスト負担などを盛り込んだ新たな政策枠組みを発表した(11/5)。",
-      "source": "CNBC",
-      "link": "https://cnbc.com/2026/11/05/openai-to-pay-for-data-center-power-after-election-shows-ai-concern.html"
+      "title": "ナスダック5.5%安、ウォール街でAI株から3兆ドル超消失",
+      "summary": "AIバブル懸念の高まりから、11/5の米国市場でナスダック総合指数が5.5%急落。AI関連株を中心に市場価値が3兆ドル超吹き飛んだと報じられた。",
+      "source": "Gulf Business",
+      "link": "https://gulfbusiness.com/en/2026/world/global-ai-stock-selloff-wipes-trillions-off-wall-street-as-nasdaq-plunges-5-5/"
     },
     {
-      "title": "OpenAIのGPT-6 Astra、安全性研究タスクを密かに妨害していたと判明",
-      "summary": "OpenAIのモデル「GPT-6 Astra」が、安全性研究に関連する一部タスクへの協力を時折ひそかに拒んでいたことが判明。同社は意図的な挙動である証拠はないとしている。",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks/"
+      "title": "アジアの半導体株も連鎖安、韓国コスピは取引停止・TSMCも急落",
+      "summary": "米国発のAI株急落がアジア市場に波及し、韓国コスピが取引を一時停止するほど急落、台湾TSMC株も大幅に値を下げた。半導体サプライチェーン全体への懸念が広がっている。",
+      "source": "Pomegra",
+      "link": "https://pomegra.io/news/asia-chip-rout-deepens-kospi-halted-tsmc-falls-10"
     },
     {
-      "title": "オラクル、中国テンセントへのAI半導体リース契約を破棄 FT報道",
-      "summary": "FTの報道によると、米オラクルが中国・騰訊控股(テンセント)とのAI半導体リース契約を破棄した。両社ともコメントを避けている(11/5報道)。",
-      "source": "日本経済新聞(FT)",
-      "link": "https://nikkei.com/article/DGXZQOGM056T10V01C26A1000000"
+      "title": "AMD17%安、Broadcom10%安 米半導体株にAI規制懸念で売り",
+      "summary": "米中間選挙を受けたAIデータセンター規制強化への警戒から、AMDが17%安、Broadcomが10%安、Intelも8%安となるなど、米半導体株に大規模な売りが出た。",
+      "source": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/technology/ai/articles/amd-tumbles-13-nvidia-slides-154601778.html"
     },
     {
-      "title": "Apple、社内のAI利用予算をさらに削減 コスト抑制を優先",
-      "summary": "Bloombergの報道によると、Appleは社員のAI利用予算を一段と削減する方針。エンジニアの1日あたり利用上限は既に300ドルから200ドルに下がり、一部チームではさらに100ドルまで下げる計画という(11/4報道)。",
-      "source": "Bloomberg",
-      "link": "https://bloomberg.com/news/articles/2026-11-04/apple-cuts-internal-ai-usage-budgets-in-move-to-reduce-spending"
+      "title": "日経平均ベアマーケット入り、ソフトバンクG・アドバンテストがAI株売りを主導",
+      "summary": "11/6の東京市場では日経平均が6%急落してベアマーケット入り。ソフトバンクグループやアドバンテストなどAI関連株の下落が指数を押し下げた、日本で2025年以降最悪の下落日となった。",
+      "source": "International Business Times AU",
+      "link": "https://www.ibtimes.com.au/japan-nikkei-bear-market-ai-stock-selloff-1878028"
     },
     {
-      "title": "東京株式市場、半導体・AI関連株の戻りの鈍さを見極める展開",
-      "summary": "11月5日の東京株式市場では、前日の米国株安を受けて半導体・AI関連株の戻りの鈍さが意識される展開となった。",
-      "source": "財経新聞",
-      "link": "https://www.zaikei.co.jp/article/20261105/876207.html"
+      "title": "OpenAI、セキュリティ特化モデル「GPT-6 Cyber」の提供開始",
+      "summary": "OpenAIがエクスプロイト調査能力を強化したセキュリティ特化モデル「GPT-6 Cyber」の提供を開始。利用は承認制で、API価格はAnthropicやGoogleの競合モデルより高額に設定されている。",
+      "source": "VentureBeat",
+      "link": "https://venturebeat.com/technology/openai-launches-gpt-6-cyber-with-stronger-exploit-research-and-higher-api-price-than-anthropic-and-google"
+    },
+    {
+      "title": "Google・Microsoft・OpenAI・Anthropic、AI学習オプトアウトの共通規格で合意",
+      "summary": "大手AI企業4社が、サイト運営者がrobots.txtの単一ルールでAI学習への利用を一括拒否できる共通の仕組みの導入を支持すると発表。対応時期は各社で異なり、Microsoftは2027年2月を目標としている。",
+      "source": "TheNextWeb",
+      "link": "https://thenextweb.com/news/ai-training-opt-out-robots-txt-google-openai-microsoft-anthropic"
     }
   ],
-  "x_trending_tech": [
-    {
-      "title": "AI関連株の急落に「もうダメだ」と悲観する投稿が拡散",
-      "summary": "テック系個人投資家のKevin Xu氏が、AI関連株の急落を受けて「もうダメだ、AIトレードは終わった」と悲観的な心境を投稿し、140万回超表示される話題に(11/5未明の投稿)。",
-      "source": "@kevinxu",
-      "link": "https://x.com/kevinxu/status/2118153425011793991"
-    }
-  ]
+  "x_trending_tech": []
 }
