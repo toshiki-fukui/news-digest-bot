@@ -1,55 +1,37 @@
 {
-  "run_label": "11/7 19:00",
+  "run_label": "11/8 07:00",
   "politics_economy": [
     {
-      "title": "消費税減税法案、衆院採決で石破前首相らが棄権・退席",
-      "summary": "高市内閣が重視する消費税減税関連法案の採決(11/6)で、石破茂前首相らが棄権・退席した。高市首相は会見で個々の議員の行動への評価は「政府としてコメントは控える」と述べ、参院審議でも丁寧な説明を続ける方針を示した。",
-      "source": "ライブドアニュース(時事通信配信)",
-      "link": "https://news.livedoor.com/topics/detail/32750646/"
-    },
-    {
-      "title": "西日本の信用金庫128機関でシステム障害、ATM・窓口が一時利用不可に",
-      "summary": "11/6、西日本の128の信用金庫で共同システムの障害が発生し、ATMが停止、窓口でも取引ができない状態となった。利用者への影響が広がり、復旧作業が進められた。",
-      "source": "テレビ朝日系(ANN)/Yahoo!ニュース",
-      "link": "https://news.yahoo.co.jp/articles/5062e5489976f014668c723b6089a4de8d44182c"
+      "title": "食料品消費税1%への減税法案が成立、自民が野党の協力得て採決",
+      "summary": "飲食料品の消費税率を1%に引き下げる関連法案が、自民党が一部野党の賛同を得て成立した。国民民主党は参院での審議運営について強引にならないよう牽制するコメントを出している(11/6〜11/7報道)。",
+      "source": "熊本日日新聞(共同通信配信)",
+      "link": "https://kumanichi.com/articles/2050352"
     }
   ],
   "tech": [
     {
-      "title": "TSMC、Nvidia向けAI先進メモリ半導体の生産参入を検討",
-      "summary": "The Informationの報道によると、TSMCはNvidiaの要請を受け、3D DRAMなど先進的なAI向けメモリ半導体の製造参入を検討している。計画はまだ初期段階で、投資規模や時期は未定(11/6報道)。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-06/tsmc-mulls-making-advanced-ai-memory-chips-information-says"
+      "title": "アナログ・デバイセズ、エッジAI半導体のAlif Semiconductor買収完了",
+      "summary": "アナログ・デバイセズは、フィジカルAI向けの低電力・高性能エッジAI半導体を手がけるAlif Semiconductorの買収完了を発表。エッジAI半導体のポートフォリオを拡充する(11/6報道)。",
+      "source": "マイナビニュース TECH+",
+      "link": "https://news.mynavi.jp/techplus/article/20261106-5268880"
     },
     {
-      "title": "アジア半導体株が続落、SKハイニックス・サムスン・ソフトバンクGも下落",
-      "summary": "AI投資への過熱感を警戒したナスダック下落の流れを受け、11/6のアジア市場でSKハイニックス、サムスン電子、ソフトバンクグループ、TSMCなど半導体関連株が軒並み下落した。",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/11/06/tech-stocks-sk-hynix-samsung-softbank.html"
+      "title": "STマイクロ、組み込み開発にAIエージェントを活用する新ツール発表",
+      "summary": "STマイクロエレクトロニクスは、STM32マイコンを使った組み込みソフトウェア開発にAIエージェントを活用できる新ツール「STM32Cube for Agentic AI」を発表。コーディング精度の向上を狙う(11/6報道)。",
+      "source": "マイナビニュース TECH+",
+      "link": "https://news.mynavi.jp/techplus/article/20261106-5268448"
     },
     {
-      "title": "サムスン、米テキサス第2工場でAMD・Nvidia向けHBM基板チップ生産へ",
-      "summary": "韓国メディアの報道によると、サムスン電子はテキサス州の第2工場(Taylor Fab 2)でAMDとNvidia向けのHBM基板チップを2nmプロセスで生産する計画。量産は2030年を予定し、建設開始前から受注が埋まっているという(11/3報道)。",
-      "source": "The Next Web(Reuters報道引用)",
-      "link": "https://thenextweb.com/news/samsung-second-texas-fab-amd-nvidia-hbm"
+      "title": "TSMC、AIエージェントで半導体設計を自律化する取り組みを推進",
+      "summary": "TSMCは、AIエージェントによって回路最適化やレイアウト移行を自律的に進め、アナログ/RF設計の生産性を最大6倍高める「AI Design Kit」の展開を進めていると報じられた(11/6報道)。",
+      "source": "マイナビニュース TECH+",
+      "link": "https://news.mynavi.jp/techplus/article/20261106-5269182"
     },
     {
-      "title": "Dropbox、AIインフラ企業Tigris Dataを約350億円で買収",
-      "summary": "Dropboxは、AI向け分散オブジェクトストレージを手がけるTigris Dataを現金約3.5億ドルで買収すると発表。新たなAI基盤事業「DBX Agent Cloud」も立ち上げ、AIインフラ分野への参入を進める(買収は2026年第4四半期完了予定)。",
-      "source": "Dropbox(SEC開示資料)",
-      "link": "https://www.sec.gov/Archives/edgar/data/0001467623/000146762326000056/november2026exhibit991.htm"
-    },
-    {
-      "title": "AIセールス企業Nooks、General Catalystから5億ドルの資金コミットメント獲得",
-      "summary": "AI営業支援スタートアップのNooksは、General Catalystの「Customer Value Fund」から5億ドルの非希薄化型資金コミットメントを獲得。新たなAI営業アシスタント「Node」を含む新プラットフォームも発表した(11/4)。",
-      "source": "Reuters(KFGO配信)",
-      "link": "https://kfgo.com/2026/11/04/ai-sales-startup-nooks-secures-500-million-in-funding-for-expansion/"
-    },
-    {
-      "title": "イスラエルのAI新興42AI、人間の行動予測モデルで6250万ドル調達しステルス脱却",
-      "summary": "イスラエルのAI企業42AIは、人間の行動を予測する「行動世界モデル」技術で6250万ドルの資金を確保し、ステルスモードから脱却したと発表。すでに大手証券会社10社と提携しているという(11/2)。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/"
+      "title": "半導体株、前日の急落から一転して反発 Nvidiaは2%超上昇",
+      "summary": "11/5に米中間選挙結果を受けてNvidiaやQualcommが9%超下落する急落となった半導体株が、11/6には一転して反発。フィラデルフィア半導体指数は約4%上昇し、Nvidiaも2%超上昇した。",
+      "source": "StockTitan",
+      "link": "https://stocktitan.net/articles/stock-market-today-live-november-6-2026"
     }
   ],
   "x_trending_tech": []
