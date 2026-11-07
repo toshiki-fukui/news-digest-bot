@@ -1,49 +1,55 @@
 {
-  "run_label": "11/7 07:00",
+  "run_label": "11/7 19:00",
   "politics_economy": [
     {
-      "title": "政府、相次ぐサイバー攻撃に緊急対策パッケージを発表",
-      "summary": "高市首相は11/6、相次ぐサイバー攻撃を受けた緊急対策パッケージを発表した。被害企業への支援強化などを柱とし、AI企業との連携強化も進める方針。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-06/japan-pm-takaichi-announces-emergency-cybersecurity-package"
+      "title": "消費税減税法案、衆院採決で石破前首相らが棄権・退席",
+      "summary": "高市内閣が重視する消費税減税関連法案の採決(11/6)で、石破茂前首相らが棄権・退席した。高市首相は会見で個々の議員の行動への評価は「政府としてコメントは控える」と述べ、参院審議でも丁寧な説明を続ける方針を示した。",
+      "source": "ライブドアニュース(時事通信配信)",
+      "link": "https://news.livedoor.com/topics/detail/32750646/"
     },
     {
-      "title": "高市首相の台湾有事発言から1年、日中関係は依然膠着",
-      "summary": "高市首相が台湾有事に関する答弁を行ってから1年となる11/6、日中間の対話は進まず緊張緩和の兆しは乏しいと報じられた。",
-      "source": "The Japan Times",
-      "link": "https://www.japantimes.co.jp/news/2026/11/06/japan/politics/takaichi-taiwan-remarks-anniversary/"
-    },
-    {
-      "title": "高市首相、トルコでのCOP31気候サミットを欠席",
-      "summary": "高市首相は日程上の理由からCOP31首脳級会合(トルコ)への出席を見送り、笹川博義環境相が代理出席すると11/5に発表された。",
-      "source": "The Japan Times",
-      "link": "https://www.japantimes.co.jp/news/2026/11/05/japan/takaichi-climate-summit/"
+      "title": "西日本の信用金庫128機関でシステム障害、ATM・窓口が一時利用不可に",
+      "summary": "11/6、西日本の128の信用金庫で共同システムの障害が発生し、ATMが停止、窓口でも取引ができない状態となった。利用者への影響が広がり、復旧作業が進められた。",
+      "source": "テレビ朝日系(ANN)/Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/articles/5062e5489976f014668c723b6089a4de8d44182c"
     }
   ],
   "tech": [
     {
-      "title": "中間選挙後もAI・データセンター業界は「結局勝者」との分析",
-      "summary": "米民主党が議会多数派を握りAI・データセンールへの規制強化が議論される一方、大手ハイテク企業は結局勝ち続けるとの分析が11/6に報じられた。",
-      "source": "SiliconANGLE",
-      "link": "https://siliconangle.com/2026/11/06/midterm-elections-will-put-ai-and-data-centers-on-trial-but-big-tech-may-end-up-winning-anyway"
+      "title": "TSMC、Nvidia向けAI先進メモリ半導体の生産参入を検討",
+      "summary": "The Informationの報道によると、TSMCはNvidiaの要請を受け、3D DRAMなど先進的なAI向けメモリ半導体の製造参入を検討している。計画はまだ初期段階で、投資規模や時期は未定(11/6報道)。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-06/tsmc-mulls-making-advanced-ai-memory-chips-information-says"
     },
     {
-      "title": "NvidiaとQualcomm急落、AI関連株に大規模な売り",
-      "summary": "11/5の米市場でNvidiaとQualcommの株価がそれぞれ9%超下落し、ナスダックは2025年4月以来最悪の1日となった。",
+      "title": "アジア半導体株が続落、SKハイニックス・サムスン・ソフトバンクGも下落",
+      "summary": "AI投資への過熱感を警戒したナスダック下落の流れを受け、11/6のアジア市場でSKハイニックス、サムスン電子、ソフトバンクグループ、TSMCなど半導体関連株が軒並み下落した。",
       "source": "CNBC",
-      "link": "https://cnbc.com/2026/11/05/qualcomm-earnings-chip-stocks-election.html"
+      "link": "https://www.cnbc.com/2026/11/06/tech-stocks-sk-hynix-samsung-softbank.html"
     },
     {
-      "title": "Qualcomm、2026年度第4四半期決算を発表 売上は予想上回るも株価は下落",
-      "summary": "Qualcommは11/4(現地時間)に決算を発表。売上高は予想を上回ったが、ハンドセット事業の低迷と来期見通しの弱さを受け株価は時間外取引で下落した。",
-      "source": "AP通信(WTOP)",
-      "link": "https://wtop.com/national/2026/11/qualcomm-fiscal-q4-earnings-snapshot"
+      "title": "サムスン、米テキサス第2工場でAMD・Nvidia向けHBM基板チップ生産へ",
+      "summary": "韓国メディアの報道によると、サムスン電子はテキサス州の第2工場(Taylor Fab 2)でAMDとNvidia向けのHBM基板チップを2nmプロセスで生産する計画。量産は2030年を予定し、建設開始前から受注が埋まっているという(11/3報道)。",
+      "source": "The Next Web(Reuters報道引用)",
+      "link": "https://thenextweb.com/news/samsung-second-texas-fab-amd-nvidia-hbm"
     },
     {
-      "title": "Apple、Siri AIの開発者向けプレビューを全デベロッパーに開放",
-      "summary": "Appleは11/3、App Intentsを通じてどのデベロッパーもアプリをSiri AIと連携させられる開発者向けプレビューをiOS 27.3ベータなどで開始したと発表した。",
-      "source": "Apple Developer News",
-      "link": "https://developer.apple.com/news?id=gdk2umrf"
+      "title": "Dropbox、AIインフラ企業Tigris Dataを約350億円で買収",
+      "summary": "Dropboxは、AI向け分散オブジェクトストレージを手がけるTigris Dataを現金約3.5億ドルで買収すると発表。新たなAI基盤事業「DBX Agent Cloud」も立ち上げ、AIインフラ分野への参入を進める(買収は2026年第4四半期完了予定)。",
+      "source": "Dropbox(SEC開示資料)",
+      "link": "https://www.sec.gov/Archives/edgar/data/0001467623/000146762326000056/november2026exhibit991.htm"
+    },
+    {
+      "title": "AIセールス企業Nooks、General Catalystから5億ドルの資金コミットメント獲得",
+      "summary": "AI営業支援スタートアップのNooksは、General Catalystの「Customer Value Fund」から5億ドルの非希薄化型資金コミットメントを獲得。新たなAI営業アシスタント「Node」を含む新プラットフォームも発表した(11/4)。",
+      "source": "Reuters(KFGO配信)",
+      "link": "https://kfgo.com/2026/11/04/ai-sales-startup-nooks-secures-500-million-in-funding-for-expansion/"
+    },
+    {
+      "title": "イスラエルのAI新興42AI、人間の行動予測モデルで6250万ドル調達しステルス脱却",
+      "summary": "イスラエルのAI企業42AIは、人間の行動を予測する「行動世界モデル」技術で6250万ドルの資金を確保し、ステルスモードから脱却したと発表。すでに大手証券会社10社と提携しているという(11/2)。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/"
     }
   ],
   "x_trending_tech": []
