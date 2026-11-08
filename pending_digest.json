@@ -1,37 +1,91 @@
 {
-  "run_label": "11/8 07:00",
+  "run_label": "11/8 19:00",
   "politics_economy": [
     {
-      "title": "食料品消費税1%への減税法案が成立、自民が野党の協力得て採決",
-      "summary": "飲食料品の消費税率を1%に引き下げる関連法案が、自民党が一部野党の賛同を得て成立した。国民民主党は参院での審議運営について強引にならないよう牽制するコメントを出している(11/6〜11/7報道)。",
-      "source": "熊本日日新聞(共同通信配信)",
-      "link": "https://kumanichi.com/articles/2050352"
+      "title": "高市首相の「台湾有事」答弁から1年、日中関係は打開策見えず",
+      "summary": "2025年11月7日の衆院予算委員会での「台湾有事」答弁からちょうど1年。中国は日本への渡航自粛要請や水産物輸入停止などの対抗措置を続けており、日中関係は改善の糸口を探る段階にとどまっている。",
+      "source": "琉球新報",
+      "link": "https://ryukyushimpo.jp/national/entry-5585961.html"
+    },
+    {
+      "title": "高市内閣支持率、5カ月連続で下落し42.4%に",
+      "summary": "時事通信が10月9~12日に実施した世論調査で、高市内閣の支持率は前月比1.7ポイント減の42.4%となり発足以来の最低を更新した。農相更迭対応の遅れなどが影響したとみられる。",
+      "source": "時事通信(nippon.com)",
+      "link": "https://www.nippon.com/ja/news/yjj2026101500705/"
+    },
+    {
+      "title": "トヨタ、4~9月期営業利益9.2%増 通期を3.9兆円に上方修正",
+      "summary": "トヨタ自動車は11月5日、2027年3月期第2四半期(4~9月)決算を発表。営業利益は前年同期比9.2%増の2兆1911億円となり、通期の営業利益予想を従来の3兆4000億円から3兆9000億円に上方修正した。",
+      "source": "トヨタ自動車(決算資料)",
+      "link": "https://global.toyota/pages/global_toyota/ir/financial-results/2026_2q_presentation_jp.pdf"
+    },
+    {
+      "title": "米中間選挙で民主党大勝、トランプ氏に打撃 日本への影響は",
+      "summary": "11月4日の米中間選挙で民主党が大勝。日本政府内では、内政で制約を受けたトランプ大統領が外交での成果を焦り北朝鮮や中国に接近することへの懸念が出ているほか、米国産輸入食品への影響も指摘されている。",
+      "source": "ANN系(KAB熊本朝日放送)",
+      "link": "https://www.kab.co.jp/news/article/17023595"
     }
   ],
   "tech": [
     {
-      "title": "アナログ・デバイセズ、エッジAI半導体のAlif Semiconductor買収完了",
-      "summary": "アナログ・デバイセズは、フィジカルAI向けの低電力・高性能エッジAI半導体を手がけるAlif Semiconductorの買収完了を発表。エッジAI半導体のポートフォリオを拡充する(11/6報道)。",
-      "source": "マイナビニュース TECH+",
-      "link": "https://news.mynavi.jp/techplus/article/20261106-5268880"
+      "title": "OpenAI、追加110億ドルを調達し評価額1.25兆ドルに",
+      "summary": "OpenAIは当初目標の1.4兆ドルには届かなかったものの、新たな資金調達で評価額が1.25兆ドルに達したと11/7付で報じられた。",
+      "source": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/"
     },
     {
-      "title": "STマイクロ、組み込み開発にAIエージェントを活用する新ツール発表",
-      "summary": "STマイクロエレクトロニクスは、STM32マイコンを使った組み込みソフトウェア開発にAIエージェントを活用できる新ツール「STM32Cube for Agentic AI」を発表。コーディング精度の向上を狙う(11/6報道)。",
-      "source": "マイナビニュース TECH+",
-      "link": "https://news.mynavi.jp/techplus/article/20261106-5268448"
+      "title": "Anthropic、IPO想定評価額を2兆ドルから1.5兆ドル規模に下方修正",
+      "summary": "第3四半期の成長鈍化を受け、Anthropicの新規株式公開(IPO)に向けた投資家側の想定評価額が従来の2兆ドルから1.5~1.6兆ドル程度に下がっているとロイターが報じた(11月上旬)。",
+      "source": "Reuters(aiweekly.co)",
+      "link": "https://aiweekly.co/alerts/reuters-anthropic-ipo-investors-push-valuation-down-to-15t-from-2t-over-q3"
     },
     {
-      "title": "TSMC、AIエージェントで半導体設計を自律化する取り組みを推進",
-      "summary": "TSMCは、AIエージェントによって回路最適化やレイアウト移行を自律的に進め、アナログ/RF設計の生産性を最大6倍高める「AI Design Kit」の展開を進めていると報じられた(11/6報道)。",
-      "source": "マイナビニュース TECH+",
-      "link": "https://news.mynavi.jp/techplus/article/20261106-5269182"
+      "title": "アップルやゴールドマン、AIコーディング利用に相次ぎ制限",
+      "summary": "アップルは一部エンジニアのAI利用の日次予算を300ドルから200ドルに削減し、さらに100ドルへの引き下げも検討。ゴールドマン・サックスもトレーダーや銀行員からAIコーディングツールを一部撤去したと今週報じられた。",
+      "source": "AI News roundup",
+      "link": "https://aisdg.substack.com/p/ai-news-for-november-6-2026"
     },
     {
-      "title": "半導体株、前日の急落から一転して反発 Nvidiaは2%超上昇",
-      "summary": "11/5に米中間選挙結果を受けてNvidiaやQualcommが9%超下落する急落となった半導体株が、11/6には一転して反発。フィラデルフィア半導体指数は約4%上昇し、Nvidiaも2%超上昇した。",
-      "source": "StockTitan",
-      "link": "https://stocktitan.net/articles/stock-market-today-live-november-6-2026"
+      "title": "Mira Murati氏のThinking Machines Lab、評価額400億ドルで50億ドル調達へ",
+      "summary": "Accelが主導する50億ドルの資金調達が進行中で、Nvidiaも別途25億ドル規模の出資を検討していると今週報じられた。",
+      "source": "Business Insider(aiweekly.co)",
+      "link": "https://aiweekly.co/ai-news-today/edition/2026-11-06"
+    },
+    {
+      "title": "米司法省、AI悪用取り締まる専門部署を新設 OpenAIはセキュリティ専用モデル投入",
+      "summary": "米司法省は先端AIを悪用する国家主体や犯罪組織を摘発する「Super Intelligence Task Force」の設置を発表。OpenAIも認可されたセキュリティ研究向けモデル「GPT-6 Cyber」を公開した(11/7)。",
+      "source": "Daily AI Briefing",
+      "link": "https://aiimpacthub.com/ai-news/2026-11-07"
+    },
+    {
+      "title": "Nvidia製H200、60万個が香港で足止め 中国が輸入承認せず",
+      "summary": "ロイターによると、NvidiaのAIチップ「H200」約60万個が香港に留め置かれたまま中国本土への輸入承認が下りていない。中国は自国製AIチップへの依存低減を優先しているとみられる(11/5)。",
+      "source": "Reuters(aiweekly.co)",
+      "link": "https://aiweekly.co/alerts/nvidia-h200s-pile-up-in-hong-kong-as-beijing-withholds-imports"
+    },
+    {
+      "title": "AMD、台湾の半導体パッケージング分野に100億ドル超を投資",
+      "summary": "AIプロセッサ需要の拡大で先端パッケージングが新たな競争分野となる中、AMDは台湾の受託パッケージング各社と連携し100億ドル超を投資すると今週発表した。",
+      "source": "Semiconductor Engineering",
+      "link": "https://semiengineering.com/chip-industry-week-in-review-163/"
+    },
+    {
+      "title": "Micron、台湾の45億ドル規模メモリー工場建設を一時停止",
+      "summary": "Bloombergによると、Micronは労働争議の長期化を理由に台湾で進めていた45億ドル規模のメモリー工場建設を一時停止した(今週)。",
+      "source": "Bloomberg(Semiconductor Engineering)",
+      "link": "https://semiengineering.com/chip-industry-week-in-review-163/"
+    },
+    {
+      "title": "AIブームで先端パッケージングが新たな争奪戦の舞台に",
+      "summary": "TSMCのCoWoSなど先端パッケージング技術の供給能力がAIプロセッサ需要の拡大に追いつかず、Nvidiaなど各社が確保競争を強めていると11/8付で報じられた。",
+      "source": "technology.org",
+      "link": "https://www.technology.org/2026/11/08/ai-boom-advanced-chip-packaging-cowos-tsmc-nvidia/"
+    },
+    {
+      "title": "Google、生成AI新モデル「Gemini Omni 1.2 Flash」を一般提供開始",
+      "summary": "GoogleはGoogle CloudやGemini for Business、Google Vids、API経由で新モデル「Gemini Omni 1.2 Flash」の一般提供を開始。OpenAIも画像生成モデル「Images 2.6」を全プランに展開するなど、今週は主要各社の新機能リリースが相次いだ。",
+      "source": "AI News roundup",
+      "link": "https://aiweekly.co/ai-news-today/edition/2026-11-06"
     }
   ],
   "x_trending_tech": []
