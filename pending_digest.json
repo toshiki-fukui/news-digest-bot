@@ -1,91 +1,61 @@
 {
-  "run_label": "11/8 19:00",
+  "run_label": "11/9 07:00",
   "politics_economy": [
     {
-      "title": "高市首相の「台湾有事」答弁から1年、日中関係は打開策見えず",
-      "summary": "2025年11月7日の衆院予算委員会での「台湾有事」答弁からちょうど1年。中国は日本への渡航自粛要請や水産物輸入停止などの対抗措置を続けており、日中関係は改善の糸口を探る段階にとどまっている。",
-      "source": "琉球新報",
-      "link": "https://ryukyushimpo.jp/national/entry-5585961.html"
+      "title": "陸自「思想調査」問題、小泉防衛相の答弁姿勢に憲法学者が批判",
+      "summary": "陸上自衛隊中央情報隊が大学教授らの思想・信条に関わる個人情報を組織的に収集していたとされる問題で、憲法学者が調査項目自体を違憲と指摘。国会で報告書の真正性確認を避け続ける小泉防衛相の姿勢にも批判が強まっている。",
+      "source": "熊本日日新聞",
+      "link": "https://kumanichi.com/articles/2052071"
     },
     {
-      "title": "高市内閣支持率、5カ月連続で下落し42.4%に",
-      "summary": "時事通信が10月9~12日に実施した世論調査で、高市内閣の支持率は前月比1.7ポイント減の42.4%となり発足以来の最低を更新した。農相更迭対応の遅れなどが影響したとみられる。",
-      "source": "時事通信(nippon.com)",
-      "link": "https://www.nippon.com/ja/news/yjj2026101500705/"
+      "title": "原油高の長期化で政府が家計支援を再検討、電気・ガス代補助の再開も",
+      "summary": "中東情勢の混乱長期化で原油高が収束せず、政府は電気・ガス料金への補助再開など追加の家計支援策を検討。3兆円規模の補正予算案を国会に提出する見通しだが、財源の持続性への懸念も指摘されている。",
+      "source": "北海道新聞",
+      "link": "https://www.hokkaido-np.co.jp/article/1316350/"
     },
     {
-      "title": "トヨタ、4~9月期営業利益9.2%増 通期を3.9兆円に上方修正",
-      "summary": "トヨタ自動車は11月5日、2027年3月期第2四半期(4~9月)決算を発表。営業利益は前年同期比9.2%増の2兆1911億円となり、通期の営業利益予想を従来の3兆4000億円から3兆9000億円に上方修正した。",
-      "source": "トヨタ自動車(決算資料)",
-      "link": "https://global.toyota/pages/global_toyota/ir/financial-results/2026_2q_presentation_jp.pdf"
-    },
-    {
-      "title": "米中間選挙で民主党大勝、トランプ氏に打撃 日本への影響は",
-      "summary": "11月4日の米中間選挙で民主党が大勝。日本政府内では、内政で制約を受けたトランプ大統領が外交での成果を焦り北朝鮮や中国に接近することへの懸念が出ているほか、米国産輸入食品への影響も指摘されている。",
-      "source": "ANN系(KAB熊本朝日放送)",
-      "link": "https://www.kab.co.jp/news/article/17023595"
+      "title": "ソニーG、2026年度第2四半期は増収増益で過去最高 通期予想を上方修正",
+      "summary": "ソニーグループの7〜9月期は売上高が前年同期比10%増の3兆4294億円、営業利益は45%増の6223億円と第2四半期として過去最高を更新。ゲーム&ネットワークサービス分野の営業益は83%増と大きく伸び、通期の営業利益予想も上方修正された。",
+      "source": "PhileWeb",
+      "link": "https://www.phileweb.com/sp/news/d-av/202611/05/66317.html"
     }
   ],
   "tech": [
     {
-      "title": "OpenAI、追加110億ドルを調達し評価額1.25兆ドルに",
-      "summary": "OpenAIは当初目標の1.4兆ドルには届かなかったものの、新たな資金調達で評価額が1.25兆ドルに達したと11/7付で報じられた。",
-      "source": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/"
+      "title": "サムスン・SKハイニックス製HBM、サーバー用部品に偽装し中国へ密輸か",
+      "summary": "サーバー用プロセッサーに同梱する形で米輸出規制を回避し、HBMメモリーが中国に流入。ファーウェイ次期AIチップ「Ascend 960DT」向けとされ、価格は1年前の数百ドルから約4000ドルに急騰しているという。",
+      "source": "TheNextWeb",
+      "link": "https://thenextweb.com/news/huawei-hbm-smuggling-samsung-sk-hynix-ascend-960dt"
     },
     {
-      "title": "Anthropic、IPO想定評価額を2兆ドルから1.5兆ドル規模に下方修正",
-      "summary": "第3四半期の成長鈍化を受け、Anthropicの新規株式公開(IPO)に向けた投資家側の想定評価額が従来の2兆ドルから1.5~1.6兆ドル程度に下がっているとロイターが報じた(11月上旬)。",
-      "source": "Reuters(aiweekly.co)",
-      "link": "https://aiweekly.co/alerts/reuters-anthropic-ipo-investors-push-valuation-down-to-15t-from-2t-over-q3"
+      "title": "NVIDIAのH200チップ、実体のない「ゴーストカンパニー」経由で中国へ流入か",
+      "summary": "実質的な事業実態のないペーパーカンパニーを介してNVIDIAのH200 AIチップが中国に渡っていたと報じられ、対中輸出管理の実効性に疑問が呈されている。",
+      "source": "TechBuzz",
+      "link": "https://www.techbuzz.ai/articles/nvidia-s-h200-chips-reached-china-through-ghost-company"
     },
     {
-      "title": "アップルやゴールドマン、AIコーディング利用に相次ぎ制限",
-      "summary": "アップルは一部エンジニアのAI利用の日次予算を300ドルから200ドルに削減し、さらに100ドルへの引き下げも検討。ゴールドマン・サックスもトレーダーや銀行員からAIコーディングツールを一部撤去したと今週報じられた。",
-      "source": "AI News roundup",
-      "link": "https://aisdg.substack.com/p/ai-news-for-november-6-2026"
+      "title": "NVIDIAフアンCEO、Anthropicが求める対中AIチップ全面禁輸に「完全に反対」",
+      "summary": "NVIDIAのジェンスン・フアンCEOは、Anthropicが主張する対中AIチップの全面禁輸論に真っ向から反対を表明し、「米国は競争力で勝負すべきだ」との立場を示した。",
+      "source": "Wccftech",
+      "link": "https://wccftech.com/nvidia-jensen-huang-rejects-anthropic-china-chip-ban-america-competition-vera-rubin/"
     },
     {
-      "title": "Mira Murati氏のThinking Machines Lab、評価額400億ドルで50億ドル調達へ",
-      "summary": "Accelが主導する50億ドルの資金調達が進行中で、Nvidiaも別途25億ドル規模の出資を検討していると今週報じられた。",
-      "source": "Business Insider(aiweekly.co)",
-      "link": "https://aiweekly.co/ai-news-today/edition/2026-11-06"
+      "title": "中国の半導体製造装置メーカー、AI需要で2027年まで受注記録が続く見通し",
+      "summary": "先端メモリー・ロジック・パッケージング向けのAI主導の投資拡大を受け、中国の半導体製造装置メーカーが記録的な受注を積み上げていると報道。部材供給の制約が受注の売上化を遅らせる可能性も指摘されている。",
+      "source": "DIGITIMES",
+      "link": "https://www.digitimes.com/news/a20261106VL211/china-ic-manufacturing-equipment-expansion-investment-2027.html"
     },
     {
-      "title": "米司法省、AI悪用取り締まる専門部署を新設 OpenAIはセキュリティ専用モデル投入",
-      "summary": "米司法省は先端AIを悪用する国家主体や犯罪組織を摘発する「Super Intelligence Task Force」の設置を発表。OpenAIも認可されたセキュリティ研究向けモデル「GPT-6 Cyber」を公開した(11/7)。",
-      "source": "Daily AI Briefing",
-      "link": "https://aiimpacthub.com/ai-news/2026-11-07"
+      "title": "半導体Microchip Technology、増収も12月期見通し弱く株価10%急落",
+      "summary": "Microchip Technologyの四半期決算は増収となったが、AI需要によるファウンドリ・組立工程の供給制約を背景に12月期の見通しが弱く、発表後に株価が10%下落した。",
+      "source": "MarketBeat",
+      "link": "https://www.marketbeat.com/instant-alerts/earnings-microchip-technology-nasdaq-mchp-announces-quarterly-earnings-results-2026-11-05/"
     },
     {
-      "title": "Nvidia製H200、60万個が香港で足止め 中国が輸入承認せず",
-      "summary": "ロイターによると、NvidiaのAIチップ「H200」約60万個が香港に留め置かれたまま中国本土への輸入承認が下りていない。中国は自国製AIチップへの依存低減を優先しているとみられる(11/5)。",
-      "source": "Reuters(aiweekly.co)",
-      "link": "https://aiweekly.co/alerts/nvidia-h200s-pile-up-in-hong-kong-as-beijing-withholds-imports"
-    },
-    {
-      "title": "AMD、台湾の半導体パッケージング分野に100億ドル超を投資",
-      "summary": "AIプロセッサ需要の拡大で先端パッケージングが新たな競争分野となる中、AMDは台湾の受託パッケージング各社と連携し100億ドル超を投資すると今週発表した。",
-      "source": "Semiconductor Engineering",
-      "link": "https://semiengineering.com/chip-industry-week-in-review-163/"
-    },
-    {
-      "title": "Micron、台湾の45億ドル規模メモリー工場建設を一時停止",
-      "summary": "Bloombergによると、Micronは労働争議の長期化を理由に台湾で進めていた45億ドル規模のメモリー工場建設を一時停止した(今週)。",
-      "source": "Bloomberg(Semiconductor Engineering)",
-      "link": "https://semiengineering.com/chip-industry-week-in-review-163/"
-    },
-    {
-      "title": "AIブームで先端パッケージングが新たな争奪戦の舞台に",
-      "summary": "TSMCのCoWoSなど先端パッケージング技術の供給能力がAIプロセッサ需要の拡大に追いつかず、Nvidiaなど各社が確保競争を強めていると11/8付で報じられた。",
-      "source": "technology.org",
-      "link": "https://www.technology.org/2026/11/08/ai-boom-advanced-chip-packaging-cowos-tsmc-nvidia/"
-    },
-    {
-      "title": "Google、生成AI新モデル「Gemini Omni 1.2 Flash」を一般提供開始",
-      "summary": "GoogleはGoogle CloudやGemini for Business、Google Vids、API経由で新モデル「Gemini Omni 1.2 Flash」の一般提供を開始。OpenAIも画像生成モデル「Images 2.6」を全プランに展開するなど、今週は主要各社の新機能リリースが相次いだ。",
-      "source": "AI News roundup",
-      "link": "https://aiweekly.co/ai-news-today/edition/2026-11-06"
+      "title": "Anthropic、AI出力の生成元モデルを暗号学的に証明する「FlashProve」を公開",
+      "summary": "Anthropicが、モデルの重みを明かさずにどのAIモデルが特定の出力を生成したかを証明できるゼロ知識証明の試作システム「FlashProve」をオープンソースで公開。実用化には計算コストの高さが課題とされる。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/?p=3184891"
     }
   ],
   "x_trending_tech": []
