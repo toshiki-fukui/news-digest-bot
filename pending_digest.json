@@ -1,61 +1,79 @@
 {
-  "run_label": "11/9 07:00",
+  "run_label": "11/9 19:00",
   "politics_economy": [
     {
-      "title": "陸自「思想調査」問題、小泉防衛相の答弁姿勢に憲法学者が批判",
-      "summary": "陸上自衛隊中央情報隊が大学教授らの思想・信条に関わる個人情報を組織的に収集していたとされる問題で、憲法学者が調査項目自体を違憲と指摘。国会で報告書の真正性確認を避け続ける小泉防衛相の姿勢にも批判が強まっている。",
-      "source": "熊本日日新聞",
-      "link": "https://kumanichi.com/articles/2052071"
+      "title": "食品消費税減税法案、採決欠席の議員に懲戒論 石破氏らが対象",
+      "summary": "11月6日の衆院本会議で食品消費税を8%から1%に引き下げる法案が可決された際、石破茂前首相ら自民党の重鎮4人が採決を欠席。党執行部は党議拘束違反として処分を検討する考えを示している。",
+      "source": "The Japan Times",
+      "link": "https://www.japantimes.co.jp/news/2026/11/09/japan/politics/food-tax-bill-abstain/"
     },
     {
-      "title": "原油高の長期化で政府が家計支援を再検討、電気・ガス代補助の再開も",
-      "summary": "中東情勢の混乱長期化で原油高が収束せず、政府は電気・ガス料金への補助再開など追加の家計支援策を検討。3兆円規模の補正予算案を国会に提出する見通しだが、財源の持続性への懸念も指摘されている。",
-      "source": "北海道新聞",
-      "link": "https://www.hokkaido-np.co.jp/article/1316350/"
+      "title": "沖縄・古謝知事、防衛力強化の必要性説明を政府に要求",
+      "summary": "9月に就任した沖縄県の古謝玄太知事は、政府が進める防衛力強化について無条件には受け入れられないとし、基地負担軽減との両立を含めて住民に丁寧に説明するよう中央政府に求めた。",
+      "source": "The Japan Times",
+      "link": "https://www.japantimes.co.jp/news/2026/11/09/japan/politics/okinawa-koja-defense-bases-burden/"
     },
     {
-      "title": "ソニーG、2026年度第2四半期は増収増益で過去最高 通期予想を上方修正",
-      "summary": "ソニーグループの7〜9月期は売上高が前年同期比10%増の3兆4294億円、営業利益は45%増の6223億円と第2四半期として過去最高を更新。ゲーム&ネットワークサービス分野の営業益は83%増と大きく伸び、通期の営業利益予想も上方修正された。",
-      "source": "PhileWeb",
-      "link": "https://www.phileweb.com/sp/news/d-av/202611/05/66317.html"
+      "title": "高市首相と習主席、中国での首脳会談実現へ日本側が調整",
+      "summary": "日中関係が国交正常化以来最悪レベルにある中、中国で開催予定の首脳会合で高市首相が習近平国家主席から冷遇されないよう、日本政府が外交的な根回しを進めていると報じられた。",
+      "source": "The Japan Times",
+      "link": "https://www.japantimes.co.jp/news/2026/11/09/japan/politics/japan-takaichi-xi-china-summit"
+    },
+    {
+      "title": "日経平均、ハイテク株急落から急反発 終値2.5%超上昇",
+      "summary": "前週末に約6%急落したハイテク株主導の売りが一服し、9日の東京株式市場で日経平均は取引時間中に2%上昇、終値では2.5%前後の上昇となった。225銘柄中214銘柄が値上がりした。",
+      "source": "The Star (Malaysia)",
+      "link": "https://www.thestar.com.my/business/business-news/2026/11/09/japan039s-nikkei-rebounds-2-after-tech-led-rout"
+    },
+    {
+      "title": "日本政府、夏の為替介入が円相場を下支えしたと確認",
+      "summary": "財務省は7月30日から8月26日にかけて実施した計15.4兆円規模の円買い・ドル売り介入(日米協調介入含む)について、円相場を実際に下支える効果があったとの見解を示した。",
+      "source": "The Japan Times",
+      "link": "https://www.japantimes.co.jp/business/2026/11/09/markets/japan-july-sept-yen-intervention"
     }
   ],
   "tech": [
     {
-      "title": "サムスン・SKハイニックス製HBM、サーバー用部品に偽装し中国へ密輸か",
-      "summary": "サーバー用プロセッサーに同梱する形で米輸出規制を回避し、HBMメモリーが中国に流入。ファーウェイ次期AIチップ「Ascend 960DT」向けとされ、価格は1年前の数百ドルから約4000ドルに急騰しているという。",
-      "source": "TheNextWeb",
-      "link": "https://thenextweb.com/news/huawei-hbm-smuggling-samsung-sk-hynix-ascend-960dt"
+      "title": "TSMC、NVIDIA主導の次世代DRAM量産報道を否定",
+      "summary": "NVIDIAの要請でTSMCが3D DRAMの検討を進めているとの報道に対し、TSMCは9日、既存のファウンドリ事業に専念する方針を強調し、メモリー量産参入の観測を否定した。",
+      "source": "Seoul Economic Daily",
+      "link": "https://en.sedaily.com/international/2026/11/09/tsmc-rules-out-memory-chip-push-denies-nvidia-driven"
     },
     {
-      "title": "NVIDIAのH200チップ、実体のない「ゴーストカンパニー」経由で中国へ流入か",
-      "summary": "実質的な事業実態のないペーパーカンパニーを介してNVIDIAのH200 AIチップが中国に渡っていたと報じられ、対中輸出管理の実効性に疑問が呈されている。",
-      "source": "TechBuzz",
-      "link": "https://www.techbuzz.ai/articles/nvidia-s-h200-chips-reached-china-through-ghost-company"
-    },
-    {
-      "title": "NVIDIAフアンCEO、Anthropicが求める対中AIチップ全面禁輸に「完全に反対」",
-      "summary": "NVIDIAのジェンスン・フアンCEOは、Anthropicが主張する対中AIチップの全面禁輸論に真っ向から反対を表明し、「米国は競争力で勝負すべきだ」との立場を示した。",
+      "title": "TSMCとSamsung、NVIDIA向けカスタムHBMの3nmベースダイを共同開発か",
+      "summary": "ファウンドリで競合するTSMCとSamsungが、NVIDIAのカスタムHBM向けに3nmノードの「ベースダイ」を共同開発しているとの観測が報じられた。",
       "source": "Wccftech",
-      "link": "https://wccftech.com/nvidia-jensen-huang-rejects-anthropic-china-chip-ban-america-competition-vera-rubin/"
+      "link": "https://wccftech.com/nvidia-custom-hbm-samsung-tsmc-3nm-base-die/"
     },
     {
-      "title": "中国の半導体製造装置メーカー、AI需要で2027年まで受注記録が続く見通し",
-      "summary": "先端メモリー・ロジック・パッケージング向けのAI主導の投資拡大を受け、中国の半導体製造装置メーカーが記録的な受注を積み上げていると報道。部材供給の制約が受注の売上化を遅らせる可能性も指摘されている。",
-      "source": "DIGITIMES",
-      "link": "https://www.digitimes.com/news/a20261106VL211/china-ic-manufacturing-equipment-expansion-investment-2027.html"
+      "title": "日本で生成AI悪用のサイバー攻撃、過去最多ペースに",
+      "summary": "トレンドマイクロの調査によると、日本国内で公表されたサイバー攻撃・データ漏えい事案が直近で月間最多水準に達しており、生成AIを使ったフィッシング文作成や脆弱性スキャンの自動化が増加要因とされる。",
+      "source": "Tokyo Reporter",
+      "link": "https://www.tokyoreporter.com/japan-news/japan-hit-by-record-cyberattack-wave/"
     },
     {
-      "title": "半導体Microchip Technology、増収も12月期見通し弱く株価10%急落",
-      "summary": "Microchip Technologyの四半期決算は増収となったが、AI需要によるファウンドリ・組立工程の供給制約を背景に12月期の見通しが弱く、発表後に株価が10%下落した。",
-      "source": "MarketBeat",
-      "link": "https://www.marketbeat.com/instant-alerts/earnings-microchip-technology-nasdaq-mchp-announces-quarterly-earnings-results-2026-11-05/"
+      "title": "OpenAI、評価額1.25兆ドルで110億ドルの資金調達を完了",
+      "summary": "OpenAIが新たな資金調達ラウンドの第1弾として110億ドルを確保したとBloombergが報道。評価額は当初目標の1.4兆ドルを下回る1.25兆ドルで、最終的に200億ドル規模まで拡大する可能性がある。",
+      "source": "GV Wire(Bloomberg報道)",
+      "link": "https://gvwire.com/2026/11/06/openai-secures-11-billion-funding-at-1-25-trillion-valuation-bloomberg-news-reports/"
     },
     {
-      "title": "Anthropic、AI出力の生成元モデルを暗号学的に証明する「FlashProve」を公開",
-      "summary": "Anthropicが、モデルの重みを明かさずにどのAIモデルが特定の出力を生成したかを証明できるゼロ知識証明の試作システム「FlashProve」をオープンソースで公開。実用化には計算コストの高さが課題とされる。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/?p=3184891"
+      "title": "AIソフト診断スタートアップTraversal、評価額10億ドルで1.2億ドル調達",
+      "summary": "AIエージェントでソフトウェアの不具合を自動診断するTraversalが、Kleiner PerkinsなどからシリーズBで1.2億ドルを調達し、評価額は10億ドルに達した。",
+      "source": "American Bazaar",
+      "link": "https://americanbazaaronline.com/2026/11/08/traversal-120-million-funding-billion-dollar-valuation-491804/"
+    },
+    {
+      "title": "Anthropic、Claude Enterpriseにセキュリティ強化機能を追加",
+      "summary": "Anthropicは企業向けClaude Enterpriseに、設定を一元チェックする「セキュリティセンター」や管理者による強制サインアウトなどの新機能を発表した。",
+      "source": "Anthropic公式ブログ",
+      "link": "https://claude.com/blog/claude-enterprise-security-updates"
+    },
+    {
+      "title": "Intel、AI需要対応でPC向け生産能力をデータセンター向けに転換",
+      "summary": "IntelがPC向けプロセッサーの生産能力の一部をAIデータセンター向けチップに振り替えており、2027年前半までPC向け半導体の供給逼迫や価格上昇につながる可能性があると報じられた。",
+      "source": "Business Today",
+      "link": "https://www.businesstoday.in/technology/news/story/bt-explainer-intel-is-diverting-chip-making-capacity-to-meet-ai-demand-what-does-it-mean-for-pc-buyers-566038-2026-11-05"
     }
   ],
   "x_trending_tech": []
