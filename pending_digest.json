@@ -1,79 +1,55 @@
 {
-  "run_label": "11/9 19:00",
+  "run_label": "11/10 07:00",
   "politics_economy": [
     {
-      "title": "食品消費税減税法案、採決欠席の議員に懲戒論 石破氏らが対象",
-      "summary": "11月6日の衆院本会議で食品消費税を8%から1%に引き下げる法案が可決された際、石破茂前首相ら自民党の重鎮4人が採決を欠席。党執行部は党議拘束違反として処分を検討する考えを示している。",
-      "source": "The Japan Times",
-      "link": "https://www.japantimes.co.jp/news/2026/11/09/japan/politics/food-tax-bill-abstain/"
+      "title": "消費税減税法案、参院審議の行方不透明に 野党6党「首相出席」を条件視、自民は難色",
+      "summary": "食料品の消費税を2027年4月から2年間1%に下げる関連法案は11日に参院本会議で審議入りするが、9日の野党6党国対委員長会談で13日の特別委での実質審議入りには高市首相の出席が条件との認識で一致。自民の磯崎国対委員長は出席は難しいと回答し、過半数に届かない参院運営が焦点に(11/9報道)。",
+      "source": "時事通信(Infoseek)",
+      "link": "https://news.infoseek.co.jp/article/jiji_2026110900818/"
     },
     {
-      "title": "沖縄・古謝知事、防衛力強化の必要性説明を政府に要求",
-      "summary": "9月に就任した沖縄県の古謝玄太知事は、政府が進める防衛力強化について無条件には受け入れられないとし、基地負担軽減との両立を含めて住民に丁寧に説明するよう中央政府に求めた。",
-      "source": "The Japan Times",
-      "link": "https://www.japantimes.co.jp/news/2026/11/09/japan/politics/okinawa-koja-defense-bases-burden/"
+      "title": "日経平均、6営業日ぶり大幅反発 1340円高の5万8775円",
+      "summary": "11月9日の東京株式市場で日経平均株価は前週末比1340円73銭(2.33%)高の5万8775円50銭で終了。前週に3643円安と急落した反動に加え、米半導体関連株高が支えとなった。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOFL094M30Z01C26A1000000/"
     },
     {
-      "title": "高市首相と習主席、中国での首脳会談実現へ日本側が調整",
-      "summary": "日中関係が国交正常化以来最悪レベルにある中、中国で開催予定の首脳会合で高市首相が習近平国家主席から冷遇されないよう、日本政府が外交的な根回しを進めていると報じられた。",
-      "source": "The Japan Times",
-      "link": "https://www.japantimes.co.jp/news/2026/11/09/japan/politics/japan-takaichi-xi-china-summit"
+      "title": "ソフトバンク、上半期は増収増益 クラウド・AI事業好調で通期予想を上方修正",
+      "summary": "ソフトバンク(携帯通信)は11月9日、2027年3月期第2四半期決算を発表。上半期は全事業で増収となり営業利益・純利益は過去最高。エンタープライズ部門のクラウド・AI収益が前年同期比37%増と伸び、通期の営業利益予想を上方修正した。",
+      "source": "ソフトバンク(公式発表)",
+      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20261109_01/"
     },
     {
-      "title": "日経平均、ハイテク株急落から急反発 終値2.5%超上昇",
-      "summary": "前週末に約6%急落したハイテク株主導の売りが一服し、9日の東京株式市場で日経平均は取引時間中に2%上昇、終値では2.5%前後の上昇となった。225銘柄中214銘柄が値上がりした。",
-      "source": "The Star (Malaysia)",
-      "link": "https://www.thestar.com.my/business/business-news/2026/11/09/japan039s-nikkei-rebounds-2-after-tech-led-rout"
-    },
-    {
-      "title": "日本政府、夏の為替介入が円相場を下支えしたと確認",
-      "summary": "財務省は7月30日から8月26日にかけて実施した計15.4兆円規模の円買い・ドル売り介入(日米協調介入含む)について、円相場を実際に下支える効果があったとの見解を示した。",
-      "source": "The Japan Times",
-      "link": "https://www.japantimes.co.jp/business/2026/11/09/markets/japan-july-sept-yen-intervention"
+      "title": "アジア半導体株、エヌビディアCEOのスパイ疑惑報道にも動じず上昇",
+      "summary": "11月9日、台湾・韓国を中心にアジアの半導体関連株が上昇。エヌビディアのジェンスン・フアンCEOが中国の情報活動に接触されたとの報道で同社株は売られる一方、TSMCやSKハイニックスなど周辺株には買いが入った。",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/11/09/asia-chip-stocks-south-korea-taiwan-nvidia.html"
     }
   ],
   "tech": [
     {
-      "title": "TSMC、NVIDIA主導の次世代DRAM量産報道を否定",
-      "summary": "NVIDIAの要請でTSMCが3D DRAMの検討を進めているとの報道に対し、TSMCは9日、既存のファウンドリ事業に専念する方針を強調し、メモリー量産参入の観測を否定した。",
-      "source": "Seoul Economic Daily",
-      "link": "https://en.sedaily.com/international/2026/11/09/tsmc-rules-out-memory-chip-push-denies-nvidia-driven"
+      "title": "Anthropic、新型AIモデル「Claude Fable 5.2」「Claude Mythos 5.2」とエージェント「Claude Duet」を発表",
+      "summary": "Anthropicは11月9日、コーディング・推論・画像認識を強化した新モデルClaude Fable 5.2とMythos 5.2を発表し、Fable 5.2は即日全プラットフォームで利用可能に。Meta「Muse」やOpenAI「Dots」に対抗するエージェント「Claude Duet」も投入。11月16日週に予定するIPOを控えたタイミングでの発表となった。",
+      "source": "MacRumors",
+      "link": "https://www.macrumors.com/2026/11/09/anthropic-launches-claude-fable-5-2"
     },
     {
-      "title": "TSMCとSamsung、NVIDIA向けカスタムHBMの3nmベースダイを共同開発か",
-      "summary": "ファウンドリで競合するTSMCとSamsungが、NVIDIAのカスタムHBM向けに3nmノードの「ベースダイ」を共同開発しているとの観測が報じられた。",
-      "source": "Wccftech",
-      "link": "https://wccftech.com/nvidia-custom-hbm-samsung-tsmc-3nm-base-die/"
+      "title": "TSMC、エヌビディア向け次世代AIメモリ「3D DRAM」の生産を検討と報道",
+      "summary": "関係者の話として、TSMCは最大顧客であるエヌビディアの要請を受け、垂直積層型の次世代メモリ「3D DRAM」の生産に向けた検討を進めているとの報道が11月9日に出た。TSMC自身はファウンドリ事業への専念を強調し慎重な姿勢を示している。",
+      "source": "Dataconomy",
+      "link": "https://dataconomy.com/2026/11/09/tsmc-weighs-making-3d-dram-chips-for-nvidia/"
     },
     {
-      "title": "日本で生成AI悪用のサイバー攻撃、過去最多ペースに",
-      "summary": "トレンドマイクロの調査によると、日本国内で公表されたサイバー攻撃・データ漏えい事案が直近で月間最多水準に達しており、生成AIを使ったフィッシング文作成や脆弱性スキャンの自動化が増加要因とされる。",
-      "source": "Tokyo Reporter",
-      "link": "https://www.tokyoreporter.com/japan-news/japan-hit-by-record-cyberattack-wave/"
+      "title": "Google・Microsoftも参加、OpenAI・Anthropic提唱のAI学習拒否シグナル「robots.txt」共通方針に合意",
+      "summary": "GoogleとMicrosoftは、OpenAIとAnthropicが提唱していたAIクローラー向けrobots.txtの共通設定方針を支持すると表明。4社のうちAnthropicのみが現時点でこの意思表示の順守を開始しており、OpenAIは数か月内の対応、Googleは2027年を目標としている。",
+      "source": "Mezha.net",
+      "link": "https://mezha.net/eng/news/mezha-e70ac171dc1a4e4ac7cd5351_google_and_microsoft/"
     },
     {
-      "title": "OpenAI、評価額1.25兆ドルで110億ドルの資金調達を完了",
-      "summary": "OpenAIが新たな資金調達ラウンドの第1弾として110億ドルを確保したとBloombergが報道。評価額は当初目標の1.4兆ドルを下回る1.25兆ドルで、最終的に200億ドル規模まで拡大する可能性がある。",
-      "source": "GV Wire(Bloomberg報道)",
-      "link": "https://gvwire.com/2026/11/06/openai-secures-11-billion-funding-at-1-25-trillion-valuation-bloomberg-news-reports/"
-    },
-    {
-      "title": "AIソフト診断スタートアップTraversal、評価額10億ドルで1.2億ドル調達",
-      "summary": "AIエージェントでソフトウェアの不具合を自動診断するTraversalが、Kleiner PerkinsなどからシリーズBで1.2億ドルを調達し、評価額は10億ドルに達した。",
-      "source": "American Bazaar",
-      "link": "https://americanbazaaronline.com/2026/11/08/traversal-120-million-funding-billion-dollar-valuation-491804/"
-    },
-    {
-      "title": "Anthropic、Claude Enterpriseにセキュリティ強化機能を追加",
-      "summary": "Anthropicは企業向けClaude Enterpriseに、設定を一元チェックする「セキュリティセンター」や管理者による強制サインアウトなどの新機能を発表した。",
-      "source": "Anthropic公式ブログ",
-      "link": "https://claude.com/blog/claude-enterprise-security-updates"
-    },
-    {
-      "title": "Intel、AI需要対応でPC向け生産能力をデータセンター向けに転換",
-      "summary": "IntelがPC向けプロセッサーの生産能力の一部をAIデータセンター向けチップに振り替えており、2027年前半までPC向け半導体の供給逼迫や価格上昇につながる可能性があると報じられた。",
-      "source": "Business Today",
-      "link": "https://www.businesstoday.in/technology/news/story/bt-explainer-intel-is-diverting-chip-making-capacity-to-meet-ai-demand-what-does-it-mean-for-pc-buyers-566038-2026-11-05"
+      "title": "AIスタートアップ各社、11月9日に相次ぎ資金調達を発表 Boson AIやMavriaなど",
+      "summary": "音声AIのBoson AI、モジュール型AIデータセンター基盤のMavria、Onodrim、T-Therapeuticsなど複数のAIスタートアップが11月9日に新たな資金調達を公表。AI関連スタートアップへの投資意欲の高さが続いている。",
+      "source": "Tech Startups",
+      "link": "https://techstartups.com/2026/11/09/startup-funding-news-today-november-9-2026-boson-ai-onodrim-mavria-t-therapeutics-more/"
     }
   ],
   "x_trending_tech": []
