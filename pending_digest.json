@@ -1,117 +1,75 @@
 {
-  "run_label": "11/10 19:00",
+  "run_label": "11/11 07:00",
   "politics_economy": [
     {
-      "title": "日経平均、一時1900円超高 6万円台回復 AI・半導体関連に買い戻し",
-      "summary": "11月10日の東京株式市場で日経平均株価は前日比1684円08銭(2.87%)高の6万459円58銭で大引け。TOPIXも75.55ポイント高の3893.71。米中間選挙後の急落(6日に3500円超安)からの反動に加え、AI・半導体関連株への買いが相場を支えた。",
-      "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261110de73262"
+      "title": "食料品の消費税減税法案、11日から参議院で審議入り",
+      "summary": "飲食料品の消費税率を8%から1%に引き下げる関連法案が11月6日に衆議院を通過し、11月11日から参議院での審議が始まる見通し。与党は参院で過半数を持たず、野党の協力を得て12月12日の会期末までの成立を目指す。",
+      "source": "参議院(公式サイト)ほか報道",
+      "link": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/222/meisai/m222080222001.htm"
     },
     {
-      "title": "消費税減税法案、11日に参院審議入りへ正式合意 高市首相の出席求める",
-      "summary": "飲食料品の消費税を2027年4月から2年間1%に下げる関連法案について、与野党は11日の参院本会議での審議入りと高市首相への出席要求で正式合意(11/10)。与党が過半数に届かない参院での採決の行方が焦点で、会期末は12月12日。",
-      "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261110de73298"
-    },
-    {
-      "title": "政府、サイバー攻撃の情報流出対策で「通信ブロッキング」の是非を議論へ",
-      "summary": "総務省は、漏えいした個人情報の拡散を防ぐため通信事業者が脅迫サイトへの接続を遮断する「ブロッキング」の是非を検討する専門家会議を新設すると発表(11/10)。「通信の秘密」との関係から丁寧な検討が必要と藤井総務相。来年初頭に中間とりまとめの方針。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026111000921&g=pol"
-    },
-    {
-      "title": "高市首相、COP31出席を見送り 国会答弁日程と重なり ASEAN・APECには出席へ",
-      "summary": "高市首相は、今月のCOP31(気候サミット)への出席を見送ると表明。国会答弁の日程と重なる見込みであることなどを理由に挙げた(11/10)。一方、今月中旬のASEAN首脳会議、中国でのAPEC首脳会議には出席する予定。",
-      "source": "テレビ朝日系(ANN)/Yahoo!ニュース",
-      "link": "https://news.yahoo.co.jp/articles/904450ad584076f3663596e0098782928688a7da"
-    },
-    {
-      "title": "片山財務相、個人向け国債の税制優遇「決め打ちも無理もしない」",
-      "summary": "片山財務相は閣議後会見で、個人向け国債の税制優遇について「決め打ちもしないし、無理もしない」と述べ、2027年度税制改正に向けた議論を見守る構えを示した(11/10)。",
-      "source": "ライブドアニュース",
-      "link": "https://news.livedoor.com/topics/detail/32778372/"
+      "title": "日中首脳会談、APEC深圳サミットでの実現は依然不透明",
+      "summary": "11月18〜19日に中国・深圳で開かれるAPEC首脳会議に合わせた高市首相と習近平国家主席の会談について、日本の外務省高官は実現の可能性は低いとの見方を示した(11/8報道)。中国側は高市首相の台湾関連答弁の撤回を求めており、対立が続いている。",
+      "source": "Nation Thailand",
+      "link": "https://www.nationthailand.com/news/world/40073263"
     }
   ],
   "tech": [
     {
-      "title": "Anthropic、IPOロードショー開始へ 感謝祭前の上場目指す Q3売上高は168億ドル",
-      "summary": "Anthropicは11月第2週からIPOロードショーを開始する見通しで、米感謝祭(11/26)前の上場を目指していると報じられた。第3四半期(7-9月)の売上高は168億ドルに達したとされる。最終的な価格帯はまだ発表されていない(11/9-10報道)。",
-      "source": "KuCoin News",
-      "link": "https://www.kucoin.com/news/flash/anthropic-q3-revenue-hits-16-8-billion-eyes-ipo-before-thanksgiving"
+      "title": "OpenAI、開発者向けツール企業Pierre Computerを買収",
+      "summary": "OpenAIは11月4日、コード管理ツール「Code Storage」や「Trees」「Diffs」などのオープンソースライブラリを手がけるPierre Computerの買収を発表。既にCodexに組み込まれている同社のツールを拡張する狙いで、買収後もオープンソースは維持されるとしている。",
+      "source": "OpenAI公式",
+      "link": "https://openai.com/index/openai-to-acquire-pierre/"
     },
     {
-      "title": "エヌビディアCEOの\"スパイ疑惑\"拡大、米議会で対中AIチップ輸出規制強化の動き",
-      "summary": "エヌビディアのジェンスン・フアンCEOが中国の情報活動に関与したとされるシンガポール企業幹部と親密な関係にあったとの報道を受け、米議会では与野党双方が対中AIチップ輸出規制の強化を要求。関連法案が国防授権法に組み込まれ12月上旬にも審議される可能性がある(11/10)。",
-      "source": "Seoul Economic Daily",
-      "link": "https://en.sedaily.com/world/2026/11/10/huang-scandal-widens-as-republicans-join-call-to-halt-ai"
+      "title": "Google、ワイオミング州に1.7兆円規模のデータセンター建設を発表",
+      "summary": "Googleは11月5日、ワイオミング州シャイアン近郊に170億ドル(約1.7兆円)を投じる初の同州データセンターを発表。702MW規模の燃料電池発電とCO2回収を組み合わせ、消費電力の100%を自社負担するとしている。",
+      "source": "Google公式ブログ",
+      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/wyoming-data-center/"
     },
     {
-      "title": "TSMC、10月売上高が前年同月比59.7%増 2026年の月次で最高を更新",
-      "summary": "TSMCは11月10日、10月の連結売上高が5868億9000万台湾ドルとなり、前年同月比59.7%増、前月比14.7%増と発表。2026年の月次売上高で最高を更新した。10-12月期の売上高予想は523億~543億米ドル。",
-      "source": "Xenospectrum",
-      "link": "https://xenospectrum.com/tsmc-october-revenue-two-nanometer/"
+      "title": "中国政府、ソフトバンクによるABBロボティクス事業買収(54億ドル)を阻止",
+      "summary": "中国の規制当局は、ソフトバンクグループが計画していたABBのロボティクス事業の約54億ドル規模の買収を認めない方針を示した。中国はABBにとって最大のロボット市場で、技術・データの中国国外流出への懸念が背景とされる。両社は協議を継続しているという(11/5報道)。",
+      "source": "South China Morning Post",
+      "link": "https://scmp.com/business/china-business/article/3373415/china-blocks-softbanks-us54-billion-takeover-abbs-robotics-division"
     },
     {
-      "title": "ラピダス、次世代2nm半導体の量産が2028年3月目標に間に合わない見通し",
-      "summary": "北海道千歳市でラピダスが進める2ナノメートル半導体の量産開始が、目標の2028年3月に間に合わない可能性があると関係者の話として報じられた。機能する静的ランダムアクセスメモリ(SRAM)セルの製造にまだ至っていないという(11/10)。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/jp/news/articles/2026-11-10/TO7LP6KJH6V400"
+      "title": "NVIDIA取締役会、フアンCEOを巡る「外国情報機関接触」疑惑で独立調査を開始",
+      "summary": "NVIDIAの独立取締役委員会は11月8日、ジェンセン・フアンCEOがシンガポールの企業幹部を通じて中国の情報機関に接触されたとの報道を受け、外部弁護士とともに独立調査を開始すると発表。フアン氏は調査に協力しつつ指揮を継続する。NVIDIAと中国政府双方が疑惑を否定している。",
+      "source": "NVIDIA公式",
+      "link": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors"
     },
     {
-      "title": "Meta、低コストの小型AIエージェントモデル「Muse Ember」を公開",
-      "summary": "Meta Superintelligence Labsは、入力100万トークン当たり0.10ドルという低価格で高頻度のエージェント処理向けに最適化した小型モデル「Muse Ember」を公開(11/9)。性能はClaude Haiku 5.5(最大推論時)と同水準とされる。",
-      "source": "MarkTechPost",
-      "link": "https://marktechpost.com/2026/11/09/meta-muse-ember-small-agent-model"
-    },
-    {
-      "title": "マイクロソフト従業員ら、\"スピード最優先\"のAI推進方針を批判する書簡を提出",
-      "summary": "現旧従業員らが、マイクロソフトの\"speed-at-all-costs\"(何よりも速度優先)のAI開発姿勢を批判する書簡をまとめたとニューヨーク・タイムズが報道(11月上旬)。社内のAI戦略を巡る反発が表面化した。",
-      "source": "NewsBytes",
-      "link": "https://www.newsbytesapp.com/news/science/microsoft-employees-raise-concerns-over-company-s-ai-strategy/story"
-    },
-    {
-      "title": "マイクロソフト、生放送中の発言をAIが自動的に書き換える特許を出願",
-      "summary": "マイクロソフトが、ライブ放送中の話者の発言をAIがリアルタイムで言い換える技術の特許を出願していたことが判明(11/9)。言い間違いやスラング、不適切な言葉、雑音などを自動的に置き換える仕組みとされる。",
-      "source": "Boing Boing",
-      "link": "https://boingboing.net/2026/11/09/fountain-pen-microsoft-live-ai-speech-rewrite-patent.html"
-    },
-    {
-      "title": "Meta、中小企業向けにAIを販売する新たな営業部門を設立",
-      "summary": "Metaは中小企業(SMB)および大企業顧客を対象にAIを販売する新組織を設立したと、The Informationが11月9日報道。Metaは今年のAI関連インフラ投資に最大1450億ドルを投じる計画。",
-      "source": "PYMNTS",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/meta-forms-sales-group-to-sell-ai-to-small-businesses/"
-    },
-    {
-      "title": "アップル、「iOS 27.3」のテストを開始 Siriをより自律的な\"エージェント\"に強化へ",
-      "summary": "アップルは9月に発表したiOS 27以降で最大規模の更新となる「iOS 27.3」のテストを今週から開始。Bloombergによれば、Siriを来年にもエージェントのように振る舞えるよう強化する計画があるという(11/9頃)。",
-      "source": "9to5Mac",
-      "link": "https://9to5mac.com/2026/11/09/daily-november-9-2026/"
-    },
-    {
-      "title": "AWS、医療分野向けにAI・クラウド技術1億ドル相当を5年間提供する基金を発表",
-      "summary": "Amazon Web Servicesは、恵まれない地域の医療団体向けにAIエージェントサービスやクラウド基盤を5年間で1億ドル相当提供する「AWS Health Impact Initiative」を発表(11/9)。",
-      "source": "About Amazon",
-      "link": "https://www.aboutamazon.com/news/aws/aws-health-impact-initiative-100-million-ai-cloud"
+      "title": "Apple、タッチスクリーン対応の新型MacBook Proが11月6日に出荷開始",
+      "summary": "Appleは同社として初めてタッチスクリーンに対応した新型MacBook Proを含む新製品を11月6日に発売。スマートホームディスプレイ「HomeView」($299)も11月13日に発売予定とされる。",
+      "source": "MacRumors",
+      "link": "https://macrumors.com/2026/11/02/apple-isnt-done-with-2026-heres-whats-still-coming/"
     }
   ],
   "x_trending_tech": [
     {
-      "title": "AnthropicのFable 5.2、ブラックホール物理学の未解決問題を解いたと話題",
-      "summary": "AI関連の投稿者Haiderが、Anthropicの新モデルFable 5.2が2003年から未解決だったブラックホール関連の計算を完了したとの発表を取り上げ拡散(11/10未明の投稿)。Anthropic自身の発表に基づく主張で、第三者による検証はまだ確認されていない。",
-      "source": "@haider1",
-      "link": "https://x.com/haider1/status/2119871717476823529"
+      "title": "Elon Musk、Grok 4.8の開発状況を報告 推論スタックをC/C++で全面書き換え",
+      "summary": "xAIがJAX/SGLangを廃止し、Grok 4.8の強化学習・推論スタックをゼロからC/C++で書き直したとMuskがXで報告。事前学習は完了しRL評価が向上中で、近日中にGrok Botユーザー向けソフトローンチを予定(11/10夜〜11/11未明の投稿)。",
+      "source": "@elonmusk",
+      "link": "https://x.com/elonmusk/status/2120088070443655190"
     },
     {
-      "title": "Anthropic公式、Fable 5.2が23年間未解決の物理計算を解いたと投稿し拡散",
-      "summary": "Anthropic公式アカウントが、新モデルFable 5.2が理論物理学の計算を完了したと投稿し、11/10朝にかけて大きく拡散した。第三者による検証はまだなく、論文の著者欄にAnthropic研究者の記載がないとの指摘もある。",
-      "source": "@claudeai",
-      "link": "https://x.com/claudeai/status/2119899484373369278"
+      "title": "OpenAI公式、ChatGPT内の企業向け「Business Hub」とAIエージェント機能をベータ公開と投稿",
+      "summary": "企業がChatGPT上でプロフィールや商品フィードを管理できる「Business Hub」と、顧客対応AIエージェント機能をベータ版として発表(11/10〜11/11未明の投稿)。",
+      "source": "@OpenAI",
+      "link": "https://x.com/OpenAI/status/2120216596753121411"
     },
     {
-      "title": "Fable 5.2がOSを構築するなど「驚きの活用例10選」がXで拡散",
-      "summary": "AI系の人気投稿者Min Choiが、AnthropicのFable 5.2とMythos 5.2の活用例10選(OS構築など)を紹介するスレッドを投稿し、多くの反応を集めた(11/10未明)。",
-      "source": "@minchoi",
-      "link": "https://x.com/minchoi/status/2119874129033879893"
+      "title": "Jensen Huang氏とNVIDIA、株主から集団訴訟提起と報告",
+      "summary": "The Kobeissi Letterが、NVIDIAとフアンCEOが中国の情報機関との関係疑惑を株主に開示しなかったとして、カリフォルニア州連邦地裁で集団訴訟を起こされたと投稿(11/10夜の投稿)。",
+      "source": "@KobeissiLetter",
+      "link": "https://x.com/KobeissiLetter/status/2119937712102760784"
+    },
+    {
+      "title": "「GTA6」のプリロードが開始、11月19日発売に向け話題に",
+      "summary": "Rockstar Games公式が、予約済みユーザー向けに「Grand Theft Auto VI」のプリロード開始を発表。11月19日の発売に向けゲーム業界・ファンの間で大きな話題となっている(11/10の投稿)。",
+      "source": "@RockstarGames",
+      "link": "https://x.com/RockstarGames/status/2120154484244381738"
     }
   ]
 }
