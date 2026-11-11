@@ -1,75 +1,81 @@
 {
-  "run_label": "11/11 07:00",
+  "run_label": "11/11 19:00",
   "politics_economy": [
     {
-      "title": "食料品の消費税減税法案、11日から参議院で審議入り",
-      "summary": "飲食料品の消費税率を8%から1%に引き下げる関連法案が11月6日に衆議院を通過し、11月11日から参議院での審議が始まる見通し。与党は参院で過半数を持たず、野党の協力を得て12月12日の会期末までの成立を目指す。",
-      "source": "参議院(公式サイト)ほか報道",
-      "link": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/222/meisai/m222080222001.htm"
+      "title": "消費税減税法案が参議院で審議入り、高市首相は支援金の対象拡大に言及",
+      "summary": "食料品の消費税率引き下げを含む関連法案が11月11日、参議院で実質審議入りした。高市首相は低所得者向け支援金について勤労者の3割以上を対象とする方向で検討していると説明した。与党は参院で少数のため、野党の協力が成立の鍵となる。",
+      "source": "NHK",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261111de73947"
     },
     {
-      "title": "日中首脳会談、APEC深圳サミットでの実現は依然不透明",
-      "summary": "11月18〜19日に中国・深圳で開かれるAPEC首脳会議に合わせた高市首相と習近平国家主席の会談について、日本の外務省高官は実現の可能性は低いとの見方を示した(11/8報道)。中国側は高市首相の台湾関連答弁の撤回を求めており、対立が続いている。",
-      "source": "Nation Thailand",
-      "link": "https://www.nationthailand.com/news/world/40073263"
+      "title": "衆院議員定数31削減法案、自民党が了承・週内提出へ",
+      "summary": "自民党は11月10日の総務会で、比例代表の議席を31削減する法案を了承した。自民・維新・国民民主の3党は週内の国会提出を目指す方針。",
+      "source": "NHK",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261110de73430"
+    },
+    {
+      "title": "2025年7月参院選の「1票の格差」訴訟、最高裁大法廷が11日に統一判断",
+      "summary": "最大3.13倍だった2025年7月参院選の定数配分を違憲として選挙無効を求めた16件の上告審について、最高裁大法廷が11月11日に判決を言い渡す。",
+      "source": "NHK",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261110de73802"
+    },
+    {
+      "title": "ソフトバンクグループ、9月中間期に7680億円の純損失 米AIデータセンター事業が重荷",
+      "summary": "ソフトバンクグループは11月10日、2026年9月中間決算で7680億円の純損益の赤字に転落したと発表。米国のAIデータセンター事業での損失計上が主因。",
+      "source": "時事通信(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/6dd9256496ab2b828179ab7ad5c31c87b9fb2a1b"
+    },
+    {
+      "title": "東京株式市場、日経平均789円高の6万1248円59銭で終値 ハイテク株に買い",
+      "summary": "11月11日の東京株式市場で日経平均は前日比789円01銭高の6万1248円59銭で取引を終了。AI投資の採算性への警戒感が和らぎ、半導体関連などハイテク株が買われた。",
+      "source": "時事通信(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/1be69d666a79a478bae9b6adc0e0ef43cfcd91c1"
     }
   ],
   "tech": [
     {
-      "title": "OpenAI、開発者向けツール企業Pierre Computerを買収",
-      "summary": "OpenAIは11月4日、コード管理ツール「Code Storage」や「Trees」「Diffs」などのオープンソースライブラリを手がけるPierre Computerの買収を発表。既にCodexに組み込まれている同社のツールを拡張する狙いで、買収後もオープンソースは維持されるとしている。",
-      "source": "OpenAI公式",
-      "link": "https://openai.com/index/openai-to-acquire-pierre/"
+      "title": "Anthropic、ClaudeにオフィスソフトウェアスイートとClaude Dataを追加、Microsoft株が下落",
+      "summary": "Anthropicは11月10日、Claudeでスプレッドシートやプレゼンテーションを作成・編集できる新機能群と、企業の重要データに接続する「Claude Data」を発表。IPOを控えたタイミングでの企業向け製品強化で、同日Microsoft株が3%超下落したと報じられた。",
+      "source": "Fortune / The Information",
+      "link": "https://fortune.com/2026/11/10/anthropic-launches-office-knowledge-worker-product-launch-ahead-of-ipo"
     },
     {
-      "title": "Google、ワイオミング州に1.7兆円規模のデータセンター建設を発表",
-      "summary": "Googleは11月5日、ワイオミング州シャイアン近郊に170億ドル(約1.7兆円)を投じる初の同州データセンターを発表。702MW規模の燃料電池発電とCO2回収を組み合わせ、消費電力の100%を自社負担するとしている。",
-      "source": "Google公式ブログ",
-      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/wyoming-data-center/"
-    },
-    {
-      "title": "中国政府、ソフトバンクによるABBロボティクス事業買収(54億ドル)を阻止",
-      "summary": "中国の規制当局は、ソフトバンクグループが計画していたABBのロボティクス事業の約54億ドル規模の買収を認めない方針を示した。中国はABBにとって最大のロボット市場で、技術・データの中国国外流出への懸念が背景とされる。両社は協議を継続しているという(11/5報道)。",
-      "source": "South China Morning Post",
-      "link": "https://scmp.com/business/china-business/article/3373415/china-blocks-softbanks-us54-billion-takeover-abbs-robotics-division"
-    },
-    {
-      "title": "NVIDIA取締役会、フアンCEOを巡る「外国情報機関接触」疑惑で独立調査を開始",
-      "summary": "NVIDIAの独立取締役委員会は11月8日、ジェンセン・フアンCEOがシンガポールの企業幹部を通じて中国の情報機関に接触されたとの報道を受け、外部弁護士とともに独立調査を開始すると発表。フアン氏は調査に協力しつつ指揮を継続する。NVIDIAと中国政府双方が疑惑を否定している。",
-      "source": "NVIDIA公式",
-      "link": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors"
-    },
-    {
-      "title": "Apple、タッチスクリーン対応の新型MacBook Proが11月6日に出荷開始",
-      "summary": "Appleは同社として初めてタッチスクリーンに対応した新型MacBook Proを含む新製品を11月6日に発売。スマートホームディスプレイ「HomeView」($299)も11月13日に発売予定とされる。",
-      "source": "MacRumors",
-      "link": "https://macrumors.com/2026/11/02/apple-isnt-done-with-2026-heres-whats-still-coming/"
+      "title": "Google、AIハードウェア強化のため新型TPU2種を発表",
+      "summary": "Googleは11月10日、AI向け自社開発チップ「TPU」の新型2種を発表。うち「TPU 8tx」はAMDと共同開発したもので、機密性の高いトレーニング・推論用途を想定。Nvidiaへの依存低減を狙うハイパースケーラーの動きの一環。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/"
     }
   ],
   "x_trending_tech": [
     {
-      "title": "Elon Musk、Grok 4.8の開発状況を報告 推論スタックをC/C++で全面書き換え",
-      "summary": "xAIがJAX/SGLangを廃止し、Grok 4.8の強化学習・推論スタックをゼロからC/C++で書き直したとMuskがXで報告。事前学習は完了しRL評価が向上中で、近日中にGrok Botユーザー向けソフトローンチを予定(11/10夜〜11/11未明の投稿)。",
-      "source": "@elonmusk",
-      "link": "https://x.com/elonmusk/status/2120088070443655190"
+      "title": "Anthropic、Claude Whiteboards・Sheets・Dataの提供を開始と公式投稿",
+      "summary": "Anthropic公式が「ボードで計画を練り、シートでトラッカーを作り、データでストーリーを語れる」としてClaude Whiteboards・Claude Sheets・Claude Dataの展開を発表(11/11未明2:26頃の投稿)。",
+      "source": "@claudeai",
+      "link": "https://x.com/claudeai/status/2120206365759094857"
     },
     {
-      "title": "OpenAI公式、ChatGPT内の企業向け「Business Hub」とAIエージェント機能をベータ公開と投稿",
-      "summary": "企業がChatGPT上でプロフィールや商品フィードを管理できる「Business Hub」と、顧客対応AIエージェント機能をベータ版として発表(11/10〜11/11未明の投稿)。",
-      "source": "@OpenAI",
-      "link": "https://x.com/OpenAI/status/2120216596753121411"
+      "title": "Claude新機能「Whiteboards」の実機レビューが話題",
+      "summary": "ユーザーが「チームでミーティングしながら議論を可視化して合意を作る」用途でClaude Whiteboardsを試した感想を投稿し反響(11/11朝6:15頃の投稿)。",
+      "source": "@Drake5112",
+      "link": "https://x.com/Drake5112/status/2120264154628141446"
     },
     {
-      "title": "Jensen Huang氏とNVIDIA、株主から集団訴訟提起と報告",
-      "summary": "The Kobeissi Letterが、NVIDIAとフアンCEOが中国の情報機関との関係疑惑を株主に開示しなかったとして、カリフォルニア州連邦地裁で集団訴訟を起こされたと投稿(11/10夜の投稿)。",
-      "source": "@KobeissiLetter",
-      "link": "https://x.com/KobeissiLetter/status/2119937712102760784"
+      "title": "NVIDIA関連企業Megaspeedをシンガポール警察・米当局が捜査と報告",
+      "summary": "NVIDIAの域内最大顧客とされるシンガポールのクラウド企業Megaspeedについて、シンガポール警察・米当局が調査中であり、Bainのデータセンターもテナントとしての契約を切ったと投稿(11/11朝6:37頃)。",
+      "source": "@IntCyberDigest",
+      "link": "https://x.com/IntCyberDigest/status/2120269517607846033"
     },
     {
-      "title": "「GTA6」のプリロードが開始、11月19日発売に向け話題に",
-      "summary": "Rockstar Games公式が、予約済みユーザー向けに「Grand Theft Auto VI」のプリロード開始を発表。11月19日の発売に向けゲーム業界・ファンの間で大きな話題となっている(11/10の投稿)。",
-      "source": "@RockstarGames",
-      "link": "https://x.com/RockstarGames/status/2120154484244381738"
+      "title": "NVIDIA、約75億ドル相当のAIチップが中国企業に不正流出との報道が話題",
+      "summary": "The Informationの報道として、あるネットワークが規制対象を含む約24万個・約75億ドル相当のNVIDIA製AIチップを中国企業に流通させたと紹介する投稿が拡散(11/11未明2:01頃)。",
+      "source": "@amitisinvesting",
+      "link": "https://x.com/amitisinvesting/status/2120200309972885872"
+    },
+    {
+      "title": "Switch2版「ゼルダの伝説 時のオカリナ」、発売4日間で520万本突破と任天堂が発表",
+      "summary": "任天堂公式が、Nintendo Switch 2用ソフト『ゼルダの伝説 時のオカリナ』の世界累計販売本数が発売後4日間で520万本を突破したと発表(11/11午後3:30頃の投稿)。",
+      "source": "@NintendoCoLtd",
+      "link": "https://x.com/NintendoCoLtd/status/2120403867116703947"
     }
   ]
 }
