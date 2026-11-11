@@ -1,81 +1,98 @@
 {
-  "run_label": "11/11 19:00",
+  "run_label": "11/12 07:00",
   "politics_economy": [
     {
-      "title": "消費税減税法案が参議院で審議入り、高市首相は支援金の対象拡大に言及",
-      "summary": "食料品の消費税率引き下げを含む関連法案が11月11日、参議院で実質審議入りした。高市首相は低所得者向け支援金について勤労者の3割以上を対象とする方向で検討していると説明した。与党は参院で少数のため、野党の協力が成立の鍵となる。",
-      "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261111de73947"
+      "title": "参院選「一票の格差」最大3.13倍は違憲状態、最高裁が12年ぶり判断",
+      "summary": "最高裁大法廷は11月11日、2025年7月の参院選の「一票の格差」(最大3.13倍)について違憲状態と判断した。合区導入後では初めての違憲状態判断で、選挙無効を求めた原告側の請求は棄却された。",
+      "source": "産経新聞(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/e77fad80b2b36d4e5ac19a6c7994bb9f97565fa4"
     },
     {
-      "title": "衆院議員定数31削減法案、自民党が了承・週内提出へ",
-      "summary": "自民党は11月10日の総務会で、比例代表の議席を31削減する法案を了承した。自民・維新・国民民主の3党は週内の国会提出を目指す方針。",
-      "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261110de73430"
+      "title": "消費税減税法案が参院審議入り、高市首相「負担軽減を実感してもらえるよう」",
+      "summary": "飲食料品の消費税率を2027年4月から2年間1%に引き下げる関連法案が11日、参院本会議で審議入りした。片山財務相が趣旨説明し、高市首相が質疑に応じた。13日からは特別委員会で実質審議に入る。",
+      "source": "共同通信(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/c1e36362eec523fb463655088619704dfbe49d3d"
     },
     {
-      "title": "2025年7月参院選の「1票の格差」訴訟、最高裁大法廷が11日に統一判断",
-      "summary": "最大3.13倍だった2025年7月参院選の定数配分を違憲として選挙無効を求めた16件の上告審について、最高裁大法廷が11月11日に判決を言い渡す。",
-      "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261110de73802"
+      "title": "東証、3日続伸で6万1000円台回復 ハイテク株に買い",
+      "summary": "11日の東京株式市場で日経平均株価は前日比789円高の6万1248円59銭で終了し3日続伸した。アンソロピックのIPO仮条件引き上げ報道を受けハイテク株が買われた。",
+      "source": "共同通信(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/5f2561c978913c5af441bec66e8d8bd506a685fa"
     },
     {
-      "title": "ソフトバンクグループ、9月中間期に7680億円の純損失 米AIデータセンター事業が重荷",
-      "summary": "ソフトバンクグループは11月10日、2026年9月中間決算で7680億円の純損益の赤字に転落したと発表。米国のAIデータセンター事業での損失計上が主因。",
-      "source": "時事通信(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/6dd9256496ab2b828179ab7ad5c31c87b9fb2a1b"
+      "title": "日産、2026年度上期は純損益397億円の赤字 本業は黒字転換",
+      "summary": "日産自動車は11月11日、2026年度上期(4〜9月)決算を発表した。営業損益は800億円の黒字に転換したが、純損益は397億円の赤字。中国販売不振でグローバル販売計画を下方修正した。",
+      "source": "産経新聞(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/817294481d02afc54f71257805078f0db22c57ce"
     },
     {
-      "title": "東京株式市場、日経平均789円高の6万1248円59銭で終値 ハイテク株に買い",
-      "summary": "11月11日の東京株式市場で日経平均は前日比789円01銭高の6万1248円59銭で取引を終了。AI投資の採算性への警戒感が和らぎ、半導体関連などハイテク株が買われた。",
-      "source": "時事通信(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/1be69d666a79a478bae9b6adc0e0ef43cfcd91c1"
+      "title": "ドコモで5G SA通信障害、通話・データ利用しづらく",
+      "summary": "NTTドコモは11月11日10時34分頃から、5G SA契約者を対象に全国で音声通話・データ通信・SMSが利用しづらくなる通信障害が発生したと発表した。11月5日に続く再発。",
+      "source": "テクノエッジ(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/d47187c7f19664173d96eb1e139090d354a1ed63"
     }
   ],
   "tech": [
     {
-      "title": "Anthropic、ClaudeにオフィスソフトウェアスイートとClaude Dataを追加、Microsoft株が下落",
-      "summary": "Anthropicは11月10日、Claudeでスプレッドシートやプレゼンテーションを作成・編集できる新機能群と、企業の重要データに接続する「Claude Data」を発表。IPOを控えたタイミングでの企業向け製品強化で、同日Microsoft株が3%超下落したと報じられた。",
-      "source": "Fortune / The Information",
-      "link": "https://fortune.com/2026/11/10/anthropic-launches-office-knowledge-worker-product-launch-ahead-of-ipo"
+      "title": "エヌビディアCEOの不倫相手に中国スパイ疑惑、トランプ氏「FBIが捜査」",
+      "summary": "NVIDIAのジェンスン・フアンCEOと関係があったシンガポール企業幹部が中国情報機関との関係を疑われている問題で、トランプ米大統領はFBIが調査していることを明らかにした。AI半導体の不正輸出疑惑も指摘されている。",
+      "source": "FNNプライムオンライン(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/89ea905aa6f81ec17909f762fca888762f48c70a"
     },
     {
-      "title": "Google、AIハードウェア強化のため新型TPU2種を発表",
-      "summary": "Googleは11月10日、AI向け自社開発チップ「TPU」の新型2種を発表。うち「TPU 8tx」はAMDと共同開発したもので、機密性の高いトレーニング・推論用途を想定。Nvidiaへの依存低減を狙うハイパースケーラーの動きの一環。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/"
+      "title": "ラピダス、先端半導体の量産化を1年延期する案が浮上",
+      "summary": "時事通信は11月11日、ラピダスが2nm先端半導体の量産開始を1年程度延期する案が浮上していると報じた。開発の難航や良品率の改善の遅れが理由とされる。",
+      "source": "時事通信(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/72b536a07519cbcf65810c7f4a85efd7927f8792"
+    },
+    {
+      "title": "TSMC、アンソロピックとOpenAIに最大10億ドル出資へ",
+      "summary": "TSMCは11月10日の取締役会で、AI開発企業のアンソロピックとOpenAIへの出資を承認したと発表した。出資上限は両社それぞれ5億ドルで合計最大10億ドルとなる。",
+      "source": "ビジネス+IT(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/fc0c7d2a77d13dd71039c5137e3de5586e10a985"
+    },
+    {
+      "title": "OpenAI、「GPT-6 Luna」のAPI処理・推論を日本国内で提供開始",
+      "summary": "OpenAIは11月11日、API向けモデル「GPT-6 Luna」について、リクエストの処理とモデルの推論を日本国内で行える機能の一般提供を始めたと発表した。",
+      "source": "Impress Watch(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/caeef56ccd0ccc60b417816725049fe22bfb6b16"
+    },
+    {
+      "title": "サカナAI、2027年秋にもIPOへ 日米同時上場も視野",
+      "summary": "東京のAIスタートアップ、サカナAIが早ければ2027年秋に日本または米国での株式上場を準備していると報じられた。ゴールドマン・サックスなどを起用し、ナスダック上場も検討しているとされる。",
+      "source": "ビジネス+IT(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/eff544ef5cf5ea2fb27273f0d90c509bf4680cd8"
+    },
+    {
+      "title": "アンソロピック、IPOの目標バリュエーションを1.2〜1.3兆ドルに下方修正",
+      "summary": "Bloombergなどの報道によると、アンソロピックは市場の不安定化を受け、IPOの目標バリュエーションを当初目標より低い1.2兆〜1.3兆ドル程度として投資家への説明を始めた。上場は感謝祭前の週を目指すとされる。",
+      "source": "FourWeekMBA",
+      "link": "https://fourweekmba.com/ai-anthropic-said-to-start-ipo-marketing-at-a-lower-target/"
+    },
+    {
+      "title": "三井化学、半導体材料大手JSRの買収を発表 政投銀と1.8兆円投資",
+      "summary": "三井化学は11月9日、半導体材料大手のJSRを買収すると発表した。日本政策投資銀行と共同で出資し、投資額は1兆8400億円に上る。AI普及による半導体市場拡大を見込む。",
+      "source": "読売新聞オンライン(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/decfb77a9182812a20b1086d087019645515c733"
+    },
+    {
+      "title": "NTT、ロボットの荷崩れなどを事前予測する「フィジカルAI」技術を発表",
+      "summary": "NTTは11月11日、ロボットが行動する前に荷崩れや落下のリスクを予測し、成功率の高い動作を選べるフィジカルAI技術を発表した。まず空港の手荷物積み降ろし作業への適用を目指す。",
+      "source": "Impress Watch(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/163db209baae538743bbf00ed4eea816d84bc4a3"
+    },
+    {
+      "title": "NVIDIA、日本語AI開発を支援する合成データセット2種を発表",
+      "summary": "NVIDIAは11月10日に東京で開催したイベントで、金融機関向け日本人ペルソナデータなど、日本語AIの開発を支援する2種類の合成データセットを発表した。",
+      "source": "Web担当者Forum(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/ab6b6b26a32bf7ad6229d4171981108bc072d964"
+    },
+    {
+      "title": "日立、AIエージェントが調達業務を支援する「調達AI」を発表",
+      "summary": "日立製作所は11月9日、AIエージェントを活用し見積もり比較や納期管理など調達業務を自律化・高度化する「調達AI」サービスを発表した。先行適用では納期管理の作業時間を最大65%削減したという。",
+      "source": "クラウド Watch(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/815f82e367c493801d3721e66f869b40fb51090a"
     }
   ],
-  "x_trending_tech": [
-    {
-      "title": "Anthropic、Claude Whiteboards・Sheets・Dataの提供を開始と公式投稿",
-      "summary": "Anthropic公式が「ボードで計画を練り、シートでトラッカーを作り、データでストーリーを語れる」としてClaude Whiteboards・Claude Sheets・Claude Dataの展開を発表(11/11未明2:26頃の投稿)。",
-      "source": "@claudeai",
-      "link": "https://x.com/claudeai/status/2120206365759094857"
-    },
-    {
-      "title": "Claude新機能「Whiteboards」の実機レビューが話題",
-      "summary": "ユーザーが「チームでミーティングしながら議論を可視化して合意を作る」用途でClaude Whiteboardsを試した感想を投稿し反響(11/11朝6:15頃の投稿)。",
-      "source": "@Drake5112",
-      "link": "https://x.com/Drake5112/status/2120264154628141446"
-    },
-    {
-      "title": "NVIDIA関連企業Megaspeedをシンガポール警察・米当局が捜査と報告",
-      "summary": "NVIDIAの域内最大顧客とされるシンガポールのクラウド企業Megaspeedについて、シンガポール警察・米当局が調査中であり、Bainのデータセンターもテナントとしての契約を切ったと投稿(11/11朝6:37頃)。",
-      "source": "@IntCyberDigest",
-      "link": "https://x.com/IntCyberDigest/status/2120269517607846033"
-    },
-    {
-      "title": "NVIDIA、約75億ドル相当のAIチップが中国企業に不正流出との報道が話題",
-      "summary": "The Informationの報道として、あるネットワークが規制対象を含む約24万個・約75億ドル相当のNVIDIA製AIチップを中国企業に流通させたと紹介する投稿が拡散(11/11未明2:01頃)。",
-      "source": "@amitisinvesting",
-      "link": "https://x.com/amitisinvesting/status/2120200309972885872"
-    },
-    {
-      "title": "Switch2版「ゼルダの伝説 時のオカリナ」、発売4日間で520万本突破と任天堂が発表",
-      "summary": "任天堂公式が、Nintendo Switch 2用ソフト『ゼルダの伝説 時のオカリナ』の世界累計販売本数が発売後4日間で520万本を突破したと発表(11/11午後3:30頃の投稿)。",
-      "source": "@NintendoCoLtd",
-      "link": "https://x.com/NintendoCoLtd/status/2120403867116703947"
-    }
-  ]
+  "x_trending_tech": []
 }
