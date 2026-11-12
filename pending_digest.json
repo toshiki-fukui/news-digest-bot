@@ -1,97 +1,55 @@
 {
-  "run_label": "11/12 07:00",
+  "run_label": "11/12 19:00",
   "politics_economy": [
     {
-      "title": "参院選「一票の格差」最大3.13倍は違憲状態、最高裁が12年ぶり判断",
-      "summary": "最高裁大法廷は11月11日、2025年7月の参院選の「一票の格差」(最大3.13倍)について違憲状態と判断した。合区導入後では初めての違憲状態判断で、選挙無効を求めた原告側の請求は棄却された。",
-      "source": "産経新聞(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/e77fad80b2b36d4e5ac19a6c7994bb9f97565fa4"
+      "title": "消費税減税法案、高市首相が12日の参院特別委に出席へ",
+      "summary": "食料品の消費税を2年間1%に引き下げる関連法案の審議で、高市早苗首相が11月12日に参議院の特別委員会に出席し、趣旨説明と質疑に応じる見通し。与党は参院で過半数に届かず、国民民主・公明両党への協力要請が焦点。",
+      "source": "NHK",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261112de74564"
     },
     {
-      "title": "消費税減税法案が参院審議入り、高市首相「負担軽減を実感してもらえるよう」",
-      "summary": "飲食料品の消費税率を2027年4月から2年間1%に引き下げる関連法案が11日、参院本会議で審議入りした。片山財務相が趣旨説明し、高市首相が質疑に応じた。13日からは特別委員会で実質審議に入る。",
-      "source": "共同通信(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/c1e36362eec523fb463655088619704dfbe49d3d"
-    },
-    {
-      "title": "東証、3日続伸で6万1000円台回復 ハイテク株に買い",
-      "summary": "11日の東京株式市場で日経平均株価は前日比789円高の6万1248円59銭で終了し3日続伸した。アンソロピックのIPO仮条件引き上げ報道を受けハイテク株が買われた。",
-      "source": "共同通信(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/5f2561c978913c5af441bec66e8d8bd506a685fa"
-    },
-    {
-      "title": "日産、2026年度上期は純損益397億円の赤字 本業は黒字転換",
-      "summary": "日産自動車は11月11日、2026年度上期(4〜9月)決算を発表した。営業損益は800億円の黒字に転換したが、純損益は397億円の赤字。中国販売不振でグローバル販売計画を下方修正した。",
-      "source": "産経新聞(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/817294481d02afc54f71257805078f0db22c57ce"
-    },
-    {
-      "title": "ドコモで5G SA通信障害、通話・データ利用しづらく",
-      "summary": "NTTドコモは11月11日10時34分頃から、5G SA契約者を対象に全国で音声通話・データ通信・SMSが利用しづらくなる通信障害が発生したと発表した。11月5日に続く再発。",
-      "source": "テクノエッジ(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/d47187c7f19664173d96eb1e139090d354a1ed63"
+      "title": "消費減税法案が参院審議入り、給付の制度設計が焦点に",
+      "summary": "11月11日、参議院本会議で消費税減税関連法案の審議が始まり、高市首相が出席して質疑に応じた。財源や低中所得者向け支援金の対象・金額など制度の詳細が固まっておらず、特別委員会で議論を深める。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUA110C40R11C26A1000000/"
     }
   ],
   "tech": [
     {
-      "title": "エヌビディアCEOの不倫相手に中国スパイ疑惑、トランプ氏「FBIが捜査」",
-      "summary": "NVIDIAのジェンスン・フアンCEOと関係があったシンガポール企業幹部が中国情報機関との関係を疑われている問題で、トランプ米大統領はFBIが調査していることを明らかにした。AI半導体の不正輸出疑惑も指摘されている。",
-      "source": "FNNプライムオンライン(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/89ea905aa6f81ec17909f762fca888762f48c70a"
+      "title": "OpenAIの四半期収益が初めて100億ドルを突破と報道",
+      "summary": "報道によると、OpenAIの直近四半期の収益が初めて100億ドルを超えた。AIモデルへの需要の強さが背景とされる(2026年11月11日報道、関係者情報に基づく)。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/"
     },
     {
-      "title": "ラピダス、先端半導体の量産化を1年延期する案が浮上",
-      "summary": "時事通信は11月11日、ラピダスが2nm先端半導体の量産開始を1年程度延期する案が浮上していると報じた。開発の難航や良品率の改善の遅れが理由とされる。",
-      "source": "時事通信(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/72b536a07519cbcf65810c7f4a85efd7927f8792"
+      "title": "Nvidiaのフアン氏の疑惑を受け、議員らがAIチップ輸出規制強化を要求",
+      "summary": "Nvidia CEOジェンセン・フアン氏が中国と関係のある人物との関わりを認めたことを受け、米下院議長マイク・ジョンソン氏らがAIチップの輸出規制強化を年末の国防予算法案に盛り込むよう支持を表明した(2026年11月11日)。",
+      "source": "WBUR (Here & Now)",
+      "link": "https://www.wbur.org/hereandnow/2026/11/11/ai-chip-exports"
     },
     {
-      "title": "TSMC、アンソロピックとOpenAIに最大10億ドル出資へ",
-      "summary": "TSMCは11月10日の取締役会で、AI開発企業のアンソロピックとOpenAIへの出資を承認したと発表した。出資上限は両社それぞれ5億ドルで合計最大10億ドルとなる。",
-      "source": "ビジネス+IT(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/fc0c7d2a77d13dd71039c5137e3de5586e10a985"
+      "title": "AIチップ競争が激化、Synopsysの設計ソフトウェアに強み",
+      "summary": "加熱するAIチップ開発競争の中、Synopsysの半導体設計ソフトウェアがほぼすべての先端AIチップに使われているとの分析。株価は競合に比べ低い評価倍率で取引されているとの指摘(2026年11月11日)。",
+      "source": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/11/11/the-ai-chip-race-is-getting-crowded-this-company-has-another-advantage/"
     },
     {
-      "title": "OpenAI、「GPT-6 Luna」のAPI処理・推論を日本国内で提供開始",
-      "summary": "OpenAIは11月11日、API向けモデル「GPT-6 Luna」について、リクエストの処理とモデルの推論を日本国内で行える機能の一般提供を始めたと発表した。",
-      "source": "Impress Watch(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/caeef56ccd0ccc60b417816725049fe22bfb6b16"
+      "title": "Nordic Semiconductor、NPU搭載のエッジAI対応Wi-Fi SoC「nRF71」シリーズを発表",
+      "summary": "待機時消費電力を従来品比で最大20分の1に削減し、NPUを搭載したモデルも用意、チップ上でAI推論を実行できる(2026年11月11日)。",
+      "source": "EE Times Japan (ITmedia)",
+      "link": "https://edn.itmedia.co.jp/edn/articles/2611/11/news015.html"
     },
     {
-      "title": "サカナAI、2027年秋にもIPOへ 日米同時上場も視野",
-      "summary": "東京のAIスタートアップ、サカナAIが早ければ2027年秋に日本または米国での株式上場を準備していると報じられた。ゴールドマン・サックスなどを起用し、ナスダック上場も検討しているとされる。",
-      "source": "ビジネス+IT(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/eff544ef5cf5ea2fb27273f0d90c509bf4680cd8"
+      "title": "Anthropic、IPO価格を1株70〜78ドルに設定 最大1.4兆ドル規模に",
+      "summary": "Anthropicは新規株式公開(IPO)で1株70〜78ドルの価格帯を設定し、最大約1.4兆ドルの企業価値となる見通し。ナスダックに「ANT」として8億2,500万株を上場する計画で、10月末時点の年換算収益は約810億ドルに達したと報じられる(2026年11月11日報道)。",
+      "source": "Fortune",
+      "link": "https://fortune.com/2026/11/11/anthropic-ipo-nov-2026-1-4-trillion-share-price-ant-rsi-fears/"
     },
     {
-      "title": "アンソロピック、IPOの目標バリュエーションを1.2〜1.3兆ドルに下方修正",
-      "summary": "Bloombergなどの報道によると、アンソロピックは市場の不安定化を受け、IPOの目標バリュエーションを当初目標より低い1.2兆〜1.3兆ドル程度として投資家への説明を始めた。上場は感謝祭前の週を目指すとされる。",
-      "source": "FourWeekMBA",
-      "link": "https://fourweekmba.com/ai-anthropic-said-to-start-ipo-marketing-at-a-lower-target/"
-    },
-    {
-      "title": "三井化学、半導体材料大手JSRの買収を発表 政投銀と1.8兆円投資",
-      "summary": "三井化学は11月9日、半導体材料大手のJSRを買収すると発表した。日本政策投資銀行と共同で出資し、投資額は1兆8400億円に上る。AI普及による半導体市場拡大を見込む。",
-      "source": "読売新聞オンライン(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/decfb77a9182812a20b1086d087019645515c733"
-    },
-    {
-      "title": "NTT、ロボットの荷崩れなどを事前予測する「フィジカルAI」技術を発表",
-      "summary": "NTTは11月11日、ロボットが行動する前に荷崩れや落下のリスクを予測し、成功率の高い動作を選べるフィジカルAI技術を発表した。まず空港の手荷物積み降ろし作業への適用を目指す。",
-      "source": "Impress Watch(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/163db209baae538743bbf00ed4eea816d84bc4a3"
-    },
-    {
-      "title": "NVIDIA、日本語AI開発を支援する合成データセット2種を発表",
-      "summary": "NVIDIAは11月10日に東京で開催したイベントで、金融機関向け日本人ペルソナデータなど、日本語AIの開発を支援する2種類の合成データセットを発表した。",
-      "source": "Web担当者Forum(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/ab6b6b26a32bf7ad6229d4171981108bc072d964"
-    },
-    {
-      "title": "日立、AIエージェントが調達業務を支援する「調達AI」を発表",
-      "summary": "日立製作所は11月9日、AIエージェントを活用し見積もり比較や納期管理など調達業務を自律化・高度化する「調達AI」サービスを発表した。先行適用では納期管理の作業時間を最大65%削減したという。",
-      "source": "クラウド Watch(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/815f82e367c493801d3721e66f869b40fb51090a"
+      "title": "Nvidia取締役会がフアンCEO退任を検討か、オルトマン氏は自社チップ移行計画を明かすと報道",
+      "summary": "Nvidiaをめぐり、取締役会がジェンセン・フアンCEOの退任を検討しているとの報道が出る一方、OpenAIのサム・アルトマン氏はNvidia製チップへの依存を減らし自社開発チップへ移行する計画を明らかにしたと報じられた(2026年11月11日)。",
+      "source": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/11/11/more-bad-news-for-nvidia-with-board-planning-to-boot-jensen-huang-sam-altman-reveals-master-plan-to-stop-buying-their-chips/"
     }
   ],
   "x_trending_tech": []
