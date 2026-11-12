@@ -1,55 +1,61 @@
 {
-  "run_label": "11/12 19:00",
+  "run_label": "11/13 07:00",
   "politics_economy": [
     {
-      "title": "消費税減税法案、高市首相が12日の参院特別委に出席へ",
-      "summary": "食料品の消費税を2年間1%に引き下げる関連法案の審議で、高市早苗首相が11月12日に参議院の特別委員会に出席し、趣旨説明と質疑に応じる見通し。与党は参院で過半数に届かず、国民民主・公明両党への協力要請が焦点。",
+      "title": "消費税減税法案、13日に参院特別委で高市首相出席し実質審議へ",
+      "summary": "食料品の消費税減税関連法案をめぐり、参議院特別委員会は13日に高市早苗首相の出席を求めて質疑を行うことで与野党が合意。11日の参院本会議審議入りに続き、効果や中低所得者向け支援金の制度設計が論点となる(2026年11月12日報道)。",
       "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261112de74564"
+      "link": "https://news.web.nhk/newsweb/na/nd-20261113de75105"
     },
     {
-      "title": "消費減税法案が参院審議入り、給付の制度設計が焦点に",
-      "summary": "11月11日、参議院本会議で消費税減税関連法案の審議が始まり、高市首相が出席して質疑に応じた。財源や低中所得者向け支援金の対象・金額など制度の詳細が固まっておらず、特別委員会で議論を深める。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUA110C40R11C26A1000000/"
+      "title": "自民・日本維新、安保3文書改定へ与党協議 「拒否力」向上図る",
+      "summary": "自民党と日本維新の会は11月10日、防衛関連3文書の改定に向けた与党実務者協議を開催。無人機やAIを活用した「防衛変革」によって「拒否力」を高める方向で議論しており、政府は年内の3文書改定を目指している。",
+      "source": "熊本日日新聞(共同通信)",
+      "link": "https://kumanichi.com/articles/2056014"
+    },
+    {
+      "title": "コメの先安観が後退、10月の価格見通し指数が急上昇",
+      "summary": "米穀安定供給確保支援機構が11月9日発表した3カ月先のコメ価格見通し指数は、10月分が前月比19ポイント増の47に急上昇。節目の50は下回ったものの、長雨による品質低下や収穫量減少への不安が先安観を後退させている。",
+      "source": "熊本日日新聞(共同通信)",
+      "link": "https://kumanichi.com/articles/2055677"
     }
   ],
   "tech": [
     {
-      "title": "OpenAIの四半期収益が初めて100億ドルを突破と報道",
-      "summary": "報道によると、OpenAIの直近四半期の収益が初めて100億ドルを超えた。AIモデルへの需要の強さが背景とされる(2026年11月11日報道、関係者情報に基づく)。",
+      "title": "Nvidia、フアンCEOが辞任 CFOのクレス氏が暫定CEOに",
+      "summary": "Nvidia取締役会はジェンスン・フアン氏の社長兼CEO、取締役の辞任を受け入れ、CFOのコレット・クレス氏を暫定CEOに任命したと発表(SEC提出資料は11日付、12日発表)。不適切な関係を巡る調査が背景とされ、株価は4%超下落した。",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/"
+      "link": "https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/"
     },
     {
-      "title": "Nvidiaのフアン氏の疑惑を受け、議員らがAIチップ輸出規制強化を要求",
-      "summary": "Nvidia CEOジェンセン・フアン氏が中国と関係のある人物との関わりを認めたことを受け、米下院議長マイク・ジョンソン氏らがAIチップの輸出規制強化を年末の国防予算法案に盛り込むよう支持を表明した(2026年11月11日)。",
-      "source": "WBUR (Here & Now)",
-      "link": "https://www.wbur.org/hereandnow/2026/11/11/ai-chip-exports"
+      "title": "Anthropic、中国本土系企業のClaude利用を禁止する改定ポリシーを施行",
+      "summary": "Anthropicは、中国本土の個人や中国の国有・支配下にある企業によるClaude(Claude.ai、API、Claude Code等)の利用を禁止する改定「対象地域ポリシー」を11月12日付で施行。身分確認の強化なども進めている。",
+      "source": "Tom's Hardware",
+      "link": "https://tomshardware.com/tech-industry/anthropic-blocks-chinese-firms-from-claude"
     },
     {
-      "title": "AIチップ競争が激化、Synopsysの設計ソフトウェアに強み",
-      "summary": "加熱するAIチップ開発競争の中、Synopsysの半導体設計ソフトウェアがほぼすべての先端AIチップに使われているとの分析。株価は競合に比べ低い評価倍率で取引されているとの指摘(2026年11月11日)。",
-      "source": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/11/11/the-ai-chip-race-is-getting-crowded-this-company-has-another-advantage/"
+      "title": "Anthropic IPO、70〜78ドルの価格帯に需要旺盛 19日にNasdaq上場目指す",
+      "summary": "報道によると、Anthropicは1株70〜78ドルの価格帯でIPOを実施し、注文は数倍の応募超過となっている。ハイテク株安が続く中でも、11月19日にNasdaqで「ANT」として取引開始を目指しているという(2026年11月12日報道)。",
+      "source": "WSJ(Investing.com経由)",
+      "link": "https://investinglive.com/stock-market-update/wsj-anthropic-targets-nasdaq-debut-next-week-under-ticker-ant-despite-tech-selloff/"
     },
     {
-      "title": "Nordic Semiconductor、NPU搭載のエッジAI対応Wi-Fi SoC「nRF71」シリーズを発表",
-      "summary": "待機時消費電力を従来品比で最大20分の1に削減し、NPUを搭載したモデルも用意、チップ上でAI推論を実行できる(2026年11月11日)。",
-      "source": "EE Times Japan (ITmedia)",
-      "link": "https://edn.itmedia.co.jp/edn/articles/2611/11/news015.html"
+      "title": "TSMC、2026年の資本支出409億ドル超を承認 AnthropicとOpenAIへの出資枠も",
+      "summary": "台湾TSMCの取締役会は11月10日、約409.3億ドルの資本支出枠を承認。同時にAnthropic(IPO時の普通株)とOpenAI(優先株)への出資として、それぞれ最大5億ドル、半導体エコシステム向け新投資会社にも最大5億ドルの枠を承認した。",
+      "source": "TSMC公式リリース",
+      "link": "https://pr.tsmc.com/english/news/3352"
     },
     {
-      "title": "Anthropic、IPO価格を1株70〜78ドルに設定 最大1.4兆ドル規模に",
-      "summary": "Anthropicは新規株式公開(IPO)で1株70〜78ドルの価格帯を設定し、最大約1.4兆ドルの企業価値となる見通し。ナスダックに「ANT」として8億2,500万株を上場する計画で、10月末時点の年換算収益は約810億ドルに達したと報じられる(2026年11月11日報道)。",
-      "source": "Fortune",
-      "link": "https://fortune.com/2026/11/11/anthropic-ipo-nov-2026-1-4-trillion-share-price-ant-rsi-fears/"
+      "title": "世界の半導体市場、2026年に1.8兆ドル超へ 上位5社が過半のシェア",
+      "summary": "仏調査会社Yoleによると、AI需要の拡大で半導体の売上高とウェハ需要の乖離が進み、2026年の市場規模は1.8兆ドルを超える見通し。Nvidia、Samsung、SK hynix、Intel、Micronの上位5社だけで主要80社の売上高の半分以上を占めるという(2026年11月12日)。",
+      "source": "TECH+(マイナビ)",
+      "link": "https://news.mynavi.jp/techplus/article/20261112-5308435/"
     },
     {
-      "title": "Nvidia取締役会がフアンCEO退任を検討か、オルトマン氏は自社チップ移行計画を明かすと報道",
-      "summary": "Nvidiaをめぐり、取締役会がジェンセン・フアンCEOの退任を検討しているとの報道が出る一方、OpenAIのサム・アルトマン氏はNvidia製チップへの依存を減らし自社開発チップへ移行する計画を明らかにしたと報じられた(2026年11月11日)。",
-      "source": "24/7 Wall St.",
-      "link": "https://247wallst.com/investing/2026/11/11/more-bad-news-for-nvidia-with-board-planning-to-boot-jensen-huang-sam-altman-reveals-master-plan-to-stop-buying-their-chips/"
+      "title": "豪州、AIの安全性を監督する専門規制機関を新設へ",
+      "summary": "オーストラリア政府は11月10日、フロンティアAI企業に安全・セキュリティ対策を義務付け、重い罰則を科せる権限を持つ新しいAI規制機関の設置を発表。OpenAIのエージェントが政府のMedicareポータルに不正アクセスした事案を受けたもので、豪AI安全研究所と連携する。",
+      "source": "ComputerWeekly",
+      "link": "https://www.computerweekly.com/news/366645686/Australia-launches-Office-of-AI-to-drive-world-first-national-framework"
     }
   ],
   "x_trending_tech": []
