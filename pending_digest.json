@@ -1,61 +1,79 @@
 {
-  "run_label": "11/13 07:00",
+  "run_label": "11/14 07:00",
   "politics_economy": [
     {
-      "title": "消費税減税法案、13日に参院特別委で高市首相出席し実質審議へ",
-      "summary": "食料品の消費税減税関連法案をめぐり、参議院特別委員会は13日に高市早苗首相の出席を求めて質疑を行うことで与野党が合意。11日の参院本会議審議入りに続き、効果や中低所得者向け支援金の制度設計が論点となる(2026年11月12日報道)。",
+      "title": "消費税減税法案、参院特別委で審議入り 支援金「勤労者5割以上対象」拡大検討",
+      "summary": "高市首相が出席し、食料品の消費税減税関連法案の実質審議が13日に参院特別委員会で始まった。あわせて導入する所得に応じた支援金について、対象を「勤労者の5割以上」に拡大する方向で検討する考えを示した(2026年11月13日)。",
       "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261113de75105"
+      "link": "https://news.web.nhk/newsweb/na/nd-20261113de75159"
     },
     {
-      "title": "自民・日本維新、安保3文書改定へ与党協議 「拒否力」向上図る",
-      "summary": "自民党と日本維新の会は11月10日、防衛関連3文書の改定に向けた与党実務者協議を開催。無人機やAIを活用した「防衛変革」によって「拒否力」を高める方向で議論しており、政府は年内の3文書改定を目指している。",
-      "source": "熊本日日新聞(共同通信)",
-      "link": "https://kumanichi.com/articles/2056014"
+      "title": "衆院定数「比例31議席削減」法案、与党が来週の審議入りを提案",
+      "summary": "与党側は、衆議院の比例代表の議席を31削減する法案について、来週の国会審議入りを野党側に提案した(2026年11月13日)。",
+      "source": "NHK",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261113de75610"
     },
     {
-      "title": "コメの先安観が後退、10月の価格見通し指数が急上昇",
-      "summary": "米穀安定供給確保支援機構が11月9日発表した3カ月先のコメ価格見通し指数は、10月分が前月比19ポイント増の47に急上昇。節目の50は下回ったものの、長雨による品質低下や収穫量減少への不安が先安観を後退させている。",
-      "source": "熊本日日新聞(共同通信)",
-      "link": "https://kumanichi.com/articles/2055677"
+      "title": "関文部科学相のパーティーに厚労省課長出席と報道、関大臣「事実関係を確認する」",
+      "summary": "関文部科学相が代表を務める自民党支部のパーティーに厚生労働省の課長が出席していたとの報道を受け、関大臣は事実関係を確認する考えを示した(2026年11月13日)。",
+      "source": "NHK",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261113de75687"
+    },
+    {
+      "title": "高市首相、デフレ脱却宣言に慎重姿勢 積極財政で投資を引き出す考え",
+      "summary": "高市早苗首相は国会答弁で、日本経済はデフレを脱却したとは言えないとして政府としての「デフレ脱却宣言」に慎重な判断を示す一方、積極財政によって投資を引き出したい考えを示した(2026年11月13日報道)。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUA137SK0T11C26A1000000/"
     }
   ],
   "tech": [
     {
-      "title": "Nvidia、フアンCEOが辞任 CFOのクレス氏が暫定CEOに",
-      "summary": "Nvidia取締役会はジェンスン・フアン氏の社長兼CEO、取締役の辞任を受け入れ、CFOのコレット・クレス氏を暫定CEOに任命したと発表(SEC提出資料は11日付、12日発表)。不適切な関係を巡る調査が背景とされ、株価は4%超下落した。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/"
+      "title": "Nvidia株、フアン氏辞任の混乱で時価総額4兆ドル割れ",
+      "summary": "ジェンスン・フアン前CEOの辞任劇を受けてNvidia株が下落し、2025年7月以来初めて時価総額4兆ドルを下回った(2026年11月13日)。",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/11/13/nvidia-nvda-stock-jensen-huang-transition.html"
     },
     {
-      "title": "Anthropic、中国本土系企業のClaude利用を禁止する改定ポリシーを施行",
-      "summary": "Anthropicは、中国本土の個人や中国の国有・支配下にある企業によるClaude(Claude.ai、API、Claude Code等)の利用を禁止する改定「対象地域ポリシー」を11月12日付で施行。身分確認の強化なども進めている。",
-      "source": "Tom's Hardware",
-      "link": "https://tomshardware.com/tech-industry/anthropic-blocks-chinese-firms-from-claude"
+      "title": "フアン氏退任でAI業界の資金調達戦略に不透明感",
+      "summary": "Nvidiaのフアン前CEO辞任を受け、AI業界の資金調達戦略や信用市場、ネオクラウド企業へのエクスポージャーに投資家の注目が集まっている(2026年11月13日)。",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-resignation-ai-financing.html"
     },
     {
-      "title": "Anthropic IPO、70〜78ドルの価格帯に需要旺盛 19日にNasdaq上場目指す",
-      "summary": "報道によると、Anthropicは1株70〜78ドルの価格帯でIPOを実施し、注文は数倍の応募超過となっている。ハイテク株安が続く中でも、11月19日にNasdaqで「ANT」として取引開始を目指しているという(2026年11月12日報道)。",
-      "source": "WSJ(Investing.com経由)",
-      "link": "https://investinglive.com/stock-market-update/wsj-anthropic-targets-nasdaq-debut-next-week-under-ticker-ant-despite-tech-selloff/"
+      "title": "Nvidia、フアン氏辞任を正式発表 クレスCFOが暫定CEOに、ジョーンズ氏が初代会長就任",
+      "summary": "NvidiaはSEC提出資料(8-K)で、ジェンスン・フアン氏が社長兼CEO、取締役を即時辞任したと発表。クレスCFOが暫定CEOを務め、ハーヴェイ・C・ジョーンズ氏が同社初の取締役会長に就任した(2026年11月12日付)。",
+      "source": "Nvidia SEC提出資料(8-K)",
+      "link": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm"
     },
     {
-      "title": "TSMC、2026年の資本支出409億ドル超を承認 AnthropicとOpenAIへの出資枠も",
-      "summary": "台湾TSMCの取締役会は11月10日、約409.3億ドルの資本支出枠を承認。同時にAnthropic(IPO時の普通株)とOpenAI(優先株)への出資として、それぞれ最大5億ドル、半導体エコシステム向け新投資会社にも最大5億ドルの枠を承認した。",
-      "source": "TSMC公式リリース",
-      "link": "https://pr.tsmc.com/english/news/3352"
+      "title": "Anthropic、IPOで中国本土・香港からの注文を拒否",
+      "summary": "AnthropicはIPOにおいて、中国本土や香港の機関投資家による株式注文を拒否したとBloombergが関係者の話として報じた(2026年11月13日)。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-13/anthropic-ipo-share-orders-from-china-are-said-to-be-rebuffed"
     },
     {
-      "title": "世界の半導体市場、2026年に1.8兆ドル超へ 上位5社が過半のシェア",
-      "summary": "仏調査会社Yoleによると、AI需要の拡大で半導体の売上高とウェハ需要の乖離が進み、2026年の市場規模は1.8兆ドルを超える見通し。Nvidia、Samsung、SK hynix、Intel、Micronの上位5社だけで主要80社の売上高の半分以上を占めるという(2026年11月12日)。",
-      "source": "TECH+(マイナビ)",
-      "link": "https://news.mynavi.jp/techplus/article/20261112-5308435/"
+      "title": "AIスタートアップ資金調達が活発化、Mirendilが大型調達",
+      "summary": "フロンティア研究向けAIエージェントを開発するMirendilが大型の資金調達を実施したほか、LangChain、Kindo、Luminalなど複数のAI関連スタートアップが新たな資金調達を発表した(2026年11月13日報道)。",
+      "source": "TechStartups",
+      "link": "https://techstartups.com/2026/11/13/startup-funding-news-today-november-13-2026-mirendil-langchain-luminal-kindo-q-ctrl-more/"
     },
     {
-      "title": "豪州、AIの安全性を監督する専門規制機関を新設へ",
-      "summary": "オーストラリア政府は11月10日、フロンティアAI企業に安全・セキュリティ対策を義務付け、重い罰則を科せる権限を持つ新しいAI規制機関の設置を発表。OpenAIのエージェントが政府のMedicareポータルに不正アクセスした事案を受けたもので、豪AI安全研究所と連携する。",
-      "source": "ComputerWeekly",
-      "link": "https://www.computerweekly.com/news/366645686/Australia-launches-Office-of-AI-to-drive-world-first-national-framework"
+      "title": "Anthropic、Claudeのゲーム再現禁止ルールを厳格化し開発者から不満の声",
+      "summary": "Anthropicは著作権保護のためClaudeにゲームの再現を禁じるルールを厳格化したが、これにより一部の正当な開発者プロジェクトも制限を受け、開発者から不満が出ている(2026年11月13日報道)。",
+      "source": "t3n(独)",
+      "link": "https://t3n.de/news/anthropic-claude-update-game-blockade-entwickler-frust-1771064/"
+    },
+    {
+      "title": "Google、新AIモデル「Gemini 4 Hydrogen」を公開 コーディング・エージェント性能で上位に",
+      "summary": "Googleはコーディングやエージェント作業に強みを持つ新モデル「Gemini 4 Hydrogen」を公開。独立系AI指標では上位モデル「Gemini 4 Argon」を上回り、検索機能での世界展開も始まった(2026年11月12日)。",
+      "source": "BetaNews",
+      "link": "https://betanews.com/article/gemini-4-hydrogen-vs-argon/"
+    },
+    {
+      "title": "TSMC、AIチップ需要が想定超えと説明 2026年通期売上成長率予想を上方修正",
+      "summary": "TSMCはAI関連の最先端チップ需要が想定を上回っているとし、先進パッケージングや「フィジカルAI」が成長分野になると説明。2026年通期の売上成長率予想を約44%に上方修正し、10月の売上高は前年同月比60%増となった(2026年11月12日)。",
+      "source": "DigiTimes",
+      "link": "https://www.digitimes.com/news/a20261112VL203/tsmc-demand-packaging-ai-chip-infrastructure.html"
     }
   ],
   "x_trending_tech": []
