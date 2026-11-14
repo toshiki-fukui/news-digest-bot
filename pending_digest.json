@@ -1,79 +1,49 @@
 {
-  "run_label": "11/14 07:00",
+  "run_label": "11/14 19:00",
   "politics_economy": [
     {
-      "title": "消費税減税法案、参院特別委で審議入り 支援金「勤労者5割以上対象」拡大検討",
-      "summary": "高市首相が出席し、食料品の消費税減税関連法案の実質審議が13日に参院特別委員会で始まった。あわせて導入する所得に応じた支援金について、対象を「勤労者の5割以上」に拡大する方向で検討する考えを示した(2026年11月13日)。",
-      "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261113de75159"
+      "title": "防衛予算「60兆円」軸に、高市首相は増税に消極的",
+      "summary": "今後5年間の防衛予算総額を60兆円規模とする方向で財務省・防衛省間の調整が進んでいると報じられた。高市首相は財源確保のための増税には消極的な姿勢を示しているという(2026年11月13日報道)。",
+      "source": "時事通信",
+      "link": "https://www.jiji.com/jc/article?k=2026111301051&g=pol"
     },
     {
-      "title": "衆院定数「比例31議席削減」法案、与党が来週の審議入りを提案",
-      "summary": "与党側は、衆議院の比例代表の議席を31削減する法案について、来週の国会審議入りを野党側に提案した(2026年11月13日)。",
-      "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261113de75610"
+      "title": "高市首相、ASEAN関連会議・APEC出席へ 18日に中国訪問も検討",
+      "summary": "外務省は、高市首相が11月16日から19日にフィリピン・マニラでのASEAN関連首脳会議と中国でのAPEC首脳会議に出席すると発表。あわせて18日に中国を訪問する日程も報じられている(2026年11月13日発表)。",
+      "source": "外務省",
+      "link": "https://www.mofa.go.jp/mofaj/pageit_000001_03314.html"
     },
     {
-      "title": "関文部科学相のパーティーに厚労省課長出席と報道、関大臣「事実関係を確認する」",
-      "summary": "関文部科学相が代表を務める自民党支部のパーティーに厚生労働省の課長が出席していたとの報道を受け、関大臣は事実関係を確認する考えを示した(2026年11月13日)。",
-      "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261113de75687"
-    },
-    {
-      "title": "高市首相、デフレ脱却宣言に慎重姿勢 積極財政で投資を引き出す考え",
-      "summary": "高市早苗首相は国会答弁で、日本経済はデフレを脱却したとは言えないとして政府としての「デフレ脱却宣言」に慎重な判断を示す一方、積極財政によって投資を引き出したい考えを示した(2026年11月13日報道)。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUA137SK0T11C26A1000000/"
+      "title": "高市首相、APECでプーチン大統領との「対話」打診を検討",
+      "summary": "高市首相がAPEC首脳会議に合わせ、ロシアのプーチン大統領との対話を打診する考えを持っているとされ、拘束されている日本人記者の解放やJTの資産問題などの協議を想定しているという(2026年11月13日報道)。",
+      "source": "読売新聞",
+      "link": "https://news.infoseek.co.jp/article/yomiuri_20261113_gyt1t00144/"
     }
   ],
   "tech": [
     {
-      "title": "Nvidia株、フアン氏辞任の混乱で時価総額4兆ドル割れ",
-      "summary": "ジェンスン・フアン前CEOの辞任劇を受けてNvidia株が下落し、2025年7月以来初めて時価総額4兆ドルを下回った(2026年11月13日)。",
+      "title": "フアン氏辞任後のNvidia株、買うべきか ウォール街の見方",
+      "summary": "ジェンスン・フアン前CEOの辞任を受けて動揺するNvidia株について、ウォール街のアナリストの見方を分析した記事。評価は分かれるが多くは株価を過小評価とみている(2026年11月14日)。",
+      "source": "The Motley Fool",
+      "link": "https://www.fool.com/investing/2026/11/14/buy-nvidia-stock-ceo-jensen-huang-exit-wall-street-answer/"
+    },
+    {
+      "title": "Nvidiaのスキャンダル、今後の展開は",
+      "summary": "フアン前CEOの不倫スキャンダルと辞任を受け、Nvidiaの経営体制や後継者選びがどう展開するかを分析(2026年11月13日)。",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/13/nvidia-scandal-whats-next-for-the-us-tech-company"
+    },
+    {
+      "title": "Nvidia社員の一部、フアン氏の復帰を要望",
+      "summary": "フアン前CEOの辞任後、一部の社員から同氏の復帰を望む声が上がっていると報じられた(2026年11月13日)。",
+      "source": "Fox News",
+      "link": "https://www.foxnews.com/live-news/ai-news-china-nvidia-jensen-huang-resigns-super-intelligence-safety-11-13-26"
+    },
+    {
+      "title": "米株式市場、Nvidia・Cisco・AMD・Appleなどが大幅変動",
+      "summary": "13日(金)の米株式市場で、Nvidiaをはじめ主要テック株が大きく変動。半導体関連株の動きが目立った(2026年11月13日)。",
       "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/11/13/nvidia-nvda-stock-jensen-huang-transition.html"
-    },
-    {
-      "title": "フアン氏退任でAI業界の資金調達戦略に不透明感",
-      "summary": "Nvidiaのフアン前CEO辞任を受け、AI業界の資金調達戦略や信用市場、ネオクラウド企業へのエクスポージャーに投資家の注目が集まっている(2026年11月13日)。",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-resignation-ai-financing.html"
-    },
-    {
-      "title": "Nvidia、フアン氏辞任を正式発表 クレスCFOが暫定CEOに、ジョーンズ氏が初代会長就任",
-      "summary": "NvidiaはSEC提出資料(8-K)で、ジェンスン・フアン氏が社長兼CEO、取締役を即時辞任したと発表。クレスCFOが暫定CEOを務め、ハーヴェイ・C・ジョーンズ氏が同社初の取締役会長に就任した(2026年11月12日付)。",
-      "source": "Nvidia SEC提出資料(8-K)",
-      "link": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm"
-    },
-    {
-      "title": "Anthropic、IPOで中国本土・香港からの注文を拒否",
-      "summary": "AnthropicはIPOにおいて、中国本土や香港の機関投資家による株式注文を拒否したとBloombergが関係者の話として報じた(2026年11月13日)。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-13/anthropic-ipo-share-orders-from-china-are-said-to-be-rebuffed"
-    },
-    {
-      "title": "AIスタートアップ資金調達が活発化、Mirendilが大型調達",
-      "summary": "フロンティア研究向けAIエージェントを開発するMirendilが大型の資金調達を実施したほか、LangChain、Kindo、Luminalなど複数のAI関連スタートアップが新たな資金調達を発表した(2026年11月13日報道)。",
-      "source": "TechStartups",
-      "link": "https://techstartups.com/2026/11/13/startup-funding-news-today-november-13-2026-mirendil-langchain-luminal-kindo-q-ctrl-more/"
-    },
-    {
-      "title": "Anthropic、Claudeのゲーム再現禁止ルールを厳格化し開発者から不満の声",
-      "summary": "Anthropicは著作権保護のためClaudeにゲームの再現を禁じるルールを厳格化したが、これにより一部の正当な開発者プロジェクトも制限を受け、開発者から不満が出ている(2026年11月13日報道)。",
-      "source": "t3n(独)",
-      "link": "https://t3n.de/news/anthropic-claude-update-game-blockade-entwickler-frust-1771064/"
-    },
-    {
-      "title": "Google、新AIモデル「Gemini 4 Hydrogen」を公開 コーディング・エージェント性能で上位に",
-      "summary": "Googleはコーディングやエージェント作業に強みを持つ新モデル「Gemini 4 Hydrogen」を公開。独立系AI指標では上位モデル「Gemini 4 Argon」を上回り、検索機能での世界展開も始まった(2026年11月12日)。",
-      "source": "BetaNews",
-      "link": "https://betanews.com/article/gemini-4-hydrogen-vs-argon/"
-    },
-    {
-      "title": "TSMC、AIチップ需要が想定超えと説明 2026年通期売上成長率予想を上方修正",
-      "summary": "TSMCはAI関連の最先端チップ需要が想定を上回っているとし、先進パッケージングや「フィジカルAI」が成長分野になると説明。2026年通期の売上成長率予想を約44%に上方修正し、10月の売上高は前年同月比60%増となった(2026年11月12日)。",
-      "source": "DigiTimes",
-      "link": "https://www.digitimes.com/news/a20261112VL203/tsmc-demand-packaging-ai-chip-infrastructure.html"
+      "link": "https://www.cnbc.com/2026/11/13/stocks-moving-the-most-today-live-updates.html"
     }
   ],
   "x_trending_tech": []
