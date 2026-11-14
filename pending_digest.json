@@ -1,49 +1,79 @@
 {
-  "run_label": "11/14 19:00",
+  "run_label": "11/15 07:00",
   "politics_economy": [
     {
-      "title": "防衛予算「60兆円」軸に、高市首相は増税に消極的",
-      "summary": "今後5年間の防衛予算総額を60兆円規模とする方向で財務省・防衛省間の調整が進んでいると報じられた。高市首相は財源確保のための増税には消極的な姿勢を示しているという(2026年11月13日報道)。",
+      "title": "高市首相、17日のクアッド首脳会合に出席へ 18日に就任後初の訪中",
+      "summary": "首相動静によると、高市首相は17日にフィリピンで開催されるクアッド首脳会合に出席し、18日には就任後初めて中国を訪問する日程が報じられた(2026年11月14日)。",
       "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026111301051&g=pol"
+      "link": "https://www.jiji.com/jc/article?k=2026111400204&g=pol&m=rss"
     },
     {
-      "title": "高市首相、ASEAN関連会議・APEC出席へ 18日に中国訪問も検討",
-      "summary": "外務省は、高市首相が11月16日から19日にフィリピン・マニラでのASEAN関連首脳会議と中国でのAPEC首脳会議に出席すると発表。あわせて18日に中国を訪問する日程も報じられている(2026年11月13日発表)。",
-      "source": "外務省",
-      "link": "https://www.mofa.go.jp/mofaj/pageit_000001_03314.html"
+      "title": "消費税減税関連法案、参院特別委員会で実質審議入り",
+      "summary": "飲食料品の消費税減税と所得連動型の現金給付制度に関する法案が参院特別委員会で実質審議入りした。高市首相は税率を戻す際の支援金で中低所得者の負担軽減を実感してもらう考えを強調している(2026年11月13日)。",
+      "source": "共同通信/熊本日日新聞",
+      "link": "https://kumanichi.com/articles/2056542"
     },
     {
-      "title": "高市首相、APECでプーチン大統領との「対話」打診を検討",
-      "summary": "高市首相がAPEC首脳会議に合わせ、ロシアのプーチン大統領との対話を打診する考えを持っているとされ、拘束されている日本人記者の解放やJTの資産問題などの協議を想定しているという(2026年11月13日報道)。",
-      "source": "読売新聞",
-      "link": "https://news.infoseek.co.jp/article/yomiuri_20261113_gyt1t00144/"
+      "title": "高市首相、公明取り込みへ攻勢 参院過半数確保に危機感―消費減税法案",
+      "summary": "参院で過半数に届かない与党は、消費税減税関連法案の成立に向けて公明党の協力取り込みを急いでいる。自民党内からは会期延長に追い込まれかねないとの懸念も漏れている(2026年11月13日)。",
+      "source": "時事通信",
+      "link": "https://www.jiji.com/jc/article?k=2026111301111&g=pol"
+    },
+    {
+      "title": "7~9月期GDP速報、16日発表へ 民間予測はプラスマイナス入り混じる",
+      "summary": "内閣府は7~9月期の実質GDP速報を16日に発表する予定。第一生命経済研究所は前期比年率マイナス0.4%、大和総研はプラス1.0%と予測が分かれており、個人消費や輸出の弱さが共通の懸念材料となっている(2026年11月10日時点の民間予測)。",
+      "source": "第一生命経済研究所",
+      "link": "https://www.dlri.co.jp/report/macro/678117.html"
     }
   ],
   "tech": [
     {
-      "title": "フアン氏辞任後のNvidia株、買うべきか ウォール街の見方",
-      "summary": "ジェンスン・フアン前CEOの辞任を受けて動揺するNvidia株について、ウォール街のアナリストの見方を分析した記事。評価は分かれるが多くは株価を過小評価とみている(2026年11月14日)。",
-      "source": "The Motley Fool",
-      "link": "https://www.fool.com/investing/2026/11/14/buy-nvidia-stock-ceo-jensen-huang-exit-wall-street-answer/"
+      "title": "米マイクロソフト365の大規模障害、20時間超で復旧進む 同社「深くお詫び」",
+      "summary": "Microsoft 365のOutlookやTeams、SharePointなどに影響した大規模障害が20時間以上続いた後、広範囲で復旧が進んだ。原因はネットワーク容量増強時の不具合とされ、同社は近く詳細な報告書を公表する予定(2026年11月13~14日)。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOGN13D1J0T11C26A1000000/"
     },
     {
-      "title": "Nvidiaのスキャンダル、今後の展開は",
-      "summary": "フアン前CEOの不倫スキャンダルと辞任を受け、Nvidiaの経営体制や後継者選びがどう展開するかを分析(2026年11月13日)。",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/13/nvidia-scandal-whats-next-for-the-us-tech-company"
+      "title": "米FAA、通信障害で全米の離陸を一時停止 9.11以来2度目の全国規模の措置",
+      "summary": "米連邦航空局(FAA)は通信障害を理由に全米で航空機の離陸を一時的に停止した。全国規模の運航停止は2001年の同時多発テロ以来2度目とされ、数時間後に解除された(2026年11月13日)。",
+      "source": "Northeastern Global News",
+      "link": "https://news.northeastern.edu/2026/11/13/faa-ground-stop-telecommunications-issue/"
     },
     {
-      "title": "Nvidia社員の一部、フアン氏の復帰を要望",
-      "summary": "フアン前CEOの辞任後、一部の社員から同氏の復帰を望む声が上がっていると報じられた(2026年11月13日)。",
-      "source": "Fox News",
-      "link": "https://www.foxnews.com/live-news/ai-news-china-nvidia-jensen-huang-resigns-super-intelligence-safety-11-13-26"
+      "title": "Nvidia後継探し、アームCEOのハース氏やAMDのスー氏の名前が浮上と報道",
+      "summary": "フアン前CEOの辞任を受け、米メディア「The Information」が後継候補として元Nvidia社員でもあるArmのレネ・ハース氏や、AMDのリサ・スー氏の名前を報じた。Nvidiaは辞任報道当初はこれを否定していたが、取締役会は後継探しを進めているとされる(2026年11月11~12日)。",
+      "source": "The Standard (香港)",
+      "link": "https://www.thestandard.com.hk/finance/article/348055/Headhunters-may-be-hunting-for-Nvidias-next-successor-The-Information-reports"
     },
     {
-      "title": "米株式市場、Nvidia・Cisco・AMD・Appleなどが大幅変動",
-      "summary": "13日(金)の米株式市場で、Nvidiaをはじめ主要テック株が大きく変動。半導体関連株の動きが目立った(2026年11月13日)。",
+      "title": "フアン氏退任、AIスタートアップ投資に「大きな穴」 VCや創業者が懸念",
+      "summary": "Nvidiaのフアン前CEOの退任により、AIスタートアップ業界は最大の支援者の一人を失ったとベンチャーキャピタリストや創業者らが指摘。資金調達環境への影響が懸念されている(2026年11月13日)。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
+    },
+    {
+      "title": "Anthropic、IPO価格帯を1株70~78ドルに設定 19日ナスダック上場へ",
+      "summary": "Anthropicは新規株式公開(IPO)の価格帯を1株70~78ドルに設定したと報じられた。18日に価格決定、19日にナスダックに「ANT」のティッカーで上場する予定で、上限価格では評価額が約1兆ドル規模になる(2026年11月10日報道)。",
       "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/11/13/stocks-moving-the-most-today-live-updates.html"
+      "link": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html"
+    },
+    {
+      "title": "Norwest Venture Partners、AI強化へ40億ドルの新ファンド設立",
+      "summary": "大手ベンチャーキャピタルのNorwest Venture Partnersは、AI分野への投資を一段と強化するため40億ドル規模の新ファンドを設立したと発表した(2026年11月12日)。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/"
+    },
+    {
+      "title": "Apple、新スマートホームハブ「HomeView」発売 家族共有を意識したプライバシー設計",
+      "summary": "Appleは顔認識で家族それぞれに合わせた情報を表示するスマートホームハブ「HomeView」を299ドルで発売した。音声操作中心のSiri AIを採用し、データ処理をチップ内の分離領域で行うなどプライバシー面を強調している(2026年11月13日発売)。",
+      "source": "Mobile World Live",
+      "link": "https://www.mobileworldlive.com/apple/apple-revamps-smart-home-strategy-with-homeview/"
+    },
+    {
+      "title": "GitHub Copilot、GoogleのAIモデル「Gemini 4 Carbon」を正式提供開始",
+      "summary": "GitHubはCopilot上でGoogleの最新モデル「Gemini 4 Carbon」を正式提供開始したと発表。複雑なコーディングやエージェント的なタスク、セキュリティ重視のコード生成向けに設計されている(2026年11月10日)。",
+      "source": "GitHub Blog",
+      "link": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot"
     }
   ],
   "x_trending_tech": []
