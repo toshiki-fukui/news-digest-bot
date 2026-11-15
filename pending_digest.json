@@ -1,79 +1,91 @@
 {
-  "run_label": "11/15 07:00",
+  "run_label": "11/15 19:00",
   "politics_economy": [
     {
-      "title": "高市首相、17日のクアッド首脳会合に出席へ 18日に就任後初の訪中",
-      "summary": "首相動静によると、高市首相は17日にフィリピンで開催されるクアッド首脳会合に出席し、18日には就任後初めて中国を訪問する日程が報じられた(2026年11月14日)。",
+      "title": "高市首相、16~19日にフィリピン・中国訪問 対中首脳会談は「困難」との見方",
+      "summary": "時事通信によると、高市首相は16日からフィリピンと中国を初めて訪問し、ASEAN関連会議やクアッド首脳会合、APEC首脳会議に出席する。台湾有事に関する発言への中国の反発が続き、習近平国家主席との首脳会談は難しい情勢と報じられている(2026年11月15日)。",
       "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026111400204&g=pol&m=rss"
+      "link": "https://www.jiji.com/jc/article?k=2026111500177&g=pol"
     },
     {
-      "title": "消費税減税関連法案、参院特別委員会で実質審議入り",
-      "summary": "飲食料品の消費税減税と所得連動型の現金給付制度に関する法案が参院特別委員会で実質審議入りした。高市首相は税率を戻す際の支援金で中低所得者の負担軽減を実感してもらう考えを強調している(2026年11月13日)。",
-      "source": "共同通信/熊本日日新聞",
-      "link": "https://kumanichi.com/articles/2056542"
+      "title": "消費税減税「効果小さい」63.5% 共同通信世論調査",
+      "summary": "共同通信の11月14・15日実施の電話世論調査で、飲食料品の消費税減税策について物価高対策としての効果を「小さい」と答えた人が63.5%に達し、「大きい」の30.9%を上回った。財源や支援金制度の説明が必要との回答も85.6%に上った。",
+      "source": "共同通信",
+      "link": "https://373news.com/news/national/detail/2026111501000731"
     },
     {
-      "title": "高市首相、公明取り込みへ攻勢 参院過半数確保に危機感―消費減税法案",
-      "summary": "参院で過半数に届かない与党は、消費税減税関連法案の成立に向けて公明党の協力取り込みを急いでいる。自民党内からは会期延長に追い込まれかねないとの懸念も漏れている(2026年11月13日)。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026111301111&g=pol"
+      "title": "ドル円160円台に 米CPI上振れで追加利上げ観測、政府・日銀は介入を警戒",
+      "summary": "米消費者物価指数(CPI)が市場予想を上回りFRB高官のタカ派発言が相次いだことを受け、ドル円は160円台に上昇した。財務省・日銀による為替介入への警戒感が上値を抑えているとされる(2026年11月14日時点)。",
+      "source": "財経新聞",
+      "link": "https://www.zaikei.co.jp/article/20261114/877586.html"
     },
     {
-      "title": "7~9月期GDP速報、16日発表へ 民間予測はプラスマイナス入り混じる",
-      "summary": "内閣府は7~9月期の実質GDP速報を16日に発表する予定。第一生命経済研究所は前期比年率マイナス0.4%、大和総研はプラス1.0%と予測が分かれており、個人消費や輸出の弱さが共通の懸念材料となっている(2026年11月10日時点の民間予測)。",
-      "source": "第一生命経済研究所",
-      "link": "https://www.dlri.co.jp/report/macro/678117.html"
+      "title": "7~9月期GDP速報、16日発表へ 大和総研はプラス成長を予想",
+      "summary": "内閣府は16日に7~9月期の実質GDP速報を発表する。大和総研は前期比年率+1.0%としつつ10月末の+1.5%から下方修正、個人消費や輸出の弱さを懸念材料に挙げている(2026年11月10日時点の予測)。",
+      "source": "大和総研",
+      "link": "https://www.dir.co.jp/report/research/economics/japan/20261110_026184.html"
+    },
+    {
+      "title": "日銀10月会合、早期利上げ論強まる 12月利上げ観測の手がかりに",
+      "summary": "日銀が公表した10月会合の「主な意見」では、早めの利上げを促す意見が6件、慎重な意見が4件となり、議論の焦点が「中立金利」や「賃金」に移りつつあると分析されている。市場では12月の追加利上げ観測が強まっている(2026年11月10日時点の分析)。",
+      "source": "OANDA証券",
+      "link": "https://www.oanda.jp/lab-education/market_news/20261110_boj_opinions_oct/"
     }
   ],
   "tech": [
     {
-      "title": "米マイクロソフト365の大規模障害、20時間超で復旧進む 同社「深くお詫び」",
-      "summary": "Microsoft 365のOutlookやTeams、SharePointなどに影響した大規模障害が20時間以上続いた後、広範囲で復旧が進んだ。原因はネットワーク容量増強時の不具合とされ、同社は近く詳細な報告書を公表する予定(2026年11月13~14日)。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOGN13D1J0T11C26A1000000/"
+      "title": "Anthropic、IPO条件を更新 最大644億ドル調達・評価額1.4兆ドルに Nvidiaなど7社が260億ドル出資",
+      "summary": "Anthropicは825万株を70~78ドルで売り出すIPOに加え、Nvidia・Google・AMD・Microsoft・Broadcom・Micron・TSMCの7社が参加する260億ドル規模の私募増資を実施すると発表。完全希薄化後の評価額は最大1.4兆ドルに達する見通し(2026年11月10~11日報道)。",
+      "source": "TheNextWeb",
+      "link": "https://thenextweb.com/news/anthropic-ipo-terms-1-4-trillion-valuation"
     },
     {
-      "title": "米FAA、通信障害で全米の離陸を一時停止 9.11以来2度目の全国規模の措置",
-      "summary": "米連邦航空局(FAA)は通信障害を理由に全米で航空機の離陸を一時的に停止した。全国規模の運航停止は2001年の同時多発テロ以来2度目とされ、数時間後に解除された(2026年11月13日)。",
-      "source": "Northeastern Global News",
-      "link": "https://news.northeastern.edu/2026/11/13/faa-ground-stop-telecommunications-issue/"
+      "title": "Anthropic、職場向け新機能「Claude Meetings」「Whiteboards」「Sheets」を発表",
+      "summary": "AnthropicはClaudeをビデオ会議に参加させ議事メモやタスク化を行う「Claude Meetings」、共同作業用の「Whiteboards」、AI内蔵の表計算ツール「Sheets」をベータ公開した。MicrosoftやGoogle Workspaceへの対抗が狙いとされる(2026年11月10日)。",
+      "source": "BetaNews",
+      "link": "https://betanews.com/article/claude-meetings-whiteboards-sheets-anthropic/"
     },
     {
-      "title": "Nvidia後継探し、アームCEOのハース氏やAMDのスー氏の名前が浮上と報道",
-      "summary": "フアン前CEOの辞任を受け、米メディア「The Information」が後継候補として元Nvidia社員でもあるArmのレネ・ハース氏や、AMDのリサ・スー氏の名前を報じた。Nvidiaは辞任報道当初はこれを否定していたが、取締役会は後継探しを進めているとされる(2026年11月11~12日)。",
-      "source": "The Standard (香港)",
-      "link": "https://www.thestandard.com.hk/finance/article/348055/Headhunters-may-be-hunting-for-Nvidias-next-successor-The-Information-reports"
+      "title": "Nvidia、AIチップの位置追跡技術は「技術的に可能」と認める 密輸対策で",
+      "summary": "Nvidiaは、通信遅延からチップの設置国を推定する位置確認ソフトウェアの開発が技術的に可能であると認めた。輸出規制対象国への不正な転送を防ぐ狙いだが、専門家は改ざんのリスクや実効性の限界も指摘している。",
+      "source": "Tom's Hardware",
+      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-develops-software-based-tracking-for-ai-gpus-to-quash-smuggling-concerns-solution-devised-to-prevent-shipments-to-nations-with-export-controls-in-place"
     },
     {
-      "title": "フアン氏退任、AIスタートアップ投資に「大きな穴」 VCや創業者が懸念",
-      "summary": "Nvidiaのフアン前CEOの退任により、AIスタートアップ業界は最大の支援者の一人を失ったとベンチャーキャピタリストや創業者らが指摘。資金調達環境への影響が懸念されている(2026年11月13日)。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
+      "title": "SpaceX関連企業、アリゾナ州に最大6ギガワット・500億ドル規模のAIデータセンター計画",
+      "summary": "SpaceXは米アリゾナ州コシース郡で、完成時に最大6ギガワットの電力を要する大規模AIデータセンター群の計画に関与していることを認めた。投資規模は最大500億ドルとされ、12月9日に郡の計画公聴会が予定されている(2026年11月10日報道)。",
+      "source": "KJZZ",
+      "link": "https://www.kjzz.org/fronteras-desk/2026-11-10/spacex-is-behind-proposed-data-center-in-cochise-county"
     },
     {
-      "title": "Anthropic、IPO価格帯を1株70~78ドルに設定 19日ナスダック上場へ",
-      "summary": "Anthropicは新規株式公開(IPO)の価格帯を1株70~78ドルに設定したと報じられた。18日に価格決定、19日にナスダックに「ANT」のティッカーで上場する予定で、上限価格では評価額が約1兆ドル規模になる(2026年11月10日報道)。",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html"
+      "title": "Rapidus、2nm量産目標に遅れ SRAM試作が未達",
+      "summary": "国策半導体企業Rapidusは、2028年3月までとしていた先端ロジック半導体の量産目標の達成が困難になっていると報じられた。試作で必要なSRAMセルが夏までに完成していないことが要因とされ、会長は計画通りと説明しているが食い違いが生じている(2026年11月10日報道)。",
+      "source": "TechSpot",
+      "link": "https://www.techspot.com/news/111959-japan-rapidus-ramps-up-2-nm-chip-plans.html"
     },
     {
-      "title": "Norwest Venture Partners、AI強化へ40億ドルの新ファンド設立",
-      "summary": "大手ベンチャーキャピタルのNorwest Venture Partnersは、AI分野への投資を一段と強化するため40億ドル規模の新ファンドを設立したと発表した(2026年11月12日)。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/"
+      "title": "ソフトバンクグループ、中間決算で7680億円の純損失 AI向け電源調達見直しが影響",
+      "summary": "ソフトバンクグループの2026年9月中間期決算は、親会社株主に帰属する純損益が7680億円の赤字となった。米国のAIデータセンター向け発電設備の調達計画見直しに伴い5972億円の損失を計上したことが主因で、前年同期の2兆9241億円の黒字から転落した(2026年11月10日発表)。",
+      "source": "Business Journal",
+      "link": "https://biz-journal.jp/company/post_396589.html"
     },
     {
-      "title": "Apple、新スマートホームハブ「HomeView」発売 家族共有を意識したプライバシー設計",
-      "summary": "Appleは顔認識で家族それぞれに合わせた情報を表示するスマートホームハブ「HomeView」を299ドルで発売した。音声操作中心のSiri AIを採用し、データ処理をチップ内の分離領域で行うなどプライバシー面を強調している(2026年11月13日発売)。",
-      "source": "Mobile World Live",
-      "link": "https://www.mobileworldlive.com/apple/apple-revamps-smart-home-strategy-with-homeview/"
+      "title": "OpenAI、ChatGPTに企業向け認証済みプロフィール「Businesses」機能をベータ公開",
+      "summary": "OpenAIは企業が自社の商品情報や価格を管理できる認証済みプロフィール「Business Hub」と、ブランドを代表してユーザーに対応するAIエージェント機能をChatGPTのベータとして公開した。当面は米国の一部ECサービス業者に限定される(2026年11月10日)。",
+      "source": "TheNextWeb",
+      "link": "https://thenextweb.com/news/openai-businesses-in-chatgpt-business-agents"
     },
     {
-      "title": "GitHub Copilot、GoogleのAIモデル「Gemini 4 Carbon」を正式提供開始",
-      "summary": "GitHubはCopilot上でGoogleの最新モデル「Gemini 4 Carbon」を正式提供開始したと発表。複雑なコーディングやエージェント的なタスク、セキュリティ重視のコード生成向けに設計されている(2026年11月10日)。",
-      "source": "GitHub Blog",
-      "link": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot"
+      "title": "Cursor、SpaceXによる買収を受けOpenAIモデルへのアクセスが11月12日に終了",
+      "summary": "AIコーディングツールCursorを展開するAnysphereがSpaceXに買収されたことを受け、OpenAIは契約上の条項を理由にCursorへのモデル提供を11月12日付で終了した。Cursor側はAnthropicのClaudeやGoogleのモデルなどで代替するとしている。",
+      "source": "InfoWorld",
+      "link": "https://www.infoworld.com/article/4216503/cursor-customers-will-lose-access-to-openai-coding-models-in-november.html"
+    },
+    {
+      "title": "Qualcomm、通期業績見通しが軟調で株価下落 Samsungとの2nm生産交渉も浮上",
+      "summary": "Qualcommは四半期決算で売上高が市場予想を下回り、通期見通しも軟調だったことから株価が下落した。一方で次世代2nmチップの生産委託先としてSamsungとの交渉を進めているとも報じられている(2026年11月4日報道)。",
+      "source": "SiliconANGLE",
+      "link": "https://siliconangle.com/2026/11/04/qualcomms-stock-falls-on-revenue-miss-and-weak-guidance-arm-and-globalfoundries-do-little-better/"
     }
   ],
   "x_trending_tech": []
