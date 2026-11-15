@@ -1,91 +1,85 @@
 {
-  "run_label": "11/15 19:00",
+  "run_label": "11/16 07:00",
   "politics_economy": [
     {
-      "title": "高市首相、16~19日にフィリピン・中国訪問 対中首脳会談は「困難」との見方",
-      "summary": "時事通信によると、高市首相は16日からフィリピンと中国を初めて訪問し、ASEAN関連会議やクアッド首脳会合、APEC首脳会議に出席する。台湾有事に関する発言への中国の反発が続き、習近平国家主席との首脳会談は難しい情勢と報じられている(2026年11月15日)。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026111500177&g=pol"
+      "title": "衆院定数削減法案、与野党対立が再び激化",
+      "summary": "比例代表45議席の自動削減を盛り込む衆院定数削減法案をめぐり、与党と野党の対立が今後さらに激しくなる見通しだとThe Japan Timesが報じた(2026年11月15日)。小規模政党への影響が大きいとして慎重論も党内に残っている。",
+      "source": "The Japan Times",
+      "link": "https://japantimes.co.jp/news/2026/11/15/japan/politics/lower-house-seat-cuts"
     },
     {
-      "title": "消費税減税「効果小さい」63.5% 共同通信世論調査",
-      "summary": "共同通信の11月14・15日実施の電話世論調査で、飲食料品の消費税減税策について物価高対策としての効果を「小さい」と答えた人が63.5%に達し、「大きい」の30.9%を上回った。財源や支援金制度の説明が必要との回答も85.6%に上った。",
-      "source": "共同通信",
-      "link": "https://373news.com/news/national/detail/2026111501000731"
+      "title": "最高裁大法廷、2025年参院選を「違憲状態」と判断",
+      "summary": "最高裁大法廷は2025年7月の参院選について、1票の格差が最大3.13倍だったとして「違憲状態」と判断した一方、選挙無効の請求は棄却した。2016年の「合区」導入後では初めての違憲状態判断で、国会に格差是正を求める形となった(2026年11月11日)。",
+      "source": "熊本日日新聞(共同通信)",
+      "link": "https://kumanichi.com/articles/2056595"
     },
     {
-      "title": "ドル円160円台に 米CPI上振れで追加利上げ観測、政府・日銀は介入を警戒",
-      "summary": "米消費者物価指数(CPI)が市場予想を上回りFRB高官のタカ派発言が相次いだことを受け、ドル円は160円台に上昇した。財務省・日銀による為替介入への警戒感が上値を抑えているとされる(2026年11月14日時点)。",
-      "source": "財経新聞",
-      "link": "https://www.zaikei.co.jp/article/20261114/877586.html"
-    },
-    {
-      "title": "7~9月期GDP速報、16日発表へ 大和総研はプラス成長を予想",
-      "summary": "内閣府は16日に7~9月期の実質GDP速報を発表する。大和総研は前期比年率+1.0%としつつ10月末の+1.5%から下方修正、個人消費や輸出の弱さを懸念材料に挙げている(2026年11月10日時点の予測)。",
-      "source": "大和総研",
-      "link": "https://www.dir.co.jp/report/research/economics/japan/20261110_026184.html"
-    },
-    {
-      "title": "日銀10月会合、早期利上げ論強まる 12月利上げ観測の手がかりに",
-      "summary": "日銀が公表した10月会合の「主な意見」では、早めの利上げを促す意見が6件、慎重な意見が4件となり、議論の焦点が「中立金利」や「賃金」に移りつつあると分析されている。市場では12月の追加利上げ観測が強まっている(2026年11月10日時点の分析)。",
-      "source": "OANDA証券",
-      "link": "https://www.oanda.jp/lab-education/market_news/20261110_boj_opinions_oct/"
+      "title": "高市首相、16~19日に比・中国訪問 APECで習氏との会談は実現不透明",
+      "summary": "高市首相は16日からフィリピン・中国を訪問し、深センでのAPEC首脳会議に出席する。日本政府は台湾発言を巡り中国側が撤回を求め続けるなか、せめて同等の儀礼的扱いを中国側に求めているが、日中首脳会談の実現は見通せない状況と報じられている(2026年11月9日時点の報道)。",
+      "source": "The Star(共同通信配信)",
+      "link": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/09/japan-works-to-shield-takaichi-from-any-xi-snub-at-china039s-apec-summit"
     }
   ],
   "tech": [
     {
-      "title": "Anthropic、IPO条件を更新 最大644億ドル調達・評価額1.4兆ドルに Nvidiaなど7社が260億ドル出資",
-      "summary": "Anthropicは825万株を70~78ドルで売り出すIPOに加え、Nvidia・Google・AMD・Microsoft・Broadcom・Micron・TSMCの7社が参加する260億ドル規模の私募増資を実施すると発表。完全希薄化後の評価額は最大1.4兆ドルに達する見通し(2026年11月10~11日報道)。",
-      "source": "TheNextWeb",
-      "link": "https://thenextweb.com/news/anthropic-ipo-terms-1-4-trillion-valuation"
+      "title": "米財務長官ベッセント氏、Nvidiaに「抜本的な立て直し」要求 外部CEO招聘を提言",
+      "summary": "ベッセント米財務長官は、ジェンセン・フアン氏の退任後のNvidiaについて「抜本的な立て直し」が必要だとし、取締役会に外部からのCEO起用を求めたと報じられた。Megaspeed問題を巡る対中輸出管理への批判とも関連している(CNBC、2026年11月15日)。",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/11/15/bessent-nvidia-ceo-lutnick-megaspeed.html"
     },
     {
-      "title": "Anthropic、職場向け新機能「Claude Meetings」「Whiteboards」「Sheets」を発表",
-      "summary": "AnthropicはClaudeをビデオ会議に参加させ議事メモやタスク化を行う「Claude Meetings」、共同作業用の「Whiteboards」、AI内蔵の表計算ツール「Sheets」をベータ公開した。MicrosoftやGoogle Workspaceへの対抗が狙いとされる(2026年11月10日)。",
-      "source": "BetaNews",
-      "link": "https://betanews.com/article/claude-meetings-whiteboards-sheets-anthropic/"
+      "title": "NvidiaのMegaspeed調査、商務省からDOJへ移管 Nvidiaの介入が影響と報道",
+      "summary": "シンガポール企業MegaspeedによるNvidia製AIチップの対中流出疑惑を巡り、米商務省の調査が司法省に移管された。Nvidia法務部門が商務省に接触した後に起きたとニューヨーク・タイムズが報じている(2026年11月9日頃)。",
+      "source": "The New York Times(報道まとめ)",
+      "link": "https://letsdatascience.com/news/commerce-probe-of-megaspeed-moved-to-doj-after-nvidia-outrea-d16980b3"
     },
     {
-      "title": "Nvidia、AIチップの位置追跡技術は「技術的に可能」と認める 密輸対策で",
-      "summary": "Nvidiaは、通信遅延からチップの設置国を推定する位置確認ソフトウェアの開発が技術的に可能であると認めた。輸出規制対象国への不正な転送を防ぐ狙いだが、専門家は改ざんのリスクや実効性の限界も指摘している。",
-      "source": "Tom's Hardware",
-      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-develops-software-based-tracking-for-ai-gpus-to-quash-smuggling-concerns-solution-devised-to-prevent-shipments-to-nations-with-export-controls-in-place"
+      "title": "Anthropic「Claude Fable 5.2」発表、知能指数ランキングで首位に",
+      "summary": "Anthropicは高度な技術タスク向けモデル「Claude Fable 5.2」を発表。Artificial Analysis Intelligence Indexで65点を記録し、GoogleのGemini 4 Carbon(60点)などを上回り首位となった(2026年11月9~10日)。",
+      "source": "OfficeChai",
+      "link": "https://officechai.com/ai/anthropic-jumps-to-top-of-artificial-analysis-intelligence-index-with-fable-5-2-beats-gemini-4-carbon-by-5-points/"
     },
     {
-      "title": "SpaceX関連企業、アリゾナ州に最大6ギガワット・500億ドル規模のAIデータセンター計画",
-      "summary": "SpaceXは米アリゾナ州コシース郡で、完成時に最大6ギガワットの電力を要する大規模AIデータセンター群の計画に関与していることを認めた。投資規模は最大500億ドルとされ、12月9日に郡の計画公聴会が予定されている(2026年11月10日報道)。",
-      "source": "KJZZ",
-      "link": "https://www.kjzz.org/fronteras-desk/2026-11-10/spacex-is-behind-proposed-data-center-in-cochise-county"
+      "title": "AWS、AIエージェントのみで開発した無料のローカルAWSエミュレーターを公開",
+      "summary": "AWSは、人間が一行もコードを書かずレビューもせず、自律型AIエージェントだけで開発したという無料のローカルAWSエミュレーターを公開した。既存のAWS CLI/SDKからそのまま利用できる(2026年11月11日)。",
+      "source": "AWS(About Amazon)",
+      "link": "https://aboutamazon.com/news/aws/how-autonomous-ai-agents-built-aws-emulator"
     },
     {
-      "title": "Rapidus、2nm量産目標に遅れ SRAM試作が未達",
-      "summary": "国策半導体企業Rapidusは、2028年3月までとしていた先端ロジック半導体の量産目標の達成が困難になっていると報じられた。試作で必要なSRAMセルが夏までに完成していないことが要因とされ、会長は計画通りと説明しているが食い違いが生じている(2026年11月10日報道)。",
-      "source": "TechSpot",
-      "link": "https://www.techspot.com/news/111959-japan-rapidus-ramps-up-2-nm-chip-plans.html"
+      "title": "AI人材評価のMercor、750億円規模の資金調達で評価額2兆円超に",
+      "summary": "AIモデルの訓練・評価向け人材プラットフォームを運営するMercorが、Series Dで7.5億ドルを調達し評価額200億ドルに達したと発表。NvidiaやSalesforceも出資者に名を連ね、1年余りで評価額が倍増した(2026年11月10日)。",
+      "source": "VentureBurn",
+      "link": "https://ventureburn.com/mercor-raises-750-million-series-d-to-train-ai/"
     },
     {
-      "title": "ソフトバンクグループ、中間決算で7680億円の純損失 AI向け電源調達見直しが影響",
-      "summary": "ソフトバンクグループの2026年9月中間期決算は、親会社株主に帰属する純損益が7680億円の赤字となった。米国のAIデータセンター向け発電設備の調達計画見直しに伴い5972億円の損失を計上したことが主因で、前年同期の2兆9241億円の黒字から転落した(2026年11月10日発表)。",
-      "source": "Business Journal",
-      "link": "https://biz-journal.jp/company/post_396589.html"
+      "title": "CoreWeave、Q3決算で売上予想上回る 通期見通しも上方修正",
+      "summary": "AIクラウド企業CoreWeaveは第3四半期の売上高が36.6億ドルとなり市場予想を上回ったと発表。2026年通期の売上高見通しを130億~133億ドルに上方修正し、受注残高は1325億ドルに達した(2026年11月11日発表)。",
+      "source": "Let's Data Science",
+      "link": "https://letsdatascience.com/news/coreweave-beats-q3-revenue-estimates-raises-2026-guidance-ba-f4170a31"
     },
     {
-      "title": "OpenAI、ChatGPTに企業向け認証済みプロフィール「Businesses」機能をベータ公開",
-      "summary": "OpenAIは企業が自社の商品情報や価格を管理できる認証済みプロフィール「Business Hub」と、ブランドを代表してユーザーに対応するAIエージェント機能をChatGPTのベータとして公開した。当面は米国の一部ECサービス業者に限定される(2026年11月10日)。",
-      "source": "TheNextWeb",
-      "link": "https://thenextweb.com/news/openai-businesses-in-chatgpt-business-agents"
+      "title": "Google、判定専用の新API「Gemini Decisions」を発表",
+      "summary": "Googleは文章生成ではなく最大1000件の選択肢を一度に判定する専用モデル「Gemini Decision 1」を使った新API「Gemini Decisions」を発表した。入力100万トークンあたり0.10ドルで、出力課金はないという(2026年11月11日)。",
+      "source": "RuntimeWire",
+      "link": "https://runtimewire.com/article/google-gemini-decisions-api-gemini-decision-1-launch"
     },
     {
-      "title": "Cursor、SpaceXによる買収を受けOpenAIモデルへのアクセスが11月12日に終了",
-      "summary": "AIコーディングツールCursorを展開するAnysphereがSpaceXに買収されたことを受け、OpenAIは契約上の条項を理由にCursorへのモデル提供を11月12日付で終了した。Cursor側はAnthropicのClaudeやGoogleのモデルなどで代替するとしている。",
-      "source": "InfoWorld",
-      "link": "https://www.infoworld.com/article/4216503/cursor-customers-will-lose-access-to-openai-coding-models-in-november.html"
+      "title": "ユナイテッド航空、個人向けAIエージェントによる予約を禁止",
+      "summary": "米ユナイテッド航空は、サードパーティーのAIエージェントによる自社便の予約・変更を禁止すると発表した。アカウント情報の漏洩リスクや航空当局の規制上の懸念を理由としており、米航空会社として初の明確な禁止措置とされる(2026年11月11日)。",
+      "source": "Skift",
+      "link": "https://skift.com/2026/11/11/united-airlines-moves-to-block-personal-ai-agents-from-booking-flights/"
     },
     {
-      "title": "Qualcomm、通期業績見通しが軟調で株価下落 Samsungとの2nm生産交渉も浮上",
-      "summary": "Qualcommは四半期決算で売上高が市場予想を下回り、通期見通しも軟調だったことから株価が下落した。一方で次世代2nmチップの生産委託先としてSamsungとの交渉を進めているとも報じられている(2026年11月4日報道)。",
-      "source": "SiliconANGLE",
-      "link": "https://siliconangle.com/2026/11/04/qualcomms-stock-falls-on-revenue-miss-and-weak-guidance-arm-and-globalfoundries-do-little-better/"
+      "title": "Rapidus、2nmチップ量産目標の2028年3月に遅れの可能性",
+      "summary": "北海道千歳市で2nm世代半導体の量産を目指すRapidusについて、必要なSRAMセルがまだ完成しておらず、当初目標の2028年3月に遅れが出る可能性があるとブルームバーグが報じた。同社は目標達成への意欲を示している(2026年11月10日)。",
+      "source": "AI Weekly(Bloomberg報道まとめ)",
+      "link": "https://aiweekly.co/alerts/rapidus-likely-to-miss-march-2028-deadline-for-2nm-chips"
+    },
+    {
+      "title": "台湾の10月輸出額が過去最高の968億ドル AI関連製品が牽引",
+      "summary": "台湾財政部が発表した10月の輸出額は前年比58.9%増の968億ドルとなり、過去最高を更新した。情報通信・AV関連製品の輸出が72.9%増の476億ドルに達し、AIチップ需要の拡大が全体を押し上げた(2026年11月上旬発表)。",
+      "source": "FourWeekMBA",
+      "link": "https://fourweekmba.com/ai-taiwans-exports-hit-a-record-96-8b-as-ai-products-lead/"
     }
   ],
   "x_trending_tech": []
