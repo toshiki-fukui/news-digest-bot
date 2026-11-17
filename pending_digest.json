@@ -1,25 +1,97 @@
 {
-  "run_label": "11/17 07:00",
+  "run_label": "11/17 19:00",
   "politics_economy": [
     {
-      "title": "高市首相、APEC中の日中首脳会談実現は困難な情勢",
-      "summary": "高市首相は16日からフィリピン・中国を訪問し、ASEAN関連会議や深センでのAPEC首脳会議に出席する。台湾有事に関する国会答弁以来悪化した日中関係を背景に、今回の外遊中に習近平国家主席との正式な首脳会談が実現する可能性は低いと報じられている(2026年11月16日)。",
-      "source": "時事通信(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/92b1b37ce2a62664c76a50d8ca727da0c810b4d8"
+      "title": "高市首相、ASEAN関連首脳会議・APEC出席のためフィリピン・中国を訪問中、習主席との会談調整が難航",
+      "summary": "高市首相は11月16〜19日の日程でフィリピンと中国を訪問し、ASEAN関連首脳会議・東アジアサミット、深センでのAPEC首脳会議に出席する。日中関係の悪化を背景に、習近平国家主席との正式な首脳会談が実現するかは不透明な情勢が続いている。",
+      "source": "熊本日日新聞(共同通信)",
+      "link": "https://kumanichi.com/articles/2057338"
+    },
+    {
+      "title": "食料品の消費税1%減税法案、参議院で審議続く 会期末までの成立目指す",
+      "summary": "食料品の消費税率を2年間1%に引き下げる法案が衆議院を通過し、参議院で審議が進んでいる。与党は少数与党の参院での可決が最大の関門となる中、12月12日の会期末までの成立を目指している。",
+      "source": "OANDA Japan マーケットニュース",
+      "link": "https://www.oanda.jp/lab-education/?p=132935"
+    },
+    {
+      "title": "APEC首脳会議、18・19日に中国・深センで開幕 トランプ・習近平・プーチン氏らの出席に注目",
+      "summary": "第33回APEC首脳会議が11月18〜19日に中国・深センで開催される。習近平国家主席が議長を務め、米中露首脳の出席可能性や各国首脳との二国間会談が注目されている。",
+      "source": "The Standard(香港)",
+      "link": "https://www.thestandard.com.hk/world/article/348407/Five-features-of-APEC-to-know-about-with-Trump-Putin-and-Xi-set-to-attend"
+    },
+    {
+      "title": "Anthropic、IPO価格帯70〜78ドルで18日に価格決定 19日ナスダック上場へ",
+      "summary": "Claudeを開発するAnthropicは18日にIPO価格を決定し、19日にナスダックで「ANT」として取引を開始する見通し。価格帯上限では評価額が1兆ドル超となり、史上最大級のIPOの一つになるとみられている。",
+      "source": "mlq.ai",
+      "link": "https://mlq.ai/news/anthropics-ipo-what-we-know-about-the-timing-valuation-ticker-and-the-s-1/"
+    },
+    {
+      "title": "NVIDIA、17日(米国時間)に四半期決算発表 フアン氏辞任後初、世界の市場が注目",
+      "summary": "NVIDIAは17日(米国時間)夕刻、ジェンセン・フアン氏の辞任後初となる四半期決算を発表する。対中輸出規制の影響や新経営体制の行方が市場の最大の注目点となっている。",
+      "source": "S&P Global Market Intelligence",
+      "link": "https://www.spglobal.com/market-intelligence/en/news-insights/research/2026/11/nvidia-earnings-preview-q3-2027"
     }
   ],
   "tech": [
     {
-      "title": "米政府、東南アジア・ブラジル経由の対中AIチップ「リモートアクセス」規制へ新規則",
-      "summary": "米商務省は、中国企業がAIチップへ遠隔アクセスする手口を封じるため、東南アジア数カ国やブラジルのデータセンター事業者に対し、NVIDIAなど米国製の先端AIチップを輸出する前に許可取得を義務付ける暫定規則を発表した(2026年11月16日、Bloomberg報道)。",
-      "source": "Bloomberg",
-      "link": "https://bloomberg.com/news/articles/2026-11-16/us-moves-to-limit-remote-access-to-advanced-ai-chips"
+      "title": "Google DeepMind、次世代「Gemini Robotics」とゲノム解析AI「AlphaGenome 2」を発表",
+      "summary": "Google DeepMindは11月11日、同社最高性能の視覚言語行動モデルとなる次世代版Gemini Roboticsと、DNA変異が細胞に与える影響を予測するAlphaGenome 2を発表した。",
+      "source": "SiliconANGLE",
+      "link": "https://siliconangle.com/?p=853854"
     },
     {
-      "title": "エヌビディア、17日に決算発表 フアン氏辞任後の経営体制と対中輸出規制が焦点",
-      "summary": "NVIDIAは米国時間17日、ジェンセン・フアン氏の辞任後初となる四半期決算を発表する。新たな経営体制の行方と、対中輸出規制の影響が市場の注目点になるとみられている(Forbes JAPAN報道)。",
-      "source": "Forbes JAPAN(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/f3b233a4bfd30e2745eb408cdc254434fa52a03d"
+      "title": "Meta、軽量マルチモーダルAI「Muse Ember」を公開",
+      "summary": "Metaは11月9日、テキスト・画像・音声・動画を扱える軽量モデル「Muse Ember」を発表した。コーディングやツール呼び出しなどAIエージェントの反復作業向けに低コスト運用を狙う。",
+      "source": "The New Stack",
+      "link": "https://thenewstack.io/meta-muse-ember-launch/"
+    },
+    {
+      "title": "独Helsing、軍事AI新プラットフォーム「Clarity」を発表 Palantirに対抗",
+      "summary": "欧州の防衛AI企業Helsingは11月11日、ベルリンでのイベントでセンサー・衛星・ドローン情報を統合し軍事目標の分析を支援するAIプラットフォーム「Clarity」を発表した。Palantirの大型契約への対抗と目されている。",
+      "source": "The Star(マレーシア)",
+      "link": "https://www.thestar.com.my/tech/tech-news/2026/11/11/helsing-enters-market-for-battlefield-software-built-on-combat-data"
+    },
+    {
+      "title": "NVIDIA、フアン氏辞任後の後継CEO探しが本格化",
+      "summary": "11月12日にジェンセン・フアン氏が辞任して以降、NVIDIAの取締役会が社内外から後継候補の選定を進めていると報じられている。AMDのリサ・スー氏らの名前も浮上している。",
+      "source": "YourStory",
+      "link": "https://yourstory.com/2026/11/who-will-succeed-jensen-huang-race-to-find-permanent-chief-begins"
+    },
+    {
+      "title": "Microsoft Ignite 2026が開幕 ナデラ氏らがAIエージェント戦略を基調講演",
+      "summary": "Microsoftの年次カンファレンス「Ignite 2026」が11月17〜20日に開催され、サティア・ナデラ氏らが基調講演に登壇。Copilotの自律エージェント機能「Autopilot」などAzure/AIエージェント群が焦点となる。",
+      "source": "ecorpIT",
+      "link": "https://ecorpit.com/microsoft-ignite-2026-azure-ai-agents-watchlist/"
+    },
+    {
+      "title": "TSMC、米日独中政府から過去最大規模の補助金を受領",
+      "summary": "TSMCは今年1〜9月に米国・日本・ドイツ・中国の政府から合計約1676億台湾ドル(約51億ドル)の補助金を受け取ったと報じられた。AI向け先端チップ需要を背景に各国が投資誘致を競っている。",
+      "source": "Focus Taiwan",
+      "link": "https://focustaiwan.tw/business/202611140005"
+    },
+    {
+      "title": "AMD、第6世代EPYCサーバーCPUの出荷を開始",
+      "summary": "AMDは11月10日、主要サーバーOEM/ODMからの第6世代EPYC(SP7)搭載プラットフォームの出荷開始を発表した。AI/エンタープライズ需要の取り込みを強化する狙い。",
+      "source": "AMD(公式発表)",
+      "link": "https://ir.amd.com/news-events/press-releases/detail/1305/amd-showcases-6th-gen-amd-epyc-processors-to-lead-next-era-of-ai-and-enterprise-computing"
+    },
+    {
+      "title": "AMD EPYC、Google Cloud新TPU「TPU 8tx」のホスト基盤に採用",
+      "summary": "AMDは11月9日、第5世代EPYCプロセッサがGoogle Cloudの新型TPU「8tx」のホスト基盤として採用され、ハードウェアレベルの機密コンピューティングを実現したと発表した。",
+      "source": "AMD Newsroom",
+      "link": "https://newsroom.amd.com/news/amd-epyc-expands-leadership-foundation-ai/"
+    },
+    {
+      "title": "AI需要が半導体材料・部品に波及 レゾナック・太陽誘電など好調、世界市場Q3は5177億ドル",
+      "summary": "AI向け需要の拡大が後工程材料や電子部品にも波及している。レゾナックの後工程材料売上は1〜9月で前年比56%増、太陽誘電は設備投資を2年前倒しすると発表。世界半導体市場（SIA)のQ3売上高は前期比24.1%増の5177億ドルとなった。",
+      "source": "EE Times Japan",
+      "link": "https://eetimes.itmedia.co.jp/ee/articles/2611/14/news011.html"
+    },
+    {
+      "title": "トヨタ、自動運転・AI・ロボティクス技術を公開 北米R&D拠点で技術展示会",
+      "summary": "トヨタは11月11日、北米R&D本部で開いた技術イベントで自動運転支援、ソフトウェア定義型車両、AI・ロボティクス、次世代パワートレインなどの技術を公開した。2028年から一部市販車にL2++自動運転支援の搭載も計画している。",
+      "source": "Toyota Pressroom",
+      "link": "https://pressroom.toyota.com/?p=122989"
     }
   ],
   "x_trending_tech": []
