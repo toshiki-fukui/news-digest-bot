@@ -1,49 +1,73 @@
 {
-  "run_label": "11/18 07:00",
+  "run_label": "11/18 19:00",
   "politics_economy": [
     {
-      "title": "APEC首脳会議、きょう18日に中国・深センで開幕 自由貿易・AIで協調模索",
-      "summary": "日米中など21カ国・地域が参加するAPEC首脳会議が18・19日、中国・深センで開催される。議長国の中国は自由貿易の強化やAI開発分野での協調を議題に掲げ、首脳宣言の採択を目指す。",
-      "source": "時事通信",
-      "link": "https://finance.yahoo.co.jp/news/detail/ead6233c7996b44a71933dfccf48460c90026666"
+      "title": "高市首相、就任後初の中国訪問 APEC出席のため深センに到着",
+      "summary": "高市早苗首相は18日、APEC首脳会議出席のため中国・深センに到着した。就任後初めての中国訪問で、台湾有事をめぐる国会答弁以来冷え込んだ日中関係の行方が注目されている。",
+      "source": "日テレNEWS NNN",
+      "link": "https://news.yahoo.co.jp/articles/b2aee10a35cc1ead4321227c5bbd6b4e618951d6"
     },
     {
-      "title": "APEC首脳会議きょう開幕、高市首相も深セン入り 日中の接触は不透明",
-      "summary": "高市早苗首相はフィリピン訪問に続き18日、APEC首脳会議出席のため中国・深セン入りした。日中関係が冷え込む中、習近平国家主席との接触があるかが注目されている。",
-      "source": "テレビ朝日(ANN)",
-      "link": "https://news.yahoo.co.jp/articles/b58e330a7a679640afc7707acb45d446544cdf15"
+      "title": "高市首相、プーチン大統領とも接触へ APEC出席で各国首脳と",
+      "summary": "深センに到着した高市首相は、APEC出席国の首脳らと接触する見通し。ロシアのプーチン大統領との接触も報じられ、18、19日の首脳会議の行方が注目されている。",
+      "source": "FNNプライムオンライン",
+      "link": "https://news.yahoo.co.jp/articles/ff6271d643fc4f33c70f8c52e93ae1916e51fc84"
     },
     {
-      "title": "高市首相、ASEAN・APEC外交の4日間日程をSNSで説明 日中首脳会談は見送り濃厚",
-      "summary": "高市首相は16〜19日の比中訪問日程をX(旧Twitter)で説明した。中国への言及は少なく、習近平氏との正式な首脳会談は見送られる可能性が高いと報じられている。",
-      "source": "J-CASTニュース",
-      "link": "https://news.yahoo.co.jp/articles/01c23ea528093467838f34303280acf16338a455"
+      "title": "APEC首脳会議、18日に中国・深センで開幕 自由貿易・AI協調が議題",
+      "summary": "APEC首脳会議が18、19日に深センで開催される。議長国の中国は自由貿易の強化やAI分野での国際協調を主要議題に掲げている。",
+      "source": "共同通信",
+      "link": "https://kumanichi.com/articles/2057781"
+    },
+    {
+      "title": "高市首相、初訪中で日中関係改善を模索 習主席との会談は不透明",
+      "summary": "台湾有事答弁以来冷え込む日中関係の中、高市首相が就任後初めて中国を訪問。習近平国家主席との正式な首脳会談は見送られる可能性が高いと報じられている。",
+      "source": "共同通信",
+      "link": "https://ryukyushimpo.jp/kyodo/entry-5605922"
+    },
+    {
+      "title": "米中露3首脳、19日にAPECで会談へ トランプ氏・習近平氏は今年3回目",
+      "summary": "トランプ米大統領と習近平国家主席は19日、深センのAPECに合わせ今年3回目となる会談を行う見通し。ロシアのプーチン大統領も交えた3カ国首脳会談が注目されている。",
+      "source": "Newsweek日本版(ロイター)",
+      "link": "https://www.newsweekjapan.jp/articles/-/340253"
     }
   ],
   "tech": [
     {
-      "title": "NVIDIA、2027年度第3四半期決算を発表 売上高1158億ドルで過去最高を更新",
-      "summary": "NVIDIAは日本時間18日朝、8〜10月期の決算を発表した。売上高は前年同期比103%増の1158億ドル、純利益653億ドルでいずれも過去最高。データセンター向けAI需要の拡大が続いている。",
-      "source": "NVIDIA(SEC提出資料)",
-      "link": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000088/q3fy27pr.htm"
+      "title": "NVIDIA、2027年度第3四半期決算を発表 売上高1158億ドルで四半期最高を更新",
+      "summary": "NVIDIAは17日(米国時間)、8〜10月期決算を発表。売上高は前年比103%増の115.8億ドルで予想を上回り、1500億ドル規模の株買い戻しも発表した。取締役会はジェンスン・フアン氏のCEO復帰を否定している。",
+      "source": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/technology/live/nvidia-earnings-live-nvidia-posts-q3-beat-board-says-it-will-not-reinstate-jensen-huang-as-ceo-221428433.html"
     },
     {
-      "title": "Anthropic、IPO価格を18日夜(米国時間)に決定へ 当初レンジ70〜78ドルから上振れ濃厚",
-      "summary": "Claude開発元のAnthropicは、当初想定の1株70〜78ドルのレンジを上回る価格でIPOを決定する可能性が高いと報じられている。19日にナスダックで「ANT」として取引を開始する予定。",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/11/16/anthropic-ipo-date-price-range.html"
+      "title": "米商務省、AI半導体の海外遠隔アクセスを制限する新規則を発表",
+      "summary": "米商務省産業安全保障局は16日、海外データセンター経由での先端半導体への遠隔アクセスを制限する暫定最終規則を公表。中国企業による不正な利用を防ぐことが目的とされる。",
+      "source": "Newsweek日本版(ロイター)",
+      "link": "https://www.newsweekjapan.jp/articles/-/340279"
     },
     {
-      "title": "Anthropic、IPOで中国本土・香港の機関投資家からの注文を拒否 米武器輸出規制が理由",
-      "summary": "ブルームバーグによると、Anthropicの新規株式公開で中国本土・香港の機関投資家からの注文が引受幹事行により拒否された。米国の武器輸出規制(ITAR)が理由とされ、SpaceXのIPOと同様の対応という。",
-      "source": "Bloomberg",
-      "link": "https://www.advisorperspectives.com/articles/2026/11/13/anthropic-ipo-share-orders-china-rebuffed"
+      "title": "Anthropic、IPO価格を18日夜に決定へ 当初レンジを上回る可能性",
+      "summary": "Claude開発元のAnthropicは、1株70〜78ドルの想定レンジを上回る価格でIPO価格を決定する可能性が高いと報じられている。NVIDIAやGoogleなど7社が26億ドル規模の私募増資にも応じる。19日にナスダックで「ANT」として取引開始予定。",
+      "source": "Let's Data Science",
+      "link": "https://letsdatascience.com/news/anthropic-sets-ipo-range-and-adds-26-billion-private-placeme-f6c67619"
     },
     {
-      "title": "AIチップ企業Cerebras、2026年通期売上高見通しを上方修正 Microsoftとの新規契約も発表",
-      "summary": "Cerebras Systemsは2026年の調整後売上高見通しを9.4億〜9.6億ドルに上方修正し、Microsoftとの新たなクラウド契約締結も発表した。第3四半期のコア収益は前年比70%増の2.309億ドルだった。",
-      "source": "Reuters",
-      "link": "https://www.datacenterdynamics.com/en/news/cerebras-secures-microsoft-as-a-customer/"
+      "title": "SK hynix、HBM4増産へ新規装置を発注 2027年前半までに月2万枚規模積み増し",
+      "summary": "SK hynixはNVIDIA以外の顧客需要も見込み、HBM4向けの新規製造装置を発注したと報じられた。2027年前半までに月間2万枚規模の生産能力積み増しを目指すという。",
+      "source": "TechPowerUp",
+      "link": "https://www.techpowerup.com/354861/sk-hynix-bets-on-hbm4-demand-beyond-nvidia-with-new-equipment-orders"
+    },
+    {
+      "title": "サムスン・SK hynix・マイクロン、エヌビディアのAI計画加速で技術要求が厳格化",
+      "summary": "NVIDIAのAI半導体ロードマップ加速に伴い、メモリー大手3社が求められる技術水準の厳格化に対応を競っている。HBMの供給競争が一段と激しくなっている。",
+      "source": "The Korea Herald",
+      "link": "https://www.koreaherald.com/article/10645471"
+    },
+    {
+      "title": "SpaceXのStarship、2回目の軌道投入に成功 ブースター回収は失敗",
+      "summary": "SpaceXは13日、テキサス州からStarshipの試験飛行(Flight 15)を実施。上段は2度目の軌道投入に成功したが、発射タワーでのブースター回収は失敗し、ブースターはメキシコ湾に落下・爆発した。",
+      "source": "AP(ADN)",
+      "link": "https://www.adn.com/nation-world/2026/11/13/spacexs-starship-soars-into-orbit-after-booster-explosion-prevents-an-unprecedented-double-catch/"
     }
   ],
   "x_trending_tech": []
