@@ -1,73 +1,97 @@
 {
-  "run_label": "11/18 19:00",
+  "run_label": "11/19 07:00",
   "politics_economy": [
     {
-      "title": "高市首相、就任後初の中国訪問 APEC出席のため深センに到着",
-      "summary": "高市早苗首相は18日、APEC首脳会議出席のため中国・深センに到着した。就任後初めての中国訪問で、台湾有事をめぐる国会答弁以来冷え込んだ日中関係の行方が注目されている。",
-      "source": "日テレNEWS NNN",
-      "link": "https://news.yahoo.co.jp/articles/b2aee10a35cc1ead4321227c5bbd6b4e618951d6"
+      "title": "高市首相、就任後初めて中国訪問 習近平主席との接触が焦点",
+      "summary": "高市早苗首相は18日、APEC首脳会議出席のため中国・深センに到着した。就任後初の訪中で、台湾有事をめぐる国会答弁以来冷え込む日中関係の中、習近平国家主席との接触が実現するかが焦点となっている。",
+      "source": "時事通信",
+      "link": "https://www.jiji.com/jc/article?k=2026111800129&g=pol"
     },
     {
-      "title": "高市首相、プーチン大統領とも接触へ APEC出席で各国首脳と",
-      "summary": "深センに到着した高市首相は、APEC出席国の首脳らと接触する見通し。ロシアのプーチン大統領との接触も報じられ、18、19日の首脳会議の行方が注目されている。",
-      "source": "FNNプライムオンライン",
-      "link": "https://news.yahoo.co.jp/articles/ff6271d643fc4f33c70f8c52e93ae1916e51fc84"
+      "title": "中国、高市首相への出迎え簡素 トランプ氏らには異例の厚遇",
+      "summary": "深センでのAPEC出席にあたり、中国側の高市首相への出迎えは外交儀礼の範囲にとどまり、トランプ米大統領やプーチン大統領、韓国の李在明大統領への対応と比べて際立って簡素だったと報じられた。",
+      "source": "時事通信",
+      "link": "https://www.jiji.com/jc/article?k=2026111801181&g=pol"
     },
     {
-      "title": "APEC首脳会議、18日に中国・深センで開幕 自由貿易・AI協調が議題",
-      "summary": "APEC首脳会議が18、19日に深センで開催される。議長国の中国は自由貿易の強化やAI分野での国際協調を主要議題に掲げている。",
-      "source": "共同通信",
-      "link": "https://kumanichi.com/articles/2057781"
+      "title": "習主席、APECで首脳外交を展開 中国・深センで開幕",
+      "summary": "APEC首脳会議が18日、中国・深センで開幕し、議長国の習近平国家主席が各国首脳との会談を精力的に進めている。19日まで会議が続く中、日中首脳の接触の有無が注目されている。",
+      "source": "時事通信",
+      "link": "https://www.jiji.com/jc/article?k=2026111800187&g=pol"
     },
     {
-      "title": "高市首相、初訪中で日中関係改善を模索 習主席との会談は不透明",
-      "summary": "台湾有事答弁以来冷え込む日中関係の中、高市首相が就任後初めて中国を訪問。習近平国家主席との正式な首脳会談は見送られる可能性が高いと報じられている。",
-      "source": "共同通信",
-      "link": "https://ryukyushimpo.jp/kyodo/entry-5605922"
+      "title": "APEC首脳会議が開幕 貿易促進・AI活用で首脳宣言を調整",
+      "summary": "中国・深センで開幕したAPEC首脳会議では、議長国の中国が自由な貿易・投資の促進と人工知能(AI)活用の重要性を盛り込んだ首脳宣言の採択を目指し、各国と調整を進めている。",
+      "source": "時事通信",
+      "link": "https://www.jiji.com/jc/article?k=2026111800701&g=int"
     },
     {
-      "title": "米中露3首脳、19日にAPECで会談へ トランプ氏・習近平氏は今年3回目",
-      "summary": "トランプ米大統領と習近平国家主席は19日、深センのAPECに合わせ今年3回目となる会談を行う見通し。ロシアのプーチン大統領も交えた3カ国首脳会談が注目されている。",
-      "source": "Newsweek日本版(ロイター)",
-      "link": "https://www.newsweekjapan.jp/articles/-/340253"
+      "title": "日経平均163円高の5万9024円 NVIDIA好決算も上値は限定的",
+      "summary": "18日の東京株式市場で日経平均株価は3営業日ぶりに反発し、163円85銭高の5万9024円28銭で終えた。NVIDIAの好決算を受けAI・半導体株が買われたが、前日の大幅安を受けて高揚感は乏しかった。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOFL181SK0Y6A111C2000000/"
     }
   ],
   "tech": [
     {
-      "title": "NVIDIA、2027年度第3四半期決算を発表 売上高1158億ドルで四半期最高を更新",
-      "summary": "NVIDIAは17日(米国時間)、8〜10月期決算を発表。売上高は前年比103%増の115.8億ドルで予想を上回り、1500億ドル規模の株買い戻しも発表した。取締役会はジェンスン・フアン氏のCEO復帰を否定している。",
-      "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/technology/live/nvidia-earnings-live-nvidia-posts-q3-beat-board-says-it-will-not-reinstate-jensen-huang-as-ceo-221428433.html"
+      "title": "Anthropic、IPO価格を1株83ドルに設定 想定レンジを上回る",
+      "summary": "Claude開発元のAnthropicは18日、IPO価格を想定レンジ(70〜78ドル)を上回る1株83ドルに設定したとCNBCが報じた。19日にナスダックで「ANT」として取引を開始する予定。",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html"
     },
     {
-      "title": "米商務省、AI半導体の海外遠隔アクセスを制限する新規則を発表",
-      "summary": "米商務省産業安全保障局は16日、海外データセンター経由での先端半導体への遠隔アクセスを制限する暫定最終規則を公表。中国企業による不正な利用を防ぐことが目的とされる。",
-      "source": "Newsweek日本版(ロイター)",
-      "link": "https://www.newsweekjapan.jp/articles/-/340279"
+      "title": "NVIDIA株、好決算発表後に下落 CoreWeaveなど関連株も連れ安",
+      "summary": "NVIDIAは18日に発表した四半期決算で予想を上回る売上高を示したが、株価は決算後に下落。CoreWeaveやIrenなど関連の「ネオクラウド」銘柄も値を下げた。",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/11/18/nvidia-stock-earnings.html"
     },
     {
-      "title": "Anthropic、IPO価格を18日夜に決定へ 当初レンジを上回る可能性",
-      "summary": "Claude開発元のAnthropicは、1株70〜78ドルの想定レンジを上回る価格でIPO価格を決定する可能性が高いと報じられている。NVIDIAやGoogleなど7社が26億ドル規模の私募増資にも応じる。19日にナスダックで「ANT」として取引開始予定。",
-      "source": "Let's Data Science",
-      "link": "https://letsdatascience.com/news/anthropic-sets-ipo-range-and-adds-26-billion-private-placeme-f6c67619"
+      "title": "サム・アルトマン氏、AIに意思決定を委ねる未来に警鐘",
+      "summary": "OpenAIのサム・アルトマンCEOはニューヨーク・タイムズ主催のDealBookサミットで、人間ではなくAIが判断を下すようになる未来に対して警告を発した。グレッグ・ブロックマン氏も、モデルの性能向上に伴い安全性確保の責任が増していると述べた。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/"
     },
     {
-      "title": "SK hynix、HBM4増産へ新規装置を発注 2027年前半までに月2万枚規模積み増し",
-      "summary": "SK hynixはNVIDIA以外の顧客需要も見込み、HBM4向けの新規製造装置を発注したと報じられた。2027年前半までに月間2万枚規模の生産能力積み増しを目指すという。",
-      "source": "TechPowerUp",
-      "link": "https://www.techpowerup.com/354861/sk-hynix-bets-on-hbm4-demand-beyond-nvidia-with-new-equipment-orders"
+      "title": "マイクロソフト、「CopilotはClaudeやChatGPTより安価で優秀」と主張",
+      "summary": "マイクロソフトは年次カンファレンス「Ignite」で、Copilotが価格面でAnthropicのClaudeやOpenAIのChatGPTに勝ると主張した。同社の商用部門責任者は「ClaudeやChatGPTでできることは、Copilotならより安くより良くできる」と述べた。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-18/microsoft-says-copilot-is-beating-anthropic-openai-on-price"
     },
     {
-      "title": "サムスン・SK hynix・マイクロン、エヌビディアのAI計画加速で技術要求が厳格化",
-      "summary": "NVIDIAのAI半導体ロードマップ加速に伴い、メモリー大手3社が求められる技術水準の厳格化に対応を競っている。HBMの供給競争が一段と激しくなっている。",
-      "source": "The Korea Herald",
-      "link": "https://www.koreaherald.com/article/10645471"
+      "title": "パロアルトネットワークス、AI企業Applied Computeを45億ドルで買収",
+      "summary": "セキュリティ大手パロアルトネットワークスは、AIモデル基盤企業Applied Computeを45億ドル規模の全株式交換で買収すると発表した。四半期決算発表と同時に公表された。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-18/palo-alto-networks-to-buy-applied-compute-in-4-5-billion-deal"
     },
     {
-      "title": "SpaceXのStarship、2回目の軌道投入に成功 ブースター回収は失敗",
-      "summary": "SpaceXは13日、テキサス州からStarshipの試験飛行(Flight 15)を実施。上段は2度目の軌道投入に成功したが、発射タワーでのブースター回収は失敗し、ブースターはメキシコ湾に落下・爆発した。",
-      "source": "AP(ADN)",
-      "link": "https://www.adn.com/nation-world/2026/11/13/spacexs-starship-soars-into-orbit-after-booster-explosion-prevents-an-unprecedented-double-catch/"
+      "title": "Snapchat、Claude CodeやCursorでAR Lensを開発できる新機能を提供",
+      "summary": "Snapchatは、Claude CodeやCursorなどのAIコーディングアシスタントを使ってAR LensをCLIから開発できる新機能「Easy Lens CLI」を公開した。開発者はAIの支援を受けながらARフィルターを制作できる。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/"
+    },
+    {
+      "title": "金融AIスタートアップRogo、評価額37.5億ドルに上昇との報道",
+      "summary": "投資銀行出身者が創業した金融AIスタートアップRogoが、約3.5億ドルの資金調達により評価額37.5億ドルに達する見通しだとBloombergが報じた。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-18/ex-junior-bankers-ai-startup-rogo-leaps-to-3-75-billion-valuation"
+    },
+    {
+      "title": "NVIDIA、フアン氏退任後に中国市場から事実上撤退",
+      "summary": "NVIDIAの暫定CEOを務めるコレット・クレス氏は、中国向けH200チップの販売を取りやめると表明した。関税付きで販売を認める特例的な枠組みから離脱する形で、Jefferiesはこの措置がデータセンター事業の来年の売上高を最大620億ドル押し下げる可能性があると分析している。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/"
+    },
+    {
+      "title": "NVIDIA、フアン氏退任後もオープンソースAI戦略を維持と表明",
+      "summary": "NVIDIAの暫定CEOコレット・クレス氏は決算発表の場で、創業者ジェンスン・フアン氏の退任後もオープンソースAI戦略に変わりはないと強調した。約129億ドル規模のHugging Face買収も計画通り進めるとしている。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/"
+    },
+    {
+      "title": "予測市場Kalshi、GPU先物取引の実現に向けCompute Deskと提携",
+      "summary": "予測市場運営のKalshiは、AI計算資源のコストに連動する先物契約の実現に向け、Compute Deskと提携を進めている。関連契約の承認可否について規制当局の判断は来年にずれ込む見通し。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-18/kalshi-turns-to-compute-desk-in-renewed-push-for-gpu-futures"
     }
   ],
   "x_trending_tech": []
