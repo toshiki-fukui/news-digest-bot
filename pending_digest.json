@@ -1,97 +1,79 @@
 {
-  "run_label": "11/19 07:00",
+  "run_label": "11/19 19:00",
   "politics_economy": [
     {
-      "title": "高市首相、就任後初めて中国訪問 習近平主席との接触が焦点",
-      "summary": "高市早苗首相は18日、APEC首脳会議出席のため中国・深センに到着した。就任後初の訪中で、台湾有事をめぐる国会答弁以来冷え込む日中関係の中、習近平国家主席との接触が実現するかが焦点となっている。",
+      "title": "高市首相、邦人記者解放を要求 JT支配撤回も要請—ロシア大統領と電話会談",
+      "summary": "高市早苗首相はプーチン大統領と約30分間電話会談し、拘束されている邦人記者の解放とJTのロシア事業「一時管理」措置の撤回を求めた。首脳間の対話継続で一致したという(11/19配信)。",
       "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026111800129&g=pol"
+      "link": "https://www.jiji.com/jc/article?k=2026111900859&g=pol"
     },
     {
-      "title": "中国、高市首相への出迎え簡素 トランプ氏らには異例の厚遇",
-      "summary": "深センでのAPEC出席にあたり、中国側の高市首相への出迎えは外交儀礼の範囲にとどまり、トランプ米大統領やプーチン大統領、韓国の李在明大統領への対応と比べて際立って簡素だったと報じられた。",
+      "title": "消費税減税の財源が焦点に 自民税調、租税特別措置の見直し検討",
+      "summary": "2027年度税制改正に向け、自民党税制調査会が消費税減税の財源確保策として租税特別措置の見直しを議論。中小企業への配慮を軸に調整が進んでいる(11/19配信)。",
       "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026111801181&g=pol"
+      "link": "https://www.jiji.com/jc/article?k=2026111900643&g=pol"
     },
     {
-      "title": "習主席、APECで首脳外交を展開 中国・深センで開幕",
-      "summary": "APEC首脳会議が18日、中国・深センで開幕し、議長国の習近平国家主席が各国首脳との会談を精力的に進めている。19日まで会議が続く中、日中首脳の接触の有無が注目されている。",
+      "title": "「専守防衛」めぐり与党内で見解の違い 衆院憲法審が9条集中討議",
+      "summary": "衆議院憲法審査会が憲法9条をめぐり集中討議を実施。防衛の基本方針「専守防衛」について自民党は維持を掲げる一方、日本維新の会は転換を主張するなど、与党内でも見解の相違が浮き彫りになった(11/19配信)。",
       "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026111800187&g=pol"
+      "link": "https://www.jiji.com/jc/article?k=2026111900096&g=pol"
     },
     {
-      "title": "APEC首脳会議が開幕 貿易促進・AI活用で首脳宣言を調整",
-      "summary": "中国・深センで開幕したAPEC首脳会議では、議長国の中国が自由な貿易・投資の促進と人工知能(AI)活用の重要性を盛り込んだ首脳宣言の採択を目指し、各国と調整を進めている。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026111800701&g=int"
+      "title": "日経平均、小幅高でスタート トレンドマイクロやソニーGなどが上昇",
+      "summary": "19日の東京株式市場で日経平均は前日比小幅高で始まり、トレンドマイクロやソニーグループなどが買われた。",
+      "source": "財経新聞",
+      "link": "https://www.zaikei.co.jp/article/20261119/878335.html"
     },
     {
-      "title": "日経平均163円高の5万9024円 NVIDIA好決算も上値は限定的",
-      "summary": "18日の東京株式市場で日経平均株価は3営業日ぶりに反発し、163円85銭高の5万9024円28銭で終えた。NVIDIAの好決算を受けAI・半導体株が買われたが、前日の大幅安を受けて高揚感は乏しかった。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOFL181SK0Y6A111C2000000/"
+      "title": "米国株、エヌビディアが下げに転じダウ平均は大幅続落",
+      "summary": "18日の米国市場でダウ平均が大幅続落し、好決算で上昇していたエヌビディア株も下げに転じた(19日未明配信)。",
+      "source": "みんかぶFX/為替",
+      "link": "https://fx.minkabu.jp/news/384877"
     }
   ],
   "tech": [
     {
-      "title": "Anthropic、IPO価格を1株83ドルに設定 想定レンジを上回る",
-      "summary": "Claude開発元のAnthropicは18日、IPO価格を想定レンジ(70〜78ドル)を上回る1株83ドルに設定したとCNBCが報じた。19日にナスダックで「ANT」として取引を開始する予定。",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html"
-    },
-    {
-      "title": "NVIDIA株、好決算発表後に下落 CoreWeaveなど関連株も連れ安",
-      "summary": "NVIDIAは18日に発表した四半期決算で予想を上回る売上高を示したが、株価は決算後に下落。CoreWeaveやIrenなど関連の「ネオクラウド」銘柄も値を下げた。",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/11/18/nvidia-stock-earnings.html"
-    },
-    {
-      "title": "サム・アルトマン氏、AIに意思決定を委ねる未来に警鐘",
-      "summary": "OpenAIのサム・アルトマンCEOはニューヨーク・タイムズ主催のDealBookサミットで、人間ではなくAIが判断を下すようになる未来に対して警告を発した。グレッグ・ブロックマン氏も、モデルの性能向上に伴い安全性確保の責任が増していると述べた。",
+      "title": "アンソロピック、IPO価格を83ドルに設定 想定レンジ上回る 本日ナスダック上場へ",
+      "summary": "Anthropicは11/18夜(米国時間)にIPO価格を1株83ドルに設定し、想定レンジを上回った。9.8億株を売却し約813億ドルを調達、11/19(木)にティッカー「ANT」でナスダック取引を開始する。",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/"
+      "link": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/"
     },
     {
-      "title": "マイクロソフト、「CopilotはClaudeやChatGPTより安価で優秀」と主張",
-      "summary": "マイクロソフトは年次カンファレンス「Ignite」で、Copilotが価格面でAnthropicのClaudeやOpenAIのChatGPTに勝ると主張した。同社の商用部門責任者は「ClaudeやChatGPTでできることは、Copilotならより安くより良くできる」と述べた。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-18/microsoft-says-copilot-is-beating-anthropic-openai-on-price"
+      "title": "OpenAIのAIモデル、AMDのGPU回路設計を最大14%改善 独自チップ「Jalapeno」でも成果",
+      "summary": "OpenAIが自社AIモデルを使い、AMD次世代GPUの一部回路でPPA(性能・消費電力・面積)を最大14%改善したと発表。自社開発の推論チップ「Jalapeno」の設計にも活用しているという(11/19)。",
+      "source": "ITmedia NEWS",
+      "link": "https://www.itmedia.co.jp/news/article/2611/19/2000003321/"
     },
     {
-      "title": "パロアルトネットワークス、AI企業Applied Computeを45億ドルで買収",
-      "summary": "セキュリティ大手パロアルトネットワークスは、AIモデル基盤企業Applied Computeを45億ドル規模の全株式交換で買収すると発表した。四半期決算発表と同時に公表された。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-18/palo-alto-networks-to-buy-applied-compute-in-4-5-billion-deal"
+      "title": "JSRの堀社長、三井化学との半導体材料再編「主体となって考える」",
+      "summary": "JSRの堀哲朗社長が11/19の事業状況説明会で、三井化学によるJSR買収に触れ、半導体材料業界の再編を連携して主体的に進める意向を示した。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUC139L60T11C26A1000000/"
     },
     {
-      "title": "Snapchat、Claude CodeやCursorでAR Lensを開発できる新機能を提供",
-      "summary": "Snapchatは、Claude CodeやCursorなどのAIコーディングアシスタントを使ってAR LensをCLIから開発できる新機能「Easy Lens CLI」を公開した。開発者はAIの支援を受けながらARフィルターを制作できる。",
+      "title": "マイクロソフトCEOサティア・ナデラ氏、6万人への自主退職提案の理由を説明",
+      "summary": "ナデラ氏は10月に約6万人の従業員に自主退職(買収提案)を行った理由を説明。大規模解雇を避けるための選択であり、全員がAIを活用しその管理に注力する組織への再編を進めているとした。",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/"
+      "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit"
     },
     {
-      "title": "金融AIスタートアップRogo、評価額37.5億ドルに上昇との報道",
-      "summary": "投資銀行出身者が創業した金融AIスタートアップRogoが、約3.5億ドルの資金調達により評価額37.5億ドルに達する見通しだとBloombergが報じた。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-18/ex-junior-bankers-ai-startup-rogo-leaps-to-3-75-billion-valuation"
+      "title": "AIエージェントで組み込み開発はどう変わる? TIがelectronica 2026で最新技術を披露",
+      "summary": "Texas Instrumentsがドイツの展示会electronica 2026で、AIエージェントを活用した組み込みソフトウェア開発支援技術を披露した(11/19掲載)。",
+      "source": "EE Times Japan",
+      "link": "https://eetimes.itmedia.co.jp/ee/articles/2611/19/news011.html"
     },
     {
-      "title": "NVIDIA、フアン氏退任後に中国市場から事実上撤退",
-      "summary": "NVIDIAの暫定CEOを務めるコレット・クレス氏は、中国向けH200チップの販売を取りやめると表明した。関税付きで販売を認める特例的な枠組みから離脱する形で、Jefferiesはこの措置がデータセンター事業の来年の売上高を最大620億ドル押し下げる可能性があると分析している。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/"
+      "title": "ADEKA、茨城県に先端半導体材料の新設備を新設",
+      "summary": "ADEKAが鹿島化学品工場(茨城県神栖市)に、先端半導体向けALD材料の生産設備を新設すると発表。完成は2028年4月、営業運転開始は同年8月予定(11/19掲載)。",
+      "source": "MONOist",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2611/19/news021.html"
     },
     {
-      "title": "NVIDIA、フアン氏退任後もオープンソースAI戦略を維持と表明",
-      "summary": "NVIDIAの暫定CEOコレット・クレス氏は決算発表の場で、創業者ジェンスン・フアン氏の退任後もオープンソースAI戦略に変わりはないと強調した。約129億ドル規模のHugging Face買収も計画通り進めるとしている。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/"
-    },
-    {
-      "title": "予測市場Kalshi、GPU先物取引の実現に向けCompute Deskと提携",
-      "summary": "予測市場運営のKalshiは、AI計算資源のコストに連動する先物契約の実現に向け、Compute Deskと提携を進めている。関連契約の承認可否について規制当局の判断は来年にずれ込む見通し。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-18/kalshi-turns-to-compute-desk-in-renewed-push-for-gpu-futures"
+      "title": "Windows脆弱性修正、1カ月で前年1年分超 Ignite 2026で見えた「守り」の新しい形",
+      "summary": "Microsoft Ignite 2026での発表を踏まえ、Windowsのセキュリティ修正件数の急増と、AIエージェント時代の新しい防御のあり方を解説(11/19掲載)。",
+      "source": "ITmedia エンタープライズ",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/19/news022.html"
     }
   ],
   "x_trending_tech": []
