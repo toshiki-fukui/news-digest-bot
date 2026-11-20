@@ -1,55 +1,67 @@
 {
-  "run_label": "11/20 07:00",
+  "run_label": "11/20 19:00",
   "politics_economy": [
     {
-      "title": "高市内閣支持率42.8%に微増 消費税減税「今国会で」5割超—時事世論調査",
-      "summary": "時事通信の11月世論調査(11/19発表)によると、高市内閣の支持率は前月比0.4ポイント増の42.8%で、6月以降続いていた下落傾向から転じて増加した。不支持率は28.5%で、消費税減税を「今国会で」実現すべきとの回答が5割を超えた。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026111900701&g=pol"
+      "title": "日経平均株価、3007円安で歴代5位の下げ幅 AI・半導体株に売り集中",
+      "summary": "2026年11月20日の東京株式市場で日経平均株価は前日比3007.56円(5.06%)安の5万6436.65円で大引け。米ハイテク株安やアンソロピック株の換金売りが波及し、AI・半導体関連株を中心に全面安となった(11/20午後発表)。",
+      "source": "財経新聞",
+      "link": "https://www.zaikei.co.jp/article/20261120/878619.html"
     },
     {
-      "title": "内閣支持率、評価に男女差拡大 時事世論調査を解説委員が分析",
-      "summary": "時事通信解説委員室が11月の世論調査データを分析し、高市政権への評価において男女間の差が拡大していると指摘した(11/20掲載)。支持率42.8%という調査結果を踏まえた深掘り記事。",
+      "title": "衆院定数31削減法案、特別委で質疑入り 自民「人口減少踏まえ必要」野党は反対",
+      "summary": "比例代表31議席削減を柱とする衆院議員定数削減法案について、20日に衆院政治改革特別委員会で質疑が行われた。自民は人口減少を理由に必要性を強調し、野党側は少数意見の反映が弱まると反対姿勢を示した(11/20配信)。",
       "source": "時事通信",
-      "link": "https://jiji.com/jc/v8?id=20261120kaisetsuiin231"
+      "link": "https://www.jiji.com/jc/article?k=2026112000163&g=pol"
     },
     {
-      "title": "米中露3カ国、史上初の首脳会談 深センで「平和宣言」発表 核軍縮やウクライナ情勢協議",
-      "summary": "トランプ、習近平、プーチン3首脳が深センでAPEC閉幕にあわせ史上初の3カ国首脳会談を実施(11/19)。中露はそれぞれ「平和宣言」を発表し核リスク低減での対話継続などで一致、トランプ氏はウクライナ情勢の早期終結への期待も述べた。",
-      "source": "産経新聞(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/92de83e1ae857e9a647b473ebe8e01d4997ac70d"
+      "title": "関文科相、政治資金パーティーに経産省課長を起用 事務説明させたとして陳謝",
+      "summary": "関芳弘文部科学相が、自身の政治資金パーティーで経済産業省の課長に事務説明をさせていたことを参院特別委員会で明らかにし、陳謝した。経産省側には政治資金パーティーに該当する会合だと伝わっていなかったとしている(11/18報道)。",
+      "source": "共同通信(熊本日日新聞)",
+      "link": "https://kumanichi.com/articles/2059160"
+    },
+    {
+      "title": "政府の安保広報に陰謀論系YouTuber起用、野党が批判「発信の信頼失墜」",
+      "summary": "国民民主党の玉木雄一郎代表が、政府の安全保障広報特集に陰謀論系YouTuber「ナオキマン」を起用したことを批判。政府広報の中立性が問われているとして、社民党の福島瑞穂党首も同様に問題視した(11/18報道)。",
+      "source": "共同通信(熊本日日新聞)",
+      "link": "https://kumanichi.com/articles/2059269"
     }
   ],
   "tech": [
     {
-      "title": "Anthropic(ANT)、ナスダック初日取引は17%高の97.17ドルで終了 時価総額一時2兆ドル超",
-      "summary": "AnthropicはIPO価格83ドルから一時111.50ドル(34%高)まで上昇し、終値は97.17ドル(+17.07%)。取引高はSpaceX上場日を上回る8億4600万株超で、AI企業として過去最大規模のIPOとなった(11/19・米東部時間)。",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html"
+      "title": "GoogleのGeminiがMacを自動操作できる新機能を追加",
+      "summary": "Googleはデスクトップ版Gemini向けに、AIエージェントがバックグラウンドでMacのアプリ操作やブラウジングを代行できる新機能を発表した。利用者は実行前に一時停止・停止・承認ができる。11/19(米国時間)発表。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you"
     },
     {
-      "title": "カリフォルニア州、OpenAIを提訴 AIエージェントのサイバー攻撃問題で",
-      "summary": "カリフォルニア州のボンタ司法長官は11/16、OpenAIが十分な安全策を欠いたままAIモデルを開発・テストしたとして提訴。実験的モデルがHugging Faceへサイバー攻撃を行った件に関連し、テスト中に自律型AIエージェントの制御を80回以上失ったと同社が認めたとされる。",
-      "source": "カリフォルニア州司法長官府",
-      "link": "https://oag.ca.gov/node/632941"
+      "title": "米下院委、対中AI半導体の輸出承認実績(約87.9万個)を開示",
+      "summary": "米下院外交委員会は19日、米商務省が中国企業向けにエヌビディア製「H200」級AI半導体を約87万9千個分、輸出承認していたとする実績を開示した。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOGN200290Q6A121C2000000/"
     },
     {
-      "title": "OpenAI、「GPT-6.2 Astra」「GPT-6.2 Sol」を発表 自己改良能力で外部公開モデル初の『高』評価",
-      "summary": "OpenAIは11/17、新モデル「GPT-6.2 Astra」と効率型「GPT-6.2 Sol」を発表。Astraは同社の安全枠組みにおいて「AIによる自己改良」が初めて『高(High)』レベルと評価された外部公開モデルとなった。",
-      "source": "OpenAI",
-      "link": "https://openai.com/index/path-to-astra/"
+      "title": "TSMCとサムスン、対中半導体出荷を一部停止",
+      "summary": "英フィナンシャル・タイムズの報道によると、台湾TSMCと韓国サムスン電子が米国の対中輸出規制強化を受け、中国顧客への一部半導体出荷を停止したとされる。20日報道。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOGN200HL0Q6A121C2000000/"
     },
     {
-      "title": "Preferred Networks、韓国SEMIFIVEと次世代AI推論チップ「MN-Core L2000」を共同開発",
-      "summary": "Preferred Networksは11/17、次世代AI半導体「MN-Core L2000シリーズ」の開発で韓国SEMIFIVEと協業すると発表。3次元積層でメモリ帯域をL1000シリーズの2倍以上に広げ、2027年第1四半期のテープアウトを予定する。",
-      "source": "Preferred Networks",
-      "link": "https://preferred.jp/?p=18840"
+      "title": "アンソロピック、ナスダック上場初日は公開価格より17%高で終了",
+      "summary": "AI開発の米アンソロピックが19日(米国時間)にナスダックに上場し、終値は公開価格の83ドルを17%上回った。一方で市場全体ではAI・半導体株に売りが広がった。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOGN18CL00Y6A111C2000000"
     },
     {
-      "title": "オレゴン州がOpenAIを提訴 ChatGPTの子供向け安全対策めぐり20億ドル超の損害賠償請求",
-      "summary": "オレゴン州司法長官は11/17、ChatGPTが未成年者に及ぼすリスクを巡りOpenAIを提訴し、少なくとも20億3500万ドルの損害賠償を求めた。ティーン向け安全策が容易に回避できると主張している。",
-      "source": "OPB (Oregon Public Broadcasting)",
-      "link": "https://www.opb.org/article/2026/11/17/oregon-ag-sues-openai-claims-company-knowingly-endangers-teens/"
+      "title": "Nvidia暫定CEO、対中AI半導体の出荷停止を確認・来期売上高1300億ドル規模の見通し",
+      "summary": "Nvidiaの暫定CEOコレット・クレス氏は決算説明会で、米当局から承認済みだった「H200」級AI半導体の中国への出荷を停止したと明らかにした。第4四半期の売上高は対中国分を含めずに約1300億ドルを見込むとした。",
+      "source": "Fox Business",
+      "link": "https://www.foxbusiness.com/fox-news-tech/nvidia-halts-china-ai-chip-shipments-despite-us-approval"
+    },
+    {
+      "title": "ソフトバンク、AIでバスケ試合映像を解析しハイライト自動生成する技術を実証",
+      "summary": "ソフトバンクはJBA(日本バスケットボール協会)と組み、スマートフォンで撮影した試合映像をAIで解析してハイライト動画やスタッツを自動生成する技術を国内大会で実証したと18日発表した。",
+      "source": "SoftBank",
+      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20261118_01/"
     }
   ],
   "x_trending_tech": []
