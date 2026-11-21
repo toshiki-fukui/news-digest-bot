@@ -1,43 +1,91 @@
 {
-  "run_label": "11/21 07:00",
+  "run_label": "11/21 19:00",
   "politics_economy": [
     {
-      "title": "日中関係「良好でない」93%で過去最高、内閣府世論調査",
-      "summary": "内閣府が11/20発表した「外交に関する世論調査」速報値で、中国との関係を「良好だと思わない」と答えた割合が93.0%(前回比+6.6pt)に達し、1986年の調査開始以来で最高となった。中国への親近感も「感じない」が86.4%に上り、高市首相の台湾有事に関する発言後の日中関係の冷え込みが影響したとみられている。",
+      "title": "日経平均株価、AI株急落で3007円安 アンソロピック上場「出尽くし」も要因",
+      "summary": "11/20の東京株式市場で日経平均は前日比3007円56銭安の5万6436円65銭と急反落、下落幅は年間で5番目の大きさとなった。米市場でAI・半導体株が総崩れとなった流れを受け、アンソロピックのナスダック上場という目先の材料が出尽くしたとの見方や、データセンター規制への警戒も背景にあるとされる。",
       "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026112000896&g=pol"
+      "link": "https://www.jiji.com/jc/article?k=2026112000735&g=eco"
+    },
+    {
+      "title": "政府、米中ロ接近に危機感 史上初の首脳会談後、安保秩序の維持へ働きかけ",
+      "summary": "11/19に中国・深センで行われた史上初の米中ロ首脳会談で核リスク低減を盛り込む「平和宣言」が発表された後、日本政府は3カ国の接近に危機感を強め、トランプ政権に安全保障秩序を損なわないよう働きかける構えを見せている。高市首相は会談後、日本の利益は損なわれないと説明したという。",
+      "source": "共同通信(熊本日日新聞)",
+      "link": "https://kumanichi.com/articles/2057833"
+    },
+    {
+      "title": "ソフトバンクG孫正義氏「AI投資は続ける」 7680億円の最終赤字計上後も強気崩さず",
+      "summary": "ソフトバンクグループは11/10発表の2026年4〜9月期決算で、米国でのAIデータセンター事業の損失などから最終損益7680億円の赤字となった。孫正義社長は18日の講演で、AI投資への懸念が世界的に広がる中でも成長が見込めるとして投資継続の考えを示した。",
+      "source": "NHK",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261118de78044"
+    },
+    {
+      "title": "消費税減税法案、参院審議続く 公明・国民民主の賛否が成立の鍵",
+      "summary": "飲食料品の消費税率を1%に引き下げる関連法案は衆院を通過し参院で審議中。与党は参院で過半数に届かず、公明党・国民民主党の賛同取り付けが焦点となっている。政府・与党は12月12日の会期末までの成立を目指す。",
+      "source": "東京新聞",
+      "link": "https://www.tokyo-np.co.jp/article/526554"
+    },
+    {
+      "title": "衆院定数31削減法案、審議入りへ攻防続く 与党は今国会での成立目指す",
+      "summary": "自民・日本維新の会・国民民主の3党が共同提出した衆院比例代表定数31削減法案をめぐり、与野党の攻防が続いている。野党各党は定数削減に根拠がないと批判しており、与党は今国会中の法案成立を目指している。",
+      "source": "共同通信(熊本日日新聞)",
+      "link": "https://kumanichi.com/articles/2057807"
     }
   ],
   "tech": [
     {
-      "title": "AI需要の急増でプリント基板(PCB)が不足、解消は2027年以降の見通し",
-      "summary": "AIサーバー向け需要の急増により、プリント基板(PCB)やABF基板などの供給が逼迫し、一部の受注リードタイムは最大30カ月に達していると海外メディアが報じた。HPやDellなど大手PCメーカーも2027年モデル向けの基板確保に苦慮しているとされ、PCやグラフィックボードの価格上昇につながる可能性が指摘されている。",
-      "source": "TechRadar(Nikkei Asia発)",
-      "link": "https://techradar.com/pro/first-ram-now-circuit-boards-ai-demand-is-stretching-some-pcb-orders-to-30-months"
+      "title": "アンソロピックIPO後、「安全性優先」の企業姿勢が試されるとの指摘",
+      "summary": "AI企業アンソロピックが史上最大規模のIPOを経てナスダック上場を果たした後、同社が掲げてきた安全性最優先の企業姿勢を、公開企業としての商業的圧力の中で今後も維持できるのか、専門家らが疑問を投げかけている。",
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/11/21/nx-s1-6048678/anthropic-ipo-mission-ai-safety"
     },
     {
-      "title": "Nvidia最大の東南アジア顧客Megaspeed、対中チップ不正転売疑惑で米司法省が刑事捜査",
-      "summary": "シンガポールのクラウド企業Megaspeedが、Nvidia製AIチップを中国に不正転売した疑いで米司法省の刑事捜査を受けていることが分かった。同社はNvidiaの東南アジア最大の顧客の一つで、シンガポール当局も独自に調査を開始している。Nvidia側は自社調査で不正転用の証拠は見つかっていないとしている。",
-      "source": "Tom's Hardware / South China Morning Post",
-      "link": "https://www.tomshardware.com/pc-components/gpus/nvidias-biggest-sea-customer-exposes-the-limits-of-us-ai-export-controls"
+      "title": "アップル、独自のAIエージェントを開発中 アプリ操作やコード記述が可能に",
+      "summary": "アップルが、アプリの操作やウェブ閲覧、コード記述までこなす「汎用コンピュータ操作エージェント」を独自開発していることが、11/17付のエンジニア職の求人情報などから明らかになった。Siriのエージェント化は2027年にも実現するとの観測もある。",
+      "source": "MacRumors",
+      "link": "https://macrumors.com/2026/11/19/apple-ai-agent-development"
     },
     {
-      "title": "米商務省、対中迂回防止で東南アジア向けAIチップ輸出に新規制",
-      "summary": "米商務省(BIS)が、インドネシア・マレーシア・シンガポール・タイ・ブラジルなど第三国経由で中国企業がAIチップに遠隔アクセスすることを防ぐため、現地データセンター事業者に新たな輸出許可取得を義務付ける規則を発表した。対象のデータセンターは90日以内に許可取得が必要とされる。",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/economy/2026/11/17/us-moves-to-block-chinas-remote-access-to-ai-chips-amid-nvidia-scandal"
+      "title": "Google Gemini、Mac上でバックグラウンドの複数手順タスク自動実行に対応",
+      "summary": "GoogleがMac版Geminiアプリを拡張し、ファイルやアプリ、ウェブサイトを使う複数手順の作業をバックグラウンドで自律的に実行できる「コンピュータ操作」機能を追加した。米国のGoogle AI Plus/Pro/Ultra加入者が利用でき、Apple Silicon搭載Macが必要。",
+      "source": "MacRumors",
+      "link": "https://macrumors.com/2026/11/19/google-gemini-mac-app-control"
     },
     {
-      "title": "OpenAI、新フラグシップモデル「GPT-6.2 Astra」と効率型「Sol」を発表",
-      "summary": "OpenAIが高度な専門業務向けの新フラグシップモデル「GPT-6.2 Astra」と、低コストで日常タスク向けの「GPT-6.2 Sol」を発表した。API価格は従来のGPT-6 Astraより約20%引き下げられ、サイバーセキュリティ分野でも最高レベルの対策基準を満たすとしている。前身の「GPT-6.1 Astra」は安全性テストで問題が見つかり発売中止となっていた。",
-      "source": "OpenAI公式",
-      "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol"
+      "title": "200万件の「おとり」認証情報で判明、AIルーター経由の機密情報漏洩",
+      "summary": "セキュリティ研究者が2026年7月から11月にかけ、OpenRouterやVercelなどのAIルーター/ゲートウェイ経由のプロンプトに約200万件の追跡可能な偽の認証情報を仕込んで検証した結果、少なくとも3社のAI事業者で情報漏洩が確認された。あるURLは中国企業の社内チャットに24日後に出現したという。",
+      "source": "Dragos(HD Moore氏の調査)",
+      "link": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens"
     },
     {
-      "title": "Anthropic、ナスダック上場 ティッカー「ANT」で取引開始",
-      "summary": "AI企業Anthropicが新規株式公開(IPO)価格を想定レンジを上回る1株83ドルに設定し、ナスダックに「ANT」のティッカーで上場、取引を開始した。生成AI企業として注目度の高いIPOとなったが、巨額のコンピューティングコストなど採算性への市場の見方が今後の株価を左右するとみられている。",
-      "source": "Stock Titan",
-      "link": "https://www.stocktitan.net/articles/anthropic-ipo-live-ant-first-trading-day-2026"
+      "title": "NAND・DRAM、2026年第4四半期も契約価格15〜20%上昇の見通し",
+      "summary": "調査会社TrendForceによると、AIサーバー向け需要の拡大を受け、2026年第4四半期のNANDフラッシュ契約価格は前期比15〜20%上昇する見通し。一般向けDRAMも10〜15%上昇するとみられ、サーバー向け高性能品への生産配分優先が続き供給不足が解消しない状況が背景にある。",
+      "source": "TrendForce",
+      "link": "https://www.guru3d.com/story/dram-and-nand-contract-prices-forecast-to-rise-as-much-as-in-q4-2026/"
+    },
+    {
+      "title": "Nvidia顧客Megaspeed、米司法省が刑事捜査を主導と米当局が確認",
+      "summary": "米商務省と司法省は11/16、NvidiaのAIチップを中国に不正転売した疑いのあるシンガポール企業Megaspeedについて、司法省が刑事捜査の主導的役割を担っていると共同声明で発表した。捜査は2024年に商務省が開始、Nvidiaの法務責任者の接触を経て司法省に移管されたとされる。",
+      "source": "South China Morning Post",
+      "link": "https://www.scmp.com/tech/tech-war/article/3374742/us-details-criminal-probe-nvidia-customer-megaspeed-over-potential-chip-diversion"
+    },
+    {
+      "title": "米、東南アジア経由の対中AIチップ迂回規制が11/19発効 台湾サーバー各社は「影響限定的」",
+      "summary": "米商務省が公表したインドネシア・マレーシア・シンガポールなど向けの先端AIチップ輸出新規制が11/19に発効した。東南アジアのデータセンターが中国企業に算力を提供する場合は事前許可が必要となる。台湾の広達・緯創は影響を受けないとしている。",
+      "source": "TechNews(科技新報)",
+      "link": "https://finance.technews.tw/2026/11/17/us-tightens-control-advanced-ai-chip-exports-orders-delayed/"
+    },
+    {
+      "title": "サムスン、Meta向けカスタムHBM4Eを開発中 2nmベースダイ採用へ",
+      "summary": "韓国メディアThe Bellによると、サムスン電子がMetaの自社開発AIチップ向けにカスタムHBM4Eメモリーを開発しており、自社ファウンドリの2nmプロセスでベースダイを生産する計画という。SK hynixはTSMCへのベースダイ外部委託を検討しているとされる。",
+      "source": "TrendForce",
+      "link": "https://www.trendforce.com/news/?p=66725"
+    },
+    {
+      "title": "東京エレクトロン・キオクシアなど半導体株が上昇、AI関連に買い戻し",
+      "summary": "11/19の東京株式市場で、東京エレクトロンが2.77%高、キオクシアHDが3.07%高となるなど、AI・半導体関連株に買い戻しが入った。アンソロピック上場への期待もAI市場への投資家の関心を改めて高めたとされる。",
+      "source": "株式市場レポート",
+      "link": "https://minkabu.jp/news/4669063"
     }
   ],
   "x_trending_tech": []
