@@ -1,91 +1,97 @@
 {
-  "run_label": "11/21 19:00",
+  "run_label": "11/22 07:00",
   "politics_economy": [
     {
-      "title": "日経平均株価、AI株急落で3007円安 アンソロピック上場「出尽くし」も要因",
-      "summary": "11/20の東京株式市場で日経平均は前日比3007円56銭安の5万6436円65銭と急反落、下落幅は年間で5番目の大きさとなった。米市場でAI・半導体株が総崩れとなった流れを受け、アンソロピックのナスダック上場という目先の材料が出尽くしたとの見方や、データセンター規制への警戒も背景にあるとされる。",
+      "title": "自民・鈴木幹事長、関文科相の進退は法案成立最優先で判断する考え",
+      "summary": "自民党の鈴木俊一幹事長は11/21、政治資金パーティーへの政府職員出席問題で批判を受ける関芳弘文科相の進退について、消費税減税関連法案と衆院定数31削減法案の今国会中の成立を最優先に考えて判断すべきだとの見解を示した。辞任は明言しなかった。",
       "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026112000735&g=eco"
+      "link": "https://www.jiji.com/jc/article?k=2026112100332&g=pol"
     },
     {
-      "title": "政府、米中ロ接近に危機感 史上初の首脳会談後、安保秩序の維持へ働きかけ",
-      "summary": "11/19に中国・深センで行われた史上初の米中ロ首脳会談で核リスク低減を盛り込む「平和宣言」が発表された後、日本政府は3カ国の接近に危機感を強め、トランプ政権に安全保障秩序を損なわないよう働きかける構えを見せている。高市首相は会談後、日本の利益は損なわれないと説明したという。",
-      "source": "共同通信(熊本日日新聞)",
-      "link": "https://kumanichi.com/articles/2057833"
+      "title": "国民民主・玉木代表、関文科相は「問責決議に値する」",
+      "summary": "政治資金パーティーに政府職員が繰り返し出席していた問題をめぐり、国民民主党の玉木雄一郎代表は関文科相について「問責決議に値する」との認識を示し、自発的な辞任を促した。野党側は問責決議案の提出も視野に入れているとみられる。",
+      "source": "時事通信",
+      "link": "https://www.jiji.com/jc/article?k=2026112200094&g=pol"
     },
     {
-      "title": "ソフトバンクG孫正義氏「AI投資は続ける」 7680億円の最終赤字計上後も強気崩さず",
-      "summary": "ソフトバンクグループは11/10発表の2026年4〜9月期決算で、米国でのAIデータセンター事業の損失などから最終損益7680億円の赤字となった。孫正義社長は18日の講演で、AI投資への懸念が世界的に広がる中でも成長が見込めるとして投資継続の考えを示した。",
-      "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261118de78044"
+      "title": "公明、消費減税法案に修正案 政府が拒否すれば「反対」",
+      "summary": "公明党は飲食料品の消費税率を1%に引き下げる関連法案について独自の修正案をまとめ、政府がこれを拒否した場合は法案に反対する方針であることを西田幹事長が11/20に明らかにした。参院での法案成立の鍵を握る構図が続く。",
+      "source": "時事通信",
+      "link": "https://www.jiji.com/jc/article?k=2026112001105&g=pol"
     },
     {
-      "title": "消費税減税法案、参院審議続く 公明・国民民主の賛否が成立の鍵",
-      "summary": "飲食料品の消費税率を1%に引き下げる関連法案は衆院を通過し参院で審議中。与党は参院で過半数に届かず、公明党・国民民主党の賛同取り付けが焦点となっている。政府・与党は12月12日の会期末までの成立を目指す。",
-      "source": "東京新聞",
-      "link": "https://www.tokyo-np.co.jp/article/526554"
+      "title": "高市首相、ペルー・フジモリ大統領と初会談 重要鉱物で連携",
+      "summary": "高市首相は11/20、ペルーのフジモリ大統領と初めて会談し、重要鉱物の安定供給に向けた両国の連携強化で一致した。",
+      "source": "時事通信",
+      "link": "https://www.jiji.com/jc/article?k=2026112000964&g=pol"
     },
     {
-      "title": "衆院定数31削減法案、審議入りへ攻防続く 与党は今国会での成立目指す",
-      "summary": "自民・日本維新の会・国民民主の3党が共同提出した衆院比例代表定数31削減法案をめぐり、与野党の攻防が続いている。野党各党は定数削減に根拠がないと批判しており、与党は今国会中の法案成立を目指している。",
-      "source": "共同通信(熊本日日新聞)",
-      "link": "https://kumanichi.com/articles/2057807"
+      "title": "米中首脳、AI「共通の安全策」で合意とトランプ氏 軍事利用は人間が判断",
+      "summary": "トランプ米大統領は11/20の記者会見で、19日の習近平国家主席との会談でAIに関する「共通の安全策」を設けることに合意したと明らかにした。軍事上の重大判断には常に人間が関与すべきだとの認識で両首脳が一致したとされる。",
+      "source": "時事通信",
+      "link": "https://www.jiji.com/jc/article?k=2026112100136&g=int"
     }
   ],
   "tech": [
     {
-      "title": "アンソロピックIPO後、「安全性優先」の企業姿勢が試されるとの指摘",
-      "summary": "AI企業アンソロピックが史上最大規模のIPOを経てナスダック上場を果たした後、同社が掲げてきた安全性最優先の企業姿勢を、公開企業としての商業的圧力の中で今後も維持できるのか、専門家らが疑問を投げかけている。",
-      "source": "NPR",
-      "link": "https://www.npr.org/2026/11/21/nx-s1-6048678/anthropic-ipo-mission-ai-safety"
+      "title": "アンソロピック株、上場2日目に8.5%安 IPO上昇分ほぼ消失",
+      "summary": "アンソロピック株は11/20、上場2日目の取引で前日比8.5%安の88.91ドルで終了し、時価総額は約1.6兆ドルとなった。世界的なAIトレードの巻き戻しが広がる中、ナスダック100は一時ベアマーケット入りが懸念される水準まで下落した。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-20/anthropic-share-slump-nearly-erases-ipo-pop-as-ai-trade-unravels"
     },
     {
-      "title": "アップル、独自のAIエージェントを開発中 アプリ操作やコード記述が可能に",
-      "summary": "アップルが、アプリの操作やウェブ閲覧、コード記述までこなす「汎用コンピュータ操作エージェント」を独自開発していることが、11/17付のエンジニア職の求人情報などから明らかになった。Siriのエージェント化は2027年にも実現するとの観測もある。",
-      "source": "MacRumors",
-      "link": "https://macrumors.com/2026/11/19/apple-ai-agent-development"
+      "title": "アジアの半導体株も連れ安 アンソロピック上場後もAI不安消えず",
+      "summary": "アンソロピックの上場後もAI市場への不安は解消されず、11/20はアジアの半導体関連株にも売りが波及した。世界的なAIトレードの巻き戻しが続いているとみられる。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-20/asian-chip-stocks-slide-as-anthropic-ipo-fails-to-dispel-ai-woes"
     },
     {
-      "title": "Google Gemini、Mac上でバックグラウンドの複数手順タスク自動実行に対応",
-      "summary": "GoogleがMac版Geminiアプリを拡張し、ファイルやアプリ、ウェブサイトを使う複数手順の作業をバックグラウンドで自律的に実行できる「コンピュータ操作」機能を追加した。米国のGoogle AI Plus/Pro/Ultra加入者が利用でき、Apple Silicon搭載Macが必要。",
-      "source": "MacRumors",
-      "link": "https://macrumors.com/2026/11/19/google-gemini-mac-app-control"
+      "title": "AI株急落で質への逃避、米国債に資金流入 利上げ観測も後退",
+      "summary": "AI関連株の急落を受け、投資家が安全資産とされる米国債に資金を移しており、トレーダーは利上げ観測を後退させているとBloombergが報じた。",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-20/treasuries-eye-longest-rally-in-five-months-on-haven-demand"
     },
     {
-      "title": "200万件の「おとり」認証情報で判明、AIルーター経由の機密情報漏洩",
-      "summary": "セキュリティ研究者が2026年7月から11月にかけ、OpenRouterやVercelなどのAIルーター/ゲートウェイ経由のプロンプトに約200万件の追跡可能な偽の認証情報を仕込んで検証した結果、少なくとも3社のAI事業者で情報漏洩が確認された。あるURLは中国企業の社内チャットに24日後に出現したという。",
-      "source": "Dragos(HD Moore氏の調査)",
-      "link": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens"
+      "title": "AI半導体90万個、対中輸出承認 米政権がエヌビディア製など―下院委",
+      "summary": "米下院外交委員会は、トランプ政権が2025年12月から2026年5月にかけてエヌビディア製などのAI半導体約90万個の対中輸出を承認していたとする記録を公表した。",
+      "source": "時事通信",
+      "link": "https://www.jiji.com/jc/article?k=2026112000300&g=int"
     },
     {
-      "title": "NAND・DRAM、2026年第4四半期も契約価格15〜20%上昇の見通し",
-      "summary": "調査会社TrendForceによると、AIサーバー向け需要の拡大を受け、2026年第4四半期のNANDフラッシュ契約価格は前期比15〜20%上昇する見通し。一般向けDRAMも10〜15%上昇するとみられ、サーバー向け高性能品への生産配分優先が続き供給不足が解消しない状況が背景にある。",
-      "source": "TrendForce",
-      "link": "https://www.guru3d.com/story/dram-and-nand-contract-prices-forecast-to-rise-as-much-as-in-q4-2026/"
+      "title": "バイトダンス・アリババ、東南アジア向けAI半導体110万個の輸出許可を申請していたと判明",
+      "summary": "下院外交委員会が公開した輸出許可記録により、バイトダンスとアリババがマレーシア・インドネシア・タイのデータセンター向けに合計110万個のエヌビディア製AI半導体の輸出許可を申請していたことが判明した。承認された申請はなかったという。",
+      "source": "DigiTimes",
+      "link": "https://digitimes.com/news/a20261120VL205/ai-chip-alibaba-bytedance-nvidia-usa-china.html"
     },
     {
-      "title": "Nvidia顧客Megaspeed、米司法省が刑事捜査を主導と米当局が確認",
-      "summary": "米商務省と司法省は11/16、NvidiaのAIチップを中国に不正転売した疑いのあるシンガポール企業Megaspeedについて、司法省が刑事捜査の主導的役割を担っていると共同声明で発表した。捜査は2024年に商務省が開始、Nvidiaの法務責任者の接触を経て司法省に移管されたとされる。",
+      "title": "エヌビディア、輸出許可データ公開で一段と打撃との分析",
+      "summary": "米下院による輸出許可データの公開を受け、エヌビディアがさらなる打撃を受けているとアナリストが分析している。中国企業の需要がAMD製品に流れる可能性も指摘されている。",
       "source": "South China Morning Post",
-      "link": "https://www.scmp.com/tech/tech-war/article/3374742/us-details-criminal-probe-nvidia-customer-megaspeed-over-potential-chip-diversion"
+      "link": "https://www.scmp.com/tech/big-tech/article/3375287/nvidia-faces-further-blow-after-shock-us-export-permit-data-release-analysts"
     },
     {
-      "title": "米、東南アジア経由の対中AIチップ迂回規制が11/19発効 台湾サーバー各社は「影響限定的」",
-      "summary": "米商務省が公表したインドネシア・マレーシア・シンガポールなど向けの先端AIチップ輸出新規制が11/19に発効した。東南アジアのデータセンターが中国企業に算力を提供する場合は事前許可が必要となる。台湾の広達・緯創は影響を受けないとしている。",
-      "source": "TechNews(科技新報)",
-      "link": "https://finance.technews.tw/2026/11/17/us-tightens-control-advanced-ai-chip-exports-orders-delayed/"
+      "title": "フアン前CEO退任、エヌビディアの年次チップ刷新ペースと台湾サプライヤー戦略に試練",
+      "summary": "ジェンセン・フアン氏がエヌビディアCEOを退任したことで、同社の年次チップ刷新サイクルや台湾サプライチェーン各社の顧客構成に不確実性が生じているとDigiTimesが報じた。AIハードウェア更新需要の減速への懸念も出ている。",
+      "source": "DigiTimes",
+      "link": "https://digitimes.com/news/a20261120PD225/nvidia-ai-chip-taiwan-jensen-huang-rubin.html"
     },
     {
-      "title": "サムスン、Meta向けカスタムHBM4Eを開発中 2nmベースダイ採用へ",
-      "summary": "韓国メディアThe Bellによると、サムスン電子がMetaの自社開発AIチップ向けにカスタムHBM4Eメモリーを開発しており、自社ファウンドリの2nmプロセスでベースダイを生産する計画という。SK hynixはTSMCへのベースダイ外部委託を検討しているとされる。",
-      "source": "TrendForce",
-      "link": "https://www.trendforce.com/news/?p=66725"
+      "title": "習近平氏、東南アジア首脳にAI協力の深化を要請",
+      "summary": "習近平国家主席は11/20、東南アジア諸国の首脳との会談でAI分野での協力深化を呼びかけた。米国がAI・半導体・重要鉱物のサプライチェーン確保を各国に働きかける中、中国側も陣営固めを強めている。",
+      "source": "South China Morning Post",
+      "link": "https://scmp.com/news/china/diplomacy/article/3375196/xi-urges-china-singapore-innovation-partnership-talks-pm-lawrence-wong"
     },
     {
-      "title": "東京エレクトロン・キオクシアなど半導体株が上昇、AI関連に買い戻し",
-      "summary": "11/19の東京株式市場で、東京エレクトロンが2.77%高、キオクシアHDが3.07%高となるなど、AI・半導体関連株に買い戻しが入った。アンソロピック上場への期待もAI市場への投資家の関心を改めて高めたとされる。",
-      "source": "株式市場レポート",
-      "link": "https://minkabu.jp/news/4669063"
+      "title": "TSMC・サムスン、対中新輸出規制受け一部顧客への出荷を一時停止",
+      "summary": "米商務省が中国設計の先端チップを「規制対象AIチップ」とみなす新規則を受け、TSMCとサムスン電子は小米・OPPO・vivoやバイドゥ系データセンターなど中国の一部顧客への出荷を一時停止し、輸出許可を申請していると報じられた。",
+      "source": "Taipei Times",
+      "link": "https://www.taipeitimes.com/News/biz/archives/2026/11/20/2003868041"
+    },
+    {
+      "title": "Intel、18A-Pプロセスで外部顧客を初確保 TSMCとの技術差は数%に",
+      "summary": "Intelは次世代18A-Pプロセスで外部顧客を初めて確保したと報じられた。同社CTOはTSMCとの製造プロセス面での差は数パーセント程度まで縮まったと述べたが、量産規模での追いつきにはなお時間が必要とした。",
+      "source": "DigiTimes",
+      "link": "https://digitimes.com/news/a20261119VL222/intel-manufacturing-business-technology-design.html"
     }
   ],
   "x_trending_tech": []
