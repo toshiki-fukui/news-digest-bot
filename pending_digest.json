@@ -1,97 +1,91 @@
 {
-  "run_label": "11/22 07:00",
+  "run_label": "11/22 19:00",
   "politics_economy": [
     {
-      "title": "自民・鈴木幹事長、関文科相の進退は法案成立最優先で判断する考え",
-      "summary": "自民党の鈴木俊一幹事長は11/21、政治資金パーティーへの政府職員出席問題で批判を受ける関芳弘文科相の進退について、消費税減税関連法案と衆院定数31削減法案の今国会中の成立を最優先に考えて判断すべきだとの見解を示した。辞任は明言しなかった。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026112100332&g=pol"
+      "title": "関文科相の辞任論、与党内で拡大",
+      "summary": "議員会館での政治資金パーティー問題を受け、関芳弘文部科学相への辞任要求が与党内でも広がっていると11/22朝に報じられた。野党は参院での問責決議案提出も検討している。",
+      "source": "Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/pickup/6603489"
     },
     {
-      "title": "国民民主・玉木代表、関文科相は「問責決議に値する」",
-      "summary": "政治資金パーティーに政府職員が繰り返し出席していた問題をめぐり、国民民主党の玉木雄一郎代表は関文科相について「問責決議に値する」との認識を示し、自発的な辞任を促した。野党側は問責決議案の提出も視野に入れているとみられる。",
+      "title": "COP31、電化率35%目標は維持も脱化石燃料の文言見送りへ",
+      "summary": "トルコ・アンタルヤ開催のCOP31で、2035年までに電力が最終エネルギー消費の35%を占める目標について、脱化石燃料の文言は盛り込まない一方、電化率35%の目標自体は維持する方向となった。11/22中の採択を目指す。",
       "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026112200094&g=pol"
+      "link": "https://jiji.com/jc/article?g=soc&k=2026112200245"
     },
     {
-      "title": "公明、消費減税法案に修正案 政府が拒否すれば「反対」",
-      "summary": "公明党は飲食料品の消費税率を1%に引き下げる関連法案について独自の修正案をまとめ、政府がこれを拒否した場合は法案に反対する方針であることを西田幹事長が11/20に明らかにした。参院での法案成立の鍵を握る構図が続く。",
+      "title": "韓国教育相、大学入試不正防止policy巡る混乱で辞任",
+      "summary": "韓国の教育相が、大学入試の不正防止を巡る混乱の責任を取り11/22に辞任したと時事通信が報じた。",
       "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026112001105&g=pol"
+      "link": "https://jiji.com/jc/article?g=int&k=2026112200232"
     },
     {
-      "title": "高市首相、ペルー・フジモリ大統領と初会談 重要鉱物で連携",
-      "summary": "高市首相は11/20、ペルーのフジモリ大統領と初めて会談し、重要鉱物の安定供給に向けた両国の連携強化で一致した。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026112000964&g=pol"
+      "title": "氷河期世代、正社員率は改善も世代間格差は残る",
+      "summary": "就職氷河期世代の正社員率は年齢とともに改善し40代ではバブル世代に近づいているとの分析が11/22朝に紹介された一方、後から正社員になった人の年収は低いままで格差は残っているという。",
+      "source": "Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/pickup/6603504"
     },
     {
-      "title": "米中首脳、AI「共通の安全策」で合意とトランプ氏 軍事利用は人間が判断",
-      "summary": "トランプ米大統領は11/20の記者会見で、19日の習近平国家主席との会談でAIに関する「共通の安全策」を設けることに合意したと明らかにした。軍事上の重大判断には常に人間が関与すべきだとの認識で両首脳が一致したとされる。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026112100136&g=int"
+      "title": "地方銀行再編、各地でくすぶる火種",
+      "summary": "地方銀行の数はこの35年で約3割減り、有力地銀による「強者連合」化が各地で進む一方、資金需要の乏しさや不良債権処理など再編の火種も残っていると11/22朝に報じられた。",
+      "source": "Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/pickup/6603509"
     }
   ],
   "tech": [
     {
-      "title": "アンソロピック株、上場2日目に8.5%安 IPO上昇分ほぼ消失",
-      "summary": "アンソロピック株は11/20、上場2日目の取引で前日比8.5%安の88.91ドルで終了し、時価総額は約1.6兆ドルとなった。世界的なAIトレードの巻き戻しが広がる中、ナスダック100は一時ベアマーケット入りが懸念される水準まで下落した。",
+      "title": "国連関連協議、AI自律型兵器の規制を2028年目標に先送り",
+      "summary": "ジュネーブでの国連関連協議で128カ国がAI自律型兵器(通称「キラーロボット」)の規則を2028年までに検討することで合意したが、法的拘束力のある規制には至らなかった。11/21報道。",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/11/21/countries-agree-to-un-talks-aiming-to-regulate-killer-robots-by-2028.html"
+    },
+    {
+      "title": "AI関連株急落、ナスダックは年初来最悪の週に アンソロピック株も続落",
+      "summary": "11/20にナスダック総合指数が約5.3%急落し、新規上場したアンソロピック株(ANT)も続落した。AI投資の過熱懸念が背景。",
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/11/21/nx-s1-6048729/ai-stock-markets-anthropic-nvidia"
+    },
+    {
+      "title": "サム・アルトマン氏「今後4年のAIは過去4年と同じにはいかない」",
+      "summary": "OpenAIのサム・アルトマンCEOが、AI業界の今後4年は過去4年とは異なる展開になると述べ、エヌビディアへの依存度についても言及した。11/20報道。",
+      "source": "Forbes",
+      "link": "https://www.forbes.com/sites/rachelwells/2026/11/20/sam-altman-warns-the-next-4-years-of-ai-cant-look-like-last-4/"
+    },
+    {
+      "title": "DeepMindハサビスCEO、SemiAnalysisのGemini 4ベンチマーク撤回に反応",
+      "summary": "SemiAnalysisがGemini 4に関するベンチマーク記事を撤回したことを受け、Google DeepMindのデミス・ハサビスCEOが軽妙にコメントしたと11/20に報じられた。",
+      "source": "NewsBytes",
+      "link": "https://www.newsbytesapp.com/news/science/demis-hassabis-responds-lightheartedly-to-semianalysis-apology-over-gemini-4/tldr"
+    },
+    {
+      "title": "AIコーディング企業Cognition、750億ドル評価での資金調達を協議中",
+      "summary": "AIコーディングスタートアップのCognitionが、750億ドルの企業価値での新たな資金調達に向け交渉しているとBloombergが11/20に報じた。",
       "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-20/anthropic-share-slump-nearly-erases-ipo-pop-as-ai-trade-unravels"
+      "link": "https://thenextweb.com/news/cognition-funding-75bn-valuation-bloomberg-devin"
     },
     {
-      "title": "アジアの半導体株も連れ安 アンソロピック上場後もAI不安消えず",
-      "summary": "アンソロピックの上場後もAI市場への不安は解消されず、11/20はアジアの半導体関連株にも売りが波及した。世界的なAIトレードの巻き戻しが続いているとみられる。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-20/asian-chip-stocks-slide-as-anthropic-ipo-fails-to-dispel-ai-woes"
+      "title": "Amazon、AIスタートアップDecartを約75億ドルで買収交渉中",
+      "summary": "AmazonがAIスタートアップのDecartを約75億ドルで買収する交渉を進めていると、Financial Times発で11/20前後に報じられた。",
+      "source": "Financial Times",
+      "link": "https://www.tradingview.com/news/seekingalpha:71b3d28ff094b:0-amazon-nearing-7-5b-deal-to-buy-ai-start-up-decart-ft/"
     },
     {
-      "title": "AI株急落で質への逃避、米国債に資金流入 利上げ観測も後退",
-      "summary": "AI関連株の急落を受け、投資家が安全資産とされる米国債に資金を移しており、トレーダーは利上げ観測を後退させているとBloombergが報じた。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-20/treasuries-eye-longest-rally-in-five-months-on-haven-demand"
+      "title": "Thinking Machines Lab、260億パラメータのオープンウェイトモデル「Inkling 2 Mini」公開",
+      "summary": "Mira Murati氏が率いるThinking Machines Labが、260億パラメータの新しいオープンウェイトAIモデル「Inkling 2 Mini」を11/20に公開した。",
+      "source": "Thinking Machines Lab",
+      "link": "https://thinkingmachines.ai/news/inkling-2-mini/"
     },
     {
-      "title": "AI半導体90万個、対中輸出承認 米政権がエヌビディア製など―下院委",
-      "summary": "米下院外交委員会は、トランプ政権が2025年12月から2026年5月にかけてエヌビディア製などのAI半導体約90万個の対中輸出を承認していたとする記録を公表した。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026112000300&g=int"
+      "title": "NIO、自動運転向け新世界モデル「NWM 3.0」を11/25発表予定",
+      "summary": "中国の新興EVメーカーNIOが、自動運転向けの新しい世界モデル「NWM 3.0」を11/25のNIO Dayイベントで発表する予定であることが明らかになった。",
+      "source": "KuCoin News",
+      "link": "https://www.kucoin.com/news/flash/nio-to-launch-nwm-3-0-world-model-at-nio-in-2026-on-november-25"
     },
     {
-      "title": "バイトダンス・アリババ、東南アジア向けAI半導体110万個の輸出許可を申請していたと判明",
-      "summary": "下院外交委員会が公開した輸出許可記録により、バイトダンスとアリババがマレーシア・インドネシア・タイのデータセンター向けに合計110万個のエヌビディア製AI半導体の輸出許可を申請していたことが判明した。承認された申請はなかったという。",
-      "source": "DigiTimes",
-      "link": "https://digitimes.com/news/a20261120VL205/ai-chip-alibaba-bytedance-nvidia-usa-china.html"
-    },
-    {
-      "title": "エヌビディア、輸出許可データ公開で一段と打撃との分析",
-      "summary": "米下院による輸出許可データの公開を受け、エヌビディアがさらなる打撃を受けているとアナリストが分析している。中国企業の需要がAMD製品に流れる可能性も指摘されている。",
-      "source": "South China Morning Post",
-      "link": "https://www.scmp.com/tech/big-tech/article/3375287/nvidia-faces-further-blow-after-shock-us-export-permit-data-release-analysts"
-    },
-    {
-      "title": "フアン前CEO退任、エヌビディアの年次チップ刷新ペースと台湾サプライヤー戦略に試練",
-      "summary": "ジェンセン・フアン氏がエヌビディアCEOを退任したことで、同社の年次チップ刷新サイクルや台湾サプライチェーン各社の顧客構成に不確実性が生じているとDigiTimesが報じた。AIハードウェア更新需要の減速への懸念も出ている。",
-      "source": "DigiTimes",
-      "link": "https://digitimes.com/news/a20261120PD225/nvidia-ai-chip-taiwan-jensen-huang-rubin.html"
-    },
-    {
-      "title": "習近平氏、東南アジア首脳にAI協力の深化を要請",
-      "summary": "習近平国家主席は11/20、東南アジア諸国の首脳との会談でAI分野での協力深化を呼びかけた。米国がAI・半導体・重要鉱物のサプライチェーン確保を各国に働きかける中、中国側も陣営固めを強めている。",
-      "source": "South China Morning Post",
-      "link": "https://scmp.com/news/china/diplomacy/article/3375196/xi-urges-china-singapore-innovation-partnership-talks-pm-lawrence-wong"
-    },
-    {
-      "title": "TSMC・サムスン、対中新輸出規制受け一部顧客への出荷を一時停止",
-      "summary": "米商務省が中国設計の先端チップを「規制対象AIチップ」とみなす新規則を受け、TSMCとサムスン電子は小米・OPPO・vivoやバイドゥ系データセンターなど中国の一部顧客への出荷を一時停止し、輸出許可を申請していると報じられた。",
-      "source": "Taipei Times",
-      "link": "https://www.taipeitimes.com/News/biz/archives/2026/11/20/2003868041"
-    },
-    {
-      "title": "Intel、18A-Pプロセスで外部顧客を初確保 TSMCとの技術差は数%に",
-      "summary": "Intelは次世代18A-Pプロセスで外部顧客を初めて確保したと報じられた。同社CTOはTSMCとの製造プロセス面での差は数パーセント程度まで縮まったと述べたが、量産規模での追いつきにはなお時間が必要とした。",
-      "source": "DigiTimes",
-      "link": "https://digitimes.com/news/a20261119VL222/intel-manufacturing-business-technology-design.html"
+      "title": "アンソロピックCEOアモデイ氏、投資適格の信用格付け取得と債務調達に言及",
+      "summary": "アンソロピックのダリオ・アモデイCEOが、将来的に投資適格の信用格付けを取得し、債務による資金調達を活用したい考えを示したと11/19に報じられた。",
+      "source": "CNBC",
+      "link": "https://finance.yahoo.com/technology/ai/articles/dario-amodei-says-anthropic-hopes-165532012.html"
     }
   ],
   "x_trending_tech": []
