@@ -1,55 +1,97 @@
 {
-  "run_label": "11/23 19:00",
+  "run_label": "11/24 07:00",
   "politics_economy": [
     {
-      "title": "MUFG傘下5社で情報漏えい相次ぐ 計約800万件、プレイド社経由で不正アクセス",
-      "summary": "三菱UFJ銀行は11/18、業務委託先プレイド社のサービス「KARTE」が不正アクセスを受け、約650万件の顧客情報(性別・年齢・居住地域)が漏えいした可能性があると発表。グループ全体では三菱UFJ信託銀行やウェルスナビなど5社で計約800万件に上る。氏名・住所・連絡先は含まれず、現時点で不正利用は確認されていないとしている。",
-      "source": "熊本日日新聞(共同通信)",
-      "link": "https://kumanichi.com/articles/2059277"
+      "title": "野党、関文科相の問責決議案提出を協議へ 辞任要求強まる",
+      "summary": "政治資金パーティー問題を受け、野党は24日にも参院への問責決議案提出を視野に協議する方針。木原官房長官は23日、関氏本人の説明が重要と述べるにとどめ、高市首相は情勢を見極めて進退を判断する構え(11/24未明の報道)。",
+      "source": "NHK",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261123de80283"
     },
     {
-      "title": "枝野氏、立憲民主党への復党を希望 「結党の原点に立ち返りたい」",
-      "summary": "立憲民主党を離党した枝野幸男元代表は、立民との再結集や復党を望む考えを改めて示した。統一地方選や参院選を見据え、2017年の旧立民結党時の原点に立ち返る活動をしたいと語ったと11/22報じられた。",
-      "source": "東京新聞",
-      "link": "https://www.tokyo-np.co.jp/article/530011"
+      "title": "日経平均が「弱気相場」入り、AI・半導体株急落",
+      "summary": "米アンソロピックの新規株式公開(IPO)が期待外れと受け止められAI・半導体関連株が急落、NYダウも大幅安となった流れを受け、日経平均は週間で大幅続落し年初来安値を更新する銘柄が続出。ソフトバンクグループも年初来安値を更新した(11/23時点の市況まとめ)。",
+      "source": "財経新聞",
+      "link": "https://zaikei.co.jp/article/20261124/878810.html"
+    },
+    {
+      "title": "金融庁、有価証券報告書の「確認書」制度見直しへ",
+      "summary": "相次ぐ会計不正を受け、金融庁は経営者がより責任を持って有価証券報告書を確認するよう制度を見直す方針。2027年春にも内閣府令改正を目指す(11/24未明の報道)。",
+      "source": "NHK",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261123de80289"
+    },
+    {
+      "title": "東京電力、資本提携後も国が重要事項に拒否権保持へ",
+      "summary": "経営再建に向け資本提携交渉を進める東京電力ホールディングスは、ソフトバンクグループなど複数陣営との交渉で、電力の安定供給など重要事項の意思決定について提携後も国が事実上の拒否権を持ち続ける方針を提示した(11/21の報道)。",
+      "source": "NHK",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261121de79559"
+    },
+    {
+      "title": "10月の訪日客、単月過去最多の391万人 中国は11カ月連続減",
+      "summary": "日本政府観光局によると10月の訪日外国人数は前年同月比0.4%増の391万2500人で単月の過去最多を更新。一方中国からは47.0%減と11カ月連続の前年割れで、日中関係悪化の影響が続いている(11/18発表)。",
+      "source": "共同通信(熊本日日新聞経由)",
+      "link": "https://kumanichi.com/articles/2059240"
     }
   ],
   "tech": [
     {
-      "title": "Nvidia、2027会計年度第3四半期決算を発表 データセンター売上高が前年比110%増",
-      "summary": "Nvidiaは11/17(現地)に決算発表。データセンター部門売上高は1076億ドルで前年同期比110%増、新製品Rubinの出荷が寄与。第4四半期見通しは1300億ドル(上下3%)。ファン氏退任後初の決算。",
-      "source": "Reuters系報道/StockTitan",
-      "link": "https://www.stocktitan.net/articles/nvidia-q3-fiscal-2027-earnings-revenue-outlook"
+      "title": "Meta AI責任者アレクサンダー・ワン氏、「超知能への社会の明け渡し」に警鐘",
+      "summary": "Meta最高AI責任者のアレクサンダー・ワン氏がXへの投稿で、来年のAI開発の行方が「超知能」が社会に与える影響を左右すると主張し、拙速な「明け渡し」に警鐘を鳴らした(11/23報道)。",
+      "source": "Daily Caller",
+      "link": "https://dailycaller.com/2026/11/23/alexandr-wang-meta-superintelligence-handover-ai/"
     },
     {
-      "title": "MicrosoftのCopilot「Claudeより安い」主張にAnthropicが反論",
-      "summary": "Microsoftは11月中旬のIgniteで委託調査(GigaOm)を基に「Copilotの方が安価」と主張(月額30ドル対205ドル等)したが、Anthropicは試算が実際より約3倍高いと反論。",
-      "source": "TheNextWeb",
-      "link": "https://thenextweb.com/news/microsoft-copilot-cheaper-than-claude-chatgpt-ignite"
+      "title": "中国Moore Threads、次期ゲーミングGPU「Lushan」を12月29日発表へ",
+      "summary": "中国GPUメーカーMoore Threadsが12月29日に新型ゲーミングGPU「Lushan」を発表予定と関係者が明らかに。市販品最大級となるビデオメモリー64GBを搭載し、RTX 5090の2倍に達するとされる(11/23報道)。",
+      "source": "KEN TECH TIMES",
+      "link": "https://kentechtimes.com/articles/2026-11-23-moore-threads-lushan-gpu-64gb-vram-december-29/"
     },
     {
-      "title": "Microsoft CEOナデラ氏、6万人への退職勧奨とAIの関係を明言避ける",
-      "summary": "ナデラCEOは11/19までに報じられたインタビューで、約6万人への自主退職プログラムがAI起因の人員削減かと問われ明確な否定をせず、「AIに適応できないチームの社員は自分の足で決めてほしい」と発言。",
-      "source": "Windows Latest",
-      "link": "https://www.windowslatest.com/2026/11/19/asked-if-60000-exit-offers-mean-ai-layoffs-at-microsoft-satya-nadella-said-i-wish-i-could-just-sit-here-and-say-itll-all-be-the-same-i-cannot/"
+      "title": "Google検索のAI化による収益化不振、Appleの収益にも影響",
+      "summary": "GoogleのAI検索移行に伴う広告収益の伸び悩みが、検索契約を通じてApple側の収益にも波及。Appleのサービス部門の成長率が前年比12%から10%に鈍化したと報じられた(11/22報道)。",
+      "source": "AppleInsider",
+      "link": "https://appleinsider.com/articles/26/11/22/googles-ai-search-monetization-failure-is-costing-apple-revenue"
     },
     {
-      "title": "AidaChip、AIネイティブの半導体設計基盤を発表",
-      "summary": "半導体設計スタートアップAidaChipが11/20、設計の意図・知識ベース・実行環境を連携させるAIネイティブ開発プラットフォームを発表。2027年1月の商用提供を予定。",
-      "source": "Electronics Weekly",
-      "link": "https://www.electronicsweekly.com/news/ai-native-chip-development-platform-connects-intent-knowledge-and-execution-2026-11/"
+      "title": "Intel、18Aプロセスで初の外部顧客獲得をCEOが発表",
+      "summary": "IntelのCEOリップブー・タン氏が、18A-Pプロセスノードで外部顧客第1号を獲得したと発表(顧客名・金額は非公表)。同日、MicrosoftがAzure向け独自半導体でIntelの先端パッケージング技術「EMIB」採用の初顧客であることも判明した。",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/intel-secures-first-external-customer-for-18a-p-process-node/"
     },
     {
-      "title": "Akash Network、GPU先物取引市場「Akash Forwards」をSolana上で発表",
-      "summary": "分散型クラウドのAkash Networkが11/17、Solana BreakpointでGPU計算資源の先渡し契約市場を発表。B300・H200等を将来月の固定価格で予約可能、2027年Q1にパイロット開始予定。",
-      "source": "The Block/CoinGabbar",
-      "link": "https://www.coingabbar.com/en/akash-network-gpu-futures-on-solana"
+      "title": "BaiduとXiaomiのCEO、AI投資が収益を上回るペースだと警告",
+      "summary": "深センでのAPEC CEOサミットで、BaiduのロビンリーCEOとXiaomiのレイ・ジュンCEOが、AIへの巨額投資が実際の収益成長を上回っていると警告。リー氏は「高付加価値アプリの開発が最優先」と発言した。",
+      "source": "South China Morning Post",
+      "link": "https://scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns"
     },
     {
-      "title": "テスラ、テキサス州の自動運転車登録台数でWaymoを逆転",
-      "summary": "テキサス州のロボタクシー登録台数で11月にテスラがWaymoを逆転、11/18時点でテスラ1507台・Waymo1321台。TechCrunch Mobilityが11/22付で報道。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans"
+      "title": "アリババ、新フラッグシップAIモデル「Qwen4-Max」を発表",
+      "summary": "アリババが2.4兆パラメータ級の新モデルQwen4-Maxを発表。独自ベンチマークでは前モデルQwen3.8-Maxを上回る性能とトークン効率を主張する一方、第三者機関の評価では上位モデル群の中では中位という結果も出ている。",
+      "source": "Alibaba Cloud",
+      "link": "https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max"
+    },
+    {
+      "title": "OpenAI、AIエージェントが決済できる「ChatGPT Wallet」を発表",
+      "summary": "OpenAIが米国のChatGPT Pro利用者向けに「ChatGPT Wallet」を限定展開開始。エージェント「dots」がユーザーの承認のもとトークン化されたバーチャルカードで購買代行を行う仕組みで、エージェント自体はカード番号に触れない設計。",
+      "source": "OpenAI",
+      "link": "https://openai.com/index/introducing-chatgpt-wallet/"
+    },
+    {
+      "title": "Microsoft 365で大規模障害、Outlook・Teamsが世界的に停止",
+      "summary": "Microsoft 365基盤で大規模障害が発生し、Outlook・Teams・Copilot・Azureなどが数時間にわたり利用不能に。原因はネットワーク容量変更に関連するものとされ、悪意ある攻撃は否定された。",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/13/microsoft-hit-by-global-outages-what-happened-and-why"
+    },
+    {
+      "title": "ラピダス、2nm量産目標に数カ月の遅れとの報道",
+      "summary": "関係者によると、ラピダスの2028年3月の2nm量産開始目標達成が危ぶまれており、必要だったSRAMセルの動作実証が完了していないと報じられた。同社は公式には計画維持の姿勢だが、次の大型資金調達への影響も指摘されている。",
+      "source": "TrendForce",
+      "link": "https://www.trendforce.com/news/2026/11/10/news-rapidus-reportedly-months-behind-on-2nm-sram-development-march-2028-mass-production-target-at-risk/"
+    },
+    {
+      "title": "CoreWeave、AIクラウド好決算で株価反発 Oracleも連れ高",
+      "summary": "AIクラウド企業CoreWeaveの第3四半期決算は売上高36.6億ドル(前年比168%増)、受注残高は約1325億ドルに達し通期見通しを上方修正。発表後に同社株は約10%、OracleもAIクラウド不安後退で約9%上昇した。",
+      "source": "SiliconANGLE",
+      "link": "https://siliconangle.com/2026/11/10/coreweave-arrests-stock-slide-after-posting-a-strong-earnings-beat-and-raising-its-full-year-guidance/"
     }
   ],
   "x_trending_tech": []
