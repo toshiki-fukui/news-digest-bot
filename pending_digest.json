@@ -1,97 +1,31 @@
 {
-  "run_label": "11/24 07:00",
+  "run_label": "11/24 19:00",
   "politics_economy": [
     {
-      "title": "野党、関文科相の問責決議案提出を協議へ 辞任要求強まる",
-      "summary": "政治資金パーティー問題を受け、野党は24日にも参院への問責決議案提出を視野に協議する方針。木原官房長官は23日、関氏本人の説明が重要と述べるにとどめ、高市首相は情勢を見極めて進退を判断する構え(11/24未明の報道)。",
-      "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261123de80283"
+      "title": "関文科相の政治資金問題、高市首相「説明責任を果たしている」",
+      "summary": "衆院議員会館での政治資金パーティー開催問題を受け野党が問責決議案提出の方向を強める中、高市首相は24日、官邸で記者団に関芳弘文科相は説明責任を果たしていると述べ、同相を続投させる方針を示した。",
+      "source": "時事通信",
+      "link": "https://www.jiji.com/jc/article?k=2026112400895&g=pol&m=rss"
     },
     {
-      "title": "日経平均が「弱気相場」入り、AI・半導体株急落",
-      "summary": "米アンソロピックの新規株式公開(IPO)が期待外れと受け止められAI・半導体関連株が急落、NYダウも大幅安となった流れを受け、日経平均は週間で大幅続落し年初来安値を更新する銘柄が続出。ソフトバンクグループも年初来安値を更新した(11/23時点の市況まとめ)。",
-      "source": "財経新聞",
-      "link": "https://zaikei.co.jp/article/20261124/878810.html"
+      "title": "高市首相、韓国国会議長と会談 日韓協力強化に意欲",
+      "summary": "高市首相は24日、官邸で来日中の韓国国会議長と会談し、日韓協力の強化に意欲を示した。来年1月に予定される李在明大統領の来日についても「楽しみにしている」と語った。",
+      "source": "時事通信",
+      "link": "https://www.jiji.com/jc/article?k=2026112400672&g=pol&m=rss"
     },
     {
-      "title": "金融庁、有価証券報告書の「確認書」制度見直しへ",
-      "summary": "相次ぐ会計不正を受け、金融庁は経営者がより責任を持って有価証券報告書を確認するよう制度を見直す方針。2027年春にも内閣府令改正を目指す(11/24未明の報道)。",
-      "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261123de80289"
-    },
-    {
-      "title": "東京電力、資本提携後も国が重要事項に拒否権保持へ",
-      "summary": "経営再建に向け資本提携交渉を進める東京電力ホールディングスは、ソフトバンクグループなど複数陣営との交渉で、電力の安定供給など重要事項の意思決定について提携後も国が事実上の拒否権を持ち続ける方針を提示した(11/21の報道)。",
-      "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261121de79559"
-    },
-    {
-      "title": "10月の訪日客、単月過去最多の391万人 中国は11カ月連続減",
-      "summary": "日本政府観光局によると10月の訪日外国人数は前年同月比0.4%増の391万2500人で単月の過去最多を更新。一方中国からは47.0%減と11カ月連続の前年割れで、日中関係悪化の影響が続いている(11/18発表)。",
-      "source": "共同通信(熊本日日新聞経由)",
-      "link": "https://kumanichi.com/articles/2059240"
+      "title": "日経平均2207円高の大幅反発、エヌビディアCEO復帰で半導体株に買い戻し",
+      "summary": "24日の東京株式市場で日経平均株価は前週末比2207円98銭(3.91%)高の5万8644円63銭で大引け。前日の米市場でエヌビディア取締役会がフアン氏のCEO即時復職を決めたと報じられたことを受け、アドバンテストや東京エレクトロンなどAI・半導体関連株に買いが集まった。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOFL244L90U6A121C2000000/"
     }
   ],
   "tech": [
     {
-      "title": "Meta AI責任者アレクサンダー・ワン氏、「超知能への社会の明け渡し」に警鐘",
-      "summary": "Meta最高AI責任者のアレクサンダー・ワン氏がXへの投稿で、来年のAI開発の行方が「超知能」が社会に与える影響を左右すると主張し、拙速な「明け渡し」に警鐘を鳴らした(11/23報道)。",
-      "source": "Daily Caller",
-      "link": "https://dailycaller.com/2026/11/23/alexandr-wang-meta-superintelligence-handover-ai/"
-    },
-    {
-      "title": "中国Moore Threads、次期ゲーミングGPU「Lushan」を12月29日発表へ",
-      "summary": "中国GPUメーカーMoore Threadsが12月29日に新型ゲーミングGPU「Lushan」を発表予定と関係者が明らかに。市販品最大級となるビデオメモリー64GBを搭載し、RTX 5090の2倍に達するとされる(11/23報道)。",
-      "source": "KEN TECH TIMES",
-      "link": "https://kentechtimes.com/articles/2026-11-23-moore-threads-lushan-gpu-64gb-vram-december-29/"
-    },
-    {
-      "title": "Google検索のAI化による収益化不振、Appleの収益にも影響",
-      "summary": "GoogleのAI検索移行に伴う広告収益の伸び悩みが、検索契約を通じてApple側の収益にも波及。Appleのサービス部門の成長率が前年比12%から10%に鈍化したと報じられた(11/22報道)。",
-      "source": "AppleInsider",
-      "link": "https://appleinsider.com/articles/26/11/22/googles-ai-search-monetization-failure-is-costing-apple-revenue"
-    },
-    {
-      "title": "Intel、18Aプロセスで初の外部顧客獲得をCEOが発表",
-      "summary": "IntelのCEOリップブー・タン氏が、18A-Pプロセスノードで外部顧客第1号を獲得したと発表(顧客名・金額は非公表)。同日、MicrosoftがAzure向け独自半導体でIntelの先端パッケージング技術「EMIB」採用の初顧客であることも判明した。",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/intel-secures-first-external-customer-for-18a-p-process-node/"
-    },
-    {
-      "title": "BaiduとXiaomiのCEO、AI投資が収益を上回るペースだと警告",
-      "summary": "深センでのAPEC CEOサミットで、BaiduのロビンリーCEOとXiaomiのレイ・ジュンCEOが、AIへの巨額投資が実際の収益成長を上回っていると警告。リー氏は「高付加価値アプリの開発が最優先」と発言した。",
-      "source": "South China Morning Post",
-      "link": "https://scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns"
-    },
-    {
-      "title": "アリババ、新フラッグシップAIモデル「Qwen4-Max」を発表",
-      "summary": "アリババが2.4兆パラメータ級の新モデルQwen4-Maxを発表。独自ベンチマークでは前モデルQwen3.8-Maxを上回る性能とトークン効率を主張する一方、第三者機関の評価では上位モデル群の中では中位という結果も出ている。",
-      "source": "Alibaba Cloud",
-      "link": "https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max"
-    },
-    {
-      "title": "OpenAI、AIエージェントが決済できる「ChatGPT Wallet」を発表",
-      "summary": "OpenAIが米国のChatGPT Pro利用者向けに「ChatGPT Wallet」を限定展開開始。エージェント「dots」がユーザーの承認のもとトークン化されたバーチャルカードで購買代行を行う仕組みで、エージェント自体はカード番号に触れない設計。",
-      "source": "OpenAI",
-      "link": "https://openai.com/index/introducing-chatgpt-wallet/"
-    },
-    {
-      "title": "Microsoft 365で大規模障害、Outlook・Teamsが世界的に停止",
-      "summary": "Microsoft 365基盤で大規模障害が発生し、Outlook・Teams・Copilot・Azureなどが数時間にわたり利用不能に。原因はネットワーク容量変更に関連するものとされ、悪意ある攻撃は否定された。",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/13/microsoft-hit-by-global-outages-what-happened-and-why"
-    },
-    {
-      "title": "ラピダス、2nm量産目標に数カ月の遅れとの報道",
-      "summary": "関係者によると、ラピダスの2028年3月の2nm量産開始目標達成が危ぶまれており、必要だったSRAMセルの動作実証が完了していないと報じられた。同社は公式には計画維持の姿勢だが、次の大型資金調達への影響も指摘されている。",
-      "source": "TrendForce",
-      "link": "https://www.trendforce.com/news/2026/11/10/news-rapidus-reportedly-months-behind-on-2nm-sram-development-march-2028-mass-production-target-at-risk/"
-    },
-    {
-      "title": "CoreWeave、AIクラウド好決算で株価反発 Oracleも連れ高",
-      "summary": "AIクラウド企業CoreWeaveの第3四半期決算は売上高36.6億ドル(前年比168%増)、受注残高は約1325億ドルに達し通期見通しを上方修正。発表後に同社株は約10%、OracleもAIクラウド不安後退で約9%上昇した。",
-      "source": "SiliconANGLE",
-      "link": "https://siliconangle.com/2026/11/10/coreweave-arrests-stock-slide-after-posting-a-strong-earnings-beat-and-raising-its-full-year-guidance/"
+      "title": "エヌビディア取締役会、フアン氏のCEO復帰を決定 トランプ氏の後押しで一転",
+      "summary": "米エヌビディアの取締役会は23日、不倫問題などを理由に辞任していたジェンスン・フアン氏を社長兼CEO、取締役に復帰させると発表した。トランプ大統領が公然と復帰を支持していた中での決定で、政府高官からの意見も踏まえ国家安全保障上のリスクはないと判断したとされる。発表を受け同日の米株市場でエヌビディア株は急伸した。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/"
     }
   ],
   "x_trending_tech": []
