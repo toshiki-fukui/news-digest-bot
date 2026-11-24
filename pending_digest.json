@@ -1,31 +1,67 @@
 {
-  "run_label": "11/24 19:00",
+  "run_label": "11/25 07:00",
   "politics_economy": [
     {
-      "title": "関文科相の政治資金問題、高市首相「説明責任を果たしている」",
-      "summary": "衆院議員会館での政治資金パーティー開催問題を受け野党が問責決議案提出の方向を強める中、高市首相は24日、官邸で記者団に関芳弘文科相は説明責任を果たしていると述べ、同相を続投させる方針を示した。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026112400895&g=pol&m=rss"
+      "title": "衆院特委、比例31削減法案で参考人質疑 懸念相次ぐ 26日採決提案に野党反発",
+      "summary": "衆院政治改革特別委員会は24日、自民・維新・国民提出の比例代表31削減法案について参考人質疑を実施。出席者から定数削減への懸念が示され、与党側が示した26日採決の方針に野党が反発した。",
+      "source": "共同通信(琉球新報)",
+      "link": "https://ryukyushimpo.jp/kyodo/entry-5613725.html"
     },
     {
-      "title": "高市首相、韓国国会議長と会談 日韓協力強化に意欲",
-      "summary": "高市首相は24日、官邸で来日中の韓国国会議長と会談し、日韓協力の強化に意欲を示した。来年1月に予定される李在明大統領の来日についても「楽しみにしている」と語った。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026112400672&g=pol&m=rss"
-    },
-    {
-      "title": "日経平均2207円高の大幅反発、エヌビディアCEO復帰で半導体株に買い戻し",
-      "summary": "24日の東京株式市場で日経平均株価は前週末比2207円98銭(3.91%)高の5万8644円63銭で大引け。前日の米市場でエヌビディア取締役会がフアン氏のCEO即時復職を決めたと報じられたことを受け、アドバンテストや東京エレクトロンなどAI・半導体関連株に買いが集まった。",
+      "title": "高市首相、関文科相「説明責任を果たしている」 問責決議案提出は各党の判断と言及",
+      "summary": "高市早苗首相は24日、政治資金パーティー問題を抱える関芳弘文部科学相について「説明責任を果たしている」との認識を示し、問責決議案提出の是非は各党・会派の判断に委ねるとした。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOFL244L90U6A121C2000000/"
+      "link": "https://www.nikkei.com/article/DGXZQOUA248D00U6A121C2000000/"
+    },
+    {
+      "title": "EUのEV優遇策、日本を除外 議長国の修正案も維持",
+      "summary": "EUが検討する電気自動車(EV)の優遇措置について、日本メーカーが対象から除外される方針が議長国の修正案でも維持されていることが24日分かった。",
+      "source": "共同通信(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/8f9a5c76e975eb3748ef38bb973ec40ad0087a0d"
+    },
+    {
+      "title": "東京都の中古マンション価格、10月は2カ月ぶり下落",
+      "summary": "東京都内の中古マンション価格は10月に2カ月ぶりに下落したと24日、民間調査会社が発表した。",
+      "source": "共同通信(熊本日日新聞)",
+      "link": "https://kumanichi.com/articles/2061186"
+    },
+    {
+      "title": "NY株式市場、続伸して取引開始",
+      "summary": "24日のニューヨーク株式市場は前日に続き上昇して始まった。米株高と原油安が投資家心理を支えたとみられる。",
+      "source": "共同通信(Yahoo!ニュース)",
+      "link": "https://news.yahoo.co.jp/articles/a13eb2fff9b7860eb0cf6c0e7fb4ed495faf6c97"
     }
   ],
   "tech": [
     {
-      "title": "エヌビディア取締役会、フアン氏のCEO復帰を決定 トランプ氏の後押しで一転",
-      "summary": "米エヌビディアの取締役会は23日、不倫問題などを理由に辞任していたジェンスン・フアン氏を社長兼CEO、取締役に復帰させると発表した。トランプ大統領が公然と復帰を支持していた中での決定で、政府高官からの意見も踏まえ国家安全保障上のリスクはないと判断したとされる。発表を受け同日の米株市場でエヌビディア株は急伸した。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/"
+      "title": "Amazon、AIチップ稼働率を高めるDecartの最適化技術を獲得",
+      "summary": "Amazonは23日、Nvidia・Google TPU・自社Trainiumチップを問わずAIモデルの実行を効率化する新興企業Decartの最適化技術を取得すると発表した。",
+      "source": "The Register",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/23/amazon-scoops-up-ai-accelerator-tech-to-keep-chips-busy-at-all-times/5311754"
+    },
+    {
+      "title": "TSMC、AnthropicとOpenAIへ計最大10億ドル出資 Anthropic株取得が完了",
+      "summary": "台湾TSMCの子会社TSMCパートナーズは19日、Anthropic株約602万株(約5億ドル相当)をIPO価格で取得したと発表。OpenAIへの出資と合わせ最大10億ドル規模となる。",
+      "source": "フォーカス台湾",
+      "link": "https://focustaiwan.tw/business/202611190023"
+    },
+    {
+      "title": "AMD、AI推論特化チップ新興Taalasの買収を完了",
+      "summary": "AMDはトロント発のAI推論チップ企業Taalasの買収完了を発表(17日)。モデル専用チップをInstinct GPUやEPYC CPU、ROCmと組み合わせる計画。",
+      "source": "TechPowerUp",
+      "link": "https://www.techpowerup.com/354943/amd-completes-acquisition-of-taalas-to-advance-ai-inference"
+    },
+    {
+      "title": "GitHub Copilotの週次更新、Claude Fable 5.2とGemini 4 Carbonを追加",
+      "summary": "GitHubはCopilotの週次リリースノートを公開(16日)。新モデル2種の試用やVS Codeでのエージェントセッション表示改善などを追加した。",
+      "source": "GitHub Blog",
+      "link": "https://github.blog/changelog/2026-11-16-github-copilot-weekly-releases-november-9"
+    },
+    {
+      "title": "SK HynixがHBM4需要拡大を見込み新規装置を追加発注",
+      "summary": "SK Hynixが月間2万枚規模のHBM4ウエハー増産を計画していると報じられた(15日)。Nvidia以外の需要拡大も見込む。",
+      "source": "TechPowerUp",
+      "link": "https://www.techpowerup.com/354861/sk-hynix-bets-on-hbm4-demand-beyond-nvidia-with-new-equipment-orders"
     }
   ],
   "x_trending_tech": []
