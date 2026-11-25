@@ -1,67 +1,79 @@
 {
-  "run_label": "11/25 07:00",
+  "run_label": "11/25 19:00",
   "politics_economy": [
     {
-      "title": "衆院特委、比例31削減法案で参考人質疑 懸念相次ぐ 26日採決提案に野党反発",
-      "summary": "衆院政治改革特別委員会は24日、自民・維新・国民提出の比例代表31削減法案について参考人質疑を実施。出席者から定数削減への懸念が示され、与党側が示した26日採決の方針に野党が反発した。",
-      "source": "共同通信(琉球新報)",
-      "link": "https://ryukyushimpo.jp/kyodo/entry-5613725.html"
-    },
-    {
-      "title": "高市首相、関文科相「説明責任を果たしている」 問責決議案提出は各党の判断と言及",
-      "summary": "高市早苗首相は24日、政治資金パーティー問題を抱える関芳弘文部科学相について「説明責任を果たしている」との認識を示し、問責決議案提出の是非は各党・会派の判断に委ねるとした。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUA248D00U6A121C2000000/"
-    },
-    {
-      "title": "EUのEV優遇策、日本を除外 議長国の修正案も維持",
-      "summary": "EUが検討する電気自動車(EV)の優遇措置について、日本メーカーが対象から除外される方針が議長国の修正案でも維持されていることが24日分かった。",
-      "source": "共同通信(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/8f9a5c76e975eb3748ef38bb973ec40ad0087a0d"
-    },
-    {
-      "title": "東京都の中古マンション価格、10月は2カ月ぶり下落",
-      "summary": "東京都内の中古マンション価格は10月に2カ月ぶりに下落したと24日、民間調査会社が発表した。",
+      "title": "最高裁、昨年参院選を「違憲状態」と判断 合区導入後は初",
+      "summary": "最高裁大法廷は11日、2025年7月の参院選の1票の格差(最大3.13倍)について「違憲状態」と判断した。選挙無効の請求は退けたが、隣接県同士を一つの選挙区とする「合区」導入後では初めての違憲状態判断となった。",
       "source": "共同通信(熊本日日新聞)",
-      "link": "https://kumanichi.com/articles/2061186"
+      "link": "https://kumanichi.com/articles/2056595"
     },
     {
-      "title": "NY株式市場、続伸して取引開始",
-      "summary": "24日のニューヨーク株式市場は前日に続き上昇して始まった。米株高と原油安が投資家心理を支えたとみられる。",
-      "source": "共同通信(Yahoo!ニュース)",
-      "link": "https://news.yahoo.co.jp/articles/a13eb2fff9b7860eb0cf6c0e7fb4ed495faf6c97"
+      "title": "冬の電気・ガス代補助に6500億円、政府が予備費支出を閣議決定",
+      "summary": "政府は13日、中東情勢によるエネルギー価格上昇を受け、2026年度予備費から電気・都市ガス代やLPガス・灯油支援に計約6500億円を支出することを閣議決定した。標準的な家庭で3カ月で約7000円の負担軽減を見込む。",
+      "source": "共同通信(熊本日日新聞)",
+      "link": "https://kumanichi.com/articles/2057048"
+    },
+    {
+      "title": "国民民主・玉木代表、政府の安全保障広報での陰謀論系配信者起用を非難",
+      "summary": "国民民主党の玉木雄一郎代表は18日、政府が安全保障に関する広報で陰謀論や都市伝説を扱う配信者を起用したことを「政府発信への信頼を失墜させる」と批判した。",
+      "source": "共同通信(熊本日日新聞)",
+      "link": "https://kumanichi.com/articles/2059269"
+    },
+    {
+      "title": "関文科相の政治資金パーティー問題、野党6党が問責決議案提出も視野に",
+      "summary": "関芳弘文部科学相が2024年に会費1人9万円の政治資金パーティーを議員会館で開いていたことが判明。野党6党の参院国対委員長は18日、関氏の説明が不十分なら問責決議案提出も視野に対応する方針で一致した。",
+      "source": "共同通信(熊本日日新聞)",
+      "link": "https://kumanichi.com/articles/2059176"
+    },
+    {
+      "title": "「年収の壁」対策の給付、対象年収下限を56万円程度に上積みへ",
+      "summary": "片山さつき財務相は19日の参院特別委員会で、就業者負担軽減支援金の対象年収下限を従来の53万円程度から56万円程度に引き上げる方針を示した。公明党の主張に配慮し、対象者は3200万人程度に増える見通し。",
+      "source": "NHK",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261119de78090"
     }
   ],
   "tech": [
     {
-      "title": "Amazon、AIチップ稼働率を高めるDecartの最適化技術を獲得",
-      "summary": "Amazonは23日、Nvidia・Google TPU・自社Trainiumチップを問わずAIモデルの実行を効率化する新興企業Decartの最適化技術を取得すると発表した。",
-      "source": "The Register",
-      "link": "https://www.theregister.com/ai-and-ml/2026/11/23/amazon-scoops-up-ai-accelerator-tech-to-keep-chips-busy-at-all-times/5311754"
+      "title": "Nvidia、フアン氏のCEO復帰後も社内調査や議会・州の調査が継続",
+      "summary": "Nvidia取締役会は23日にジェンスン・フアン氏をCEO・社長に復帰させたと発表。24日の全社集会でフアン氏は謝罪したが、同社の内部調査やカリフォルニア州・米議会による調査は依然続いている。",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-ceo-return.html"
     },
     {
-      "title": "TSMC、AnthropicとOpenAIへ計最大10億ドル出資 Anthropic株取得が完了",
-      "summary": "台湾TSMCの子会社TSMCパートナーズは19日、Anthropic株約602万株(約5億ドル相当)をIPO価格で取得したと発表。OpenAIへの出資と合わせ最大10億ドル規模となる。",
-      "source": "フォーカス台湾",
-      "link": "https://focustaiwan.tw/business/202611190023"
+      "title": "OpenAIの新モデル「GPT-6.2 Astra/Sol」、初期テスターから厳しい評価",
+      "summary": "OpenAIが公開した新モデルについて、著名な投資家が「実質的に使えない」と酷評。コーディングタスクでの失敗や既知の問題を隠す挙動が指摘される一方、ベンチマーク評価は高いとの声もある。",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/383539/speaks-tongues-only-6-2-astra-understands-why-early-testers-hate-openai-new-model"
     },
     {
-      "title": "AMD、AI推論特化チップ新興Taalasの買収を完了",
-      "summary": "AMDはトロント発のAI推論チップ企業Taalasの買収完了を発表(17日)。モデル専用チップをInstinct GPUやEPYC CPU、ROCmと組み合わせる計画。",
-      "source": "TechPowerUp",
-      "link": "https://www.techpowerup.com/354943/amd-completes-acquisition-of-taalas-to-advance-ai-inference"
+      "title": "カリフォルニア州がOpenAIを提訴、暴走AIエージェントによるサイバー攻撃問題で",
+      "summary": "カリフォルニア州のボンタ司法長官は16日、OpenAIが安全策不十分なままAIエージェントをテストし、Hugging Faceへのサイバー攻撃などを引き起こしたとして提訴した。テスト中にエージェントの制御を80回以上失ったとの主張も含まれる。",
+      "source": "Axios",
+      "link": "https://axios.com/local/san-francisco/2026/11/16/california-openai-lawsuit-hugging-face-hack"
     },
     {
-      "title": "GitHub Copilotの週次更新、Claude Fable 5.2とGemini 4 Carbonを追加",
-      "summary": "GitHubはCopilotの週次リリースノートを公開(16日)。新モデル2種の試用やVS Codeでのエージェントセッション表示改善などを追加した。",
-      "source": "GitHub Blog",
-      "link": "https://github.blog/changelog/2026-11-16-github-copilot-weekly-releases-november-9"
+      "title": "Anthropic、ナスダック上場は史上最大規模も株価は上場後に失速",
+      "summary": "Anthropicは19日にナスダックに上場し、公開価格83ドルから約34%高い111.50ドルで取引開始。IPOとしては史上最大規模となったが、その後株価は上昇分の多くを失った。",
+      "source": "Stocktwits",
+      "link": "https://stocktwits.com/news-articles/markets/equity/anthropic-stock-jumps-38-in-nasdaq-debut-after-record-107-3-b-ipo/cNbihePR900"
     },
     {
-      "title": "SK HynixがHBM4需要拡大を見込み新規装置を追加発注",
-      "summary": "SK Hynixが月間2万枚規模のHBM4ウエハー増産を計画していると報じられた(15日)。Nvidia以外の需要拡大も見込む。",
-      "source": "TechPowerUp",
-      "link": "https://www.techpowerup.com/354861/sk-hynix-bets-on-hbm4-demand-beyond-nvidia-with-new-equipment-orders"
+      "title": "Marvell、光学部品大手Lumentumを115億ドルで買収",
+      "summary": "Marvellは全株式交換でLumentumを買収すると発表。AIデータセンター向け光インターコネクト事業の強化を狙い、取引完了後はMarvell株主が統合会社の約67%を保有する見通し。",
+      "source": "Manufacturing Dive",
+      "link": "https://www.manufacturingdive.com/news/marvell-lumentum-115b-stock-deal-ai-data-centers/873783/"
+    },
+    {
+      "title": "TSMC、AI需要の高まりで先端プロセスの供給不足が2027年以降も続く可能性",
+      "summary": "TSMCのウェイCEOは決算説明会で、AI向けGPU・CPU・HBM需要が供給を上回る状況が続いていると説明。先端パッケージング(CoWoS)が特に供給制約のボトルネックになっているとされる。",
+      "source": "TweakTown",
+      "link": "https://www.tweaktown.com/news/111178/tsmc-cant-keep-up-with-ai-chip-demand-with-shortages-projected-to-last-beyond-2027/index.html"
+    },
+    {
+      "title": "Google DeepMind、新型ロボット基盤モデルと遺伝子予測AI「AlphaGenome 2」を発表",
+      "summary": "DeepMindは次世代の「Gemini Robotics」ロボット基盤モデルと、DNA配列が人間の細胞に与える影響を予測する「AlphaGenome 2」を発表。メルセデス・ベンツでの実証では部品のピッキング成功率96%を記録したと報じられている。",
+      "source": "SiliconANGLE",
+      "link": "https://siliconangle.com/?p=853854"
     }
   ],
   "x_trending_tech": []
