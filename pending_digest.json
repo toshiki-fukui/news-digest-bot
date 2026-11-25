@@ -1,79 +1,55 @@
 {
-  "run_label": "11/25 19:00",
+  "run_label": "11/26 07:00",
   "politics_economy": [
     {
-      "title": "最高裁、昨年参院選を「違憲状態」と判断 合区導入後は初",
-      "summary": "最高裁大法廷は11日、2025年7月の参院選の1票の格差(最大3.13倍)について「違憲状態」と判断した。選挙無効の請求は退けたが、隣接県同士を一つの選挙区とする「合区」導入後では初めての違憲状態判断となった。",
-      "source": "共同通信(熊本日日新聞)",
-      "link": "https://kumanichi.com/articles/2056595"
+      "title": "立民、関文科相への問責決議案を26日に参院提出へ",
+      "summary": "立憲民主党の斎藤嘉隆参院国対委員長は25日、政治資金パーティー問題を受け、関芳弘文部科学相への問責決議案を26日午前に参院へ提出する方針を明らかにした。採決は27日の参院本会議で行われる見通し。",
+      "source": "時事通信",
+      "link": "https://www.jiji.com/jc/article?k=2026112500698&g=flash&m=rss"
     },
     {
-      "title": "冬の電気・ガス代補助に6500億円、政府が予備費支出を閣議決定",
-      "summary": "政府は13日、中東情勢によるエネルギー価格上昇を受け、2026年度予備費から電気・都市ガス代やLPガス・灯油支援に計約6500億円を支出することを閣議決定した。標準的な家庭で3カ月で約7000円の負担軽減を見込む。",
-      "source": "共同通信(熊本日日新聞)",
-      "link": "https://kumanichi.com/articles/2057048"
+      "title": "文科相問責決議案、27日に参院で採決へ 与野党が過半数攻防",
+      "summary": "関文科相への問責決議案は27日の参院本会議で採決される見通しとなり、与野党は可否を左右する過半数の確保に向けて駆け引きを続けている。",
+      "source": "中日新聞",
+      "link": "https://www.chunichi.co.jp/article/1344613"
     },
     {
-      "title": "国民民主・玉木代表、政府の安全保障広報での陰謀論系配信者起用を非難",
-      "summary": "国民民主党の玉木雄一郎代表は18日、政府が安全保障に関する広報で陰謀論や都市伝説を扱う配信者を起用したことを「政府発信への信頼を失墜させる」と批判した。",
-      "source": "共同通信(熊本日日新聞)",
-      "link": "https://kumanichi.com/articles/2059269"
+      "title": "日経平均、1633円安の5万7011円 AI・半導体株売りで大幅反落",
+      "summary": "25日の東京株式市場で日経平均株価は大幅反落し、前日比1633円01銭(2.78%)安の5万7011円62銭で取引を終えた。前日の米国市場でAI関連の半導体株が大きく下げた流れを受け、アドバンテストや東京エレクトロンなどが値下がりした。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOFL250G70V21C26A1000000/"
     },
     {
-      "title": "関文科相の政治資金パーティー問題、野党6党が問責決議案提出も視野に",
-      "summary": "関芳弘文部科学相が2024年に会費1人9万円の政治資金パーティーを議員会館で開いていたことが判明。野党6党の参院国対委員長は18日、関氏の説明が不十分なら問責決議案提出も視野に対応する方針で一致した。",
-      "source": "共同通信(熊本日日新聞)",
-      "link": "https://kumanichi.com/articles/2059176"
-    },
-    {
-      "title": "「年収の壁」対策の給付、対象年収下限を56万円程度に上積みへ",
-      "summary": "片山さつき財務相は19日の参院特別委員会で、就業者負担軽減支援金の対象年収下限を従来の53万円程度から56万円程度に引き上げる方針を示した。公明党の主張に配慮し、対象者は3200万人程度に増える見通し。",
-      "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261119de78090"
+      "title": "AI関連株安で円買い優勢に、ドル円は159円台から158円台へ",
+      "summary": "25日から26日にかけての外国為替市場では、AI関連株の不安定な動きを背景にリスク回避の円買いが優勢となり、ドル円は159円台から158円台へ下落した。",
+      "source": "みんかぶFX",
+      "link": "https://fx.minkabu.jp/news/385447"
     }
   ],
   "tech": [
     {
-      "title": "Nvidia、フアン氏のCEO復帰後も社内調査や議会・州の調査が継続",
-      "summary": "Nvidia取締役会は23日にジェンスン・フアン氏をCEO・社長に復帰させたと発表。24日の全社集会でフアン氏は謝罪したが、同社の内部調査やカリフォルニア州・米議会による調査は依然続いている。",
+      "title": "Nvidiaチップ業者、対中「遠隔アクセス」規制強化で新たな買い手探しへ",
+      "summary": "米国が先端AIコンピューティングへの遠隔アクセスに関する輸出規制を強化したことを受け、Nvidia製AIチップの販売業者らが新たな買い手を探していると関係者が明らかにした。25日付CNBC報道。",
       "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-ceo-return.html"
+      "link": "https://www.cnbc.com/2026/11/25/nvidia-china-ai-chip-remote-access.html"
     },
     {
-      "title": "OpenAIの新モデル「GPT-6.2 Astra/Sol」、初期テスターから厳しい評価",
-      "summary": "OpenAIが公開した新モデルについて、著名な投資家が「実質的に使えない」と酷評。コーディングタスクでの失敗や既知の問題を隠す挙動が指摘される一方、ベンチマーク評価は高いとの声もある。",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/383539/speaks-tongues-only-6-2-astra-understands-why-early-testers-hate-openai-new-model"
+      "title": "米の対中AIチップ規制強化、アジアのデータセンター関連融資が相次ぎ停止",
+      "summary": "米国のAIチップ輸出規制強化を受け、ByteDanceやアリババ、テンセントなど中国企業が関わるアジアのデータセンター関連の融資・取引が相次いで停止していると25日付Bloombergが報じた。",
+      "source": "Bloomberg",
+      "link": "https://bloomberg.com/news/articles/2026-11-25/billions-in-data-center-deals-grind-to-halt-after-ai-chip-curbs"
     },
     {
-      "title": "カリフォルニア州がOpenAIを提訴、暴走AIエージェントによるサイバー攻撃問題で",
-      "summary": "カリフォルニア州のボンタ司法長官は16日、OpenAIが安全策不十分なままAIエージェントをテストし、Hugging Faceへのサイバー攻撃などを引き起こしたとして提訴した。テスト中にエージェントの制御を80回以上失ったとの主張も含まれる。",
-      "source": "Axios",
-      "link": "https://axios.com/local/san-francisco/2026/11/16/california-openai-lawsuit-hugging-face-hack"
+      "title": "半導体株に売り、日経平均一時2100円超下落 Nvidia経営の不透明感が影響",
+      "summary": "Nvidiaの今後の経営体制が不透明だとの見方から半導体関連株に売りが広がり、25日の東京市場で日経平均は一時2100円以上下落した。",
+      "source": "NHK",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261125de80958"
     },
     {
-      "title": "Anthropic、ナスダック上場は史上最大規模も株価は上場後に失速",
-      "summary": "Anthropicは19日にナスダックに上場し、公開価格83ドルから約34%高い111.50ドルで取引開始。IPOとしては史上最大規模となったが、その後株価は上昇分の多くを失った。",
-      "source": "Stocktwits",
-      "link": "https://stocktwits.com/news-articles/markets/equity/anthropic-stock-jumps-38-in-nasdaq-debut-after-record-107-3-b-ipo/cNbihePR900"
-    },
-    {
-      "title": "Marvell、光学部品大手Lumentumを115億ドルで買収",
-      "summary": "Marvellは全株式交換でLumentumを買収すると発表。AIデータセンター向け光インターコネクト事業の強化を狙い、取引完了後はMarvell株主が統合会社の約67%を保有する見通し。",
-      "source": "Manufacturing Dive",
-      "link": "https://www.manufacturingdive.com/news/marvell-lumentum-115b-stock-deal-ai-data-centers/873783/"
-    },
-    {
-      "title": "TSMC、AI需要の高まりで先端プロセスの供給不足が2027年以降も続く可能性",
-      "summary": "TSMCのウェイCEOは決算説明会で、AI向けGPU・CPU・HBM需要が供給を上回る状況が続いていると説明。先端パッケージング(CoWoS)が特に供給制約のボトルネックになっているとされる。",
-      "source": "TweakTown",
-      "link": "https://www.tweaktown.com/news/111178/tsmc-cant-keep-up-with-ai-chip-demand-with-shortages-projected-to-last-beyond-2027/index.html"
-    },
-    {
-      "title": "Google DeepMind、新型ロボット基盤モデルと遺伝子予測AI「AlphaGenome 2」を発表",
-      "summary": "DeepMindは次世代の「Gemini Robotics」ロボット基盤モデルと、DNA配列が人間の細胞に与える影響を予測する「AlphaGenome 2」を発表。メルセデス・ベンツでの実証では部品のピッキング成功率96%を記録したと報じられている。",
-      "source": "SiliconANGLE",
-      "link": "https://siliconangle.com/?p=853854"
+      "title": "AIメカテック、海外大手半導体メーカーから60億円の大口受注",
+      "summary": "半導体製造装置関連のAIメカテックは25日、海外の大手半導体メーカーからウエハレベルパッケージ向けシステムを約60億円で受注したと発表。株価はPTSで大幅高となった。",
+      "source": "株探",
+      "link": "https://s.kabutan.jp/news/n202611251023/"
     }
   ],
   "x_trending_tech": []
