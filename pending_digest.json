@@ -1,55 +1,55 @@
 {
-  "run_label": "11/26 07:00",
+  "run_label": "11/26 19:00",
   "politics_economy": [
     {
-      "title": "立民、関文科相への問責決議案を26日に参院提出へ",
-      "summary": "立憲民主党の斎藤嘉隆参院国対委員長は25日、政治資金パーティー問題を受け、関芳弘文部科学相への問責決議案を26日午前に参院へ提出する方針を明らかにした。採決は27日の参院本会議で行われる見通し。",
-      "source": "時事通信",
-      "link": "https://www.jiji.com/jc/article?k=2026112500698&g=flash&m=rss"
+      "title": "高市首相の対中政策、支持率44%に急落 APEC深センで冷遇報道",
+      "summary": "読売新聞の世論調査で高市早苗首相の対中政策への支持率が44%まで下落。中国・深センで開催されたAPEC首脳会議で中国側から冷遇を受けたと報じられ、対中外交への不安が広がっている。",
+      "source": "SCMP",
+      "link": "https://www.scmp.com/week-asia/people/article/3374747/japans-takaichi-faces-icy-apec-summit-support-china-policy-slides"
     },
     {
-      "title": "文科相問責決議案、27日に参院で採決へ 与野党が過半数攻防",
-      "summary": "関文科相への問責決議案は27日の参院本会議で採決される見通しとなり、与野党は可否を左右する過半数の確保に向けて駆け引きを続けている。",
-      "source": "中日新聞",
-      "link": "https://www.chunichi.co.jp/article/1344613"
+      "title": "関芳弘文科相への問責論、高市政権の国会運営に影",
+      "summary": "政治資金パーティー問題を抱える関芳弘文部科学相に対し、野党が問責決議案提出の構えを強めており、高市政権の今国会運営に影響を及ぼしかねないと報じられている。",
+      "source": "Nikkei Asia",
+      "link": "https://asia.nikkei.com/politics/push-to-censure-japan-minister-threatens-to-stymie-takaichi-s-agenda"
     },
     {
-      "title": "日経平均、1633円安の5万7011円 AI・半導体株売りで大幅反落",
-      "summary": "25日の東京株式市場で日経平均株価は大幅反落し、前日比1633円01銭(2.78%)安の5万7011円62銭で取引を終えた。前日の米国市場でAI関連の半導体株が大きく下げた流れを受け、アドバンテストや東京エレクトロンなどが値下がりした。",
+      "title": "東証大引け、日経平均は反発 AI・半導体株に買い戻し",
+      "summary": "26日の東京株式市場で日経平均株価は前日25日の大幅安から反発し、前日比0.9%高の5万7499円程度で取引を終えた。AI・半導体関連株への買い戻しが指数を押し上げた。",
       "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOFL250G70V21C26A1000000/"
-    },
-    {
-      "title": "AI関連株安で円買い優勢に、ドル円は159円台から158円台へ",
-      "summary": "25日から26日にかけての外国為替市場では、AI関連株の不安定な動きを背景にリスク回避の円買いが優勢となり、ドル円は159円台から158円台へ下落した。",
-      "source": "みんかぶFX",
-      "link": "https://fx.minkabu.jp/news/385447"
+      "link": "https://nikkei.com/article/DGXZQOFL265XK0W6A121C2000000"
     }
   ],
   "tech": [
     {
-      "title": "Nvidiaチップ業者、対中「遠隔アクセス」規制強化で新たな買い手探しへ",
-      "summary": "米国が先端AIコンピューティングへの遠隔アクセスに関する輸出規制を強化したことを受け、Nvidia製AIチップの販売業者らが新たな買い手を探していると関係者が明らかにした。25日付CNBC報道。",
+      "title": "アンソロピックCEO、「AIに人間の制御を委ねたい」との批判に反論",
+      "summary": "アンソロピックのダリオ・アモデイCEOは、同社がAIに人間の制御を委ねることに前向きだと描いたAxiosの報道について「不当だ」と反論した。25日のXへの投稿で表明。",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd"
+    },
+    {
+      "title": "OpenAI、企業データを保護する新機能「Private Inference」のテスト開始",
+      "summary": "OpenAIは25日、企業の機密データを処理中も人の目に触れないようにする新機能「Private Inference」の試験運用を少数の顧客向けに始めたと、サム・アルトマンCEOが明らかにした。",
+      "source": "mlq.ai",
+      "link": "https://mlq.ai/news/openai-starts-testing-private-inference-to-keep-enterprise-data-unseen/"
+    },
+    {
+      "title": "米ハイテク株、安値からは戻すも続落 アンソロピック株はIPO価格割れ続く",
+      "summary": "25日の米国市場でハイテク株は安値圏からは回復したものの続落した。新規株式公開(IPO)を果たしたアンソロピックの株価はIPO価格を下回る水準で苦戦が続いている。",
       "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/11/25/nvidia-china-ai-chip-remote-access.html"
+      "link": "https://cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html"
     },
     {
-      "title": "米の対中AIチップ規制強化、アジアのデータセンター関連融資が相次ぎ停止",
-      "summary": "米国のAIチップ輸出規制強化を受け、ByteDanceやアリババ、テンセントなど中国企業が関わるアジアのデータセンター関連の融資・取引が相次いで停止していると25日付Bloombergが報じた。",
-      "source": "Bloomberg",
-      "link": "https://bloomberg.com/news/articles/2026-11-25/billions-in-data-center-deals-grind-to-halt-after-ai-chip-curbs"
+      "title": "AI向け負債拡大に懸念 ビッグテックの投資がキャッシュフローを上回る勢い",
+      "summary": "NVIDIA株価の持ち直しの裏で、米ビッグテック各社のAI投資が自社の稼ぐキャッシュフローを上回るペースで膨らみ、負債依存への懸念が強まっていると25日報じられた。",
+      "source": "CNBC",
+      "link": "https://cnbc.com/2026/11/25/ai-debt-big-tech-spending-nvidia.html"
     },
     {
-      "title": "半導体株に売り、日経平均一時2100円超下落 Nvidia経営の不透明感が影響",
-      "summary": "Nvidiaの今後の経営体制が不透明だとの見方から半導体関連株に売りが広がり、25日の東京市場で日経平均は一時2100円以上下落した。",
-      "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261125de80958"
-    },
-    {
-      "title": "AIメカテック、海外大手半導体メーカーから60億円の大口受注",
-      "summary": "半導体製造装置関連のAIメカテックは25日、海外の大手半導体メーカーからウエハレベルパッケージ向けシステムを約60億円で受注したと発表。株価はPTSで大幅高となった。",
-      "source": "株探",
-      "link": "https://s.kabutan.jp/news/n202611251023/"
+      "title": "OpenAI本社盗聴事件、起訴のサウジ国籍の被告が100万ドルの保釈金で釈放",
+      "summary": "OpenAI本社の役員会議室に盗聴器を仕掛けた疑いで起訴されたサウジアラビア国籍の被告が、検察の反対を押し切り100万ドルの保釈金で拘置を解かれたと25日報じられた。",
+      "source": "CNBC",
+      "link": "https://cnbc.com/2026/11/25/openai-bugging-aflozan-bond-release-saudi.html"
     }
   ],
   "x_trending_tech": []
