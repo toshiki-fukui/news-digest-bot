@@ -1,85 +1,36 @@
 {
-  "run_label": "11/27 19:00",
-  "politics_economy": [
-    {
-      "title": "関文科相への問責決議案、参院で否決 なぜ4票差に",
-      "summary": "政治資金パーティー問題を抱える関文科相への問責決議案が27日、参院本会議で採決され、自民・維新などの反対多数で否決された。NHKの記者解説が否決の背景を伝えている。",
-      "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261127de82351"
-    },
-    {
-      "title": "中央防災会議、防災基本計画に「国家戦略」を初めて明記",
-      "summary": "高市首相が主催する中央防災会議が27日開かれ、防災庁発足を受けて防災基本計画を改定し、「事前防災」を加速させる国家戦略を初めて盛り込んだ。",
-      "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261127de82248"
-    },
-    {
-      "title": "井林国交相、公共事業受注企業からの寄付を返金",
-      "summary": "井林国土交通相は27日、自身が代表を務める自民党支部が国の公共事業を受注する企業から寄付を受けていたとの指摘を受け、返金したことを明らかにした。",
-      "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261127de82303"
-    },
-    {
-      "title": "AI法改正案、安全対策不備の事業者に最大1億円の罰金検討",
-      "summary": "日本経済新聞によると、政府は高性能AI事業者に安全対策を義務づける法改正案の全容を固め、違反時には立ち入り検査や最大1億円の罰金刑を科す方向。海外企業も対象で、2027年の通常国会提出を目指す（26日報道）。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUA267DC0W6A121C2000000/"
-    },
-    {
-      "title": "日経平均、終値1211円高の5万8711円 キオクシア急伸",
-      "summary": "27日の東京株式市場は、AI・半導体関連株への資金流入やキオクシアの指数算定ウエート調整の思惑などを背景に日経平均が続伸し、前日比1211円高で取引を終えた。",
-      "source": "日本経済新聞",
-      "link": "https://nikkei.com/article/DGXZQOFL270IGTX21C26A1000000"
-    }
-  ],
+  "run_label": "11/28 07:00",
+  "politics_economy": [],
   "tech": [
     {
-      "title": "シンガポール、AI先端半導体へのアクセス維持で米国と協議",
-      "summary": "シンガポールのガン副首相は27日、米国による輸出規制強化を受け、高度な半導体へのアクセスを維持できるよう米政府と協議していると明らかにした。",
+      "title": "OpenAI、Appleの企業秘密訴訟に反訴 サプライヤーへの圧力を主張",
+      "summary": "OpenAIは27日、Appleが自社デバイスを避けるようサプライヤーに圧力をかけていたと主張し、Appleが起こした企業秘密侵害訴訟に対して反訴を提起したと報じられた。",
       "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-27/singapore-talking-to-us-to-keep-ai-chip-access-deputy-pm-says"
+      "link": "https://bloomberg.com/news/articles/2026-11-27/openai-says-apple-pressured-suppliers-to-shun-its-devices"
     },
     {
-      "title": "SKハイニックス、次世代HBM4向けにTSMCの3nm技術者を獲得へ",
-      "summary": "SKハイニックスはカスタムHBM4向けにTSMCの3nmプロセス経験を持つエンジニアの採用を強化しており、マイクロンも韓国で人材獲得を拡大しているという（26日報道）。",
-      "source": "DIGITIMES",
-      "link": "https://www.digitimes.com/news/a20261126VL224/sk-hynix-tsmc-micron-3nm-hbm.html"
+      "title": "半導体株、感謝祭明けにAI期待で急反発",
+      "summary": "27日の米国市場では、SanDisk、Micron、AMDなど半導体株が広範なAI期待を背景に急反発した。",
+      "source": "The Motley Fool",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/11/27/stock-market-today-nov-27-chip-stocks-rebound-sharply-on-broad-ai-enthusiasm/"
     },
     {
-      "title": "Anthropic、「Skills over MCP」のパブリックベータをClaudeとClaude Codeに追加",
-      "summary": "Anthropicは26日、MCP経由でスキルを呼び出す新機能のパブリックベータを開始した。Pro・Max・Ultra契約者はデフォルトで有効になる。",
-      "source": "Dataconomy",
-      "link": "https://dataconomy.com/2026/11/26/anthropic-adds-skills-over-mcp-to-claude-and-claude-code/"
+      "title": "米の新関税案、半導体・スマホ・PCは対象外 TSMC株上昇",
+      "summary": "米USTRが示した新たな対台湾関税案では半導体やスマートフォン、PCが対象から外れる内容とされ、TSMC株が上昇した(27日報道)。",
+      "source": "GuruFocus",
+      "link": "https://gurufocus.com/news/9228776/tsmc-stocks-climb-184-as-us-tariff-proposal-leaves-chips-off-the-list"
     },
     {
-      "title": "Anthropicの自律型AIエージェント「Claude Duet」、日本でも利用可能に",
-      "summary": "Anthropicは26日、AIエージェントアプリ「Claude Duet」の提供地域に日本を追加したと発表。AndroidアプリはGoogle Playで早期アクセス版として公開されている。",
-      "source": "PC Watch",
-      "link": "https://pc.watch.impress.co.jp/docs/news/2159488.html"
+      "title": "半導体スタートアップAltair Semiconductor、シリーズAで1億ドル調達",
+      "summary": "Altair SemiconductorがMaverick Silicon主導のシリーズAラウンドで1億ドルを調達したと報じられた(27日付資金調達ニュースまとめより)。",
+      "source": "TechStartups",
+      "link": "https://techstartups.com/2026/11/27/startup-funding-news-today-november-27-2026-altair-semiconductor-zerith-vector-singularity-more/"
     },
     {
-      "title": "Amazon、AIスタートアップDecartを約75億ドルで買収",
-      "summary": "AmazonはAI動画・推論技術を持つDecartを買収したと報じられた（24日報道）。自社AIチップTrainiumの効率をソフトウェアで高め、NvidiaとのAIチップ競争での差を縮める狙いとされる。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race"
-    },
-    {
-      "title": "CrowdStrike、Zscalerを約439億ドルで買収すると発表",
-      "summary": "セキュリティ大手CrowdStrikeは、全株式交換でZscalerを買収する最終契約を締結したと発表（23日）。AIによるセキュリティ運用の統合を進め、対応市場を1850億ドル超拡大するとしている。",
-      "source": "CrowdStrike",
-      "link": "https://www.crowdstrike.com/en-us/press-releases/crowdstrike-to-acquire-zscaler-bringing-network-security-and-zero-trust-to-the-falcon-platform/"
-    },
-    {
-      "title": "シティ・スタンダードチャータード、AIチップ輸出規制でデータセンター顧客の審査強化",
-      "summary": "米国の対中AIチップ輸出規制強化を受け、シティグループやスタンダードチャータードなどの銀行が、東南アジアを中心にデータセンター向け融資先企業の審査を厳格化していると報じられた（25日報道）。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-25/citi-stanchart-put-data-center-clients-under-the-microscope-on-ai-chips"
-    },
-    {
-      "title": "OpenAI、「Private Inference」拡大へ機密コンピューティング資源を確保",
-      "summary": "OpenAIはプライバシー保護を強化した推論サービス「Private Inference」の一部顧客向けテストを始めており、サービス拡大に向けて機密コンピューティング(confidential computing)の確保を進めていると報じられた。",
-      "source": "Cryptopolitan",
-      "link": "https://www.cryptopolitan.com/openai-compute-scale-private-inference/"
+      "title": "Anthropic株、IPO後に急落 ウォール街の評価は強弱入り混じる",
+      "summary": "Anthropicの株価はIPO後の高値から28%下落し、アナリストの見方は強気(Wedbush・Canaccordなど)と弱気(目標株価59ドルとの報道)に分かれていると報じられた(27日)。",
+      "source": "The Motley Fool",
+      "link": "https://www.fool.com/investing/2026/11/27/anthropic-stock-down-28-wall-street-this-happens-next/"
     }
   ],
   "x_trending_tech": []
