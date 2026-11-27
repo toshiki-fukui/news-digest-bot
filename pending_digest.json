@@ -1,97 +1,85 @@
 {
-  "run_label": "11/27 07:00",
+  "run_label": "11/27 19:00",
   "politics_economy": [
     {
-      "title": "関芳弘文科相の問責決議案、27日に参院で採決 可否はギリギリの情勢",
-      "summary": "政治資金パーティー問題を抱える関芳弘文部科学相に対し、野党6党が参院に問責決議案を提出。27日の参院本会議で採決される見通しで、与野党双方が可否をギリギリの情勢とみている。",
+      "title": "関文科相への問責決議案、参院で否決 なぜ4票差に",
+      "summary": "政治資金パーティー問題を抱える関文科相への問責決議案が27日、参院本会議で採決され、自民・維新などの反対多数で否決された。NHKの記者解説が否決の背景を伝えている。",
       "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261127de82148"
+      "link": "https://news.web.nhk/newsweb/na/nd-20261127de82351"
     },
     {
-      "title": "衆院定数31削減法案、26日の採決見送り 与野党が協議継続",
-      "summary": "自民・維新・国民民主3党提出の衆院定数31削減法案について、与党は26日の採決を提案したが、野党が質疑時間の確保を求めて折り合わず、引き続き協議することになった。",
+      "title": "中央防災会議、防災基本計画に「国家戦略」を初めて明記",
+      "summary": "高市首相が主催する中央防災会議が27日開かれ、防災庁発足を受けて防災基本計画を改定し、「事前防災」を加速させる国家戦略を初めて盛り込んだ。",
       "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261126de81641"
+      "link": "https://news.web.nhk/newsweb/na/nd-20261127de82248"
     },
     {
-      "title": "高市首相、来年度税制改正「投資促進や成長につながる内容に」",
-      "summary": "高市首相は26日、自民党税制調査会幹部と会談し、中小企業の賃上げ促進税制などの論点について説明を受け、投資促進や経済成長につながるよう検討を進めるよう求めた。",
+      "title": "井林国交相、公共事業受注企業からの寄付を返金",
+      "summary": "井林国土交通相は27日、自身が代表を務める自民党支部が国の公共事業を受注する企業から寄付を受けていたとの指摘を受け、返金したことを明らかにした。",
       "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261126de81902"
+      "link": "https://news.web.nhk/newsweb/na/nd-20261127de82303"
     },
     {
-      "title": "日銀・田村審議委員「物価2%定着へ 早期に中立金利への引き上げを」",
-      "summary": "日銀の田村直樹審議委員は26日、甲府市での講演で金融環境がなお緩和的だと指摘し、物価上昇を抑えるため政策金利を早期に中立金利まで引き上げるべきだと述べた。",
-      "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261126de81818"
+      "title": "AI法改正案、安全対策不備の事業者に最大1億円の罰金検討",
+      "summary": "日本経済新聞によると、政府は高性能AI事業者に安全対策を義務づける法改正案の全容を固め、違反時には立ち入り検査や最大1億円の罰金刑を科す方向。海外企業も対象で、2027年の通常国会提出を目指す（26日報道）。",
+      "source": "日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUA267DC0W6A121C2000000/"
     },
     {
-      "title": "文部科学省の入札システムに不正アクセス 情報漏えいの可能性",
-      "summary": "文部科学省は26日、委託事業の入札情報を公開するシステムが外部から不正アクセスを受けたと発表。職員のメールアドレスや入札参加企業名などが漏えいした可能性があるとしている。",
-      "source": "NHK",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261126de82072"
+      "title": "日経平均、終値1211円高の5万8711円 キオクシア急伸",
+      "summary": "27日の東京株式市場は、AI・半導体関連株への資金流入やキオクシアの指数算定ウエート調整の思惑などを背景に日経平均が続伸し、前日比1211円高で取引を終えた。",
+      "source": "日本経済新聞",
+      "link": "https://nikkei.com/article/DGXZQOFL270IGTX21C26A1000000"
     }
   ],
   "tech": [
     {
-      "title": "キオクシア、AIメモリーでNVIDIAと実証実験開始 韓国勢の代替狙う",
-      "summary": "キオクシアは26日、NVIDIAと連携し自社の半導体メモリーをAI演算に活用する検証を始めたと発表。韓国メーカーが強いAIメモリー市場での存在感拡大を目指す。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUC2544K0V21C26A1000000/"
-    },
-    {
-      "title": "NVIDIA、東南アジア向けAIチップ出荷を一時停止",
-      "summary": "NVIDIAは米国の対中輸出規制強化を受け、マレーシア・シンガポール・タイ・インドネシア向けのサーバー出荷をDellやSuper Microなど提携先に一時停止するよう指示したと報じられた。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
-    },
-    {
-      "title": "NVIDIA販売各社、中国企業へのGPU転貸を審査対象から除外するよう要請",
-      "summary": "米商務省の新規則(11月19日施行)を受け、NVIDIAのGPU販売各社がneocloud(新興クラウド事業者)に対し、中国企業への計算力の転貸を行わないことを条件とするようになったと報じられた。",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html"
-    },
-    {
-      "title": "ファーウェイ、次世代AIメモリーチップを予告 サムスン・SKハイニックスに対抗",
-      "summary": "ファーウェイは、サムスン電子やSKハイニックスの現行品を上回る可能性のある高帯域幅メモリー(HBM)の詳細を来年2月の学会で発表する予定と報じられた。",
+      "title": "シンガポール、AI先端半導体へのアクセス維持で米国と協議",
+      "summary": "シンガポールのガン副首相は27日、米国による輸出規制強化を受け、高度な半導体へのアクセスを維持できるよう米政府と協議していると明らかにした。",
       "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-26/huawei-teases-next-gen-ai-memory-chip-to-take-on-samsung-hynix"
+      "link": "https://www.bloomberg.com/news/articles/2026-11-27/singapore-talking-to-us-to-keep-ai-chip-access-deputy-pm-says"
     },
     {
-      "title": "TDK、AIデータセンターとロボット向けセンサーに注力 2031年までに生産倍増へ投資",
-      "summary": "TDKは、自動車・ヒューマノイドロボット・AIデータセンター向けの高精度センサーの生産能力を2031年までに倍増させるため、6億3500万ドルを投資する計画を示した。",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-26/tdk-bets-on-ai-data-centers-and-robots-to-fuel-sensor-growth"
+      "title": "SKハイニックス、次世代HBM4向けにTSMCの3nm技術者を獲得へ",
+      "summary": "SKハイニックスはカスタムHBM4向けにTSMCの3nmプロセス経験を持つエンジニアの採用を強化しており、マイクロンも韓国で人材獲得を拡大しているという（26日報道）。",
+      "source": "DIGITIMES",
+      "link": "https://www.digitimes.com/news/a20261126VL224/sk-hynix-tsmc-micron-3nm-hbm.html"
     },
     {
-      "title": "京セラ、部品事業に8100億円投資 AI関連需要の取り込みへ計画上積み",
-      "summary": "京セラは、半導体製造装置向け部品やコンデンサーなどAI関連の成長領域で供給力を高めるため、部品事業に8100億円を投じると発表した。",
-      "source": "日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUF261Z30W6A121C2000000/"
+      "title": "Anthropic、「Skills over MCP」のパブリックベータをClaudeとClaude Codeに追加",
+      "summary": "Anthropicは26日、MCP経由でスキルを呼び出す新機能のパブリックベータを開始した。Pro・Max・Ultra契約者はデフォルトで有効になる。",
+      "source": "Dataconomy",
+      "link": "https://dataconomy.com/2026/11/26/anthropic-adds-skills-over-mcp-to-claude-and-claude-code/"
     },
     {
-      "title": "キオクシア、次世代「XL-FLASH」第3世代を発表 ビット密度70%向上",
-      "summary": "キオクシアは第3世代のXL-FLASHの試作品を展示し、前世代比でビット密度を約70%、効率を135%向上させたと発表。限定顧客向け評価用サンプルを2027年3月から出荷予定。",
-      "source": "EDN Japan",
-      "link": "https://edn.itmedia.co.jp/edn/articles/2611/26/news062.html"
+      "title": "Anthropicの自律型AIエージェント「Claude Duet」、日本でも利用可能に",
+      "summary": "Anthropicは26日、AIエージェントアプリ「Claude Duet」の提供地域に日本を追加したと発表。AndroidアプリはGoogle Playで早期アクセス版として公開されている。",
+      "source": "PC Watch",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2159488.html"
     },
     {
-      "title": "OpenAI、ChatGPTの「Chat」と「Work」を統合 重度利用者は上限に達しやすくなる可能性",
-      "summary": "OpenAIは一部のPro契約者向けにChatGPTの「Chat」と「Work」を統合した体験の提供を開始。利用上限が共通化されることで重度利用者がより早く上限に達する可能性があり、12月にはより広く展開予定としている。",
+      "title": "Amazon、AIスタートアップDecartを約75億ドルで買収",
+      "summary": "AmazonはAI動画・推論技術を持つDecartを買収したと報じられた（24日報道）。自社AIチップTrainiumの効率をソフトウェアで高め、NvidiaとのAIチップ競争での差を縮める狙いとされる。",
       "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/"
+      "link": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race"
     },
     {
-      "title": "Amazon、MetaのAIエージェント「Muse」の自社サイト接続を協議",
-      "summary": "AmazonとMetaは、9月にAmazonが遮断したMetaのAIショッピングエージェント「Muse」をAmazonストアに接続することについて複数回協議していると報じられた。検索結果の表示方法や広告の扱いが交渉の論点となっている。",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse"
+      "title": "CrowdStrike、Zscalerを約439億ドルで買収すると発表",
+      "summary": "セキュリティ大手CrowdStrikeは、全株式交換でZscalerを買収する最終契約を締結したと発表（23日）。AIによるセキュリティ運用の統合を進め、対応市場を1850億ドル超拡大するとしている。",
+      "source": "CrowdStrike",
+      "link": "https://www.crowdstrike.com/en-us/press-releases/crowdstrike-to-acquire-zscaler-bringing-network-security-and-zero-trust-to-the-falcon-platform/"
     },
     {
-      "title": "音声AIのElevenLabs、2027年に330億ドル評価での資金調達を協議",
-      "summary": "AI音声企業ElevenLabsが、330億ドルの企業価値を目指した2027年の資金調達について初期段階の協議を行っていると報じられた。一部投資家はより早期の調達開始を求めているという。",
+      "title": "シティ・スタンダードチャータード、AIチップ輸出規制でデータセンター顧客の審査強化",
+      "summary": "米国の対中AIチップ輸出規制強化を受け、シティグループやスタンダードチャータードなどの銀行が、東南アジアを中心にデータセンター向け融資先企業の審査を厳格化していると報じられた（25日報道）。",
       "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-25/elevenlabs-in-early-talks-for-2027-funding-at-33-billion-value"
+      "link": "https://www.bloomberg.com/news/articles/2026-11-25/citi-stanchart-put-data-center-clients-under-the-microscope-on-ai-chips"
+    },
+    {
+      "title": "OpenAI、「Private Inference」拡大へ機密コンピューティング資源を確保",
+      "summary": "OpenAIはプライバシー保護を強化した推論サービス「Private Inference」の一部顧客向けテストを始めており、サービス拡大に向けて機密コンピューティング(confidential computing)の確保を進めていると報じられた。",
+      "source": "Cryptopolitan",
+      "link": "https://www.cryptopolitan.com/openai-compute-scale-private-inference/"
     }
   ],
   "x_trending_tech": []
