@@ -1,36 +1,37 @@
 {
-  "run_label": "11/28 07:00",
-  "politics_economy": [],
+  "run_label": "11/28 19:00",
+  "politics_economy": [
+    {
+      "title": "東京都区部11月CPI、上昇加速 日銀12月利上げ観測強まる",
+      "summary": "11月の東京都区部消費者物価指数(生鮮食品除く)の上昇率が加速し、2025年7月以来の高い水準になったと報じられた。日銀が12月に追加利上げに踏み切るとの観測を後押ししている(27日付)。",
+      "source": "The Japan Times",
+      "link": "https://japantimes.co.jp/business/2026/11/27/economy/tokyo-inflation-november"
+    },
+    {
+      "title": "日経平均、3日ぶり反発し5万8000円台回復 AI・半導体株に買い",
+      "summary": "27日の東京株式市場で日経平均株価は前日比1211.95円高の5万8711.11円で終了。AI・半導体関連株への買い直しが相場を押し上げ、3営業日ぶりに5万8000円台を回復した。",
+      "source": "株探(Kabutan)",
+      "link": "https://kabutan.jp/news/marketnews/?b=n202611270951"
+    }
+  ],
   "tech": [
     {
-      "title": "OpenAI、Appleの企業秘密訴訟に反訴 サプライヤーへの圧力を主張",
-      "summary": "OpenAIは27日、Appleが自社デバイスを避けるようサプライヤーに圧力をかけていたと主張し、Appleが起こした企業秘密侵害訴訟に対して反訴を提起したと報じられた。",
+      "title": "Anthropic株、上場後最高値で週末の取引終了 IPO価格を上回る水準に回復",
+      "summary": "Anthropicの株価は27日に続伸し91.88ドルで取引を終えた。これは11月19日の上場以来で最も高い終値で、上場直後の急落からIPO価格(83ドル)を上回る水準まで戻した。",
       "source": "Bloomberg",
-      "link": "https://bloomberg.com/news/articles/2026-11-27/openai-says-apple-pressured-suppliers-to-shun-its-devices"
+      "link": "https://www.bloomberg.com/news/articles/2026-11-27/anthropic-shares-jump-after-volatile-first-week-since-record-ipo"
     },
     {
-      "title": "半導体株、感謝祭明けにAI期待で急反発",
-      "summary": "27日の米国市場では、SanDisk、Micron、AMDなど半導体株が広範なAI期待を背景に急反発した。",
-      "source": "The Motley Fool",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/11/27/stock-market-today-nov-27-chip-stocks-rebound-sharply-on-broad-ai-enthusiasm/"
+      "title": "シャオミ、イヤーカフ型完全ワイヤレス「Xiaomi Clip」など3製品を日本で発売",
+      "summary": "シャオミ・ジャパンは11月27日、片耳5.5gのイヤーカフ型イヤホン「Xiaomi Clip」、スマートウォッチ「Watch S5 41mm」、スマートバンド「Smart Band 11」の数量限定カラーを発売した。",
+      "source": "ケータイ Watch",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2157255.html"
     },
     {
-      "title": "米の新関税案、半導体・スマホ・PCは対象外 TSMC株上昇",
-      "summary": "米USTRが示した新たな対台湾関税案では半導体やスマートフォン、PCが対象から外れる内容とされ、TSMC株が上昇した(27日報道)。",
-      "source": "GuruFocus",
-      "link": "https://gurufocus.com/news/9228776/tsmc-stocks-climb-184-as-us-tariff-proposal-leaves-chips-off-the-list"
-    },
-    {
-      "title": "半導体スタートアップAltair Semiconductor、シリーズAで1億ドル調達",
-      "summary": "Altair SemiconductorがMaverick Silicon主導のシリーズAラウンドで1億ドルを調達したと報じられた(27日付資金調達ニュースまとめより)。",
-      "source": "TechStartups",
-      "link": "https://techstartups.com/2026/11/27/startup-funding-news-today-november-27-2026-altair-semiconductor-zerith-vector-singularity-more/"
-    },
-    {
-      "title": "Anthropic株、IPO後に急落 ウォール街の評価は強弱入り混じる",
-      "summary": "Anthropicの株価はIPO後の高値から28%下落し、アナリストの見方は強気(Wedbush・Canaccordなど)と弱気(目標株価59ドルとの報道)に分かれていると報じられた(27日)。",
-      "source": "The Motley Fool",
-      "link": "https://www.fool.com/investing/2026/11/27/anthropic-stock-down-28-wall-street-this-happens-next/"
+      "title": "富士フイルム、タッチパネル初搭載のハイブリッドチェキ新機種「instax mini Evo 2」を発売",
+      "summary": "富士フイルムは11月27日、ハイブリッドインスタントカメラ「instax mini Evo 2」を発売した。4.5インチの大型液晶タッチパネルをシリーズ初採用し、最大1300万画素での撮影に対応する。",
+      "source": "富士フイルム",
+      "link": "https://www.fujifilm.com/jp/ja/news/list/14132"
     }
   ],
   "x_trending_tech": []
